@@ -102,6 +102,7 @@ walk(countriesEUSplit, function(c){
       poly_max,
       min_circle
     ) %>% 
+      st_transform(4326) %>% 
       select(COMM_NAME, type, fl, fl_nchar, area, circliness) -> final_data
     
     
