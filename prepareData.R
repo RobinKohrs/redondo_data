@@ -51,9 +51,8 @@ fn_calculate_metrics <- function(sf_poly) {
   # 100% = perfect match, decreasing as it deviates
   val_mobile_fit <- (1 - abs(val_ar - val_target_ar)) * 100
 
-  # Geometries for visual verification (optional, keeping minimal for JSON size)
-  # We return the metrics attached to the original polygon
-  sf_poly %>%
+  # Create base object with metrics
+  sf_base <- sf_poly %>%
     mutate(
       metric_roundness = round(val_roundness, 2),
       metric_rectangularity = round(val_rectangularity, 2),
@@ -61,6 +60,24 @@ fn_calculate_metrics <- function(sf_poly) {
       metric_aspect_ratio = round(val_ar, 3),
       metric_area_km2 = round(val_area_poly / 1e6, 2)
     )
+
+  # Prepare output geometries
+  # Main feature
+  sf_main <- sf_base %>%
+    mutate(feature_type = "entity")
+
+  # Circle feature
+  sf_circle_feat <- sf_base %>%
+    st_set_geometry(st_geometry(sf_circle)) %>%
+    mutate(feature_type = "circle")
+
+  # MRR feature
+  sf_mrr_feat <- sf_base %>%
+    st_set_geometry(st_geometry(sf_mrr)) %>%
+    mutate(feature_type = "mrr")
+
+  # Combine all geometries into one sf object
+  bind_rows(sf_main, sf_circle_feat, sf_mrr_feat)
 }
 
 # Function to save individual feature and update index
@@ -125,6 +142,7 @@ fn_process_and_save <- function(
       st_transform(4326) %>%
       select(
         name = all_of(txt_name_col),
+        feature_type,
         starts_with("metric_")
       )
 
@@ -150,14 +168,15 @@ fn_process_and_save <- function(
     }
 
     # Add to index list
+    # Use [1] since sf_export contains multiple features (entity, circle, mrr) with same metrics
     lst_index_entries[[length(lst_index_entries) + 1]] <- data.frame(
       category = txt_category,
       name = txt_name,
       slug = txt_name_clean,
       prefix = txt_prefix,
-      roundness = sf_export$metric_roundness,
-      rectangularity = sf_export$metric_rectangularity,
-      mobile_fit = sf_export$metric_mobile_fit
+      roundness = sf_export$metric_roundness[1],
+      rectangularity = sf_export$metric_rectangularity[1],
+      mobile_fit = sf_export$metric_mobile_fit[1]
     )
   }
 
