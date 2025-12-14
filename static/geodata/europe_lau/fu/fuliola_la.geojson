@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fuliola_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fuliola, La", "metric_roundness": 62.13, "metric_rectangularity": 73.04, "metric_mobile_fit": 33.12, "metric_aspect_ratio": 1.231, "metric_area_km2": 19.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9831015, 41.73177 ], [ 0.9820368, 41.7133764 ], [ 0.9742105, 41.7063535 ], [ 0.997111, 41.6986514 ], [ 1.0147329, 41.7055113 ], [ 1.0227425, 41.712502 ], [ 1.0288395, 41.7173235 ], [ 1.0241496, 41.7261769 ], [ 1.0051783, 41.7314424 ], [ 0.9843385, 41.731698 ], [ 0.9831015, 41.73177 ] ] ] } }
+]
+}

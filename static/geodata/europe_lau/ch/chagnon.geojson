@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chagnon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chagnon", "metric_roundness": 41.32, "metric_rectangularity": 58.09, "metric_mobile_fit": 17.6, "metric_aspect_ratio": 1.387, "metric_area_km2": 4.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5361105, 45.53848 ], [ 4.538642, 45.534516 ], [ 4.54132, 45.532617499999986 ], [ 4.5432085, 45.5318155 ], [ 4.547682, 45.5315925 ], [ 4.5499595, 45.530917 ], [ 4.554782, 45.526636499999981 ], [ 4.5655226, 45.525796199999988 ], [ 4.5668558, 45.5325226 ], [ 4.5613694, 45.535617 ], [ 4.5590485, 45.541329 ], [ 4.548023, 45.540136 ], [ 4.5453355, 45.538569 ], [ 4.5361105, 45.53848 ] ] ] } }
+]
+}

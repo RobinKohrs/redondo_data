@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dachwig",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dachwig", "metric_roundness": 73.82, "metric_rectangularity": 80.67, "metric_mobile_fit": 55.02, "metric_aspect_ratio": 1.012, "metric_area_km2": 33.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.8653265, 51.061105 ], [ 10.886509, 51.0665592 ], [ 10.8910155, 51.071621 ], [ 10.8870415, 51.084842 ], [ 10.8825188, 51.0861072 ], [ 10.880309, 51.0982525 ], [ 10.8357725, 51.0948035 ], [ 10.8305813, 51.083472099999987 ], [ 10.832247, 51.0734315 ], [ 10.861483, 51.060748 ], [ 10.8653265, 51.061105 ] ] ] } }
+]
+}

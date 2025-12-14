@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heuchelheim_bei_frankenthal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heuchelheim bei Frankenthal", "metric_roundness": 36.11, "metric_rectangularity": 47.2, "metric_mobile_fit": 94.85, "metric_aspect_ratio": 0.614, "metric_area_km2": 13.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.3173965, 49.566574 ], [ 8.3092408, 49.564639399999983 ], [ 8.3023854, 49.5714701 ], [ 8.2957493, 49.572860599999984 ], [ 8.288022, 49.5878375 ], [ 8.2831175, 49.5869315 ], [ 8.281007, 49.586764 ], [ 8.2799392, 49.563050099999984 ], [ 8.2825055, 49.558047 ], [ 8.2835847, 49.551175199999989 ], [ 8.2806075, 49.5482715 ], [ 8.2958391, 49.5500214 ], [ 8.296712, 49.555118799999981 ], [ 8.307719, 49.558836 ], [ 8.3173965, 49.566574 ] ] ] } }
+]
+}

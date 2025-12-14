@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sabariz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sabariz", "metric_roundness": 69.91, "metric_rectangularity": 75.64, "metric_mobile_fit": 52.08, "metric_aspect_ratio": 1.042, "metric_area_km2": 3.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.420081, 41.6622555 ], [ -8.425691, 41.6553615 ], [ -8.4213055, 41.6489462 ], [ -8.4153435, 41.646906 ], [ -8.4042915, 41.65045 ], [ -8.407872, 41.659524499999989 ], [ -8.420081, 41.6622555 ] ] ] } }
+]
+}

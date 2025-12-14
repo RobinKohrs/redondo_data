@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_loup_de_varennes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Loup-de-Varennes", "metric_roundness": 29.89, "metric_rectangularity": 66.04, "metric_mobile_fit": 33.78, "metric_aspect_ratio": 1.225, "metric_area_km2": 18.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8819197, 46.736128 ], [ 4.882912, 46.740968499999987 ], [ 4.878001, 46.7409425 ], [ 4.8734085, 46.7393345 ], [ 4.864686, 46.7389875 ], [ 4.859636, 46.737388499999987 ], [ 4.85499, 46.7374455 ], [ 4.827254, 46.720817 ], [ 4.826549, 46.7154765 ], [ 4.8253305, 46.713162 ], [ 4.820513, 46.708001499999988 ], [ 4.8431261, 46.704597399999983 ], [ 4.8418295, 46.7111034 ], [ 4.885488, 46.731729499999986 ], [ 4.8819197, 46.736128 ] ] ] } }
+]
+}

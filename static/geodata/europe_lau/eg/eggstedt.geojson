@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eggstedt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eggstedt", "metric_roundness": 65.92, "metric_rectangularity": 75.93, "metric_mobile_fit": 82.86, "metric_aspect_ratio": 0.734, "metric_area_km2": 36.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2895155, 54.0429095 ], [ 9.2876132, 54.0501444 ], [ 9.2811058, 54.069772 ], [ 9.2723356, 54.0757775 ], [ 9.2552365, 54.078514 ], [ 9.2453245, 54.074768 ], [ 9.2344927, 54.0630575 ], [ 9.2358189, 54.0501444 ], [ 9.23609, 54.045814 ], [ 9.240836, 54.043229499999988 ], [ 9.258441, 54.040011899999989 ], [ 9.265902, 54.034506 ], [ 9.285186, 54.038468 ], [ 9.2895155, 54.0429095 ] ] ] } }
+]
+}

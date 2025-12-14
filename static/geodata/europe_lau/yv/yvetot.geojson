@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "yvetot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Yvetot", "metric_roundness": 37.74, "metric_rectangularity": 56.15, "metric_mobile_fit": 31.38, "metric_aspect_ratio": 1.249, "metric_area_km2": 17.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7471775, 49.634827 ], [ 0.741623, 49.6326 ], [ 0.736537, 49.632057499999988 ], [ 0.7397649, 49.6195722 ], [ 0.7436985, 49.614874499999985 ], [ 0.7461005, 49.6089375 ], [ 0.7521815, 49.605276 ], [ 0.7623025, 49.601767 ], [ 0.7728919, 49.6097639 ], [ 0.7886026, 49.612552799999989 ], [ 0.797165, 49.609666 ], [ 0.800254, 49.614511 ], [ 0.7738198, 49.6206767 ], [ 0.749307, 49.634154 ], [ 0.7471775, 49.634827 ] ] ] } }
+]
+}

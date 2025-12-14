@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_aybert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Aybert", "metric_roundness": 37.3, "metric_rectangularity": 55.02, "metric_mobile_fit": 59.49, "metric_aspect_ratio": 0.968, "metric_area_km2": 9.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.668792, 50.4364435 ], [ 3.6604928, 50.444612899999974 ], [ 3.6631859, 50.453981899999988 ], [ 3.65551, 50.461735499999982 ], [ 3.643606, 50.4631615 ], [ 3.6281905, 50.456277 ], [ 3.638658, 50.452837 ], [ 3.648504, 50.447241 ], [ 3.648795, 50.444940499999987 ], [ 3.641985, 50.44084 ], [ 3.668792, 50.4364435 ] ] ] } }
+]
+}

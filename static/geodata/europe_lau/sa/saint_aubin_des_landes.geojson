@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_aubin_des_landes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Aubin-des-Landes", "metric_roundness": 44.39, "metric_rectangularity": 71.46, "metric_mobile_fit": 29.49, "metric_aspect_ratio": 1.268, "metric_area_km2": 23.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.2683142, 48.0878948 ], [ -1.258541, 48.099828 ], [ -1.2684974, 48.100809399999982 ], [ -1.2742898, 48.107468499999989 ], [ -1.2990535, 48.1153225 ], [ -1.3163247, 48.1169357 ], [ -1.32848, 48.108681 ], [ -1.3230572, 48.1077809 ], [ -1.314373, 48.098617299999987 ], [ -1.2990404, 48.0940416 ], [ -1.2849208, 48.082619899999983 ], [ -1.2740515, 48.080088 ], [ -1.2725995, 48.0814375 ], [ -1.26829, 48.0813 ], [ -1.2683142, 48.0878948 ] ] ] } }
+]
+}

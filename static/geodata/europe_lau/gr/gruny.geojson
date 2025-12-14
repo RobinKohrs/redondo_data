@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gruny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gruny", "metric_roundness": 67.39, "metric_rectangularity": 76.67, "metric_mobile_fit": 26.14, "metric_aspect_ratio": 1.301, "metric_area_km2": 17.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7977305, 49.719053 ], [ 2.801936, 49.7169715 ], [ 2.80415, 49.716738 ], [ 2.831129, 49.7132255 ], [ 2.8397105, 49.721214499999988 ], [ 2.8423616, 49.7266973 ], [ 2.8323875, 49.7371945 ], [ 2.8296455, 49.734621 ], [ 2.8029495, 49.7387855 ], [ 2.7983395, 49.735671 ], [ 2.7968088, 49.7277834 ], [ 2.7909165, 49.725383 ], [ 2.792391, 49.7197105 ], [ 2.7977305, 49.719053 ] ] ] } }
+]
+}

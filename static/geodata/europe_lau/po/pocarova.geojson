@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pocarova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Počarová", "metric_roundness": 39.28, "metric_rectangularity": 66.96, "metric_mobile_fit": -51.91, "metric_aspect_ratio": 2.082, "metric_area_km2": 5.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.533463, 49.066649 ], [ 18.5268361, 49.071670499999982 ], [ 18.496918, 49.071403499999988 ], [ 18.4959695, 49.0708425 ], [ 18.5005315, 49.0638378 ], [ 18.512407, 49.059869 ], [ 18.533463, 49.066649 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "strojetice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Strojetice", "metric_roundness": 49.42, "metric_rectangularity": 65.13, "metric_mobile_fit": 21.4, "metric_aspect_ratio": 1.348, "metric_area_km2": 12.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.0709085, 49.6448925 ], [ 15.0768026, 49.645718899999977 ], [ 15.082705, 49.655958599999984 ], [ 15.08893, 49.6608245 ], [ 15.0870495, 49.662744 ], [ 15.0762428, 49.661195299999974 ], [ 15.06635, 49.6662295 ], [ 15.0623823, 49.6621927 ], [ 15.0529582, 49.659682699999983 ], [ 15.0461191, 49.657861199999985 ], [ 15.0418325, 49.649468 ], [ 15.0529582, 49.643618599999989 ], [ 15.0709085, 49.6448925 ] ] ] } }
+]
+}

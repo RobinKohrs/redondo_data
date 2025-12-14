@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martres_de_riviere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martres-de-Rivière", "metric_roundness": 49.94, "metric_rectangularity": 59.95, "metric_mobile_fit": 72.08, "metric_aspect_ratio": 0.842, "metric_area_km2": 6.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.6389765, 43.0907105 ], [ 0.6336325, 43.086528 ], [ 0.627483, 43.080545 ], [ 0.6392895, 43.0755475 ], [ 0.6452245, 43.07379 ], [ 0.6492505, 43.0748425 ], [ 0.6517365, 43.0715925 ], [ 0.65471, 43.0709115 ], [ 0.6562164, 43.0795492 ], [ 0.651064, 43.095844 ], [ 0.6389765, 43.0907105 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sarragachies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sarragachies", "metric_roundness": 54.4, "metric_rectangularity": 70.15, "metric_mobile_fit": 74.73, "metric_aspect_ratio": 0.815, "metric_area_km2": 24.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0307844, 43.7021524 ], [ -0.0292965, 43.706531 ], [ -0.0371162, 43.702836399999981 ], [ -0.0548753, 43.7020179 ], [ -0.0647305, 43.695481 ], [ -0.0746275, 43.6908869 ], [ -0.0745865, 43.67064 ], [ -0.055935, 43.667849499999988 ], [ -0.0499712, 43.664176099999978 ], [ -0.038149, 43.664395 ], [ -0.033262, 43.664627499999987 ], [ -0.0358026, 43.6756241 ], [ -0.026882, 43.694065499999986 ], [ -0.0307844, 43.7021524 ] ] ] } }
+]
+}

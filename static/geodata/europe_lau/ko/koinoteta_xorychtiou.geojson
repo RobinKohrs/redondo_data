@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_xorychtiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ξορυχτίου", "metric_roundness": 44.99, "metric_rectangularity": 73.63, "metric_mobile_fit": -12.25, "metric_aspect_ratio": 1.685, "metric_area_km2": 11.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.1694995, 39.3530059 ], [ 23.18436, 39.351693499999989 ], [ 23.2075405, 39.3643035 ], [ 23.2049165, 39.374027 ], [ 23.1796734, 39.3711845 ], [ 23.158867, 39.361829 ], [ 23.1609135, 39.355134 ], [ 23.1694995, 39.3530059 ] ] ] } }
+]
+}

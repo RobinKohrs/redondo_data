@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "malmerspach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malmerspach", "metric_roundness": 34.21, "metric_rectangularity": 66.4, "metric_mobile_fit": 13.37, "metric_aspect_ratio": 1.429, "metric_area_km2": 5.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0160781, 47.85003 ], [ 7.0438455, 47.866077 ], [ 7.0238969, 47.8668755 ], [ 7.0132095, 47.863270499999985 ], [ 7.007973, 47.853441499999988 ], [ 7.0160781, 47.85003 ] ] ] } }
+]
+}

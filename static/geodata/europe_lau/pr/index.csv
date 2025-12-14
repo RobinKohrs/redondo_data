@@ -1,0 +1,726 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Příluka,priluka,pr,72.03,73.25,40.86
+europe_lau,Příkosice,prikosice,pr,67.62,73.28,62.4
+europe_lau,Prostřední Poříčí,prostredni_porici,pr,43.78,60.29,29.27
+europe_lau,Pram,pram,pr,52.99,63.89,40.72
+europe_lau,Přelouč,prelouc,pr,38.5,50,6.62
+europe_lau,Přelovice,prelovice,pr,62.48,75.34,72.99
+europe_lau,Přepychy,prepychy,pr,58.82,73.35,86.71
+europe_lau,Pregarten,pregarten,pr,29.6,57.62,86.36
+europe_lau,Přepychy,prepychy,pr,49.53,55.58,69.89
+europe_lau,Přepeře,prepere,pr,50.63,62.01,69.2
+europe_lau,Příkrý,prikry,pr,55.59,66.55,42.28
+europe_lau,Prakšice,praksice,pr,58.42,66.93,50.11
+europe_lau,Prusy-Boškůvky,prusy_boskuvky,pr,42.27,50.04,34.56
+europe_lau,Prace,prace,pr,51.94,63.71,70.9
+europe_lau,Pravlov,pravlov,pr,38.73,57.1,72.87
+europe_lau,Prštice,prstice,pr,34.65,64.56,43.78
+europe_lau,Příbram na Moravě,pribram_na_morave,pr,39.98,57.78,-15.56
+europe_lau,Přibyslavice,pribyslavice,pr,57.76,65.13,44.8
+europe_lau,Přísnotice,prisnotice,pr,48.51,66.74,71.29
+europe_lau,Přibice,pribice,pr,38.68,69.16,88.18
+europe_lau,Přítluky,pritluky,pr,54.85,61.16,74.24
+europe_lau,Provodov,provodov,pr,54.88,68.41,23.64
+europe_lau,Prušánky,prusanky,pr,44.13,57.88,78.59
+europe_lau,Prasklice,prasklice,pr,39.36,72.61,89.23
+europe_lau,Prosečné,prosecne,pr,50.31,60.74,68.1
+europe_lau,Přívrat,privrat,pr,60.78,64.7,54.56
+europe_lau,Pravčice,pravcice,pr,48.19,76.3,98.96
+europe_lau,Prusinovice,prusinovice,pr,51.34,58.92,75.53
+europe_lau,Prostějov,prostejov,pr,37.7,51.32,33.97
+europe_lau,Předín,predin,pr,32,51.27,56
+europe_lau,Přešovice,presovice,pr,66.21,71.12,82
+europe_lau,Přibyslavice,pribyslavice,pr,56.72,60.94,47.68
+europe_lau,Prostějovičky,prostejovicky,pr,60.79,67.68,52.64
+europe_lau,Protivanov,protivanov,pr,59.7,76.64,33.35
+europe_lau,Přemyslovice,premyslovice,pr,47.82,58.33,58.35
+europe_lau,Přeckov,preckov,pr,38.66,57.4,38.21
+europe_lau,Prosetín,prosetin,pr,57.73,67.03,77.24
+europe_lau,Přerubenice,prerubenice,pr,35.01,65.73,-74.68
+europe_lau,Příbor,pribor,pr,52.82,69.97,32.65
+europe_lau,Práče,prace,pr,46.83,69.62,81.16
+europe_lau,Pravice,pravice,pr,55.48,61.01,46.54
+europe_lau,Prokopov,prokopov,pr,43.05,70.38,45.01
+europe_lau,Prosiměřice,prosimerice,pr,48.4,63.75,42.43
+europe_lau,Pramet,pramet,pr,56.87,66.76,68.58
+europe_lau,Prasdorf,prasdorf,pr,55.17,76.46,84.61
+europe_lau,"Preetz, Stadt",preetz_stadt,pr,39.52,50.93,78.9
+europe_lau,Probsteierhagen,probsteierhagen,pr,56.48,57.58,70
+europe_lau,Prinzenmoor,prinzenmoor,pr,45.53,68.01,97.9
+europe_lau,Prisdorf,prisdorf,pr,49.1,64.65,93.56
+europe_lau,Pronstorf,pronstorf,pr,52.07,62.86,73.87
+europe_lau,Prezelle,prezelle,pr,54.35,66.87,10.87
+europe_lau,"Preußisch Oldendorf, Stadt",preussisch_oldendorf_stadt,pr,44.68,69.24,81.38
+europe_lau,Preding,preding,pr,41.86,50.22,71.94
+europe_lau,Prinzhöfte,prinzhofte,pr,30.97,52.89,50.25
+europe_lau,Premstätten,premstatten,pr,52.84,71.04,37.92
+europe_lau,Pracht,pracht,pr,48.39,73.9,-11.36
+europe_lau,Proleb,proleb,pr,68.99,76.85,64.66
+europe_lau,Preist,preist,pr,49.08,57.18,19.55
+europe_lau,Prümzurlay,prumzurlay,pr,57.78,67.02,70.59
+europe_lau,Prath,prath,pr,44.81,61.3,80.73
+europe_lau,Preischeid,preischeid,pr,59.05,71.22,41.04
+europe_lau,Pronsfeld,pronsfeld,pr,40.37,55.78,56.71
+europe_lau,"Prüm, Stadt",prum_stadt,pr,41.03,59.71,38.64
+europe_lau,Prackenbach,prackenbach,pr,55.41,63.27,61.66
+europe_lau,Prittriching,prittriching,pr,43.25,61.13,94.75
+europe_lau,Prem,prem,pr,53.92,63.62,61.85
+europe_lau,"Pressath, St",pressath_st,pr,51.8,60.69,78.28
+europe_lau,"Prien a.Chiemsee, M",prien_a_chiemsee_m,pr,45.25,62.54,34.6
+europe_lau,Prutting,prutting,pr,35.88,52.02,0.34
+europe_lau,Priestewitz,priestewitz,pr,55.87,70.7,9.5
+europe_lau,Probstzella,probstzella,pr,40.2,51.3,48.55
+europe_lau,"Premnitz, Stadt",premnitz_stadt,pr,56.65,62,70.39
+europe_lau,Prötzel,protzel,pr,47.91,52.27,41.14
+europe_lau,Prado del Rey,prado_del_rey,pr,45.21,72.31,79.53
+europe_lau,Prádanos de Bureba,pradanos_de_bureba,pr,55.24,74.84,16.46
+europe_lau,Pradoluengo,pradoluengo,pr,34.5,63.78,73.14
+europe_lau,Presencio,presencio,pr,44.46,61.32,-12.72
+europe_lau,Pradosegar,pradosegar,pr,52.23,66.82,69.54
+europe_lau,Profondeville,profondeville,pr,39.23,57.11,-12.38
+europe_lau,Premià de Dalt,premia_de_dalt,pr,37.81,61.96,51.39
+europe_lau,Правец,pravec,pr,58.57,74.87,66.45
+europe_lau,Priego,priego,pr,46.79,63.59,64.39
+europe_lau,"Provencio, El",provencio_el,pr,60.08,68.14,80.54
+europe_lau,"Prat de Llobregat, El",prat_de_llobregat_el,pr,51.97,61.11,56.86
+europe_lau,"Prats de Rei, Els",prats_de_rei_els,pr,18.77,37.2,-83.08
+europe_lau,Prats de Lluçanès,prats_de_llucanes,pr,43.97,71.34,67.09
+europe_lau,Premià de Mar,premia_de_mar,pr,30.32,66.59,-37.7
+europe_lau,Провадия,provadia,pr,53.94,63.4,21.92
+europe_lau,"Preses, Les",preses_les,pr,55.05,62.64,71.08
+europe_lau,Priego de Córdoba,priego_de_cordoba,pr,42.41,58.62,71.98
+europe_lau,Prebitz,prebitz,pr,38.17,58.26,-7.68
+europe_lau,Prüll,prull,pr,38.17,65.82,2.48
+europe_lau,Prebberede,prebberede,pr,50.71,68.61,85.62
+europe_lau,"Pretzfeld, M",pretzfeld_m,pr,55.09,60.01,43.52
+europe_lau,"Pressig, M",pressig_m,pr,43.08,58.09,91.95
+europe_lau,Prosselsheim,prosselsheim,pr,51.83,58.08,62.19
+europe_lau,"Pritzwalk, Stadt",pritzwalk_stadt,pr,55.3,62.82,61.1
+europe_lau,Preetz,preetz,pr,49.55,60.46,49.06
+europe_lau,Prerow,prerow,pr,36.92,69,-45.28
+europe_lau,Prohn,prohn,pr,39.37,55.06,-5.01
+europe_lau,Pruchten,pruchten,pr,32.8,49.69,64.62
+europe_lau,"Presseck, M",presseck_m,pr,43.1,51.09,21.34
+europe_lau,"Prenzlau, Stadt",prenzlau_stadt,pr,54.8,62.69,79.41
+europe_lau,Prägraten am Großvenediger,pragraten_am_grossvenediger,pr,65.02,70.13,48.85
+europe_lau,Prutz,prutz,pr,27.94,41.46,64.6
+europe_lau,Pragsdorf,pragsdorf,pr,50.84,76.86,72.33
+europe_lau,Priborn,priborn,pr,49.76,57.49,62.77
+europe_lau,Priepert,priepert,pr,57.58,65.55,56.29
+europe_lau,Pripsleben,pripsleben,pr,25.18,48.17,92.38
+europe_lau,Приморско,primorsko,pr,53.73,62.16,58.62
+europe_lau,Prislich,prislich,pr,42.61,57.93,51.04
+europe_lau,Pritzier,pritzier,pr,54.95,76.13,79.08
+europe_lau,Priesendorf,priesendorf,pr,46.84,64.97,81.78
+europe_lau,"Prichsenstadt, St",prichsenstadt_st,pr,46.81,52.22,42.69
+europe_lau,PRRENJAS,prrenjas,pr,37.91,61.63,64.12
+europe_lau,Prilly,prilly,pr,31.52,62.69,85.26
+europe_lau,Prats-de-Carlux,prats_de_carlux,pr,57.26,72.57,87.96
+europe_lau,Prats-du-Périgord,prats_du_perigord,pr,52.09,66.22,51.35
+europe_lau,Pressignac-Vicq,pressignac_vicq,pr,47.2,61.6,16.21
+europe_lau,Preyssac-d'Excideuil,preyssac_d_excideuil,pr,51.48,70.74,21.1
+europe_lau,Prigonrieux,prigonrieux,pr,45.91,63.77,72.52
+europe_lau,Proissans,proissans,pr,53.77,63.59,47.87
+europe_lau,Pressagny-l'Orgueilleux,pressagny_l_orgueilleux,pr,60.86,81.28,44.61
+europe_lau,Prey,prey,pr,54.62,69.99,61.42
+europe_lau,Prades,prades,pr,55.13,69.08,36.95
+europe_lau,Pradons,pradons,pr,50.98,65.73,43.37
+europe_lau,Pranles,pranles,pr,56.17,70.15,45.54
+europe_lau,Préaux,preaux,pr,46.16,64.05,25.16
+europe_lau,Privas,privas,pr,45.74,58.9,84.38
+europe_lau,Prunet,prunet,pr,42.87,67.71,-7.25
+europe_lau,Prads-Haute-Bléone,prads_haute_bleone,pr,49.76,70.48,86.08
+europe_lau,Pratteln,pratteln,pr,44.35,62.61,59.61
+europe_lau,Prâlon,pralon,pr,39.57,57.89,84.33
+europe_lau,Précy-sous-Thil,precy_sous_thil,pr,43.8,63.66,93.11
+europe_lau,Premeaux-Prissey,premeaux_prissey,pr,32.35,63.32,73.19
+europe_lau,Prenois,prenois,pr,51.56,67.88,81.66
+europe_lau,Prusly-sur-Ource,prusly_sur_ource,pr,45.11,68.3,86.18
+europe_lau,Prades-d'Aubrac,prades_d_aubrac,pr,24.28,57.27,78.85
+europe_lau,Prades-Salars,prades_salars,pr,51.42,67.92,75.52
+europe_lau,Pradinas,pradinas,pr,38.36,68.49,90.55
+europe_lau,Prévinquières,previnquieres,pr,37.22,61.94,35.48
+europe_lau,Privezac,privezac,pr,30.58,49.94,38.32
+europe_lau,Pruines,pruines,pr,64.15,73.97,18.08
+europe_lau,Provence,provence,pr,50.95,67.8,39.29
+europe_lau,Précy,precy,pr,41.46,58.58,59.2
+europe_lau,Presly,presly,pr,42.58,63.65,-13.32
+europe_lau,Preuilly,preuilly,pr,48.84,62.66,78.88
+europe_lau,Préveranges,preveranges,pr,49.84,66.03,51.98
+europe_lau,Primelles,primelles,pr,36.71,64.77,60.04
+europe_lau,Préguillac,preguillac,pr,27.28,55.37,80.45
+europe_lau,Prignac,prignac,pr,35.19,56.76,-0.26
+europe_lau,Prunières,prunieres,pr,32.56,66.1,97.51
+europe_lau,Prémilhat,premilhat,pr,49.14,63.94,80.86
+europe_lau,Pradelles-Cabardès,pradelles_cabardes,pr,56.41,63.89,68.66
+europe_lau,Preixan,preixan,pr,44.8,66.15,-12.35
+europe_lau,Présentevillers,presentevillers,pr,42.83,63.24,27.63
+europe_lau,Provenchère,provenchere,pr,40.95,53.21,82.24
+europe_lau,Prémeyzel,premeyzel,pr,48.45,72.92,51.8
+europe_lau,Prémillieu,premillieu,pr,46.88,62.2,34.92
+europe_lau,Prévessin-Moëns,prevessin_moens,pr,38.23,53.97,80.25
+europe_lau,Préaux-Bocage,preaux_bocage,pr,60.99,87.65,58.1
+europe_lau,Prêtreville,pretreville,pr,43.28,56.67,1.65
+europe_lau,Prades,prades,pr,61.08,62.95,69.7
+europe_lau,Pradettes,pradettes,pr,61.36,71.17,29.2
+europe_lau,Pradières,pradieres,pr,35.9,73.38,-8.19
+europe_lau,Prat-Bonrepaux,prat_bonrepaux,pr,51.17,59.76,56.04
+europe_lau,Prayols,prayols,pr,31.21,69.25,-60.49
+europe_lau,Prádena,pradena,pr,31.86,58.69,92.25
+europe_lau,Prez,prez,pr,53.16,66.96,81.93
+europe_lau,Prix-lès-Mézières,prix_les_mezieres,pr,50.37,59.28,58.46
+europe_lau,Prádanos de Ojeda,pradanos_de_ojeda,pr,39.87,66.97,96.32
+europe_lau,Prádena de Atienza,pradena_de_atienza,pr,64.01,69.6,19.66
+europe_lau,Prados Redondos,prados_redondos,pr,36.79,54.9,-25.17
+europe_lau,Prats i Sansor,prats_i_sansor,pr,62.97,64.18,50.97
+europe_lau,Preixana,preixana,pr,52.7,63.98,27.34
+europe_lau,Preixens,preixens,pr,38.84,64.85,53.95
+europe_lau,Prullans,prullans,pr,40.86,52.55,89.11
+europe_lau,Prádena del Rincón,pradena_del_rincon,pr,42.71,52.39,23.1
+europe_lau,Pradell de la Teixeta,pradell_de_la_teixeta,pr,31.83,60.22,60.89
+europe_lau,Prades,prades,pr,35.5,50.42,0.06
+europe_lau,Prat de Comte,prat_de_comte,pr,46.21,62.92,59.42
+europe_lau,Pratdip,pratdip,pr,69.54,74.33,48.17
+europe_lau,Prado,prado,pr,59.3,73.91,34.03
+europe_lau,Pruna,pruna,pr,65.21,73.41,60.12
+europe_lau,Prévondavaux,prevondavaux,pr,49.58,80.06,-17.07
+europe_lau,Prémont,premont,pr,52.07,60.76,32.21
+europe_lau,Prémontré,premontre,pr,46.95,67.37,81.32
+europe_lau,Presles-et-Boves,presles_et_boves,pr,49.23,68.16,30.7
+europe_lau,Presles-et-Thierny,presles_et_thierny,pr,47.35,75.22,74.56
+europe_lau,Priez,priez,pr,43.5,79.2,-12.86
+europe_lau,Prisces,prisces,pr,42.03,56.7,34.15
+europe_lau,Proisy,proisy,pr,28.69,53.56,73.85
+europe_lau,Proix,proix,pr,60.15,77.5,32.16
+europe_lau,Prouvais,prouvais,pr,55.22,63.86,75.54
+europe_lau,Proviseux-et-Plesnoy,proviseux_et_plesnoy,pr,47.91,66.04,93.83
+europe_lau,Praslin,praslin,pr,28.26,61.59,30.99
+europe_lau,Précy-Notre-Dame,precy_notre_dame,pr,36.81,57.21,99.83
+europe_lau,Précy-Saint-Martin,precy_saint_martin,pr,41.1,58.94,26.7
+europe_lau,Prémierfait,premierfait,pr,50.9,68.41,24.27
+europe_lau,Proverville,proverville,pr,68.67,73.74,56.66
+europe_lau,Prugny,prugny,pr,57.35,72.78,48.41
+europe_lau,Prunay-Belleville,prunay_belleville,pr,70.13,71.66,44.37
+europe_lau,Prusy,prusy,pr,47.74,61.4,35.75
+europe_lau,Pradilla de Ebro,pradilla_de_ebro,pr,27.43,74.07,-142.71
+europe_lau,Pradiers,pradiers,pr,55,68.87,88.44
+europe_lau,Prunet,prunet,pr,38.68,46.89,48.2
+europe_lau,Pradejón,pradejon,pr,36.29,51.45,76.1
+europe_lau,Pradillo,pradillo,pr,57.45,65.09,60.47
+europe_lau,Préjano,prejano,pr,70,72.02,68.91
+europe_lau,Preitenegg,preitenegg,pr,28.91,49.87,75.56
+europe_lau,Prado de la Guzpeña,prado_de_la_guzpena,pr,46.45,63.05,47.56
+europe_lau,Priaranza del Bierzo,priaranza_del_bierzo,pr,29.73,41.22,64.93
+europe_lau,Prioro,prioro,pr,56.51,63.44,32.08
+europe_lau,Pravia,pravia,pr,61.64,64.18,59.89
+europe_lau,Proaza,proaza,pr,53.1,68.99,75.76
+europe_lau,Précy-sur-Oise,precy_sur_oise,pr,65.52,68.99,43.68
+europe_lau,Prévillers,previllers,pr,45,58.46,70.21
+europe_lau,Pronleroy,pronleroy,pr,55.95,63.53,64.64
+europe_lau,Praye,praye,pr,52.73,58.99,41.76
+europe_lau,Prény,preny,pr,29.79,48.78,-42.71
+europe_lau,Preutin-Higny,preutin_higny,pr,46.41,67.83,35.91
+europe_lau,Prinsuéjols-Malbouzon,prinsuejols_malbouzon,pr,50.11,66.73,64.35
+europe_lau,Prévenchères,prevencheres,pr,42.72,48.96,76.02
+europe_lau,Prunières,prunieres,pr,45.37,61.3,91.64
+europe_lau,Préchacq-les-Bains,prechacq_les_bains,pr,63.76,69.56,47.85
+europe_lau,Pradines,pradines,pr,45.84,60.75,70.61
+europe_lau,Prayssac,prayssac,pr,36.41,54.5,96.33
+europe_lau,Prendeignes,prendeignes,pr,40.19,62.55,59.84
+europe_lau,Promilhanes,promilhanes,pr,44.82,66.82,12.9
+europe_lau,Prudhomat,prudhomat,pr,33.08,58.39,-18.17
+europe_lau,Πραστιό Κελλακίου,prastio_kellakiou,pr,63.66,67.43,65.35
+europe_lau,Πραστιό Πάφου,prastio_paphou,pr,40.78,62.03,79.21
+europe_lau,Praslay,praslay,pr,50.05,70.21,65.43
+europe_lau,Pressigny,pressigny,pr,63.45,69.25,41.47
+europe_lau,Prez-sous-Lafauche,prez_sous_lafauche,pr,27.46,64.58,48.66
+europe_lau,Précey,precey,pr,73.64,77.57,46.42
+europe_lau,Pradines,pradines,pr,43.77,71.69,85.97
+europe_lau,Pralong,pralong,pr,45.3,70.27,13.73
+europe_lau,Précieux,precieux,pr,47.89,79.1,10.32
+europe_lau,Πραστιό Αμμοχώστου,prastio_ammochostou,pr,44.05,55.78,69.04
+europe_lau,Préfontaines,prefontaines,pr,62.67,72.8,65.79
+europe_lau,Presnoy,presnoy,pr,49.12,69.02,87.01
+europe_lau,Pressigny-les-Pins,pressigny_les_pins,pr,49.99,72.08,21.48
+europe_lau,Prayssas,prayssas,pr,42.81,54.24,29.39
+europe_lau,Πραιτώρι,praitori,pr,35.81,38.12,72.49
+europe_lau,Přehvozdí,prehvozdi,pr,60.51,64.65,64.73
+europe_lau,Přistoupim,pristoupim,pr,37.59,53.67,93.13
+europe_lau,Préverenges,preverenges,pr,42.94,54.53,36.22
+europe_lau,Préfailles,prefailles,pr,21.29,54.5,-60.91
+europe_lau,Prinquiau,prinquiau,pr,41.28,59.85,92.59
+europe_lau,Pray,pray,pr,54.62,70.4,85.16
+europe_lau,Prunay-Cassereau,prunay_cassereau,pr,59.64,67.28,62.31
+europe_lau,Pruniers-en-Sologne,pruniers_en_sologne,pr,38.89,46.43,59.81
+europe_lau,Příčovy,pricovy,pr,43.08,53.2,52.73
+europe_lau,Πραστιό Αυδήμου,prastio_audemou,pr,59.95,74.13,52.56
+europe_lau,Πρόδρομος,prodromos,pr,53.79,69.98,37.64
+europe_lau,Prée-d'Anjou,pree_d_anjou,pr,41.35,52.72,85.61
+europe_lau,Préaux,preaux,pr,48.18,64.26,73.69
+europe_lau,Pré-en-Pail-Saint-Samson,pre_en_pail_saint_samson,pr,53.77,62.76,75.35
+europe_lau,Pravonín,pravonin,pr,37.66,52.51,-0.45
+europe_lau,Přestavlky u Čerčan,prestavlky_u_cercan,pr,28.42,47.25,93.58
+europe_lau,Prompsat,prompsat,pr,35.66,62.68,-11.44
+europe_lau,Prondines,prondines,pr,61.98,63.45,55.95
+europe_lau,Prasville,prasville,pr,61.52,65.53,62.76
+europe_lau,Pré-Saint-Évroult,pre_saint_evroult,pr,53.3,70.6,8.28
+europe_lau,Pré-Saint-Martin,pre_saint_martin,pr,54.95,65.13,60.25
+europe_lau,Prudemanche,prudemanche,pr,66.35,77.67,52.96
+europe_lau,Prunay-le-Gillon,prunay_le_gillon,pr,57.7,68.13,31.92
+europe_lau,Pradelles,pradelles,pr,48.5,65.31,13.84
+europe_lau,Prades,prades,pr,46.36,65.12,42.32
+europe_lau,Présailles,presailles,pr,58.56,66.06,43.46
+europe_lau,Πραστιό Λευκωσίας,prastio_leukosias,pr,34.35,59.73,86.94
+europe_lau,Pringy,pringy,pr,30.97,77.17,10.03
+europe_lau,Prosnes,prosnes,pr,74.65,74.57,72.13
+europe_lau,Prouilly,prouilly,pr,49.15,61.39,36.45
+europe_lau,Prunay,prunay,pr,67.05,73.9,62.88
+europe_lau,Préchac,prechac,pr,57.96,65.6,66.11
+europe_lau,Preignac,preignac,pr,40.04,64.1,89.27
+europe_lau,Prignac-et-Marcamps,prignac_et_marcamps,pr,40.22,61.36,83.99
+europe_lau,Prades-le-Lez,prades_le_lez,pr,35.15,68.36,96.74
+europe_lau,Prades-sur-Vernazobre,prades_sur_vernazobre,pr,41.18,67.15,51.39
+europe_lau,Prémian,premian,pr,40.69,68.99,82.83
+europe_lau,Prellenkirchen,prellenkirchen,pr,58.01,68.12,62.02
+europe_lau,Pradines,pradines,pr,39.25,56.2,37.73
+europe_lau,Prémanon,premanon,pr,47.87,61.6,64.1
+europe_lau,Présilly,presilly,pr,46.55,72.69,98.84
+europe_lau,Pretin,pretin,pr,42.5,49.47,24.27
+europe_lau,Prato-di-Giovellina,prato_di_giovellina,pr,49.34,63.4,70.09
+europe_lau,Prunelli-di-Casacconi,prunelli_di_casacconi,pr,43.76,67.43,39.82
+europe_lau,Prunelli-di-Fiumorbo,prunelli_di_fiumorbo,pr,35.59,62.15,-0.95
+europe_lau,Pruno,pruno,pr,32.59,58.31,95.92
+europe_lau,Préaux,preaux,pr,67.66,70.24,56.85
+europe_lau,Preuilly-la-Ville,preuilly_la_ville,pr,58.76,68.99,26.83
+europe_lau,Prissac,prissac,pr,61.03,64.41,72.77
+europe_lau,Pruniers,pruniers,pr,51.21,70.99,84.59
+europe_lau,Primelin,primelin,pr,51.18,73.96,-3.41
+europe_lau,Prangins,prangins,pr,60.91,67.47,58.5
+europe_lau,Préserville,preserville,pr,44.58,72.31,59.51
+europe_lau,Proupiary,proupiary,pr,36.62,58.92,99.65
+europe_lau,Prunet,prunet,pr,50.53,77.19,25.15
+europe_lau,Préchac,prechac,pr,39.01,56.53,-5.71
+europe_lau,Préchac-sur-Adour,prechac_sur_adour,pr,44.22,65.73,41.86
+europe_lau,Preignan,preignan,pr,57.27,67.79,79.38
+europe_lau,Préneron,preneron,pr,51.02,69.04,13.86
+europe_lau,Projan,projan,pr,43.59,60.66,96.42
+europe_lau,Prat,prat,pr,40.63,58.93,50.01
+europe_lau,Prato (Leventina),prato_leventina,pr,56.69,66.77,16.65
+europe_lau,Pranzac,pranzac,pr,47.54,70.71,-11.95
+europe_lau,Pressignac,pressignac,pr,54.32,63.14,44.16
+europe_lau,Princé,prince,pr,36.24,67.73,94.68
+europe_lau,Propriano,propriano,pr,37.44,61.18,81.75
+europe_lau,Prévonloup,prevonloup,pr,61.02,66.32,65.65
+europe_lau,Prottes,prottes,pr,57.78,66.94,59.09
+europe_lau,Prébois,prebois,pr,24.8,46.53,86.2
+europe_lau,Presles,presles,pr,53.05,67.37,20.58
+europe_lau,Pressins,pressins,pr,48.25,70.83,78.72
+europe_lau,Primarette,primarette,pr,40.94,63.1,83.7
+europe_lau,Proveysieux,proveysieux,pr,28.29,63.2,91.65
+europe_lau,Prunières,prunieres,pr,41.09,55.41,72.83
+europe_lau,Pradelle,pradelle,pr,48.99,62.56,81.23
+europe_lau,Propiac,propiac,pr,40.57,66.83,27.06
+europe_lau,Preuilly-sur-Claise,preuilly_sur_claise,pr,25.89,63.13,86.06
+europe_lau,Premier,premier,pr,36.45,46.94,11.62
+europe_lau,Pregny-Chambésy,pregny_chambesy,pr,57.39,70.15,83.84
+europe_lau,Presinge,presinge,pr,32.9,54.79,-34.02
+europe_lau,Propières,propieres,pr,53.61,63.01,46.64
+europe_lau,Průhonice,pruhonice,pr,47.84,67.49,43.38
+europe_lau,Proložac,prolozac,pr,40.91,53.57,65.03
+europe_lau,Prades,prades,pr,43.24,66.26,19.55
+europe_lau,Pratviel,pratviel,pr,53.26,69.67,59.39
+europe_lau,Praskolesy,praskolesy,pr,43.58,54.07,86.39
+europe_lau,Pressac,pressac,pr,47.43,56.91,80.15
+europe_lau,Prinçay,princay,pr,62.84,72.42,37.07
+europe_lau,Prouville,prouville,pr,50.15,73.7,44.11
+europe_lau,Prouzel,prouzel,pr,52.32,59.75,22.11
+europe_lau,Proyart,proyart,pr,48.21,52.03,63.96
+europe_lau,Prunay-sur-Essonne,prunay_sur_essonne,pr,34.48,65,-77.33
+europe_lau,Promina,promina,pr,56.97,64.4,67.68
+europe_lau,Pressy-sous-Dondin,pressy_sous_dondin,pr,48.35,73.02,-12.04
+europe_lau,Préty,prety,pr,54.59,76.05,29.98
+europe_lau,Prissé,prisse,pr,53.27,58.8,26.64
+europe_lau,Prizy,prizy,pr,64.13,68.61,38.09
+europe_lau,Pruzilly,pruzilly,pr,57.55,64.77,45.51
+europe_lau,Prey,prey,pr,59.93,76.44,82.38
+europe_lau,Provenchères-lès-Darney,provencheres_les_darney,pr,38.75,60.91,99.87
+europe_lau,Provenchères-et-Colroy,provencheres_et_colroy,pr,50.84,59.32,26.11
+europe_lau,Prostiboř,prostibor,pr,42.9,61.92,16.36
+europe_lau,Pregrada,pregrada,pr,49.13,68.82,43.64
+europe_lau,Preko,preko,pr,21.02,63.99,62.14
+europe_lau,Prelog,prelog,pr,35.91,53.17,-15.69
+europe_lau,Preseka,preseka,pr,55.78,66.18,82.14
+europe_lau,Primošten,primosten,pr,43.3,67.25,4.36
+europe_lau,Přišimasy,prisimasy,pr,57.44,70.7,72.45
+europe_lau,Prosenická Lhota,prosenicka_lhota,pr,50.23,57.88,60.8
+europe_lau,Précy-le-Sec,precy_le_sec,pr,50.99,58.28,55.09
+europe_lau,Précy-sur-Vrin,precy_sur_vrin,pr,53.72,68.26,36.34
+europe_lau,Prégilbert,pregilbert,pr,44.12,68.67,20.45
+europe_lau,Préhy,prehy,pr,48.85,65.53,5.21
+europe_lau,Provency,provency,pr,53.92,74.35,59.39
+europe_lau,Přední Zborovice,predni_zborovice,pr,55.34,68.64,24.59
+europe_lau,Přelíc,prelic,pr,51.42,77.2,70.28
+europe_lau,Příbram,pribram,pr,48.17,54.66,60.81
+europe_lau,Předměřice nad Jizerou,predmerice_nad_jizerou,pr,47.25,60.19,26.58
+europe_lau,Přerov nad Labem,prerov_nad_labem,pr,72.34,73.7,41.61
+europe_lau,Předenice,predenice,pr,58.3,67.45,69.57
+europe_lau,Prameny,prameny,pr,55.32,62.3,63.77
+europe_lau,Prunay-le-Temple,prunay_le_temple,pr,49.86,70.7,68.94
+europe_lau,Prunay-en-Yvelines,prunay_en_yvelines,pr,34.1,68.07,84.95
+europe_lau,Přechovice,prechovice,pr,38.74,66.94,15.85
+europe_lau,Préchac,prechac,pr,54.32,67.92,64.96
+europe_lau,Presles,presles,pr,50.04,62.88,34.94
+europe_lau,Proseč,prosec,pr,40.36,62.53,89.81
+europe_lau,Précigné,precigne,pr,71.69,69.85,49.81
+europe_lau,Préval,preval,pr,30.68,58.79,78.83
+europe_lau,Prévelles,prevelles,pr,59.46,67.34,63.86
+europe_lau,Pruillé-le-Chétif,pruille_le_chetif,pr,41.8,50.04,21.83
+europe_lau,Pruillé-l'Éguillé,pruille_l_eguille,pr,74.1,73.47,58.01
+europe_lau,Pretz-en-Argonne,pretz_en_argonne,pr,52.27,63.57,74.88
+europe_lau,Předotice,predotice,pr,64.92,72.35,58.81
+europe_lau,Pralognan-la-Vanoise,pralognan_la_vanoise,pr,32.27,55.57,64.76
+europe_lau,Presle,presle,pr,21.8,60.18,16.55
+europe_lau,Příkazy,prikazy,pr,33.41,69.76,87.98
+europe_lau,Pradelles,pradelles,pr,38.6,49.99,92.66
+europe_lau,Prémesques,premesques,pr,60.93,79.91,46.51
+europe_lau,Préseau,preseau,pr,56.77,72.27,17.5
+europe_lau,Preux-au-Bois,preux_au_bois,pr,43.64,62.14,77.42
+europe_lau,Preux-au-Sart,preux_au_sart,pr,41.92,70.38,-32.37
+europe_lau,Prisches,prisches,pr,64.69,79.39,61.45
+europe_lau,Přerov,prerov,pr,45,53.07,82.08
+europe_lau,Přestanov,prestanov,pr,40.23,59.74,72.27
+europe_lau,Prouvy,prouvy,pr,34.74,50.79,95.41
+europe_lau,Proville,proville,pr,57.35,76.1,78.55
+europe_lau,Provin,provin,pr,32.77,58.92,93.3
+europe_lau,Pržno,przno,pr,61.36,73.31,57.14
+europe_lau,Préaux,preaux,pr,56.04,68.35,61.52
+europe_lau,Prétot-Vicquemare,pretot_vicquemare,pr,36.59,64.75,90.04
+europe_lau,Preuseville,preuseville,pr,47.94,73.74,71.61
+europe_lau,Preuschdorf,preuschdorf,pr,32.77,52.32,97.51
+europe_lau,Printzheim,printzheim,pr,47.01,64.54,10.65
+europe_lau,Prémery,premery,pr,52.87,66.05,49.1
+europe_lau,Préporché,preporche,pr,41.76,57.1,12.57
+europe_lau,Prades,prades,pr,50.82,61.8,81.02
+europe_lau,Prats-de-Mollo-la-Preste,prats_de_mollo_la_preste,pr,50.92,60.59,46.32
+europe_lau,Prats-de-Sournia,prats_de_sournia,pr,41.47,50.93,51.03
+europe_lau,Prugnanes,prugnanes,pr,42.06,63.34,23.03
+europe_lau,Prunet-et-Belpuig,prunet_et_belpuig,pr,50.45,58.23,54.36
+europe_lau,Prévocourt,prevocourt,pr,44.63,58.79,84.39
+europe_lau,Prédefin,predefin,pr,39.08,50,73.65
+europe_lau,Pressy,pressy,pr,32.37,70.41,-89.84
+europe_lau,Preures,preures,pr,48.76,69.11,73.96
+europe_lau,Pronville-en-Artois,pronville_en_artois,pr,43.65,71.8,91.98
+europe_lau,Préchacq-Josbaig,prechacq_josbaig,pr,21.93,52.31,-0.49
+europe_lau,Préchacq-Navarrenx,prechacq_navarrenx,pr,52.71,65.5,21.25
+europe_lau,Précilhon,precilhon,pr,43.1,74.87,86.87
+europe_lau,Prosenice,prosenice,pr,44.25,59.95,78.55
+europe_lau,Provodovice,provodovice,pr,67.8,76.26,59.99
+europe_lau,Přestavlky,prestavlky,pr,45.56,65.52,3.83
+europe_lau,Priziac,priziac,pr,48.46,66.22,83
+europe_lau,Praz-sur-Arly,praz_sur_arly,pr,26.05,64.54,56.17
+europe_lau,Présilly,presilly,pr,32.77,59.02,1.26
+europe_lau,Preigney,preigney,pr,59.43,67.37,42.29
+europe_lau,Provenchère,provenchere,pr,51.01,63.61,84.43
+europe_lau,Přestavlky,prestavlky,pr,48.38,66.28,0.04
+europe_lau,Przeworno,przeworno,pr,51.5,66.71,65.87
+europe_lau,Prusice,prusice,pr,44.85,58.88,23.85
+europe_lau,Przechlewo,przechlewo,pr,47.19,59.55,74.75
+europe_lau,Pratella,pratella,pr,59.57,67.89,54.15
+europe_lau,Presenzano,presenzano,pr,56.36,68.3,28.97
+europe_lau,Probulov,probulov,pr,60.53,80.89,38.23
+europe_lau,Přeborov,preborov,pr,41.99,60.55,83
+europe_lau,Przecław,przeclaw,pr,49.19,66.2,10.02
+europe_lau,Prata d'Ansidonia,prata_d_ansidonia,pr,43.56,75.04,26.01
+europe_lau,Pratola Peligna,pratola_peligna,pr,34.96,48.65,49.07
+europe_lau,Prezza,prezza,pr,48.41,63.33,34.55
+europe_lau,Przelewice,przelewice,pr,57.11,69.73,79.29
+europe_lau,Předslav,predslav,pr,34.22,72.4,-25.92
+europe_lau,Preizerdaul,preizerdaul,pr,62.29,71.09,61.14
+europe_lau,Prizzi,prizzi,pr,46.37,63.87,49.55
+europe_lau,Premeno,premeno,pr,73.5,71.91,58.27
+europe_lau,Premia,premia,pr,60.07,67.26,58.27
+europe_lau,Premosello-Chiovenda,premosello_chiovenda,pr,43.42,65.75,45.37
+europe_lau,Prášily,prasily,pr,51.18,69.62,76.49
+europe_lau,Prudnik,prudnik,pr,61.49,68.11,84.82
+europe_lau,Prostki,prostki,pr,30.58,54.9,-19.8
+europe_lau,Pradalunga,pradalunga,pr,64.39,77.6,36.88
+europe_lau,Predore,predore,pr,47.18,65.69,-7.75
+europe_lau,Premolo,premolo,pr,26.08,71.03,92.47
+europe_lau,Presezzo,presezzo,pr,37.8,66.64,1.42
+europe_lau,Pradamano,pradamano,pr,48.13,57.1,77.34
+europe_lau,Prato Carnico,prato_carnico,pr,36.24,69.98,-49.75
+europe_lau,Precenicco,precenicco,pr,33.11,62.1,93.45
+europe_lau,Praszka,praszka,pr,50.24,61.72,73.09
+europe_lau,Prószków,proszkow,pr,53.95,69.54,54.43
+europe_lau,Przytuły,przytuly,pr,46.9,53.55,61.08
+europe_lau,Premariacco,premariacco,pr,54.85,62.08,46.38
+europe_lau,Preone,preone,pr,39.8,62.62,97.45
+europe_lau,Prepotto,prepotto,pr,15.89,37.73,63.05
+europe_lau,Przybiernów,przybiernow,pr,61.71,65.7,35.13
+europe_lau,Přívětice,privetice,pr,47.69,61.22,28.69
+europe_lau,Pressbaum,pressbaum,pr,55.98,61.08,59.63
+europe_lau,Preganziol,preganziol,pr,53.69,60.22,75.54
+europe_lau,Przerośl,przerosl,pr,43.61,55.79,32.37
+europe_lau,Predazzo,predazzo,pr,42.94,58.18,51.28
+europe_lau,Přeskače,preskace,pr,47.6,64.31,26.09
+europe_lau,Prachatice,prachatice,pr,51.98,70.63,81.27
+europe_lau,Predaia,predaia,pr,50.85,58.92,66.5
+europe_lau,Prochowice,prochowice,pr,57.47,66.78,71.27
+europe_lau,Przemków,przemkow,pr,42.95,51.39,52
+europe_lau,Prata di Principato Ultra,prata_di_principato_ultra,pr,45,58.65,48.67
+europe_lau,Pratola Serra,pratola_serra,pr,42.01,70.22,80.44
+europe_lau,Presicce-Acquarica,presicce_acquarica,pr,53.76,66.67,57.27
+europe_lau,Priverno,priverno,pr,46.96,53.96,67.21
+europe_lau,Prossedi,prossedi,pr,41.59,71.28,91.14
+europe_lau,Prażmów,prazmow,pr,60.4,69.35,58.8
+europe_lau,Pruszków,pruszkow,pr,65.88,62.98,46.37
+europe_lau,Primiero San Martino di Castrozza,primiero_san_martino_di_castrozza,pr,35.81,60.28,88.08
+europe_lau,Pressana,pressana,pr,28.49,52.96,-51.18
+europe_lau,Pretoro,pretoro,pr,38.26,55.26,77.65
+europe_lau,Przykona,przykona,pr,64.26,71.1,45.52
+europe_lau,Prata Camportaccio,prata_camportaccio,pr,60.12,68.65,41.48
+europe_lau,Přehořov,prehorov,pr,43.16,57.3,83.09
+europe_lau,Predappio,predappio,pr,48.87,70.02,88.06
+europe_lau,Premilcuore,premilcuore,pr,33.42,66.24,59.16
+europe_lau,Przemęt,przemet,pr,45.7,62.9,12.39
+europe_lau,Pruszcz,pruszcz,pr,42.94,55.37,28.84
+europe_lau,Pruszcz Gdański,pruszcz_gdanski,pr,64.74,77.91,64.93
+europe_lau,Pruszcz Gdański,pruszcz_gdanski,pr,23.93,46.21,5.67
+europe_lau,Przywidz,przywidz,pr,56.32,62.89,58
+europe_lau,Přáslavice,praslavice,pr,47.91,63.02,37.02
+europe_lau,Pralboino,pralboino,pr,65.75,79.01,66.04
+europe_lau,Preseglie,preseglie,pr,53.64,66.18,84.02
+europe_lau,Prevalle,prevalle,pr,47.59,65.95,91.88
+europe_lau,Provaglio d'Iseo,provaglio_d_iseo,pr,61.65,70.44,35.74
+europe_lau,Provaglio Val Sabbia,provaglio_val_sabbia,pr,40.71,63.47,-9.55
+europe_lau,Prato,prato,pr,53.77,67.27,72.24
+europe_lau,Przodkowo,przodkowo,pr,57.47,63.59,45.66
+europe_lau,Provvidenti,provvidenti,pr,43.03,69.42,94.71
+europe_lau,Pruchnik,pruchnik,pr,61.12,65.6,63.86
+europe_lau,Przemyśl,przemysl,pr,35.27,43.16,37.17
+europe_lau,Przeworsk,przeworsk,pr,50.44,63.83,91.04
+europe_lau,Przeworsk,przeworsk,pr,40.59,44.22,28.37
+europe_lau,Przemyśl,przemysl,pr,48.64,60.76,29.37
+europe_lau,Przasnysz,przasnysz,pr,67.18,74.75,74.16
+europe_lau,Przasnysz,przasnysz,pr,47.59,63.6,75.86
+europe_lau,Promna,promna,pr,47.42,64.85,17.08
+europe_lau,Praiano,praiano,pr,52.57,69.03,23.37
+europe_lau,Prignano Cilento,prignano_cilento,pr,36.23,71,26.18
+europe_lau,Pracejovice,pracejovice,pr,31.66,49.55,-19.6
+europe_lau,Předmíř,predmir,pr,51.81,60.94,56.26
+europe_lau,Předslavice,predslavice,pr,37.76,52.36,60.93
+europe_lau,Přešťovice,prestovice,pr,31.67,47.72,74.77
+europe_lau,Pregnana Milanese,pregnana_milanese,pr,45.2,61.45,75.82
+europe_lau,Prienų rajono savivaldybė,prienu_rajono_savivaldybe,pr,35.89,46.84,9.73
+europe_lau,Přebuz,prebuz,pr,63.25,70.36,67.76
+europe_lau,Prabuty,prabuty,pr,47.43,62.35,86.61
+europe_lau,Procida,procida,pr,28.65,49.11,47.43
+europe_lau,Prasco,prasco,pr,45.69,58.06,77.72
+europe_lau,Predosa,predosa,pr,43.53,71.02,96.15
+europe_lau,Prügy,prugy,pr,55.45,67,33.56
+europe_lau,Předboj,predboj,pr,51.53,67.7,75.42
+europe_lau,Přezletice,prezletice,pr,51.12,71.26,84.98
+europe_lau,Prahecq,prahecq,pr,48,61.49,58.66
+europe_lau,Prailles-La Couarde,prailles_la_couarde,pr,44.16,64.91,0.35
+europe_lau,Pressigny,pressigny,pr,66.12,78.71,79.05
+europe_lau,Prin-Deyrançon,prin_deyrancon,pr,29.68,55.75,-65.24
+europe_lau,Prlov,prlov,pr,30.58,58.18,29.43
+europe_lau,Prazzo,prazzo,pr,54.04,68.5,83.71
+europe_lau,Priero,priero,pr,50.73,61.58,82.21
+europe_lau,Priocca,priocca,pr,69.45,75.94,78.54
+europe_lau,Pragelato,pragelato,pr,32.43,51.99,96.16
+europe_lau,Prali,prali,pr,49.53,74.11,84.69
+europe_lau,Pralormo,pralormo,pr,62.4,65.26,57.93
+europe_lau,Pramollo,pramollo,pr,67.81,80.03,54.86
+europe_lau,Prarostino,prarostino,pr,44.71,72.11,8.06
+europe_lau,Prascorsano,prascorsano,pr,44.11,53.79,64.25
+europe_lau,Pratiglione,pratiglione,pr,18.62,53.03,15.2
+europe_lau,Priola,priola,pr,51.51,79.1,26.9
+europe_lau,Prunetto,prunetto,pr,41.35,57.75,22.65
+europe_lau,Přední Výtoň,predni_vyton,pr,51.72,67.52,7.92
+europe_lau,Přídolí,pridoli,pr,59.98,70,64.03
+europe_lau,Přísečná,prisecna,pr,31.94,43.22,21.89
+europe_lau,Pré-Saint-Didier,pre_saint_didier,pr,45.46,58.47,33.18
+europe_lau,Prostřední Bečva,prostredni_becva,pr,38.93,59.89,75.22
+europe_lau,Pržno,przno,pr,42.64,53.41,77.15
+europe_lau,Précy-sur-Marne,precy_sur_marne,pr,53.09,60.61,75.67
+europe_lau,Presles-en-Brie,presles_en_brie,pr,49.99,66.53,-1.56
+europe_lau,Pringy,pringy,pr,49.75,67.15,31.45
+europe_lau,Provins,provins,pr,53.81,66.05,42.69
+europe_lau,Příštpo,pristpo,pr,69.4,71.91,74.58
+europe_lau,Pratovecchio Stia,pratovecchio_stia,pr,60.96,74.98,31.93
+europe_lau,Přílepy,prilepy,pr,35.38,60.48,-47.9
+europe_lau,Prigglitz,prigglitz,pr,50.97,66.24,-2.38
+europe_lau,Proseč pod Ještědem,prosec_pod_jestedem,pr,49.78,65.04,78.14
+europe_lau,Proruby,proruby,pr,58.06,77.2,18.38
+europe_lau,Předklášteří,predklasteri,pr,44.31,64.36,76.31
+europe_lau,Protivín,protivin,pr,39.92,52.27,63.73
+europe_lau,Přeštěnice,prestenice,pr,53.85,66.81,66.82
+europe_lau,Prinzersdorf,prinzersdorf,pr,61.27,69.53,62.79
+europe_lau,Prignano sulla Secchia,prignano_sulla_secchia,pr,35.22,55.6,41.08
+europe_lau,Prelà,prela,pr,49.88,71.36,5.84
+europe_lau,Proserpio,proserpio,pr,42.45,78.05,36.44
+europe_lau,Preci,preci,pr,59.77,63.73,49.75
+europe_lau,Prarolo,prarolo,pr,40.5,56.9,16.09
+europe_lau,Privlaka,privlaka,pr,63.05,80.45,68.64
+europe_lau,Privlaka,privlaka,pr,57.8,64.7,71.22
+europe_lau,Prgomet,prgomet,pr,31.07,45.01,77.03
+europe_lau,Primorski Dolac,primorski_dolac,pr,45.88,78.37,-20.16
+europe_lau,Praia a Mare,praia_a_mare,pr,35.96,56.4,66.64
+europe_lau,Propata,propata,pr,55.97,61.41,69.49
+europe_lau,Pribislavec,pribislavec,pr,57.1,65.52,68.86
+europe_lau,Proceno,proceno,pr,57.95,66.71,56.64
+europe_lau,Prato Sesia,prato_sesia,pr,44.38,61.95,80.03
+europe_lau,Prato allo Stelvio/Prad am Stilfserjoch,prato_allo_stelvio_prad_am_stilfserjoch,pr,35.03,45.79,44.75
+europe_lau,Predoi/Prettau,predoi_prettau,pr,46.43,66.35,36.82
+europe_lau,Proves/Proveis,proves_proveis,pr,35.58,51.64,84.94
+europe_lau,Příčina,pricina,pr,45.06,60.58,94.49
+europe_lau,Predajná,predajna,pr,26.27,63.32,79.37
+europe_lau,Priechod,priechod,pr,44.42,85.93,75.51
+europe_lau,Příšov,prisov,pr,56.14,68.62,51.34
+europe_lau,Prambachkirchen,prambachkirchen,pr,43.36,50.05,24.09
+europe_lau,Provodov-Šonov,provodov_sonov,pr,36.07,51.86,8.76
+europe_lau,Přibyslav,pribyslav,pr,55.72,75.27,23.13
+europe_lau,Proboštov,probostov,pr,47.83,65.4,88.58
+europe_lau,Przesmyki,przesmyki,pr,52.13,63.74,37.45
+europe_lau,Proseč pod Křemešníkem,prosec_pod_kremesnikem,pr,58.02,66.64,65.46
+europe_lau,Priponeşti,priponesti,pr,49.14,56.82,76.85
+europe_lau,Pražmo,prazmo,pr,48.75,79.09,94.58
+europe_lau,Prasek,prasek,pr,61.2,73.42,57.07
+europe_lau,Praskačka,praskacka,pr,28.58,58.62,92.13
+europe_lau,Předměřice nad Labem,predmerice_nad_labem,pr,55.85,74.13,19.78
+europe_lau,Převýšov,prevysov,pr,48.81,53.77,69.34
+europe_lau,Prečín,precin,pr,59.62,67.53,59.66
+europe_lau,Pruské,pruske,pr,28.06,47.24,51.05
+europe_lau,Pružina,pruzina,pr,60.35,74.18,72.05
+europe_lau,Prievidza,prievidza,pr,54.27,64.22,48.69
+europe_lau,Predmier,predmier,pr,20.31,48.84,68.28
+europe_lau,Práznovce,praznovce,pr,12.45,44.54,85.44
+europe_lau,Príkra,prikra,pr,79.34,76.2,46.71
+europe_lau,Pribiš,pribis,pr,31.11,54.18,77.71
+europe_lau,Prebold,prebold,pr,64.24,68.87,66.7
+europe_lau,Prevalje,prevalje,pr,45.51,62.58,79.73
+europe_lau,Prundu Bârgăului,prundu_bargaului,pr,39.85,66.67,95.56
+europe_lau,Priseaca,priseaca,pr,37.99,54.93,59.22
+europe_lau,Provodín,provodin,pr,29.33,60.81,-19.1
+europe_lau,Prysk,prysk,pr,47.78,72.74,24.46
+europe_lau,Prigoria,prigoria,pr,48.65,70.83,47.2
+europe_lau,Prăjeni,prajeni,pr,45.85,65.25,67.87
+europe_lau,Preševo,presevo,pr,51.99,64.89,28.32
+europe_lau,Priboj,priboj,pr,44.43,55.11,15.06
+europe_lau,Prokuplje,prokuplje,pr,47.37,63.86,90.35
+europe_lau,Priekopa,priekopa,pr,27.58,73.84,-78.39
+europe_lau,Prazins (Santa Eufémia),prazins_santa_eufemia,pr,49.76,68.88,34.27
+europe_lau,Prodašice,prodasice,pr,42.67,72.98,91.76
+europe_lau,Pravenec,pravenec,pr,33.61,64.11,64.63
+europe_lau,Praid,praid,pr,42.75,61.61,52.45
+europe_lau,Priepasné,priepasne,pr,47.92,64.24,17.23
+europe_lau,Prietrž,prietrz,pr,51.1,65.71,89.79
+europe_lau,Prietržka,prietrzka,pr,52.64,68.76,15.65
+europe_lau,Prievaly,prievaly,pr,57.87,73.58,48.79
+europe_lau,Prachovice,prachovice,pr,54.74,66.17,45.82
+europe_lau,Proseč,prosec,pr,41.32,52.56,61.09
+europe_lau,Prosetín,prosetin,pr,52.79,69.32,19.79
+europe_lau,Pribeník,pribenik,pr,63.01,75.41,48.61
+europe_lau,Předhradí,predhradi,pr,37.78,51.36,82.69
+europe_lau,Prašice,prasice,pr,25.39,54.93,64.59
+europe_lau,Pravotice,pravotice,pr,63.04,74.44,80.02
+europe_lau,Preseľany,preselany,pr,32.6,60.48,-15.84
+europe_lau,Prusy,prusy,pr,43.43,57.81,82.63
+europe_lau,Prejmer,prejmer,pr,56.62,66.26,75.47
+europe_lau,Pribylina,pribylina,pr,47.5,60.02,73.16
+europe_lau,Prosiek,prosiek,pr,26.17,54.42,86.14
+europe_lau,Priboieni,priboieni,pr,56.24,73.92,59.39
+europe_lau,Predeal-Sărari,predeal_sarari,pr,44.03,60.68,93.34
+europe_lau,Proviţa de Jos,provita_de_jos,pr,54.56,71.19,40.66
+europe_lau,Proviţa de Sus,provita_de_sus,pr,59.33,71.2,59.68
+europe_lau,Praia do Ribatejo,praia_do_ribatejo,pr,37.17,64.04,71.5
+europe_lau,Prešov,presov,pr,45.92,52.43,40.04
+europe_lau,Prado (São Miguel),prado_sao_miguel,pr,48.95,60.58,73.41
+europe_lau,Přestavlky,prestavlky,pr,41.82,66.59,41.86
+europe_lau,Prituľany,pritulany,pr,48.94,62.58,58.89
+europe_lau,Prosačov,prosacov,pr,17.28,59.7,90.1
+europe_lau,Praha,praha,pr,38.87,66.02,85.19
+europe_lau,Prša,prsa,pr,52.65,71.82,26.96
+europe_lau,Pribeta,pribeta,pr,54.41,67.82,78.33
+europe_lau,Príbovce,pribovce,pr,44.5,75.65,68.34
+europe_lau,Produleşti,produlesti,pr,41.75,56.89,70.97
+europe_lau,Přepeře,prepere,pr,39.45,72.09,88.94
+europe_lau,Pravica,pravica,pr,33.36,63.61,96.21
+europe_lau,Príbelce,pribelce,pr,27.51,54,93.75
+europe_lau,Proč,proc,pr,52.06,66.3,57.67
+europe_lau,Prakovce,prakovce,pr,32.38,49.58,99.62
+europe_lau,Príslop,prislop,pr,44.96,60.31,89.49
+europe_lau,Prašník,prasnik,pr,50.84,57.92,17.72
+europe_lau,Prihradzany,prihradzany,pr,55.22,68.45,75.58
+europe_lau,Przysucha,przysucha,pr,32,52.73,74.44
+europe_lau,Przytyk,przytyk,pr,55.1,65.12,46.46
+europe_lau,Przyłęk,przylek,pr,56.68,59.39,63.53
+europe_lau,Predeşti,predesti,pr,40.21,56.71,91.03
+europe_lau,Prajesti,prajesti,pr,40.47,58.2,93.34
+europe_lau,Prigor,prigor,pr,20.13,54.43,94.87
+europe_lau,Prenčov,prencov,pr,37.94,58.79,74.89
+europe_lau,Prestavlky,prestavlky,pr,39.33,69.09,59.27
+europe_lau,Prochot,prochot,pr,46.8,60.01,52.31
+europe_lau,Prisăcani,prisacani,pr,30.09,59.48,48.58
+europe_lau,Probota,probota,pr,42.59,62.16,-14.66
+europe_lau,Prijepolje,prijepolje,pr,54.56,69.61,58.21
+europe_lau,Pravy,pravy,pr,40.39,66.05,-5.92
+europe_lau,Prosíčka,prosicka,pr,55.13,58.12,66.19
+europe_lau,Přibyslav,pribyslav,pr,56.01,61.25,53.53
+europe_lau,Příseka,priseka,pr,48.83,63.81,10.63
+europe_lau,Preddvor,preddvor,pr,48.28,67.1,1.34
+europe_lau,Přílepy,prilepy,pr,48.48,63.15,7.63
+europe_lau,Přimda,primda,pr,55.99,63.45,60.93
+europe_lau,Prusice,prusice,pr,50.3,75.23,-7.46
+europe_lau,Přehýšov,prehysov,pr,27.5,45.82,-46.85
+europe_lau,Przytoczna,przytoczna,pr,56.19,72.04,7.67
+europe_lau,Preuteşti,preutesti,pr,58.65,64.27,48.3
+europe_lau,Priekuļu novads,priekulu_novads,pr,37.29,43.45,63.65
+europe_lau,Preiļu novads,preilu_novads,pr,28.01,49.63,92.72
+europe_lau,Prazeres,prazeres,pr,24.9,47.86,66.13
+europe_lau,Przewóz,przewoz,pr,37.48,51.9,67.22
+europe_lau,Proszowice,proszowice,pr,37.8,50.85,-2.27
+europe_lau,Priolo Gargallo,priolo_gargallo,pr,55.06,64.74,18.29
+europe_lau,Pralungo,pralungo,pr,26.33,54.55,74.68
+europe_lau,Pray,pray,pr,62.52,65.98,67.01
+europe_lau,Pristol,pristol,pr,28.34,57.16,76.44
+europe_lau,Prunişor,prunisor,pr,44.94,55.09,19.25
+europe_lau,Prundeni,prundeni,pr,46.67,69.46,78.14
+europe_lau,Praha,praha,pr,54.75,69.14,28.1
+europe_lau,Пробиштип,probistip,pr,49.18,55.29,39.09
+europe_lau,Прилеп,prilep,pr,49.84,58.89,52.09
+europe_lau,Prádlo,pradlo,pr,48.69,63.2,28.89
+europe_lau,Přeštice,prestice,pr,37.73,47.08,33.18
+europe_lau,Příchovice,prichovice,pr,41.22,48.25,77.17
+europe_lau,Przedbórz,przedborz,pr,33.14,52.28,97.19
+europe_lau,Przygodzice,przygodzice,pr,51.35,64.36,51.44
+europe_lau,Prados,prados,pr,49.47,76.79,-11.68
+europe_lau,Przeciszów,przeciszow,pr,35.28,64.99,86.95
+europe_lau,Przedecz,przedecz,pr,41.36,56.23,24.29
+europe_lau,Premana,premana,pr,60.23,70.33,44.1
+europe_lau,Primaluna,primaluna,pr,42.12,73.29,56.9
+europe_lau,Proença-a-Velha,proenca_a_velha,pr,54.7,69.48,67.03
+europe_lau,Prackovice nad Labem,prackovice_nad_labem,pr,43.28,71.16,97.16
+europe_lau,Přestavlky,prestavlky,pr,37.44,56.2,40.21
+europe_lau,Praia da Vitória (Santa Cruz),praia_da_vitoria_santa_cruz,pr,44.48,63.74,47.58
+europe_lau,Prainha,prainha,pr,47.42,68.61,33.36
+europe_lau,Praia do Almoxarife,praia_do_almoxarife,pr,12.54,52.64,-61.99
+europe_lau,Praia do Norte,praia_do_norte,pr,53.44,69.37,33.38
+europe_lau,Prova e Casteição,prova_e_casteicao,pr,22.19,35,96.88
+europe_lau,Prozelo,prozelo,pr,54.13,82.55,14.52
+europe_lau,Prata di Pordenone,prata_di_pordenone,pr,25.57,58.13,90.21
+europe_lau,Pravisdomini,pravisdomini,pr,52.69,79.98,65.2
+europe_lau,Priscos,priscos,pr,44.16,66.02,50.5
+europe_lau,Příbraz,pribraz,pr,46.23,59.59,83.21
+europe_lau,Przyrów,przyrow,pr,53.57,62.87,56.71
+europe_lau,Przystajń,przystajn,pr,41.33,57.18,80.5
+europe_lau,Příšovice,prisovice,pr,65.58,80.11,68.16
+europe_lau,Praia de Mira,praia_de_mira,pr,21.16,73.35,79.69
+europe_lau,Prundu,prundu,pr,54.45,61.08,53.9
+europe_lau,Priekules novads,priekules_novads,pr,59.33,69.27,76.15
+europe_lau,Prez,prez,pr,27.53,52.68,42.5
+europe_lau,Priay,priay,pr,39.34,61.25,93.35
+europe_lau,Prata Sannita,prata_sannita,pr,45.75,51.87,51.84
+europe_lau,Pramaggiore,pramaggiore,pr,43.39,63.8,91.52
+europe_lau,Pradleves,pradleves,pr,38.64,53.56,77.16

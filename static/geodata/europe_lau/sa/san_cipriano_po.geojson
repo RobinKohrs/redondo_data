@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_cipriano_po",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Cipriano Po", "metric_roundness": 59.01, "metric_rectangularity": 68.54, "metric_mobile_fit": 49.9, "metric_aspect_ratio": 1.063, "metric_area_km2": 17.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3122345, 45.119489 ], [ 9.2922406, 45.127556799999986 ], [ 9.2686585, 45.123074 ], [ 9.2614465, 45.118419899999985 ], [ 9.267486, 45.1088625 ], [ 9.275567, 45.094475 ], [ 9.280046, 45.093853 ], [ 9.2856288, 45.100135699999989 ], [ 9.2927569, 45.101013699999982 ], [ 9.2957406, 45.107479399999981 ], [ 9.300637, 45.10508 ], [ 9.3122345, 45.119489 ] ] ] } }
+]
+}

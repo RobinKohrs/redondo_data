@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saussay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saussay", "metric_roundness": 65.99, "metric_rectangularity": 73.16, "metric_mobile_fit": 40.87, "metric_aspect_ratio": 1.154, "metric_area_km2": 10.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.3902265, 48.8462885 ], [ 1.400385, 48.8394801 ], [ 1.4244075, 48.843194499999981 ], [ 1.4240258, 48.849951499999975 ], [ 1.4284306, 48.854484199999987 ], [ 1.4238935, 48.8612685 ], [ 1.4066137, 48.860821299999984 ], [ 1.397994, 48.856471 ], [ 1.3902265, 48.8462885 ] ] ] } }
+]
+}

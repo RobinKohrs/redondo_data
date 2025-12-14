@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "recherswil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Recherswil", "metric_roundness": 41.12, "metric_rectangularity": 58.87, "metric_mobile_fit": 20.77, "metric_aspect_ratio": 1.355, "metric_area_km2": 7.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6146635, 47.154596 ], [ 7.615619, 47.1564385 ], [ 7.619133, 47.1543645 ], [ 7.6244555, 47.1568925 ], [ 7.615611, 47.1620875 ], [ 7.5972175, 47.167744499999984 ], [ 7.586686, 47.170304 ], [ 7.589469, 47.1513485 ], [ 7.592769, 47.152666499999974 ], [ 7.5979745, 47.151652 ], [ 7.6047815, 47.15274 ], [ 7.6146635, 47.154596 ] ] ] } }
+]
+}

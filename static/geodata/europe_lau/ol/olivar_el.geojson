@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "olivar_el",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Olivar, El", "metric_roundness": 49.5, "metric_rectangularity": 67.8, "metric_mobile_fit": 25.76, "metric_aspect_ratio": 1.305, "metric_area_km2": 30.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.7693755, 40.577068499999982 ], [ -2.75262, 40.5807404 ], [ -2.7441273, 40.5908447 ], [ -2.724051, 40.599995 ], [ -2.7333873, 40.6078656 ], [ -2.74004, 40.6222845 ], [ -2.7711147, 40.612802599999988 ], [ -2.7900142, 40.613530499999989 ], [ -2.8017575, 40.610569 ], [ -2.7693755, 40.577068499999982 ] ] ] } }
+]
+}

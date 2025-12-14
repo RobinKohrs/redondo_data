@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "larmor_baden",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Larmor-Baden", "metric_roundness": 36.34, "metric_rectangularity": 55.23, "metric_mobile_fit": 89.75, "metric_aspect_ratio": 0.665, "metric_area_km2": 7.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.9089359, 47.6040276 ], [ -2.9134422, 47.5983149 ], [ -2.91082, 47.591897499999988 ], [ -2.9052133, 47.5887684 ], [ -2.9071874, 47.5832571 ], [ -2.8975981, 47.5850528 ], [ -2.8908336, 47.5818872 ], [ -2.8916538, 47.5760832 ], [ -2.8890392, 47.575482199999982 ], [ -2.8852944, 47.580553 ], [ -2.8905546, 47.585816699999981 ], [ -2.891, 47.598631799999986 ], [ -2.8882985, 47.6036235 ], [ -2.9089359, 47.6040276 ] ] ] } }
+]
+}

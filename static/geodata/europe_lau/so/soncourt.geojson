@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soncourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soncourt", "metric_roundness": 37.03, "metric_rectangularity": 61.69, "metric_mobile_fit": 66.62, "metric_aspect_ratio": 0.896, "metric_area_km2": 8.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9205085, 48.401076499999988 ], [ 5.9148162, 48.397407499999986 ], [ 5.9065661, 48.398131 ], [ 5.905073, 48.3947571 ], [ 5.8975819, 48.393267 ], [ 5.8945335, 48.389381 ], [ 5.8907985, 48.3747785 ], [ 5.8955345, 48.374897 ], [ 5.8995085, 48.373742 ], [ 5.9050871, 48.3762742 ], [ 5.9034607, 48.3824471 ], [ 5.924709, 48.388835499999985 ], [ 5.927691, 48.393685499999982 ], [ 5.9205085, 48.401076499999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "elbeuf_sur_andelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Elbeuf-sur-Andelle", "metric_roundness": 41.68, "metric_rectangularity": 75.93, "metric_mobile_fit": 51.81, "metric_aspect_ratio": 1.044, "metric_area_km2": 14.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4015033, 49.4723651 ], [ 1.386404, 49.4799262 ], [ 1.3798845, 49.4914365 ], [ 1.372984, 49.495868 ], [ 1.3550965, 49.485681 ], [ 1.3790883, 49.4662192 ], [ 1.386456, 49.463294 ], [ 1.391267, 49.461688499999987 ], [ 1.41004, 49.4715805 ], [ 1.4015033, 49.4723651 ] ] ] } }
+]
+}

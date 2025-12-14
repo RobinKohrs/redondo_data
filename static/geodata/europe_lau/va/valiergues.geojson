@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valiergues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valiergues", "metric_roundness": 44.39, "metric_rectangularity": 59.94, "metric_mobile_fit": 66.09, "metric_aspect_ratio": 0.902, "metric_area_km2": 26.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2800116, 45.4591054 ], [ 2.3122505, 45.4715675 ], [ 2.3040942, 45.48758 ], [ 2.2971967, 45.4887704 ], [ 2.2987639, 45.497898699999986 ], [ 2.290552, 45.5019225 ], [ 2.282281, 45.4911666 ], [ 2.2651456, 45.4844459 ], [ 2.2629694, 45.469472 ], [ 2.2478641, 45.4656577 ], [ 2.250391, 45.455298 ], [ 2.265154, 45.4594772 ], [ 2.269249, 45.451847499999985 ], [ 2.2800116, 45.4591054 ] ] ] } }
+]
+}

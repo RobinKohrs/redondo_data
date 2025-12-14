@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osikov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Osikov", "metric_roundness": 39.31, "metric_rectangularity": 57.03, "metric_mobile_fit": 10.1, "metric_aspect_ratio": 1.461, "metric_area_km2": 32.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.281842, 49.152202 ], [ 21.2768809, 49.162621099999981 ], [ 21.2860825, 49.177199 ], [ 21.2474465, 49.188221 ], [ 21.2407943, 49.1728612 ], [ 21.1997985, 49.175374 ], [ 21.2074313, 49.165542599999988 ], [ 21.214594, 49.1631955 ], [ 21.2397813, 49.1545991 ], [ 21.2607719, 49.151684299999985 ], [ 21.2679301, 49.1546436 ], [ 21.2821305, 49.1496195 ], [ 21.281842, 49.152202 ] ] ] } }
+]
+}

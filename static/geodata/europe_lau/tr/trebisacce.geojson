@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trebisacce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trebisacce", "metric_roundness": 39.6, "metric_rectangularity": 61.78, "metric_mobile_fit": 35.6, "metric_aspect_ratio": 1.207, "metric_area_km2": 45.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5382832, 39.8715395 ], [ 16.5764145, 39.906879499999988 ], [ 16.5144585, 39.901119699999974 ], [ 16.4950054, 39.8921954 ], [ 16.4911572, 39.8827806 ], [ 16.4771235, 39.877136 ], [ 16.478353, 39.8755225 ], [ 16.4869752, 39.8655507 ], [ 16.518916, 39.843722 ], [ 16.5382832, 39.8715395 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reiningue",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reiningue", "metric_roundness": 62.4, "metric_rectangularity": 76.24, "metric_mobile_fit": 26.86, "metric_aspect_ratio": 1.294, "metric_area_km2": 40.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.210247, 47.773553499999984 ], [ 7.200379, 47.7752725 ], [ 7.196957, 47.773315 ], [ 7.1940675, 47.770112 ], [ 7.193313, 47.7674575 ], [ 7.190888, 47.7672435 ], [ 7.183538, 47.7687215 ], [ 7.1818139, 47.7622411 ], [ 7.1901224, 47.7442697 ], [ 7.208449, 47.735136 ], [ 7.240355, 47.7399845 ], [ 7.25906, 47.747253 ], [ 7.254838, 47.764563799999976 ], [ 7.238332, 47.77057 ], [ 7.210247, 47.773553499999984 ] ] ] } }
+]
+}

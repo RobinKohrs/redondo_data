@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "warth_weiningen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Warth-Weiningen", "metric_roundness": 38.43, "metric_rectangularity": 65.83, "metric_mobile_fit": -45.0, "metric_aspect_ratio": 2.013, "metric_area_km2": 17.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.917527, 47.586994 ], [ 8.9117295, 47.592735 ], [ 8.9022401, 47.597014599999987 ], [ 8.885646, 47.599288 ], [ 8.8820788, 47.596865399999984 ], [ 8.863088, 47.5991625 ], [ 8.8603726, 47.5880605 ], [ 8.850967, 47.5851463 ], [ 8.850253, 47.5767425 ], [ 8.8798987, 47.5786686 ], [ 8.91568, 47.586559 ], [ 8.917527, 47.586994 ] ] ] } }
+]
+}

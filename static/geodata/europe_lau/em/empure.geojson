@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "empure",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Empuré", "metric_roundness": 35.42, "metric_rectangularity": 55.98, "metric_mobile_fit": 12.49, "metric_aspect_ratio": 1.438, "metric_area_km2": 16.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0737965, 46.036355 ], [ 0.0665945, 46.037065499999983 ], [ 0.057284, 46.040298 ], [ 0.0480258, 46.0319222 ], [ 0.0288468, 46.029670699999983 ], [ 0.019293, 46.012656 ], [ 0.0222315, 46.0099589 ], [ 0.0305402, 46.0139026 ], [ 0.0551635, 46.0136575 ], [ 0.0630242, 46.015072599999982 ], [ 0.068047, 46.025355 ], [ 0.082107, 46.033821 ], [ 0.0737965, 46.036355 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lussy_sur_morges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lussy-sur-Morges", "metric_roundness": 70.12, "metric_rectangularity": 77.08, "metric_mobile_fit": 37.83, "metric_aspect_ratio": 1.184, "metric_area_km2": 4.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4379564, 46.5049007 ], [ 6.4359015, 46.4990785 ], [ 6.4428478, 46.49455 ], [ 6.4510559, 46.493862 ], [ 6.4617555, 46.499394 ], [ 6.4552239, 46.5044051 ], [ 6.454336, 46.5083535 ], [ 6.4447365, 46.5088905 ], [ 6.4379564, 46.5049007 ] ] ] } }
+]
+}

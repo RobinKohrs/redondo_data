@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hal_safi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ħal Safi", "metric_roundness": 50.29, "metric_rectangularity": 67.69, "metric_mobile_fit": 34.31, "metric_aspect_ratio": 1.219, "metric_area_km2": 3.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4851795, 35.8361015 ], [ 14.4803746, 35.8329485 ], [ 14.4861825, 35.826734199999983 ], [ 14.4952918, 35.8304958 ], [ 14.5015356, 35.828576 ], [ 14.5058295, 35.831604 ], [ 14.5001455, 35.835765499999987 ], [ 14.499066, 35.8380775 ], [ 14.492023, 35.843658 ], [ 14.4851795, 35.8361015 ] ] ] } }
+]
+}

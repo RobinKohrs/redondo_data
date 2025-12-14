@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courtry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courtry", "metric_roundness": 63.12, "metric_rectangularity": 80.4, "metric_mobile_fit": 85.47, "metric_aspect_ratio": 0.708, "metric_area_km2": 9.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6074107, 48.925347 ], [ 2.6026, 48.929356499999983 ], [ 2.5923365, 48.925021 ], [ 2.5892631, 48.918314599999981 ], [ 2.589839, 48.9098617 ], [ 2.592364, 48.9077045 ], [ 2.6001435, 48.9048095 ], [ 2.609292, 48.904923499999981 ], [ 2.6124925, 48.9043325 ], [ 2.6162145, 48.924787 ], [ 2.6074107, 48.925347 ] ] ] } }
+]
+}

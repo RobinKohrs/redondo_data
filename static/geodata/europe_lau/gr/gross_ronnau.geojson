@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gross_ronnau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Groß Rönnau", "metric_roundness": 46.1, "metric_rectangularity": 58.03, "metric_mobile_fit": 24.45, "metric_aspect_ratio": 1.318, "metric_area_km2": 18.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.28661, 53.972876 ], [ 10.2964189, 53.969784499999982 ], [ 10.3114009, 53.9701859 ], [ 10.3169095, 53.966751 ], [ 10.349728, 53.973301 ], [ 10.350768, 53.976482 ], [ 10.3480372, 53.980357899999987 ], [ 10.3231312, 53.9805263 ], [ 10.3259731, 53.986535 ], [ 10.3214716, 53.990618 ], [ 10.320795, 53.9953765 ], [ 10.3110004, 53.9928988 ], [ 10.3016165, 53.985791 ], [ 10.28661, 53.972876 ] ] ] } }
+]
+}

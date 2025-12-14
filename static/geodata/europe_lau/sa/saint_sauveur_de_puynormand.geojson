@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_sauveur_de_puynormand",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Sauveur-de-Puynormand", "metric_roundness": 57.93, "metric_rectangularity": 70.72, "metric_mobile_fit": 27.88, "metric_aspect_ratio": 1.284, "metric_area_km2": 11.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0135125, 44.997108499999982 ], [ -0.017016, 44.998969 ], [ -0.021485, 45.002662499999985 ], [ -0.0228535, 45.005333 ], [ -0.022766, 45.0077645 ], [ -0.0433015, 45.0056335 ], [ -0.0454635, 44.9983778 ], [ -0.0515835, 44.9958345 ], [ -0.0491052, 44.984382499999974 ], [ -0.020132, 44.9865735 ], [ -0.018182, 44.9904134 ], [ -0.0172749, 44.9944714 ], [ -0.0145353, 44.9935148 ], [ -0.0126559, 44.993511 ], [ -0.0106546, 44.9945113 ], [ -0.0091385, 44.997147 ], [ -0.0135125, 44.997108499999982 ] ] ] } }
+]
+}

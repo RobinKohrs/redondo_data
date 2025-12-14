@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "biarrotte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Biarrotte", "metric_roundness": 59.02, "metric_rectangularity": 75.36, "metric_mobile_fit": 33.54, "metric_aspect_ratio": 1.227, "metric_area_km2": 9.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.2552293, 43.5550195 ], [ -1.2567087, 43.5608802 ], [ -1.262646, 43.567049 ], [ -1.2783513, 43.5678637 ], [ -1.2817738, 43.5637931 ], [ -1.2952765, 43.559479 ], [ -1.2807969, 43.5513721 ], [ -1.2836935, 43.544212499999986 ], [ -1.2747288, 43.5447594 ], [ -1.2673935, 43.548159 ], [ -1.2552293, 43.5550195 ] ] ] } }
+]
+}

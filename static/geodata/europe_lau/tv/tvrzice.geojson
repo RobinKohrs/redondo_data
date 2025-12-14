@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tvrzice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tvrzice", "metric_roundness": 43.34, "metric_rectangularity": 73.39, "metric_mobile_fit": -2.74, "metric_aspect_ratio": 1.59, "metric_area_km2": 6.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9641025, 49.1136905 ], [ 13.9770765, 49.109942 ], [ 13.9868595, 49.111045 ], [ 13.9930747, 49.1123864 ], [ 13.9959279, 49.116736599999989 ], [ 13.980146, 49.1225655 ], [ 13.961763, 49.125875 ], [ 13.9572244, 49.124139 ], [ 13.961933, 49.1184885 ], [ 13.9641025, 49.1136905 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "clermont_de_beauregard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Clermont-de-Beauregard", "metric_roundness": 36.38, "metric_rectangularity": 58.02, "metric_mobile_fit": 82.47, "metric_aspect_ratio": 0.738, "metric_area_km2": 12.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.6270242, 44.9371558 ], [ 0.6272371, 44.9299312 ], [ 0.6451655, 44.937343 ], [ 0.6494725, 44.941503 ], [ 0.6527055, 44.941417 ], [ 0.6551495, 44.942713499999989 ], [ 0.659435, 44.943444 ], [ 0.66637, 44.946653499999982 ], [ 0.663852, 44.952868 ], [ 0.6613454, 44.9555801 ], [ 0.6630282, 44.9632822 ], [ 0.651127, 44.967673499999982 ], [ 0.6391517, 44.955155 ], [ 0.6356687, 44.946428699999984 ], [ 0.630728, 44.943437499999987 ], [ 0.6270242, 44.9371558 ] ] ] } }
+]
+}

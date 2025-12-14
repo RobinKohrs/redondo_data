@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guiseniers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guiseniers", "metric_roundness": 55.37, "metric_rectangularity": 62.16, "metric_mobile_fit": 51.33, "metric_aspect_ratio": 1.049, "metric_area_km2": 25.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4520348, 49.2093766 ], [ 1.4628118, 49.208618699999981 ], [ 1.486694, 49.192799499999985 ], [ 1.4911278, 49.196635 ], [ 1.5016819, 49.196750699999981 ], [ 1.5069, 49.200954 ], [ 1.4946969, 49.2085699 ], [ 1.4976807, 49.218477399999976 ], [ 1.494722, 49.230129 ], [ 1.471817, 49.232716499999981 ], [ 1.4618828, 49.224271 ], [ 1.4512348, 49.2219497 ], [ 1.442788, 49.2153025 ], [ 1.4520348, 49.2093766 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "inovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Inovce", "metric_roundness": 52.45, "metric_rectangularity": 65.75, "metric_mobile_fit": 39.09, "metric_aspect_ratio": 1.172, "metric_area_km2": 24.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.3225573, 48.823872699999988 ], [ 22.323494, 48.819474 ], [ 22.3513565, 48.8157767 ], [ 22.3652682, 48.8104564 ], [ 22.3725355, 48.8045823 ], [ 22.3854415, 48.8054835 ], [ 22.3835769, 48.8229712 ], [ 22.3755875, 48.835355 ], [ 22.3585421, 48.8399211 ], [ 22.3401997, 48.8358304 ], [ 22.3352465, 48.830337 ], [ 22.331529, 48.830334 ], [ 22.3225573, 48.823872699999988 ] ] ] } }
+]
+}

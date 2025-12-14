@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baranyaszentgyorgy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baranyaszentgyörgy", "metric_roundness": 53.79, "metric_rectangularity": 67.25, "metric_mobile_fit": 79.69, "metric_aspect_ratio": 0.766, "metric_area_km2": 15.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0084868, 46.239974099999984 ], [ 18.0155465, 46.228287 ], [ 18.0263265, 46.2377061 ], [ 18.037273, 46.255798 ], [ 18.0249426, 46.2653076 ], [ 18.0163265, 46.266218 ], [ 18.0169214, 46.2633292 ], [ 18.0042917, 46.262551699999989 ], [ 17.9952814, 46.2516573 ], [ 17.9972155, 46.248683 ], [ 18.0084868, 46.239974099999984 ] ] ] } }
+]
+}

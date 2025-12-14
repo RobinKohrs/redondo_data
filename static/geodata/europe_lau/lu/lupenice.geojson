@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lupenice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lupenice", "metric_roundness": 48.78, "metric_rectangularity": 75.87, "metric_mobile_fit": 54.05, "metric_aspect_ratio": 1.022, "metric_area_km2": 10.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2730627, 50.1263041 ], [ 16.2972075, 50.133726499999987 ], [ 16.2956471, 50.139905699999986 ], [ 16.2879125, 50.1447984 ], [ 16.279704, 50.145112 ], [ 16.269393, 50.1366 ], [ 16.2565683, 50.1313637 ], [ 16.2537245, 50.127146 ], [ 16.2679965, 50.117839 ], [ 16.2730627, 50.1263041 ] ] ] } }
+]
+}

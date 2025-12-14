@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_giannitsochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γιαννιτσοχωρίου", "metric_roundness": 38.9, "metric_rectangularity": 49.25, "metric_mobile_fit": 52.52, "metric_aspect_ratio": 1.037, "metric_area_km2": 7.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.680233, 37.377434 ], [ 21.7067715, 37.3946045 ], [ 21.69951, 37.396021 ], [ 21.6861196, 37.3989944 ], [ 21.6801731, 37.4015121 ], [ 21.6731915, 37.407925499999983 ], [ 21.6669615, 37.4063485 ], [ 21.680233, 37.377434 ] ] ] } }
+]
+}

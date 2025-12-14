@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_saitouron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σαϊτουρών", "metric_roundness": 45.61, "metric_rectangularity": 71.74, "metric_mobile_fit": 97.61, "metric_aspect_ratio": 0.539, "metric_area_km2": 16.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.3751979, 35.2657604 ], [ 24.3803932, 35.253945699999981 ], [ 24.3798175, 35.248152 ], [ 24.4057765, 35.245149 ], [ 24.4074802, 35.2672451 ], [ 24.3924565, 35.294081 ], [ 24.3842316, 35.288413899999981 ], [ 24.376032, 35.276391 ], [ 24.3751979, 35.2657604 ] ] ] } }
+]
+}

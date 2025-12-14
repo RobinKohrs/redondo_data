@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kovalovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kovalovice", "metric_roundness": 58.53, "metric_rectangularity": 79.04, "metric_mobile_fit": 66.84, "metric_aspect_ratio": 0.894, "metric_area_km2": 10.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8362652, 49.201488399999981 ], [ 16.826413, 49.203960699999982 ], [ 16.8192957, 49.21053329999998 ], [ 16.8125687, 49.2105192 ], [ 16.807134, 49.20644249999998 ], [ 16.8041932, 49.2015648 ], [ 16.822546, 49.184637 ], [ 16.824598, 49.184829499999985 ], [ 16.826135, 49.183527 ], [ 16.837796, 49.1882608 ], [ 16.841144, 49.192431 ], [ 16.8362652, 49.201488399999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beaulencourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beaulencourt", "metric_roundness": 65.37, "metric_rectangularity": 70.99, "metric_mobile_fit": 73.99, "metric_aspect_ratio": 0.823, "metric_area_km2": 11.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.856705, 50.060991 ], [ 2.864726, 50.059924 ], [ 2.8888455, 50.069754 ], [ 2.8861005, 50.0779805 ], [ 2.8789868, 50.083696299999986 ], [ 2.869313, 50.0814683 ], [ 2.862836, 50.086091 ], [ 2.858844, 50.084492 ], [ 2.856934, 50.084675 ], [ 2.8553095, 50.081275499999975 ], [ 2.855415, 50.0779895 ], [ 2.856705, 50.060991 ] ] ] } }
+]
+}

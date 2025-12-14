@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marestmontiers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marestmontiers", "metric_roundness": 64.25, "metric_rectangularity": 74.82, "metric_mobile_fit": 64.02, "metric_aspect_ratio": 0.922, "metric_area_km2": 5.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.51104, 49.6881127 ], [ 2.5094695, 49.6822145 ], [ 2.5150425, 49.673073 ], [ 2.5275725, 49.676035 ], [ 2.5329064, 49.680500599999981 ], [ 2.5349845, 49.6873845 ], [ 2.515056, 49.6909735 ], [ 2.51104, 49.6881127 ] ] ] } }
+]
+}

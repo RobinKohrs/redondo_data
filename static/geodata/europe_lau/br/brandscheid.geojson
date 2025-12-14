@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brandscheid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brandscheid", "metric_roundness": 47.32, "metric_rectangularity": 62.84, "metric_mobile_fit": 53.85, "metric_aspect_ratio": 1.024, "metric_area_km2": 7.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9125645, 50.572353 ], [ 7.9112656, 50.5676534 ], [ 7.91525, 50.564921699999985 ], [ 7.9141664, 50.5625651 ], [ 7.8961335, 50.557466 ], [ 7.9083003, 50.553204399999984 ], [ 7.918923, 50.5529815 ], [ 7.9220055, 50.553977499999981 ], [ 7.9248755, 50.5567785 ], [ 7.9260615, 50.559792 ], [ 7.9283045, 50.560474499999984 ], [ 7.9267305, 50.5641755 ], [ 7.9323665, 50.565012499999987 ], [ 7.923579, 50.575458 ], [ 7.9125645, 50.572353 ] ] ] } }
+]
+}

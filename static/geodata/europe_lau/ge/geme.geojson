@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geme",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gême", "metric_roundness": 55.44, "metric_rectangularity": 65.35, "metric_mobile_fit": 66.27, "metric_aspect_ratio": 0.9, "metric_area_km2": 2.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4312012, 41.656901399999988 ], [ -8.425691, 41.6553615 ], [ -8.420081, 41.6622555 ], [ -8.4206435, 41.667839499999978 ], [ -8.4245703, 41.6709271 ], [ -8.4388285, 41.666757499999989 ], [ -8.4324835, 41.664056499999987 ], [ -8.431822, 41.660045 ], [ -8.4312012, 41.656901399999988 ] ] ] } }
+]
+}

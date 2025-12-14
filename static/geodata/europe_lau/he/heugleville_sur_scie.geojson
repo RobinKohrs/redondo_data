@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heugleville_sur_scie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heugleville-sur-Scie", "metric_roundness": 42.53, "metric_rectangularity": 66.67, "metric_mobile_fit": -17.68, "metric_aspect_ratio": 1.739, "metric_area_km2": 31.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.054202, 49.7383295 ], [ 1.065794, 49.7320427 ], [ 1.0652515, 49.7294665 ], [ 1.0720282, 49.725793399999986 ], [ 1.0918216, 49.7240945 ], [ 1.1010811, 49.720005199999989 ], [ 1.1218391, 49.7236915 ], [ 1.1301685, 49.7210325 ], [ 1.1410177, 49.7309185 ], [ 1.1319575, 49.739472 ], [ 1.1137875, 49.7467155 ], [ 1.0910478, 49.752264399999987 ], [ 1.077329, 49.7420038 ], [ 1.065267, 49.744393499999987 ], [ 1.054202, 49.7383295 ] ] ] } }
+]
+}

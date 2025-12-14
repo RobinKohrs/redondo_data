@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nova_lubovna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nová Ľubovňa", "metric_roundness": 49.18, "metric_rectangularity": 61.8, "metric_mobile_fit": 26.54, "metric_aspect_ratio": 1.297, "metric_area_km2": 32.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6591315, 49.279541 ], [ 20.6561829, 49.272818 ], [ 20.6486669, 49.2694255 ], [ 20.6519076, 49.265182 ], [ 20.655122, 49.247816 ], [ 20.6663395, 49.256009699999986 ], [ 20.6855218, 49.2598894 ], [ 20.728182, 49.260291 ], [ 20.7199391, 49.267578199999981 ], [ 20.7200787, 49.276528399999982 ], [ 20.7124005, 49.281167 ], [ 20.666372, 49.287818 ], [ 20.6591315, 49.279541 ] ] ] } }
+]
+}

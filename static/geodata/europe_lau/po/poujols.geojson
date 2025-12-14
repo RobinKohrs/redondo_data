@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "poujols",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Poujols", "metric_roundness": 25.71, "metric_rectangularity": 47.74, "metric_mobile_fit": 57.49, "metric_aspect_ratio": 0.988, "metric_area_km2": 4.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3167739, 43.7765015 ], [ 3.3114569, 43.7863095 ], [ 3.2991165, 43.7851055 ], [ 3.3162679, 43.772621399999984 ], [ 3.3139225, 43.763560499999983 ], [ 3.3296715, 43.761888499999984 ], [ 3.3325173, 43.768762 ], [ 3.3233405, 43.7757395 ], [ 3.3167739, 43.7765015 ] ] ] } }
+]
+}

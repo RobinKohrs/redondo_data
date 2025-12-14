@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_gabalochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαβαλοχωρίου", "metric_roundness": 46.65, "metric_rectangularity": 63.79, "metric_mobile_fit": 70.3, "metric_aspect_ratio": 0.859, "metric_area_km2": 15.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.189911, 35.451484499999985 ], [ 24.1872385, 35.449417 ], [ 24.1937235, 35.4353575 ], [ 24.1961727, 35.431895799999985 ], [ 24.1953345, 35.4205855 ], [ 24.212979, 35.410045 ], [ 24.2188087, 35.4149522 ], [ 24.227809, 35.4159435 ], [ 24.2309483, 35.4218201 ], [ 24.2277297, 35.432583199999982 ], [ 24.2234195, 35.4388314 ], [ 24.2177205, 35.4400445 ], [ 24.189911, 35.451484499999985 ] ] ] } }
+]
+}

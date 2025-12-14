@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bethancourt_en_vaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Béthancourt-en-Vaux", "metric_roundness": 54.02, "metric_rectangularity": 75.84, "metric_mobile_fit": 49.81, "metric_aspect_ratio": 1.064, "metric_area_km2": 10.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1573845, 49.6260195 ], [ 3.157773, 49.632134 ], [ 3.1494159, 49.637007899999986 ], [ 3.134157, 49.640258 ], [ 3.116795, 49.632603 ], [ 3.1506215, 49.61465 ], [ 3.1520935, 49.62130879999998 ], [ 3.1588755, 49.6241685 ], [ 3.1573845, 49.6260195 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cisterna_d_asti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cisterna d'Asti", "metric_roundness": 38.87, "metric_rectangularity": 57.6, "metric_mobile_fit": 96.37, "metric_aspect_ratio": 0.599, "metric_area_km2": 21.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9846566, 44.827239299999981 ], [ 7.9875225, 44.825453499999988 ], [ 7.995551, 44.818398599999981 ], [ 8.0059845, 44.8151179 ], [ 8.0197055, 44.8167535 ], [ 8.0232998, 44.8316874 ], [ 8.0052577, 44.850495399999986 ], [ 8.0092537, 44.8606571 ], [ 8.0165845, 44.867619 ], [ 7.9970948, 44.8543088 ], [ 7.978966, 44.84675 ], [ 7.9846566, 44.827239299999981 ] ] ] } }
+]
+}

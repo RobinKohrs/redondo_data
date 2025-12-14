@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_rue_saint_pierre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Rue-Saint-Pierre", "metric_roundness": 36.99, "metric_rectangularity": 57.97, "metric_mobile_fit": 95.1, "metric_aspect_ratio": 0.612, "metric_area_km2": 19.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2729864, 49.400285 ], [ 2.279629, 49.388679499999981 ], [ 2.2794397, 49.3949618 ], [ 2.2940533, 49.3989164 ], [ 2.2964349, 49.402221 ], [ 2.3137766, 49.405802299999984 ], [ 2.317507, 49.410996499999982 ], [ 2.3042358, 49.417128099999985 ], [ 2.2996345, 49.430187 ], [ 2.2938077, 49.4360469 ], [ 2.279655, 49.430479 ], [ 2.2729864, 49.400285 ] ] ] } }
+]
+}

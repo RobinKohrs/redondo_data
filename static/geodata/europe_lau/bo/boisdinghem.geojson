@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boisdinghem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boisdinghem", "metric_roundness": 46.8, "metric_rectangularity": 86.87, "metric_mobile_fit": 7.37, "metric_aspect_ratio": 1.489, "metric_area_km2": 7.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.077091, 50.7451245 ], [ 2.087913, 50.740514499999989 ], [ 2.1145095, 50.7477575 ], [ 2.1017015, 50.7578512 ], [ 2.073715, 50.750215499999989 ], [ 2.077091, 50.7451245 ] ] ] } }
+]
+}

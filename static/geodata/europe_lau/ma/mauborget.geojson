@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mauborget",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mauborget", "metric_roundness": 37.32, "metric_rectangularity": 61.77, "metric_mobile_fit": 82.95, "metric_aspect_ratio": 0.733, "metric_area_km2": 11.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5909621, 46.8769248 ], [ 6.603678, 46.8693911 ], [ 6.5971897, 46.8635853 ], [ 6.597234, 46.85975 ], [ 6.6035299, 46.857484399999983 ], [ 6.6080807, 46.8505993 ], [ 6.616686, 46.8510885 ], [ 6.626043, 46.8584008 ], [ 6.6228615, 46.8679274 ], [ 6.6124172, 46.8693932 ], [ 6.6063645, 46.886772 ], [ 6.597768, 46.883551499999982 ], [ 6.5933605, 46.884328499999988 ], [ 6.587262, 46.884157499999986 ], [ 6.5909621, 46.8769248 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rodersheim_gronau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rödersheim-Gronau", "metric_roundness": 55.1, "metric_rectangularity": 90.39, "metric_mobile_fit": 39.08, "metric_aspect_ratio": 1.172, "metric_area_km2": 20.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.280647, 49.446662 ], [ 8.2358, 49.439641 ], [ 8.234305, 49.437397 ], [ 8.233288, 49.430014499999984 ], [ 8.2377895, 49.418252 ], [ 8.257877, 49.420876499999984 ], [ 8.2787298, 49.4233237 ], [ 8.2844725, 49.434764 ], [ 8.280647, 49.446662 ] ] ] } }
+]
+}

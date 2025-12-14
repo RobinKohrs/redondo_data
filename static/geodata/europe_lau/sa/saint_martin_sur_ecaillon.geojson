@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_martin_sur_ecaillon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Martin-sur-Écaillon", "metric_roundness": 62.82, "metric_rectangularity": 70.28, "metric_mobile_fit": 71.63, "metric_aspect_ratio": 0.846, "metric_area_km2": 13.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.527849, 50.226076 ], [ 3.5293325, 50.22966049999998 ], [ 3.5301425, 50.234284 ], [ 3.5345102, 50.2449714 ], [ 3.5295599, 50.2500448 ], [ 3.51476, 50.254562299999989 ], [ 3.51476, 50.252518699999982 ], [ 3.505709, 50.250101499999985 ], [ 3.49682, 50.241488 ], [ 3.5081151, 50.2336828 ], [ 3.5088077, 50.2285038 ], [ 3.51476, 50.2282096 ], [ 3.515799, 50.226222 ], [ 3.527849, 50.226076 ] ] ] } }
+]
+}

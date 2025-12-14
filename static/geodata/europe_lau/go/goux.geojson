@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "goux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Goux", "metric_roundness": 61.88, "metric_rectangularity": 76.92, "metric_mobile_fit": 34.48, "metric_aspect_ratio": 1.218, "metric_area_km2": 10.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0406855, 43.624756 ], [ -0.0338905, 43.607471 ], [ -0.033516, 43.604721499999989 ], [ -0.0150125, 43.605526 ], [ -0.0115422, 43.6121651 ], [ -0.007008, 43.613118 ], [ -0.0074549, 43.6165921 ], [ -0.0031955, 43.621839499999986 ], [ -0.0078025, 43.627011 ], [ -0.0406855, 43.624756 ] ] ] } }
+]
+}

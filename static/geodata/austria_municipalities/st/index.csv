@@ -1,0 +1,161 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+austria_municipalities,St. Aegidi,st_aegidi,st,45.27,51.21,68.57
+austria_municipalities,St. Aegyd am Neuwalde,st_aegyd_am_neuwalde,st,44.97,58.32,19.24
+austria_municipalities,St. Agatha,st_agatha,st,54.57,67.38,73.89
+austria_municipalities,St. Andrä,st_andra,st,30.26,49.07,-46.47
+austria_municipalities,St. Andrä im Lungau,st_andra_im_lungau,st,57.52,67.64,59.77
+austria_municipalities,St. Andrä-Wördern,st_andra_wordern,st,37.9,47.28,85.84
+austria_municipalities,St. Anton am Arlberg,st_anton_am_arlberg,st,40.36,62.48,81.82
+austria_municipalities,St. Anton an der Jeßnitz,st_anton_an_der_jessnitz,st,59.92,63.1,61.84
+austria_municipalities,St. Anton im Montafon,st_anton_im_montafon,st,37,48.49,54.37
+austria_municipalities,St. Bernhard-Frauenhofen,st_bernhard_frauenhofen,st,52.44,58.6,39.84
+austria_municipalities,St. Corona am Wechsel,st_corona_am_wechsel,st,31.87,50.42,-24.01
+austria_municipalities,St. Egyden am Steinfeld,st_egyden_am_steinfeld,st,46.71,68.54,15.43
+austria_municipalities,St. Florian,st_florian,st,50.16,61.83,24.54
+austria_municipalities,St. Florian am Inn,st_florian_am_inn,st,41.05,63.3,92.71
+austria_municipalities,St. Gallenkirch,st_gallenkirch,st,51.33,69.4,64.79
+austria_municipalities,St. Georgen am Fillmannsbach,st_georgen_am_fillmannsbach,st,31.63,37.15,68.89
+austria_municipalities,St. Georgen am Längsee,st_georgen_am_langsee,st,60.72,64.9,59.18
+austria_municipalities,St. Georgen am Reith,st_georgen_am_reith,st,55.93,67.75,50.93
+austria_municipalities,St. Georgen am Walde,st_georgen_am_walde,st,41.77,56.8,84.23
+austria_municipalities,St. Georgen am Ybbsfelde,st_georgen_am_ybbsfelde,st,56.52,70.04,89.98
+austria_municipalities,St. Georgen an der Gusen,st_georgen_an_der_gusen,st,31.98,53.57,85.9
+austria_municipalities,St. Georgen an der Leys,st_georgen_an_der_leys,st,55.32,64.66,50.98
+austria_municipalities,St. Georgen bei Grieskirchen,st_georgen_bei_grieskirchen,st,33.63,54.1,77.75
+austria_municipalities,St. Georgen bei Obernberg am Inn,st_georgen_bei_obernberg_am_inn,st,47.41,60.8,80.65
+austria_municipalities,St. Georgen bei Salzburg,st_georgen_bei_salzburg,st,32.84,42.26,88.88
+austria_municipalities,St. Georgen im Attergau,st_georgen_im_attergau,st,38.09,58.52,-12.72
+austria_municipalities,St. Georgen im Lavanttal,st_georgen_im_lavanttal,st,45.97,56.01,33.87
+austria_municipalities,St. Gerold,st_gerold,st,48.28,62.86,92.73
+austria_municipalities,St. Gilgen,st_gilgen,st,31.58,41.98,50.7
+austria_municipalities,St. Gotthard im Mühlkreis,st_gotthard_im_muhlkreis,st,48.4,64.65,54.7
+austria_municipalities,St. Jakob im Rosental,st_jakob_im_rosental,st,62.51,67.93,49.57
+austria_municipalities,St. Jakob in Defereggen,st_jakob_in_defereggen,st,44.01,56.56,49.34
+austria_municipalities,St. Jakob in Haus,st_jakob_in_haus,st,47.76,68.09,58.8
+austria_municipalities,St. Johann am Walde,st_johann_am_walde,st,41.47,54.11,89.81
+austria_municipalities,St. Johann am Wimberg,st_johann_am_wimberg,st,44.11,63.54,73.92
+austria_municipalities,St. Johann im Pongau,st_johann_im_pongau,st,68.65,69.1,55.21
+austria_municipalities,St. Johann im Walde,st_johann_im_walde,st,28.46,45.69,45.67
+austria_municipalities,St. Johann in Tirol,st_johann_in_tirol,st,37.41,53.29,32.22
+austria_municipalities,St. Kanzian am Klopeiner See,st_kanzian_am_klopeiner_see,st,53.3,64.3,63.47
+austria_municipalities,St. Kathrein am Hauenstein,st_kathrein_am_hauenstein,st,49.52,57.11,71.27
+austria_municipalities,St. Koloman,st_koloman,st,53.97,70.06,23.75
+austria_municipalities,St. Konrad,st_konrad,st,47.07,60.36,69.07
+austria_municipalities,St. Leonhard am Forst,st_leonhard_am_forst,st,37.94,49.1,87.96
+austria_municipalities,St. Leonhard am Hornerwald,st_leonhard_am_hornerwald,st,42.18,59,55.87
+austria_municipalities,St. Leonhard bei Freistadt,st_leonhard_bei_freistadt,st,52.31,60.37,68.03
+austria_municipalities,St. Leonhard im Pitztal,st_leonhard_im_pitztal,st,35.44,68.6,89.16
+austria_municipalities,St. Lorenz,st_lorenz,st,25.82,51.97,46.11
+austria_municipalities,St. Margareten im Rosental,st_margareten_im_rosental,st,59.2,67.93,57.97
+austria_municipalities,St. Margarethen an der Raab,st_margarethen_an_der_raab,st,56.83,65.11,29.46
+austria_municipalities,St. Margarethen an der Sierning,st_margarethen_an_der_sierning,st,54.14,62.72,25.03
+austria_municipalities,St. Margarethen im Lungau,st_margarethen_im_lungau,st,42.85,67.93,50.53
+austria_municipalities,St. Marien,st_marien,st,52.97,62.83,68.11
+austria_municipalities,St. Marienkirchen am Hausruck,st_marienkirchen_am_hausruck,st,51.22,67.18,13.82
+austria_municipalities,St. Marienkirchen an der Polsenz,st_marienkirchen_an_der_polsenz,st,55.44,70.95,20.23
+austria_municipalities,St. Marienkirchen bei Schärding,st_marienkirchen_bei_scharding,st,53.55,63.13,43.85
+austria_municipalities,St. Martin,st_martin,st,36.75,51.95,-4.85
+austria_municipalities,St. Martin am Tennengebirge,st_martin_am_tennengebirge,st,46.18,65.94,56.45
+austria_municipalities,St. Martin bei Lofer,st_martin_bei_lofer,st,47.47,64.35,73.78
+austria_municipalities,St. Martin im Innkreis,st_martin_im_innkreis,st,31.86,49.26,-16.19
+austria_municipalities,St. Martin im Mühlkreis,st_martin_im_muhlkreis,st,51.09,71.82,74.47
+austria_municipalities,St. Martin-Karlsbach,st_martin_karlsbach,st,45.03,67.49,39.9
+austria_municipalities,St. Michael im Lungau,st_michael_im_lungau,st,41.24,55.94,65.21
+austria_municipalities,St. Nikola an der Donau,st_nikola_an_der_donau,st,18.74,39.01,56.66
+austria_municipalities,St. Oswald,st_oswald,st,36.41,56.61,97.22
+austria_municipalities,St. Oswald bei Freistadt,st_oswald_bei_freistadt,st,63.72,64.61,52.64
+austria_municipalities,St. Oswald bei Haslach,st_oswald_bei_haslach,st,53.94,64.65,62.81
+austria_municipalities,St. Pankraz,st_pankraz,st,53.94,66.94,47.36
+austria_municipalities,St. Pantaleon,st_pantaleon,st,37.37,44.57,21.42
+austria_municipalities,St. Pantaleon-Erla,st_pantaleon_erla,st,41.41,64.56,50.44
+austria_municipalities,St. Paul im Lavanttal,st_paul_im_lavanttal,st,38.33,55.44,2.72
+austria_municipalities,St. Peter am Hart,st_peter_am_hart,st,44.21,64.9,62.26
+austria_municipalities,St. Peter am Kammersberg,st_peter_am_kammersberg,st,36.84,63.15,74.51
+austria_municipalities,St. Peter am Wimberg,st_peter_am_wimberg,st,45.54,59.87,78.52
+austria_municipalities,St. Peter in der Au,st_peter_in_der_au,st,26.55,35.13,82.64
+austria_municipalities,St. Pölten,st_polten,st,38.12,55.92,74.7
+austria_municipalities,St. Radegund,st_radegund,st,51.83,62.94,82
+austria_municipalities,St. Roman,st_roman,st,51.83,58.26,66.95
+austria_municipalities,St. Sigmund im Sellrain,st_sigmund_im_sellrain,st,41.18,67.52,99.91
+austria_municipalities,St. Stefan im Gailtal,st_stefan_im_gailtal,st,33.76,51.97,61.65
+austria_municipalities,St. Stefan-Afiesl,st_stefan_afiesl,st,53.93,59.2,36.56
+austria_municipalities,St. Thomas,st_thomas,st,37.65,61.56,-10.46
+austria_municipalities,St. Thomas am Blasenstein,st_thomas_am_blasenstein,st,51.74,64.2,89.28
+austria_municipalities,St. Ulrich am Pillersee,st_ulrich_am_pillersee,st,57.55,64.13,45.6
+austria_municipalities,St. Ulrich bei Steyr,st_ulrich_bei_steyr,st,33.72,50.13,44.8
+austria_municipalities,St. Ulrich im Mühlkreis,st_ulrich_im_muhlkreis,st,52.07,55.09,30.42
+austria_municipalities,St. Urban,st_urban,st,58.67,60.44,73.04
+austria_municipalities,St. Valentin,st_valentin,st,47.15,56.07,69.25
+austria_municipalities,St. Veit an der Glan,st_veit_an_der_glan,st,41.92,61.9,39.38
+austria_municipalities,St. Veit an der Gölsen,st_veit_an_der_golsen,st,45.02,59.06,85.65
+austria_municipalities,St. Veit im Innkreis,st_veit_im_innkreis,st,49.91,57.66,26.05
+austria_municipalities,St. Veit im Mühlkreis,st_veit_im_muhlkreis,st,23.6,53.67,82.68
+austria_municipalities,St. Veit im Pongau,st_veit_im_pongau,st,43.24,50.39,64.39
+austria_municipalities,St. Veit in Defereggen,st_veit_in_defereggen,st,36.53,55.22,13.78
+austria_municipalities,St. Willibald,st_willibald,st,48.63,59.31,78.08
+austria_municipalities,St. Wolfgang im Salzkammergut,st_wolfgang_im_salzkammergut,st,61.06,79.69,25.97
+austria_municipalities,Staatz,staatz,st,47.75,61.63,33.21
+austria_municipalities,Stadl-Paura,stadl_paura,st,36.83,59.02,27.05
+austria_municipalities,Stadl-Predlitz,stadl_predlitz,st,45.81,56.62,67.57
+austria_municipalities,Stadtschlaining,stadtschlaining,st,26.33,49.81,86.6
+austria_municipalities,Stainach-Pürgg,stainach_purgg,st,49.22,63.3,88.68
+austria_municipalities,Stainz,stainz,st,26.9,49.29,-20.65
+austria_municipalities,Stall,stall,st,48.83,68.55,67.04
+austria_municipalities,Stallehr,stallehr,st,34.86,56.51,-43.96
+austria_municipalities,Stallhofen,stallhofen,st,33.99,54.56,56.51
+austria_municipalities,Stams,stams,st,30.17,54.58,46.97
+austria_municipalities,Stans,stans,st,50.62,60.63,13.57
+austria_municipalities,Stanz bei Landeck,stanz_bei_landeck,st,53.68,60.07,60.96
+austria_municipalities,Stanz im Mürztal,stanz_im_murztal,st,67.64,71.91,55.29
+austria_municipalities,Stanzach,stanzach,st,48.26,63.84,67.92
+austria_municipalities,Stattegg,stattegg,st,47.69,60.11,71.84
+austria_municipalities,Statzendorf,statzendorf,st,34.44,45.87,96.29
+austria_municipalities,Steeg,steeg,st,45.8,52.36,68.13
+austria_municipalities,Steegen,steegen,st,39.41,52.78,91.88
+austria_municipalities,Stegersbach,stegersbach,st,40.46,49.29,42.5
+austria_municipalities,Steinach am Brenner,steinach_am_brenner,st,34.6,48.59,1.3
+austria_municipalities,Steinakirchen am Forst,steinakirchen_am_forst,st,29.23,47.51,95.42
+austria_municipalities,Steinbach am Attersee,steinbach_am_attersee,st,62.33,66.91,78.22
+austria_municipalities,Steinbach am Ziehberg,steinbach_am_ziehberg,st,46.77,69.97,27.16
+austria_municipalities,Steinbach an der Steyr,steinbach_an_der_steyr,st,34.63,61.46,94.82
+austria_municipalities,Steinberg am Rofan,steinberg_am_rofan,st,64.05,73.32,85.1
+austria_municipalities,Steinberg-Dörfl,steinberg_dorfl,st,54.37,61.92,55.26
+austria_municipalities,Steinbrunn,steinbrunn,st,44.59,58.5,60.05
+austria_municipalities,Steindorf am Ossiacher See,steindorf_am_ossiacher_see,st,28.58,53.93,-6.84
+austria_municipalities,Steinerkirchen an der Traun,steinerkirchen_an_der_traun,st,42.64,63.06,47.37
+austria_municipalities,Steinfeld,steinfeld,st,27.24,48.35,35.3
+austria_municipalities,Steinhaus,steinhaus,st,55.16,69.09,33.46
+austria_municipalities,Stetteldorf am Wagram,stetteldorf_am_wagram,st,55.99,71.33,76.37
+austria_municipalities,Stetten,stetten,st,45.71,57.5,20.09
+austria_municipalities,Steuerberg,steuerberg,st,43.94,57.28,6.93
+austria_municipalities,Steyr,steyr,st,44.21,58.2,60.36
+austria_municipalities,Steyregg,steyregg,st,42.53,59.29,51.05
+austria_municipalities,Stinatz,stinatz,st,33.69,59.05,72.42
+austria_municipalities,Stiwoll,stiwoll,st,42.98,67.92,90.78
+austria_municipalities,Stockenboi,stockenboi,st,44.67,61.82,-13.87
+austria_municipalities,Stockerau,stockerau,st,55.99,63.11,45.85
+austria_municipalities,Stoob,stoob,st,59.48,76.15,41.53
+austria_municipalities,Stotzing,stotzing,st,59.11,69.95,60.95
+austria_municipalities,Straden,straden,st,47.67,63.45,93.24
+austria_municipalities,Strallegg,strallegg,st,43.99,60.51,97.46
+austria_municipalities,Straning-Grafenberg,straning_grafenberg,st,53.34,68.96,51.42
+austria_municipalities,Strass im Zillertal,strass_im_zillertal,st,44.8,59.84,60.63
+austria_municipalities,Strassen,strassen,st,36.94,48.53,59.56
+austria_municipalities,Strasshof an der Nordbahn,strasshof_an_der_nordbahn,st,39.97,53.38,30.39
+austria_municipalities,Stratzing,stratzing,st,45.15,69.28,-2.09
+austria_municipalities,Straß im Attergau,strass_im_attergau,st,42.76,63.59,-3.89
+austria_municipalities,Straß im Straßertale,strass_im_strassertale,st,38.12,52.51,93.5
+austria_municipalities,Straß in Steiermark,strass_in_steiermark,st,25.15,41.2,-15.7
+austria_municipalities,Straßburg,strassburg,st,41.45,65.66,-18.4
+austria_municipalities,Straßwalchen,strasswalchen,st,37.62,52.05,2
+austria_municipalities,Strem,strem,st,36.23,59.16,96.8
+austria_municipalities,Strengberg,strengberg,st,49.68,66.16,69.88
+austria_municipalities,Strengen,strengen,st,41.51,58.11,82.59
+austria_municipalities,Strobl,strobl,st,42.87,64.12,28.43
+austria_municipalities,Stroheim,stroheim,st,32.68,59.91,70.35
+austria_municipalities,Stronsdorf,stronsdorf,st,46.84,59.27,87.31
+austria_municipalities,Stubenberg,stubenberg,st,45.58,56.79,67.27
+austria_municipalities,Stuhlfelden,stuhlfelden,st,36.91,62.48,97.43
+austria_municipalities,Stumm,stumm,st,20.61,54.96,91.06
+austria_municipalities,Stummerberg,stummerberg,st,50.76,57.22,46.14
+austria_municipalities,Stössing,stossing,st,67.01,65,57.89

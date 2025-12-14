@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "narros_de_salduena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Narros de Saldueña", "metric_roundness": 32.22, "metric_rectangularity": 58.72, "metric_mobile_fit": 98.38, "metric_aspect_ratio": 0.546, "metric_area_km2": 15.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.8614737, 40.859776 ], [ -4.8602872, 40.892946599999974 ], [ -4.8643335, 40.901848 ], [ -4.89328, 40.894047 ], [ -4.8849105, 40.8868552 ], [ -4.8835567, 40.8694378 ], [ -4.8565995, 40.851082 ], [ -4.8614737, 40.859776 ] ] ] } }
+]
+}

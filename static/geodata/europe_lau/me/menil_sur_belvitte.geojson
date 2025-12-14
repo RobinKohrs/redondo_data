@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "menil_sur_belvitte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ménil-sur-Belvitte", "metric_roundness": 52.67, "metric_rectangularity": 73.36, "metric_mobile_fit": 96.54, "metric_aspect_ratio": 0.597, "metric_area_km2": 19.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6881987, 48.404883199999986 ], [ 6.6816811, 48.3979219 ], [ 6.677058, 48.3863525 ], [ 6.6845012, 48.372646799999984 ], [ 6.695818, 48.364914499999983 ], [ 6.7045854, 48.365668 ], [ 6.712171, 48.370269 ], [ 6.713869, 48.3703465 ], [ 6.7132713, 48.3884817 ], [ 6.6945795, 48.405857499999982 ], [ 6.6881987, 48.404883199999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "daverio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Daverio", "metric_roundness": 51.95, "metric_rectangularity": 62.26, "metric_mobile_fit": 23.04, "metric_aspect_ratio": 1.332, "metric_area_km2": 8.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7669826, 45.7655058 ], [ 8.7741495, 45.76291 ], [ 8.7835244, 45.7717539 ], [ 8.783704, 45.7826455 ], [ 8.7682252, 45.779825299999985 ], [ 8.761555, 45.783405499999986 ], [ 8.7573323, 45.7767771 ], [ 8.744561, 45.775943 ], [ 8.7568005, 45.7644495 ], [ 8.7669826, 45.7655058 ] ] ] } }
+]
+}

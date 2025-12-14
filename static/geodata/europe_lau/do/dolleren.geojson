@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolleren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolleren", "metric_roundness": 41.63, "metric_rectangularity": 60.62, "metric_mobile_fit": 64.66, "metric_aspect_ratio": 0.916, "metric_area_km2": 18.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9205612, 47.811049599999983 ], [ 6.9205205, 47.8064846 ], [ 6.8973912, 47.7961016 ], [ 6.897446, 47.784046 ], [ 6.8916905, 47.7783375 ], [ 6.9020865, 47.776444 ], [ 6.907542, 47.777716499999983 ], [ 6.9116146, 47.7846745 ], [ 6.9269773, 47.7846278 ], [ 6.93601, 47.795893699999986 ], [ 6.946462, 47.802579499999986 ], [ 6.9308773, 47.8144898 ], [ 6.9162365, 47.816614499999979 ], [ 6.9205612, 47.811049599999983 ] ] ] } }
+]
+}

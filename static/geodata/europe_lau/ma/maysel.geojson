@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maysel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maysel", "metric_roundness": 51.92, "metric_rectangularity": 66.83, "metric_mobile_fit": 81.56, "metric_aspect_ratio": 0.747, "metric_area_km2": 9.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.378088, 49.261942499999989 ], [ 2.369154, 49.2662135 ], [ 2.3629183, 49.260930599999973 ], [ 2.3576848, 49.260306099999987 ], [ 2.3561575, 49.2445732 ], [ 2.3525895, 49.2410875 ], [ 2.3589695, 49.239819499999989 ], [ 2.372362, 49.2406255 ], [ 2.3775568, 49.2505962 ], [ 2.3827936, 49.2537041 ], [ 2.3772567, 49.2586399 ], [ 2.3818615, 49.260316 ], [ 2.378088, 49.261942499999989 ] ] ] } }
+]
+}

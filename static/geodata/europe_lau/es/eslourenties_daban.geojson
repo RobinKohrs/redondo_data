@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eslourenties_daban",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eslourenties-Daban", "metric_roundness": 48.98, "metric_rectangularity": 64.19, "metric_mobile_fit": 70.16, "metric_aspect_ratio": 0.861, "metric_area_km2": 9.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.151448, 43.31612 ], [ -0.1480771, 43.3105474 ], [ -0.1493937, 43.3035523 ], [ -0.158149, 43.299738 ], [ -0.137358, 43.285744 ], [ -0.1282605, 43.2911807 ], [ -0.122217, 43.301429 ], [ -0.1313128, 43.3013316 ], [ -0.1297429, 43.3095132 ], [ -0.1385265, 43.312553 ], [ -0.151448, 43.31612 ] ] ] } }
+]
+}

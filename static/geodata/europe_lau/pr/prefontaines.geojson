@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prefontaines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Préfontaines", "metric_roundness": 62.67, "metric_rectangularity": 72.8, "metric_mobile_fit": 65.79, "metric_aspect_ratio": 0.905, "metric_area_km2": 26.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7133765, 48.094449 ], [ 2.712949, 48.100295 ], [ 2.7111765, 48.105965499999989 ], [ 2.7095855, 48.108758 ], [ 2.7094685, 48.111186499999981 ], [ 2.707099, 48.118073499999987 ], [ 2.706543, 48.124819 ], [ 2.676305, 48.1252528 ], [ 2.667567, 48.120664 ], [ 2.6717717, 48.113236099999988 ], [ 2.6629025, 48.104806 ], [ 2.6874275, 48.088144 ], [ 2.7046007, 48.0867806 ], [ 2.7150215, 48.0898575 ], [ 2.7133765, 48.094449 ] ] ] } }
+]
+}

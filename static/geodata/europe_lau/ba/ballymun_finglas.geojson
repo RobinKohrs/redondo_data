@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ballymun_finglas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ballymun-Finglas", "metric_roundness": 52.73, "metric_rectangularity": 73.1, "metric_mobile_fit": 16.22, "metric_aspect_ratio": 1.4, "metric_area_km2": 30.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.3034578, 53.3763767 ], [ -6.265269, 53.3786455 ], [ -6.2640574, 53.390544799999986 ], [ -6.2529848, 53.392028 ], [ -6.251581, 53.3990765 ], [ -6.263775, 53.401396 ], [ -6.2717812, 53.4050912 ], [ -6.2889313, 53.406380299999988 ], [ -6.2926688, 53.398648799999989 ], [ -6.3087498, 53.4017731 ], [ -6.3173827, 53.3996549 ], [ -6.322032, 53.379672 ], [ -6.3034578, 53.3763767 ] ] ] } }
+]
+}

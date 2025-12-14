@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mudronovo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mudroňovo", "metric_roundness": 24.89, "metric_rectangularity": 54.79, "metric_mobile_fit": 88.82, "metric_aspect_ratio": 0.674, "metric_area_km2": 9.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.33736, 47.811668 ], [ 18.3442269, 47.8175205 ], [ 18.3194476, 47.834193199999987 ], [ 18.322952, 47.8421269 ], [ 18.311793, 47.849791499999981 ], [ 18.3059325, 47.837402 ], [ 18.3123479, 47.8293175 ], [ 18.3124175, 47.824448 ], [ 18.33736, 47.811668 ] ] ] } }
+]
+}

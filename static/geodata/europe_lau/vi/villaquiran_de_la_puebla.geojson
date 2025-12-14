@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villaquiran_de_la_puebla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villaquirán de la Puebla", "metric_roundness": 59.61, "metric_rectangularity": 66.87, "metric_mobile_fit": 39.23, "metric_aspect_ratio": 1.17, "metric_area_km2": 20.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.057067, 42.287731 ], [ -4.0565055, 42.291832 ], [ -4.059338, 42.2936635 ], [ -4.0651858, 42.2909329 ], [ -4.0736299, 42.2941259 ], [ -4.1104802, 42.2888624 ], [ -4.1113319, 42.2774492 ], [ -4.0981182, 42.2631418 ], [ -4.0882365, 42.259312 ], [ -4.0729355, 42.271791599999986 ], [ -4.0562725, 42.280632 ], [ -4.057067, 42.287731 ] ] ] } }
+]
+}

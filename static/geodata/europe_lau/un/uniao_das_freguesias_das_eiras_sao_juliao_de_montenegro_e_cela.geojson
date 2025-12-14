@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_das_eiras_sao_juliao_de_montenegro_e_cela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias das Eiras, São Julião de Montenegro e Cela", "metric_roundness": 33.39, "metric_rectangularity": 49.49, "metric_mobile_fit": 63.56, "metric_aspect_ratio": 0.927, "metric_area_km2": 40.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.3652539, 41.6747114 ], [ -7.3591099, 41.687322099999982 ], [ -7.362415, 41.6936545 ], [ -7.3706829, 41.7003672 ], [ -7.36612, 41.714909 ], [ -7.3680105, 41.7203815 ], [ -7.3708775, 41.7272935 ], [ -7.372543, 41.7296475 ], [ -7.40647, 41.7387855 ], [ -7.437185, 41.739099499999988 ], [ -7.433302, 41.724077099999988 ], [ -7.4390535, 41.718862 ], [ -7.4260125, 41.7005245 ], [ -7.4149825, 41.703219 ], [ -7.3954772, 41.7077369 ], [ -7.3874359, 41.701460299999987 ], [ -7.3736044, 41.6977588 ], [ -7.3715456, 41.694009399999977 ], [ -7.377621, 41.6763375 ], [ -7.3652539, 41.6747114 ] ] ] } }
+]
+}

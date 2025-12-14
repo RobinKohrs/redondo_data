@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trujillanos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trujillanos", "metric_roundness": 78.04, "metric_rectangularity": 78.57, "metric_mobile_fit": 58.07, "metric_aspect_ratio": 0.982, "metric_area_km2": 33.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.2755279, 38.9456819 ], [ -6.2619757, 38.9357579 ], [ -6.2540109, 38.9338445 ], [ -6.2271117, 38.943894199999988 ], [ -6.2208422, 38.954787599999989 ], [ -6.2255991, 38.9768638 ], [ -6.2475584, 38.9834763 ], [ -6.2568527, 38.9804772 ], [ -6.2835072, 38.9604826 ], [ -6.2755279, 38.9456819 ] ] ] } }
+]
+}

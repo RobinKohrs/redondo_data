@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chilly", "metric_roundness": 49.89, "metric_rectangularity": 79.46, "metric_mobile_fit": 83.37, "metric_aspect_ratio": 0.729, "metric_area_km2": 13.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4898875, 49.8485725 ], [ 4.4794278, 49.854346399999976 ], [ 4.4702189, 49.8543387 ], [ 4.4614475, 49.8584055 ], [ 4.4581821, 49.845690599999983 ], [ 4.4526745, 49.8405765 ], [ 4.4644806, 49.8278548 ], [ 4.476288, 49.825476 ], [ 4.4893175, 49.848222499999984 ], [ 4.4898875, 49.8485725 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arnaud_guilhem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arnaud-Guilhem", "metric_roundness": 57.16, "metric_rectangularity": 77.34, "metric_mobile_fit": 21.36, "metric_aspect_ratio": 1.349, "metric_area_km2": 14.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9187899, 43.142717399999988 ], [ 0.9240215, 43.145929 ], [ 0.9227745, 43.1490595 ], [ 0.9001652, 43.1588407 ], [ 0.886319, 43.1595355 ], [ 0.8812435, 43.155863499999988 ], [ 0.8763425, 43.1396035 ], [ 0.8913689, 43.135627799999988 ], [ 0.9042464, 43.1371609 ], [ 0.922035, 43.1337465 ], [ 0.9187899, 43.142717399999988 ] ] ] } }
+]
+}

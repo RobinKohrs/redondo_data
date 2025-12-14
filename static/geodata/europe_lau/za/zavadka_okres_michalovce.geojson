@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zavadka_okres_michalovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Závadka (okres Michalovce)", "metric_roundness": 43.5, "metric_rectangularity": 54.66, "metric_mobile_fit": 25.49, "metric_aspect_ratio": 1.308, "metric_area_km2": 11.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0573845, 48.749634499999985 ], [ 22.067462, 48.7526895 ], [ 22.0903997, 48.7560344 ], [ 22.0978307, 48.759496399999982 ], [ 22.098566, 48.762376499999981 ], [ 22.0806243, 48.7618103 ], [ 22.0771645, 48.766974 ], [ 22.0750316, 48.7701029 ], [ 22.0627712, 48.7698494 ], [ 22.0519345, 48.7732325 ], [ 22.0517555, 48.7531765 ], [ 22.0573845, 48.749634499999985 ] ] ] } }
+]
+}

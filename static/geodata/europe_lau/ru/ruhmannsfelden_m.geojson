@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ruhmannsfelden_m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ruhmannsfelden, M", "metric_roundness": 35.98, "metric_rectangularity": 56.56, "metric_mobile_fit": 76.31, "metric_aspect_ratio": 0.799, "metric_area_km2": 13.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.9819132, 48.972335 ], [ 12.994319, 48.9838606 ], [ 12.9938263, 48.994333599999983 ], [ 13.0018355, 48.9994315 ], [ 12.9893422, 48.998133399999986 ], [ 12.9834161, 48.991682599999983 ], [ 12.9658985, 48.9923938 ], [ 12.9675107, 48.984361799999988 ], [ 12.9608894, 48.9820475 ], [ 12.9583095, 48.97377 ], [ 12.9662895, 48.9723839 ], [ 12.9744022, 48.9636967 ], [ 12.980031, 48.9643395 ], [ 12.9819132, 48.972335 ] ] ] } }
+]
+}

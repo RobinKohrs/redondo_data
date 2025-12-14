@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kakouraiikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κακουραίικων", "metric_roundness": 68.19, "metric_rectangularity": 69.61, "metric_mobile_fit": 56.15, "metric_aspect_ratio": 1.001, "metric_area_km2": 19.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9310623, 37.599111 ], [ 21.907944, 37.6023955 ], [ 21.8948678, 37.596436 ], [ 21.8909685, 37.590587 ], [ 21.8930784, 37.5815269 ], [ 21.9015822, 37.575657 ], [ 21.9018964, 37.5675695 ], [ 21.9111225, 37.563123499999975 ], [ 21.9257964, 37.566820899999989 ], [ 21.9305631, 37.5709065 ], [ 21.9294246, 37.5839437 ], [ 21.933209, 37.589449 ], [ 21.9405735, 37.594165499999988 ], [ 21.9310623, 37.599111 ] ] ] } }
+]
+}

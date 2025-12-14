@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "esparragosa_de_la_serena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Esparragosa de la Serena", "metric_roundness": 47.76, "metric_rectangularity": 58.87, "metric_mobile_fit": 70.87, "metric_aspect_ratio": 0.854, "metric_area_km2": 34.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.6028016, 38.674716199999985 ], [ -5.6065215, 38.6652819 ], [ -5.631098, 38.660591 ], [ -5.6262417, 38.6297346 ], [ -5.6173619, 38.6241579 ], [ -5.6074578, 38.630724199999989 ], [ -5.5898611, 38.6326148 ], [ -5.5776031, 38.641818 ], [ -5.564772, 38.646099 ], [ -5.5835122, 38.6597964 ], [ -5.5819943, 38.6718677 ], [ -5.5706418, 38.6769758 ], [ -5.5698253, 38.6803158 ], [ -5.5934895, 38.684822 ], [ -5.6028016, 38.674716199999985 ] ] ] } }
+]
+}

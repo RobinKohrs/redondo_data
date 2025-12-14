@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ressons_sur_matz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ressons-sur-Matz", "metric_roundness": 55.05, "metric_rectangularity": 66.54, "metric_mobile_fit": 41.93, "metric_aspect_ratio": 1.143, "metric_area_km2": 22.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.72035, 49.5171455 ], [ 2.727685, 49.5249173 ], [ 2.7462146, 49.523447299999987 ], [ 2.756279, 49.52765 ], [ 2.7613185, 49.542859 ], [ 2.73933, 49.5496645 ], [ 2.7287965, 49.549880499999986 ], [ 2.7238114, 49.5428328 ], [ 2.7138702, 49.541187199999989 ], [ 2.7120003, 49.5353712 ], [ 2.7036575, 49.528578 ], [ 2.7084865, 49.518989 ], [ 2.72035, 49.5171455 ] ] ] } }
+]
+}

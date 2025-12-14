@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "topolnica",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Topoľnica", "metric_roundness": 34.78, "metric_rectangularity": 60.47, "metric_mobile_fit": 29.73, "metric_aspect_ratio": 1.265, "metric_area_km2": 23.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.7940318, 48.156487499999983 ], [ 17.8017936, 48.1491585 ], [ 17.8146336, 48.154756 ], [ 17.819205, 48.1629455 ], [ 17.820722, 48.165114 ], [ 17.802227, 48.178057299999985 ], [ 17.7803557, 48.179835699999977 ], [ 17.7519635, 48.1894985 ], [ 17.744196, 48.183612499999988 ], [ 17.7581556, 48.171670299999981 ], [ 17.7847375, 48.168298 ], [ 17.7782725, 48.15811249999998 ], [ 17.7940318, 48.156487499999983 ] ] ] } }
+]
+}

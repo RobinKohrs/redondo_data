@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "asnelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Asnelles", "metric_roundness": 51.27, "metric_rectangularity": 75.24, "metric_mobile_fit": 82.15, "metric_aspect_ratio": 0.741, "metric_area_km2": 5.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.592846, 49.332319 ], [ -0.593794, 49.327846499999985 ], [ -0.5949015, 49.326417 ], [ -0.5893255, 49.323900499999979 ], [ -0.5810817, 49.3240992 ], [ -0.5754316, 49.332240399999982 ], [ -0.572656, 49.3434625 ], [ -0.581115, 49.3422955 ], [ -0.586264, 49.342116499999975 ], [ -0.5934895, 49.340803 ], [ -0.592846, 49.332319 ] ] ] } }
+]
+}

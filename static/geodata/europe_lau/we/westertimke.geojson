@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "westertimke",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Westertimke", "metric_roundness": 41.77, "metric_rectangularity": 59.03, "metric_mobile_fit": 20.55, "metric_aspect_ratio": 1.357, "metric_area_km2": 33.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1069418, 53.241216 ], [ 9.1136683, 53.230140099999986 ], [ 9.127307, 53.216868 ], [ 9.1382747, 53.2192298 ], [ 9.1550256, 53.2295265 ], [ 9.1793672, 53.229415499999988 ], [ 9.1875, 53.232894 ], [ 9.1744619, 53.239692 ], [ 9.1544959, 53.241671499999988 ], [ 9.126968, 53.2560375 ], [ 9.1061044, 53.2512755 ], [ 9.098689, 53.243855 ], [ 9.1069418, 53.241216 ] ] ] } }
+]
+}

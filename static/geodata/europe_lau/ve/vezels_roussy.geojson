@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vezels_roussy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vezels-Roussy", "metric_roundness": 37.74, "metric_rectangularity": 65.83, "metric_mobile_fit": 96.97, "metric_aspect_ratio": 0.532, "metric_area_km2": 25.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5996412, 44.7941155 ], [ 2.6015568, 44.810100399999989 ], [ 2.598418, 44.820767 ], [ 2.5919009, 44.8276307 ], [ 2.591265, 44.834465 ], [ 2.5759609, 44.8312579 ], [ 2.567185, 44.822546 ], [ 2.5723945, 44.8174668 ], [ 2.563228, 44.794069 ], [ 2.5592732, 44.786789299999988 ], [ 2.5644895, 44.778092 ], [ 2.5751557, 44.7852226 ], [ 2.586565, 44.78399 ], [ 2.5996412, 44.7941155 ] ] ] } }
+]
+}

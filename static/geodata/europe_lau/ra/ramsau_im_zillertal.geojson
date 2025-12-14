@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ramsau_im_zillertal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ramsau im Zillertal", "metric_roundness": 43.24, "metric_rectangularity": 69.34, "metric_mobile_fit": 34.1, "metric_aspect_ratio": 1.222, "metric_area_km2": 19.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.9047675, 47.1814275 ], [ 11.9250145, 47.183613499999986 ], [ 11.9234981, 47.1936495 ], [ 11.9136909, 47.195836299999989 ], [ 11.8977622, 47.2090507 ], [ 11.8768789, 47.207914399999986 ], [ 11.8735005, 47.2134775 ], [ 11.8725935, 47.2113405 ], [ 11.8687165, 47.204109 ], [ 11.8704527, 47.198216499999987 ], [ 11.867397, 47.192026 ], [ 11.9047675, 47.1814275 ] ] ] } }
+]
+}

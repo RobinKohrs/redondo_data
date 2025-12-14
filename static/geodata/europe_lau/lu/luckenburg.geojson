@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luckenburg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lückenburg", "metric_roundness": 59.89, "metric_rectangularity": 82.05, "metric_mobile_fit": 39.44, "metric_aspect_ratio": 1.168, "metric_area_km2": 6.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9638709, 49.7380193 ], [ 6.98107, 49.74353 ], [ 6.9759425, 49.755161 ], [ 6.950083, 49.749044499999989 ], [ 6.9563397, 49.745867799999985 ], [ 6.953269, 49.741303 ], [ 6.9638709, 49.7380193 ] ] ] } }
+]
+}

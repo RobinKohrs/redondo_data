@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nova_ves_u_svetle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nová Ves u Světlé", "metric_roundness": 50.11, "metric_rectangularity": 67.47, "metric_mobile_fit": 64.91, "metric_aspect_ratio": 0.913, "metric_area_km2": 17.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.426147, 49.63872 ], [ 15.4413726, 49.6353994 ], [ 15.4505125, 49.633406 ], [ 15.4574996, 49.6352346 ], [ 15.461613, 49.644918 ], [ 15.4524935, 49.654083899999982 ], [ 15.4413726, 49.659844899999989 ], [ 15.434647, 49.663329 ], [ 15.4225255, 49.6671865 ], [ 15.4245659, 49.6599971 ], [ 15.4167946, 49.656380099999986 ], [ 15.4212174, 49.6448928 ], [ 15.4139545, 49.638488 ], [ 15.426147, 49.63872 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dissen_striesow_desno_strjazow",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dissen-Striesow/Dešno-Strjažow", "metric_roundness": 53.7, "metric_rectangularity": 69.57, "metric_mobile_fit": 86.32, "metric_aspect_ratio": 0.699, "metric_area_km2": 50.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2830822, 51.855704 ], [ 14.2604908, 51.848734799999981 ], [ 14.2553314, 51.843954 ], [ 14.2420875, 51.8421 ], [ 14.246592, 51.824241799999982 ], [ 14.2534554, 51.8194357 ], [ 14.2559967, 51.809086799999982 ], [ 14.274325, 51.803166 ], [ 14.2986987, 51.8090951 ], [ 14.3089603, 51.820904099999979 ], [ 14.3039082, 51.8254599 ], [ 14.3042529, 51.8361531 ], [ 14.2973852, 51.8445916 ], [ 14.302647, 51.8615125 ], [ 14.29641, 51.862262 ], [ 14.2858945, 51.8598505 ], [ 14.2830822, 51.855704 ] ] ] } }
+]
+}

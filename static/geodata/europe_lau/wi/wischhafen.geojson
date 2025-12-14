@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wischhafen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wischhafen", "metric_roundness": 36.47, "metric_rectangularity": 57.35, "metric_mobile_fit": 95.33, "metric_aspect_ratio": 0.609, "metric_area_km2": 78.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.308983, 53.799228 ], [ 9.2987632, 53.7930274 ], [ 9.2800529, 53.771289399999979 ], [ 9.2664815, 53.761494 ], [ 9.2764619, 53.7426249 ], [ 9.29858, 53.729636 ], [ 9.3397539, 53.7433449 ], [ 9.3268801, 53.7621094 ], [ 9.3257935, 53.7722895 ], [ 9.3336669, 53.7805934 ], [ 9.355188, 53.788978 ], [ 9.331044, 53.815695 ], [ 9.308983, 53.799228 ] ] ] } }
+]
+}

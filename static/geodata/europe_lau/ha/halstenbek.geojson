@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "halstenbek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Halstenbek", "metric_roundness": 52.55, "metric_rectangularity": 66.91, "metric_mobile_fit": 28.0, "metric_aspect_ratio": 1.282, "metric_area_km2": 38.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.8736221, 53.6258823 ], [ 9.8685598, 53.6312664 ], [ 9.8291715, 53.648121 ], [ 9.8183498, 53.6353131 ], [ 9.8118225, 53.6354476 ], [ 9.8041988, 53.6290544 ], [ 9.8059092, 53.621423 ], [ 9.7999996, 53.615255499999982 ], [ 9.8025865, 53.612966 ], [ 9.814416, 53.611661 ], [ 9.8411019, 53.614801199999981 ], [ 9.868024, 53.609346499999987 ], [ 9.8720301, 53.614713 ], [ 9.8838535, 53.621539 ], [ 9.8736221, 53.6258823 ] ] ] } }
+]
+}

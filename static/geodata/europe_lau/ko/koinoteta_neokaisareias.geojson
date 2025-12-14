@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neokaisareias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νεοκαισαρείας", "metric_roundness": 40.77, "metric_rectangularity": 65.35, "metric_mobile_fit": 22.52, "metric_aspect_ratio": 1.337, "metric_area_km2": 12.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.4526327, 40.2639551 ], [ 22.4362284, 40.2763671 ], [ 22.4344155, 40.2804725 ], [ 22.4160695, 40.2824265 ], [ 22.405015, 40.2627235 ], [ 22.4395725, 40.2581865 ], [ 22.4566365, 40.2529715 ], [ 22.4526327, 40.2639551 ] ] ] } }
+]
+}

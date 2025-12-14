@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_amand_de_vergt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Amand-de-Vergt", "metric_roundness": 36.73, "metric_rectangularity": 59.68, "metric_mobile_fit": 97.71, "metric_aspect_ratio": 0.585, "metric_area_km2": 26.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.6738165, 45.01687 ], [ 0.6702266, 45.0126657 ], [ 0.669114, 44.9993895 ], [ 0.6875102, 44.988827699999987 ], [ 0.687989, 44.984992 ], [ 0.6957944, 44.977254799999983 ], [ 0.6953725, 44.965477 ], [ 0.707257, 44.9612319 ], [ 0.715165, 44.967119499999988 ], [ 0.7099944, 44.970784699999982 ], [ 0.7137776, 44.9751787 ], [ 0.7109628, 44.985787 ], [ 0.7137844, 44.9909712 ], [ 0.711793, 45.011548 ], [ 0.6738165, 45.01687 ] ] ] } }
+]
+}

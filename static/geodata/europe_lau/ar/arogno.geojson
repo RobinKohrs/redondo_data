@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arogno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arogno", "metric_roundness": 42.34, "metric_rectangularity": 60.75, "metric_mobile_fit": 82.71, "metric_aspect_ratio": 0.735, "metric_area_km2": 17.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0162564, 45.9489856 ], [ 9.0134035, 45.9600938 ], [ 8.9940492, 45.9668417 ], [ 8.99107, 45.971641499999983 ], [ 8.9885537, 45.9774226 ], [ 8.9775645, 45.982565499999986 ], [ 8.9783907, 45.970357 ], [ 8.975668, 45.96169 ], [ 8.974162, 45.942778 ], [ 8.9814195, 45.9435875 ], [ 9.012199, 45.9437845 ], [ 9.0162564, 45.9489856 ] ] ] } }
+]
+}

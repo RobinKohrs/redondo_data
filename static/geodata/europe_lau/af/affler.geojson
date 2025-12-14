@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "affler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Affler", "metric_roundness": 37.28, "metric_rectangularity": 65.74, "metric_mobile_fit": -22.61, "metric_aspect_ratio": 1.789, "metric_area_km2": 4.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1358953, 50.014806799999981 ], [ 6.1375155, 50.011724 ], [ 6.1458655, 50.0157647 ], [ 6.1531844, 50.012156 ], [ 6.16522, 50.0162675 ], [ 6.168481, 50.023430499999989 ], [ 6.1454365, 50.0230965 ], [ 6.1358953, 50.014806799999981 ] ] ] } }
+]
+}

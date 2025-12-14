@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montay", "metric_roundness": 46.0, "metric_rectangularity": 68.69, "metric_mobile_fit": 29.89, "metric_aspect_ratio": 1.264, "metric_area_km2": 13.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.51476, 50.120627099999986 ], [ 3.5096889, 50.1225203 ], [ 3.5052465, 50.1201555 ], [ 3.509647, 50.117276499999988 ], [ 3.51242, 50.113426 ], [ 3.51476, 50.112252399999988 ], [ 3.5209016, 50.110848 ], [ 3.5470715, 50.1149838 ], [ 3.554418, 50.121105499999985 ], [ 3.5517202, 50.125605899999989 ], [ 3.5561769, 50.1317157 ], [ 3.5478895, 50.1366885 ], [ 3.51476, 50.120627099999986 ] ] ] } }
+]
+}

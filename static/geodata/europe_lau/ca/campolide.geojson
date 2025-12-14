@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "campolide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Campolide", "metric_roundness": 59.29, "metric_rectangularity": 74.7, "metric_mobile_fit": 57.78, "metric_aspect_ratio": 0.985, "metric_area_km2": 4.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.1606355, 38.724266 ], [ -9.158845, 38.7246245 ], [ -9.156375, 38.724871 ], [ -9.1589109, 38.7282038 ], [ -9.1566598, 38.731431199999989 ], [ -9.1577245, 38.738857499999988 ], [ -9.1699393, 38.740715699999981 ], [ -9.174486, 38.734398 ], [ -9.1787392, 38.7314009 ], [ -9.175018, 38.7268691 ], [ -9.178122, 38.723759 ], [ -9.174915, 38.722998 ], [ -9.1606355, 38.724266 ] ] ] } }
+]
+}

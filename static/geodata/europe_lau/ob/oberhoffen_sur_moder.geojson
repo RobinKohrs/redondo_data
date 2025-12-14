@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberhoffen_sur_moder",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberhoffen-sur-Moder", "metric_roundness": 48.32, "metric_rectangularity": 73.68, "metric_mobile_fit": 15.79, "metric_aspect_ratio": 1.405, "metric_area_km2": 33.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9104221, 48.768309099999982 ], [ 7.9257235, 48.779940499999988 ], [ 7.8918872, 48.797421 ], [ 7.8796095, 48.796685 ], [ 7.848279, 48.7929015 ], [ 7.8461575, 48.792188 ], [ 7.843583, 48.7909585 ], [ 7.8465045, 48.7881375 ], [ 7.8547015, 48.78316 ], [ 7.876646, 48.765655 ], [ 7.900317, 48.758883499999989 ], [ 7.9047845, 48.760663 ], [ 7.9104221, 48.768309099999982 ] ] ] } }
+]
+}

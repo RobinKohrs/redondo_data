@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pouzac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pouzac", "metric_roundness": 34.51, "metric_rectangularity": 69.86, "metric_mobile_fit": 53.76, "metric_aspect_ratio": 1.025, "metric_area_km2": 14.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1552335, 43.094917 ], [ 0.132303, 43.0970395 ], [ 0.1246676, 43.091721799999988 ], [ 0.1212778, 43.082916399999981 ], [ 0.1097125, 43.079924 ], [ 0.1093592, 43.069146 ], [ 0.1046733, 43.0669336 ], [ 0.109888, 43.0601635 ], [ 0.1413359, 43.077463699999974 ], [ 0.156419, 43.0900855 ], [ 0.1552335, 43.094917 ] ] ] } }
+]
+}

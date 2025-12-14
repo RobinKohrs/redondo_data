@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uhrovske_podhradie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Uhrovské Podhradie", "metric_roundness": 60.5, "metric_rectangularity": 71.27, "metric_mobile_fit": 15.68, "metric_aspect_ratio": 1.406, "metric_area_km2": 28.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.4311853, 48.7520387 ], [ 18.4351935, 48.7656675 ], [ 18.439544, 48.766184 ], [ 18.43928, 48.767651499999985 ], [ 18.433481, 48.773422 ], [ 18.4166159, 48.7728069 ], [ 18.3943347, 48.767479599999987 ], [ 18.378444, 48.7689025 ], [ 18.3700813, 48.765069299999979 ], [ 18.373013, 48.756149499999985 ], [ 18.3856083, 48.7455119 ], [ 18.3950905, 48.741412 ], [ 18.411828, 48.740845 ], [ 18.4168, 48.7453162 ], [ 18.423371, 48.745885 ], [ 18.4311853, 48.7520387 ] ] ] } }
+]
+}

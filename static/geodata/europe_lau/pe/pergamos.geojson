@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pergamos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Πέργαμος", "metric_roundness": 46.42, "metric_rectangularity": 66.85, "metric_mobile_fit": -18.42, "metric_aspect_ratio": 1.747, "metric_area_km2": 35.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.650785, 35.0441355 ], [ 33.661395399999989, 35.0386269 ], [ 33.6601755, 35.0344705 ], [ 33.706456, 35.0232535 ], [ 33.7243818, 35.0337471 ], [ 33.7259152, 35.0406819 ], [ 33.7377425, 35.0561655 ], [ 33.7299835, 35.0640125 ], [ 33.7295977, 35.0590303 ], [ 33.6944034, 35.0623554 ], [ 33.6558925, 35.057395 ], [ 33.650785, 35.0441355 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lipnice_nad_sazavou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lipnice nad Sázavou", "metric_roundness": 55.88, "metric_rectangularity": 65.78, "metric_mobile_fit": 63.49, "metric_aspect_ratio": 0.928, "metric_area_km2": 26.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4098342, 49.6312086 ], [ 15.400758, 49.636294 ], [ 15.3877805, 49.6124505 ], [ 15.3840637, 49.609035599999984 ], [ 15.384165, 49.60486 ], [ 15.398803, 49.6021579 ], [ 15.408546, 49.5962847 ], [ 15.4187469, 49.5994715 ], [ 15.4324035, 49.5964025 ], [ 15.4413463, 49.6028242 ], [ 15.4332993, 49.605916799999989 ], [ 15.4341608, 49.617816 ], [ 15.416788, 49.633568 ], [ 15.4098342, 49.6312086 ] ] ] } }
+]
+}

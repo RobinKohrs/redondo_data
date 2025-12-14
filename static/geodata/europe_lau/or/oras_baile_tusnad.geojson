@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oras_baile_tusnad",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oraş Băile Tuşnad", "metric_roundness": 22.78, "metric_rectangularity": 64.24, "metric_mobile_fit": 97.03, "metric_aspect_ratio": 0.592, "metric_area_km2": 3.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.853026, 46.1334274 ], [ 25.8563926, 46.1326156 ], [ 25.8618179, 46.149635499999981 ], [ 25.8718367, 46.153254599999983 ], [ 25.8728246, 46.1577833 ], [ 25.868556, 46.1602641 ], [ 25.861209, 46.1566475 ], [ 25.8491928, 46.1398292 ], [ 25.853026, 46.1334274 ] ] ] } }
+]
+}

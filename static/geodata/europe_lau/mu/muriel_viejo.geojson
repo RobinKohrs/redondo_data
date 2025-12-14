@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "muriel_viejo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Muriel Viejo", "metric_roundness": 33.29, "metric_rectangularity": 52.93, "metric_mobile_fit": 95.71, "metric_aspect_ratio": 0.605, "metric_area_km2": 20.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.924781, 41.7674658 ], [ -2.9083071, 41.7623475 ], [ -2.8988679, 41.7472609 ], [ -2.8947244, 41.746445899999983 ], [ -2.9004228, 41.7657583 ], [ -2.8999272, 41.788668199999989 ], [ -2.8955691, 41.796401399999986 ], [ -2.9041417, 41.7954387 ], [ -2.9163626, 41.800179499999985 ], [ -2.929922, 41.799554 ], [ -2.9383465, 41.778249799999983 ], [ -2.924781, 41.7674658 ] ] ] } }
+]
+}

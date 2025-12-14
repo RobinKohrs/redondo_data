@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prato_sesia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Prato Sesia", "metric_roundness": 44.38, "metric_rectangularity": 61.95, "metric_mobile_fit": 80.03, "metric_aspect_ratio": 0.762, "metric_area_km2": 24.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.373771, 45.69185 ], [ 8.3660394, 45.6854028 ], [ 8.3604229, 45.6747556 ], [ 8.3410935, 45.661814499999984 ], [ 8.3551525, 45.651111499999985 ], [ 8.3784633, 45.6396316 ], [ 8.3891218, 45.648902299999989 ], [ 8.398044, 45.6520255 ], [ 8.3844586, 45.6564671 ], [ 8.3830704, 45.669422899999986 ], [ 8.3860205, 45.685772499999985 ], [ 8.373771, 45.69185 ] ] ] } }
+]
+}

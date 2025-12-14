@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "izenave",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Izenave", "metric_roundness": 42.81, "metric_rectangularity": 83.67, "metric_mobile_fit": 58.77, "metric_aspect_ratio": 0.975, "metric_area_km2": 26.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5291441, 46.051816099999982 ], [ 5.527347, 46.057200099999982 ], [ 5.5147045, 46.059869 ], [ 5.5076925, 46.060516 ], [ 5.491921, 46.0539345 ], [ 5.517327, 46.023778 ], [ 5.5294442, 46.0164821 ], [ 5.5506145, 46.016126 ], [ 5.5542572, 46.0227185 ], [ 5.546016, 46.0357965 ], [ 5.5291441, 46.051816099999982 ] ] ] } }
+]
+}

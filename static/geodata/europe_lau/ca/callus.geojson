@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "callus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Callús", "metric_roundness": 41.2, "metric_rectangularity": 57.06, "metric_mobile_fit": 86.0, "metric_aspect_ratio": 0.703, "metric_area_km2": 22.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7881089, 41.8149914 ], [ 1.7662608, 41.8044326 ], [ 1.7547055, 41.8077545 ], [ 1.7515359, 41.8024944 ], [ 1.7726095, 41.7839295 ], [ 1.7780881, 41.784426199999984 ], [ 1.7829027, 41.7773207 ], [ 1.795211, 41.7802169 ], [ 1.802155, 41.7916015 ], [ 1.802226, 41.796775 ], [ 1.8034572, 41.8170123 ], [ 1.793752, 41.8324115 ], [ 1.7881089, 41.8149914 ] ] ] } }
+]
+}

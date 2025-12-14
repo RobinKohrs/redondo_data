@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ptice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ptice", "metric_roundness": 41.56, "metric_rectangularity": 60.96, "metric_mobile_fit": 20.93, "metric_aspect_ratio": 1.353, "metric_area_km2": 18.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.1513895, 50.039643299999987 ], [ 14.1661717, 50.048588599999988 ], [ 14.1861562, 50.0503783 ], [ 14.1878207, 50.056704499999988 ], [ 14.1833625, 50.0647795 ], [ 14.1671162, 50.0642549 ], [ 14.1604385, 50.058887 ], [ 14.124458, 50.0523805 ], [ 14.1204174, 50.050948399999982 ], [ 14.1209606, 50.0476581 ], [ 14.147049, 50.032794 ], [ 14.148906, 50.0334115 ], [ 14.1513895, 50.039643299999987 ] ] ] } }
+]
+}

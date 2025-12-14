@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_tornada_e_salir_do_porto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Tornada e Salir do Porto", "metric_roundness": 37.9, "metric_rectangularity": 66.96, "metric_mobile_fit": 95.32, "metric_aspect_ratio": 0.516, "metric_area_km2": 49.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.127362, 39.4216227 ], [ -9.11779, 39.448162 ], [ -9.1218085, 39.4516503 ], [ -9.1204335, 39.461879499999988 ], [ -9.1244033, 39.478215099999986 ], [ -9.1368431, 39.4857425 ], [ -9.1436595, 39.49478 ], [ -9.1490077, 39.500797099999986 ], [ -9.1488435, 39.504486 ], [ -9.1472235, 39.509079899999989 ], [ -9.155555, 39.5086271 ], [ -9.1697724, 39.5020368 ], [ -9.1762105, 39.4946105 ], [ -9.1658504, 39.4720908 ], [ -9.1520841, 39.4642694 ], [ -9.1644948, 39.4468586 ], [ -9.1680655, 39.431435 ], [ -9.1616569, 39.4258538 ], [ -9.145723, 39.424005 ], [ -9.127362, 39.4216227 ] ] ] } }
+]
+}

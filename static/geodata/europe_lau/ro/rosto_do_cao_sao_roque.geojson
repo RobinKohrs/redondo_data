@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rosto_do_cao_sao_roque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rosto do Cão (São Roque)", "metric_roundness": 33.85, "metric_rectangularity": 61.4, "metric_mobile_fit": 94.35, "metric_aspect_ratio": 0.619, "metric_area_km2": 11.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -25.614503, 37.7609863 ], [ -25.6118155, 37.7744215 ], [ -25.6169305, 37.7835724 ], [ -25.62827, 37.7890725 ], [ -25.6319165, 37.7789785 ], [ -25.6283604, 37.7774376 ], [ -25.6310537, 37.7631659 ], [ -25.6463179, 37.753673899999988 ], [ -25.646595, 37.748549 ], [ -25.6471145, 37.74399 ], [ -25.6384511, 37.7442347 ], [ -25.6298565, 37.7500566 ], [ -25.6224005, 37.7489585 ], [ -25.614503, 37.7609863 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kvetnice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Květnice", "metric_roundness": 36.92, "metric_rectangularity": 64.2, "metric_mobile_fit": 96.91, "metric_aspect_ratio": 0.532, "metric_area_km2": 6.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6912749, 50.066234399999985 ], [ 14.6893445, 50.071058 ], [ 14.670059, 50.06578 ], [ 14.6724109, 50.0627174 ], [ 14.6699919, 50.060188499999981 ], [ 14.674336, 50.0570445 ], [ 14.6717758, 50.0506579 ], [ 14.673169, 50.045355 ], [ 14.685074, 50.049008 ], [ 14.6912749, 50.066234399999985 ] ] ] } }
+]
+}

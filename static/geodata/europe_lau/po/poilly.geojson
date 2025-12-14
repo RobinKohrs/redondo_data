@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "poilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Poilly", "metric_roundness": 28.58, "metric_rectangularity": 49.95, "metric_mobile_fit": 44.09, "metric_aspect_ratio": 1.122, "metric_area_km2": 9.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8107253, 49.2194976 ], [ 3.786747, 49.2105775 ], [ 3.7873905, 49.20468349999998 ], [ 3.7954385, 49.207506 ], [ 3.797932, 49.2059845 ], [ 3.802016, 49.206833 ], [ 3.8363005, 49.2147575 ], [ 3.8269753, 49.221377199999985 ], [ 3.8266385, 49.233542 ], [ 3.8211335, 49.23105 ], [ 3.8107253, 49.2194976 ] ] ] } }
+]
+}

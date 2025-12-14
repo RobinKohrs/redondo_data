@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chvateruby",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chvatěruby", "metric_roundness": 43.53, "metric_rectangularity": 57.04, "metric_mobile_fit": 96.0, "metric_aspect_ratio": 0.602, "metric_area_km2": 8.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.3587786, 50.247211199999988 ], [ 14.355903, 50.2520425 ], [ 14.3536605, 50.2537295 ], [ 14.3507325, 50.2560855 ], [ 14.345584, 50.2571705 ], [ 14.332304, 50.2540385 ], [ 14.3370033, 50.241490199999987 ], [ 14.3327133, 50.2349674 ], [ 14.3353005, 50.231558 ], [ 14.345542, 50.229068499999983 ], [ 14.3469345, 50.2352959 ], [ 14.343017, 50.239394 ], [ 14.351595, 50.242645 ], [ 14.3587786, 50.247211199999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_beulay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Beulay", "metric_roundness": 36.51, "metric_rectangularity": 78.57, "metric_mobile_fit": 49.07, "metric_aspect_ratio": 1.072, "metric_area_km2": 5.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0605185, 48.299886 ], [ 7.069464, 48.298787499999982 ], [ 7.0733175, 48.2945255 ], [ 7.081658, 48.2991345 ], [ 7.0536885, 48.3154895 ], [ 7.0488073, 48.313173399999982 ], [ 7.047877, 48.30613 ], [ 7.0605185, 48.299886 ] ] ] } }
+]
+}

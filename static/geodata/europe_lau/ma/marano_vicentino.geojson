@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marano_vicentino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marano Vicentino", "metric_roundness": 55.96, "metric_rectangularity": 69.06, "metric_mobile_fit": 70.03, "metric_aspect_ratio": 0.862, "metric_area_km2": 26.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.4548852, 45.7010224 ], [ 11.4472505, 45.704659 ], [ 11.4255935, 45.720072 ], [ 11.4242598, 45.7159944 ], [ 11.4156103, 45.7093517 ], [ 11.410205, 45.6920559 ], [ 11.4028455, 45.6900395 ], [ 11.408289, 45.6849025 ], [ 11.4280151, 45.6804933 ], [ 11.4409233, 45.672997199999983 ], [ 11.460955, 45.6825645 ], [ 11.4548852, 45.7010224 ] ] ] } }
+]
+}

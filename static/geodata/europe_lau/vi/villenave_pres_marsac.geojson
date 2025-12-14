@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villenave_pres_marsac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villenave-près-Marsac", "metric_roundness": 33.65, "metric_rectangularity": 69.09, "metric_mobile_fit": 97.52, "metric_aspect_ratio": 0.538, "metric_area_km2": 2.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0823685, 43.3396585 ], [ 0.0854317, 43.337869399999974 ], [ 0.0860432, 43.3329047 ], [ 0.0939035, 43.3316015 ], [ 0.0934775, 43.3380835 ], [ 0.089691, 43.343587 ], [ 0.0864312, 43.347501799999982 ], [ 0.0821475, 43.347448 ], [ 0.0823685, 43.3396585 ] ] ] } }
+]
+}

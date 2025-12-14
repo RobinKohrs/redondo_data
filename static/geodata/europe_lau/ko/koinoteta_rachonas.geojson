@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_rachonas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ραχώνας", "metric_roundness": 55.0, "metric_rectangularity": 71.7, "metric_mobile_fit": 36.58, "metric_aspect_ratio": 1.197, "metric_area_km2": 23.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.533663, 40.841723 ], [ 22.5013465, 40.816831 ], [ 22.5085439, 40.8149484 ], [ 22.5122565, 40.807397 ], [ 22.5189077, 40.8039728 ], [ 22.5408734, 40.8016935 ], [ 22.5507403, 40.8070009 ], [ 22.5587238, 40.8041762 ], [ 22.5646463, 40.8072121 ], [ 22.5643994, 40.8107877 ], [ 22.5372955, 40.840555 ], [ 22.533663, 40.841723 ] ] ] } }
+]
+}

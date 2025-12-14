@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fischingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fischingen", "metric_roundness": 59.0, "metric_rectangularity": 85.45, "metric_mobile_fit": 32.11, "metric_aspect_ratio": 1.241, "metric_area_km2": 3.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6029619, 47.6571875 ], [ 7.5895895, 47.652516299999988 ], [ 7.5949115, 47.643605 ], [ 7.601014, 47.643471 ], [ 7.6035345, 47.644752 ], [ 7.60239, 47.646799 ], [ 7.603696, 47.647913 ], [ 7.60745, 47.647203499999989 ], [ 7.608957, 47.647153499999988 ], [ 7.6126025, 47.647394499999976 ], [ 7.6148665, 47.648515499999988 ], [ 7.6078625, 47.657034499999988 ], [ 7.6029619, 47.6571875 ] ] ] } }
+]
+}

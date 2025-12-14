@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_d_heurs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-d'Heurs", "metric_roundness": 51.61, "metric_rectangularity": 64.3, "metric_mobile_fit": 71.8, "metric_aspect_ratio": 0.845, "metric_area_km2": 23.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4557415, 45.792938 ], [ 3.464411, 45.805416 ], [ 3.4646194, 45.816656099999975 ], [ 3.4685851, 45.822091899999982 ], [ 3.4668528, 45.825742399999989 ], [ 3.4592636, 45.8283221 ], [ 3.4585775, 45.83420850000001 ], [ 3.4185785, 45.832621 ], [ 3.4282754, 45.8270244 ], [ 3.4324206, 45.8202097 ], [ 3.4300471, 45.8134972 ], [ 3.4319282, 45.8072625 ], [ 3.4192385, 45.801787499999989 ], [ 3.4557415, 45.792938 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rodilhan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rodilhan", "metric_roundness": 46.57, "metric_rectangularity": 82.31, "metric_mobile_fit": -16.4, "metric_aspect_ratio": 1.726, "metric_area_km2": 8.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.454963, 43.8300935 ], [ 4.449633, 43.830728 ], [ 4.4134221, 43.8340537 ], [ 4.414657, 43.8236745 ], [ 4.4240728, 43.818036299999989 ], [ 4.4303736, 43.8208401 ], [ 4.4384009, 43.8166948 ], [ 4.4527175, 43.819463 ], [ 4.454963, 43.8300935 ] ] ] } }
+]
+}

@@ -1,0 +1,691 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Schlüßlberg,schlusslberg,sc,55.19,65.29,20.2
+europe_lau,Schönau im Mühlkreis,schonau_im_muhlkreis,sc,45.98,54.52,53.41
+europe_lau,Schwertberg,schwertberg,sc,55.81,62.76,71.62
+europe_lau,Schlierbach,schlierbach,sc,38.29,48.72,74.19
+europe_lau,Scharnstein,scharnstein,sc,44.6,54.6,68.83
+europe_lau,Schwarzenberg am Böhmerwald,schwarzenberg_am_bohmerwald,sc,48.36,61.61,73.36
+europe_lau,Schafstedt,schafstedt,sc,36.02,53.19,99.57
+europe_lau,Schalkholz,schalkholz,sc,44.25,52.69,77.64
+europe_lau,Schlichting,schlichting,sc,54.74,68.92,90.36
+europe_lau,Schmedeswurth,schmedeswurth,sc,32.21,79.07,46.31
+europe_lau,Schrum,schrum,sc,51.33,78.02,-22.82
+europe_lau,Schülp,schulp,sc,62.53,70.34,67.85
+europe_lau,Schenefeld,schenefeld,sc,47.95,60.22,31.26
+europe_lau,Schlotfeld,schlotfeld,sc,32.27,49.5,37.19
+europe_lau,Schildorn,schildorn,sc,29.7,47.91,96.66
+europe_lau,Schiphorst,schiphorst,sc,44.75,60.8,94.32
+europe_lau,Schmilau,schmilau,sc,65.41,71.1,76.99
+europe_lau,Schnakenbek,schnakenbek,sc,35.92,68.47,10.53
+europe_lau,Schönberg,schonberg,sc,41.41,59.3,91.42
+europe_lau,Schretstaken,schretstaken,sc,44.83,61.83,10.99
+europe_lau,Schürensöhlen,schurensohlen,sc,51.89,75.73,26.59
+europe_lau,Schulendorf,schulendorf,sc,42.69,71.16,-17.57
+europe_lau,"Schwarzenbek, Stadt",schwarzenbek_stadt,sc,75.54,74.52,50.93
+europe_lau,Schärding,scharding,sc,30.74,66.12,86.75
+europe_lau,Schardenberg,schardenberg,sc,31.1,45.32,67.39
+europe_lau,Schellhorn,schellhorn,sc,46.95,72.58,33.69
+europe_lau,Schillsdorf,schillsdorf,sc,53.78,61.6,67.77
+europe_lau,Schlesen,schlesen,sc,36.58,60.24,96.07
+europe_lau,Schönberg (Holstein),schonberg_holstein,sc,43.14,53.56,81.49
+europe_lau,Schönkirchen,schonkirchen,sc,60.39,67.14,78.26
+europe_lau,Schwartbuck,schwartbuck,sc,47.32,63.42,86.64
+europe_lau,Schiedlberg,schiedlberg,sc,60.35,62.11,52.83
+europe_lau,"Schwentinental, Stadt",schwentinental_stadt,sc,26.47,68.09,67.76
+europe_lau,Schacht-Audorf,schacht_audorf,sc,41.17,51.11,76.52
+europe_lau,Schierensee,schierensee,sc,51.09,58.7,73.77
+europe_lau,Schinkel,schinkel,sc,58.5,69.82,43.45
+europe_lau,Schmalstede,schmalstede,sc,48.16,59.58,82.09
+europe_lau,Schönbek,schonbek,sc,53.33,63.1,66.59
+europe_lau,Schönhorst,schonhorst,sc,54.68,70.31,74.89
+europe_lau,Schülldorf,schulldorf,sc,48.44,67.96,93.19
+europe_lau,Schülp b. Nortorf,schulp_b_nortorf,sc,48.81,68.16,7.24
+europe_lau,Schülp b. Rendsburg,schulp_b_rendsburg,sc,43.52,58.2,67.02
+europe_lau,Schwedeneck,schwedeneck,sc,45.71,61.33,17.42
+europe_lau,Schwabstedt,schwabstedt,sc,31.73,51.27,-7.87
+europe_lau,Schwesing,schwesing,sc,60.76,73.52,36.31
+europe_lau,Schashagen,schashagen,sc,43.86,53.73,72.53
+europe_lau,Schönwalde am Bungsberg,schonwalde_am_bungsberg,sc,52.8,59.7,57.86
+europe_lau,Scharbeutz,scharbeutz,sc,49.3,60.27,42.67
+europe_lau,"Schenefeld, Stadt",schenefeld_stadt,sc,48.97,64.2,3.13
+europe_lau,Schackendorf,schackendorf,sc,40.28,55.08,85.53
+europe_lau,Schieren,schieren,sc,38.34,61.15,-35.83
+europe_lau,Schmalensee,schmalensee,sc,51.85,62.65,86.56
+europe_lau,Schmalfeld,schmalfeld,sc,63.35,67.61,42.46
+europe_lau,Schwissel,schwissel,sc,40.63,63.26,45.04
+europe_lau,"Schöningen, Stadt",schoningen_stadt,sc,56.42,61.01,56.73
+europe_lau,"Schöningen, gemfr. Gebiet",schoningen_gemfr_gebiet,sc,39.72,56.92,73.6
+europe_lau,Schlatt,schlatt,sc,43.79,60.28,81.52
+europe_lau,"Schöppenstedt, Stadt",schoppenstedt_stadt,sc,48.18,62.48,72.79
+europe_lau,Schörfling am Attersee,schorfling_am_attersee,sc,47.25,63.08,23.42
+europe_lau,Schladen-Werla,schladen_werla,sc,54.46,58.89,44.99
+europe_lau,Schwanenstadt,schwanenstadt,sc,58.83,62.72,55.45
+europe_lau,Scheden,scheden,sc,45.26,57.75,61.02
+europe_lau,Scholen,scholen,sc,43.5,71.98,87.9
+europe_lau,Schwaförden,schwaforden,sc,43.51,54.2,42.49
+europe_lau,Schwarme,schwarme,sc,48.45,61.87,63.32
+europe_lau,Schaalby,schaalby,sc,61.47,69.97,45.97
+europe_lau,Scheggerott,scheggerott,sc,33.72,58.55,91.63
+europe_lau,"Schleswig, Stadt",schleswig_stadt,sc,51.38,64.04,56.74
+europe_lau,Schnarup-Thumby,schnarup_thumby,sc,43.16,57.68,76.17
+europe_lau,Schuby,schuby,sc,46.87,60.31,13.09
+europe_lau,Schenkenfelden,schenkenfelden,sc,36.72,59.99,88.93
+europe_lau,Schafflund,schafflund,sc,54.84,74.72,12.27
+europe_lau,Schellerten,schellerten,sc,47.4,60.79,87.52
+europe_lau,Schweringen,schweringen,sc,43.88,67.88,-16.92
+europe_lau,Scheeßel,scheessel,sc,43.42,64.35,30.53
+europe_lau,"Schneverdingen, Stadt",schneverdingen_stadt,sc,53.34,56.09,55.98
+europe_lau,Schwarmstedt,schwarmstedt,sc,37,67.85,68.8
+europe_lau,Schönewörde,schoneworde,sc,42.61,59.09,72.37
+europe_lau,Schwülper,schwulper,sc,57.54,66.06,50.28
+europe_lau,"Schwerte, Hansestadt an der Ruhr",schwerte_hansestadt_an_der_ruhr,sc,62.29,66.06,67.79
+europe_lau,Schaafheim,schaafheim,sc,37.36,61.13,88.36
+europe_lau,Scheffau am Tennengebirge,scheffau_am_tennengebirge,sc,50.19,68.46,79.2
+europe_lau,Schwienau,schwienau,sc,31.48,68.57,-54.67
+europe_lau,Schapen,schapen,sc,59.22,75.05,70.64
+europe_lau,Schiffdorf,schiffdorf,sc,37.34,48.23,37.91
+europe_lau,Schleißheim,schleissheim,sc,23.74,40.45,94.95
+europe_lau,"Schnackenburg, Stadt",schnackenburg_stadt,sc,57.57,67.98,38.27
+europe_lau,Schnega,schnega,sc,62.33,69.72,67.81
+europe_lau,Scharnebeck,scharnebeck,sc,40.65,56.88,99.22
+europe_lau,Schwanewede,schwanewede,sc,29.26,47.39,86.27
+europe_lau,Schattendorf,schattendorf,sc,31.33,58.31,-31.12
+europe_lau,Schleedorf,schleedorf,sc,25.7,44.54,31.27
+europe_lau,Schwalmtal,schwalmtal,sc,55.6,70.39,74.65
+europe_lau,Schermbeck,schermbeck,sc,47.63,52.99,29.52
+europe_lau,"Schleiden, Stadt",schleiden_stadt,sc,49.99,69.06,47.55
+europe_lau,Schöppingen,schoppingen,sc,61.27,66.18,33.43
+europe_lau,"Schloß Holte-Stukenbrock, Stadt",schloss_holte_stukenbrock_stadt,sc,39.48,61.07,2.43
+europe_lau,Schwarzach im Pongau,schwarzach_im_pongau,sc,42.91,63.44,-4.06
+europe_lau,"Schieder-Schwalenberg, Stadt",schieder_schwalenberg_stadt,sc,52.91,57.13,61.81
+europe_lau,Schlangen,schlangen,sc,54.9,71.68,30.29
+europe_lau,"Schwelm, Stadt",schwelm_stadt,sc,46.46,66.27,95.5
+europe_lau,"Schmallenberg, Stadt",schmallenberg_stadt,sc,58.97,67.97,42.45
+europe_lau,Schalksmühle,schalksmuhle,sc,42.01,64.62,40.93
+europe_lau,Schweindorf,schweindorf,sc,22.4,55.01,85.97
+europe_lau,Schmitten,schmitten,sc,52.13,68.36,76.81
+europe_lau,"Schlüchtern, Stadt",schluchtern_stadt,sc,51.17,60.5,31.16
+europe_lau,Schöneck,schoneck,sc,50.98,60.18,67.91
+europe_lau,"Schwalbach am Taunus, Stadt",schwalbach_am_taunus_stadt,sc,25.48,53.23,73.37
+europe_lau,Schlangenbad,schlangenbad,sc,26.92,49.66,-17.37
+europe_lau,Schrecksbach,schrecksbach,sc,66.67,67.84,62.48
+europe_lau,"Schwalmstadt, Konfirmationsstadt",schwalmstadt_konfirmationsstadt,sc,51.94,65.5,48.32
+europe_lau,"Schwarzenborn, Stadt",schwarzenborn_stadt,sc,53.13,63.39,42.82
+europe_lau,Schalkenbach,schalkenbach,sc,57.37,74.96,41.54
+europe_lau,Schuld,schuld,sc,54.4,63.57,32.4
+europe_lau,Schöffengrund,schoffengrund,sc,46.74,59,64.35
+europe_lau,"Schlitz, Stadt",schlitz_stadt,sc,55.44,64.13,75.95
+europe_lau,"Schotten, Stadt",schotten_stadt,sc,61.64,66.55,39.07
+europe_lau,Schwalmtal,schwalmtal,sc,38.36,58.18,70.98
+europe_lau,Schenklengsfeld,schenklengsfeld,sc,47.3,70.44,4.1
+europe_lau,Schauenburg,schauenburg,sc,35.86,52.34,1.85
+europe_lau,"Schortens, Stadt",schortens_stadt,sc,34.31,47.21,22.65
+europe_lau,"Schüttorf, Stadt",schuttorf_stadt,sc,25.81,54.91,92.11
+europe_lau,Schwerinsdorf,schwerinsdorf,sc,49.54,63.76,55.21
+europe_lau,Schauren,schauren,sc,35.39,58.93,-7.02
+europe_lau,Schmidthachenbach,schmidthachenbach,sc,43.05,64.36,78.24
+europe_lau,Schmißberg,schmissberg,sc,45.93,69.82,-2.04
+europe_lau,Schwerbach,schwerbach,sc,32.42,53.12,0.48
+europe_lau,Schwollen,schwollen,sc,38.82,67.76,27.42
+europe_lau,Schauren,schauren,sc,32.24,50.32,97.3
+europe_lau,Schmitt,schmitt,sc,29.73,59.89,-79.35
+europe_lau,Schwarzautal,schwarzautal,sc,49.85,69.2,89.27
+europe_lau,Schlierschied,schlierschied,sc,45.29,63.72,84.32
+europe_lau,Schnorbach,schnorbach,sc,34.65,69.79,-2.02
+europe_lau,Schönborn,schonborn,sc,45.8,63.02,19.11
+europe_lau,Schwall,schwall,sc,34.33,71.89,75.84
+europe_lau,Schwarzen,schwarzen,sc,47.04,67.95,52.73
+europe_lau,Scheuerfeld,scheuerfeld,sc,51.11,69.4,55.02
+europe_lau,Schöneberg,schoneberg,sc,56.38,71.43,53.71
+europe_lau,Schürdt,schurdt,sc,50.82,65.53,83.12
+europe_lau,Schutzbach,schutzbach,sc,39.72,61.07,95.93
+europe_lau,Schloßböckelheim,schlossbockelheim,sc,46.87,53.01,81.7
+europe_lau,Schmittweiler,schmittweiler,sc,52.9,65.82,70
+europe_lau,Schöneberg,schoneberg,sc,38.07,58.91,22.12
+europe_lau,Schweinschied,schweinschied,sc,42.23,53.83,18.76
+europe_lau,Schweppenhausen,schweppenhausen,sc,33.35,46.21,24.75
+europe_lau,Schneppenbach,schneppenbach,sc,63.63,75.08,36.87
+europe_lau,Schwarzerden,schwarzerden,sc,29.85,68.17,81.61
+europe_lau,Scheifling,scheifling,sc,30.87,56.39,-10.86
+europe_lau,Schankweiler,schankweiler,sc,60.15,76.56,82.31
+europe_lau,Scharfbillig,scharfbillig,sc,61.78,64.62,67.54
+europe_lau,Scheitenkorb,scheitenkorb,sc,47.66,67.97,76.65
+europe_lau,Scheuern,scheuern,sc,61.67,65.94,69.56
+europe_lau,Schleid,schleid,sc,27.37,58.71,93.76
+europe_lau,Schiersfeld,schiersfeld,sc,36.43,44.56,65.69
+europe_lau,Schönborn,schonborn,sc,53.13,69.42,74.96
+europe_lau,Schweisweiler,schweisweiler,sc,38.63,67.13,47.41
+europe_lau,Scheidt,scheidt,sc,21.37,52.15,-13.38
+europe_lau,Schiesheim,schiesheim,sc,27.41,51.73,70.99
+europe_lau,Schönborn,schonborn,sc,43.84,56.32,79.84
+europe_lau,Schweighausen,schweighausen,sc,42.07,69.51,68.77
+europe_lau,Schenkelberg,schenkelberg,sc,25.89,48.68,94.54
+europe_lau,Scheid,scheid,sc,37.83,64.92,75.91
+europe_lau,Schüller,schuller,sc,51.39,80.35,25.41
+europe_lau,Schleich,schleich,sc,31.64,62.99,-40.17
+europe_lau,Schoden,schoden,sc,41.95,62.59,12.62
+europe_lau,Schömerich,schomerich,sc,48.25,70.05,1.13
+europe_lau,Schöndorf,schondorf,sc,33.98,51.09,90.04
+europe_lau,"Schweich, Stadt",schweich_stadt,sc,46.31,58.48,62.58
+europe_lau,Schornsheim,schornsheim,sc,39.93,77.92,-34.17
+europe_lau,Schladming,schladming,sc,45.66,60.51,37.88
+europe_lau,Schladt,schladt,sc,50.98,72.11,69.89
+europe_lau,Schönberg,schonberg,sc,43.83,58.44,64.5
+europe_lau,Schwarzenborn,schwarzenborn,sc,40.97,58.04,5.9
+europe_lau,Schöder,schoder,sc,42.46,68.26,83.19
+europe_lau,Schlaitdorf,schlaitdorf,sc,34.53,53.46,-30.08
+europe_lau,Schlat,schlat,sc,58.56,70.06,77.61
+europe_lau,Schlierbach,schlierbach,sc,67.51,70.77,44.72
+europe_lau,Schwieberdingen,schwieberdingen,sc,36.76,59.5,-32.79
+europe_lau,Scheibenhardt,scheibenhardt,sc,6.98,52.5,-114.61
+europe_lau,Schwegenheim,schwegenheim,sc,61.75,72.58,44.62
+europe_lau,Schallodenbach,schallodenbach,sc,53.4,61.61,39.44
+europe_lau,Schneckenhausen,schneckenhausen,sc,43.25,70.44,60.31
+europe_lau,Schwedelbach,schwedelbach,sc,49.83,71.62,30.9
+europe_lau,Schopp,schopp,sc,42,62.2,34.6
+europe_lau,Schönecken,schonecken,sc,50.13,62.22,85.87
+europe_lau,Schwirzheim,schwirzheim,sc,39.47,50.3,90.51
+europe_lau,Schalkenmehren,schalkenmehren,sc,57.24,75.73,69.49
+europe_lau,Schönbach,schonbach,sc,41.14,47.46,58.78
+europe_lau,Schutz,schutz,sc,27.39,42.99,1.02
+europe_lau,Schellweiler,schellweiler,sc,66.85,74.76,33.57
+europe_lau,Schönenberg-Kübelberg,schonenberg_kubelberg,sc,41.73,59.74,15.29
+europe_lau,Schweigen-Rechtenbach,schweigen_rechtenbach,sc,29.2,48.47,-46.15
+europe_lau,Schweighofen,schweighofen,sc,40.13,58.96,54.99
+europe_lau,"Schorndorf, Stadt",schorndorf_stadt,sc,43.47,61.69,91.77
+europe_lau,Schwaikheim,schwaikheim,sc,65.67,78.51,36.9
+europe_lau,"Schwaigern, Stadt",schwaigern_stadt,sc,42.56,55.56,66.64
+europe_lau,"Schifferstadt, Stadt",schifferstadt_stadt,sc,64.9,76.1,66.22
+europe_lau,Schwabenheim an der Selz,schwabenheim_an_der_selz,sc,29.9,51.83,26.96
+europe_lau,Schauerberg,schauerberg,sc,48.61,77.45,82.89
+europe_lau,Schindhard,schindhard,sc,53.22,65.77,67.43
+europe_lau,Schmalenberg,schmalenberg,sc,40.66,61.84,8.86
+europe_lau,Schönau (Pfalz),schonau_pfalz,sc,39.11,58.57,0.27
+europe_lau,Schwanheim,schwanheim,sc,46.68,58.96,43.15
+europe_lau,Schweix,schweix,sc,20.37,52.82,99.79
+europe_lau,Schmitshausen,schmitshausen,sc,42.78,57.98,32.44
+europe_lau,Schönaich,schonaich,sc,48.37,67.7,-6.33
+europe_lau,Schäffern,schaffern,sc,26.05,52.62,88.94
+europe_lau,Schömberg,schomberg,sc,46.03,57.68,7.54
+europe_lau,Schopfloch,schopfloch,sc,69.82,70.21,69.93
+europe_lau,Schallstadt,schallstadt,sc,32.99,52.55,-19.35
+europe_lau,Schluchsee,schluchsee,sc,44.58,56.3,62.13
+europe_lau,Schuttertal,schuttertal,sc,45.41,53.56,77.4
+europe_lau,Schutterwald,schutterwald,sc,58.1,72.91,65.64
+europe_lau,Schwanau,schwanau,sc,34.37,63.3,88.15
+europe_lau,Schenkenzell,schenkenzell,sc,34.11,55.1,88.6
+europe_lau,"Schiltach, Stadt",schiltach_stadt,sc,55.45,61.92,34.65
+europe_lau,"Schramberg, Stadt",schramberg_stadt,sc,22.93,44.14,14.96
+europe_lau,Schönwald im Schwarzwald,schonwald_im_schwarzwald,sc,43.01,65.79,-8.82
+europe_lau,Schonach im Schwarzwald,schonach_im_schwarzwald,sc,53.49,63.72,37.17
+europe_lau,Schallbach,schallbach,sc,61.95,73.36,62.04
+europe_lau,Schliengen,schliengen,sc,34.71,55.6,-32.24
+europe_lau,"Schönau im Schwarzwald, Stadt",schonau_im_schwarzwald_stadt,sc,26.03,47.04,-73.19
+europe_lau,Schönenberg,schonenberg,sc,33.35,54.11,77.74
+europe_lau,"Schopfheim, Stadt",schopfheim_stadt,sc,27.08,45.97,37.05
+europe_lau,Schwörstadt,schworstadt,sc,55.52,65.33,66.69
+europe_lau,Schöntal,schontal,sc,48.8,59.02,28.8
+europe_lau,"Schrozberg, Stadt",schrozberg_stadt,sc,32.43,60.12,-51.96
+europe_lau,"Schwäbisch Hall, Stadt",schwabisch_hall_stadt,sc,34.33,42.93,16.4
+europe_lau,Schechingen,schechingen,sc,46.59,69.35,17.36
+europe_lau,"Schwäbisch Gmünd, Stadt",schwabisch_gmund_stadt,sc,47.17,52.62,38.25
+europe_lau,"Schömberg, Stadt",schomberg_stadt,sc,42.75,56.21,77.08
+europe_lau,Schefflenz,schefflenz,sc,61.32,73.04,46.47
+europe_lau,Schwarzach,schwarzach,sc,52.29,59.9,44.18
+europe_lau,"Schönau, Stadt",schonau_stadt,sc,53.53,69.81,82.96
+europe_lau,Schönbrunn,schonbrunn,sc,67.48,72.27,50.21
+europe_lau,"Schriesheim, Stadt",schriesheim_stadt,sc,41.8,66.99,-39.72
+europe_lau,"Schwetzingen, Stadt",schwetzingen_stadt,sc,30.59,54.66,91.6
+europe_lau,Scheffau am Wilden Kaiser,scheffau_am_wilden_kaiser,sc,60.42,74.66,50.42
+europe_lau,Schwoich,schwoich,sc,63.25,68.73,66.35
+europe_lau,Schönau,schonau,sc,65.25,69.12,49.01
+europe_lau,"Schwarzach, M",schwarzach_m,sc,43.9,59.37,71.24
+europe_lau,"Schelklingen, Stadt",schelklingen_stadt,sc,42.34,60.17,-4.27
+europe_lau,Schnürpflingen,schnurpflingen,sc,36.67,60.66,43.16
+europe_lau,Schöngeising,schongeising,sc,50.64,61.3,55.81
+europe_lau,Schwaigen,schwaigen,sc,45.98,64.08,68.29
+europe_lau,Scheuring,scheuring,sc,39.05,65.59,89.75
+europe_lau,Schondorf am Ammersee,schondorf_am_ammersee,sc,46.84,66.36,75.95
+europe_lau,Schwifting,schwifting,sc,42.57,64.2,48.45
+europe_lau,"Schliersee, M",schliersee_m,sc,35.93,63.91,89.16
+europe_lau,Schwendi,schwendi,sc,37.99,46.46,83.72
+europe_lau,Schemmerhofen,schemmerhofen,sc,40.41,55.92,64.07
+europe_lau,Schlier,schlier,sc,42.66,71.62,79.06
+europe_lau,"Scheer, Stadt",scheer_stadt,sc,31.6,50.84,54.14
+europe_lau,Schwenningen,schwenningen,sc,53.35,67.87,69.56
+europe_lau,Schneizlreuth,schneizlreuth,sc,56.84,57.72,50.48
+europe_lau,Schönau a.Königssee,schonau_a_konigssee,sc,52.55,70.38,87.66
+europe_lau,Schellenberger Forst,schellenberger_forst,sc,42.16,51.05,75.36
+europe_lau,Schlehdorf,schlehdorf,sc,43.09,68.27,69.34
+europe_lau,Scharnitz,scharnitz,sc,37.22,56.5,-14.42
+europe_lau,Schwabhausen,schwabhausen,sc,46.68,50.17,46.66
+europe_lau,Schmirn,schmirn,sc,41.33,50.92,36.49
+europe_lau,Schönberg im Stubaital,schonberg_im_stubaital,sc,19.21,46.2,80.41
+europe_lau,Schernfeld,schernfeld,sc,46.2,54.94,30.57
+europe_lau,Schwendt,schwendt,sc,47.82,63.23,33.56
+europe_lau,Schleching,schleching,sc,53.68,70.63,44.91
+europe_lau,Schnaitsee,schnaitsee,sc,59.05,64.46,71.38
+europe_lau,"Schongau, St",schongau_st,sc,48.66,64,67.16
+europe_lau,Schwabbruck,schwabbruck,sc,43.81,66.27,1.44
+europe_lau,Schwabsoien,schwabsoien,sc,37.79,65.68,-14.47
+europe_lau,Schaufling,schaufling,sc,48.97,62.6,71.43
+europe_lau,"Schöllnach, M",schollnach_m,sc,47.84,55.27,47.14
+europe_lau,Schöfweg,schofweg,sc,35.59,46.81,24.1
+europe_lau,"Schönberg, M",schonberg_m,sc,45.14,60.21,90.04
+europe_lau,Schlichtenberger Wald,schlichtenberger_wald,sc,35.54,47.34,17.51
+europe_lau,Schönbrunner Wald,schonbrunner_wald,sc,44.24,64.25,98.8
+europe_lau,Schalkham,schalkham,sc,52.01,70.14,38.4
+europe_lau,Schirmitz,schirmitz,sc,56.89,71,34.22
+europe_lau,Schlammersdorf,schlammersdorf,sc,42.08,70.83,47.06
+europe_lau,Schwarzenbach,schwarzenbach,sc,37.76,48.2,31.48
+europe_lau,Schönberg,schonberg,sc,60.44,73.91,38
+europe_lau,Schwindegg,schwindegg,sc,35.32,51.18,34.7
+europe_lau,Schäftlarn,schaftlarn,sc,51.02,62.42,72.93
+europe_lau,"Schrobenhausen, St",schrobenhausen_st,sc,42.51,52.49,28.81
+europe_lau,Scheyern,scheyern,sc,54.16,63.67,69.4
+europe_lau,Schweitenkirchen,schweitenkirchen,sc,52.4,66.79,88.67
+europe_lau,Schechen,schechen,sc,44.01,77.26,99.17
+europe_lau,Schonstett,schonstett,sc,42.72,65.53,38.21
+europe_lau,Schlins,schlins,sc,42.36,68.53,-9.91
+europe_lau,Schnifis,schnifis,sc,32.28,45.04,58.33
+europe_lau,Schildetal,schildetal,sc,65.43,66.99,60.14
+europe_lau,Schlagsdorf,schlagsdorf,sc,57.89,62.79,69.16
+europe_lau,Schwepnitz,schwepnitz,sc,48.31,69.74,41.83
+europe_lau,Schleife / Slepo,schleife_slepo,sc,54.1,64.59,36.03
+europe_lau,Schönau-Berzdorf a. d. Eigen,schonau_berzdorf_a_d_eigen,sc,48.69,58.16,60.74
+europe_lau,Schönbach,schonbach,sc,59.62,78.04,39.32
+europe_lau,Schöpstal,schopstal,sc,51.02,61.22,82.34
+europe_lau,Scherstetten,scherstetten,sc,41.59,65.96,95.29
+europe_lau,"Schwabmünchen, St",schwabmunchen_st,sc,53.91,75.07,20.03
+europe_lau,Schmellerforst,schmellerforst,sc,36.68,78.03,-25.61
+europe_lau,Schwenningen,schwenningen,sc,41.27,55.39,81.15
+europe_lau,"Schönberg, Stadt",schonberg_stadt,sc,49.4,62.53,30.42
+europe_lau,"Schmidmühlen, M",schmidmuhlen_m,sc,24.6,49.3,81.61
+europe_lau,"Schnaittenbach, St",schnaittenbach_st,sc,53.81,64.54,61.33
+europe_lau,Schönthal,schonthal,sc,47.27,69.26,77.86
+europe_lau,Schorndorf,schorndorf,sc,58.64,60.4,77.48
+europe_lau,Schnaudertal,schnaudertal,sc,28.91,60.27,80.96
+europe_lau,Schönburg,schonburg,sc,44.77,51.77,52.06
+europe_lau,Schönfeld,schonfeld,sc,26.49,49.72,62.19
+europe_lau,Schachendorf,schachendorf,sc,27.3,52.9,-76.16
+europe_lau,Schlitters,schlitters,sc,33.74,56.23,54.31
+europe_lau,Schwaz,schwaz,sc,60.49,68.46,57.21
+europe_lau,Schwendau,schwendau,sc,32.46,52.38,-40.51
+europe_lau,"Scheidegg, M",scheidegg_m,sc,41.91,66.2,99.67
+europe_lau,"Schmalkalden, Kurort, Stadt",schmalkalden_kurort_stadt,sc,29.26,50.07,-49.25
+europe_lau,Schwallungen,schwallungen,sc,32.13,48.6,-6.17
+europe_lau,Schwarza,schwarza,sc,31.19,49.17,97.45
+europe_lau,Schwabhausen,schwabhausen,sc,37.62,64.96,94.67
+europe_lau,"Schkeuditz, Stadt",schkeuditz_stadt,sc,33.36,45.08,68.35
+europe_lau,Schönwölkau,schonwolkau,sc,41.83,48.87,69.47
+europe_lau,Schwangau,schwangau,sc,41.6,51.07,72.18
+europe_lau,Schloßvippach,schlossvippach,sc,48.74,60.22,32.89
+europe_lau,Schwerstedt,schwerstedt,sc,49,64.07,83.67
+europe_lau,Schlechtsart,schlechtsart,sc,54.74,75.5,7.09
+europe_lau,Schleusegrund,schleusegrund,sc,37.01,57.88,92.13
+europe_lau,"Schleusingen, Stadt",schleusingen_stadt,sc,63.16,63.95,68.28
+europe_lau,Schmeheim,schmeheim,sc,47.71,65,33.73
+europe_lau,Schweickershausen,schweickershausen,sc,50.01,71.83,14.63
+europe_lau,Schwarzburg,schwarzburg,sc,32.96,52.23,25.11
+europe_lau,"Schwarzatal, Stadt",schwarzatal_stadt,sc,42.58,51.32,40.42
+europe_lau,Schorfheide,schorfheide,sc,39.77,61.47,30.79
+europe_lau,Schlepzig/Słopišća,schlepzig_slopisca,sc,61.93,76.8,89.28
+europe_lau,Schönefeld,schonefeld,sc,38.22,56.41,51.4
+europe_lau,Schönwald,schonwald,sc,47.59,62.87,-0.45
+europe_lau,Schulzendorf,schulzendorf,sc,54.86,70.88,80.67
+europe_lau,Schwerin,schwerin,sc,54.22,65.8,36.81
+europe_lau,Schwielochsee/Gójacki Jazor,schwielochsee_gojacki_jazor,sc,39.51,49.45,72.02
+europe_lau,"Schkölen, Stadt",schkolen_stadt,sc,35.95,49.1,31.73
+europe_lau,"Schwanebeck, Stadt",schwanebeck_stadt,sc,49.48,54.45,27.91
+europe_lau,Schaarbeek,schaarbeek,sc,53.29,65,64.9
+europe_lau,Schkopau,schkopau,sc,34.17,53.41,-11.62
+europe_lau,"Schraplau, Stadt",schraplau_stadt,sc,38.36,51.22,44.09
+europe_lau,"Schönebeck (Elbe), Stadt",schonebeck_elbe_stadt,sc,57.32,65.81,29.47
+europe_lau,Schiffweiler,schiffweiler,sc,60.54,72.86,78.94
+europe_lau,Schmelz,schmelz,sc,40.24,54.79,69.46
+europe_lau,Schwalbach,schwalbach,sc,55.96,71.75,32.69
+europe_lau,Scheiditz,scheiditz,sc,51.49,73.85,76.17
+europe_lau,Schleifreisen,schleifreisen,sc,51.45,73.67,62.63
+europe_lau,Schlöben,schloben,sc,69.33,67.95,49.77
+europe_lau,Schöngleina,schongleina,sc,48.31,65.57,92.61
+europe_lau,Schöps,schops,sc,39.21,62.45,41.54
+europe_lau,Schollene,schollene,sc,58.49,75.68,87.33
+europe_lau,Schönhausen (Elbe),schonhausen_elbe,sc,49.31,67.76,11.17
+europe_lau,Schmiedehausen,schmiedehausen,sc,58.53,62.26,48.48
+europe_lau,"Schalkau, Stadt",schalkau_stadt,sc,48.76,55.22,83.6
+europe_lau,"Schleiz, Stadt",schleiz_stadt,sc,35.5,59.07,-32.63
+europe_lau,Schmieritz,schmieritz,sc,53.84,69.3,67.61
+europe_lau,Schmorda,schmorda,sc,27.49,52.34,82.93
+europe_lau,Schöndorf,schondorf,sc,65.02,72.23,52.59
+europe_lau,Schachtebich,schachtebich,sc,48.23,68.26,6.57
+europe_lau,Schönhagen,schonhagen,sc,56.79,69.38,78.76
+europe_lau,Schwobfeld,schwobfeld,sc,48.05,54.04,35.53
+europe_lau,Schimberg,schimberg,sc,40.82,50.73,65.69
+europe_lau,Schleid,schleid,sc,42.75,62.24,-6.27
+europe_lau,Schilda,schilda,sc,34.99,59.59,0.13
+europe_lau,"Schlieben, Stadt",schlieben_stadt,sc,43.15,55.11,77.91
+europe_lau,Schönborn,schonborn,sc,53.79,72.63,42.28
+europe_lau,"Schönewalde, Stadt",schonewalde_stadt,sc,45.75,57.64,61.19
+europe_lau,Schraden,schraden,sc,51.35,60.74,38.14
+europe_lau,Schruns,schruns,sc,36.67,57.29,22.5
+europe_lau,Schönwalde-Glien,schonwalde_glien,sc,34.59,59.19,4.66
+europe_lau,Scherpenheuvel-Zichem,scherpenheuvel_zichem,sc,60.38,61.5,75.05
+europe_lau,Schwaara,schwaara,sc,63.87,68.22,60.49
+europe_lau,Schwarzbach,schwarzbach,sc,60.74,73.19,56.8
+europe_lau,"Schmölln, Stadt",schmolln_stadt,sc,57.04,57.36,54.58
+europe_lau,Schönstedt,schonstedt,sc,24.04,52.78,17.54
+europe_lau,Schönermark,schonermark,sc,53.22,71.43,73.6
+europe_lau,Schipkau,schipkau,sc,64.44,68.46,54.57
+europe_lau,Schwarzbach,schwarzbach,sc,44.56,69.24,58.02
+europe_lau,"Schwarzheide, Stadt",schwarzheide_stadt,sc,50.34,65.67,0.55
+europe_lau,Schandorf,schandorf,sc,42,60.03,97.04
+europe_lau,Schüpfen,schupfen,sc,41.61,61.56,-24.86
+europe_lau,Schwerzenbach,schwerzenbach,sc,51.37,65.07,67.21
+europe_lau,Schlatt (ZH),schlatt_zh,sc,43.53,61.69,28.1
+europe_lau,Schwarzhäusern,schwarzhausern,sc,44.12,58.52,33.6
+europe_lau,Schleinikon,schleinikon,sc,27.1,53.64,88.08
+europe_lau,"Schlüsselfeld, St",schlusselfeld_st,sc,43.39,57.8,-4.59
+europe_lau,"Schnabelwaid, M",schnabelwaid_m,sc,39.35,65.72,59.06
+europe_lau,"Scheibenberg, Stadt",scheibenberg_stadt,sc,30.94,61.02,93.64
+europe_lau,"Schlettau, Stadt",schlettau_stadt,sc,43.1,57.21,76.76
+europe_lau,"Schneeberg, Stadt",schneeberg_stadt,sc,68.12,68.6,65.17
+europe_lau,Schönheide,schonheide,sc,41.56,51.15,22.39
+europe_lau,"Schwarzenberg/Erzgeb., Stadt",schwarzenberg_erzgeb_stadt,sc,32.7,40.64,46.43
+europe_lau,Schollbrunn,schollbrunn,sc,47.83,58.3,12.46
+europe_lau,Schonungen,schonungen,sc,56.53,63.38,60.03
+europe_lau,Schwanfeld,schwanfeld,sc,60.23,76.19,47.69
+europe_lau,Schwebheim,schwebheim,sc,40.04,55,64.79
+europe_lau,"Schnaittach, M",schnaittach_m,sc,39.32,46.76,35.85
+europe_lau,Schwaig b.Nürnberg,schwaig_b_nurnberg,sc,50.1,65.61,15.46
+europe_lau,Schwarzenbruck,schwarzenbruck,sc,40.61,50.15,22.89
+europe_lau,Schönberg,schonberg,sc,35.43,68.17,76.64
+europe_lau,Schlaubetal,schlaubetal,sc,43.8,54.49,47.91
+europe_lau,Schöneiche bei Berlin,schoneiche_bei_berlin,sc,67.3,71.16,59.03
+europe_lau,Schorssow,schorssow,sc,48.69,68.8,87.31
+europe_lau,"Schwaan, Stadt",schwaan_stadt,sc,45.6,60.86,-6.84
+europe_lau,Schwasdorf,schwasdorf,sc,33.88,58.57,-43.15
+europe_lau,"Schauenstein, St",schauenstein_st,sc,51.19,65.53,15.22
+europe_lau,"Schwarzenbach a.d.Saale, St",schwarzenbach_a_d_saale_st,sc,47.38,59.93,24.35
+europe_lau,"Schwarzenbach a.Wald, St",schwarzenbach_a_wald_st,sc,41.28,56.62,-16.01
+europe_lau,Schwielowsee,schwielowsee,sc,40.3,54.78,67.25
+europe_lau,Schneckenlohe,schneckenlohe,sc,42.94,61.63,-1.01
+europe_lau,"Scheinfeld, St",scheinfeld_st,sc,57.18,59.55,60.43
+europe_lau,"Schöneck/Vogtl., Stadt",schoneck_vogtl_stadt,sc,46.98,65.57,32.65
+europe_lau,"Schwanstetten, M",schwanstetten_m,sc,68.7,71.46,39.16
+europe_lau,Schweinfurt,schweinfurt,sc,49.25,61.59,75.64
+europe_lau,Schiltberg,schiltberg,sc,49.43,65.09,-6.69
+europe_lau,Schmiechen,schmiechen,sc,35.93,59.1,56.18
+europe_lau,Schaprode,schaprode,sc,60.89,70.49,45.19
+europe_lau,Schlemmin,schlemmin,sc,43.5,71.27,19.89
+europe_lau,Schenkendöbern/Derbno,schenkendobern_derbno,sc,44.92,50.28,56.56
+europe_lau,Schmogrow-Fehrow/Smogorjow-Prjawoz,schmogrow_fehrow_smogorjow_prjawoz,sc,50.79,56.35,51.7
+europe_lau,"Schirnding, M",schirnding_m,sc,42.8,54.63,54.83
+europe_lau,"Schönwald, St",schonwald_st,sc,56.74,66.75,48.06
+europe_lau,Schwabach,schwabach,sc,52.19,60.95,63.61
+europe_lau,Schmatzin,schmatzin,sc,59.09,64.33,34.76
+europe_lau,Schönwalde,schonwalde,sc,47.5,67.92,90.06
+europe_lau,Schönberg,schonberg,sc,65.56,72.19,48.97
+europe_lau,"Schirgiswalde-Kirschau, Stadt",schirgiswalde_kirschau_stadt,sc,55.16,61.82,27.17
+europe_lau,Schmölln-Putzkau,schmolln_putzkau,sc,53.47,57.8,69.03
+europe_lau,"Schöllkrippen, M",schollkrippen_m,sc,43.08,63.44,50.22
+europe_lau,Schöllkrippener Forst,schollkrippener_forst,sc,43.97,65.36,87.98
+europe_lau,"Schondra, M",schondra_m,sc,36.07,42.41,63.47
+europe_lau,Schenkenberg,schenkenberg,sc,39.71,63.88,21.46
+europe_lau,Schöneberg,schoneberg,sc,48.36,62.49,76.97
+europe_lau,Schönfeld,schonfeld,sc,58.88,74.4,65.22
+europe_lau,"Schwedt/Oder, Stadt",schwedt_oder_stadt,sc,55.04,61.64,76.06
+europe_lau,"Schwerin, Landeshauptstadt",schwerin_landeshauptstadt,sc,57.85,68.74,70.77
+europe_lau,"Schillingsfürst, St",schillingsfurst_st,sc,30.36,36.05,42.45
+europe_lau,Schnelldorf,schnelldorf,sc,38.89,58.5,66.14
+europe_lau,"Schopfloch, M",schopfloch_m,sc,57.84,65.72,18.6
+europe_lau,Schlaiten,schlaiten,sc,39.85,62.25,0.98
+europe_lau,Schelle,schelle,sc,43.18,71.17,-45.52
+europe_lau,Schilde,schilde,sc,43.88,63.86,69.9
+europe_lau,Schoten,schoten,sc,40.22,61.55,68.87
+europe_lau,"Schierling, M",schierling_m,sc,46.28,53.67,62.44
+europe_lau,Schmidgaden,schmidgaden,sc,41.34,74.65,98.9
+europe_lau,"Schönsee, St",schonsee_st,sc,35.42,54.11,21.91
+europe_lau,"Schwandorf, GKSt",schwandorf_gk_st,sc,56.82,57.09,50.87
+europe_lau,Schwarzach b.Nabburg,schwarzach_b_nabburg,sc,46.6,54.41,23.44
+europe_lau,Schönau a.d.Brend,schonau_a_d_brend,sc,29.42,37.54,29.81
+europe_lau,Schnepfau,schnepfau,sc,31.22,65.15,-91.47
+europe_lau,Schoppernau,schoppernau,sc,53.73,69.16,87.58
+europe_lau,Schröcken,schrocken,sc,57.26,63.57,37.42
+europe_lau,Schwarzach,schwarzach,sc,40.85,65.39,-11.57
+europe_lau,Schönbeck,schonbeck,sc,30.41,65.88,-74.49
+europe_lau,Schönfeld,schonfeld,sc,55.16,67.66,73.51
+europe_lau,Schönhausen,schonhausen,sc,47.89,65.66,94.44
+europe_lau,Schwarz,schwarz,sc,42.21,56.91,38.03
+europe_lau,"Schwarzenfeld, M",schwarzenfeld_m,sc,29.23,54.86,12.86
+europe_lau,"Schwarzhofen, M",schwarzhofen_m,sc,47.07,63.32,56.37
+europe_lau,Schossin,schossin,sc,44.36,57.81,21.25
+europe_lau,Schwanheide,schwanheide,sc,58.27,74.21,44.77
+europe_lau,Schönwies,schonwies,sc,34.1,54.46,92.47
+europe_lau,"Scheßlitz, St",schesslitz_st,sc,72.09,70.77,61.3
+europe_lau,Schönbrunn i.Steigerwald,schonbrunn_i_steigerwald,sc,51.75,66.16,16.85
+europe_lau,"Schwarzach a.Main, M",schwarzach_a_main_m,sc,56.5,61.19,53.01
+europe_lau,Schattwald,schattwald,sc,43.08,70.13,92.94
+europe_lau,"Schneeberg, M",schneeberg_m,sc,25.74,47.75,88.34
+europe_lau,Schwarzenberg,schwarzenberg,sc,59.01,63.76,72.31
+europe_lau,Schloen-Dratow,schloen_dratow,sc,34.54,54.89,77.02
+europe_lau,Schiefling am Wörthersee,schiefling_am_worthersee,sc,63.35,60.76,64.02
+europe_lau,Schmitten (FR),schmitten_fr,sc,56.65,62.63,56.95
+europe_lau,Scuol,scuol,sc,52.21,65.28,72.69
+europe_lau,Scey-Maisières,scey_maisieres,sc,24.94,38.58,16.61
+europe_lau,Schwadorf,schwadorf,sc,61.32,82.59,56.7
+europe_lau,Scharans,scharans,sc,58.84,67.36,65.2
+europe_lau,Schnottwil,schnottwil,sc,52.49,74.77,72.71
+europe_lau,Schwaderloch,schwaderloch,sc,45.72,67.47,43.75
+europe_lau,Schwechat,schwechat,sc,49.71,69.13,16.29
+europe_lau,Schänis,schanis,sc,60.86,71.63,59.7
+europe_lau,Schmerikon,schmerikon,sc,33.92,56.33,-34.92
+europe_lau,Scharndorf,scharndorf,sc,46.84,61.79,19.4
+europe_lau,Schaffhausen,schaffhausen,sc,34.71,57.04,-6.75
+europe_lau,Schleitheim,schleitheim,sc,49.81,61.3,25.05
+europe_lau,Schupfart,schupfart,sc,48.11,66.37,82.1
+europe_lau,Sceautres,sceautres,sc,49.22,57.9,59.11
+europe_lau,Schafisheim,schafisheim,sc,41.99,71.37,98.83
+europe_lau,Sceau-Saint-Angel,sceau_saint_angel,sc,48.73,66.08,85.23
+europe_lau,Schönholzerswilen,schonholzerswilen,sc,46.37,54.23,35.25
+europe_lau,Schwellbrunn,schwellbrunn,sc,57.1,67.01,38.67
+europe_lau,Schönenbuch,schonenbuch,sc,57.2,79.7,75.42
+europe_lau,Schiers,schiers,sc,41.13,67.54,29.5
+europe_lau,Schlatt-Haslen,schlatt_haslen,sc,43,55.66,15.75
+europe_lau,Schwende,schwende,sc,62.34,80.64,49.46
+europe_lau,Schelten,schelten,sc,55.57,66.33,30.86
+europe_lau,Schwarzenberg,schwarzenberg,sc,61.9,77.88,42.99
+europe_lau,Schattenhalb,schattenhalb,sc,49.3,61.39,67.83
+europe_lau,Schönau an der Triesting,schonau_an_der_triesting,sc,44.96,63.72,28.89
+europe_lau,Schötz,schotz,sc,40.14,58.09,-20.81
+europe_lau,Schwarzenburg,schwarzenburg,sc,58.56,66.46,69.6
+europe_lau,Schwyz,schwyz,sc,38.24,50.53,8.28
+europe_lau,Schüpfheim,schupfheim,sc,39.52,58.23,40
+europe_lau,Schenkon,schenkon,sc,47.96,82.22,56.57
+europe_lau,Schattdorf,schattdorf,sc,45.25,72.64,23.86
+europe_lau,Schmitten (GR),schmitten_gr,sc,43.58,71.23,93.45
+europe_lau,Schlierbach,schlierbach,sc,41.25,60.05,72.3
+europe_lau,Scheuren,scheuren,sc,49.36,69.85,18.25
+europe_lau,Schwadernau,schwadernau,sc,46.62,61.72,24.19
+europe_lau,Schongau,schongau,sc,63.19,77.21,57.3
+europe_lau,Schönenwerd,schonenwerd,sc,59.37,67.07,74.43
+europe_lau,Schwanden bei Brienz,schwanden_bei_brienz,sc,45.4,77.96,94.14
+europe_lau,Schluein,schluein,sc,35.3,47.77,73.37
+europe_lau,Schangnau,schangnau,sc,41.64,66.07,6.29
+europe_lau,Schrattenthal,schrattenthal,sc,30.51,49.08,85.41
+europe_lau,Scrupt,scrupt,sc,36.23,64.75,-40.5
+europe_lau,Sceaux-du-Gâtinais,sceaux_du_gatinais,sc,35.48,51.82,-7.39
+europe_lau,Sceaux-d'Anjou,sceaux_d_anjou,sc,58.72,69.22,56.24
+europe_lau,Schönkirchen-Reyersdorf,schonkirchen_reyersdorf,sc,46.58,69.38,86.86
+europe_lau,Scieurac-et-Flourès,scieurac_et_floures,sc,49.97,70,78.06
+europe_lau,Scata,scata,sc,53.93,74.79,29.79
+europe_lau,Scolca,scolca,sc,33.73,58.9,52.84
+europe_lau,Schneisingen,schneisingen,sc,60.69,68.08,67.63
+europe_lau,Scaër,scaer,sc,58.01,62.43,75.73
+europe_lau,Schinznach,schinznach,sc,51.67,61.38,55.07
+europe_lau,Scrignac,scrignac,sc,47.41,56.88,44.3
+europe_lau,Schlossrued,schlossrued,sc,52.53,70.74,51.05
+europe_lau,Schmiedrued,schmiedrued,sc,50.45,58.25,84.61
+europe_lau,Schöftland,schoftland,sc,44.62,67.68,7.38
+europe_lau,Schlatt (TG),schlatt_tg,sc,44,72.69,76.39
+europe_lau,Schrems,schrems,sc,36.47,56.2,84.12
+europe_lau,Scorbé-Clairvaux,scorbe_clairvaux,sc,59.16,67.66,65.39
+europe_lau,Schollach,schollach,sc,57.75,70.22,34
+europe_lau,Schœlcher,schoelcher,sc,20.44,49.57,77.33
+europe_lau,Schořov,schorov,sc,55.08,71.81,33.81
+europe_lau,Schlierbach,schlierbach,sc,27.04,82.4,11.71
+europe_lau,Schweighouse-Thann,schweighouse_thann,sc,45.52,54.83,70.2
+europe_lau,Schwoben,schwoben,sc,30.97,63.46,75.65
+europe_lau,Sceaux,sceaux,sc,64.21,76.71,38.43
+europe_lau,Sciecq,sciecq,sc,35.53,70.25,-71
+europe_lau,Scillé,scille,sc,35.72,68.4,76.16
+europe_lau,Scey-sur-Saône-et-Saint-Albin,scey_sur_saone_et_saint_albin,sc,47.62,59.92,72.65
+europe_lau,Scye,scye,sc,61.93,66.95,50.46
+europe_lau,Schönberg am Kamp,schonberg_am_kamp,sc,53.42,58.02,54.19
+europe_lau,Schaeffersheim,schaeffersheim,sc,36.7,45.19,64.82
+europe_lau,Schaffhouse-près-Seltz,schaffhouse_pres_seltz,sc,59.09,76.53,72.26
+europe_lau,Schalkendorf,schalkendorf,sc,53.97,73.92,43.97
+europe_lau,Scharrachbergheim-Irmstett,scharrachbergheim_irmstett,sc,38.19,68.91,-25.36
+europe_lau,Scheibenhard,scheibenhard,sc,56.94,74.41,56.24
+europe_lau,Scherlenheim,scherlenheim,sc,57.7,73.86,79.78
+europe_lau,Scherwiller,scherwiller,sc,33.2,54.53,-23.04
+europe_lau,Schillersdorf,schillersdorf,sc,60.48,68.63,78.15
+europe_lau,Schiltigheim,schiltigheim,sc,16.1,33.18,-28.6
+europe_lau,Schirmeck,schirmeck,sc,37.32,59.97,31.04
+europe_lau,Schirrhein,schirrhein,sc,40.52,53.74,22.55
+europe_lau,Schirrhoffen,schirrhoffen,sc,34.91,79.33,1.65
+europe_lau,Schleithal,schleithal,sc,46.41,63.67,-4.61
+europe_lau,Schnersheim,schnersheim,sc,55.04,64.75,61.51
+europe_lau,Schœnau,schoenau,sc,30.16,61.25,80.38
+europe_lau,Schœnbourg,schoenbourg,sc,57.43,76.3,92.05
+europe_lau,Schœnenbourg,schoenenbourg,sc,54.41,70.64,44.47
+europe_lau,Schopperten,schopperten,sc,61.73,77.09,64.48
+europe_lau,Schweighouse-sur-Moder,schweighouse_sur_moder,sc,47.19,65.01,42.87
+europe_lau,Schwenheim,schwenheim,sc,49.56,65.94,22.42
+europe_lau,Schwindratzheim,schwindratzheim,sc,42.27,63.67,89.89
+europe_lau,Schwobsheim,schwobsheim,sc,28.18,48.37,91.64
+europe_lau,Schalbach,schalbach,sc,42.5,53.63,71.86
+europe_lau,Schmittviller,schmittviller,sc,35.74,48.95,79.41
+europe_lau,Schneckenbusch,schneckenbusch,sc,25.39,72.71,72.1
+europe_lau,Schœneck,schoeneck,sc,38.23,65.38,-0.78
+europe_lau,Schorbach,schorbach,sc,71.22,70.9,56.13
+europe_lau,Schwerdorff,schwerdorff,sc,39.78,61.55,70.35
+europe_lau,Schweyen,schweyen,sc,29.74,52.62,-52
+europe_lau,Scy-Chazelles,scy_chazelles,sc,49.53,60.98,22.3
+europe_lau,Sceaux-sur-Huisne,sceaux_sur_huisne,sc,42.89,63.19,38.29
+europe_lau,Scientrier,scientrier,sc,49.95,61.76,38.73
+europe_lau,Sciez,sciez,sc,59.84,67.69,48.82
+europe_lau,Schönbühel-Aggsbach,schonbuhel_aggsbach,sc,24.74,47.47,70.64
+europe_lau,Scionzier,scionzier,sc,41.1,61,85.71
+europe_lau,Schiavon,schiavon,sc,69.78,77.67,63.46
+europe_lau,Schio,schio,sc,51.73,55.39,67.92
+europe_lau,Scanno,scanno,sc,47.22,60.6,80.34
+europe_lau,Scontrone,scontrone,sc,40.42,56.99,69.16
+europe_lau,Scoppito,scoppito,sc,53.5,68.31,32.05
+europe_lau,Scurcola Marsicana,scurcola_marsicana,sc,53.06,59.73,23.38
+europe_lau,Schieren,schieren,sc,46.06,66.27,11.97
+europe_lau,Schengen,schengen,sc,48.4,59.52,87.6
+europe_lau,Sciara,sciara,sc,53.99,62.9,64.22
+europe_lau,Sclafani Bagni,sclafani_bagni,sc,31.75,41.94,94.62
+europe_lau,Scillato,scillato,sc,37.83,52.98,0.54
+europe_lau,Scanzorosciate,scanzorosciate,sc,31.87,57.63,-27.13
+europe_lau,Schilpario,schilpario,sc,50,62.34,14.88
+europe_lau,Scaldasole,scaldasole,sc,50.85,68.47,-0.14
+europe_lau,Scisciano,scisciano,sc,33.59,52.64,85.86
+europe_lau,Sciacca,sciacca,sc,49.01,59.52,47.74
+europe_lau,Scheibbs,scheibbs,sc,55.06,70.3,69.65
+europe_lau,Schwarzenbach an der Pielach,schwarzenbach_an_der_pielach,sc,53.33,67.33,59.16
+europe_lau,Scandicci,scandicci,sc,57.51,64.15,65.74
+europe_lau,Scarperia e San Piero,scarperia_e_san_piero,sc,44.4,64.52,91.11
+europe_lau,Scurelle,scurelle,sc,17.78,42.81,85.66
+europe_lau,Scafa,scafa,sc,24.95,36.45,1.94
+europe_lau,Scorrano,scorrano,sc,70.24,73.52,58.91
+europe_lau,Ścinawa,scinawa,sc,42.1,65.7,96.84
+europe_lau,Scampitella,scampitella,sc,34,62.21,-69.88
+europe_lau,Scido,scido,sc,29.19,69.34,88.91
+europe_lau,Scilla,scilla,sc,14.98,32.13,21.25
+europe_lau,Scorzè,scorze,sc,35.45,54.2,12.37
+europe_lau,Scerni,scerni,sc,48.34,59.67,15.43
+europe_lau,Schiavi di Abruzzo,schiavi_di_abruzzo,sc,55.57,67.66,85.14
+europe_lau,Schaan,schaan,sc,50.72,63.76,12.46
+europe_lau,Schellenberg,schellenberg,sc,35.7,60.93,64.47
+europe_lau,Scaletta Zanclea,scaletta_zanclea,sc,48.9,62.76,36.94
+europe_lau,Scafati,scafati,sc,41.29,56.8,63.03
+europe_lau,Scala,scala,sc,48.27,61.53,73.71
+europe_lau,Scandale,scandale,sc,61.08,62.42,65.2
+europe_lau,Schifflange,schifflange,sc,55.25,67.01,73.78
+europe_lau,Schuttrange,schuttrange,sc,62.54,74.92,38.41
+europe_lau,Scordia,scordia,sc,55.62,75.59,21.68
+europe_lau,Scalea,scalea,sc,37.01,71.22,97.5
+europe_lau,Scigliano,scigliano,sc,22.35,57.79,-147.37
+europe_lau,Schottwien,schottwien,sc,53.56,64.68,71.7
+europe_lau,Scandriglia,scandriglia,sc,44.42,56.92,54.11
+europe_lau,Schrattenbach,schrattenbach,sc,36.99,59.14,-17.86
+europe_lau,Schrattenberg,schrattenberg,sc,56.85,72.3,31.45
+europe_lau,Schützen am Gebirge,schutzen_am_gebirge,sc,35.5,62.54,84.45
+europe_lau,Scandiano,scandiano,sc,40.4,57.43,74.8
+europe_lau,Scagnello,scagnello,sc,38.42,55.36,79.78
+europe_lau,Scarnafigi,scarnafigi,sc,46.37,72.5,95.33
+europe_lau,Scansano,scansano,sc,43.25,62.92,67.01
+europe_lau,Scarlino,scarlino,sc,52.61,67.22,79.71
+europe_lau,Schwarzau am Steinfeld,schwarzau_am_steinfeld,sc,35.11,54.87,66.75
+europe_lau,Scalenghe,scalenghe,sc,38.1,67.39,-51.92
+europe_lau,Scarmagno,scarmagno,sc,28.14,62.74,82.47
+europe_lau,Sciolze,sciolze,sc,51.05,63.9,52.55
+europe_lau,Scandolara Ravara,scandolara_ravara,sc,59.12,63.56,40.44
+europe_lau,Scandolara Ripa d'Oglio,scandolara_ripa_d_oglio,sc,57.5,78.25,73.57
+europe_lau,Schignano,schignano,sc,51.95,75.53,90.22
+europe_lau,Scanzano Jonico,scanzano_jonico,sc,46.14,65.06,46.35
+europe_lau,Scheggia e Pascelupo,scheggia_e_pascelupo,sc,46.54,62.5,19.59
+europe_lau,Scheggino,scheggino,sc,36.09,51.43,60.59
+europe_lau,Scopa,scopa,sc,56.76,82.09,44.87
+europe_lau,Scopello,scopello,sc,30.47,36.72,82.88
+europe_lau,Schivenoglia,schivenoglia,sc,47.53,60.38,34.2
+europe_lau,Schwarzau im Gebirge,schwarzau_im_gebirge,sc,69.58,69.59,71.96
+europe_lau,Scurzolengo,scurzolengo,sc,44.31,74.92,97.22
+europe_lau,Scheiblingkirchen-Thernberg,scheiblingkirchen_thernberg,sc,54.51,62.91,60.03
+europe_lau,Scena/Schenna,scena_schenna,sc,45.84,66.71,68.57
+europe_lau,Schwarzenau,schwarzenau,sc,57.47,64.81,35.73
+europe_lau,Scharten,scharten,sc,43.74,59.19,17.65
+europe_lau,Scânteieşti,scanteiesti,sc,49.45,68.98,60.59
+europe_lau,Schela,schela,sc,34.31,65.26,87.2
+europe_lau,Schalchen,schalchen,sc,32.2,50.25,34.8
+europe_lau,Schweiggers,schweiggers,sc,46.62,64.77,-8.28
+europe_lau,Scărişoara,scarisoara,sc,37.44,67.97,-15.03
+europe_lau,Schitu,schitu,sc,53.71,69.75,81.7
+europe_lau,Scoarţa,scoarta,sc,35.27,60.32,-15.94
+europe_lau,Schela,schela,sc,26.18,58.75,83.93
+europe_lau,Schitu Goleşti,schitu_golesti,sc,31.37,51.39,90.24
+europe_lau,Scorţaru Nou,scortaru_nou,sc,47.31,66.07,40.92
+europe_lau,Scorţeni,scorteni,sc,45.84,55.61,80.75
+europe_lau,Scărişoara,scarisoara,sc,30.99,55.93,91.67
+europe_lau,Scânteia,scanteia,sc,56.8,69.14,85.13
+europe_lau,Scorţoasa,scortoasa,sc,52.71,58.16,66.65
+europe_lau,Scutelnici,scutelnici,sc,56.13,74.7,43.67
+europe_lau,Scăeşti,scaesti,sc,33.41,59.26,-29.18
+europe_lau,Schönbach,schonbach,sc,44.95,51.34,25.28
+europe_lau,Scorţeni,scorteni,sc,34.26,66.79,88.55
+europe_lau,Schitu Duca,schitu_duca,sc,35.44,61.42,71.78
+europe_lau,Scânteia,scanteia,sc,48.3,66.89,80.44
+europe_lau,Scobinţi,scobinti,sc,16.44,50.99,-106.59
+europe_lau,Şcheia,scheia,sc,28.29,44.18,75.6
+europe_lau,Schwarzenbach,schwarzenbach,sc,34.18,55.58,96.08
+europe_lau,Schagen,schagen,sc,47.19,62.11,93.78
+europe_lau,Scano di Montiferro,scano_di_montiferro,sc,70.32,73.95,58.5
+europe_lau,Schiedam,schiedam,sc,45.39,69.55,95.66
+europe_lau,Scicli,scicli,sc,57.04,67.07,45.24
+europe_lau,Scundu,scundu,sc,30.99,59.86,96.2
+europe_lau,Schouwen-Duiveland,schouwen_duiveland,sc,28.94,51.03,-47.04
+europe_lau,Scrioaştea,scrioastea,sc,40.22,53.57,31.89
+europe_lau,Scurtu Mare,scurtu_mare,sc,57.15,66.31,71.38
+europe_lau,Şcheia,scheia,sc,56.2,70.79,75
+europe_lau,Scapoli,scapoli,sc,32.06,41.26,80.3
+europe_lau,Scherpenzeel,scherpenzeel,sc,53.59,70.5,38.95
+europe_lau,Schitu,schitu,sc,30.85,49,95.91
+europe_lau,Schiermonnikoog,schiermonnikoog,sc,15.22,56.65,-120.14
+europe_lau,Schillingen,schillingen,sc,31.7,52.04,47.59
+europe_lau,Schöfflisdorf,schofflisdorf,sc,28.84,65.95,81.54
+europe_lau,Schlieren,schlieren,sc,68.99,80.83,45.9
+europe_lau,Schönengrund,schonengrund,sc,47.74,76.95,32.62
+europe_lau,Schübelbach,schubelbach,sc,42.29,54.52,83.87
+europe_lau,Scala Coeli,scala_coeli,sc,37.32,49.44,85.7
+europe_lau,Schwand im Innkreis,schwand_im_innkreis,sc,55.46,78.33,60.86

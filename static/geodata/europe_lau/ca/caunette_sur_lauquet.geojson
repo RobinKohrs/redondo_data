@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caunette_sur_lauquet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caunette-sur-Lauquet", "metric_roundness": 20.54, "metric_rectangularity": 52.76, "metric_mobile_fit": -135.7, "metric_aspect_ratio": 2.919, "metric_area_km2": 9.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4447115, 43.030255499999988 ], [ 2.4327361, 43.034563299999988 ], [ 2.4114369, 43.0325021 ], [ 2.387694, 43.0368035 ], [ 2.3883055, 43.0359945 ], [ 2.3887945, 43.0346375 ], [ 2.40545, 43.0289674 ], [ 2.4177169, 43.0198458 ], [ 2.43362, 43.022371 ], [ 2.4455205, 43.022449499999986 ], [ 2.452079, 43.0204215 ], [ 2.455418, 43.030722 ], [ 2.4447115, 43.030255499999988 ] ] ] } }
+]
+}

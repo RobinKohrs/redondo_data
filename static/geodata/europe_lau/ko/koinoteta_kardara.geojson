@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kardara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καρδαρά", "metric_roundness": 52.06, "metric_rectangularity": 68.47, "metric_mobile_fit": 23.54, "metric_aspect_ratio": 1.327, "metric_area_km2": 25.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2888357, 37.6158673 ], [ 22.3025425, 37.6101745 ], [ 22.3144446, 37.626337199999988 ], [ 22.322038, 37.631984 ], [ 22.3145355, 37.640874 ], [ 22.306576, 37.636541199999989 ], [ 22.2886106, 37.640796 ], [ 22.2751262, 37.6525748 ], [ 22.259882, 37.6464015 ], [ 22.2598469, 37.638768 ], [ 22.2509849, 37.6314888 ], [ 22.259154, 37.6188795 ], [ 22.2888357, 37.6158673 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "omonville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Omonville", "metric_roundness": 53.88, "metric_rectangularity": 68.52, "metric_mobile_fit": 86.78, "metric_aspect_ratio": 0.695, "metric_area_km2": 6.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0572865, 49.7895005 ], [ 1.061074, 49.796105499999982 ], [ 1.0547285, 49.7968465 ], [ 1.055596, 49.798795 ], [ 1.0511071, 49.8011129 ], [ 1.0395275, 49.799415 ], [ 1.0361505, 49.7917999 ], [ 1.0376205, 49.7850075 ], [ 1.0398275, 49.785481 ], [ 1.0413455, 49.7830265 ], [ 1.047767, 49.784721 ], [ 1.049713, 49.7818135 ], [ 1.0494635, 49.7779495 ], [ 1.054526, 49.778497 ], [ 1.0572865, 49.7895005 ] ] ] } }
+]
+}

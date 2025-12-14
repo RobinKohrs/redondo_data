@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niederkirchen_bei_deidesheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niederkirchen bei Deidesheim", "metric_roundness": 46.8, "metric_rectangularity": 71.75, "metric_mobile_fit": 73.36, "metric_aspect_ratio": 0.829, "metric_area_km2": 9.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2255364, 49.4292411 ], [ 8.2248813, 49.424213699999981 ], [ 8.2177786, 49.424037699999985 ], [ 8.2049576, 49.414844699999982 ], [ 8.2056524, 49.4099848 ], [ 8.212798, 49.404247499999975 ], [ 8.2177786, 49.4049948 ], [ 8.2316353, 49.411049299999988 ], [ 8.2314784, 49.4164914 ], [ 8.2377895, 49.418252 ], [ 8.233288, 49.430014499999984 ], [ 8.2255364, 49.4292411 ] ] ] } }
+]
+}

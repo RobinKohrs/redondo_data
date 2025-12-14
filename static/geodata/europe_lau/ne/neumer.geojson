@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neumer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neuměř", "metric_roundness": 50.2, "metric_rectangularity": 79.35, "metric_mobile_fit": 55.76, "metric_aspect_ratio": 1.005, "metric_area_km2": 10.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.0793745, 49.5980565 ], [ 13.0872296, 49.601745099999988 ], [ 13.0851808, 49.610790199999983 ], [ 13.0887611, 49.616107599999985 ], [ 13.0687025, 49.6159435 ], [ 13.067182, 49.612274899999967 ], [ 13.057272, 49.610972099999984 ], [ 13.055769, 49.594844 ], [ 13.081353, 49.594831 ], [ 13.0793745, 49.5980565 ] ] ] } }
+]
+}

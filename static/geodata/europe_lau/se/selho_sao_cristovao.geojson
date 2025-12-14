@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "selho_sao_cristovao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Selho (São Cristóvão)", "metric_roundness": 52.78, "metric_rectangularity": 69.31, "metric_mobile_fit": 63.56, "metric_aspect_ratio": 0.927, "metric_area_km2": 4.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.351058, 41.4117922 ], [ -8.343743, 41.4051875 ], [ -8.3380044, 41.4083046 ], [ -8.335975, 41.413062 ], [ -8.3467095, 41.426731 ], [ -8.3589445, 41.418178 ], [ -8.3626015, 41.41592 ], [ -8.351058, 41.4117922 ] ] ] } }
+]
+}

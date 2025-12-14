@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "molphey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Molphey", "metric_roundness": 68.18, "metric_rectangularity": 74.13, "metric_mobile_fit": 67.75, "metric_aspect_ratio": 0.885, "metric_area_km2": 15.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1954119, 47.323374 ], [ 4.2083851, 47.3178914 ], [ 4.220296, 47.329353 ], [ 4.225188, 47.332962 ], [ 4.2263696, 47.3397291 ], [ 4.2220746, 47.347993099999982 ], [ 4.2003645, 47.349830499999982 ], [ 4.18466, 47.339825499999982 ], [ 4.1954119, 47.323374 ] ] ] } }
+]
+}

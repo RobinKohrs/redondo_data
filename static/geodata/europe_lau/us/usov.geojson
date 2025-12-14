@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "usov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Úsov", "metric_roundness": 66.01, "metric_rectangularity": 80.4, "metric_mobile_fit": 58.56, "metric_aspect_ratio": 0.977, "metric_area_km2": 18.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9793165, 49.7923125 ], [ 16.9851029, 49.786772899999981 ], [ 16.9911815, 49.7859924 ], [ 16.99477, 49.780948 ], [ 17.0022435, 49.782051 ], [ 17.0140096, 49.786227199999985 ], [ 17.0301677, 49.7973351 ], [ 17.0191435, 49.8060845 ], [ 17.002006, 49.814547499999982 ], [ 17.000421, 49.8091151 ], [ 16.9937752, 49.80430759999998 ], [ 16.9809445, 49.8024355 ], [ 16.9793165, 49.7923125 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brognard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brognard", "metric_roundness": 65.58, "metric_rectangularity": 79.01, "metric_mobile_fit": 65.98, "metric_aspect_ratio": 0.903, "metric_area_km2": 5.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.863728, 47.518893 ], [ 6.8755085, 47.5202715 ], [ 6.874713, 47.536655499999988 ], [ 6.8564395, 47.533765 ], [ 6.8541319, 47.532791699999976 ], [ 6.8518125, 47.5261985 ], [ 6.851763, 47.524127 ], [ 6.856418, 47.522549 ], [ 6.858299, 47.5205005 ], [ 6.863728, 47.518893 ] ] ] } }
+]
+}

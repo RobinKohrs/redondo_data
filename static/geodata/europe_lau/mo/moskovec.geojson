@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moskovec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moškovec", "metric_roundness": 51.11, "metric_rectangularity": 63.42, "metric_mobile_fit": 47.85, "metric_aspect_ratio": 1.084, "metric_area_km2": 4.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.837193, 48.947418 ], [ 18.8357155, 48.951586 ], [ 18.8205117, 48.9479618 ], [ 18.8135845, 48.950361499999985 ], [ 18.8122385, 48.939354 ], [ 18.825259, 48.936466 ], [ 18.837193, 48.947418 ] ] ] } }
+]
+}

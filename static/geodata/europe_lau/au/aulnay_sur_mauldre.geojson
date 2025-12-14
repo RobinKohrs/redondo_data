@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aulnay_sur_mauldre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aulnay-sur-Mauldre", "metric_roundness": 73.5, "metric_rectangularity": 69.67, "metric_mobile_fit": 50.09, "metric_aspect_ratio": 1.062, "metric_area_km2": 5.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8497185, 48.935478499999988 ], [ 1.8417488, 48.933997799999986 ], [ 1.8371125, 48.937833499999989 ], [ 1.8274016, 48.9300733 ], [ 1.8289715, 48.926693 ], [ 1.8305333, 48.923089799999985 ], [ 1.8421132, 48.9214439 ], [ 1.853884, 48.9259115 ], [ 1.852236, 48.934348 ], [ 1.8497185, 48.935478499999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_mesokampou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μεσοκάμπου", "metric_roundness": 35.91, "metric_rectangularity": 58.85, "metric_mobile_fit": 10.83, "metric_aspect_ratio": 1.454, "metric_area_km2": 17.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.4946669, 40.903010799999983 ], [ 21.4950412, 40.892371 ], [ 21.4871635, 40.888464 ], [ 21.5095441, 40.889435 ], [ 21.5234743, 40.8880326 ], [ 21.5338344, 40.8851489 ], [ 21.551629, 40.876283 ], [ 21.552612, 40.8787285 ], [ 21.5541595, 40.8806265 ], [ 21.5310137, 40.9076146 ], [ 21.502939, 40.9106075 ], [ 21.499217, 40.911109 ], [ 21.4946669, 40.903010799999983 ] ] ] } }
+]
+}

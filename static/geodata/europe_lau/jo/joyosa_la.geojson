@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "joyosa_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Joyosa, La", "metric_roundness": 32.16, "metric_rectangularity": 84.43, "metric_mobile_fit": 23.64, "metric_aspect_ratio": 1.326, "metric_area_km2": 11.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0896989, 41.761444099999984 ], [ -1.0955, 41.761368 ], [ -1.102996, 41.7572595 ], [ -1.1038967, 41.7538425 ], [ -1.0540655, 41.731323499999988 ], [ -1.0503622, 41.7401182 ], [ -1.0607635, 41.750049 ], [ -1.0896989, 41.761444099999984 ] ] ] } }
+]
+}

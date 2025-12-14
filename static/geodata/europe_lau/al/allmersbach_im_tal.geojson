@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "allmersbach_im_tal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Allmersbach im Tal", "metric_roundness": 62.95, "metric_rectangularity": 69.68, "metric_mobile_fit": 37.53, "metric_aspect_ratio": 1.187, "metric_area_km2": 18.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4873845, 48.893081 ], [ 9.487924, 48.8979515 ], [ 9.494331, 48.8981805 ], [ 9.4940793, 48.9095598 ], [ 9.4807722, 48.912265399999988 ], [ 9.4705015, 48.921151 ], [ 9.4591382, 48.92119779999998 ], [ 9.4580503, 48.913597 ], [ 9.441672, 48.9012595 ], [ 9.4500835, 48.898721 ], [ 9.4568575, 48.8924035 ], [ 9.4638535, 48.892469 ], [ 9.471256, 48.892042499999988 ], [ 9.478076, 48.89269 ], [ 9.4873845, 48.893081 ] ] ] } }
+]
+}

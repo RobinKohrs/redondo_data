@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vernerovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vernéřovice", "metric_roundness": 50.27, "metric_rectangularity": 66.47, "metric_mobile_fit": 33.8, "metric_aspect_ratio": 1.225, "metric_area_km2": 22.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.183641, 50.61854839999998 ], [ 16.2043503, 50.604883399999984 ], [ 16.2078236, 50.599492799999979 ], [ 16.215202, 50.601549499999983 ], [ 16.231335, 50.6128095 ], [ 16.2447375, 50.6184775 ], [ 16.2432361, 50.6211823 ], [ 16.2336256, 50.622338899999988 ], [ 16.217372, 50.633351 ], [ 16.1876193, 50.627727899999989 ], [ 16.179394, 50.628661 ], [ 16.183641, 50.61854839999998 ] ] ] } }
+]
+}

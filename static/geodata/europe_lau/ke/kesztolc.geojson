@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kesztolc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kesztölc", "metric_roundness": 53.47, "metric_rectangularity": 79.96, "metric_mobile_fit": -10.8, "metric_aspect_ratio": 1.67, "metric_area_km2": 49.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.7570645, 47.7054932 ], [ 18.762576, 47.7011335 ], [ 18.7889006, 47.693026299999985 ], [ 18.801753, 47.6965797 ], [ 18.8156346, 47.694105 ], [ 18.8403205, 47.695408 ], [ 18.8479221, 47.7148166 ], [ 18.8311257, 47.720782399999983 ], [ 18.7800444, 47.7320092 ], [ 18.7594617, 47.7293308 ], [ 18.7511385, 47.7185565 ], [ 18.7570645, 47.7054932 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "avessadas_e_rosem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Avessadas e Rosém", "metric_roundness": 49.88, "metric_rectangularity": 71.82, "metric_mobile_fit": 86.14, "metric_aspect_ratio": 0.701, "metric_area_km2": 19.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.204307, 41.151741 ], [ -8.1940395, 41.144042299999988 ], [ -8.1909322, 41.1371267 ], [ -8.1743845, 41.12984 ], [ -8.1710335, 41.1317885 ], [ -8.166151, 41.133951 ], [ -8.1645435, 41.141258 ], [ -8.1600584, 41.1589823 ], [ -8.1837385, 41.1773635 ], [ -8.187724, 41.1723624 ], [ -8.1895217, 41.1671659 ], [ -8.191695, 41.165442 ], [ -8.204307, 41.151741 ] ] ] } }
+]
+}

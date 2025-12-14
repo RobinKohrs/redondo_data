@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montcharvot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montcharvot", "metric_roundness": 33.81, "metric_rectangularity": 53.32, "metric_mobile_fit": 10.47, "metric_aspect_ratio": 1.458, "metric_area_km2": 7.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7370565, 47.898093499999987 ], [ 5.7458052, 47.9014176 ], [ 5.7491355, 47.902683 ], [ 5.751029, 47.907974499999987 ], [ 5.7458052, 47.9078089 ], [ 5.7325767, 47.907389499999987 ], [ 5.7259493, 47.90412509999998 ], [ 5.7220725, 47.908412 ], [ 5.720654, 47.904517699999978 ], [ 5.7093389, 47.8994035 ], [ 5.709795, 47.891214499999975 ], [ 5.7236189, 47.8943405 ], [ 5.7267325, 47.889239 ], [ 5.7370565, 47.898093499999987 ] ] ] } }
+]
+}

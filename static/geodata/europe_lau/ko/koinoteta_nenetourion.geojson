@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_nenetourion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νενητουρίων", "metric_roundness": 35.04, "metric_rectangularity": 66.81, "metric_mobile_fit": 90.46, "metric_aspect_ratio": 0.467, "metric_area_km2": 12.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.8739434, 38.56474 ], [ 25.893256, 38.544867 ], [ 25.8983565, 38.54201 ], [ 25.899205, 38.570849 ], [ 25.8914598, 38.5827812 ], [ 25.885029, 38.586876 ], [ 25.872405, 38.5844845 ], [ 25.8739434, 38.56474 ] ] ] } }
+]
+}

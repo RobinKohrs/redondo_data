@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cousances_les_triconville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cousances-lès-Triconville", "metric_roundness": 40.71, "metric_rectangularity": 72.79, "metric_mobile_fit": 4.88, "metric_aspect_ratio": 1.514, "metric_area_km2": 42.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4291765, 48.7884045 ], [ 5.4151508, 48.780677399999988 ], [ 5.358362, 48.777345 ], [ 5.355879, 48.766858099999986 ], [ 5.3596264, 48.7545053 ], [ 5.361046, 48.749826 ], [ 5.3678518, 48.752126599999983 ], [ 5.3894584, 48.7504777 ], [ 5.4144162, 48.758550799999988 ], [ 5.4211254, 48.7641292 ], [ 5.444086, 48.767525 ], [ 5.4502514, 48.774559299999986 ], [ 5.4503845, 48.783870299999982 ], [ 5.440643, 48.790975499999988 ], [ 5.4291765, 48.7884045 ] ] ] } }
+]
+}

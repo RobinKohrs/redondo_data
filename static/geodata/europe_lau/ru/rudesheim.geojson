@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rudesheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rüdesheim", "metric_roundness": 41.41, "metric_rectangularity": 64.58, "metric_mobile_fit": -29.32, "metric_aspect_ratio": 1.856, "metric_area_km2": 8.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8254736, 49.84330689999998 ], [ 7.82704, 49.851791 ], [ 7.8197004, 49.854038199999977 ], [ 7.8163066, 49.8512596 ], [ 7.804373, 49.852322 ], [ 7.781944, 49.846188499999982 ], [ 7.7840762, 49.842419799999988 ], [ 7.795167, 49.8391485 ], [ 7.7999295, 49.840099 ], [ 7.803379, 49.84064 ], [ 7.8070505, 49.8407 ], [ 7.813418, 49.8405985 ], [ 7.8148955, 49.838368 ], [ 7.8254736, 49.84330689999998 ] ] ] } }
+]
+}

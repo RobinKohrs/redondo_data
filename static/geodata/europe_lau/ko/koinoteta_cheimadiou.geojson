@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_cheimadiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Χειμαδιού", "metric_roundness": 41.37, "metric_rectangularity": 52.53, "metric_mobile_fit": 21.57, "metric_aspect_ratio": 1.347, "metric_area_km2": 14.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.52869, 37.7730513 ], [ 21.5168015, 37.7670682 ], [ 21.5118295, 37.767532 ], [ 21.4985938, 37.7741183 ], [ 21.49152, 37.782061 ], [ 21.4839626, 37.768434499999984 ], [ 21.4840795, 37.7515824 ], [ 21.48858, 37.7495025 ], [ 21.499963, 37.754261499999984 ], [ 21.5123387, 37.755764299999989 ], [ 21.5234135, 37.753456 ], [ 21.5394335, 37.7648225 ], [ 21.52869, 37.7730513 ] ] ] } }
+]
+}

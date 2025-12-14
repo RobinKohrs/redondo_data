@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balignac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balignac", "metric_roundness": 33.77, "metric_rectangularity": 61.27, "metric_mobile_fit": -54.0, "metric_aspect_ratio": 2.103, "metric_area_km2": 7.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8675455, 43.949325499999986 ], [ 0.87729, 43.948369 ], [ 0.887281, 43.952413499999977 ], [ 0.892415, 43.951169 ], [ 0.894289, 43.951418499999988 ], [ 0.896932, 43.952668 ], [ 0.899921, 43.952617499999981 ], [ 0.9016475, 43.953719 ], [ 0.8845317, 43.9613072 ], [ 0.855473, 43.963612 ], [ 0.8613495, 43.947802499999987 ], [ 0.8675455, 43.949325499999986 ] ] ] } }
+]
+}

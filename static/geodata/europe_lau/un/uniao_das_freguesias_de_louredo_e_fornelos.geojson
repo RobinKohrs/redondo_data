@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_louredo_e_fornelos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Louredo e Fornelos", "metric_roundness": 47.18, "metric_rectangularity": 68.35, "metric_mobile_fit": -13.71, "metric_aspect_ratio": 1.7, "metric_area_km2": 20.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7973531, 41.2520534 ], [ -7.7995922, 41.2600663 ], [ -7.810407, 41.256340499999986 ], [ -7.8272716, 41.2651447 ], [ -7.8485455, 41.263047 ], [ -7.8526645, 41.2556016 ], [ -7.8461311, 41.2428287 ], [ -7.8326812, 41.2369211 ], [ -7.8230316, 41.2360961 ], [ -7.8130456, 41.2399464 ], [ -7.802769, 41.237604 ], [ -7.7902565, 41.240904 ], [ -7.7869984, 41.2434578 ], [ -7.7880845, 41.2459935 ], [ -7.7973531, 41.2520534 ] ] ] } }
+]
+}

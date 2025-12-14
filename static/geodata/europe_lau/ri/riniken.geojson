@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "riniken",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riniken", "metric_roundness": 67.54, "metric_rectangularity": 80.57, "metric_mobile_fit": 45.88, "metric_aspect_ratio": 1.104, "metric_area_km2": 10.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.199029, 47.500408299999982 ], [ 8.1924295, 47.506235499999981 ], [ 8.1872869, 47.506407299999985 ], [ 8.1823855, 47.5027745 ], [ 8.1729294, 47.4980872 ], [ 8.1667536, 47.4912745 ], [ 8.1809515, 47.4827535 ], [ 8.2001349, 47.487369 ], [ 8.205392, 47.492011 ], [ 8.199029, 47.500408299999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "komorovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Komorovice", "metric_roundness": 37.21, "metric_rectangularity": 41.86, "metric_mobile_fit": 36.44, "metric_aspect_ratio": 1.198, "metric_area_km2": 6.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3533615, 49.499184499999984 ], [ 15.3555855, 49.5001685 ], [ 15.351992, 49.506369599999978 ], [ 15.3611155, 49.5154565 ], [ 15.3588075, 49.520411499999987 ], [ 15.3561214, 49.5191017 ], [ 15.3583991, 49.515937199999982 ], [ 15.3493413, 49.5138283 ], [ 15.3253465, 49.518731 ], [ 15.320531, 49.513009 ], [ 15.3286213, 49.511794499999986 ], [ 15.3506245, 49.4984155 ], [ 15.3533615, 49.499184499999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rocca_di_cave",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rocca di Cave", "metric_roundness": 71.0, "metric_rectangularity": 78.94, "metric_mobile_fit": 62.5, "metric_aspect_ratio": 0.938, "metric_area_km2": 19.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.9255917, 41.835294 ], [ 12.9372253, 41.8262482 ], [ 12.9473045, 41.8246889 ], [ 12.9591955, 41.827701 ], [ 12.9645401, 41.8368617 ], [ 12.9646405, 41.855106 ], [ 12.9532459, 41.8552688 ], [ 12.9401945, 41.86105 ], [ 12.926658, 41.851614099999978 ], [ 12.9188805, 41.8365765 ], [ 12.9255917, 41.835294 ] ] ] } }
+]
+}

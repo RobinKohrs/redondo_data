@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "glan_munchweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Glan-Münchweiler", "metric_roundness": 48.34, "metric_rectangularity": 62.72, "metric_mobile_fit": 49.85, "metric_aspect_ratio": 1.064, "metric_area_km2": 13.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.420419, 49.459338 ], [ 7.4144055, 49.4566255 ], [ 7.41773, 49.454763 ], [ 7.4149, 49.4519485 ], [ 7.4234273, 49.456887099999989 ], [ 7.450721, 49.4577985 ], [ 7.4606947, 49.4654474 ], [ 7.4594595, 49.471182 ], [ 7.4441132, 49.4802216 ], [ 7.4386675, 49.478556 ], [ 7.41786, 49.469055499999989 ], [ 7.420419, 49.459338 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lamalou_les_bains",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lamalou-les-Bains", "metric_roundness": 46.87, "metric_rectangularity": 69.68, "metric_mobile_fit": 35.69, "metric_aspect_ratio": 1.206, "metric_area_km2": 11.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0790725, 43.585798 ], [ 3.089457, 43.584692499999989 ], [ 3.103321, 43.587319 ], [ 3.1081275, 43.5866505 ], [ 3.0974489, 43.5973174 ], [ 3.0920585, 43.611491499999985 ], [ 3.079143, 43.606497 ], [ 3.0642409, 43.6048283 ], [ 3.0635147, 43.599888799999981 ], [ 3.067674, 43.595636499999976 ], [ 3.0767755, 43.5850045 ], [ 3.0790725, 43.585798 ] ] ] } }
+]
+}

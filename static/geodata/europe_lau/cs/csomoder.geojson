@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "csomoder",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Csömödér", "metric_roundness": 50.68, "metric_rectangularity": 76.37, "metric_mobile_fit": 89.09, "metric_aspect_ratio": 0.672, "metric_area_km2": 16.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6394248, 46.6015547 ], [ 16.6592995, 46.610634499999982 ], [ 16.6535113, 46.616038199999984 ], [ 16.6548545, 46.6224698 ], [ 16.6470247, 46.628169799999981 ], [ 16.6490155, 46.638270499999983 ], [ 16.627613, 46.6345925 ], [ 16.6233984, 46.614885299999976 ], [ 16.6270136, 46.602042 ], [ 16.632556, 46.601946 ], [ 16.6394248, 46.6015547 ] ] ] } }
+]
+}

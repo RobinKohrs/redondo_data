@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kerasias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κερασιάς", "metric_roundness": 53.57, "metric_rectangularity": 61.71, "metric_mobile_fit": 64.83, "metric_aspect_ratio": 0.914, "metric_area_km2": 11.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.3996479, 37.3818276 ], [ 22.3821165, 37.391104 ], [ 22.3856118, 37.3639783 ], [ 22.3903072, 37.358965499999982 ], [ 22.3969, 37.357561 ], [ 22.4064327, 37.3605884 ], [ 22.4207045, 37.3732365 ], [ 22.4182327, 37.3782397 ], [ 22.4097855, 37.383066 ], [ 22.3996479, 37.3818276 ] ] ] } }
+]
+}

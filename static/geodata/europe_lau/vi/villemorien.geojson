@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villemorien",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villemorien", "metric_roundness": 41.18, "metric_rectangularity": 64.53, "metric_mobile_fit": -30.77, "metric_aspect_ratio": 1.87, "metric_area_km2": 31.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2982975, 48.0946017 ], [ 4.2864326, 48.0941919 ], [ 4.275322, 48.0921728 ], [ 4.253133, 48.08043 ], [ 4.2508805, 48.0757418 ], [ 4.28257, 48.063395 ], [ 4.2883015, 48.0715123 ], [ 4.2960129, 48.0751462 ], [ 4.3046402, 48.06505019999998 ], [ 4.315237, 48.0650065 ], [ 4.3231852, 48.072777699999989 ], [ 4.334806, 48.078644399999988 ], [ 4.338238, 48.084046 ], [ 4.3263215, 48.088431499999984 ], [ 4.2982975, 48.0946017 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champtonnay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champtonnay", "metric_roundness": 49.06, "metric_rectangularity": 73.88, "metric_mobile_fit": 59.03, "metric_aspect_ratio": 0.972, "metric_area_km2": 11.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6457455, 47.363181499999989 ], [ 5.6501685, 47.3629195 ], [ 5.6665025, 47.366714 ], [ 5.676414, 47.3736435 ], [ 5.6827579, 47.3816016 ], [ 5.6713414, 47.386853099999982 ], [ 5.670282, 47.3921875 ], [ 5.6551811, 47.3842658 ], [ 5.6518015, 47.3796185 ], [ 5.647792, 47.376943 ], [ 5.643321, 47.3764405 ], [ 5.640738, 47.3753895 ], [ 5.6457855, 47.3692406 ], [ 5.6437515, 47.3641395 ], [ 5.6457455, 47.363181499999989 ] ] ] } }
+]
+}

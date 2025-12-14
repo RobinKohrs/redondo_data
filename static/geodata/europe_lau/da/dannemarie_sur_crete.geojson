@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dannemarie_sur_crete",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dannemarie-sur-Crète", "metric_roundness": 48.09, "metric_rectangularity": 63.92, "metric_mobile_fit": 67.8, "metric_aspect_ratio": 0.884, "metric_area_km2": 8.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.867771, 47.198723 ], [ 5.8814275, 47.2025785 ], [ 5.885398, 47.203672499999982 ], [ 5.8783829, 47.211446799999983 ], [ 5.8719953, 47.2126436 ], [ 5.8699247, 47.2196092 ], [ 5.866526, 47.220922 ], [ 5.8641645, 47.2194115 ], [ 5.860162, 47.218123 ], [ 5.8542196, 47.2115648 ], [ 5.8554562, 47.2085182 ], [ 5.8501333, 47.1977792 ], [ 5.8514975, 47.193836 ], [ 5.867771, 47.198723 ] ] ] } }
+]
+}

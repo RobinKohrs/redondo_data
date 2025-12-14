@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "petrikeresztur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Petrikeresztúr", "metric_roundness": 60.16, "metric_rectangularity": 68.52, "metric_mobile_fit": 79.54, "metric_aspect_ratio": 0.767, "metric_area_km2": 19.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.7066544, 46.7344419 ], [ 16.707463, 46.728486 ], [ 16.7196207, 46.71789 ], [ 16.7256802, 46.716097 ], [ 16.7264085, 46.711152499999976 ], [ 16.7359167, 46.716713 ], [ 16.7493495, 46.719134499999974 ], [ 16.7502869, 46.7237071 ], [ 16.7444381, 46.7273819 ], [ 16.7412383, 46.734858699999982 ], [ 16.747086, 46.7418775 ], [ 16.73436, 46.750141 ], [ 16.7167905, 46.7473665 ], [ 16.7066544, 46.7344419 ] ] ] } }
+]
+}

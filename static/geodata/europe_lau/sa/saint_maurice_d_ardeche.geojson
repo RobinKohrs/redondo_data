@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_maurice_d_ardeche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Maurice-d'Ardèche", "metric_roundness": 32.67, "metric_rectangularity": 49.53, "metric_mobile_fit": 98.11, "metric_aspect_ratio": 0.581, "metric_area_km2": 10.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4126451, 44.516160299999989 ], [ 4.4170995, 44.5291405 ], [ 4.4126035, 44.5309488 ], [ 4.4121137, 44.535995399999983 ], [ 4.40765, 44.539575 ], [ 4.4003435, 44.528314 ], [ 4.3965285, 44.525461499999984 ], [ 4.3913895, 44.51926 ], [ 4.3877105, 44.5178125 ], [ 4.38536, 44.515757 ], [ 4.4005438, 44.5100561 ], [ 4.4029738, 44.505519699999986 ], [ 4.4150185, 44.500243499999989 ], [ 4.417894, 44.499679 ], [ 4.4167925, 44.5058735 ], [ 4.4126451, 44.516160299999989 ] ] ] } }
+]
+}

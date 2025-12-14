@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lamas_de_orelhao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lamas de Orelhão", "metric_roundness": 38.73, "metric_rectangularity": 57.99, "metric_mobile_fit": -11.52, "metric_aspect_ratio": 1.678, "metric_area_km2": 34.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.2768575, 41.4246215 ], [ -7.2551169, 41.426471199999988 ], [ -7.2449345, 41.42932290000001 ], [ -7.2410685, 41.43413 ], [ -7.227189, 41.445431 ], [ -7.2661987, 41.4460382 ], [ -7.297936, 41.464967 ], [ -7.317489, 41.461296499999982 ], [ -7.3116076, 41.4531201 ], [ -7.317044, 41.4452214 ], [ -7.3118573, 41.4411319 ], [ -7.3092285, 41.4340811 ], [ -7.315611, 41.4272285 ], [ -7.2768575, 41.4246215 ] ] ] } }
+]
+}

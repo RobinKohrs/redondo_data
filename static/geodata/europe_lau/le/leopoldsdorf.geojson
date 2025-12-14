@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "leopoldsdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Leopoldsdorf", "metric_roundness": 64.23, "metric_rectangularity": 78.42, "metric_mobile_fit": 71.4, "metric_aspect_ratio": 0.848, "metric_area_km2": 15.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4089515, 48.1186812 ], [ 16.3973129, 48.1243333 ], [ 16.3872745, 48.1256675 ], [ 16.3832401, 48.110118399999983 ], [ 16.37612, 48.0993515 ], [ 16.4015905, 48.0939185 ], [ 16.4039548, 48.0973823 ], [ 16.4089515, 48.0992092 ], [ 16.4158949, 48.102076699999984 ], [ 16.4164645, 48.111581 ], [ 16.4155255, 48.1131825 ], [ 16.4130035, 48.1174825 ], [ 16.411856, 48.119439 ], [ 16.4089515, 48.1186812 ] ] ] } }
+]
+}

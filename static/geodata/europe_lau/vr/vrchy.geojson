@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vrchy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vrchy", "metric_roundness": 65.49, "metric_rectangularity": 80.06, "metric_mobile_fit": 52.68, "metric_aspect_ratio": 1.036, "metric_area_km2": 25.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.8466728, 49.7405457 ], [ 17.8725801, 49.7327933 ], [ 17.9006311, 49.735600799999965 ], [ 17.9023302, 49.7532902 ], [ 17.8954843, 49.760566 ], [ 17.885707, 49.762593 ], [ 17.8666877, 49.7675139 ], [ 17.858535, 49.75521 ], [ 17.8466728, 49.7405457 ] ] ] } }
+]
+}

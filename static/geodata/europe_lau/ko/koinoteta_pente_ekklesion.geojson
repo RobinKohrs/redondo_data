@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pente_ekklesion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πέντε Εκκλησιών", "metric_roundness": 51.32, "metric_rectangularity": 59.77, "metric_mobile_fit": 40.51, "metric_aspect_ratio": 1.157, "metric_area_km2": 13.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.504876, 39.600735499999985 ], [ 20.4963407, 39.6046415 ], [ 20.490774, 39.6150417 ], [ 20.4765815, 39.619533 ], [ 20.4615955, 39.603604499999982 ], [ 20.458773, 39.587735 ], [ 20.4909284, 39.5943939 ], [ 20.4986789, 39.5922402 ], [ 20.5065385, 39.5970825 ], [ 20.504876, 39.600735499999985 ] ] ] } }
+]
+}

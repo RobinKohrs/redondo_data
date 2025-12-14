@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castellvi_de_rosanes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castellví de Rosanes", "metric_roundness": 54.01, "metric_rectangularity": 71.77, "metric_mobile_fit": -1.0, "metric_aspect_ratio": 1.572, "metric_area_km2": 29.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8953398, 41.435305299999989 ], [ 1.894883, 41.43007 ], [ 1.9390946, 41.4347321 ], [ 1.949505, 41.441121499999987 ], [ 1.9471198, 41.4461635 ], [ 1.9519252, 41.4544667 ], [ 1.9473415, 41.461014 ], [ 1.930936, 41.4653164 ], [ 1.9176695, 41.4564947 ], [ 1.9102041, 41.455162699999988 ], [ 1.906727, 41.465189499999987 ], [ 1.8924653, 41.4623777 ], [ 1.877982, 41.454842499999984 ], [ 1.8953398, 41.435305299999989 ] ] ] } }
+]
+}

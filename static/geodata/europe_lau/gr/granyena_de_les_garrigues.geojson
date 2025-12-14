@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "granyena_de_les_garrigues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Granyena de les Garrigues", "metric_roundness": 73.43, "metric_rectangularity": 74.94, "metric_mobile_fit": 39.72, "metric_aspect_ratio": 1.165, "metric_area_km2": 35.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.6208509, 41.4330005 ], [ 0.6231739, 41.424475699999988 ], [ 0.6284095, 41.4200235 ], [ 0.634186, 41.4163996 ], [ 0.6636115, 41.412869 ], [ 0.6656227, 41.417791599999987 ], [ 0.690604, 41.429674 ], [ 0.6852886, 41.441201 ], [ 0.663497, 41.4577465 ], [ 0.6431075, 41.4545799 ], [ 0.6335274, 41.4502553 ], [ 0.6287282, 41.4515336 ], [ 0.6256425, 41.447219499999989 ], [ 0.6208509, 41.4330005 ] ] ] } }
+]
+}

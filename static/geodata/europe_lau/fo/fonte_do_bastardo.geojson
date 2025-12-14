@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fonte_do_bastardo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fonte do Bastardo", "metric_roundness": 49.5, "metric_rectangularity": 70.63, "metric_mobile_fit": 30.79, "metric_aspect_ratio": 1.255, "metric_area_km2": 14.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -27.0652965, 38.706488 ], [ -27.0763169, 38.7096 ], [ -27.0848139, 38.7025921 ], [ -27.0930682, 38.702442599999983 ], [ -27.1152865, 38.690268499999988 ], [ -27.1079257, 38.6798407 ], [ -27.0952935, 38.6832776 ], [ -27.0855235, 38.678501 ], [ -27.0730275, 38.6835485 ], [ -27.0655475, 38.697934 ], [ -27.0652965, 38.706488 ] ] ] } }
+]
+}

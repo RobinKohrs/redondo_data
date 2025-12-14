@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "terre_di_pedemonte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Terre di Pedemonte", "metric_roundness": 51.4, "metric_rectangularity": 77.1, "metric_mobile_fit": -14.66, "metric_aspect_ratio": 1.709, "metric_area_km2": 24.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7062425, 46.205402499999977 ], [ 8.7026769, 46.200454299999983 ], [ 8.6923303, 46.195844199999982 ], [ 8.6927115, 46.1889545 ], [ 8.6978882, 46.180318 ], [ 8.7208265, 46.1787725 ], [ 8.7385376, 46.1817607 ], [ 8.7580765, 46.180232 ], [ 8.7531897, 46.18451229999998 ], [ 8.7554625, 46.190093499999989 ], [ 8.7514878, 46.195905299999986 ], [ 8.7428208, 46.200084599999975 ], [ 8.7404475, 46.2052385 ], [ 8.7062425, 46.205402499999977 ] ] ] } }
+]
+}

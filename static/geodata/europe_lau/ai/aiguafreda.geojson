@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aiguafreda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aiguafreda", "metric_roundness": 46.75, "metric_rectangularity": 74.25, "metric_mobile_fit": 78.4, "metric_aspect_ratio": 0.778, "metric_area_km2": 15.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2632269, 41.797086 ], [ 2.245937, 41.781598 ], [ 2.2462425, 41.770407 ], [ 2.2517695, 41.762862 ], [ 2.2646916, 41.765812499999988 ], [ 2.273752, 41.7717095 ], [ 2.289166, 41.789032 ], [ 2.2706406, 41.795626399999989 ], [ 2.267386, 41.80427 ], [ 2.2632269, 41.797086 ] ] ] } }
+]
+}

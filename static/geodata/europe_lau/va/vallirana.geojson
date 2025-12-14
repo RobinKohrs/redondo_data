@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vallirana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vallirana", "metric_roundness": 52.8, "metric_rectangularity": 66.81, "metric_mobile_fit": 23.14, "metric_aspect_ratio": 1.331, "metric_area_km2": 41.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.944298, 41.350002499999988 ], [ 1.9539885, 41.367771 ], [ 1.9502387, 41.3719523 ], [ 1.9476174, 41.3864027 ], [ 1.9369874, 41.3976901 ], [ 1.9296811, 41.397172399999988 ], [ 1.9189487, 41.388856699999984 ], [ 1.8764285, 41.389505 ], [ 1.869402, 41.3871475 ], [ 1.8714344, 41.3805284 ], [ 1.8884073, 41.369921399999981 ], [ 1.89801, 41.354805 ], [ 1.944298, 41.350002499999988 ] ] ] } }
+]
+}

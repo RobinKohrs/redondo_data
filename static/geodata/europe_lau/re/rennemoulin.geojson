@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rennemoulin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rennemoulin", "metric_roundness": 64.94, "metric_rectangularity": 71.82, "metric_mobile_fit": 77.75, "metric_aspect_ratio": 0.785, "metric_area_km2": 5.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.052093, 48.836879499999988 ], [ 2.0415465, 48.8430445 ], [ 2.0324528, 48.835523899999977 ], [ 2.0310909, 48.8293481 ], [ 2.0347815, 48.8261665 ], [ 2.03709, 48.827296 ], [ 2.046836, 48.82493849999998 ], [ 2.048115, 48.827323 ], [ 2.0513865, 48.8266125 ], [ 2.0523965, 48.828457 ], [ 2.052683, 48.8307485 ], [ 2.052093, 48.836879499999988 ] ] ] } }
+]
+}

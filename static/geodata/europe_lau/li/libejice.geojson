@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "libejice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Libějice", "metric_roundness": 49.33, "metric_rectangularity": 69.37, "metric_mobile_fit": 13.73, "metric_aspect_ratio": 1.425, "metric_area_km2": 7.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.609724, 49.367472 ], [ 14.6275158, 49.3687122 ], [ 14.6330926, 49.371694499999982 ], [ 14.639288, 49.370185 ], [ 14.6346499, 49.3778368 ], [ 14.6388405, 49.382352 ], [ 14.6328495, 49.384296 ], [ 14.6113726, 49.379087299999973 ], [ 14.6024615, 49.3741275 ], [ 14.609724, 49.367472 ] ] ] } }
+]
+}

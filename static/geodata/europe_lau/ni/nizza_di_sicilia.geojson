@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nizza_di_sicilia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nizza di Sicilia", "metric_roundness": 32.87, "metric_rectangularity": 59.27, "metric_mobile_fit": 58.01, "metric_aspect_ratio": 0.982, "metric_area_km2": 14.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3664651, 38.0135854 ], [ 15.3643552, 38.0257534 ], [ 15.3477609, 38.0353934 ], [ 15.3460644, 38.0442848 ], [ 15.333834, 38.0365847 ], [ 15.3195185, 38.035988 ], [ 15.3232797, 38.0281481 ], [ 15.333451, 38.025744 ], [ 15.3359157, 38.0183975 ], [ 15.3432045, 38.015534 ], [ 15.3648547, 38.0003686 ], [ 15.3694167, 38.0054321 ], [ 15.3742865, 38.0052115 ], [ 15.3664651, 38.0135854 ] ] ] } }
+]
+}

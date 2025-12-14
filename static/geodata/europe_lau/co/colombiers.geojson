@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "colombiers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Colombiers", "metric_roundness": 44.04, "metric_rectangularity": 58.02, "metric_mobile_fit": 86.03, "metric_aspect_ratio": 0.702, "metric_area_km2": 14.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.5720306, 45.6288983 ], [ -0.5640255, 45.627975 ], [ -0.5382565, 45.631455 ], [ -0.5368493, 45.640257399999989 ], [ -0.552136, 45.666974 ], [ -0.562341, 45.6525875 ], [ -0.566093, 45.6482595 ], [ -0.567209, 45.642649 ], [ -0.571918, 45.637034 ], [ -0.576023, 45.634544 ], [ -0.5720306, 45.6288983 ] ] ] } }
+]
+}

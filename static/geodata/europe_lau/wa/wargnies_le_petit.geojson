@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wargnies_le_petit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wargnies-le-Petit", "metric_roundness": 31.83, "metric_rectangularity": 70.05, "metric_mobile_fit": -23.98, "metric_aspect_ratio": 1.802, "metric_area_km2": 12.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.655091, 50.2871185 ], [ 3.6627875, 50.28892 ], [ 3.666565, 50.290854 ], [ 3.670398, 50.290094499999988 ], [ 3.714374, 50.2987635 ], [ 3.7116775, 50.3000945 ], [ 3.710389, 50.3031655 ], [ 3.708039, 50.3048515 ], [ 3.6994762, 50.309419299999981 ], [ 3.690056, 50.309325499999986 ], [ 3.6841375, 50.304381299999989 ], [ 3.6742673, 50.3045711 ], [ 3.6514525, 50.2916685 ], [ 3.655091, 50.2871185 ] ] ] } }
+]
+}

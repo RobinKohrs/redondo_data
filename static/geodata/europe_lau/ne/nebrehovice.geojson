@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nebrehovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nebřehovice", "metric_roundness": 40.33, "metric_rectangularity": 66.12, "metric_mobile_fit": -16.33, "metric_aspect_ratio": 1.726, "metric_area_km2": 11.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.946384, 49.2239024 ], [ 13.9645875, 49.22715 ], [ 13.985375, 49.240372499999985 ], [ 13.979682, 49.2439125 ], [ 13.970707, 49.238755 ], [ 13.9601468, 49.2443673 ], [ 13.9418618, 49.238004499999974 ], [ 13.9312865, 49.2382875 ], [ 13.9337676, 49.2367646 ], [ 13.9329732, 49.229426899999986 ], [ 13.935416, 49.226469499999986 ], [ 13.946384, 49.2239024 ] ] ] } }
+]
+}

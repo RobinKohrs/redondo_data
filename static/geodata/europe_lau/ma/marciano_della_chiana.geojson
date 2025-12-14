@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marciano_della_chiana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marciano della Chiana", "metric_roundness": 55.67, "metric_rectangularity": 58.22, "metric_mobile_fit": 59.04, "metric_aspect_ratio": 0.972, "metric_area_km2": 45.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.832758, 43.3275775 ], [ 11.8311215, 43.331744 ], [ 11.8055019, 43.3258202 ], [ 11.8041778, 43.3314453 ], [ 11.7917964, 43.3351701 ], [ 11.7900417, 43.3402408 ], [ 11.7790765, 43.3463937 ], [ 11.7749967, 43.3436497 ], [ 11.7744423, 43.336511 ], [ 11.7658481, 43.3208059 ], [ 11.7653476, 43.310132199999984 ], [ 11.7564875, 43.306557 ], [ 11.7790475, 43.284515 ], [ 11.7974759, 43.2984809 ], [ 11.8276962, 43.3004426 ], [ 11.839163, 43.3047955 ], [ 11.832758, 43.3275775 ] ] ] } }
+]
+}

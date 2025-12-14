@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jezena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ježená", "metric_roundness": 62.21, "metric_rectangularity": 71.32, "metric_mobile_fit": 67.01, "metric_aspect_ratio": 0.892, "metric_area_km2": 10.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4538546, 49.4206296 ], [ 15.445298, 49.419429 ], [ 15.446779, 49.405303499999981 ], [ 15.4536086, 49.4084789 ], [ 15.4635422, 49.4043779 ], [ 15.470698, 49.4067505 ], [ 15.4716579, 49.4131715 ], [ 15.477906, 49.417656499999985 ], [ 15.4765874, 49.4232765 ], [ 15.4650567, 49.427626 ], [ 15.450077, 49.42815 ], [ 15.4538546, 49.4206296 ] ] ] } }
+]
+}

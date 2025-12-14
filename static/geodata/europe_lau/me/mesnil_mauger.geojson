@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mesnil_mauger",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mesnil-Mauger", "metric_roundness": 42.37, "metric_rectangularity": 54.23, "metric_mobile_fit": 45.97, "metric_aspect_ratio": 1.103, "metric_area_km2": 20.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5527615, 49.67854879999998 ], [ 1.5330296, 49.6751153 ], [ 1.5252315, 49.6779285 ], [ 1.5154897, 49.6877044 ], [ 1.506951, 49.689668 ], [ 1.5056063, 49.669301899999979 ], [ 1.494612, 49.662302499999981 ], [ 1.4947305, 49.657675899999987 ], [ 1.513037, 49.65218 ], [ 1.5313403, 49.664169 ], [ 1.5408425, 49.663779 ], [ 1.558491, 49.673252 ], [ 1.5527615, 49.67854879999998 ] ] ] } }
+]
+}

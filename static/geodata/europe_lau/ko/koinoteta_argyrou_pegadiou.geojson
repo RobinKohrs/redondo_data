@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_argyrou_pegadiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αργυρού Πηγαδίου", "metric_roundness": 68.87, "metric_rectangularity": 78.69, "metric_mobile_fit": 33.62, "metric_aspect_ratio": 1.226, "metric_area_km2": 14.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7183245, 38.6790575 ], [ 21.7210447, 38.687120299999989 ], [ 21.70731, 38.703716 ], [ 21.7050845, 38.7052125 ], [ 21.6861705, 38.702725 ], [ 21.6777223, 38.6955393 ], [ 21.684262, 38.677639 ], [ 21.7183245, 38.6790575 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "petruvky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Petrůvky", "metric_roundness": 57.69, "metric_rectangularity": 74.58, "metric_mobile_fit": 48.21, "metric_aspect_ratio": 1.08, "metric_area_km2": 8.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.8824274, 49.159441 ], [ 15.8924778, 49.152785099999981 ], [ 15.9047109, 49.153740599999985 ], [ 15.909557, 49.150096499999982 ], [ 15.915083, 49.160709 ], [ 15.904323, 49.169406 ], [ 15.885395, 49.1698625 ], [ 15.882909, 49.165758499999988 ], [ 15.8824274, 49.159441 ] ] ] } }
+]
+}

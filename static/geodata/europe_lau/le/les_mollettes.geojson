@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_mollettes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Mollettes", "metric_roundness": 36.11, "metric_rectangularity": 59.56, "metric_mobile_fit": 16.22, "metric_aspect_ratio": 1.4, "metric_area_km2": 10.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.077496, 45.4802245 ], [ 6.0477075, 45.4679673 ], [ 6.0418283, 45.470615 ], [ 6.03038, 45.4648615 ], [ 6.0549365, 45.453194 ], [ 6.0611245, 45.4576705 ], [ 6.0722997, 45.4665575 ], [ 6.0843505, 45.470792 ], [ 6.077496, 45.4802245 ] ] ] } }
+]
+}

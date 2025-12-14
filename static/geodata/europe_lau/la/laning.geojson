@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laning",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laning", "metric_roundness": 45.82, "metric_rectangularity": 58.23, "metric_mobile_fit": 54.04, "metric_aspect_ratio": 1.022, "metric_area_km2": 16.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7880099, 49.0323413 ], [ 6.7860609, 49.037072 ], [ 6.7801859, 49.040628399999981 ], [ 6.7794635, 49.048306 ], [ 6.7730405, 49.046213499999979 ], [ 6.764501, 49.0404285 ], [ 6.7616279, 49.0346742 ], [ 6.7458315, 49.020688499999984 ], [ 6.755173, 49.012629499999981 ], [ 6.7624027, 49.0153502 ], [ 6.788989, 49.0253552 ], [ 6.801447, 49.026056 ], [ 6.8004155, 49.032179 ], [ 6.7880099, 49.0323413 ] ] ] } }
+]
+}

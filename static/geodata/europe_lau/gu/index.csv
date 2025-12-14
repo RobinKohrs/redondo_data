@@ -1,0 +1,412 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Gutau,gutau,gu,34.19,55.29,97.12
+europe_lau,Gurten,gurten,gu,62.1,67.15,47.36
+europe_lau,Gudendorf,gudendorf,gu,27.14,54.22,-6.78
+europe_lau,Gudow,gudow,gu,46.3,68.56,97.26
+europe_lau,Gülzow,gulzow,gu,36.22,55.04,95.15
+europe_lau,Güster,guster,gu,54.81,75.67,91.63
+europe_lau,Güby,guby,gu,43.59,57.82,64.11
+europe_lau,Gunskirchen,gunskirchen,gu,63.98,71.13,62.35
+europe_lau,Guderhandviertel,guderhandviertel,gu,51.32,63.51,80.49
+europe_lau,Gusborn,gusborn,gu,47.34,59.65,91.19
+europe_lau,"Gummersbach, Stadt",gummersbach_stadt,gu,30.06,49.59,-1.79
+europe_lau,"Gütersloh, Stadt",gutersloh_stadt,gu,62.46,65.48,43.71
+europe_lau,"Gutsbezirk Spessart, gemfr. Gebiet",gutsbezirk_spessart_gemfr_gebiet,gu,32.24,41.92,12.59
+europe_lau,Güllesheim,gullesheim,gu,44.06,63.37,49.49
+europe_lau,"Gutsbezirk Reinhardswald, gemfr. Gebiet",gutsbezirk_reinhardswald_gemfr_gebiet,gu,26.99,47.59,98.16
+europe_lau,"Gudensberg, Stadt",gudensberg_stadt,gu,36.3,45.08,86.43
+europe_lau,Guxhagen,guxhagen,gu,46.83,57.34,14.68
+europe_lau,"Gutsbezirk Kaufunger Wald, gemfr. Gebiet",gutsbezirk_kaufunger_wald_gemfr_gebiet,gu,38,56.45,-28.91
+europe_lau,Guldental,guldental,gu,62.67,64.64,52.4
+europe_lau,Gutenberg,gutenberg,gu,42.04,67.49,58.43
+europe_lau,Gückingen,guckingen,gu,45.75,69.45,-18.54
+europe_lau,Gutenacker,gutenacker,gu,66.26,78.69,16.2
+europe_lau,Gundersweiler,gundersweiler,gu,56.59,69.78,8.95
+europe_lau,Guckheim,guckheim,gu,51.47,58.81,70.57
+europe_lau,Gunderath,gunderath,gu,48.59,67.7,91.44
+europe_lau,Gusenburg,gusenburg,gu,33.53,55.18,83.17
+europe_lau,Gusterath,gusterath,gu,67.85,73.93,47.85
+europe_lau,Gutweiler,gutweiler,gu,44.12,57.79,83.51
+europe_lau,Gumbsheim,gumbsheim,gu,44.11,83.07,-32.35
+europe_lau,Gundersheim,gundersheim,gu,50.02,71.12,72.8
+europe_lau,Gundheim,gundheim,gu,54.13,74.1,48.68
+europe_lau,Gutenberg-Stenzengreith,gutenberg_stenzengreith,gu,47.73,54.75,27.69
+europe_lau,"Güglingen, Stadt",guglingen_stadt,gu,47.15,54.62,62.6
+europe_lau,"Gundelsheim, Stadt",gundelsheim_stadt,gu,59.27,65.6,59.33
+europe_lau,Guntersblum,guntersblum,gu,47.05,65.93,12.99
+europe_lau,Gundelfingen,gundelfingen,gu,41.05,60.11,52
+europe_lau,Gutach im Breisgau,gutach_im_breisgau,gu,31.66,47,87.14
+europe_lau,Gutach (Schwarzwaldbahn),gutach_schwarzwaldbahn,gu,48.11,64.2,91.7
+europe_lau,Gütenbach,gutenbach,gu,39.36,53.84,92.02
+europe_lau,"Gutsbezirk Münsingen, gemeindefreies Gebiet",gutsbezirk_munsingen_gemeindefreies_gebiet,gu,48.66,73.26,-11.69
+europe_lau,Gutenzell-Hürbel,gutenzell_hurbel,gu,42.44,67.64,-24.75
+europe_lau,Guggenhausen,guggenhausen,gu,59.74,67.94,60.21
+europe_lau,"Gundelfingen a.d.Donau, St",gundelfingen_a_d_donau_st,gu,48.07,58.9,69.06
+europe_lau,"Gützkow, Stadt",gutzkow_stadt,gu,36.47,48.81,37.75
+europe_lau,Gutenborn,gutenborn,gu,41.78,59.68,85.99
+europe_lau,"Günzburg, GKSt",gunzburg_gk_st,gu,47.32,67.01,82.47
+europe_lau,Gundremmingen,gundremmingen,gu,43.07,62.87,89.75
+europe_lau,Günstedt,gunstedt,gu,54.01,72.23,41.95
+europe_lau,Günzach,gunzach,gu,63.14,66.09,37.25
+europe_lau,"Güsten, Stadt",gusten_stadt,gu,53.47,66.25,78.31
+europe_lau,Gumperda,gumperda,gu,47.09,63.61,4.25
+europe_lau,Gusow-Platkow,gusow_platkow,gu,71.75,73.84,61.64
+europe_lau,Guteborn,guteborn,gu,45.49,72.75,1.25
+europe_lau,Guldborgsund,guldborgsund,gu,30.1,45.1,91.23
+europe_lau,Guisando,guisando,gu,26.67,52.23,99.06
+europe_lau,Gutierre-Muñoz,gutierre_munoz,gu,42.34,65.11,31.36
+europe_lau,Guadiana,guadiana,gu,66.89,78.82,63.77
+europe_lau,Guardo,guardo,gu,30.25,39.81,56.31
+europe_lau,Guaza de Campos,guaza_de_campos,gu,37.27,71.73,86.93
+europe_lau,Güeñes,guenes,gu,31.69,55.85,-9.81
+europe_lau,Гулянци,gulanci,gu,48.56,62.66,29.14
+europe_lau,Guadahortuna,guadahortuna,gu,37.33,58.19,45.81
+europe_lau,Guadix,guadix,gu,30.42,43.23,87.01
+europe_lau,Gualchos,gualchos,gu,58.8,68.84,77.08
+europe_lau,Güéjar Sierra,guejar_sierra,gu,66.54,73.12,47.91
+europe_lau,Güevéjar,guevejar,gu,60.07,60.68,68.11
+europe_lau,Гурково,gurkovo,gu,32.88,49.6,67.75
+europe_lau,Guadalajara,guadalajara,gu,24.28,50.57,87.72
+europe_lau,Gualba,gualba,gu,44.64,70.68,80.79
+europe_lau,Guardiola de Berguedà,guardiola_de_bergueda,gu,27.98,60.65,79.57
+europe_lau,Gurb,gurb,gu,48.13,60.74,17.65
+europe_lau,Guareña,guarena,gu,29.13,45.07,99.35
+europe_lau,Guardamar del Segura,guardamar_del_segura,gu,35.71,61.37,92.01
+europe_lau,Gualta,gualta,gu,33.97,58.06,43.17
+europe_lau,Guils de Cerdanya,guils_de_cerdanya,gu,13.6,48.3,-7.24
+europe_lau,Guadalupe,guadalupe,gu,55.05,60.28,73.44
+europe_lau,Guijo de Coria,guijo_de_coria,gu,43.39,71.09,67.03
+europe_lau,Guijo de Galisteo,guijo_de_galisteo,gu,20.61,55.85,81.35
+europe_lau,Guijo de Granadilla,guijo_de_granadilla,gu,50.74,66.2,58.93
+europe_lau,Guijo de Santa Bárbara,guijo_de_santa_barbara,gu,54.29,68.99,92.15
+europe_lau,Guadalmez,guadalmez,gu,37.83,50.44,16.06
+europe_lau,"Guájares, Los",guajares_los,gu,52.22,73.4,34.04
+europe_lau,Gumiel de Izán,gumiel_de_izan,gu,58.48,61.7,60.91
+europe_lau,Gumiel de Mercado,gumiel_de_mercado,gu,29.52,48.77,83.28
+europe_lau,Guadalcázar,guadalcazar,gu,28.67,50.17,-3.49
+europe_lau,"Guijo, El",guijo_el,gu,33.56,59.51,23.6
+europe_lau,"Guijarrosa, La",guijarrosa_la,gu,30.91,52.62,-42.34
+europe_lau,Günthersbühler Forst,gunthersbuhler_forst,gu,29.4,49.66,-35.01
+europe_lau,Gutenstetten,gutenstetten,gu,54.41,61.38,65.78
+europe_lau,Güntersleben,guntersleben,gu,59.12,68.9,47.07
+europe_lau,Guttenberger Wald,guttenberger_wald,gu,26.67,52.44,87.06
+europe_lau,"Gunzenhausen, St",gunzenhausen_st,gu,62.64,66.37,39.68
+europe_lau,Gülitz-Reetz,gulitz_reetz,gu,24.55,59.97,-3.35
+europe_lau,Gumtow,gumtow,gu,44.79,51.63,26.67
+europe_lau,"Guben, Stadt",guben_stadt,gu,33.31,63.03,86.94
+europe_lau,Guhrow/Góry,guhrow_gory,gu,39.17,70.58,86.03
+europe_lau,Gustow,gustow,gu,55.79,60.4,52.74
+europe_lau,Gurk,gurk,gu,48.35,57.47,27.44
+europe_lau,Guttenberg,guttenberg,gu,44.3,62.45,70.39
+europe_lau,Guteneck,guteneck,gu,46.29,63.64,44.59
+europe_lau,Gültz,gultz,gu,60.2,68.21,33.78
+europe_lau,Gülzow,gulzow,gu,78.32,77.44,66.81
+europe_lau,Guttaring,guttaring,gu,34.42,60.86,91.47
+europe_lau,Gundelsheim,gundelsheim,gu,71.61,71.37,68.6
+europe_lau,Gülzow-Prüzen,gulzow_pruzen,gu,36.48,61.63,80.24
+europe_lau,"Güstrow, Stadt",gustrow_stadt,gu,56.3,66.79,36.78
+europe_lau,Gutow,gutow,gu,36.54,48.57,75.8
+europe_lau,Gumond,gumond,gu,64.12,77.2,49.12
+europe_lau,Guilherand-Granges,guilherand_granges,gu,48.82,67.57,55.82
+europe_lau,Gué-d'Hossus,gue_d_hossus,gu,23.71,43.07,47.86
+europe_lau,Guignicourt-sur-Vence,guignicourt_sur_vence,gu,36.21,61.78,-5.07
+europe_lau,Guincourt,guincourt,gu,52.61,81.06,35.63
+europe_lau,Guenroc,guenroc,gu,57.11,67,30.23
+europe_lau,Guingamp,guingamp,gu,54.5,75.34,65.66
+europe_lau,Guitté,guitte,gu,32.77,56.13,-38.31
+europe_lau,Gurunhuel,gurunhuel,gu,51.72,73.39,29.04
+europe_lau,Guitinières,guitinieres,gu,67.89,72.45,63.76
+europe_lau,Guillon-les-Bains,guillon_les_bains,gu,45.64,68.04,2.51
+europe_lau,Guyans-Durnes,guyans_durnes,gu,67.51,74.17,55.13
+europe_lau,Guyans-Vennes,guyans_vennes,gu,47.53,52.99,71.92
+europe_lau,Günselsdorf,gunselsdorf,gu,35.52,66.08,74.91
+europe_lau,Gurmels,gurmels,gu,30.4,58.29,65.56
+europe_lau,Guéreins,guereins,gu,38.73,53.17,17.92
+europe_lau,Guillestre,guillestre,gu,21.71,39.02,24.38
+europe_lau,Guerny,guerny,gu,36.87,62.63,68.19
+europe_lau,Guichainville,guichainville,gu,42.95,54.58,69.05
+europe_lau,Guiseniers,guiseniers,gu,55.37,62.16,51.33
+europe_lau,Guadasséquies,guadassequies,gu,38.79,58.26,-30.1
+europe_lau,Guadassuar,guadassuar,gu,27.94,45.6,95.43
+europe_lau,Guardamar de la Safor,guardamar_de_la_safor,gu,28.18,77.48,25.35
+europe_lau,Guitiriz,guitiriz,gu,47.79,55.86,75.14
+europe_lau,Guntín,guntin,gu,38.71,54.18,29.46
+europe_lau,Guadramiro,guadramiro,gu,34.03,58.05,61.18
+europe_lau,Guijo de Ávila,guijo_de_avila,gu,43.79,63.63,27.31
+europe_lau,Guijuelo,guijuelo,gu,33.38,50.76,73.01
+europe_lau,Guise,guise,gu,62.06,67.65,51.08
+europe_lau,Guivry,guivry,gu,45.77,60.83,77.83
+europe_lau,Guny,guny,gu,31.25,53.24,91.27
+europe_lau,Guyencourt,guyencourt,gu,58.55,71.43,62.53
+europe_lau,Gurrea de Gállego,gurrea_de_gallego,gu,57.79,62.48,35.47
+europe_lau,Guttannen,guttannen,gu,51.14,63.14,54.26
+europe_lau,Güesa,guesa,gu,34.02,49.89,42.21
+europe_lau,Guesálaz,guesalaz,gu,38.7,58.18,89.64
+europe_lau,Guirguillano,guirguillano,gu,44.18,67.7,99.33
+europe_lau,Guimerà,guimera,gu,41.25,56.8,92.75
+europe_lau,Guissona,guissona,gu,48.67,67.41,62.25
+europe_lau,Guixers,guixers,gu,25.47,42.57,-45.19
+europe_lau,"Guiamets, Els",guiamets_els,gu,47.77,56.88,34.43
+europe_lau,Guarrate,guarrate,gu,25.71,43.09,-14
+europe_lau,Gumery,gumery,gu,47.65,65.28,62.07
+europe_lau,Guadalix de la Sierra,guadalix_de_la_sierra,gu,58.15,70.24,26.71
+europe_lau,Guadarrama,guadarrama,gu,38.74,48.71,38.28
+europe_lau,Guggisberg,guggisberg,gu,30.81,57.3,91.75
+europe_lau,Guadamur,guadamur,gu,49.57,58.5,15.56
+europe_lau,"Guardia, La",guardia_la,gu,30.63,57.82,-38.45
+europe_lau,Günsberg,gunsberg,gu,56.39,67.29,48.65
+europe_lau,"Guarda, A",guarda_a,gu,40.16,58.54,97.31
+europe_lau,"Guardia de Jaén, La",guardia_de_jaen_la,gu,57.56,63.73,60.29
+europe_lau,Guarromán,guarroman,gu,36.29,40.85,59.05
+europe_lau,Gündlischwand,gundlischwand,gu,20.37,42.76,70.08
+europe_lau,Guéron,gueron,gu,41.04,47.36,65.44
+europe_lau,Guadalcanal,guadalcanal,gu,45.39,63.31,56.07
+europe_lau,Guillena,guillena,gu,37.76,70.5,95.06
+europe_lau,"Guingueta d'Àneu, La",guingueta_d_aneu_la,gu,26.71,46.4,92.22
+europe_lau,Gurbrü,gurbru,gu,31.33,51.13,-3.15
+europe_lau,"Guancha, La",guancha_la,gu,20.32,61.18,89.61
+europe_lau,Guía de Isora,guia_de_isora,gu,58.75,74.21,33.74
+europe_lau,Güímar,guimar,gu,55.48,71.22,25.05
+europe_lau,Gurtnellen,gurtnellen,gu,43.6,58.52,72.58
+europe_lau,Gusendos de los Oteros,gusendos_de_los_oteros,gu,40.06,67.29,24.68
+europe_lau,"Gudiña, A",gudina_a,gu,63.61,71.09,38.68
+europe_lau,Guaro,guaro,gu,60.91,67.06,68.37
+europe_lau,Gudas,gudas,gu,36.8,70.81,94.33
+europe_lau,Guriezo,guriezo,gu,45.62,60.35,45.19
+europe_lau,Gunzgen,gunzgen,gu,32.1,62.83,90.73
+europe_lau,Guadalaviar,guadalaviar,gu,41.51,66.04,81.2
+europe_lau,Gúdar,gudar,gu,45.04,69.42,27.91
+europe_lau,Guillaumes,guillaumes,gu,41.57,48.03,80.1
+europe_lau,Gumières,gumieres,gu,47.86,59.08,57.65
+europe_lau,Guigneville,guigneville,gu,63.03,67.44,59.2
+europe_lau,Guilly,guilly,gu,42.06,57.91,85.57
+europe_lau,Guéthary,guethary,gu,56.08,68.09,36.37
+europe_lau,Guiche,guiche,gu,53.99,71.17,29.31
+europe_lau,Guinarthe-Parenties,guinarthe_parenties,gu,41.85,66.26,56.29
+europe_lau,Gurmençon,gurmencon,gu,53.87,71.87,90.84
+europe_lau,Gurs,gurs,gu,39.51,64.14,93.46
+europe_lau,Guémené-Penfao,guemene_penfao,gu,45.41,53.35,65.89
+europe_lau,Guenrouet,guenrouet,gu,34.63,51.22,37.31
+europe_lau,Guérande,guerande,gu,47.38,63.02,43.5
+europe_lau,Guesnain,guesnain,gu,47.5,68.45,82.89
+europe_lau,Gussignies,gussignies,gu,57.43,74.69,47.93
+europe_lau,Gugney,gugney,gu,52.38,65.57,51.09
+europe_lau,Guignecourt,guignecourt,gu,64.19,72.24,68.58
+europe_lau,Guiscard,guiscard,gu,41.11,58.64,13.49
+europe_lau,Gury,gury,gu,56.74,73.09,77.03
+europe_lau,Gueux,gueux,gu,55.92,77.72,44.58
+europe_lau,Guainville,guainville,gu,63.34,70.31,59.62
+europe_lau,Guilleville,guilleville,gu,38.83,65.88,16.37
+europe_lau,Guillonville,guillonville,gu,64.03,65.71,62.68
+europe_lau,Guntersdorf,guntersdorf,gu,43.08,61.23,29.78
+europe_lau,Gudmont-Villiers,gudmont_villiers,gu,36.71,53.7,6.16
+europe_lau,Guindrecourt-aux-Ormes,guindrecourt_aux_ormes,gu,57.16,64.1,36.05
+europe_lau,Guindrecourt-sur-Blaise,guindrecourt_sur_blaise,gu,59.86,63.59,45.07
+europe_lau,Guyonvelle,guyonvelle,gu,38.29,51.86,85.9
+europe_lau,Guebenhouse,guebenhouse,gu,41.58,55.54,9.81
+europe_lau,Guébestroff,guebestroff,gu,32.55,79.29,96.24
+europe_lau,Guéblange-lès-Dieuze,gueblange_les_dieuze,gu,59.78,76.08,47.88
+europe_lau,Guébling,guebling,gu,50.07,58.26,83.66
+europe_lau,Guénange,guenange,gu,34.08,53.68,-28.83
+europe_lau,Guenviller,guenviller,gu,42.86,61.62,72.53
+europe_lau,Guermange,guermange,gu,43.55,66.09,-3.88
+europe_lau,Guerstling,guerstling,gu,45.4,68.87,61.07
+europe_lau,Guerting,guerting,gu,49.99,68.03,86.97
+europe_lau,Guessling-Hémering,guessling_hemering,gu,54.78,69.46,58.1
+europe_lau,Guinglange,guinglange,gu,45.25,48.89,70.76
+europe_lau,Guinkirchen,guinkirchen,gu,37.98,55.82,-7.29
+europe_lau,Guinzeling,guinzeling,gu,53.89,70.6,30.53
+europe_lau,Guntzviller,guntzviller,gu,18.91,48.72,21.14
+europe_lau,Guérin,guerin,gu,40.21,55.69,65.57
+europe_lau,Gurgy-la-Ville,gurgy_la_ville,gu,44.47,61.68,47.31
+europe_lau,Gurgy-le-Château,gurgy_le_chateau,gu,38.32,48.11,19.99
+europe_lau,Guttet-Feschel,guttet_feschel,gu,19.6,51.99,89.69
+europe_lau,Guilly,guilly,gu,46.13,56.04,70.48
+europe_lau,Guerlédan,guerledan,gu,43.58,57.83,11.12
+europe_lau,Guimps,guimps,gu,54.44,62.69,74.45
+europe_lau,Guizengeard,guizengeard,gu,56.97,68.83,59.93
+europe_lau,Gurat,gurat,gu,23.07,52.08,-55.67
+europe_lau,Gumiane,gumiane,gu,36.08,50.25,90.17
+europe_lau,Guipry-Messac,guipry_messac,gu,54.79,58.99,66.19
+europe_lau,Guichen,guichen,gu,57.64,62.92,70.81
+europe_lau,Guignen,guignen,gu,62.72,69.66,61.47
+europe_lau,Guipel,guipel,gu,63.98,74.11,75.72
+europe_lau,Guillac,guillac,gu,58.27,73.34,92.1
+europe_lau,Guillos,guillos,gu,56.31,70.5,31.62
+europe_lau,Guîtres,guitres,gu,39.01,58.57,-31.27
+europe_lau,Gujan-Mestras,gujan_mestras,gu,22.44,53.08,80.64
+europe_lau,Guagno,guagno,gu,33.15,65.26,-2.7
+europe_lau,Guitera-les-Bains,guitera_les_bains,gu,26.24,46.62,95.76
+europe_lau,Guzargues,guzargues,gu,50,70.85,70.2
+europe_lau,Guran,guran,gu,35.33,51.92,5.8
+europe_lau,Guéret,gueret,gu,32.32,59.83,92.35
+europe_lau,Guengat,guengat,gu,31.55,55.15,1.64
+europe_lau,Guerlesquin,guerlesquin,gu,57.58,70.82,59.93
+europe_lau,Guiclan,guiclan,gu,35.94,63.52,86.2
+europe_lau,Guilers,guilers,gu,66.65,82.04,59.83
+europe_lau,Guiler-sur-Goyen,guiler_sur_goyen,gu,52.95,70.74,30.7
+europe_lau,Guilligomarc'h,guilligomarch,gu,59.91,61.72,59.33
+europe_lau,Guilvinec,guilvinec,gu,65.52,73.17,31
+europe_lau,Guimaëc,guimaec,gu,32.45,49.22,42.29
+europe_lau,Guimiliau,guimiliau,gu,53.31,67.88,66.1
+europe_lau,Guipavas,guipavas,gu,59.34,64.04,29.26
+europe_lau,Guissény,guisseny,gu,44.76,60.96,18.19
+europe_lau,Guntramsdorf,guntramsdorf,gu,33.84,59.34,29.76
+europe_lau,Guerville,guerville,gu,38.82,44.3,80.42
+europe_lau,Gueures,gueures,gu,24.17,52.03,-73.88
+europe_lau,Gueutteville,gueutteville,gu,50.64,66.89,24.07
+europe_lau,Gueutteville-les-Grès,gueutteville_les_gres,gu,60.6,71.92,70.34
+europe_lau,Gugnécourt,gugnecourt,gu,50.49,73.83,98.92
+europe_lau,Gugney-aux-Aulx,gugney_aux_aulx,gu,55.8,73.71,71.68
+europe_lau,Guillon-Terre-Plaine,guillon_terre_plaine,gu,42.62,60.8,12.86
+europe_lau,Gurgy,gurgy,gu,28.44,42.04,47.2
+europe_lau,Gundinci,gundinci,gu,36.66,65.54,74.54
+europe_lau,Gunja,gunja,gu,47.11,68.36,37.17
+europe_lau,Guibeville,guibeville,gu,61.06,80.39,66.33
+europe_lau,Guigneville-sur-Essonne,guigneville_sur_essonne,gu,55.12,73.79,27.92
+europe_lau,Guillerval,guillerval,gu,64.73,73.89,70.99
+europe_lau,Guchan,guchan,gu,24.8,38.63,5.77
+europe_lau,Guchen,guchen,gu,36.38,58.19,30.32
+europe_lau,Guizerix,guizerix,gu,45.35,70.69,72.91
+europe_lau,Guernes,guernes,gu,52.31,81.37,-9.02
+europe_lau,Guerville,guerville,gu,48.39,62.42,93.9
+europe_lau,Guitrancourt,guitrancourt,gu,39.76,62.19,87.86
+europe_lau,Guyancourt,guyancourt,gu,56.81,79.17,59.55
+europe_lau,Guerbigny,guerbigny,gu,51.86,65,60.76
+europe_lau,Gueschart,gueschart,gu,49.61,57.8,36.97
+europe_lau,Gueudecourt,gueudecourt,gu,30.28,61.83,84.62
+europe_lau,Guignemicourt,guignemicourt,gu,51.27,68.79,7.56
+europe_lau,Guillaucourt,guillaucourt,gu,51.3,66.95,62.87
+europe_lau,Guillemont,guillemont,gu,40.22,62.09,96.51
+europe_lau,Guizancourt,guizancourt,gu,53.5,68.2,77.25
+europe_lau,Guyencourt-sur-Noye,guyencourt_sur_noye,gu,54.58,73.3,50.03
+europe_lau,Guyencourt-Saulcourt,guyencourt_saulcourt,gu,47.3,72.4,75.4
+europe_lau,Gumpoldskirchen,gumpoldskirchen,gu,63.47,85.3,29.61
+europe_lau,Guesnes,guesnes,gu,38.98,63.5,98.78
+europe_lau,Guiry-en-Vexin,guiry_en_vexin,gu,48.96,66.98,43.92
+europe_lau,Guerfand,guerfand,gu,62.54,71.91,75.7
+europe_lau,Gueugnon,gueugnon,gu,49.66,61.04,42.7
+europe_lau,Guitalens-L'Albarède,guitalens_l_albarede,gu,52.97,71.11,56.5
+europe_lau,Guérigny,guerigny,gu,34.93,49.11,13.2
+europe_lau,Guipy,guipy,gu,58.82,73.78,68.19
+europe_lau,Guérard,guerard,gu,41.95,54.5,84.15
+europe_lau,Guercheville,guercheville,gu,59.75,71.12,82.29
+europe_lau,Guermantes,guermantes,gu,25.96,75.17,-201.76
+europe_lau,Guignes,guignes,gu,55.84,60.25,80.58
+europe_lau,Gurcy-le-Châtel,gurcy_le_chatel,gu,36.43,56.74,94.04
+europe_lau,Guerpont,guerpont,gu,27.69,77.62,97.19
+europe_lau,Gussainville,gussainville,gu,55.59,66.45,60.29
+europe_lau,Guégon,guegon,gu,51.42,66.29,59.19
+europe_lau,Guéhenno,guehenno,gu,26.45,59,45.46
+europe_lau,Gueltas,gueltas,gu,58.47,60.96,65.36
+europe_lau,Guémené-sur-Scorff,guemene_sur_scorff,gu,49.33,70.97,14.16
+europe_lau,Guénin,guenin,gu,56.87,71.87,64.96
+europe_lau,Guer,guer,gu,42.28,59.99,97.3
+europe_lau,Guern,guern,gu,44.94,63.42,0.82
+europe_lau,Guidel,guidel,gu,42.51,57.97,96.22
+europe_lau,Guillac,guillac,gu,27.53,48.91,41.06
+europe_lau,Guilliers,guilliers,gu,60.51,72.84,38.73
+europe_lau,Guiscriff,guiscriff,gu,51.19,62.08,54.54
+europe_lau,Guêprei,gueprei,gu,48.53,62.76,42.8
+europe_lau,Guerquesalles,guerquesalles,gu,35.33,54.95,67.31
+europe_lau,Gueberschwihr,gueberschwihr,gu,25.98,52.89,-40.11
+europe_lau,Guebwiller,guebwiller,gu,53.4,68.29,19.83
+europe_lau,Guémar,guemar,gu,30.73,58.95,-10.77
+europe_lau,Guevenatten,guevenatten,gu,27.99,56.07,-79.27
+europe_lau,Guewenheim,guewenheim,gu,53.24,64.55,26.87
+europe_lau,Gundolsheim,gundolsheim,gu,42.28,67.43,-29.72
+europe_lau,Gunsbach,gunsbach,gu,32.4,60.55,89.9
+europe_lau,Guécélard,guecelard,gu,50.62,58.21,46.15
+europe_lau,Guarbecque,guarbecque,gu,34.77,69.35,72.65
+europe_lau,Guémappe,guemappe,gu,46.87,57.89,58.29
+europe_lau,Guemps,guemps,gu,35.14,78.15,83.94
+europe_lau,Guigny,guigny,gu,26.43,72.9,29.39
+europe_lau,Guinecourt,guinecourt,gu,45.45,64.67,73.29
+europe_lau,Guînes,guines,gu,44.29,67.13,80.87
+europe_lau,Guisy,guisy,gu,44.3,66.63,76
+europe_lau,Gumbrechtshoffen,gumbrechtshoffen,gu,50.13,67.24,55.48
+europe_lau,Gundershoffen,gundershoffen,gu,40.8,66.59,72.16
+europe_lau,Gunstett,gunstett,gu,48.29,78.21,-5.2
+europe_lau,Gungwiller,gungwiller,gu,47.79,65.71,34.13
+europe_lau,Guarda Veneta,guarda_veneta,gu,43.8,65.23,3.88
+europe_lau,Gulen,gulen,gu,39.79,51.86,36.61
+europe_lau,Gurro,gurro,gu,38.3,65.77,-1.23
+europe_lau,Guardia Lombardi,guardia_lombardi,gu,59.11,64.23,26.12
+europe_lau,Guagnano,guagnano,gu,21.58,40.02,-39.91
+europe_lau,Guidonia Montecelio,guidonia_montecelio,gu,42.82,61.27,53.12
+europe_lau,Guardiagrele,guardiagrele,gu,26.07,46.19,-18.54
+europe_lau,Guilmi,guilmi,gu,57.16,76.5,74.6
+europe_lau,Guardistallo,guardistallo,gu,24.27,48.85,-72.98
+europe_lau,Guamaggiore,guamaggiore,gu,29.41,70.64,96.79
+europe_lau,Guasila,guasila,gu,38.87,62.52,94.13
+europe_lau,Guspini,guspini,gu,43.04,56.04,83.63
+europe_lau,Gussago,gussago,gu,36.86,73.24,86.84
+europe_lau,Guardialfiera,guardialfiera,gu,51.33,66.13,16.92
+europe_lau,Gualtieri Sicaminò,gualtieri_sicamino,gu,28.18,48.03,91.47
+europe_lau,Guardiaregia,guardiaregia,gu,45.7,65.93,57.71
+europe_lau,Guglionesi,guglionesi,gu,48.85,57.51,68.29
+europe_lau,Guardamiglio,guardamiglio,gu,42.42,65.88,20.55
+europe_lau,Guarcino,guarcino,gu,50.92,59.75,41.04
+europe_lau,Gudo Visconti,gudo_visconti,gu,36.94,45.7,66.49
+europe_lau,Gualdo,gualdo,gu,73.65,75.85,60.47
+europe_lau,Guazzora,guazzora,gu,34.36,51.11,22.08
+europe_lau,Guardavalle,guardavalle,gu,25.57,63.76,19.36
+europe_lau,Guarene,guarene,gu,49.88,70.94,-14.33
+europe_lau,Guanzate,guanzate,gu,65.44,80.79,89.31
+europe_lau,Gualtieri,gualtieri,gu,46.02,72.82,98.07
+europe_lau,Guastalla,guastalla,gu,47.14,54.17,65.48
+europe_lau,Guardia Perticara,guardia_perticara,gu,68.8,70.59,47.17
+europe_lau,Gussola,gussola,gu,40.09,64.65,92.82
+europe_lau,Guiglia,guiglia,gu,48.67,69.89,86.66
+europe_lau,Gualdo Cattaneo,gualdo_cattaneo,gu,49.32,62.47,79.11
+europe_lau,Gualdo Tadino,gualdo_tadino,gu,68.93,68.5,49.73
+europe_lau,Gubbio,gubbio,gu,55.75,69.98,77.06
+europe_lau,Guardea,guardea,gu,38.73,74.64,-10.63
+europe_lau,Guidizzolo,guidizzolo,gu,53.11,75.58,83.15
+europe_lau,Guardabosone,guardabosone,gu,29.95,75.62,75.82
+europe_lau,Gulács,gulacs,gu,45.59,61.68,14.53
+europe_lau,Guardia Sanframondi,guardia_sanframondi,gu,44.4,66.43,99.36
+europe_lau,Gutorfölde,gutorfolde,gu,62.96,69.39,55.33
+europe_lau,Güttenbach,guttenbach,gu,54.95,70.16,78.34
+europe_lau,Gura Padinii,gura_padinii,gu,31.28,51.33,99.93
+europe_lau,Gura Vitioarei,gura_vitioarei,gu,32.33,43.7,90.06
+europe_lau,Gura Vadului,gura_vadului,gu,59.06,69.26,70.97
+europe_lau,Gura Foii,gura_foii,gu,32.84,56.01,85.61
+europe_lau,Gura Ialomiţei,gura_ialomitei,gu,44.21,54.94,68.07
+europe_lau,Guilhofrei,guilhofrei,gu,56.54,70.48,84.64
+europe_lau,Gura Ocniţei,gura_ocnitei,gu,53.05,63.88,69.2
+europe_lau,Gura Şuţii,gura_sutii,gu,43.91,58.74,-8.72
+europe_lau,Gurasada,gurasada,gu,36.18,60.19,93.05
+europe_lau,Gura Văii,gura_vaii,gu,56.29,69.39,73.76
+europe_lau,Gullspång,gullspang,gu,22.55,42.2,-1.51
+europe_lau,Gutenbrunn,gutenbrunn,gu,43.97,56.72,70.03
+europe_lau,Gura Teghii,gura_teghii,gu,34.11,59.8,94.92
+europe_lau,Gugeşti,gugesti,gu,49.43,55.64,70.05
+europe_lau,Gura Caliţei,gura_calitei,gu,28.58,58.47,33.21
+europe_lau,Guilhabreu,guilhabreu,gu,54.09,69.95,62.09
+europe_lau,Guardão,guardao,gu,22.47,58.3,83.16
+europe_lau,Guardizela,guardizela,gu,62.37,66.55,50.42
+europe_lau,Guovdageaidnu - Kautokeino,guovdageaidnu_kautokeino,gu,54.85,58.07,51.28
+europe_lau,Gurahonţ,gurahont,gu,23.8,33.34,87.71
+europe_lau,Gulbenes novads,gulbenes_novads,gu,48.11,63.04,19.78
+europe_lau,Gubin,gubin,gu,35.61,45.78,87.23
+europe_lau,Gubin,gubin,gu,39.53,55.69,78.48
+europe_lau,Guia,guia,gu,48.18,65.43,76.89
+europe_lau,Guşoeni,gusoeni,gu,35.39,53.68,86.57
+europe_lau,Gulpen-Wittem,gulpen_wittem,gu,59.09,61.13,51.02
+europe_lau,Gutenstein,gutenstein,gu,47.08,56.92,78.63
+europe_lau,Gurghiu,gurghiu,gu,27.21,32.38,58.97
+europe_lau,Guadalupe,guadalupe,gu,54.2,66.4,60.1
+europe_lau,Guarda,guarda,gu,57.17,62.39,50.89
+europe_lau,Guiães,guiaes,gu,45.42,62.68,84.98
+europe_lau,Guilhufe e Urrô,guilhufe_e_urro,gu,51.98,56.17,47.3
+europe_lau,Gualtar,gualtar,gu,45.13,63.44,51.2
+europe_lau,Gura Râului,gura_raului,gu,15.03,42.37,49.99
+europe_lau,Guilheiro,guilheiro,gu,70.85,80.18,63.52
+europe_lau,Güssing,gussing,gu,41.46,56.2,23.11
+europe_lau,Gurbănesti,gurbanesti,gu,50.27,54.91,67.12
+europe_lau,Guardia Piemontese,guardia_piemontese,gu,36.09,52.08,65.93
+europe_lau,Gunningen,gunningen,gu,43.14,66.85,37.64
+europe_lau,Güttingen,guttingen,gu,54.58,68.79,65.59
+europe_lau,Gurzelen,gurzelen,gu,52.9,55.33,55.53
+europe_lau,Guargualé,guarguale,gu,27.86,59,87.91

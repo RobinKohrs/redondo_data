@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_lourdaton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λουρδάτων", "metric_roundness": 29.72, "metric_rectangularity": 72.66, "metric_mobile_fit": 52.77, "metric_aspect_ratio": 1.035, "metric_area_km2": 2.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6543732, 38.1073153 ], [ 20.6401652, 38.117930199999989 ], [ 20.6326291, 38.1199479 ], [ 20.6290035, 38.114502 ], [ 20.6400161, 38.109991 ], [ 20.651665, 38.1006585 ], [ 20.6543732, 38.1073153 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "esquay_notre_dame",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Esquay-Notre-Dame", "metric_roundness": 44.89, "metric_rectangularity": 56.82, "metric_mobile_fit": 23.32, "metric_aspect_ratio": 1.329, "metric_area_km2": 7.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.463362, 49.122085 ], [ -0.46704, 49.121728499999989 ], [ -0.4731205, 49.1199145 ], [ -0.477016, 49.118510499999985 ], [ -0.479239, 49.1168395 ], [ -0.482704, 49.116074 ], [ -0.4889915, 49.113589 ], [ -0.4955725, 49.110363 ], [ -0.4853071, 49.1105029 ], [ -0.480501, 49.1063255 ], [ -0.461251, 49.104143 ], [ -0.4566071, 49.116653599999985 ], [ -0.4606175, 49.1233295 ], [ -0.463362, 49.122085 ] ] ] } }
+]
+}

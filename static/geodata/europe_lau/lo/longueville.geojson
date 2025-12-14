@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "longueville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Longueville", "metric_roundness": 35.69, "metric_rectangularity": 52.73, "metric_mobile_fit": 93.96, "metric_aspect_ratio": 0.623, "metric_area_km2": 15.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.95547, 49.3253376 ], [ -0.9331145, 49.342335499999976 ], [ -0.9393206, 49.3453222 ], [ -0.9414419, 49.351733 ], [ -0.9489555, 49.354626499999974 ], [ -0.9575195, 49.3453267 ], [ -0.97438, 49.346556499999984 ], [ -0.973675, 49.3336152 ], [ -0.9657726, 49.3300048 ], [ -0.9742085, 49.316367 ], [ -0.9634945, 49.311455 ], [ -0.95547, 49.3253376 ] ] ] } }
+]
+}

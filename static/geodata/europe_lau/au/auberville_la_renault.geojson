@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "auberville_la_renault",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Auberville-la-Renault", "metric_roundness": 53.6, "metric_rectangularity": 72.72, "metric_mobile_fit": 71.61, "metric_aspect_ratio": 0.846, "metric_area_km2": 11.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3852535, 49.701189499999984 ], [ 0.378344, 49.6974546 ], [ 0.377362, 49.6919338 ], [ 0.3700017, 49.692778 ], [ 0.36224, 49.687485 ], [ 0.3607985, 49.675046499999986 ], [ 0.3714498, 49.6730964 ], [ 0.3836576, 49.6766544 ], [ 0.3864937, 49.68148919999998 ], [ 0.3946025, 49.682322 ], [ 0.3975528, 49.687659599999989 ], [ 0.3937784, 49.6909244 ], [ 0.397484, 49.693619 ], [ 0.3852535, 49.701189499999984 ] ] ] } }
+]
+}

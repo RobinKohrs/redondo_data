@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_vacheresse_et_la_rouillie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Vacheresse-et-la-Rouillie", "metric_roundness": 44.08, "metric_rectangularity": 64.28, "metric_mobile_fit": 62.77, "metric_aspect_ratio": 0.935, "metric_area_km2": 20.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.76989, 48.131189 ], [ 5.7758585, 48.1288985 ], [ 5.788606, 48.13262 ], [ 5.79535, 48.1360215 ], [ 5.8100855, 48.137206 ], [ 5.810424, 48.134181 ], [ 5.815325, 48.132056 ], [ 5.8200849, 48.1421509 ], [ 5.8160919, 48.154310699999989 ], [ 5.81695, 48.164725 ], [ 5.7985465, 48.156398299999985 ], [ 5.7784141, 48.160329799999985 ], [ 5.7802944, 48.153796699999987 ], [ 5.7738628, 48.1447978 ], [ 5.772071, 48.136795 ], [ 5.76989, 48.131189 ] ] ] } }
+]
+}

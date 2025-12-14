@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wagenhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wagenhausen", "metric_roundness": 50.64, "metric_rectangularity": 60.81, "metric_mobile_fit": 65.09, "metric_aspect_ratio": 0.912, "metric_area_km2": 4.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9918166, 50.1496894 ], [ 6.9954, 50.153865 ], [ 6.971562, 50.146799499999986 ], [ 6.97621, 50.139545499999976 ], [ 6.989987, 50.137107 ], [ 6.9940585, 50.145501 ], [ 6.9918166, 50.1496894 ] ] ] } }
+]
+}

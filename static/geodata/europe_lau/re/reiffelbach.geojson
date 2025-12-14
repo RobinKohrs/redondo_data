@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reiffelbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reiffelbach", "metric_roundness": 29.0, "metric_rectangularity": 63.92, "metric_mobile_fit": 86.58, "metric_aspect_ratio": 0.428, "metric_area_km2": 10.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6735605, 49.685726 ], [ 7.6855711, 49.667565499999988 ], [ 7.6975155, 49.669594 ], [ 7.6994557, 49.6711646 ], [ 7.690972, 49.694739 ], [ 7.6914483, 49.703962099999984 ], [ 7.688963, 49.706681499999981 ], [ 7.673589, 49.68790749999998 ], [ 7.6735605, 49.685726 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champforgeuil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champforgeuil", "metric_roundness": 55.24, "metric_rectangularity": 76.24, "metric_mobile_fit": 24.18, "metric_aspect_ratio": 1.321, "metric_area_km2": 15.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8072983, 46.808551299999976 ], [ 4.831391, 46.800521 ], [ 4.8504635, 46.818826 ], [ 4.8437975, 46.824904 ], [ 4.815486, 46.8280945 ], [ 4.8102589, 46.820792799999985 ], [ 4.80474, 46.8191455 ], [ 4.79725, 46.814986 ], [ 4.8072983, 46.808551299999976 ] ] ] } }
+]
+}

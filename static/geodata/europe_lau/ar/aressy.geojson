@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aressy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aressy", "metric_roundness": 67.76, "metric_rectangularity": 74.12, "metric_mobile_fit": 54.86, "metric_aspect_ratio": 1.014, "metric_area_km2": 4.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.338668, 43.280428499999985 ], [ -0.3386785, 43.2764185 ], [ -0.333241, 43.270646 ], [ -0.331155, 43.26943 ], [ -0.3214785, 43.272923399999982 ], [ -0.3159495, 43.282268 ], [ -0.3303995, 43.28575 ], [ -0.338668, 43.280428499999985 ] ] ] } }
+]
+}

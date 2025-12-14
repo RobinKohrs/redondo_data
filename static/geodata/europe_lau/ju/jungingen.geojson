@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jungingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jungingen", "metric_roundness": 61.22, "metric_rectangularity": 76.64, "metric_mobile_fit": 57.36, "metric_aspect_ratio": 0.989, "metric_area_km2": 20.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0415291, 48.311153199999985 ], [ 9.0625289, 48.3231831 ], [ 9.0673865, 48.333883399999984 ], [ 9.05705, 48.335487199999982 ], [ 9.0520166, 48.3417551 ], [ 9.0531745, 48.344299499999984 ], [ 9.0364728, 48.341486499999981 ], [ 9.0161035, 48.331060899999983 ], [ 9.0156185, 48.327018599999988 ], [ 9.0238449, 48.3172449 ], [ 9.0254795, 48.3098155 ], [ 9.0281985, 48.309492 ], [ 9.0415291, 48.311153199999985 ] ] ] } }
+]
+}

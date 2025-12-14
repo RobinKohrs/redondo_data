@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "klingenmunster",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Klingenmünster", "metric_roundness": 39.18, "metric_rectangularity": 63.29, "metric_mobile_fit": -42.87, "metric_aspect_ratio": 1.991, "metric_area_km2": 24.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0389927, 49.1385425 ], [ 8.029928, 49.1498455 ], [ 8.0122198, 49.154577599999982 ], [ 8.0110155, 49.1584715 ], [ 7.981782, 49.1535705 ], [ 7.9829571, 49.1453765 ], [ 7.9724468, 49.1447101 ], [ 7.961847, 49.1394495 ], [ 7.959885, 49.139198 ], [ 7.9604415, 49.135926 ], [ 7.958301, 49.1341225 ], [ 7.9748347, 49.131963 ], [ 7.995934, 49.1321521 ], [ 8.0058883, 49.1352256 ], [ 8.0334955, 49.1334725 ], [ 8.0389927, 49.1385425 ] ] ] } }
+]
+}

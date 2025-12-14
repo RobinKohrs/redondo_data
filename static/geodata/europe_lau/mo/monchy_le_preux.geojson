@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monchy_le_preux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monchy-le-Preux", "metric_roundness": 36.59, "metric_rectangularity": 65.11, "metric_mobile_fit": -7.27, "metric_aspect_ratio": 1.635, "metric_area_km2": 22.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9176345, 50.2742845 ], [ 2.9131771, 50.2719676 ], [ 2.906018, 50.273248299999985 ], [ 2.8899475, 50.281879499999988 ], [ 2.8804745, 50.281729699999978 ], [ 2.8742682, 50.2782499 ], [ 2.869436, 50.279816 ], [ 2.8530655, 50.2703105 ], [ 2.87483, 50.2647325 ], [ 2.9032401, 50.257245399999988 ], [ 2.9046942, 50.2511551 ], [ 2.9155545, 50.2529435 ], [ 2.9316615, 50.263197 ], [ 2.9176345, 50.2742845 ] ] ] } }
+]
+}

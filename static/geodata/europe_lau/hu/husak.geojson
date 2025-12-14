@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "husak",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Husák", "metric_roundness": 36.66, "metric_rectangularity": 54.91, "metric_mobile_fit": 88.34, "metric_aspect_ratio": 0.679, "metric_area_km2": 31.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.3035897, 48.6759687 ], [ 22.313759, 48.679205499999973 ], [ 22.3078998, 48.708556699999988 ], [ 22.316804, 48.723148 ], [ 22.2969156, 48.712955199999989 ], [ 22.2562475, 48.6999715 ], [ 22.27763, 48.6806823 ], [ 22.2724725, 48.67456 ], [ 22.2818815, 48.669636499999982 ], [ 22.283915, 48.6684915 ], [ 22.2846105, 48.6664665 ], [ 22.2863085, 48.664287499999986 ], [ 22.3035897, 48.6759687 ] ] ] } }
+]
+}

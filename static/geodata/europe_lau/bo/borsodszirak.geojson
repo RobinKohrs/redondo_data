@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borsodszirak",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Borsodszirák", "metric_roundness": 59.71, "metric_rectangularity": 64.14, "metric_mobile_fit": 65.91, "metric_aspect_ratio": 0.903, "metric_area_km2": 24.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7351541, 48.258315699999983 ], [ 20.761058, 48.238585 ], [ 20.7703007, 48.2447603 ], [ 20.7797288, 48.2440691 ], [ 20.7763207, 48.2538197 ], [ 20.7853755, 48.257731799999988 ], [ 20.7880075, 48.2684545 ], [ 20.790406, 48.275674 ], [ 20.782612, 48.2793013 ], [ 20.760868, 48.276250499999989 ], [ 20.750444, 48.2678784 ], [ 20.7370126, 48.267460499999984 ], [ 20.7352925, 48.262123 ], [ 20.7351541, 48.258315699999983 ] ] ] } }
+]
+}

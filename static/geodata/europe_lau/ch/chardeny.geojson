@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chardeny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chardeny", "metric_roundness": 37.94, "metric_rectangularity": 54.33, "metric_mobile_fit": 33.88, "metric_aspect_ratio": 1.224, "metric_area_km2": 12.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.612769, 49.43160649999998 ], [ 4.609736, 49.434271 ], [ 4.5918733, 49.4231043 ], [ 4.5698198, 49.418646 ], [ 4.5657817, 49.415594 ], [ 4.566107, 49.4123595 ], [ 4.5777148, 49.4070373 ], [ 4.5959141, 49.415087 ], [ 4.617014, 49.412979 ], [ 4.6159565, 49.431628499999988 ], [ 4.612769, 49.43160649999998 ] ] ] } }
+]
+}

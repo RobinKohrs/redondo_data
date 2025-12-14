@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zastavka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zastávka", "metric_roundness": 60.68, "metric_rectangularity": 79.02, "metric_mobile_fit": 63.27, "metric_aspect_ratio": 0.93, "metric_area_km2": 3.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.35817, 49.197447499999981 ], [ 16.34799, 49.190892 ], [ 16.357855, 49.1844659 ], [ 16.3653475, 49.1837045 ], [ 16.3675418, 49.1870129 ], [ 16.365287, 49.194055 ], [ 16.35817, 49.197447499999981 ] ] ] } }
+]
+}

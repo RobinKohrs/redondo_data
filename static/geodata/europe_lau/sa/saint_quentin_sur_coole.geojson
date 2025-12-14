@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_quentin_sur_coole",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Quentin-sur-Coole", "metric_roundness": 28.35, "metric_rectangularity": 70.91, "metric_mobile_fit": 70.02, "metric_aspect_ratio": 0.862, "metric_area_km2": 19.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.345321, 48.871302 ], [ 4.3224574, 48.857662499999982 ], [ 4.3136611, 48.8552818 ], [ 4.299425, 48.838282 ], [ 4.299685, 48.8304555 ], [ 4.3030365, 48.824682499999987 ], [ 4.3473709, 48.855103 ], [ 4.360511, 48.859294 ], [ 4.347966, 48.870988 ], [ 4.345321, 48.871302 ] ] ] } }
+]
+}

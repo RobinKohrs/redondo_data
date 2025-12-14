@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "azur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Azur", "metric_roundness": 57.57, "metric_rectangularity": 72.55, "metric_mobile_fit": 75.06, "metric_aspect_ratio": 0.812, "metric_area_km2": 32.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.3201639, 43.813001799999988 ], [ -1.3203425, 43.790325 ], [ -1.3025348, 43.7744909 ], [ -1.2873275, 43.773986099999988 ], [ -1.2799698, 43.7779097 ], [ -1.2751456, 43.793642299999988 ], [ -1.2689375, 43.799759 ], [ -1.2625489, 43.8007391 ], [ -1.2625404, 43.8062302 ], [ -1.2656148, 43.8092033 ], [ -1.2889275, 43.8139644 ], [ -1.313295, 43.825371 ], [ -1.3201639, 43.813001799999988 ] ] ] } }
+]
+}

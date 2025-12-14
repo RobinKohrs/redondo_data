@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jasenica",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jasenica", "metric_roundness": 49.53, "metric_rectangularity": 71.15, "metric_mobile_fit": 65.31, "metric_aspect_ratio": 0.909, "metric_area_km2": 16.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.446517, 49.190982299999988 ], [ 18.4475805, 49.1848238 ], [ 18.444205, 49.1825231 ], [ 18.420373, 49.182935 ], [ 18.4267329, 49.168085099999985 ], [ 18.4391375, 49.163647 ], [ 18.4626619, 49.1728776 ], [ 18.4674768, 49.180908699999989 ], [ 18.4681845, 49.189268 ], [ 18.467995, 49.189314499999981 ], [ 18.462822, 49.1980145 ], [ 18.446517, 49.190982299999988 ] ] ] } }
+]
+}

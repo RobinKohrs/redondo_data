@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trezzo_tinella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trezzo Tinella", "metric_roundness": 37.26, "metric_rectangularity": 59.74, "metric_mobile_fit": 99.52, "metric_aspect_ratio": 0.558, "metric_area_km2": 21.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.1327665, 44.644567 ], [ 8.1314593, 44.6515663 ], [ 8.134377, 44.6583824 ], [ 8.129025, 44.670283499999989 ], [ 8.100491, 44.69366 ], [ 8.1016559, 44.685885899999988 ], [ 8.0941808, 44.6770114 ], [ 8.0996815, 44.6636492 ], [ 8.09854, 44.6580665 ], [ 8.0956795, 44.6532255 ], [ 8.1076857, 44.649927399999982 ], [ 8.1148381, 44.642638 ], [ 8.121185, 44.6423995 ], [ 8.1327665, 44.644567 ] ] ] } }
+]
+}

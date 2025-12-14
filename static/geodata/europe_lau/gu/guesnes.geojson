@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guesnes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guesnes", "metric_roundness": 38.98, "metric_rectangularity": 63.5, "metric_mobile_fit": 98.78, "metric_aspect_ratio": 0.575, "metric_area_km2": 29.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.146323, 46.936514499999987 ], [ 0.1453465, 46.932491 ], [ 0.1260589, 46.9206907 ], [ 0.126477, 46.914264 ], [ 0.138942, 46.887189 ], [ 0.1431735, 46.886606 ], [ 0.1510294, 46.87685459999998 ], [ 0.156992, 46.889718599999981 ], [ 0.16712, 46.894835499999985 ], [ 0.1762493, 46.9115063 ], [ 0.164494, 46.920966 ], [ 0.160025, 46.925841 ], [ 0.1554355, 46.929114 ], [ 0.146323, 46.936514499999987 ] ] ] } }
+]
+}

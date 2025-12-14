@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dunice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dunice", "metric_roundness": 46.91, "metric_rectangularity": 66.26, "metric_mobile_fit": 72.39, "metric_aspect_ratio": 0.839, "metric_area_km2": 8.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.1428935, 49.6122515 ], [ 15.145332, 49.602119 ], [ 15.1532855, 49.591483499999988 ], [ 15.165103, 49.5890395 ], [ 15.1646572, 49.5969876 ], [ 15.1729295, 49.609473 ], [ 15.169732, 49.6103595 ], [ 15.1428935, 49.6122515 ] ] ] } }
+]
+}

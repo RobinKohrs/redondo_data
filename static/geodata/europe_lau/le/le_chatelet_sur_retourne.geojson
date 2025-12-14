@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_chatelet_sur_retourne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Châtelet-sur-Retourne", "metric_roundness": 42.95, "metric_rectangularity": 65.08, "metric_mobile_fit": 83.09, "metric_aspect_ratio": 0.732, "metric_area_km2": 23.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2811375, 49.390117 ], [ 4.2861117, 49.3970809 ], [ 4.2834698, 49.400686 ], [ 4.2845333, 49.407992 ], [ 4.3039155, 49.425537499999983 ], [ 4.2918005, 49.428613499999983 ], [ 4.2794866, 49.4255539 ], [ 4.2637985, 49.4345795 ], [ 4.263564, 49.418005099999981 ], [ 4.2523742, 49.405844599999988 ], [ 4.2549707, 49.402797899999982 ], [ 4.2544984, 49.394967199999989 ], [ 4.258758, 49.3887425 ], [ 4.2811375, 49.390117 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "canville_les_deux_eglises",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Canville-les-Deux-Églises", "metric_roundness": 64.03, "metric_rectangularity": 73.49, "metric_mobile_fit": 47.45, "metric_aspect_ratio": 1.088, "metric_area_km2": 13.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8522035, 49.766238 ], [ 0.8556935, 49.77258549999997 ], [ 0.854078, 49.777551 ], [ 0.855512, 49.783101 ], [ 0.85461, 49.78502 ], [ 0.8441715, 49.782624299999988 ], [ 0.838746, 49.784563 ], [ 0.8177855, 49.7835145 ], [ 0.816383, 49.779401 ], [ 0.8160055, 49.773908499999983 ], [ 0.814834, 49.771379 ], [ 0.8266248, 49.767254699999981 ], [ 0.8286965, 49.7607655 ], [ 0.8522035, 49.766238 ] ] ] } }
+]
+}

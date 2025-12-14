@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "savigny_sur_ardres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Savigny-sur-Ardres", "metric_roundness": 52.19, "metric_rectangularity": 66.89, "metric_mobile_fit": 54.13, "metric_aspect_ratio": 1.021, "metric_area_km2": 21.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7782955, 49.257131799999982 ], [ 3.7695242, 49.25176 ], [ 3.7664496, 49.242058 ], [ 3.7808405, 49.233725 ], [ 3.7941096, 49.2445193 ], [ 3.8119815, 49.248757499999989 ], [ 3.824037, 49.252238499999983 ], [ 3.8258025, 49.2582015 ], [ 3.8254645, 49.258385 ], [ 3.803261, 49.2673875 ], [ 3.7948855, 49.269841 ], [ 3.792946, 49.271661499999986 ], [ 3.79026, 49.269402 ], [ 3.7886165, 49.267131 ], [ 3.783129, 49.265355 ], [ 3.7782955, 49.257131799999982 ] ] ] } }
+]
+}

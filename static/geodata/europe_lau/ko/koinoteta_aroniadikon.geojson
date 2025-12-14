@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_aroniadikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αρωνιαδίκων", "metric_roundness": 54.15, "metric_rectangularity": 67.08, "metric_mobile_fit": 82.49, "metric_aspect_ratio": 0.738, "metric_area_km2": 6.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.9777212, 36.2678005 ], [ 22.979165, 36.278067 ], [ 22.9683471, 36.2805575 ], [ 22.966087, 36.2843465 ], [ 22.9565393, 36.279928 ], [ 22.953977, 36.270238 ], [ 22.9623276, 36.2645606 ], [ 22.966008, 36.2568145 ], [ 22.9777212, 36.2678005 ] ] ] } }
+]
+}

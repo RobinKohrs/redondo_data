@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bergues_sur_sambre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bergues-sur-Sambre", "metric_roundness": 32.88, "metric_rectangularity": 66.62, "metric_mobile_fit": -91.46, "metric_aspect_ratio": 2.477, "metric_area_km2": 11.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7148287, 50.022639499999975 ], [ 3.7235015, 50.0255401 ], [ 3.740825, 50.0231665 ], [ 3.7272755, 50.037917 ], [ 3.6932917, 50.034062 ], [ 3.6819135, 50.028424 ], [ 3.687185, 50.0235275 ], [ 3.7148287, 50.022639499999975 ] ] ] } }
+]
+}

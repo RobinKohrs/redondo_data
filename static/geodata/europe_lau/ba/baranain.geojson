@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baranain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Barañáin", "metric_roundness": 37.29, "metric_rectangularity": 63.78, "metric_mobile_fit": -10.6, "metric_aspect_ratio": 1.668, "metric_area_km2": 1.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6981175, 42.799273 ], [ -1.6839405, 42.8018755 ], [ -1.6811528, 42.805957899999989 ], [ -1.6901315, 42.8087545 ], [ -1.7027145, 42.801246 ], [ -1.6981175, 42.799273 ] ] ] } }
+]
+}

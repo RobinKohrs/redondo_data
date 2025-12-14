@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kapeletou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καπελέτου", "metric_roundness": 42.14, "metric_rectangularity": 68.03, "metric_mobile_fit": 35.08, "metric_aspect_ratio": 1.212, "metric_area_km2": 35.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3187846, 38.0246973 ], [ 21.3110095, 38.012984 ], [ 21.3248572, 38.0091205 ], [ 21.3240623, 37.9968965 ], [ 21.372862, 37.9763775 ], [ 21.3806575, 37.9763145 ], [ 21.3896599, 37.976437799999985 ], [ 21.3939785, 37.98691 ], [ 21.3861188, 37.998585199999987 ], [ 21.3608251, 38.0116337 ], [ 21.3490287, 38.028230599999986 ], [ 21.3350255, 38.030269 ], [ 21.3187846, 38.0246973 ] ] ] } }
+]
+}

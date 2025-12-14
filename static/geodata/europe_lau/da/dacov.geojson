@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dacov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ďačov", "metric_roundness": 53.63, "metric_rectangularity": 76.5, "metric_mobile_fit": 67.23, "metric_aspect_ratio": 0.89, "metric_area_km2": 25.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.9003163, 49.125790599999981 ], [ 20.9070615, 49.120366 ], [ 20.9296116, 49.130213399999988 ], [ 20.9417594, 49.1432985 ], [ 20.952855, 49.150641499999985 ], [ 20.9365365, 49.162001 ], [ 20.9300177, 49.1636028 ], [ 20.903279, 49.1515475 ], [ 20.9026745, 49.143603 ], [ 20.8940225, 49.138205 ], [ 20.9003163, 49.125790599999981 ] ] ] } }
+]
+}

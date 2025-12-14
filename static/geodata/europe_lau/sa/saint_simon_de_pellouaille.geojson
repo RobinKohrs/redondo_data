@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_simon_de_pellouaille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Simon-de-Pellouaille", "metric_roundness": 65.21, "metric_rectangularity": 86.76, "metric_mobile_fit": 45.14, "metric_aspect_ratio": 1.111, "metric_area_km2": 19.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.6968481, 45.6216921 ], [ -0.6995975, 45.6134335 ], [ -0.6997049, 45.6081172 ], [ -0.691551, 45.6050177 ], [ -0.6918435, 45.6007235 ], [ -0.677318, 45.595444 ], [ -0.6727025, 45.5954775 ], [ -0.665252, 45.592887499999989 ], [ -0.659224, 45.594039499999987 ], [ -0.647714, 45.6141225 ], [ -0.6867315, 45.625621 ], [ -0.6968481, 45.6216921 ] ] ] } }
+]
+}

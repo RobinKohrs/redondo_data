@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "duzey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Duzey", "metric_roundness": 36.23, "metric_rectangularity": 68.63, "metric_mobile_fit": 9.98, "metric_aspect_ratio": 1.463, "metric_area_km2": 13.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5919095, 49.347833 ], [ 5.6237345, 49.349912899999985 ], [ 5.633771, 49.353570499999989 ], [ 5.6377932, 49.362001599999985 ], [ 5.6428798, 49.365298199999984 ], [ 5.641635, 49.371167 ], [ 5.6247335, 49.3689055 ], [ 5.6148764, 49.363319699999984 ], [ 5.5930527, 49.3619207 ], [ 5.590181, 49.3477005 ], [ 5.5919095, 49.347833 ] ] ] } }
+]
+}

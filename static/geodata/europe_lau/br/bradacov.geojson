@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bradacov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bradáčov", "metric_roundness": 47.67, "metric_rectangularity": 67.41, "metric_mobile_fit": 92.71, "metric_aspect_ratio": 0.635, "metric_area_km2": 10.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8611191, 49.488543099999987 ], [ 14.8641525, 49.480238 ], [ 14.8770289, 49.4767712 ], [ 14.885765, 49.479523 ], [ 14.8844485, 49.4816595 ], [ 14.8905791, 49.4899266 ], [ 14.8742307, 49.5016845 ], [ 14.8765935, 49.5047645 ], [ 14.865569, 49.506887 ], [ 14.8611191, 49.488543099999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_ville_sous_orbais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Ville-sous-Orbais", "metric_roundness": 46.45, "metric_rectangularity": 74.13, "metric_mobile_fit": 69.31, "metric_aspect_ratio": 0.869, "metric_area_km2": 25.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7042767, 48.981591 ], [ 3.6927673, 48.980894199999973 ], [ 3.6860505, 48.987269499999989 ], [ 3.6715868, 48.981117899999987 ], [ 3.658779, 48.9673197 ], [ 3.6539018, 48.9550662 ], [ 3.646705, 48.951612499999982 ], [ 3.6588815, 48.942121499999978 ], [ 3.666663, 48.939644 ], [ 3.6688683, 48.9469572 ], [ 3.6879872, 48.9561054 ], [ 3.6979851, 48.967125599999981 ], [ 3.709769, 48.9727715 ], [ 3.7042767, 48.981591 ] ] ] } }
+]
+}

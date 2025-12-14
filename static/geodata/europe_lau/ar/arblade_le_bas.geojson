@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arblade_le_bas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arblade-le-Bas", "metric_roundness": 46.03, "metric_rectangularity": 57.27, "metric_mobile_fit": 46.39, "metric_aspect_ratio": 1.099, "metric_area_km2": 14.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.179182, 43.711338499999989 ], [ -0.198834, 43.7079425 ], [ -0.200782, 43.6985604 ], [ -0.1783643, 43.6968037 ], [ -0.1710745, 43.687892 ], [ -0.1578226, 43.6960309 ], [ -0.1576761, 43.707044 ], [ -0.1492255, 43.7171635 ], [ -0.1577204, 43.7214775 ], [ -0.1655995, 43.721818 ], [ -0.179182, 43.711338499999989 ] ] ] } }
+]
+}

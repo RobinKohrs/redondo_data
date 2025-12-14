@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orgens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orgens", "metric_roundness": 43.46, "metric_rectangularity": 61.08, "metric_mobile_fit": 94.56, "metric_aspect_ratio": 0.617, "metric_area_km2": 14.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.944034, 40.690310499999981 ], [ -7.952085, 40.68788 ], [ -7.958082, 40.6833415 ], [ -7.9613607, 40.6656134 ], [ -7.9582571, 40.6591305 ], [ -7.9619931, 40.6569584 ], [ -7.9633954, 40.6501188 ], [ -7.956089, 40.6466135 ], [ -7.9455904, 40.651666 ], [ -7.9444971, 40.6595255 ], [ -7.927856, 40.6627575 ], [ -7.9287265, 40.668276 ], [ -7.944034, 40.690310499999981 ] ] ] } }
+]
+}

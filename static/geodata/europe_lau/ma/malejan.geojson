@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "malejan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maleján", "metric_roundness": 46.82, "metric_rectangularity": 75.32, "metric_mobile_fit": 19.95, "metric_aspect_ratio": 1.363, "metric_area_km2": 0.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5468822, 41.825531299999987 ], [ -1.5437578, 41.8280848 ], [ -1.5475276, 41.8302219 ], [ -1.5523374, 41.8279228 ], [ -1.5468822, 41.825531299999987 ] ] ] } }
+]
+}

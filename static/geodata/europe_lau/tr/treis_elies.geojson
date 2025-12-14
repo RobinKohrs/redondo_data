@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "treis_elies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Τρεις Ελιές", "metric_roundness": 32.94, "metric_rectangularity": 54.16, "metric_mobile_fit": 88.41, "metric_aspect_ratio": 0.678, "metric_area_km2": 7.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.8050038, 34.9201514 ], [ 32.8076184, 34.92833539999998 ], [ 32.812709, 34.928818 ], [ 32.8094575, 34.934428 ], [ 32.8007506, 34.9418596 ], [ 32.790928, 34.9453571 ], [ 32.787833, 34.951728 ], [ 32.7812615, 34.9519145 ], [ 32.7859939, 34.9442341 ], [ 32.7898423, 34.922364 ], [ 32.7955778, 34.919160199999986 ], [ 32.797418, 34.9139125 ], [ 32.8050038, 34.9201514 ] ] ] } }
+]
+}

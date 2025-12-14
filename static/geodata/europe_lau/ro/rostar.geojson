@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rostar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roštár", "metric_roundness": 35.69, "metric_rectangularity": 62.92, "metric_mobile_fit": -32.9, "metric_aspect_ratio": 1.892, "metric_area_km2": 19.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.388184, 48.7034975 ], [ 20.3771844, 48.707371099999989 ], [ 20.354802, 48.708248 ], [ 20.3430019, 48.701852299999985 ], [ 20.3250025, 48.698626 ], [ 20.337305, 48.693279699999984 ], [ 20.3469265, 48.682513 ], [ 20.3532925, 48.682572799999988 ], [ 20.3664247, 48.6899225 ], [ 20.39875, 48.692058 ], [ 20.388184, 48.7034975 ] ] ] } }
+]
+}

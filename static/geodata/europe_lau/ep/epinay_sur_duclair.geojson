@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "epinay_sur_duclair",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Épinay-sur-Duclair", "metric_roundness": 46.01, "metric_rectangularity": 58.76, "metric_mobile_fit": 54.85, "metric_aspect_ratio": 1.014, "metric_area_km2": 15.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8419828, 49.5400772 ], [ 0.8270112, 49.5344861 ], [ 0.808991, 49.532335499999981 ], [ 0.8210899, 49.524824799999983 ], [ 0.8191442, 49.520594599999981 ], [ 0.8277867, 49.514082599999981 ], [ 0.852617, 49.510555 ], [ 0.855817, 49.510101 ], [ 0.8486212, 49.5245241 ], [ 0.8542121, 49.5339117 ], [ 0.8518233, 49.5375802 ], [ 0.845757, 49.538571499999982 ], [ 0.8419828, 49.5400772 ] ] ] } }
+]
+}

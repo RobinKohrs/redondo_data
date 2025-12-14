@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_romans_les_melle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Romans-lès-Melle", "metric_roundness": 48.49, "metric_rectangularity": 64.1, "metric_mobile_fit": 69.62, "metric_aspect_ratio": 0.866, "metric_area_km2": 18.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2049875, 46.184112 ], [ -0.1926428, 46.195217199999981 ], [ -0.1930104, 46.201565299999984 ], [ -0.1791642, 46.204923899999983 ], [ -0.1709769, 46.202135899999988 ], [ -0.1726261, 46.21756 ], [ -0.194284, 46.2270305 ], [ -0.2041264, 46.213182099999976 ], [ -0.2247025, 46.203661499999981 ], [ -0.2049875, 46.184112 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "remicov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Řemíčov", "metric_roundness": 68.4, "metric_rectangularity": 71.85, "metric_mobile_fit": 66.86, "metric_aspect_ratio": 0.894, "metric_area_km2": 10.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.757951, 49.516288399999986 ], [ 14.763319, 49.510284499999983 ], [ 14.773117, 49.5084218 ], [ 14.7889099, 49.5123904 ], [ 14.7879772, 49.5288233 ], [ 14.7812435, 49.532397 ], [ 14.7739288, 49.5288264 ], [ 14.7626915, 49.527754 ], [ 14.7666019, 49.5219184 ], [ 14.757951, 49.519227499999985 ], [ 14.755895, 49.518588 ], [ 14.757951, 49.516288399999986 ] ] ] } }
+]
+}

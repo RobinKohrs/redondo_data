@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hulice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hulice", "metric_roundness": 31.3, "metric_rectangularity": 52.46, "metric_mobile_fit": 94.37, "metric_aspect_ratio": 0.619, "metric_area_km2": 15.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.0743945, 49.708343 ], [ 15.0810765, 49.7051783 ], [ 15.0877691, 49.6948224 ], [ 15.085202, 49.692449 ], [ 15.099253, 49.687437499999987 ], [ 15.1021771, 49.691119600000015 ], [ 15.0989083, 49.6966289 ], [ 15.1106406, 49.708291799999984 ], [ 15.1085815, 49.71131 ], [ 15.092087, 49.716967 ], [ 15.0889273, 49.7238591 ], [ 15.0705965, 49.729284499999984 ], [ 15.0743945, 49.708343 ] ] ] } }
+]
+}

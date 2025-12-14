@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marainville_sur_madon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marainville-sur-Madon", "metric_roundness": 46.1, "metric_rectangularity": 63.79, "metric_mobile_fit": 73.31, "metric_aspect_ratio": 0.829, "metric_area_km2": 11.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1622015, 48.381765499999986 ], [ 6.1682025, 48.386017 ], [ 6.1710108, 48.3919399 ], [ 6.1728756, 48.395873099999982 ], [ 6.178418, 48.397601499999986 ], [ 6.1834163, 48.407872599999983 ], [ 6.178929, 48.410457 ], [ 6.1733747, 48.405932599999986 ], [ 6.1710108, 48.406162599999988 ], [ 6.149418, 48.4082635 ], [ 6.147426, 48.407833 ], [ 6.15233, 48.381644 ], [ 6.1622015, 48.381765499999986 ] ] ] } }
+]
+}

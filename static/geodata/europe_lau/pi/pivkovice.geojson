@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pivkovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pivkovice", "metric_roundness": 56.72, "metric_rectangularity": 69.33, "metric_mobile_fit": 54.12, "metric_aspect_ratio": 1.021, "metric_area_km2": 6.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.083111, 49.178492199999987 ], [ 14.0794457, 49.183467799999981 ], [ 14.0630575, 49.183589 ], [ 14.0540218, 49.177207699999983 ], [ 14.053946, 49.1675877 ], [ 14.067323, 49.1703608 ], [ 14.0769685, 49.16492 ], [ 14.07672, 49.173317 ], [ 14.0820965, 49.1747765 ], [ 14.083111, 49.178492199999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castelleone_di_suasa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castelleone di Suasa", "metric_roundness": 55.74, "metric_rectangularity": 65.33, "metric_mobile_fit": 67.25, "metric_aspect_ratio": 0.89, "metric_area_km2": 30.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.020963, 43.6023405 ], [ 13.014135, 43.6203203 ], [ 12.984128, 43.637169 ], [ 12.9784802, 43.6226569 ], [ 12.95767, 43.5963065 ], [ 12.9594652, 43.590784199999987 ], [ 12.9787195, 43.585676 ], [ 13.000926, 43.595001 ], [ 13.004818, 43.598536499999987 ], [ 13.020491, 43.599071499999987 ], [ 13.020963, 43.6023405 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "garbagnate_milanese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Garbagnate Milanese", "metric_roundness": 64.82, "metric_rectangularity": 73.27, "metric_mobile_fit": 25.51, "metric_aspect_ratio": 1.307, "metric_area_km2": 18.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0645134, 45.5673767 ], [ 9.0651029, 45.5603821 ], [ 9.0822275, 45.5596335 ], [ 9.0943983, 45.568163399999982 ], [ 9.10107, 45.567947 ], [ 9.0994568, 45.58181 ], [ 9.095396, 45.5872685 ], [ 9.0641475, 45.586775499999987 ], [ 9.0629833, 45.5819875 ], [ 9.0520728, 45.5811345 ], [ 9.0494545, 45.578139499999985 ], [ 9.0554153, 45.570447199999983 ], [ 9.0547995, 45.566933499999976 ], [ 9.0645134, 45.5673767 ] ] ] } }
+]
+}

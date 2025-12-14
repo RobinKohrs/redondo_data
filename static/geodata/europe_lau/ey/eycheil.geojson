@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eycheil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eycheil", "metric_roundness": 31.97, "metric_rectangularity": 61.29, "metric_mobile_fit": 77.98, "metric_aspect_ratio": 0.783, "metric_area_km2": 9.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1643275, 42.971306 ], [ 1.1532555, 42.964167 ], [ 1.1444475, 42.957052499999989 ], [ 1.144008, 42.9546665 ], [ 1.140181, 42.946341 ], [ 1.1381115, 42.936507 ], [ 1.140555, 42.935334 ], [ 1.1473671, 42.9431356 ], [ 1.1633589, 42.9509981 ], [ 1.1680191, 42.9564968 ], [ 1.17658, 42.955816 ], [ 1.174505, 42.9616955 ], [ 1.1704625, 42.964985 ], [ 1.16888, 42.967618 ], [ 1.1643275, 42.971306 ] ] ] } }
+]
+}

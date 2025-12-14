@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eisenach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eisenach", "metric_roundness": 62.9, "metric_rectangularity": 64.7, "metric_mobile_fit": 51.18, "metric_aspect_ratio": 1.051, "metric_area_km2": 15.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5189232, 49.8416513 ], [ 6.531043, 49.838329499999986 ], [ 6.5326415, 49.846682099999988 ], [ 6.5265528, 49.8529689 ], [ 6.5326255, 49.857750499999973 ], [ 6.5081125, 49.863226 ], [ 6.505923, 49.8619145 ], [ 6.503677, 49.860286 ], [ 6.487597, 49.846541 ], [ 6.4908764, 49.844554 ], [ 6.4911039, 49.839445199999972 ], [ 6.4986225, 49.8355825 ], [ 6.5189232, 49.8416513 ] ] ] } }
+]
+}

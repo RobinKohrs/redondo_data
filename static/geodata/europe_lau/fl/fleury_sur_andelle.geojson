@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fleury_sur_andelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fleury-sur-Andelle", "metric_roundness": 57.25, "metric_rectangularity": 70.31, "metric_mobile_fit": 75.07, "metric_aspect_ratio": 0.812, "metric_area_km2": 8.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.3585236, 49.368566099999981 ], [ 1.3508983, 49.3757689 ], [ 1.3404956, 49.374918 ], [ 1.335991, 49.3705965 ], [ 1.3413835, 49.365073 ], [ 1.3423382, 49.357493399999981 ], [ 1.3523255, 49.352484499999981 ], [ 1.365016, 49.354833499999984 ], [ 1.364719, 49.369763 ], [ 1.3585236, 49.368566099999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "costa_vescovato",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Costa Vescovato", "metric_roundness": 27.56, "metric_rectangularity": 49.93, "metric_mobile_fit": 61.84, "metric_aspect_ratio": 0.944, "metric_area_km2": 16.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9030655, 44.828967499999983 ], [ 8.9222785, 44.809228 ], [ 8.9349771, 44.8098154 ], [ 8.9476215, 44.8045944 ], [ 8.958245, 44.793711 ], [ 8.9612085, 44.7959375 ], [ 8.9544046, 44.8056835 ], [ 8.9531799, 44.8133382 ], [ 8.9451291, 44.820708299999986 ], [ 8.9482655, 44.8254545 ], [ 8.945003, 44.8281625 ], [ 8.9267822, 44.8275988 ], [ 8.9135605, 44.839054 ], [ 8.9008605, 44.829683499999987 ], [ 8.9030655, 44.828967499999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montorio_romano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montorio Romano", "metric_roundness": 39.69, "metric_rectangularity": 63.7, "metric_mobile_fit": -35.41, "metric_aspect_ratio": 1.917, "metric_area_km2": 42.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.7580592, 42.1334416 ], [ 12.785214, 42.1171625 ], [ 12.8106629, 42.1183949 ], [ 12.8219726, 42.1211897 ], [ 12.8483255, 42.138381 ], [ 12.8474668, 42.1439611 ], [ 12.8155822, 42.1526723 ], [ 12.8106629, 42.1574904 ], [ 12.799143, 42.157478 ], [ 12.7902936, 42.1531834 ], [ 12.7537621, 42.1469108 ], [ 12.744091, 42.149431 ], [ 12.7445544, 42.145646 ], [ 12.754256, 42.140904 ], [ 12.7580592, 42.1334416 ] ] ] } }
+]
+}

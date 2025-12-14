@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sivetice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Šivetice", "metric_roundness": 50.04, "metric_rectangularity": 66.35, "metric_mobile_fit": 86.35, "metric_aspect_ratio": 0.699, "metric_area_km2": 18.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.2518777, 48.562588499999983 ], [ 20.2653925, 48.554186 ], [ 20.294489, 48.560632499999983 ], [ 20.2782484, 48.574110599999983 ], [ 20.2800255, 48.585715 ], [ 20.2769314, 48.5945189 ], [ 20.262952, 48.5941938 ], [ 20.2550855, 48.590582 ], [ 20.2536191, 48.581055799999987 ], [ 20.2609135, 48.5772383 ], [ 20.2562885, 48.571529 ], [ 20.2518777, 48.562588499999983 ] ] ] } }
+]
+}

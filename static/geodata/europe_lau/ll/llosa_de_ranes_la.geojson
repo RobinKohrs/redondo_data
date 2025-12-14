@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "llosa_de_ranes_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Llosa de Ranes, la", "metric_roundness": 45.79, "metric_rectangularity": 75.63, "metric_mobile_fit": 93.07, "metric_aspect_ratio": 0.632, "metric_area_km2": 11.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.5518332, 39.035259499999988 ], [ -0.5487145, 39.026821 ], [ -0.5462158, 39.0245141 ], [ -0.5492665, 39.0211755 ], [ -0.5422185, 39.0134325 ], [ -0.5346201, 39.0109234 ], [ -0.5223561, 39.013412 ], [ -0.525762, 39.0397605 ], [ -0.5377018, 39.041042399999988 ], [ -0.541833, 39.046406 ], [ -0.542895, 39.0447615 ], [ -0.544868, 39.044487 ], [ -0.548729, 39.046333 ], [ -0.550472, 39.047165 ], [ -0.5518332, 39.035259499999988 ] ] ] } }
+]
+}

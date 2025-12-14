@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prosec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Proseč", "metric_roundness": 40.36, "metric_rectangularity": 62.53, "metric_mobile_fit": 89.81, "metric_aspect_ratio": 0.664, "metric_area_km2": 8.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3346599, 49.608632399999983 ], [ 15.3353945, 49.613564 ], [ 15.3248765, 49.614745 ], [ 15.3178424, 49.5988719 ], [ 15.327999, 49.592937 ], [ 15.333817, 49.590832 ], [ 15.340118, 49.585789 ], [ 15.3475255, 49.5993895 ], [ 15.3346599, 49.608632399999983 ] ] ] } }
+]
+}

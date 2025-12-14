@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vall_llobrega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vall-llobrega", "metric_roundness": 38.96, "metric_rectangularity": 67.49, "metric_mobile_fit": 27.68, "metric_aspect_ratio": 1.286, "metric_area_km2": 10.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1418935, 41.879044 ], [ 3.1426695, 41.88097 ], [ 3.142487, 41.8863295 ], [ 3.1357925, 41.8885085 ], [ 3.132498, 41.893337 ], [ 3.1302455, 41.894474 ], [ 3.127154, 41.8941965 ], [ 3.111953, 41.899383 ], [ 3.102301, 41.8899905 ], [ 3.098461, 41.8896085 ], [ 3.1128508, 41.884431 ], [ 3.1309711, 41.871145399999989 ], [ 3.1386317, 41.8760809 ], [ 3.1472275, 41.8773675 ], [ 3.1418935, 41.879044 ] ] ] } }
+]
+}

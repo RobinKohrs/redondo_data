@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "essertines_en_chatelneuf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Essertines-en-Châtelneuf", "metric_roundness": 60.21, "metric_rectangularity": 71.54, "metric_mobile_fit": 14.11, "metric_aspect_ratio": 1.421, "metric_area_km2": 30.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.033108, 45.6242665 ], [ 4.0258205, 45.629191 ], [ 4.0203315, 45.6321535 ], [ 4.004426, 45.638465 ], [ 3.9846565, 45.628869699999989 ], [ 3.9732527, 45.6277338 ], [ 3.9695585, 45.6241315 ], [ 3.9704844, 45.6213594 ], [ 3.961302, 45.6178988 ], [ 3.9659255, 45.6096515 ], [ 3.9748389, 45.6041382 ], [ 3.980833, 45.6043945 ], [ 4.0145695, 45.603132199999983 ], [ 4.028652, 45.608586499999987 ], [ 4.031566, 45.619971 ], [ 4.033108, 45.6242665 ] ] ] } }
+]
+}

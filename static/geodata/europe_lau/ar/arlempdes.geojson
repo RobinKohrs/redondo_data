@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arlempdes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arlempdes", "metric_roundness": 54.4, "metric_rectangularity": 63.58, "metric_mobile_fit": 75.76, "metric_aspect_ratio": 0.805, "metric_area_km2": 26.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8865115, 44.879890499999988 ], [ 3.885319, 44.865195099999987 ], [ 3.8808869, 44.8624232 ], [ 3.879741, 44.8458835 ], [ 3.890438, 44.8440335 ], [ 3.9079899, 44.8500207 ], [ 3.9147221, 44.8554317 ], [ 3.9253785, 44.8538645 ], [ 3.9333895, 44.8624395 ], [ 3.9206149, 44.8684922 ], [ 3.9221351, 44.8728311 ], [ 3.918729, 44.8772155 ], [ 3.9163183, 44.888982 ], [ 3.9015095, 44.89127 ], [ 3.8865115, 44.879890499999988 ] ] ] } }
+]
+}

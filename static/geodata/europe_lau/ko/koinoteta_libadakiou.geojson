@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_libadakiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λιβαδακίου", "metric_roundness": 36.86, "metric_rectangularity": 77.08, "metric_mobile_fit": 21.8, "metric_aspect_ratio": 1.345, "metric_area_km2": 14.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.787744, 37.5301902 ], [ 21.7940339, 37.525299299999986 ], [ 21.812178, 37.520446 ], [ 21.8372415, 37.5134065 ], [ 21.8357, 37.53052 ], [ 21.8007743, 37.5449019 ], [ 21.7862755, 37.544761 ], [ 21.7838435, 37.5379575 ], [ 21.787744, 37.5301902 ] ] ] } }
+]
+}

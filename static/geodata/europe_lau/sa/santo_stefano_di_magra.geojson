@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santo_stefano_di_magra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santo Stefano di Magra", "metric_roundness": 52.95, "metric_rectangularity": 59.74, "metric_mobile_fit": 44.26, "metric_aspect_ratio": 1.12, "metric_area_km2": 26.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9417627, 44.133009799999989 ], [ 9.9437951, 44.136278 ], [ 9.9501782, 44.1465429 ], [ 9.9543012, 44.1484136 ], [ 9.959099, 44.1667695 ], [ 9.9287722, 44.1666332 ], [ 9.9202547, 44.1696753 ], [ 9.897884, 44.1635765 ], [ 9.8947205, 44.162069 ], [ 9.9116007, 44.1409727 ], [ 9.9253437, 44.13991249999998 ], [ 9.9309045, 44.136278 ], [ 9.9324895, 44.1284285 ], [ 9.9417627, 44.133009799999989 ] ] ] } }
+]
+}

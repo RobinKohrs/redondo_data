@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "terravecchia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Terravecchia", "metric_roundness": 42.8, "metric_rectangularity": 63.63, "metric_mobile_fit": 10.08, "metric_aspect_ratio": 1.462, "metric_area_km2": 32.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9227075, 39.4635718 ], [ 16.9438343, 39.438917699999976 ], [ 16.9573375, 39.437006 ], [ 16.9659959, 39.4409657 ], [ 16.978143, 39.4522912 ], [ 17.001588, 39.462749499999987 ], [ 16.9668244, 39.4733398 ], [ 16.9616836, 39.479215699999983 ], [ 16.9523266, 39.483450499999989 ], [ 16.940343, 39.4772201 ], [ 16.9149911, 39.473011 ], [ 16.91366, 39.470039 ], [ 16.9227075, 39.4635718 ] ] ] } }
+]
+}

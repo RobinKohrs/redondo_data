@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "optevoz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Optevoz", "metric_roundness": 54.94, "metric_rectangularity": 70.76, "metric_mobile_fit": 22.24, "metric_aspect_ratio": 1.34, "metric_area_km2": 25.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3642905, 45.756405 ], [ 5.3467089, 45.7681998 ], [ 5.319468, 45.7669335 ], [ 5.3113729, 45.762149899999976 ], [ 5.307166, 45.743972 ], [ 5.3242333, 45.747340199999989 ], [ 5.3521725, 45.733408 ], [ 5.369178, 45.7441565 ], [ 5.3739865, 45.754788499999982 ], [ 5.3642905, 45.756405 ] ] ] } }
+]
+}

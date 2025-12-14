@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vecqueville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vecqueville", "metric_roundness": 40.58, "metric_rectangularity": 64.37, "metric_mobile_fit": -19.29, "metric_aspect_ratio": 1.755, "metric_area_km2": 11.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.1399256, 48.4643321 ], [ 5.1316495, 48.472082 ], [ 5.1149411, 48.467939499999986 ], [ 5.114833, 48.452886499999984 ], [ 5.159576, 48.454794 ], [ 5.1656482, 48.457538899999989 ], [ 5.160927, 48.463337 ], [ 5.148605, 48.463026499999984 ], [ 5.1399256, 48.4643321 ] ] ] } }
+]
+}

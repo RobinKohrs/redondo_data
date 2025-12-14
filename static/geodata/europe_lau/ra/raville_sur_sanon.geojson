@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "raville_sur_sanon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Raville-sur-Sânon", "metric_roundness": 58.46, "metric_rectangularity": 74.61, "metric_mobile_fit": 65.09, "metric_aspect_ratio": 0.912, "metric_area_km2": 7.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5101594, 48.661722399999988 ], [ 6.4939617, 48.6516068 ], [ 6.5033935, 48.64046949999998 ], [ 6.5150995, 48.64229 ], [ 6.5244405, 48.6547335 ], [ 6.5210415, 48.6557535 ], [ 6.5175415, 48.662556499999987 ], [ 6.5101594, 48.661722399999988 ] ] ] } }
+]
+}

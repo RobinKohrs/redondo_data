@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "positano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Positano", "metric_roundness": 48.96, "metric_rectangularity": 60.79, "metric_mobile_fit": 9.18, "metric_aspect_ratio": 1.471, "metric_area_km2": 15.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.501976, 40.64816 ], [ 14.4826124, 40.646829 ], [ 14.4794513, 40.6367876 ], [ 14.4668066, 40.6338167 ], [ 14.4632986, 40.625991299999988 ], [ 14.46862, 40.6202015 ], [ 14.488393, 40.6272933 ], [ 14.51085, 40.619977 ], [ 14.5179155, 40.621902499999983 ], [ 14.5105842, 40.631229199999986 ], [ 14.5117799, 40.6403673 ], [ 14.509469, 40.645654 ], [ 14.501976, 40.64816 ] ] ] } }
+]
+}

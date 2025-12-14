@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kolbingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kölbingen", "metric_roundness": 62.14, "metric_rectangularity": 70.49, "metric_mobile_fit": 71.83, "metric_aspect_ratio": 0.844, "metric_area_km2": 9.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9530569, 50.551579399999987 ], [ 7.942535, 50.5619931 ], [ 7.9323665, 50.565012499999987 ], [ 7.9267305, 50.5641755 ], [ 7.9283045, 50.560474499999984 ], [ 7.9260615, 50.559792 ], [ 7.9248755, 50.5567785 ], [ 7.9220055, 50.553977499999981 ], [ 7.918923, 50.5529815 ], [ 7.921894, 50.5436845 ], [ 7.9265372, 50.5447041 ], [ 7.930568, 50.5393225 ], [ 7.93845, 50.542442 ], [ 7.9530569, 50.551579399999987 ] ] ] } }
+]
+}

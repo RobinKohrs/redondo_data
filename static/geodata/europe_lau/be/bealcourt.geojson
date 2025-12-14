@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bealcourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Béalcourt", "metric_roundness": 53.36, "metric_rectangularity": 80.83, "metric_mobile_fit": 91.47, "metric_aspect_ratio": 0.648, "metric_area_km2": 8.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.181646, 50.183730499999974 ], [ 2.1852175, 50.186212 ], [ 2.188781, 50.186756 ], [ 2.1960963, 50.199987199999981 ], [ 2.187734, 50.209676499999986 ], [ 2.180842, 50.2101906 ], [ 2.178498, 50.207286499999988 ], [ 2.1693188, 50.1936683 ], [ 2.171701, 50.186105 ], [ 2.178989, 50.184221 ], [ 2.181646, 50.183730499999974 ] ] ] } }
+]
+}

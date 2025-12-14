@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pontecesures",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pontecesures", "metric_roundness": 31.84, "metric_rectangularity": 55.59, "metric_mobile_fit": -38.0, "metric_aspect_ratio": 1.943, "metric_area_km2": 11.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.604369, 42.7141795 ], [ -8.606578, 42.715126 ], [ -8.6173281, 42.7180972 ], [ -8.6253781, 42.7165049 ], [ -8.6510716, 42.7281461 ], [ -8.6558165, 42.720946399999988 ], [ -8.664856, 42.719665499999984 ], [ -8.6511783, 42.7058547 ], [ -8.6273204, 42.7089666 ], [ -8.616439, 42.7052681 ], [ -8.604476, 42.708748 ], [ -8.604369, 42.7141795 ] ] ] } }
+]
+}

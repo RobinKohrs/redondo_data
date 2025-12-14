@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_vale_do_seixo_e_vila_garcia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Vale do Seixo e Vila Garcia", "metric_roundness": 46.81, "metric_rectangularity": 66.21, "metric_mobile_fit": -20.81, "metric_aspect_ratio": 1.771, "metric_area_km2": 34.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.2647507, 40.775764699999989 ], [ -7.2582998, 40.7793794 ], [ -7.2197425, 40.7752055 ], [ -7.2195405, 40.775246 ], [ -7.217996, 40.795194299999984 ], [ -7.2088803, 40.8045755 ], [ -7.202025, 40.805426499999989 ], [ -7.2202325, 40.8124709 ], [ -7.2314248, 40.8073662 ], [ -7.2505465, 40.810241 ], [ -7.2891815, 40.803819499999982 ], [ -7.2856534, 40.802103 ], [ -7.2871816, 40.7909718 ], [ -7.273649, 40.7772105 ], [ -7.2647507, 40.775764699999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belec_nad_orlici",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Běleč nad Orlicí", "metric_roundness": 49.83, "metric_rectangularity": 68.86, "metric_mobile_fit": 56.9, "metric_aspect_ratio": 0.994, "metric_area_km2": 46.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.9679489, 50.189201 ], [ 15.9644947, 50.197217799999976 ], [ 15.9555614, 50.2043876 ], [ 15.943747, 50.205879 ], [ 15.934503, 50.204361 ], [ 15.9259723, 50.203668799999988 ], [ 15.9271264, 50.183594899999981 ], [ 15.917133, 50.170698 ], [ 15.9410638, 50.1608806 ], [ 15.9483506, 50.1631682 ], [ 15.9652051, 50.1577242 ], [ 15.992114, 50.1573435 ], [ 15.992435, 50.1770215 ], [ 15.9679489, 50.189201 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bergdietikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bergdietikon", "metric_roundness": 31.8, "metric_rectangularity": 56.35, "metric_mobile_fit": 70.53, "metric_aspect_ratio": 0.857, "metric_area_km2": 13.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.358264, 47.3972725 ], [ 8.3644375, 47.382813499999983 ], [ 8.3666985, 47.378055 ], [ 8.3875862, 47.3782974 ], [ 8.4003705, 47.3705295 ], [ 8.399588, 47.374854 ], [ 8.3947475, 47.381134299999985 ], [ 8.3944329, 47.3940782 ], [ 8.3788678, 47.3992813 ], [ 8.3665749, 47.399367099999985 ], [ 8.3623525, 47.402367 ], [ 8.3598085, 47.402342 ], [ 8.3581395, 47.4038845 ], [ 8.358264, 47.3972725 ] ] ] } }
+]
+}

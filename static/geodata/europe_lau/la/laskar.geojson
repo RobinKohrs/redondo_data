@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laskar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laskár", "metric_roundness": 34.46, "metric_rectangularity": 54.3, "metric_mobile_fit": 98.67, "metric_aspect_ratio": 0.576, "metric_area_km2": 8.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.8940268, 48.9576906 ], [ 18.8981515, 48.968751499999982 ], [ 18.8961282, 48.971540899999987 ], [ 18.8918043, 48.968587799999973 ], [ 18.87698, 48.970924 ], [ 18.8710035, 48.95673 ], [ 18.8815825, 48.9539855 ], [ 18.8918043, 48.9448652 ], [ 18.8938475, 48.940584 ], [ 18.8964495, 48.952983 ], [ 18.8940268, 48.9576906 ] ] ] } }
+]
+}

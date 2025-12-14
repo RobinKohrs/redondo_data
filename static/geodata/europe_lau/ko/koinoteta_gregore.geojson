@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_gregore",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γρηγόρη", "metric_roundness": 43.0, "metric_rectangularity": 72.94, "metric_mobile_fit": -11.94, "metric_aspect_ratio": 1.682, "metric_area_km2": 9.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9923645, 38.2329415 ], [ 21.9797855, 38.22814 ], [ 21.976107, 38.216192 ], [ 21.97587, 38.2135655 ], [ 21.9877855, 38.212387 ], [ 22.015619, 38.222238499999989 ], [ 22.0198739, 38.227507699999983 ], [ 22.011917, 38.2318855 ], [ 21.9923645, 38.2329415 ] ] ] } }
+]
+}

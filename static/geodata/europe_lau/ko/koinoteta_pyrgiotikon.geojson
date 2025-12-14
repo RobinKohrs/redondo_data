@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pyrgiotikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πυργιωτίκων", "metric_roundness": 61.74, "metric_rectangularity": 80.43, "metric_mobile_fit": 58.76, "metric_aspect_ratio": 0.975, "metric_area_km2": 10.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.892501, 37.6003195 ], [ 22.888477, 37.5984185 ], [ 22.8805745, 37.595753 ], [ 22.8775855, 37.594177499999986 ], [ 22.874021, 37.591354 ], [ 22.871902, 37.590275499999983 ], [ 22.867204, 37.58913 ], [ 22.863562, 37.586361 ], [ 22.8639135, 37.582271 ], [ 22.8801491, 37.5687181 ], [ 22.8901625, 37.5756265 ], [ 22.8988598, 37.5846029 ], [ 22.902437, 37.594133 ], [ 22.892501, 37.6003195 ] ] ] } }
+]
+}

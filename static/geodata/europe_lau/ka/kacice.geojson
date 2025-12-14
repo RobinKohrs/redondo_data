@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kacice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kačice", "metric_roundness": 50.83, "metric_rectangularity": 70.89, "metric_mobile_fit": -4.9, "metric_aspect_ratio": 1.612, "metric_area_km2": 15.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9879731, 50.153779199999988 ], [ 13.9989129, 50.152900599999981 ], [ 14.022123, 50.157927 ], [ 14.0228355, 50.163494 ], [ 14.0196035, 50.166593 ], [ 14.0090706, 50.165772299999986 ], [ 14.0105221, 50.1713796 ], [ 13.992626, 50.1750775 ], [ 13.978924, 50.173893499999984 ], [ 13.967045, 50.1635923 ], [ 13.980706, 50.158519 ], [ 13.9879731, 50.153779199999988 ] ] ] } }
+]
+}

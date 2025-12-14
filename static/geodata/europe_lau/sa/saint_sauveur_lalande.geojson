@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_sauveur_lalande",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Sauveur-Lalande", "metric_roundness": 47.29, "metric_rectangularity": 64.02, "metric_mobile_fit": 90.63, "metric_aspect_ratio": 0.656, "metric_area_km2": 19.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2483957, 44.9617092 ], [ 0.2621492, 44.9585727 ], [ 0.268445, 44.960635 ], [ 0.2714786, 44.975329099999989 ], [ 0.2612856, 44.9899565 ], [ 0.257845, 45.002823 ], [ 0.2397229, 44.996122699999987 ], [ 0.2395001, 44.9925541 ], [ 0.2471499, 44.986691199999981 ], [ 0.2351206, 44.9759583 ], [ 0.2304285, 44.96777 ], [ 0.2346711, 44.964967799999989 ], [ 0.2353005, 44.9609245 ], [ 0.2483957, 44.9617092 ] ] ] } }
+]
+}

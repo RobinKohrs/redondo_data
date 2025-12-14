@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bazeilles_sur_othain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bazeilles-sur-Othain", "metric_roundness": 49.29, "metric_rectangularity": 80.34, "metric_mobile_fit": 64.07, "metric_aspect_ratio": 0.922, "metric_area_km2": 17.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.415158, 49.482015 ], [ 5.425989, 49.486134 ], [ 5.4352565, 49.490840499999983 ], [ 5.4342715, 49.497122 ], [ 5.43802, 49.498418499999985 ], [ 5.442007, 49.5036195 ], [ 5.449629, 49.506074399999981 ], [ 5.4532333, 49.5113208 ], [ 5.4421534, 49.516945 ], [ 5.4294615, 49.5193855 ], [ 5.427536, 49.5151645 ], [ 5.4227085, 49.50976 ], [ 5.41377, 49.5050445 ], [ 5.400189, 49.4921765 ], [ 5.40537, 49.487901 ], [ 5.415158, 49.482015 ] ] ] } }
+]
+}

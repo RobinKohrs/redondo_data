@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eching_am_ammersee",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eching am Ammersee", "metric_roundness": 41.1, "metric_rectangularity": 58.22, "metric_mobile_fit": 74.47, "metric_aspect_ratio": 0.818, "metric_area_km2": 14.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.1038947, 48.068569399999987 ], [ 11.1058295, 48.063747 ], [ 11.1103262, 48.0691127 ], [ 11.134426, 48.081255 ], [ 11.1369715, 48.097617 ], [ 11.0993485, 48.090669 ], [ 11.1024367, 48.0796369 ], [ 11.0955125, 48.074999699999985 ], [ 11.0979125, 48.069184499999984 ], [ 11.1038947, 48.068569399999987 ] ] ] } }
+]
+}

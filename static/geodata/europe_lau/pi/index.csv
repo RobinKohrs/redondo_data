@@ -1,0 +1,581 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Pinsdorf,pinsdorf,pi,41.68,50.12,42.22
+europe_lau,Pierbach,pierbach,pi,38.06,63.16,92.85
+europe_lau,Pitín,pitin,pi,39.65,71.16,85.37
+europe_lau,Pilníkov,pilnikov,pi,37.55,53.93,97.23
+europe_lau,Písečná,pisecna,pi,39.07,60.1,55.63
+europe_lau,Piberbach,piberbach,pi,50.05,71.36,87.35
+europe_lau,Pivín,pivin,pi,52.05,69.32,60.25
+europe_lau,Písečné,pisecne,pi,39.34,45.55,41.63
+europe_lau,Pivkovice,pivkovice,pi,56.72,69.33,54.12
+europe_lau,"Pinneberg, Stadt",pinneberg_stadt,pi,39.8,63.09,94.81
+europe_lau,Pilsbach,pilsbach,pi,57.02,66.34,52.17
+europe_lau,Pitzenberg,pitzenberg,pi,64.08,74.72,58.6
+europe_lau,Pichl bei Wels,pichl_bei_wels,pi,52.61,68.19,43.74
+europe_lau,Piesendorf,piesendorf,pi,45.85,57.41,84.69
+europe_lau,Pillig,pillig,pi,45.4,56.49,36.82
+europe_lau,Pickließem,pickliessem,pi,56.07,75.7,21.25
+europe_lau,"Pirmasens, Stadt",pirmasens_stadt,pi,48,57.62,45.39
+europe_lau,Pischelsdorf am Kulm,pischelsdorf_am_kulm,pi,39.05,62.37,38.5
+europe_lau,Piesport,piesport,pi,30.03,60.64,44.96
+europe_lau,Pintesfeld,pintesfeld,pi,50.35,64.46,62.83
+europe_lau,Pittenbach,pittenbach,pi,37.27,78.17,-14.24
+europe_lau,Pinggau,pinggau,pi,23.83,55.66,61.46
+europe_lau,Pirching am Traubenberg,pirching_am_traubenberg,pi,28.75,59.42,83.26
+europe_lau,"Pilsting, M",pilsting_m,pi,54.13,61.98,34.44
+europe_lau,Piding,piding,pi,35.41,49.27,42.9
+europe_lau,Pittenhart,pittenhart,pi,50.52,67.72,48.99
+europe_lau,Pilgersdorf,pilgersdorf,pi,42.78,71.46,88.03
+europe_lau,Piringsdorf,piringsdorf,pi,52.61,70.49,62.65
+europe_lau,Pirk,pirk,pi,51.75,63.41,44.43
+europe_lau,Pingelshagen,pingelshagen,pi,42.21,55.71,75.45
+europe_lau,Pill,pill,pi,30.08,48.25,26.5
+europe_lau,Pilsach,pilsach,pi,36.46,57.37,68.79
+europe_lau,"Pirna, Stadt",pirna_stadt,pi,35.05,48.02,84.61
+europe_lau,Pittem,pittem,pi,58.22,77.87,79.31
+europe_lau,Piérnigas,piernigas,pi,42.15,62.58,87.03
+europe_lau,Pineda de la Sierra,pineda_de_la_sierra,pi,48.42,65.48,4.45
+europe_lau,Pineda Trasmonte,pineda_trasmonte,pi,34.73,52.64,96.24
+europe_lau,Pinilla de los Barruecos,pinilla_de_los_barruecos,pi,50.54,70.22,96.23
+europe_lau,Pinilla de los Moros,pinilla_de_los_moros,pi,60.11,73.42,54.23
+europe_lau,Pinilla Trasmonte,pinilla_trasmonte,pi,39.46,54.63,62.28
+europe_lau,Piedrahíta,piedrahita,pi,39.26,57.61,1.87
+europe_lau,Piedralaves,piedralaves,pi,61.77,79.09,59.94
+europe_lau,Pieterlen,pieterlen,pi,43.12,75.92,-22.82
+europe_lau,"Picazo, El",picazo_el,pi,36.02,47.17,71.75
+europe_lau,Pinarejo,pinarejo,pi,32.26,63.98,-95.49
+europe_lau,Pineda de Gigüela,pineda_de_giguela,pi,60.26,74.99,-0.83
+europe_lau,Piqueras del Castillo,piqueras_del_castillo,pi,66.58,74.98,32.63
+europe_lau,Pina de Montalgrao,pina_de_montalgrao,pi,40.25,54.71,32.76
+europe_lau,Piera,piera,pi,30.43,58.96,95.64
+europe_lau,Pineda de Mar,pineda_de_mar,pi,30.31,46.55,-6.9
+europe_lau,Пирдоп,pirdop,pi,58.78,64.48,55.88
+europe_lau,Pinos Genil,pinos_genil,pi,68.26,79.4,57.4
+europe_lau,Pinos Puente,pinos_puente,pi,25.08,38,39.2
+europe_lau,Picón,picon,pi,48.33,53.26,69.04
+europe_lau,Piedrabuena,piedrabuena,pi,49.57,70.88,27.23
+europe_lau,"Pinós, el",pinos_el,pi,46.06,68.18,90.62
+europe_lau,Píñar,pinar,pi,61.25,62.46,45.57
+europe_lau,"Pinar, El",pinar_el,pi,44.85,57.52,29.15
+europe_lau,Pilar de la Horadada,pilar_de_la_horadada,pi,30.76,65.89,35.63
+europe_lau,Piedras Albas,piedras_albas,pi,54.11,69.39,-2.21
+europe_lau,Pinofranqueado,pinofranqueado,pi,42.7,59.5,65.75
+europe_lau,Piornal,piornal,pi,39.56,58.68,63.11
+europe_lau,"Pino, O",pino_o,pi,41.28,52.94,56.01
+europe_lau,Pinzberg,pinzberg,pi,59.35,70.32,57.17
+europe_lau,Pirow,pirow,pi,37.09,60.25,60.32
+europe_lau,Pinnow,pinnow,pi,61.07,65.84,64.37
+europe_lau,Pielenhofen,pielenhofen,pi,40.12,47.14,32.14
+europe_lau,Pians,pians,pi,40.85,70.63,-0.24
+europe_lau,Pinkafeld,pinkafeld,pi,52.85,65.8,62.85
+europe_lau,Picher,picher,pi,47.1,64.44,74.63
+europe_lau,Pinnow,pinnow,pi,58.64,66.08,82.45
+europe_lau,Pinswang,pinswang,pi,31.68,57.98,-4.2
+europe_lau,Piencourt,piencourt,pi,41.32,66.74,91.1
+europe_lau,Pinterville,pinterville,pi,67.83,71.4,33.54
+europe_lau,Piseux,piseux,pi,50.45,70.74,-0.74
+europe_lau,Pîtres,pitres,pi,49.59,55.21,67.64
+europe_lau,Piégut-Pluviers,piegut_pluviers,pi,48.93,60.66,54.89
+europe_lau,Pierrafortscha,pierrafortscha,pi,50.41,58.06,69.13
+europe_lau,Piégut,piegut,pi,53.16,61.99,74.31
+europe_lau,Pierrerue,pierrerue,pi,45.33,63.42,75.35
+europe_lau,Pierrevert,pierrevert,pi,53.4,73.33,28.11
+europe_lau,Pichanges,pichanges,pi,42.85,59.06,42.79
+europe_lau,Pierrefiche,pierrefiche,pi,38.12,61.05,39.83
+europe_lau,Pigny,pigny,pi,45.04,65.42,88.63
+europe_lau,Pisany,pisany,pi,54.19,76.49,59.26
+europe_lau,Pierrefitte-sur-Loire,pierrefitte_sur_loire,pi,57.52,63.68,49.34
+europe_lau,Pieksämäki,pieksamaki,pi,50.5,59.85,65.27
+europe_lau,Pielavesi,pielavesi,pi,53.29,65,61.24
+europe_lau,Pietarsaari,pietarsaari,pi,43.34,50.62,33.39
+europe_lau,Pihtipudas,pihtipudas,pi,43.91,64.97,22.69
+europe_lau,Pirkkala,pirkkala,pi,44.25,64.95,59.38
+europe_lau,Pieusse,pieusse,pi,53.08,66.95,44.93
+europe_lau,Pierrefontaine-lès-Blamont,pierrefontaine_les_blamont,pi,39.39,69.98,-61.6
+europe_lau,Pierrefontaine-les-Varans,pierrefontaine_les_varans,pi,53.93,64.34,26.11
+europe_lau,Pirey,pirey,pi,47.67,67.38,91.2
+europe_lau,Pirajoux,pirajoux,pi,29.06,54.18,58.69
+europe_lau,Pizay,pizay,pi,35.89,65.55,97.44
+europe_lau,Pierlas,pierlas,pi,69.92,78.58,62.68
+europe_lau,Pierrefeu,pierrefeu,pi,46.77,72.54,99.59
+europe_lau,Pierrefitte-en-Auge,pierrefitte_en_auge,pi,46.93,68.51,99.79
+europe_lau,Pierrefitte-en-Cinglais,pierrefitte_en_cinglais,pi,46.11,50.65,70.13
+europe_lau,Pierrepont,pierrepont,pi,38.93,52.77,96.75
+europe_lau,Pitarque,pitarque,pi,53.45,72.24,76.5
+europe_lau,Pinilla del Campo,pinilla_del_campo,pi,31.78,47.7,6.97
+europe_lau,Piracés,piraces,pi,58.75,63.46,44.78
+europe_lau,Pinarejos,pinarejos,pi,44.67,66.09,-10.13
+europe_lau,Pinarnegrillo,pinarnegrillo,pi,29.37,54.13,-46.84
+europe_lau,Pinilla de Jadraque,pinilla_de_jadraque,pi,66.79,70.41,69.33
+europe_lau,Pinilla de Molina,pinilla_de_molina,pi,45.6,66.9,49.95
+europe_lau,Pioz,pioz,pi,70.61,73.06,51.53
+europe_lau,Piqueras,piqueras,pi,46.35,69.89,71.69
+europe_lau,Picanya,picanya,pi,44.16,63.35,86.02
+europe_lau,Picassent,picassent,pi,62.73,69.6,54.45
+europe_lau,Piles,piles,pi,48.27,87.51,1.4
+europe_lau,Pinet,pinet,pi,34.83,56.19,26.07
+europe_lau,Pino del Río,pino_del_rio,pi,35,41.92,30.16
+europe_lau,Piña de Campos,pina_de_campos,pi,62.28,79.92,69.08
+europe_lau,Pinedas,pinedas,pi,42.28,73.92,59.03
+europe_lau,"Pino de Tormes, El",pino_de_tormes_el,pi,46.58,73.98,50.86
+europe_lau,Pitiegua,pitiegua,pi,51.89,60.05,70.55
+europe_lau,Pizarral,pizarral,pi,71.7,82.16,55.48
+europe_lau,Piedramillera,piedramillera,pi,42.87,62.02,80.87
+europe_lau,Pitillas,pitillas,pi,41.3,58.98,20.96
+europe_lau,Pinell de Solsonès,pinell_de_solsones,pi,48.15,54.27,29.36
+europe_lau,Pinós,pinos,pi,54.14,62.28,65.91
+europe_lau,Pinilla del Valle,pinilla_del_valle,pi,25.75,72.96,81.01
+europe_lau,Pinto,pinto,pi,54.68,64.39,59.54
+europe_lau,Piñuécar-Gandullas,pinuecar_gandullas,pi,23.07,49.72,85.57
+europe_lau,"Piles, Les",piles_les,pi,43.41,58.85,57.66
+europe_lau,"Pinell de Brai, El",pinell_de_brai_el,pi,56.37,76.99,44.51
+europe_lau,Pira,pira,pi,46.82,60.51,86.5
+europe_lau,Pías,pias,pi,36.26,71.84,53.74
+europe_lau,Piedrahita de Castro,piedrahita_de_castro,pi,65.92,72.87,66.89
+europe_lau,Pinilla de Toro,pinilla_de_toro,pi,53.63,71.5,33.07
+europe_lau,Pino del Oro,pino_del_oro,pi,70,76.54,54.78
+europe_lau,"Piñero, El",pinero_el,pi,64.34,75.95,61.88
+europe_lau,Pilas,pilas,pi,37.73,43.07,34.28
+europe_lau,Piña de Esgueva,pina_de_esgueva,pi,60.5,69.18,73.67
+europe_lau,Piñel de Abajo,pinel_de_abajo,pi,35.42,59.77,15.92
+europe_lau,Piñel de Arriba,pinel_de_arriba,pi,40.49,53.57,6.99
+europe_lau,"Pinar de El Hierro, El",pinar_de_el_hierro_el,pi,26.89,42.58,-32.63
+europe_lau,Pierremande,pierremande,pi,42.08,57.28,21.05
+europe_lau,Pierrepont,pierrepont,pi,48.68,64.49,28.01
+europe_lau,Pignicourt,pignicourt,pi,36.7,45.23,80.47
+europe_lau,Pinon,pinon,pi,54.97,66.36,30.61
+europe_lau,Pithon,pithon,pi,52.68,73.97,89.84
+europe_lau,Piney,piney,pi,37.97,60.5,83.03
+europe_lau,Piedratajada,piedratajada,pi,59.15,66.05,71.11
+europe_lau,Pina de Ebro,pina_de_ebro,pi,40.16,47.14,14.66
+europe_lau,Pinseque,pinseque,pi,51.81,79.26,19.79
+europe_lau,"Pintanos, Los",pintanos_los,pi,45.28,59.52,59.03
+europe_lau,Piñor,pinor,pi,46.07,53.44,66.41
+europe_lau,Pierrefort,pierrefort,pi,58.28,71.28,84.79
+europe_lau,Pinillos,pinillos,pi,38.16,56.53,51.29
+europe_lau,Pizarra,pizarra,pi,61.22,72.82,23.47
+europe_lau,Piélagos,pielagos,pi,34.7,45,78.7
+europe_lau,Piloña,pilona,pi,59.68,65.41,54.74
+europe_lau,Pisseleu,pisseleu,pi,60.86,70.2,30.63
+europe_lau,Piennes,piennes,pi,46.49,68.27,12.5
+europe_lau,Pierre-la-Treiche,pierre_la_treiche,pi,24.99,50.84,-74.52
+europe_lau,Pierre-Percée,pierre_percee,pi,41.55,69.94,85.1
+europe_lau,Pierrepont,pierrepont,pi,41.33,70.5,46.18
+europe_lau,Pierreville,pierreville,pi,49.7,73.59,74.39
+europe_lau,Pierrefiche,pierrefiche,pi,43.25,61.22,46.15
+europe_lau,Pierremont-sur-Amance,pierremont_sur_amance,pi,58.76,77.49,89.22
+europe_lau,Pisseloup,pisseloup,pi,32.29,77.6,77.7
+europe_lau,Picauville,picauville,pi,47.15,54.33,84.82
+europe_lau,Pierreville,pierreville,pi,48.22,58.78,37.01
+europe_lau,Pirou,pirou,pi,41.73,67.28,39.94
+europe_lau,Pinay,pinay,pi,41.99,48.45,28.36
+europe_lau,Pierrefitte-ès-Bois,pierrefitte_es_bois,pi,62.19,79.06,70.6
+europe_lau,Pithiviers,pithiviers,pi,52.01,67.28,86.02
+europe_lau,Pithiviers-le-Vieil,pithiviers_le_vieil,pi,52.57,59.33,66.05
+europe_lau,Pindères,pinderes,pi,38.73,58.46,0.42
+europe_lau,Pinel-Hauterive,pinel_hauterive,pi,33.86,62.59,90.56
+europe_lau,Pierric,pierric,pi,26.77,55.3,-82.66
+europe_lau,Piriac-sur-Mer,piriac_sur_mer,pi,37.95,52.04,19.97
+europe_lau,Πιλερί,pileri,pi,63.01,80.92,80.75
+europe_lau,Pierrefitte-sur-Sauldre,pierrefitte_sur_sauldre,pi,45.97,50.95,56.55
+europe_lau,Pierre-Morains,pierre_morains,pi,59.24,61.4,49.28
+europe_lau,Pierry,pierry,pi,38.66,64.81,-34.37
+europe_lau,Pied-de-Borne,pied_de_borne,pi,21.63,49.17,80.62
+europe_lau,Picherande,picherande,pi,54.93,73.78,52.6
+europe_lau,Pignols,pignols,pi,43.87,60.77,78.31
+europe_lau,Pionsat,pionsat,pi,45.38,57.76,17.92
+europe_lau,Πιταργού,pitargou,pi,55.89,70.36,34.64
+europe_lau,Pierres,pierres,pi,47.42,63.92,73.88
+europe_lau,Pierrefitte-en-Beauvaisis,pierrefitte_en_beauvaisis,pi,27.36,46.66,-19.49
+europe_lau,Pierrefonds,pierrefonds,pi,65.55,72.46,49.51
+europe_lau,Pimprez,pimprez,pi,40.61,66.07,98.37
+europe_lau,Pinols,pinols,pi,34.92,58.66,53.81
+europe_lau,Πισσούρι,pissouri,pi,52.72,63.32,24.05
+europe_lau,Pinsac,pinsac,pi,53.89,59.96,65.34
+europe_lau,Pineuilh,pineuilh,pi,40.23,49.39,80.84
+europe_lau,Pierrefitte,pierrefitte,pi,48.82,66.45,91.5
+europe_lau,Pionnat,pionnat,pi,50.04,60.4,79.49
+europe_lau,Pierrerue,pierrerue,pi,22.82,48.41,63.41
+europe_lau,Pignan,pignan,pi,39.56,52.41,14.71
+europe_lau,Pinet,pinet,pi,60.54,75.6,46.91
+europe_lau,Pierrefitte,pierrefitte,pi,44.48,60.14,11.16
+europe_lau,Picarreau,picarreau,pi,58.27,68.72,32.03
+europe_lau,Pillemoine,pillemoine,pi,46.99,69.79,89.36
+europe_lau,Pimorin,pimorin,pi,43.77,73.44,98.79
+europe_lau,Pibrac,pibrac,pi,51.59,70.75,18.8
+europe_lau,Pin-Balma,pin_balma,pi,68.33,68.21,65.38
+europe_lau,Pinsaguel,pinsaguel,pi,40.47,51.78,54.83
+europe_lau,Pins-Justaret,pins_justaret,pi,39.02,62.62,21.34
+europe_lau,Pianello,pianello,pi,48.33,73.62,98.36
+europe_lau,Piazzali,piazzali,pi,62.98,85.52,46.01
+europe_lau,Piazzole,piazzole,pi,48.12,78.11,16.79
+europe_lau,Piedicorte-di-Gaggio,piedicorte_di_gaggio,pi,41.75,59.4,98.51
+europe_lau,Piedicroce,piedicroce,pi,25.5,43.32,45.25
+europe_lau,Piedigriggio,piedigriggio,pi,47.65,69.55,36.12
+europe_lau,Piedipartino,piedipartino,pi,26.72,47.98,72.36
+europe_lau,Pie-d'Orezza,pie_d_orezza,pi,50.18,61.01,60.94
+europe_lau,Pietralba,pietralba,pi,56.65,62.28,52.69
+europe_lau,Pietracorbara,pietracorbara,pi,45.27,81.21,-43.12
+europe_lau,Pietra-di-Verde,pietra_di_verde,pi,58.25,68.56,68.82
+europe_lau,Pietricaggio,pietricaggio,pi,43.09,80.6,11.29
+europe_lau,Pietroso,pietroso,pi,16.16,38.46,35.09
+europe_lau,Piève,pieve,pi,16.09,25.98,95.44
+europe_lau,Pigna,pigna,pi,24.75,50.25,-50.47
+europe_lau,Pino,pino,pi,48.9,66.07,44.6
+europe_lau,Piobetta,piobetta,pi,30.16,65.22,18.21
+europe_lau,Pioggiola,pioggiola,pi,22.88,55.77,46.02
+europe_lau,Pis,pis,pi,50.85,74.63,70.02
+europe_lau,Pipriac,pipriac,pi,44.59,57.57,42.46
+europe_lau,Piré-Chancé,pire_chance,pi,44.47,54,44.22
+europe_lau,Pimbo,pimbo,pi,47.47,56.2,32.87
+europe_lau,Pissos,pissos,pi,51.39,72.72,1.82
+europe_lau,Pillac,pillac,pi,45.95,53.53,55.58
+europe_lau,Piana,piana,pi,46.76,65.75,9.38
+europe_lau,Pianottoli-Caldarello,pianottoli_caldarello,pi,25.37,44.51,97.17
+europe_lau,Pietrosella,pietrosella,pi,49.53,60.73,33.21
+europe_lau,Piégon,piegon,pi,25.07,53.77,16.74
+europe_lau,Piégros-la-Clastre,piegros_la_clastre,pi,49.9,66.08,47.19
+europe_lau,Pierrelatte,pierrelatte,pi,62.8,79.77,88.13
+europe_lau,Pierrelongue,pierrelongue,pi,34.96,69.31,90.92
+europe_lau,Pierre-Châtel,pierre_chatel,pi,61.88,75.61,68.29
+europe_lau,Pisieu,pisieu,pi,34,64.94,89.6
+europe_lau,Pierre-Bénite,pierre_benite,pi,56.73,67.89,39.84
+europe_lau,Pičín,picin,pi,23.6,42.54,93.38
+europe_lau,Picquigny,picquigny,pi,32.68,37.66,68.39
+europe_lau,Piennes-Onvillers,piennes_onvillers,pi,46.8,52.17,46.5
+europe_lau,Pierregot,pierregot,pi,60.39,80.31,83.93
+europe_lau,Pissy,pissy,pi,64.04,70.69,36.2
+europe_lau,Pierre-Perthuis,pierre_perthuis,pi,56.82,82.62,48
+europe_lau,Piffonds,piffonds,pi,46.39,69.5,10.38
+europe_lau,Pimelles,pimelles,pi,59.2,71.55,55.54
+europe_lau,Pisy,pisy,pi,26.32,46.04,94.44
+europe_lau,Pierreclos,pierreclos,pi,55.97,67.43,28.79
+europe_lau,Pierre-de-Bresse,pierre_de_bresse,pi,53.71,62.34,31.28
+europe_lau,Pierrefitte,pierrefitte,pi,42.62,71.36,94.44
+europe_lau,Pierrepont-sur-l'Arentèle,pierrepont_sur_l_arentele,pi,53.72,71.97,34.08
+europe_lau,Pićan,pican,pi,35.89,68.34,95.97
+europe_lau,Pisarovina,pisarovina,pi,60.88,68.78,62.79
+europe_lau,Pierrefitte-sur-Seine,pierrefitte_sur_seine,pi,48.55,78.03,97.87
+europe_lau,Pierrefeu-du-Var,pierrefeu_du_var,pi,57.35,74.24,3.82
+europe_lau,Pignans,pignans,pi,42.92,71.03,51.01
+europe_lau,Pierre-Buffière,pierre_buffiere,pi,51.67,67.49,43.29
+europe_lau,Písková Lhota,piskova_lhota,pi,36.29,67.14,99.36
+europe_lau,Písková Lhota,piskova_lhota,pi,52.4,64.73,58.19
+europe_lau,Písty,pisty,pi,32.64,50.44,-0.05
+europe_lau,Piquecos,piquecos,pi,30.05,48.22,72.07
+europe_lau,Pillichsdorf,pillichsdorf,pi,38.14,73.42,97.38
+europe_lau,Pierrefitte-Nestalas,pierrefitte_nestalas,pi,37.01,63.71,72.57
+europe_lau,Pinas,pinas,pi,48.34,67.71,41.49
+europe_lau,Pintac,pintac,pi,55.87,80.35,68.68
+europe_lau,Piolenc,piolenc,pi,44.01,60.18,61.56
+europe_lau,Pierrelaye,pierrelaye,pi,41.01,59.68,30.13
+europe_lau,Piscop,piscop,pi,46.65,62.37,23.9
+europe_lau,Pindray,pindray,pi,62.21,69.26,54.64
+europe_lau,Piacé,piace,pi,51.66,75.38,0.81
+europe_lau,Pincé,pince,pi,50.77,68.55,42.71
+europe_lau,Pirmil,pirmil,pi,54.07,58.57,58.76
+europe_lau,Pizieux,pizieux,pi,42.97,61.33,99.64
+europe_lau,Pierrefitte-sur-Aire,pierrefitte_sur_aire,pi,23.2,63.26,-13.07
+europe_lau,Pillon,pillon,pi,55.99,70.17,44.77
+europe_lau,Pintheville,pintheville,pi,66.27,77.58,47.48
+europe_lau,Píšť,pist,pi,60.43,64.06,45.45
+europe_lau,Pištín,pistin,pi,31.17,56.1,85.67
+europe_lau,Pitgam,pitgam,pi,52.84,66.57,65.52
+europe_lau,Pierrecourt,pierrecourt,pi,54.61,69.44,39.94
+europe_lau,Pierrefiques,pierrefiques,pi,31.53,51.84,96.33
+europe_lau,Pierreval,pierreval,pi,53.95,61.3,52.9
+europe_lau,Pissy-Pôville,pissy_poville,pi,64.99,67.49,47.87
+europe_lau,Pia,pia,pi,57.37,68.69,64.3
+europe_lau,Piblange,piblange,pi,45.16,66.27,-5.05
+europe_lau,Pierrevillers,pierrevillers,pi,43.55,68.41,8.89
+europe_lau,Písek,pisek,pi,32.32,64.4,91.68
+europe_lau,Pierremont,pierremont,pi,44.14,62.6,66.45
+europe_lau,Pihem,pihem,pi,53.5,71.31,77.76
+europe_lau,Pihen-lès-Guînes,pihen_les_guines,pi,62.38,69.84,41.25
+europe_lau,Pittefaux,pittefaux,pi,35.68,67.5,-16.39
+europe_lau,Piets-Plasence-Moustrou,piets_plasence_moustrou,pi,57.82,66.77,47.94
+europe_lau,Pierrecourt,pierrecourt,pi,61.94,66.28,53.15
+europe_lau,Pin,pin,pi,43.57,70.61,99.28
+europe_lau,Pizzo,pizzo,pi,16.64,40.3,92.5
+europe_lau,Pizzoni,pizzoni,pi,19.68,59.02,-51.01
+europe_lau,Pignataro Maggiore,pignataro_maggiore,pi,30.01,66.56,58.87
+europe_lau,Pianezze,pianezze,pi,30.23,63.23,97.32
+europe_lau,Piovene Rocchette,piovene_rocchette,pi,53.91,62.39,73.99
+europe_lau,Pincara,pincara,pi,30.64,59.83,-28.44
+europe_lau,Pilzno,pilzno,pi,51.39,69.39,-2.36
+europe_lau,Pizzoli,pizzoli,pi,35.48,54.13,49.03
+europe_lau,Pietramontecorvino,pietramontecorvino,pi,30.95,48.91,-20.25
+europe_lau,Pieniężno,pieniezno,pi,39.45,49.49,27.17
+europe_lau,Piana degli Albanesi,piana_degli_albanesi,pi,39.58,59.26,68.61
+europe_lau,Pianico,pianico,pi,45.88,62.27,9.29
+europe_lau,Piario,piario,pi,29.55,74.15,43.89
+europe_lau,Piazza Brembana,piazza_brembana,pi,38.15,63.1,58.07
+europe_lau,Piedimulera,piedimulera,pi,38.09,46.44,60.59
+europe_lau,Pieve Vergonte,pieve_vergonte,pi,67.88,64.37,46.94
+europe_lau,Pisz,pisz,pi,42.78,52.19,67.84
+europe_lau,Piazzatorre,piazzatorre,pi,54.72,71.28,69.46
+europe_lau,Piazzolo,piazzolo,pi,47.31,68.01,67.55
+europe_lau,Pieve di Cadore,pieve_di_cadore,pi,27.74,56.35,45.17
+europe_lau,Pietra de' Giorgi,pietra_de_giorgi,pi,45.47,56.64,57.83
+europe_lau,Pieve Albignola,pieve_albignola,pi,58.31,72.87,78.59
+europe_lau,Pieve del Cairo,pieve_del_cairo,pi,50.49,59.46,47.36
+europe_lau,Pieve Porto Morone,pieve_porto_morone,pi,37.11,58.03,-34.06
+europe_lau,Pinarolo Po,pinarolo_po,pi,32.13,52.9,78.33
+europe_lau,Pizzale,pizzale,pi,34.38,54.91,98.47
+europe_lau,Piątnica,piatnica,pi,48.69,62.03,64.25
+europe_lau,Pietracamela,pietracamela,pi,43.57,63.17,99.54
+europe_lau,Pineto,pineto,pi,46.27,67.82,69.79
+europe_lau,Piechowice,piechowice,pi,37,62.5,92.95
+europe_lau,Písek,pisek,pi,55.6,63.55,64.12
+europe_lau,Piazza al Serchio,piazza_al_serchio,pi,40.75,48.34,54.59
+europe_lau,Pietrasanta,pietrasanta,pi,54.34,75.39,68.24
+europe_lau,Pieve Fosciana,pieve_fosciana,pi,21.91,43,-18.45
+europe_lau,Pieve a Nievole,pieve_a_nievole,pi,22.55,59.04,85.83
+europe_lau,Pistoia,pistoia,pi,43.19,61.5,90.17
+europe_lau,Pisoniano,pisoniano,pi,59.9,69.08,60.81
+europe_lau,Pieve di Soligo,pieve_di_soligo,pi,33.77,63.43,92.4
+europe_lau,Pieve Tesino,pieve_tesino,pi,30.1,47.29,95.27
+europe_lau,Pinzolo,pinzolo,pi,34.91,52.63,81.35
+europe_lau,Pieve di Bono-Prezzo,pieve_di_bono_prezzo,pi,24.76,43.39,-38.67
+europe_lau,Pieve del Grappa,pieve_del_grappa,pi,36.12,64.9,98.61
+europe_lau,Pianella,pianella,pi,46.6,62.82,26.47
+europe_lau,Picciano,picciano,pi,60.47,70.22,82.73
+europe_lau,Pietranico,pietranico,pi,44.39,57.76,58.31
+europe_lau,Piacenza,piacenza,pi,47.37,59.96,24.48
+europe_lau,Pianello Val Tidone,pianello_val_tidone,pi,32.41,58.13,83.16
+europe_lau,Piozzano,piozzano,pi,41.94,59.43,89
+europe_lau,Pieńsk,piensk,pi,21.58,35.11,67.24
+europe_lau,Pielgrzymka,pielgrzymka,pi,50.98,56.96,71.08
+europe_lau,Pieszyce,pieszyce,pi,52.35,72.74,70.26
+europe_lau,Piława Górna,pilawa_gorna,pi,62.04,72.7,54.69
+europe_lau,Pietradefusi,pietradefusi,pi,48.82,57.12,66.77
+europe_lau,Pietrastornina,pietrastornina,pi,44.79,67.39,46.25
+europe_lau,Pianoro,pianoro,pi,56.96,66.47,80.45
+europe_lau,Pieve di Cento,pieve_di_cento,pi,14.36,48.33,57.87
+europe_lau,Pisa,pisa,pi,56.8,67.52,76.9
+europe_lau,Pimentel,pimentel,pi,47.17,76.41,76.26
+europe_lau,Piscinas,piscinas,pi,50.27,65.65,84.87
+europe_lau,Piotrków Kujawski,piotrkow_kujawski,pi,50.52,54.18,38.43
+europe_lau,Pianiga,pianiga,pi,28.07,44.06,-26.24
+europe_lau,Piaseczno,piaseczno,pi,48.79,60.2,33.49
+europe_lau,Piastów,piastow,pi,70.71,79.5,53.28
+europe_lau,Pizzoferrato,pizzoferrato,pi,56.52,77.35,67.19
+europe_lau,Pietraferrazzana,pietraferrazzana,pi,64.71,76.52,66.74
+europe_lau,Piaski,piaski,pi,61.15,67.02,59.19
+europe_lau,Piantedo,piantedo,pi,22.35,58.38,74.62
+europe_lau,Piateda,piateda,pi,36.37,49.78,75.39
+europe_lau,Piuro,piuro,pi,17.54,56.4,71.82
+europe_lau,Piaggine,piaggine,pi,33.45,54.04,23.39
+europe_lau,Pisciotta,pisciotta,pi,35.34,53.59,66.42
+europe_lau,Piandimeleto,piandimeleto,pi,32.94,43.18,52.28
+europe_lau,Pietrarubbia,pietrarubbia,pi,59.3,70.82,62.69
+europe_lau,Piobbico,piobbico,pi,44.21,70.39,23.82
+europe_lau,Pieve Fissiraga,pieve_fissiraga,pi,53.56,58.33,77.2
+europe_lau,Piraino,piraino,pi,59.86,77.41,29.44
+europe_lau,Picinisco,picinisco,pi,47.07,60.02,59.52
+europe_lau,Pico,pico,pi,43.36,66.59,43.42
+europe_lau,Piedimonte San Germano,piedimonte_san_germano,pi,27.81,61.76,79.77
+europe_lau,Piglio,piglio,pi,53.51,66.42,47.52
+europe_lau,Pignataro Interamna,pignataro_interamna,pi,54.83,65.37,25.33
+europe_lau,Pian Camuno,pian_camuno,pi,24.6,47.53,9.44
+europe_lau,Pisogne,pisogne,pi,42.31,64.57,11.45
+europe_lau,Piacenza d'Adige,piacenza_d_adige,pi,39.64,51.52,64.52
+europe_lau,Piazzola sul Brenta,piazzola_sul_brenta,pi,31.6,63.71,69.42
+europe_lau,Piombino Dese,piombino_dese,pi,40.24,55.73,22.31
+europe_lau,Piove di Sacco,piove_di_sacco,pi,41.72,47.44,56.66
+europe_lau,Pietracatella,pietracatella,pi,67.31,66.3,49.8
+europe_lau,Pietracupa,pietracupa,pi,48.8,61.32,89.89
+europe_lau,Piła,pila,pi,55.23,61.94,72.32
+europe_lau,Piazza Armerina,piazza_armerina,pi,31.91,55.28,-16.09
+europe_lau,Pietraperzia,pietraperzia,pi,50.97,71.88,79.41
+europe_lau,Pieve Torina,pieve_torina,pi,36.65,48.82,36.59
+europe_lau,Pioraco,pioraco,pi,42.55,62.38,6.13
+europe_lau,Piancogno,piancogno,pi,19.08,34.18,-49.7
+europe_lau,Pieve Emanuele,pieve_emanuele,pi,33.87,63.74,74.34
+europe_lau,Pioltello,pioltello,pi,44.56,63.77,95.82
+europe_lau,Pila,pila,pi,49.53,60.36,81.97
+europe_lau,Piedimonte Etneo,piedimonte_etneo,pi,12.6,32.66,-26.75
+europe_lau,Piana di Monte Verna,piana_di_monte_verna,pi,56.3,66.51,83.12
+europe_lau,Piedimonte Matese,piedimonte_matese,pi,32.83,54.49,43.4
+europe_lau,Pietramelara,pietramelara,pi,55.82,76.18,82.44
+europe_lau,Pietravairano,pietravairano,pi,59.77,72.54,65.62
+europe_lau,Piano di Sorrento,piano_di_sorrento,pi,43.25,61.64,44.26
+europe_lau,Pimonte,pimonte,pi,53.95,62.9,36.35
+europe_lau,Píšť,pist,pi,39.33,55.08,11.1
+europe_lau,Pietra Marazzi,pietra_marazzi,pi,48.25,53.01,50.31
+europe_lau,Pianopoli,pianopoli,pi,38.04,57.93,87.12
+europe_lau,Piltown,piltown,pi,59.12,63.53,27.32
+europe_lau,Písařov,pisarov,pi,42.09,63.92,80.41
+europe_lau,Pierrefitte,pierrefitte,pi,42.93,67.17,63.67
+europe_lau,Piricse,piricse,pi,40.13,63.64,57.54
+europe_lau,Písečná,pisecna,pi,35.99,55.92,63.58
+europe_lau,Pianfei,pianfei,pi,28.83,46.63,99.7
+europe_lau,Piasco,piasco,pi,62.74,75.64,17.32
+europe_lau,Pietraporzio,pietraporzio,pi,50.04,65.03,81.23
+europe_lau,Piobesi d'Alba,piobesi_d_alba,pi,64.98,69.15,49.17
+europe_lau,Piozzo,piozzo,pi,52.94,72.18,67.8
+europe_lau,Pilisszentlászló,pilisszentlaszlo,pi,48.02,61.98,27.42
+europe_lau,Piliscsév,piliscsev,pi,34.94,63.01,16.46
+europe_lau,Pissotte,pissotte,pi,38.8,58.74,85.95
+europe_lau,Pianezza,pianezza,pi,40.33,59.49,12.05
+europe_lau,Pinasca,pinasca,pi,59.05,72.52,69.8
+europe_lau,Pinerolo,pinerolo,pi,25.23,38.59,79.92
+europe_lau,Pino Torinese,pino_torinese,pi,60.36,73.57,74.3
+europe_lau,Piobesi Torinese,piobesi_torinese,pi,69.32,77.24,53.21
+europe_lau,Piossasco,piossasco,pi,44,69.41,14.03
+europe_lau,Piscina,piscina,pi,40.49,58.43,-7.15
+europe_lau,Piverone,piverone,pi,51.88,67.91,35.92
+europe_lau,Pitten,pitten,pi,50.95,59.87,34.66
+europe_lau,Piskó,pisko,pi,32.98,58.96,91.86
+europe_lau,Picerno,picerno,pi,55.51,69.14,28.17
+europe_lau,Pietragalla,pietragalla,pi,62.67,68.96,47.04
+europe_lau,Pietrapertosa,pietrapertosa,pi,29.88,52.58,91.27
+europe_lau,Pignola,pignola,pi,52.37,71.05,12.6
+europe_lau,Pietrabruna,pietrabruna,pi,40.46,71.14,-15.01
+europe_lau,Pieve di Teco,pieve_di_teco,pi,35.7,44.43,80.58
+europe_lau,Pigna,pigna,pi,48.52,61.45,51.29
+europe_lau,Pierre-Levée,pierre_levee,pi,57.97,61.89,59.8
+europe_lau,Pieve Santo Stefano,pieve_santo_stefano,pi,47.89,61.48,75.84
+europe_lau,Piancastagnaio,piancastagnaio,pi,59.09,70.86,20.88
+europe_lau,Pienza,pienza,pi,25.98,49.22,75.53
+europe_lau,Pitigliano,pitigliano,pi,32.05,66.84,-12.62
+europe_lau,Pilis,pilis,pi,52.6,77.6,73.79
+europe_lau,Píšťany,pistany,pi,57.98,68.07,36.9
+europe_lau,Pianengo,pianengo,pi,49.78,65.14,63.46
+europe_lau,Pieranica,pieranica,pi,56.09,69.38,73.83
+europe_lau,Pieve d'Olmi,pieve_d_olmi,pi,28.25,56.86,84.63
+europe_lau,Pieve San Giacomo,pieve_san_giacomo,pi,61.68,65.36,56.98
+europe_lau,Pizzighettone,pizzighettone,pi,65.74,71.07,55.44
+europe_lau,Piadena Drizzona,piadena_drizzona,pi,28.63,55.57,76.2
+europe_lau,Pievepelago,pievepelago,pi,48.68,64.52,87.23
+europe_lau,Pianello del Lario,pianello_del_lario,pi,29.89,75.42,-97.12
+europe_lau,Pigra,pigra,pi,49.72,55.72,65.88
+europe_lau,Pilisszántó,pilisszanto,pi,40.95,60.49,50.58
+europe_lau,Pilisszentkereszt,pilisszentkereszt,pi,51.76,71.3,-2.11
+europe_lau,Pisticci,pisticci,pi,35.37,78.32,-2.54
+europe_lau,Piana Crixia,piana_crixia,pi,41.54,61.59,22.15
+europe_lau,Pietra Ligure,pietra_ligure,pi,14.89,32.68,-58.63
+europe_lau,Pilisvörösvár,pilisvorosvar,pi,42.22,66.13,35.66
+europe_lau,Pilismarót,pilismarot,pi,37.29,61.22,96.2
+europe_lau,Pinnye,pinnye,pi,53.55,58.74,54.51
+europe_lau,Piea,piea,pi,57.75,72.75,40.83
+europe_lau,Piegaro,piegaro,pi,39.82,66.2,-44.63
+europe_lau,Pietralunga,pietralunga,pi,39.11,57.34,79.59
+europe_lau,Pila,pila,pi,45.63,67.76,96.9
+europe_lau,Piode,piode,pi,55.36,71.14,83.82
+europe_lau,Pino d'Asti,pino_d_asti,pi,28.74,65.5,67.28
+europe_lau,Piovà Massaia,piova_massaia,pi,38.3,57.4,92
+europe_lau,Piubega,piubega,pi,65.31,73.93,63.5
+europe_lau,Pirovac,pirovac,pi,52.02,69.45,70.43
+europe_lau,Pinkamindszent,pinkamindszent,pi,29.71,53.59,0.64
+europe_lau,Pitvaros,pitvaros,pi,41.87,67.34,97.25
+europe_lau,Pincehely,pincehely,pi,40.41,52.27,73.99
+europe_lau,Pietraroja,pietraroja,pi,47.87,68.65,73.28
+europe_lau,Pietrelcina,pietrelcina,pi,58.6,67.56,65.7
+europe_lau,Piane Crati,piane_crati,pi,23.5,37.81,-19.38
+europe_lau,Pietrafitta,pietrafitta,pi,23.6,65.64,-178.29
+europe_lau,Pietrapaola,pietrapaola,pi,24.1,42.69,54.31
+europe_lau,Pieve Ligure,pieve_ligure,pi,28.63,44.01,94.54
+europe_lau,Pilisjászfalu,pilisjaszfalu,pi,38.73,59.62,9.05
+europe_lau,Pirtó,pirto,pi,56.88,84.01,53.21
+europe_lau,Piansano,piansano,pi,54.5,77.34,86.33
+europe_lau,Pilisszentiván,pilisszentivan,pi,52.18,74.47,22.85
+europe_lau,Piliny,piliny,pi,39.38,66.2,98.59
+europe_lau,Pisano,pisano,pi,39.07,57.32,52.04
+europe_lau,Pilisborosjenő,pilisborosjeno,pi,54.04,84.58,63.97
+europe_lau,Pikárec,pikarec,pi,58.66,70.13,49.8
+europe_lau,Písečné,pisecne,pi,39.45,68.65,8.41
+europe_lau,Pignone,pignone,pi,44.6,55.06,72.47
+europe_lau,Piliscsaba,piliscsaba,pi,55,69.61,82.58
+europe_lau,Pietroasa,pietroasa,pi,55.36,64.01,36.98
+europe_lau,Pilawa,pilawa,pi,39.43,50.66,54.69
+europe_lau,Piscu,piscu,pi,35.41,55.02,97.64
+europe_lau,Písek,pisek,pi,46.36,63.21,79.55
+europe_lau,Pinkovce,pinkovce,pi,60.33,64.72,38.25
+europe_lau,Pianu,pianu,pi,13.5,45.33,68.54
+europe_lau,Pirot,pirot,pi,67.88,70.33,67.57
+europe_lau,Pinheiro,pinheiro,pi,54.55,66.62,53.91
+europe_lau,Pischelsdorf am Engelbach,pischelsdorf_am_engelbach,pi,50.6,59.33,71.12
+europe_lau,Pietrari,pietrari,pi,58.88,69.6,37.93
+europe_lau,Pinheiro,pinheiro,pi,39.31,67.03,50.87
+europe_lau,Pietroşiţa,pietrosita,pi,20.45,34.89,45.13
+europe_lau,Pico,pico,pi,23.98,54.85,87.29
+europe_lau,Piskorovce,piskorovce,pi,45.02,75.13,99.15
+europe_lau,Píla (okres Lučenec),pila_okres_lucenec,pi,69.1,84.81,51.44
+europe_lau,Pinciná,pincina,pi,65.02,68.1,34.36
+europe_lau,Pir,pir,pi,65.87,73.74,75.68
+europe_lau,Pişcolt,piscolt,pi,51.39,64.83,46.04
+europe_lau,Pinhal Novo,pinhal_novo,pi,47.7,66.7,41.04
+europe_lau,Pichne,pichne,pi,54.76,65.3,86.92
+europe_lau,Piteå,pitea,pi,36.1,56.1,-4.14
+europe_lau,Piešťany,piestany,pi,39.64,59.75,95.22
+europe_lau,Pietroasele,pietroasele,pi,19.28,48.82,95.33
+europe_lau,Píla (okres Pezinok),pila_okres_pezinok,pi,7.83,26.84,-35.73
+europe_lau,Pionki,pionki,pi,32.07,59.14,57.11
+europe_lau,Pionki,pionki,pi,53.55,55.65,42.84
+europe_lau,Pieleşti,pielesti,pi,43.57,55.08,29.93
+europe_lau,Piscu Vechi,piscu_vechi,pi,19.03,52.32,74.76
+europe_lau,Píla (okres Žarnovica),pila_okres_zarnovica,pi,32.51,62.66,88.61
+europe_lau,Pitelová,pitelova,pi,55.85,75.58,71.37
+europe_lau,Piran/Pirano,piran_pirano,pi,33.09,48.16,45.61
+europe_lau,Pivka,pivka,pi,34.24,59.62,-33.84
+europe_lau,Pietroşani,pietrosani,pi,43.16,68.88,97.56
+europe_lau,Pińczów,pinczow,pi,43.79,54.8,58.57
+europe_lau,Piszczac,piszczac,pi,42.85,58.32,-6.59
+europe_lau,Pindo,pindo,pi,60.64,69.06,59.27
+europe_lau,Pinheiro de Ázere,pinheiro_de_azere,pi,44.77,68.07,58.93
+europe_lau,Pindelo dos Milagres,pindelo_dos_milagres,pi,61.94,71.97,53.2
+europe_lau,Pinho,pinho,pi,44.48,55.06,13.49
+europe_lau,Pilica,pilica,pi,52.01,61.36,73.55
+europe_lau,Pinhão,pinhao,pi,48.24,77.67,35.58
+europe_lau,Pinelo,pinelo,pi,55.01,67.57,75.1
+europe_lau,Piecki,piecki,pi,66.09,64.67,41.51
+europe_lau,Pinho,pinho,pi,45.9,73.78,55.72
+europe_lau,Piwniczna-Zdrój,piwniczna_zdroj,pi,42.57,58.33,13.21
+europe_lau,Piatto,piatto,pi,37.86,68.82,67.69
+europe_lau,Piedicavallo,piedicavallo,pi,43.12,62.54,20.64
+europe_lau,Pitões das Junias,pitoes_das_junias,pi,66.62,70.01,43.27
+europe_lau,Pietrari,pietrari,pi,39.73,59.55,12.05
+europe_lau,Písečná,pisecna,pi,30.49,61.5,66.45
+europe_lau,Pilar da Bretanha,pilar_da_bretanha,pi,53.73,62.49,65.73
+europe_lau,Pico da Pedra,pico_da_pedra,pi,40.61,46.06,74.36
+europe_lau,Piatra,piatra,pi,53.98,61.03,44.93
+europe_lau,Pietroşani,pietrosani,pi,26.4,44.42,89.46
+europe_lau,Piotrków Trybunalski,piotrkow_trybunalski,pi,42.72,62.28,11.28
+europe_lau,Piaski,piaski,pi,62.13,74.87,27.66
+europe_lau,Pinheiro,pinheiro,pi,55.43,71.46,78.49
+europe_lau,Pilu,pilu,pi,54.67,62.22,65.68
+europe_lau,Pinheiro,pinheiro,pi,54.68,70.16,77.38
+europe_lau,Pijnacker-Nootdorp,pijnacker_nootdorp,pi,52.04,61.14,81.8
+europe_lau,Piódão,piodao,pi,50.14,62.58,71.26
+europe_lau,Piedade,piedade,pi,64.9,73.22,49.61
+europe_lau,Pias,pias,pi,37.48,62.05,49.97
+europe_lau,Piątek,piatek,pi,54.48,65.83,65.29
+europe_lau,Pietroasa,pietroasa,pi,48.63,61.75,79.8
+europe_lau,Pişchia,pischia,pi,28.09,56.46,-82.13
+europe_lau,Pinhel,pinhel,pi,43.94,66.37,99.61
+europe_lau,Pínzio,pinzio,pi,44.23,55.61,35.81
+europe_lau,Pias,pias,pi,41.99,65.41,91.7
+europe_lau,Pinheiros,pinheiros,pi,62.13,81.74,22.3
+europe_lau,Pinheiro,pinheiro,pi,37.72,65.89,99.42
+europe_lau,Piatra Şoimului,piatra_soimului,pi,44.24,64.59,-15.91
+europe_lau,Pipirig,pipirig,pi,51.09,65.44,19.7
+europe_lau,Pinzano al Tagliamento,pinzano_al_tagliamento,pi,50.82,62.52,76.82
+europe_lau,Pinela,pinela,pi,40.81,55.66,73.57
+europe_lau,Pinhal do Norte,pinhal_do_norte,pi,64.48,76.72,59.55
+europe_lau,Pístina,pistina,pi,49.28,61.3,42.16
+europe_lau,Piekoszów,piekoszow,pi,41.74,59.74,-14.15
+europe_lau,Pierzchnica,pierzchnica,pi,48.87,61.83,38.27
+europe_lau,Pinhanços,pinhancos,pi,51.63,66.94,45.84
+europe_lau,Piekary Śląskie,piekary_slaskie,pi,34.08,56.04,65.82
+europe_lau,Pilchowice,pilchowice,pi,46.02,63.33,47.95
+europe_lau,Pietrowice Wielkie,pietrowice_wielkie,pi,41.45,60.57,87.4
+europe_lau,Pinheiro,pinheiro,pi,58.45,64.5,50.68
+europe_lau,Pietrabbondante,pietrabbondante,pi,47.15,67.15,58.37
+europe_lau,Pizzone,pizzone,pi,41.29,64.69,-31.92
+europe_lau,Picote,picote,pi,37.52,58.28,4.88
+europe_lau,Piano,piano,pi,44.77,60.56,91.95
+europe_lau,Pietraserena,pietraserena,pi,47.68,55.59,59.67
+europe_lau,Pila-Canale,pila_canale,pi,37.95,63.03,75.5
+europe_lau,Pitomača,pitomaca,pi,38.99,60.57,30.06
+europe_lau,Piombino,piombino,pi,34.86,52.55,-30.14

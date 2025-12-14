@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vicemil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vícemil", "metric_roundness": 61.78, "metric_rectangularity": 64.75, "metric_mobile_fit": 61.72, "metric_aspect_ratio": 0.945, "metric_area_km2": 9.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.886228, 49.2611804 ], [ 14.886733, 49.2555181 ], [ 14.8938932, 49.2550007 ], [ 14.8981225, 49.2499385 ], [ 14.907736, 49.253309 ], [ 14.909815, 49.257133499999988 ], [ 14.8979088, 49.273921799999989 ], [ 14.8908365, 49.274704 ], [ 14.8739433, 49.2648692 ], [ 14.8748755, 49.258215 ], [ 14.886228, 49.2611804 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuiry_les_iviers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cuiry-lès-Iviers", "metric_roundness": 62.53, "metric_rectangularity": 76.0, "metric_mobile_fit": 74.24, "metric_aspect_ratio": 0.82, "metric_area_km2": 12.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.119808, 49.7697906 ], [ 4.115281, 49.775083499999987 ], [ 4.1056785, 49.777792 ], [ 4.090174, 49.779153499999978 ], [ 4.088504, 49.763601 ], [ 4.102127, 49.753038499999988 ], [ 4.1143974, 49.7544379 ], [ 4.1216625, 49.7593495 ], [ 4.119808, 49.7697906 ] ] ] } }
+]
+}

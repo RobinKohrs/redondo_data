@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_boissiere_en_gatine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Boissière-en-Gâtine", "metric_roundness": 57.29, "metric_rectangularity": 68.24, "metric_mobile_fit": 82.41, "metric_aspect_ratio": 0.738, "metric_area_km2": 22.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3919405, 46.5286995 ], [ -0.3772108, 46.5291194 ], [ -0.3589005, 46.54101 ], [ -0.357768, 46.546638399999985 ], [ -0.3624075, 46.55249449999998 ], [ -0.3690028, 46.5634085 ], [ -0.3881466, 46.5720958 ], [ -0.404579, 46.549056 ], [ -0.3950405, 46.541991799999984 ], [ -0.3969125, 46.5388112 ], [ -0.394605, 46.5285005 ], [ -0.3919405, 46.5286995 ] ] ] } }
+]
+}

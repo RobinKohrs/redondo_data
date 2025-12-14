@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cantagallo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cantagallo", "metric_roundness": 40.09, "metric_rectangularity": 66.73, "metric_mobile_fit": 34.25, "metric_aspect_ratio": 1.22, "metric_area_km2": 12.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.8278193, 40.3645861 ], [ -5.8085693, 40.359052 ], [ -5.7975545, 40.353286499999989 ], [ -5.7942058, 40.359854899999988 ], [ -5.8031279, 40.3795256 ], [ -5.8137969, 40.382504 ], [ -5.8274896, 40.3796791 ], [ -5.839012, 40.383632 ], [ -5.8427955, 40.375271 ], [ -5.8278193, 40.3645861 ] ] ] } }
+]
+}

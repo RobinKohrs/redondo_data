@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "intreville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Intréville", "metric_roundness": 61.96, "metric_rectangularity": 72.86, "metric_mobile_fit": 42.59, "metric_aspect_ratio": 1.137, "metric_area_km2": 19.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.959226, 48.308685 ], [ 1.9427449, 48.3095305 ], [ 1.9377448, 48.3136509 ], [ 1.923003, 48.312005 ], [ 1.9193549, 48.303581099999988 ], [ 1.9116093, 48.2955658 ], [ 1.910908, 48.2905005 ], [ 1.9121901, 48.286819199999982 ], [ 1.9200712, 48.2838 ], [ 1.9527185, 48.2882481 ], [ 1.9593733, 48.2944091 ], [ 1.9579599, 48.301635399999988 ], [ 1.961908, 48.302845499999975 ], [ 1.959226, 48.308685 ] ] ] } }
+]
+}

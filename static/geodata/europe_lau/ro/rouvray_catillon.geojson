@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rouvray_catillon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rouvray-Catillon", "metric_roundness": 31.89, "metric_rectangularity": 67.88, "metric_mobile_fit": 24.48, "metric_aspect_ratio": 1.318, "metric_area_km2": 29.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.514558, 49.595703 ], [ 1.5034625, 49.593202 ], [ 1.5016355, 49.590845 ], [ 1.4912191, 49.582649 ], [ 1.4756646, 49.5876119 ], [ 1.466926, 49.5847899 ], [ 1.450278, 49.5853415 ], [ 1.4426179, 49.58164 ], [ 1.4445408, 49.5767647 ], [ 1.4383466, 49.566182699999985 ], [ 1.439267, 49.5593565 ], [ 1.499321, 49.568527 ], [ 1.5001454, 49.571457499999987 ], [ 1.5153047, 49.5769709 ], [ 1.5167335, 49.597928 ], [ 1.514558, 49.595703 ] ] ] } }
+]
+}

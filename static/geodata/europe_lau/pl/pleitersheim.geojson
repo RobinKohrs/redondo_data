@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pleitersheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pleitersheim", "metric_roundness": 56.41, "metric_rectangularity": 76.35, "metric_mobile_fit": 64.48, "metric_aspect_ratio": 0.918, "metric_area_km2": 5.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9389275, 49.83534 ], [ 7.9422155, 49.8323105 ], [ 7.939388, 49.830743499999983 ], [ 7.940455, 49.829199 ], [ 7.937893, 49.827674 ], [ 7.941604, 49.8238865 ], [ 7.9522578, 49.8263233 ], [ 7.963557, 49.833102 ], [ 7.9599676, 49.8403717 ], [ 7.9527155, 49.841924499999983 ], [ 7.9389275, 49.83534 ] ] ] } }
+]
+}

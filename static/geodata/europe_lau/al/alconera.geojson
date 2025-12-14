@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alconera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alconera", "metric_roundness": 35.09, "metric_rectangularity": 70.56, "metric_mobile_fit": 89.78, "metric_aspect_ratio": 0.665, "metric_area_km2": 53.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.5157225, 38.4374045 ], [ -6.4961953, 38.416726 ], [ -6.4992557, 38.4084542 ], [ -6.492408, 38.3954432 ], [ -6.4913135, 38.375797 ], [ -6.4721895, 38.35614 ], [ -6.4550302, 38.3585029 ], [ -6.4369935, 38.37368 ], [ -6.4493708, 38.3896241 ], [ -6.4597365, 38.4156224 ], [ -6.4786425, 38.4367836 ], [ -6.4910433, 38.4424409 ], [ -6.503889, 38.4489555 ], [ -6.5157225, 38.4374045 ] ] ] } }
+]
+}

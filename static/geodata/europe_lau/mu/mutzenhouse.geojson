@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mutzenhouse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mutzenhouse", "metric_roundness": 62.98, "metric_rectangularity": 76.15, "metric_mobile_fit": 65.1, "metric_aspect_ratio": 0.912, "metric_area_km2": 5.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.583223, 48.734791499999986 ], [ 7.5906595, 48.734264 ], [ 7.5978805, 48.734836499999986 ], [ 7.599791, 48.734878 ], [ 7.600647, 48.737137 ], [ 7.6002415, 48.739722 ], [ 7.5965398, 48.7490513 ], [ 7.5933525, 48.750639499999984 ], [ 7.5804317, 48.745451099999975 ], [ 7.5779561, 48.7383302 ], [ 7.579761, 48.7342235 ], [ 7.583223, 48.734791499999986 ] ] ] } }
+]
+}

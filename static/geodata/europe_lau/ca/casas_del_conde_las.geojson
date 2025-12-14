@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "casas_del_conde_las",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Casas del Conde, Las", "metric_roundness": 46.96, "metric_rectangularity": 78.1, "metric_mobile_fit": 75.96, "metric_aspect_ratio": 0.803, "metric_area_km2": 2.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.0381635, 40.4976195 ], [ -6.0335145, 40.5006865 ], [ -6.0336645, 40.5038185 ], [ -6.032892, 40.506569 ], [ -6.034679, 40.508518 ], [ -6.037796, 40.5088345 ], [ -6.0406025, 40.510338 ], [ -6.0434605, 40.5140265 ], [ -6.0502175, 40.509758499999982 ], [ -6.0381635, 40.4976195 ] ] ] } }
+]
+}

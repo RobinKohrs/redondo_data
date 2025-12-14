@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "strazisko",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stražisko", "metric_roundness": 33.06, "metric_rectangularity": 47.66, "metric_mobile_fit": 32.08, "metric_aspect_ratio": 1.242, "metric_area_km2": 9.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.912509, 49.539478 ], [ 16.9223043, 49.5432566 ], [ 16.9502675, 49.533506 ], [ 16.9541815, 49.534738499999982 ], [ 16.9489016, 49.550327299999985 ], [ 16.9334069, 49.5452514 ], [ 16.9194135, 49.5584875 ], [ 16.9147323, 49.5514617 ], [ 16.9063745, 49.550680499999984 ], [ 16.912509, 49.539478 ] ] ] } }
+]
+}

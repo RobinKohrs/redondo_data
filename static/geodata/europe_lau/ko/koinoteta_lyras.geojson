@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_lyras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λύρας", "metric_roundness": 43.97, "metric_rectangularity": 67.0, "metric_mobile_fit": 1.52, "metric_aspect_ratio": 1.547, "metric_area_km2": 34.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.2280152, 41.074657099999989 ], [ 26.2300349, 41.0624352 ], [ 26.237894, 41.056183 ], [ 26.2765552, 41.0595457 ], [ 26.2878342, 41.0553817 ], [ 26.3086635, 41.0553095 ], [ 26.2907776, 41.0779496 ], [ 26.2773217, 41.0824865 ], [ 26.2614284, 41.0936119 ], [ 26.248219, 41.094601 ], [ 26.2307625, 41.0889685 ], [ 26.2280152, 41.074657099999989 ] ] ] } }
+]
+}

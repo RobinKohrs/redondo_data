@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_santiago_de_cassurraes_e_povoa_de_cervaes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Santiago de Cassurrães e Póvoa de Cervães", "metric_roundness": 51.69, "metric_rectangularity": 68.9, "metric_mobile_fit": 61.58, "metric_aspect_ratio": 0.947, "metric_area_km2": 52.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7246036, 40.5912852 ], [ -7.7258352, 40.5751622 ], [ -7.7277924, 40.572212 ], [ -7.7315185, 40.5724185 ], [ -7.734292, 40.5546374 ], [ -7.724459, 40.5431813 ], [ -7.721347, 40.535290499999988 ], [ -7.7211135, 40.535517 ], [ -7.7094617, 40.5446755 ], [ -7.6985711, 40.5477945 ], [ -7.6895229, 40.5467098 ], [ -7.6797211, 40.552466 ], [ -7.6695168, 40.5525505 ], [ -7.665016, 40.5597105 ], [ -7.6595049, 40.5685749 ], [ -7.662525, 40.5783609 ], [ -7.6580557, 40.5884686 ], [ -7.658223, 40.596096 ], [ -7.679854, 40.5964665 ], [ -7.7246036, 40.5912852 ] ] ] } }
+]
+}

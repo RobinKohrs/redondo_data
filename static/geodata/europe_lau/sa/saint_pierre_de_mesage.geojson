@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_pierre_de_mesage",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Pierre-de-Mésage", "metric_roundness": 40.03, "metric_rectangularity": 66.31, "metric_mobile_fit": -7.07, "metric_aspect_ratio": 1.633, "metric_area_km2": 14.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.762209, 45.062393 ], [ 5.7458052, 45.0575765 ], [ 5.7443443, 45.0571475 ], [ 5.736512, 45.049311499999988 ], [ 5.7458052, 45.043914899999983 ], [ 5.7497115, 45.041646499999985 ], [ 5.7523275, 45.04081 ], [ 5.7635215, 45.040796799999988 ], [ 5.770204, 45.036409499999984 ], [ 5.796579, 45.041526 ], [ 5.796556, 45.046478499999985 ], [ 5.791253, 45.04596 ], [ 5.7840185, 45.0482915 ], [ 5.762209, 45.062393 ] ] ] } }
+]
+}

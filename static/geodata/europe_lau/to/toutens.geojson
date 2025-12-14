@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "toutens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Toutens", "metric_roundness": 42.42, "metric_rectangularity": 69.16, "metric_mobile_fit": 46.11, "metric_aspect_ratio": 1.101, "metric_area_km2": 8.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7254815, 43.4825875 ], [ 1.729678, 43.4764965 ], [ 1.742312, 43.4686855 ], [ 1.7508139, 43.466476 ], [ 1.7545435, 43.4616425 ], [ 1.7650949, 43.4654263 ], [ 1.761598, 43.4698042 ], [ 1.7609235, 43.4787345 ], [ 1.7319875, 43.487742499999982 ], [ 1.7254815, 43.4825875 ] ] ] } }
+]
+}

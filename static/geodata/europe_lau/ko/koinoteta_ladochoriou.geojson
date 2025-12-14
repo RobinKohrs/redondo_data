@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ladochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λαδοχωρίου", "metric_roundness": 24.61, "metric_rectangularity": 49.99, "metric_mobile_fit": -86.5, "metric_aspect_ratio": 2.428, "metric_area_km2": 10.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.2564162, 39.4838533 ], [ 20.2266847, 39.4953238 ], [ 20.2134356, 39.4907761 ], [ 20.233398, 39.476143 ], [ 20.2393205, 39.480550799999982 ], [ 20.262657, 39.4747775 ], [ 20.2639996, 39.4796223 ], [ 20.2780607, 39.4855838 ], [ 20.2624435, 39.4942245 ], [ 20.2564162, 39.4838533 ] ] ] } }
+]
+}

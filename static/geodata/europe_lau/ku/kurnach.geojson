@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kurnach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kürnach", "metric_roundness": 48.17, "metric_rectangularity": 65.7, "metric_mobile_fit": -5.87, "metric_aspect_ratio": 1.621, "metric_area_km2": 30.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.0534888, 49.8551888 ], [ 10.0278295, 49.8539995 ], [ 10.0220809, 49.847961499999982 ], [ 10.0110921, 49.849716699999988 ], [ 10.0073049, 49.845086099999989 ], [ 10.0125987, 49.8396005 ], [ 10.0392042, 49.8336226 ], [ 10.049445, 49.823635 ], [ 10.0653105, 49.825352 ], [ 10.0830681, 49.83239 ], [ 10.0866235, 49.837307499999987 ], [ 10.0827595, 49.8480805 ], [ 10.0534888, 49.8551888 ] ] ] } }
+]
+}

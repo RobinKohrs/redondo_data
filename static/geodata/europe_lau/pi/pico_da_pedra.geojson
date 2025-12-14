@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pico_da_pedra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pico da Pedra", "metric_roundness": 40.61, "metric_rectangularity": 46.06, "metric_mobile_fit": 74.36, "metric_aspect_ratio": 0.819, "metric_area_km2": 11.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -25.638854, 37.7915985 ], [ -25.62827, 37.7890725 ], [ -25.6169305, 37.7835724 ], [ -25.6118155, 37.7744215 ], [ -25.5981645, 37.775659499999989 ], [ -25.6092838, 37.7912444 ], [ -25.600165, 37.812183 ], [ -25.6049326, 37.8136838 ], [ -25.6092219, 37.8102701 ], [ -25.6184683, 37.812179799999988 ], [ -25.6275603, 37.7963549 ], [ -25.637863, 37.7957065 ], [ -25.638854, 37.7915985 ] ] ] } }
+]
+}

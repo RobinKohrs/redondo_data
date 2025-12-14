@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "segos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ségos", "metric_roundness": 67.51, "metric_rectangularity": 72.57, "metric_mobile_fit": 57.36, "metric_aspect_ratio": 0.989, "metric_area_km2": 17.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2815105, 43.6237435 ], [ -0.2768172, 43.616286299999977 ], [ -0.247204, 43.615953499999989 ], [ -0.238397, 43.635832 ], [ -0.2446929, 43.6420806 ], [ -0.261806, 43.647952 ], [ -0.2647654, 43.6367037 ], [ -0.282116, 43.6430735 ], [ -0.2815105, 43.6237435 ] ] ] } }
+]
+}

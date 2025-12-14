@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bublava",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bublava", "metric_roundness": 33.14, "metric_rectangularity": 65.34, "metric_mobile_fit": 92.91, "metric_aspect_ratio": 0.492, "metric_area_km2": 15.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.5053156, 50.3566707 ], [ 12.5128461, 50.360301399999976 ], [ 12.515831, 50.374985 ], [ 12.5195935, 50.3872247 ], [ 12.514233, 50.3973395 ], [ 12.4876895, 50.3715222 ], [ 12.4882896, 50.362512799999983 ], [ 12.492528, 50.3559525 ], [ 12.5053156, 50.3566707 ] ] ] } }
+]
+}

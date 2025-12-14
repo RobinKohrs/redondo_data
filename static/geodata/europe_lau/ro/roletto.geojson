@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roletto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roletto", "metric_roundness": 16.51, "metric_rectangularity": 45.55, "metric_mobile_fit": 28.1, "metric_aspect_ratio": 1.282, "metric_area_km2": 19.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2978135, 44.9511285 ], [ 7.301237, 44.9408017 ], [ 7.311399, 44.9346786 ], [ 7.3114243, 44.9272516 ], [ 7.3238402, 44.914434 ], [ 7.3356366, 44.907409699999981 ], [ 7.3665176, 44.9021072 ], [ 7.3805528, 44.9028706 ], [ 7.386544, 44.906362 ], [ 7.3735484, 44.9073387 ], [ 7.344076, 44.921451399999981 ], [ 7.3381659, 44.9288886 ], [ 7.315916, 44.933796 ], [ 7.309718, 44.95082 ], [ 7.2978135, 44.9511285 ] ] ] } }
+]
+}

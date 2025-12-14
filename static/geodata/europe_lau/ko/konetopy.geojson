@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "konetopy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Konětopy", "metric_roundness": 53.08, "metric_rectangularity": 76.27, "metric_mobile_fit": 82.47, "metric_aspect_ratio": 0.738, "metric_area_km2": 7.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6434974, 50.274424599999989 ], [ 14.6535555, 50.263567 ], [ 14.6693855, 50.275828699999977 ], [ 14.6621144, 50.2839445 ], [ 14.653947, 50.287280499999973 ], [ 14.651441, 50.2847295 ], [ 14.6489355, 50.285484499999988 ], [ 14.645512, 50.283746 ], [ 14.643572, 50.2829445 ], [ 14.642011, 50.2812415 ], [ 14.644839, 50.279581 ], [ 14.6443485, 50.2772395 ], [ 14.6434974, 50.274424599999989 ] ] ] } }
+]
+}

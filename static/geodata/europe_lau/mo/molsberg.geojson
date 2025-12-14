@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "molsberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Molsberg", "metric_roundness": 47.81, "metric_rectangularity": 64.73, "metric_mobile_fit": 83.01, "metric_aspect_ratio": 0.732, "metric_area_km2": 9.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.96013, 50.471699 ], [ 7.968779, 50.473822299999981 ], [ 7.987668, 50.472726 ], [ 7.9861158, 50.4809309 ], [ 7.9793554, 50.4856735 ], [ 7.978903, 50.495384 ], [ 7.968747, 50.496835499999982 ], [ 7.9673545, 50.495184499999986 ], [ 7.965077, 50.491623499999989 ], [ 7.964436, 50.4899075 ], [ 7.9599965, 50.487973499999988 ], [ 7.962473, 50.4782404 ], [ 7.9587345, 50.473505 ], [ 7.96013, 50.471699 ] ] ] } }
+]
+}

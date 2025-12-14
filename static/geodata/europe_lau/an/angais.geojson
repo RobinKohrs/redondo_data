@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "angais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Angaïs", "metric_roundness": 66.41, "metric_rectangularity": 77.51, "metric_mobile_fit": 59.12, "metric_aspect_ratio": 0.971, "metric_area_km2": 10.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2629036, 43.2413679 ], [ -0.2651485, 43.236355 ], [ -0.2586576, 43.2266167 ], [ -0.2497204, 43.2260439 ], [ -0.2359937, 43.2293579 ], [ -0.2355011, 43.23582649999998 ], [ -0.227508, 43.2405615 ], [ -0.2391595, 43.249333 ], [ -0.2474985, 43.2542755 ], [ -0.2629036, 43.2413679 ] ] ] } }
+]
+}

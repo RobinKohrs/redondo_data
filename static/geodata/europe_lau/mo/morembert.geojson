@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "morembert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Morembert", "metric_roundness": 32.46, "metric_rectangularity": 56.97, "metric_mobile_fit": -6.31, "metric_aspect_ratio": 1.626, "metric_area_km2": 5.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3107795, 48.5031325 ], [ 4.3203638, 48.4963591 ], [ 4.333556, 48.495402 ], [ 4.3374048, 48.4980755 ], [ 4.3362635, 48.502617699999988 ], [ 4.3530675, 48.509442 ], [ 4.3481285, 48.5126375 ], [ 4.340437, 48.510034 ], [ 4.338421, 48.508674 ], [ 4.33215, 48.509230499999987 ], [ 4.3107795, 48.5031325 ] ] ] } }
+]
+}

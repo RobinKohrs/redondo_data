@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brousses_et_villaret",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brousses-et-Villaret", "metric_roundness": 42.6, "metric_rectangularity": 68.3, "metric_mobile_fit": 98.51, "metric_aspect_ratio": 0.577, "metric_area_km2": 21.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2294907, 43.323639 ], [ 2.2510265, 43.318017 ], [ 2.252078, 43.3261924 ], [ 2.2599588, 43.3307822 ], [ 2.265418, 43.351132499999984 ], [ 2.2565306, 43.3511617 ], [ 2.2534675, 43.355365899999988 ], [ 2.2485462, 43.3557305 ], [ 2.2468897, 43.3655797 ], [ 2.229481, 43.368365 ], [ 2.2254464, 43.355307899999985 ], [ 2.2314968, 43.337758299999983 ], [ 2.228957, 43.331307 ], [ 2.2294907, 43.323639 ] ] ] } }
+]
+}

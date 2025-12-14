@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ersa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ersa", "metric_roundness": 62.61, "metric_rectangularity": 70.02, "metric_mobile_fit": 60.13, "metric_aspect_ratio": 0.961, "metric_area_km2": 37.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3836908, 43.0094498 ], [ 9.3738062, 43.0052721 ], [ 9.3586128, 43.006690899999981 ], [ 9.343638, 42.9977155 ], [ 9.3569192, 42.9846551 ], [ 9.3618666, 42.975611 ], [ 9.3790814, 42.9684537 ], [ 9.3842301, 42.9620143 ], [ 9.3841922, 42.956005399999988 ], [ 9.3935055, 42.9582595 ], [ 9.4138598, 42.9804445 ], [ 9.4117165, 42.9926926 ], [ 9.404667, 43.0059205 ], [ 9.3836908, 43.0094498 ] ] ] } }
+]
+}

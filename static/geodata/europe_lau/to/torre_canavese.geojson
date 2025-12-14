@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "torre_canavese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Torre Canavese", "metric_roundness": 32.44, "metric_rectangularity": 48.94, "metric_mobile_fit": 30.05, "metric_aspect_ratio": 1.262, "metric_area_km2": 11.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7739775, 45.389189 ], [ 7.779068, 45.3980065 ], [ 7.7736054, 45.406823 ], [ 7.7807615, 45.4129535 ], [ 7.7794425, 45.412503 ], [ 7.760542, 45.41120549999998 ], [ 7.7458688, 45.394878 ], [ 7.731845, 45.3944175 ], [ 7.731442, 45.3891115 ], [ 7.751753, 45.3924563 ], [ 7.7581406, 45.387575799999986 ], [ 7.767726, 45.385512499999983 ], [ 7.7739775, 45.389189 ] ] ] } }
+]
+}

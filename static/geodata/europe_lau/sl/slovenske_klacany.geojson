@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "slovenske_klacany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Slovenské Kľačany", "metric_roundness": 49.25, "metric_rectangularity": 81.27, "metric_mobile_fit": 48.65, "metric_aspect_ratio": 1.076, "metric_area_km2": 20.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.412919, 48.283315 ], [ 19.410518, 48.285223 ], [ 19.3999505, 48.274965499999986 ], [ 19.4168805, 48.258394499999987 ], [ 19.4350193, 48.247704399999989 ], [ 19.443752, 48.248465499999973 ], [ 19.4576008, 48.2562021 ], [ 19.4605963, 48.261251899999976 ], [ 19.457696, 48.262717 ], [ 19.412919, 48.283315 ] ] ] } }
+]
+}

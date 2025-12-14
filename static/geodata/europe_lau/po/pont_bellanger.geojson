@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pont_bellanger",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pont-Bellanger", "metric_roundness": 60.55, "metric_rectangularity": 63.89, "metric_mobile_fit": 34.07, "metric_aspect_ratio": 1.222, "metric_area_km2": 8.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9645975, 48.935946599999987 ], [ -0.9668694, 48.941725399999989 ], [ -0.9718029, 48.943349099999985 ], [ -0.9812581, 48.937906 ], [ -0.988996, 48.946162 ], [ -1.002583, 48.93685049999997 ], [ -0.9936156, 48.9316253 ], [ -0.990651, 48.9260385 ], [ -0.9840115, 48.925738499999987 ], [ -0.971311, 48.927998 ], [ -0.9645975, 48.935946599999987 ] ] ] } }
+]
+}

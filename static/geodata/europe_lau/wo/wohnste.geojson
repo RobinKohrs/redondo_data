@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wohnste",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wohnste", "metric_roundness": 62.39, "metric_rectangularity": 76.34, "metric_mobile_fit": 43.96, "metric_aspect_ratio": 1.123, "metric_area_km2": 54.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.551258, 53.3439895 ], [ 9.5601994, 53.3526499 ], [ 9.569605, 53.355649799999988 ], [ 9.5722784, 53.3691557 ], [ 9.5632255, 53.3726474 ], [ 9.5315211, 53.37336 ], [ 9.5170341, 53.3814709 ], [ 9.5155464, 53.3857419 ], [ 9.511906, 53.3859255 ], [ 9.479453, 53.358793 ], [ 9.5035776, 53.3435338 ], [ 9.53535, 53.336594 ], [ 9.551258, 53.3439895 ] ] ] } }
+]
+}

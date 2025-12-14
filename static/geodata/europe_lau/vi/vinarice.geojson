@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vinarice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vinařice", "metric_roundness": 53.43, "metric_rectangularity": 70.32, "metric_mobile_fit": 87.71, "metric_aspect_ratio": 0.685, "metric_area_km2": 11.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0985095, 50.190647 ], [ 14.0828831, 50.1900925 ], [ 14.073835, 50.177418 ], [ 14.0785809, 50.1638991 ], [ 14.08855, 50.160854 ], [ 14.0927976, 50.1624422 ], [ 14.0904686, 50.1664956 ], [ 14.1057215, 50.1771105 ], [ 14.0985095, 50.190647 ] ] ] } }
+]
+}

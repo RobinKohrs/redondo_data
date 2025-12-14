@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velka_polom",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velká Polom", "metric_roundness": 57.63, "metric_rectangularity": 70.15, "metric_mobile_fit": 50.55, "metric_aspect_ratio": 1.057, "metric_area_km2": 28.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.1159565, 49.8506395 ], [ 18.1194925, 49.860463 ], [ 18.1306684, 49.8643467 ], [ 18.1318005, 49.873731499999984 ], [ 18.1229646, 49.87696 ], [ 18.118432, 49.8825075 ], [ 18.0982584, 49.8839668 ], [ 18.082491, 49.891171 ], [ 18.0865382, 49.8818185 ], [ 18.0856321, 49.876409899999985 ], [ 18.065327, 49.866022 ], [ 18.0843775, 49.854293 ], [ 18.1159565, 49.8506395 ] ] ] } }
+]
+}

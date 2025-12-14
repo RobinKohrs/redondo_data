@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dalldorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dalldorf", "metric_roundness": 53.79, "metric_rectangularity": 78.31, "metric_mobile_fit": 94.8, "metric_aspect_ratio": 0.615, "metric_area_km2": 16.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.6258345, 53.4433625 ], [ 10.6032602, 53.448500099999983 ], [ 10.592499, 53.445522 ], [ 10.5954982, 53.431815799999981 ], [ 10.5940502, 53.422978099999987 ], [ 10.601768, 53.4180335 ], [ 10.6177815, 53.416182499999984 ], [ 10.6258345, 53.4433625 ] ] ] } }
+]
+}

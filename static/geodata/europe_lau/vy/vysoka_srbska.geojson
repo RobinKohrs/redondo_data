@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vysoka_srbska",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vysoká Srbská", "metric_roundness": 50.46, "metric_rectangularity": 69.18, "metric_mobile_fit": 18.8, "metric_aspect_ratio": 1.375, "metric_area_km2": 18.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.251287, 50.492666499999984 ], [ 16.2449655, 50.4922135 ], [ 16.2363376, 50.4911664 ], [ 16.211156, 50.500239 ], [ 16.205561, 50.498644 ], [ 16.2019833, 50.4855315 ], [ 16.2153992, 50.478916299999987 ], [ 16.214568, 50.4758775 ], [ 16.2296218, 50.473754799999988 ], [ 16.2375303, 50.477333899999984 ], [ 16.249208, 50.4739645 ], [ 16.259199, 50.480127 ], [ 16.251287, 50.492666499999984 ] ] ] } }
+]
+}

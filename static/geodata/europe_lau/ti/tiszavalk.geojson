@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tiszavalk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tiszavalk", "metric_roundness": 59.88, "metric_rectangularity": 77.97, "metric_mobile_fit": 60.76, "metric_aspect_ratio": 0.955, "metric_area_km2": 26.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7450878, 47.668068799999979 ], [ 20.7505955, 47.6675365 ], [ 20.7490244, 47.671907099999984 ], [ 20.7569052, 47.6726894 ], [ 20.7614288, 47.676319299999989 ], [ 20.77231, 47.6939097 ], [ 20.74784, 47.706983 ], [ 20.7270631, 47.7098844 ], [ 20.7275348, 47.698861 ], [ 20.712238, 47.6882405 ], [ 20.7450878, 47.668068799999979 ] ] ] } }
+]
+}

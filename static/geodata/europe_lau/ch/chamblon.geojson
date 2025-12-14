@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chamblon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chamblon", "metric_roundness": 53.24, "metric_rectangularity": 68.98, "metric_mobile_fit": 37.49, "metric_aspect_ratio": 1.188, "metric_area_km2": 6.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6162475, 46.781232499999987 ], [ 6.6120422, 46.7855153 ], [ 6.5913935, 46.785314499999984 ], [ 6.587009, 46.779335499999988 ], [ 6.5845295, 46.7763395 ], [ 6.587262, 46.775775 ], [ 6.5889105, 46.770884499999987 ], [ 6.5878285, 46.7689245 ], [ 6.592765, 46.767225 ], [ 6.6162475, 46.781232499999987 ] ] ] } }
+]
+}

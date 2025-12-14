@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "asnieres_sur_saone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Asnières-sur-Saône", "metric_roundness": 39.6, "metric_rectangularity": 75.48, "metric_mobile_fit": 90.21, "metric_aspect_ratio": 0.66, "metric_area_km2": 9.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8762445, 46.369312 ], [ 4.8792405, 46.372215 ], [ 4.881799, 46.371303 ], [ 4.886362, 46.375701499999984 ], [ 4.8887, 46.375648 ], [ 4.8915955, 46.380534499999989 ], [ 4.8935965, 46.3802195 ], [ 4.896275, 46.3846145 ], [ 4.8946436, 46.389855 ], [ 4.897914, 46.398710499999986 ], [ 4.88821, 46.402977 ], [ 4.883242, 46.39796 ], [ 4.879727, 46.392368 ], [ 4.873919, 46.384981 ], [ 4.8656855, 46.3757585 ], [ 4.8762445, 46.369312 ] ] ] } }
+]
+}

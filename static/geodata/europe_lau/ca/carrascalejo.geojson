@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carrascalejo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carrascalejo", "metric_roundness": 58.08, "metric_rectangularity": 74.15, "metric_mobile_fit": 60.57, "metric_aspect_ratio": 0.957, "metric_area_km2": 81.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.1703928, 39.640415899999986 ], [ -5.1732785, 39.6500437 ], [ -5.1847925, 39.6625637 ], [ -5.2300289, 39.6778544 ], [ -5.2433588, 39.6789726 ], [ -5.2507591, 39.665251499999989 ], [ -5.2783708, 39.6565789 ], [ -5.2755241, 39.6497526 ], [ -5.2506772, 39.6268953 ], [ -5.2021125, 39.592064 ], [ -5.2054465, 39.5989649 ], [ -5.1823204, 39.6190514 ], [ -5.172692, 39.635441 ], [ -5.1703928, 39.640415899999986 ] ] ] } }
+]
+}

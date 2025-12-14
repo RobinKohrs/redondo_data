@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neas_nikomedeias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νέας Νικομηδείας", "metric_roundness": 27.25, "metric_rectangularity": 54.71, "metric_mobile_fit": 96.42, "metric_aspect_ratio": 0.527, "metric_area_km2": 13.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2666736, 40.6155974 ], [ 22.2617327, 40.608855 ], [ 22.2658935, 40.6034862 ], [ 22.2554628, 40.5926974 ], [ 22.2448674, 40.591030599999989 ], [ 22.2490615, 40.582898499999985 ], [ 22.2633594, 40.5750358 ], [ 22.2670933, 40.585016299999985 ], [ 22.2804537, 40.5961685 ], [ 22.2815605, 40.6279335 ], [ 22.2704265, 40.622661 ], [ 22.264, 40.6200135 ], [ 22.2666736, 40.6155974 ] ] ] } }
+]
+}

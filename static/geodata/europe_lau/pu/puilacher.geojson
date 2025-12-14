@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "puilacher",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Puilacher", "metric_roundness": 49.83, "metric_rectangularity": 73.51, "metric_mobile_fit": 35.25, "metric_aspect_ratio": 1.21, "metric_area_km2": 5.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4947231, 43.5630218 ], [ 3.5042048, 43.5566523 ], [ 3.5091525, 43.562766 ], [ 3.5149256, 43.562972699999989 ], [ 3.5190995, 43.569380499999987 ], [ 3.5121705, 43.574841 ], [ 3.508902, 43.575281 ], [ 3.5036255, 43.57479 ], [ 3.487992, 43.563388499999988 ], [ 3.4947231, 43.5630218 ] ] ] } }
+]
+}

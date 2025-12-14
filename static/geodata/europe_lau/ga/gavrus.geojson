@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gavrus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gavrus", "metric_roundness": 46.71, "metric_rectangularity": 75.83, "metric_mobile_fit": 4.22, "metric_aspect_ratio": 1.52, "metric_area_km2": 6.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.5228355, 49.12249 ], [ -0.5249585, 49.1189915 ], [ -0.5124999, 49.110373199999984 ], [ -0.501704, 49.109133 ], [ -0.4955725, 49.110363 ], [ -0.4889915, 49.113589 ], [ -0.508488, 49.124617499999978 ], [ -0.5099195, 49.123504 ], [ -0.5120965, 49.124217 ], [ -0.5228355, 49.12249 ] ] ] } }
+]
+}

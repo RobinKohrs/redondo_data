@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_de_losne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-de-Losne", "metric_roundness": 36.97, "metric_rectangularity": 60.55, "metric_mobile_fit": -23.87, "metric_aspect_ratio": 1.801, "metric_area_km2": 1.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2711908, 47.101208299999989 ], [ 5.2670834, 47.104877699999989 ], [ 5.2595477, 47.104400499999983 ], [ 5.258349, 47.1032505 ], [ 5.2595477, 47.101449099999989 ], [ 5.2595477, 47.100470299999984 ], [ 5.2683286, 47.0982391 ], [ 5.2759155, 47.101408 ], [ 5.2711908, 47.101208299999989 ] ] ] } }
+]
+}

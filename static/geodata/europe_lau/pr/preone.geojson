@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "preone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Preone", "metric_roundness": 39.8, "metric_rectangularity": 62.62, "metric_mobile_fit": 97.45, "metric_aspect_ratio": 0.537, "metric_area_km2": 45.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.8497187, 46.3882696 ], [ 12.8534071, 46.361341 ], [ 12.8499828, 46.352401199999981 ], [ 12.879278, 46.3422275 ], [ 12.8768877, 46.33259 ], [ 12.8877211, 46.3310055 ], [ 12.90645, 46.334775 ], [ 12.904267, 46.370476 ], [ 12.8877211, 46.37469 ], [ 12.8811174, 46.383819199999984 ], [ 12.876954, 46.397115799999987 ], [ 12.8650255, 46.403909 ], [ 12.8497187, 46.3882696 ] ] ] } }
+]
+}

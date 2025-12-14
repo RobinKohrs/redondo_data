@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dackenheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dackenheim", "metric_roundness": 53.97, "metric_rectangularity": 85.5, "metric_mobile_fit": 15.46, "metric_aspect_ratio": 1.408, "metric_area_km2": 6.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.1798445, 49.514696 ], [ 8.1912305, 49.5165175 ], [ 8.193276, 49.5173105 ], [ 8.1966295, 49.51824 ], [ 8.1990315, 49.518854 ], [ 8.2014545, 49.51951649999998 ], [ 8.2001195, 49.5215715 ], [ 8.1996105, 49.524222 ], [ 8.197953, 49.5290755 ], [ 8.1863625, 49.527137499999988 ], [ 8.18151, 49.52684 ], [ 8.1752455, 49.527143 ], [ 8.168689, 49.526054 ], [ 8.175291, 49.5139675 ], [ 8.1798445, 49.514696 ] ] ] } }
+]
+}

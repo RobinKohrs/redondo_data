@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balatonkeresztur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balatonkeresztúr", "metric_roundness": 33.85, "metric_rectangularity": 39.28, "metric_mobile_fit": 42.75, "metric_aspect_ratio": 1.135, "metric_area_km2": 46.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.3614415, 46.731659 ], [ 17.350139, 46.731618499999982 ], [ 17.3447113, 46.6839941 ], [ 17.332166, 46.674980499999982 ], [ 17.3390195, 46.6686895 ], [ 17.3463617, 46.672524399999986 ], [ 17.3945815, 46.682075499999989 ], [ 17.401296, 46.6834915 ], [ 17.440594, 46.691049 ], [ 17.4388055, 46.7030205 ], [ 17.3889101, 46.7008054 ], [ 17.3606075, 46.707159699999984 ], [ 17.372231, 46.734207499999989 ], [ 17.3614415, 46.731659 ] ] ] } }
+]
+}

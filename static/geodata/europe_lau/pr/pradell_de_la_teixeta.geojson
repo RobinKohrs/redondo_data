@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pradell_de_la_teixeta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pradell de la Teixeta", "metric_roundness": 31.83, "metric_rectangularity": 60.22, "metric_mobile_fit": 60.89, "metric_aspect_ratio": 0.954, "metric_area_km2": 39.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.879399, 41.182882 ], [ 0.860661, 41.170928499999988 ], [ 0.8611031, 41.1561799 ], [ 0.8444547, 41.1451634 ], [ 0.835421, 41.1337555 ], [ 0.826598, 41.119722 ], [ 0.8323395, 41.122271 ], [ 0.8491154, 41.1271802 ], [ 0.8898495, 41.132534 ], [ 0.8901491, 41.1391726 ], [ 0.899288, 41.153943 ], [ 0.9055878, 41.1652282 ], [ 0.9017003, 41.174377899999989 ], [ 0.906587, 41.179466 ], [ 0.879399, 41.182882 ] ] ] } }
+]
+}

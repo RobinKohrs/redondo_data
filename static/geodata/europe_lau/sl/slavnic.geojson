@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "slavnic",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Slavníč", "metric_roundness": 39.92, "metric_rectangularity": 59.12, "metric_mobile_fit": 75.6, "metric_aspect_ratio": 0.807, "metric_area_km2": 5.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4628812, 49.515530899999987 ], [ 15.4677156, 49.516428699999985 ], [ 15.468538, 49.5205365 ], [ 15.4484824, 49.518794899999989 ], [ 15.4443197, 49.512988 ], [ 15.4483043, 49.509369199999981 ], [ 15.4484305, 49.501039 ], [ 15.45017, 49.5018885 ], [ 15.4522135, 49.502355 ], [ 15.454987, 49.502397 ], [ 15.4585745, 49.504014 ], [ 15.4605045, 49.504592 ], [ 15.4628812, 49.515530899999987 ] ] ] } }
+]
+}

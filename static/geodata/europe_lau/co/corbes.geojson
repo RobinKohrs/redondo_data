@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "corbes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Corbès", "metric_roundness": 62.18, "metric_rectangularity": 74.34, "metric_mobile_fit": 53.29, "metric_aspect_ratio": 1.03, "metric_area_km2": 6.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.970493, 44.0759335 ], [ 3.9642856, 44.0772693 ], [ 3.9562174, 44.0845504 ], [ 3.9428101, 44.0820757 ], [ 3.9397031, 44.0747646 ], [ 3.9460564, 44.0721255 ], [ 3.9480064, 44.0659991 ], [ 3.954096, 44.063066 ], [ 3.970493, 44.0759335 ] ] ] } }
+]
+}

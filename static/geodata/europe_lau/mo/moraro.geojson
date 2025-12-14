@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moraro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moraro", "metric_roundness": 68.23, "metric_rectangularity": 75.04, "metric_mobile_fit": 65.67, "metric_aspect_ratio": 0.906, "metric_area_km2": 6.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.5083473, 45.9251396 ], [ 13.5138236, 45.9276629 ], [ 13.511989, 45.9326855 ], [ 13.4935775, 45.9376025 ], [ 13.485836, 45.929167 ], [ 13.4871207, 45.922613299999988 ], [ 13.493043, 45.9218839 ], [ 13.5004405, 45.9161115 ], [ 13.509632, 45.9191195 ], [ 13.5083473, 45.9251396 ] ] ] } }
+]
+}

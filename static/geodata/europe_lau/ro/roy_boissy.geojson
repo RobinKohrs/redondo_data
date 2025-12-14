@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roy_boissy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roy-Boissy", "metric_roundness": 59.57, "metric_rectangularity": 66.04, "metric_mobile_fit": 47.79, "metric_aspect_ratio": 1.085, "metric_area_km2": 26.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9294745, 49.600651499999984 ], [ 1.927547, 49.599791499999988 ], [ 1.92314, 49.597971 ], [ 1.9079929, 49.596749599999974 ], [ 1.9057598, 49.5939851 ], [ 1.9065974, 49.585590799999984 ], [ 1.8914855, 49.5803175 ], [ 1.8836485, 49.5745765 ], [ 1.8930236, 49.574577699999978 ], [ 1.9072256, 49.5655278 ], [ 1.9213635, 49.56335 ], [ 1.9460461, 49.5712305 ], [ 1.9448825, 49.586269 ], [ 1.9294745, 49.600651499999984 ] ] ] } }
+]
+}

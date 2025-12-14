@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bouleuse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bouleuse", "metric_roundness": 59.12, "metric_rectangularity": 71.03, "metric_mobile_fit": 74.47, "metric_aspect_ratio": 0.818, "metric_area_km2": 9.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8269753, 49.221377199999985 ], [ 3.8363005, 49.2147575 ], [ 3.83664, 49.2146185 ], [ 3.8433895, 49.217904 ], [ 3.845588, 49.219898 ], [ 3.846621, 49.222401 ], [ 3.849714, 49.222587 ], [ 3.8529855, 49.2218715 ], [ 3.8570109, 49.231056099999982 ], [ 3.855549, 49.2381135 ], [ 3.8516395, 49.238163 ], [ 3.8494655, 49.238873 ], [ 3.8266385, 49.233542 ], [ 3.8269753, 49.221377199999985 ] ] ] } }
+]
+}

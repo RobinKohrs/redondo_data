@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "freyming_merlebach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Freyming-Merlebach", "metric_roundness": 47.8, "metric_rectangularity": 67.36, "metric_mobile_fit": 7.5, "metric_aspect_ratio": 1.488, "metric_area_km2": 21.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7824317, 49.1409885 ], [ 6.796163, 49.138952499999981 ], [ 6.8237885, 49.1434 ], [ 6.8247535, 49.1451325 ], [ 6.831711, 49.147505499999987 ], [ 6.835869, 49.149545 ], [ 6.834567, 49.151311 ], [ 6.7898355, 49.166385 ], [ 6.7739495, 49.167513499999984 ], [ 6.770911, 49.1591882 ], [ 6.7765179, 49.155750499999989 ], [ 6.7756515, 49.145493 ], [ 6.7824317, 49.1409885 ] ] ] } }
+]
+}

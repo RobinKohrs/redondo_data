@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_frestoy_vaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Frestoy-Vaux", "metric_roundness": 65.8, "metric_rectangularity": 67.3, "metric_mobile_fit": 61.17, "metric_aspect_ratio": 0.951, "metric_area_km2": 21.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6106795, 49.577883 ], [ 2.6152484, 49.5822886 ], [ 2.6277935, 49.585307 ], [ 2.62874, 49.5950128 ], [ 2.6321142, 49.5985525 ], [ 2.6240372, 49.6059202 ], [ 2.6272375, 49.609941 ], [ 2.6259495, 49.610944 ], [ 2.6161342, 49.61181389999998 ], [ 2.6071562, 49.6083242 ], [ 2.592675, 49.612322 ], [ 2.5950396, 49.6097502 ], [ 2.5887029, 49.6071437 ], [ 2.581597, 49.599313 ], [ 2.600051, 49.5818685 ], [ 2.6106795, 49.577883 ] ] ] } }
+]
+}

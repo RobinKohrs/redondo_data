@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "battenans_les_mines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Battenans-les-Mines", "metric_roundness": 37.7, "metric_rectangularity": 56.58, "metric_mobile_fit": 90.23, "metric_aspect_ratio": 0.66, "metric_area_km2": 6.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.267056, 47.4052114 ], [ 6.274821, 47.398400099999982 ], [ 6.276748, 47.390409 ], [ 6.280991, 47.389499 ], [ 6.2839655, 47.392055 ], [ 6.283294, 47.401482899999984 ], [ 6.27601, 47.4172285 ], [ 6.272979, 47.416611 ], [ 6.269617, 47.4142035 ], [ 6.2674825, 47.414051 ], [ 6.265864, 47.415502 ], [ 6.262298, 47.41211 ], [ 6.260286, 47.412719 ], [ 6.256918, 47.408487099999988 ], [ 6.259975, 47.4039935 ], [ 6.267056, 47.4052114 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hrdejovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hrdějovice", "metric_roundness": 43.76, "metric_rectangularity": 57.07, "metric_mobile_fit": 69.27, "metric_aspect_ratio": 0.87, "metric_area_km2": 20.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4957255, 49.029287 ], [ 14.472954, 49.027214 ], [ 14.4495455, 49.048455 ], [ 14.4475208, 49.0466636 ], [ 14.4433788, 49.030997 ], [ 14.4454064, 49.023872699999984 ], [ 14.4503025, 49.019817 ], [ 14.4633602, 49.009037899999988 ], [ 14.4784434, 49.0082424 ], [ 14.4820791, 49.0131794 ], [ 14.492657, 49.01255 ], [ 14.4967245, 49.014909 ], [ 14.4957255, 49.029287 ] ] ] } }
+]
+}

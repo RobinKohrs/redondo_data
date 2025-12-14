@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vions", "metric_roundness": 42.91, "metric_rectangularity": 77.57, "metric_mobile_fit": 99.78, "metric_aspect_ratio": 0.56, "metric_area_km2": 11.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.8190595, 45.822997 ], [ 5.8223125, 45.8377105 ], [ 5.821178, 45.8452205 ], [ 5.801112, 45.8457955 ], [ 5.79722, 45.831056 ], [ 5.7958515, 45.8297925 ], [ 5.7958353, 45.8128667 ], [ 5.8094765, 45.81708 ], [ 5.8190595, 45.822997 ] ] ] } }
+]
+}

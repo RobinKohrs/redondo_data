@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sarcy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sarcy", "metric_roundness": 48.17, "metric_rectangularity": 73.07, "metric_mobile_fit": 0.05, "metric_aspect_ratio": 1.562, "metric_area_km2": 16.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8363005, 49.2147575 ], [ 3.802016, 49.206833 ], [ 3.80713, 49.199078 ], [ 3.8247153, 49.1904248 ], [ 3.845175, 49.193187 ], [ 3.8467806, 49.1965364 ], [ 3.8601875, 49.201489 ], [ 3.858447, 49.205249499999987 ], [ 3.853884, 49.206296 ], [ 3.845609, 49.2094195 ], [ 3.843423, 49.212053499999989 ], [ 3.83664, 49.2146185 ], [ 3.8363005, 49.2147575 ] ] ] } }
+]
+}

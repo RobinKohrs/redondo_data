@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pietraserena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pietraserena", "metric_roundness": 47.68, "metric_rectangularity": 55.59, "metric_mobile_fit": 59.67, "metric_aspect_ratio": 0.966, "metric_area_km2": 12.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.338556, 42.250726 ], [ 9.3424661, 42.2470852 ], [ 9.3421654, 42.239834299999984 ], [ 9.3388079, 42.2367685 ], [ 9.3422798, 42.2229817 ], [ 9.3474705, 42.217663499999986 ], [ 9.364133, 42.2237375 ], [ 9.3797273, 42.2298171 ], [ 9.3816815, 42.233994 ], [ 9.3778733, 42.2325732 ], [ 9.3663704, 42.2366086 ], [ 9.3601605, 42.244892 ], [ 9.3502055, 42.2505555 ], [ 9.338556, 42.250726 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santo_stefano_del_sole",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santo Stefano del Sole", "metric_roundness": 47.63, "metric_rectangularity": 61.91, "metric_mobile_fit": 9.79, "metric_aspect_ratio": 1.465, "metric_area_km2": 18.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.906554, 40.878609 ], [ 14.9078729, 40.8826123 ], [ 14.8988109, 40.8866606 ], [ 14.9005615, 40.890052499999989 ], [ 14.8824445, 40.8995847 ], [ 14.8766507, 40.9078338 ], [ 14.8640935, 40.9075455 ], [ 14.856816, 40.901147 ], [ 14.844733, 40.889096 ], [ 14.8463491, 40.884830699999988 ], [ 14.8603495, 40.8752445 ], [ 14.8791363, 40.8836588 ], [ 14.9004025, 40.877044 ], [ 14.901945, 40.876369 ], [ 14.906554, 40.878609 ] ] ] } }
+]
+}

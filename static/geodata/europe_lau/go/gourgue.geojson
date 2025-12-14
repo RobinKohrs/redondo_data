@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gourgue",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gourgue", "metric_roundness": 49.12, "metric_rectangularity": 60.98, "metric_mobile_fit": 24.18, "metric_aspect_ratio": 1.321, "metric_area_km2": 2.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2727055, 43.141209 ], [ 0.2685315, 43.144643 ], [ 0.2632535, 43.144316499999988 ], [ 0.2618855, 43.142762 ], [ 0.2602015, 43.1401235 ], [ 0.260037, 43.1358415 ], [ 0.258259, 43.1341 ], [ 0.260936, 43.131311499999988 ], [ 0.2823885, 43.136748499999975 ], [ 0.2727055, 43.141209 ] ] ] } }
+]
+}

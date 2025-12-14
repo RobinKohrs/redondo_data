@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nievern",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nievern", "metric_roundness": 55.22, "metric_rectangularity": 68.55, "metric_mobile_fit": 15.18, "metric_aspect_ratio": 1.411, "metric_area_km2": 10.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6808753, 50.32267419999998 ], [ 7.7029894, 50.3191196 ], [ 7.7123265, 50.324793 ], [ 7.7020701, 50.3332264 ], [ 7.694454, 50.335351499999987 ], [ 7.6807878, 50.3383821 ], [ 7.6697605, 50.330982 ], [ 7.6701923, 50.325004499999984 ], [ 7.6755215, 50.320778 ], [ 7.6808753, 50.32267419999998 ] ] ] } }
+]
+}

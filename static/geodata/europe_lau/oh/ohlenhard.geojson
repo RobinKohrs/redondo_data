@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ohlenhard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ohlenhard", "metric_roundness": 55.05, "metric_rectangularity": 63.81, "metric_mobile_fit": 46.46, "metric_aspect_ratio": 1.098, "metric_area_km2": 11.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7859055, 50.439709 ], [ 6.7891505, 50.442107 ], [ 6.7782807, 50.451354 ], [ 6.7786715, 50.457106 ], [ 6.7662165, 50.457919 ], [ 6.7617381, 50.449611399999988 ], [ 6.745552, 50.4386576 ], [ 6.7487932, 50.4353048 ], [ 6.7594075, 50.432631699999973 ], [ 6.7712005, 50.436053 ], [ 6.7859055, 50.439709 ] ] ] } }
+]
+}

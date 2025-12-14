@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marano_marchesato",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marano Marchesato", "metric_roundness": 18.68, "metric_rectangularity": 50.99, "metric_mobile_fit": -24.0, "metric_aspect_ratio": 1.803, "metric_area_km2": 8.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1602927, 39.3001435 ], [ 16.183566, 39.3107415 ], [ 16.1913065, 39.324012499999988 ], [ 16.1644288, 39.312929199999985 ], [ 16.1520071, 39.3141692 ], [ 16.1403644, 39.3020611 ], [ 16.13223, 39.2986545 ], [ 16.1602927, 39.3001435 ] ] ] } }
+]
+}

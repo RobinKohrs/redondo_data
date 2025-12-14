@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carrascalejo_el",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carrascalejo, El", "metric_roundness": 69.77, "metric_rectangularity": 83.68, "metric_mobile_fit": 26.42, "metric_aspect_ratio": 1.298, "metric_area_km2": 20.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.3123567, 39.015934499999986 ], [ -6.314813, 39.034153 ], [ -6.3392045, 39.036087 ], [ -6.3553378, 39.0346708 ], [ -6.363367, 39.0238614 ], [ -6.360134, 39.0147228 ], [ -6.344284, 39.0059078 ], [ -6.3164085, 39.005562 ], [ -6.3123567, 39.015934499999986 ] ] ] } }
+]
+}

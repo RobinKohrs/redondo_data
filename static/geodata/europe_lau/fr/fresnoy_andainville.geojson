@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fresnoy_andainville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fresnoy-Andainville", "metric_roundness": 47.52, "metric_rectangularity": 70.94, "metric_mobile_fit": 13.02, "metric_aspect_ratio": 1.432, "metric_area_km2": 9.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7779964, 49.903421499999986 ], [ 1.7942636, 49.899613399999986 ], [ 1.80683, 49.900307 ], [ 1.814429, 49.906095 ], [ 1.808395, 49.910118 ], [ 1.807265, 49.911864 ], [ 1.7947483, 49.9157966 ], [ 1.79533, 49.920260499999976 ], [ 1.7882748, 49.91550669999998 ], [ 1.7807109, 49.916005499999983 ], [ 1.768507, 49.910109 ], [ 1.7779964, 49.903421499999986 ] ] ] } }
+]
+}

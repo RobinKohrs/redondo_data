@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "torre_de_roveri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Torre de' Roveri", "metric_roundness": 30.12, "metric_rectangularity": 50.25, "metric_mobile_fit": -50.72, "metric_aspect_ratio": 2.07, "metric_area_km2": 5.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7814795, 45.7012575 ], [ 9.796687, 45.695426499999982 ], [ 9.7986166, 45.698731599999988 ], [ 9.7933265, 45.7057645 ], [ 9.7709086, 45.705345 ], [ 9.7671028, 45.708098099999987 ], [ 9.7565925, 45.698696 ], [ 9.7590055, 45.6939175 ], [ 9.7814795, 45.7012575 ] ] ] } }
+]
+}

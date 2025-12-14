@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trambly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trambly", "metric_roundness": 69.68, "metric_rectangularity": 73.5, "metric_mobile_fit": 56.3, "metric_aspect_ratio": 1.0, "metric_area_km2": 25.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5071885, 46.3414437 ], [ 4.5039095, 46.3335575 ], [ 4.5094651, 46.3303947 ], [ 4.5106938, 46.325453099999983 ], [ 4.5207249, 46.315434099999983 ], [ 4.5305795, 46.310184 ], [ 4.5445377, 46.3155687 ], [ 4.56118, 46.331981499999983 ], [ 4.5611739, 46.339877399999985 ], [ 4.5532845, 46.3380965 ], [ 4.544465, 46.347120599999982 ], [ 4.5317393, 46.3443451 ], [ 4.5278205, 46.349749 ], [ 4.5071885, 46.3414437 ] ] ] } }
+]
+}

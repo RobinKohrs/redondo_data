@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "verrey_sous_dree",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Verrey-sous-Drée", "metric_roundness": 38.49, "metric_rectangularity": 68.82, "metric_mobile_fit": 77.06, "metric_aspect_ratio": 0.792, "metric_area_km2": 7.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6897067, 47.3612001 ], [ 4.6960039, 47.355933599999986 ], [ 4.703532, 47.354890499999989 ], [ 4.6989245, 47.368327799999989 ], [ 4.6858535, 47.3804935 ], [ 4.673597, 47.377457 ], [ 4.6747715, 47.374013 ], [ 4.6764715, 47.368985 ], [ 4.678749, 47.366553499999981 ], [ 4.679452, 47.361455 ], [ 4.680419, 47.359320499999988 ], [ 4.6897067, 47.3612001 ] ] ] } }
+]
+}

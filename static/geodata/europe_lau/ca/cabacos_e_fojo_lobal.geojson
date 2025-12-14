@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cabacos_e_fojo_lobal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cabaços e Fojo Lobal", "metric_roundness": 53.73, "metric_rectangularity": 65.35, "metric_mobile_fit": 24.89, "metric_aspect_ratio": 1.314, "metric_area_km2": 16.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5539923, 41.692292 ], [ -8.5453165, 41.6940775 ], [ -8.5518465, 41.70288 ], [ -8.577157, 41.7087055 ], [ -8.595031, 41.708436499999983 ], [ -8.598676, 41.702182 ], [ -8.5902273, 41.6952101 ], [ -8.591499, 41.678374 ], [ -8.5826757, 41.6829793 ], [ -8.5754078, 41.6799483 ], [ -8.5646796, 41.684621199999988 ], [ -8.558578, 41.6842325 ], [ -8.5539923, 41.692292 ] ] ] } }
+]
+}

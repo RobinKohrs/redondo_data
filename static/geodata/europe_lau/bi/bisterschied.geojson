@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bisterschied",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bisterschied", "metric_roundness": 51.44, "metric_rectangularity": 73.34, "metric_mobile_fit": 81.12, "metric_aspect_ratio": 0.751, "metric_area_km2": 12.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.745976, 49.631027 ], [ 7.755972, 49.6276849 ], [ 7.762747, 49.631497 ], [ 7.7585007, 49.6376195 ], [ 7.760227, 49.646182499999988 ], [ 7.7450245, 49.658561 ], [ 7.7363925, 49.6515151 ], [ 7.726925, 49.6498615 ], [ 7.7278765, 49.641845 ], [ 7.745976, 49.631027 ] ] ] } }
+]
+}

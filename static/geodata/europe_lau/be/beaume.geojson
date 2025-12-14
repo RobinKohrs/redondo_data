@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beaume",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beaumé", "metric_roundness": 32.85, "metric_rectangularity": 63.32, "metric_mobile_fit": 85.94, "metric_aspect_ratio": 0.422, "metric_area_km2": 22.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1647809, 49.812849399999983 ], [ 4.170154, 49.833957 ], [ 4.1622782, 49.835293799999988 ], [ 4.1590545, 49.840673599999988 ], [ 4.145854, 49.845876499999974 ], [ 4.1352505, 49.841355 ], [ 4.1369452, 49.8302821 ], [ 4.1444952, 49.8200818 ], [ 4.1400999, 49.803760499999974 ], [ 4.143826, 49.793187 ], [ 4.15336, 49.792503 ], [ 4.1647809, 49.812849399999983 ] ] ] } }
+]
+}

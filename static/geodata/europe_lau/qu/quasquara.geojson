@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "quasquara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Quasquara", "metric_roundness": 41.59, "metric_rectangularity": 58.51, "metric_mobile_fit": 70.15, "metric_aspect_ratio": 0.861, "metric_area_km2": 10.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9891117, 41.9053351 ], [ 8.9891117, 41.9019572 ], [ 8.988369, 41.900226 ], [ 9.01365, 41.896361 ], [ 9.02191, 41.905544899999988 ], [ 9.0254872, 41.914604699999984 ], [ 9.022458, 41.928444 ], [ 9.0039353, 41.913931799999979 ], [ 8.9891117, 41.9095459 ], [ 8.9891117, 41.9053351 ] ] ] } }
+]
+}

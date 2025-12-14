@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontenay_le_pesnel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontenay-le-Pesnel", "metric_roundness": 57.5, "metric_rectangularity": 76.45, "metric_mobile_fit": 20.99, "metric_aspect_ratio": 1.353, "metric_area_km2": 24.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.5879205, 49.160108 ], [ -0.5569095, 49.1613465 ], [ -0.5561795, 49.166399 ], [ -0.556405, 49.1701785 ], [ -0.553571, 49.181788 ], [ -0.55648, 49.182009 ], [ -0.556567, 49.186008499999986 ], [ -0.5950075, 49.189488499999975 ], [ -0.597275, 49.188354499999988 ], [ -0.591994, 49.1825639 ], [ -0.6142179, 49.17003 ], [ -0.6143575, 49.166175499999987 ], [ -0.5879205, 49.160108 ] ] ] } }
+]
+}

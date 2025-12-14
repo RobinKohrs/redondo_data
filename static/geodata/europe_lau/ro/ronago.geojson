@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ronago",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ronago", "metric_roundness": 55.76, "metric_rectangularity": 69.61, "metric_mobile_fit": 35.65, "metric_aspect_ratio": 1.206, "metric_area_km2": 4.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9857875, 45.837748399999981 ], [ 8.969984, 45.832353499999989 ], [ 8.986439, 45.821858 ], [ 8.994115, 45.826208499999986 ], [ 8.9974875, 45.8349445 ], [ 8.9857875, 45.837748399999981 ] ] ] } }
+]
+}

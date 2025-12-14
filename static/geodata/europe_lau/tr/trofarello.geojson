@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trofarello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trofarello", "metric_roundness": 48.57, "metric_rectangularity": 77.27, "metric_mobile_fit": 87.0, "metric_aspect_ratio": 0.692, "metric_area_km2": 24.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7532419, 44.993776399999987 ], [ 7.7473126, 45.0005953 ], [ 7.7397124, 44.9998345 ], [ 7.7311497, 44.9751785 ], [ 7.7206728, 44.9626346 ], [ 7.7242975, 44.9529285 ], [ 7.7295644, 44.954996 ], [ 7.753762, 44.95263 ], [ 7.767628, 44.988847 ], [ 7.757116, 44.997736 ], [ 7.7532419, 44.993776399999987 ] ] ] } }
+]
+}

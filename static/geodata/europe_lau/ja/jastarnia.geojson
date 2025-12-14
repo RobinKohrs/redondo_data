@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jastarnia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jastarnia", "metric_roundness": 4.34, "metric_rectangularity": 47.17, "metric_mobile_fit": 6.96, "metric_aspect_ratio": 1.493, "metric_area_km2": 24.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.524924, 54.752226 ], [ 18.618471, 54.7217759 ], [ 18.654184, 54.700263699999986 ], [ 18.6669064, 54.6994038 ], [ 18.675293, 54.692872399999985 ], [ 18.6885452, 54.69375609999998 ], [ 18.7202015, 54.674753 ], [ 18.725264, 54.6767885 ], [ 18.731773, 54.67969 ], [ 18.6555985, 54.712023699999989 ], [ 18.528481, 54.7547905 ], [ 18.524924, 54.752226 ] ] ] } }
+]
+}

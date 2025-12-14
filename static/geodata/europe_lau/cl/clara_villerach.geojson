@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "clara_villerach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Clara-Villerach", "metric_roundness": 31.04, "metric_rectangularity": 58.31, "metric_mobile_fit": 87.03, "metric_aspect_ratio": 0.433, "metric_area_km2": 15.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.454418, 42.603702 ], [ 2.4495604, 42.6090258 ], [ 2.4474218, 42.598997 ], [ 2.4422215, 42.600373 ], [ 2.4406875, 42.599163 ], [ 2.439346, 42.596416 ], [ 2.437032, 42.593715499999988 ], [ 2.435007, 42.588859 ], [ 2.4329385, 42.5871105 ], [ 2.4384056, 42.574334 ], [ 2.4630215, 42.556567 ], [ 2.4601192, 42.568932 ], [ 2.4637745, 42.5821471 ], [ 2.4637279, 42.598773 ], [ 2.4609215, 42.6033255 ], [ 2.454418, 42.603702 ] ] ] } }
+]
+}

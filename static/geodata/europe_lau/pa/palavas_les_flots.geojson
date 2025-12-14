@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "palavas_les_flots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Palavas-les-Flots", "metric_roundness": 30.28, "metric_rectangularity": 51.28, "metric_mobile_fit": -15.0, "metric_aspect_ratio": 1.713, "metric_area_km2": 17.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9076355, 43.545289499999988 ], [ 3.899764, 43.5403605 ], [ 3.8989125, 43.5241205 ], [ 3.90798, 43.517103 ], [ 3.9329034, 43.52435149999998 ], [ 3.9383418, 43.5293334 ], [ 3.969389, 43.5401915 ], [ 3.9700005, 43.547198 ], [ 3.933313, 43.538135499999989 ], [ 3.9076355, 43.545289499999988 ] ] ] } }
+]
+}

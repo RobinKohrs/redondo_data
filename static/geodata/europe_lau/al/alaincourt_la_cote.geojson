@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alaincourt_la_cote",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alaincourt-la-Côte", "metric_roundness": 34.32, "metric_rectangularity": 49.2, "metric_mobile_fit": 66.39, "metric_aspect_ratio": 0.899, "metric_area_km2": 9.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3275105, 48.904872 ], [ 6.325838, 48.895929 ], [ 6.3245894, 48.8861648 ], [ 6.3350302, 48.8831411 ], [ 6.3427228, 48.886904099999981 ], [ 6.345924, 48.88847 ], [ 6.3466605, 48.896564 ], [ 6.36379, 48.906756 ], [ 6.3593505, 48.9118195 ], [ 6.3427228, 48.902714099999983 ], [ 6.3379263, 48.900087399999983 ], [ 6.3293355, 48.905531499999988 ], [ 6.3275105, 48.904872 ] ] ] } }
+]
+}

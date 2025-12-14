@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rebesovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rebešovice", "metric_roundness": 46.52, "metric_rectangularity": 65.39, "metric_mobile_fit": 0.75, "metric_aspect_ratio": 1.555, "metric_area_km2": 9.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6324787, 49.1025643 ], [ 16.6387795, 49.0999851 ], [ 16.6497234, 49.1044489 ], [ 16.6692965, 49.105695499999982 ], [ 16.667304, 49.114547 ], [ 16.6373595, 49.1182514 ], [ 16.6333892, 49.1159861 ], [ 16.6338846, 49.1106472 ], [ 16.6263935, 49.109922 ], [ 16.6259065, 49.101185 ], [ 16.628854, 49.1015455 ], [ 16.6324787, 49.1025643 ] ] ] } }
+]
+}

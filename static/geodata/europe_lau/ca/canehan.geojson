@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "canehan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Canehan", "metric_roundness": 61.87, "metric_rectangularity": 78.89, "metric_mobile_fit": 62.46, "metric_aspect_ratio": 0.938, "metric_area_km2": 14.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.3280168, 49.978871899999987 ], [ 1.3306808, 49.9686275 ], [ 1.340856, 49.963079499999985 ], [ 1.356397, 49.9710684 ], [ 1.3661113, 49.9835719 ], [ 1.3423085, 49.9947485 ], [ 1.3342919, 49.98664 ], [ 1.3262133, 49.9848029 ], [ 1.319924, 49.977559 ], [ 1.3280168, 49.978871899999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zvikovec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zvíkovec", "metric_roundness": 46.05, "metric_rectangularity": 55.01, "metric_mobile_fit": 67.98, "metric_aspect_ratio": 0.883, "metric_area_km2": 9.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.667121, 49.958114 ], [ 13.6774011, 49.953385 ], [ 13.6752676, 49.949059199999986 ], [ 13.6787184, 49.9367701 ], [ 13.689438, 49.9361565 ], [ 13.6950067, 49.9411323 ], [ 13.6947378, 49.953014099999983 ], [ 13.7001115, 49.9604505 ], [ 13.7026595, 49.9620575 ], [ 13.6987955, 49.96165 ], [ 13.6820775, 49.962062699999983 ], [ 13.669935, 49.958966499999988 ], [ 13.667121, 49.958114 ] ] ] } }
+]
+}

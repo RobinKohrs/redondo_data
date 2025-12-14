@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villers_buzon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villers-Buzon", "metric_roundness": 48.18, "metric_rectangularity": 59.2, "metric_mobile_fit": 83.51, "metric_aspect_ratio": 0.727, "metric_area_km2": 6.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.846046, 47.241432499999981 ], [ 5.8397046, 47.224379499999984 ], [ 5.842757, 47.220335 ], [ 5.8564955, 47.2216661 ], [ 5.860162, 47.218123 ], [ 5.8641645, 47.2194115 ], [ 5.866526, 47.220922 ], [ 5.8648445, 47.2306415 ], [ 5.8565817, 47.23249329999998 ], [ 5.8499355, 47.2431625 ], [ 5.846046, 47.241432499999981 ] ] ] } }
+]
+}

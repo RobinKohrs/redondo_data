@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lostroff",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lostroff", "metric_roundness": 40.7, "metric_rectangularity": 59.34, "metric_mobile_fit": 26.77, "metric_aspect_ratio": 1.295, "metric_area_km2": 11.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8866633, 48.875522 ], [ 6.865433, 48.875017499999984 ], [ 6.846513, 48.869742499999987 ], [ 6.8469147, 48.8582298 ], [ 6.844616, 48.855627 ], [ 6.8465085, 48.85542 ], [ 6.8574955, 48.850799 ], [ 6.8659741, 48.8542267 ], [ 6.8673984, 48.862550899999981 ], [ 6.8744065, 48.8636226 ], [ 6.8742803, 48.8669875 ], [ 6.8851357, 48.867280799999989 ], [ 6.8932775, 48.87113 ], [ 6.8866633, 48.875522 ] ] ] } }
+]
+}

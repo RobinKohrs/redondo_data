@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "priscos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Priscos", "metric_roundness": 44.16, "metric_rectangularity": 66.02, "metric_mobile_fit": 50.5, "metric_aspect_ratio": 1.057, "metric_area_km2": 6.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.489719, 41.498123 ], [ -8.4888355, 41.495823 ], [ -8.487658, 41.493902 ], [ -8.484667, 41.491956 ], [ -8.4721227, 41.4887416 ], [ -8.471427, 41.482267 ], [ -8.4613655, 41.4871 ], [ -8.4681976, 41.5008726 ], [ -8.472326, 41.503854 ], [ -8.4776925, 41.502213 ], [ -8.4823225, 41.505494499999976 ], [ -8.4901646, 41.5050155 ], [ -8.4941585, 41.501332 ], [ -8.489719, 41.498123 ] ] ] } }
+]
+}

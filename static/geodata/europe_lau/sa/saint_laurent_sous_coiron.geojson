@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_laurent_sous_coiron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Laurent-sous-Coiron", "metric_roundness": 28.62, "metric_rectangularity": 57.68, "metric_mobile_fit": 94.25, "metric_aspect_ratio": 0.505, "metric_area_km2": 31.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.50711, 44.70375 ], [ 4.503152, 44.7077865 ], [ 4.4967265, 44.7099825 ], [ 4.4977292, 44.6852957 ], [ 4.4885916, 44.6817317 ], [ 4.478993, 44.68617 ], [ 4.469984, 44.680947499999988 ], [ 4.4693917, 44.6692525 ], [ 4.4586733, 44.6458857 ], [ 4.463941, 44.637671 ], [ 4.4845808, 44.6356002 ], [ 4.4911226, 44.6394486 ], [ 4.4936824, 44.6469656 ], [ 4.501785, 44.6465965 ], [ 4.5009216, 44.6757778 ], [ 4.5045964, 44.6917538 ], [ 4.5114925, 44.6978715 ], [ 4.50711, 44.70375 ] ] ] } }
+]
+}

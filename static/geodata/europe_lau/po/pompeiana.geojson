@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pompeiana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pompeiana", "metric_roundness": 43.25, "metric_rectangularity": 61.82, "metric_mobile_fit": 81.23, "metric_aspect_ratio": 0.75, "metric_area_km2": 10.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.909705, 43.8719775 ], [ 7.8911195, 43.874171499999989 ], [ 7.8850715, 43.877718500000015 ], [ 7.8799302, 43.865546099999989 ], [ 7.8826478, 43.8561802 ], [ 7.8751515, 43.849913 ], [ 7.88095, 43.843879299999983 ], [ 7.885534, 43.8441485 ], [ 7.89101, 43.848555 ], [ 7.8997219, 43.8594086 ], [ 7.9103585, 43.864803499999987 ], [ 7.909705, 43.8719775 ] ] ] } }
+]
+}

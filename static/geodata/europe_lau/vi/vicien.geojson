@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vicien",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vicién", "metric_roundness": 45.07, "metric_rectangularity": 73.88, "metric_mobile_fit": 16.9, "metric_aspect_ratio": 1.393, "metric_area_km2": 25.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.4909115, 42.026481499999981 ], [ -0.4714158, 42.0244897 ], [ -0.4548546, 42.0358885 ], [ -0.4459392, 42.0373626 ], [ -0.431719, 42.0353815 ], [ -0.4227898, 42.050716699999981 ], [ -0.4268586, 42.056161 ], [ -0.4380794, 42.062506499999984 ], [ -0.4692955, 42.053623899999984 ], [ -0.494125, 42.037845499999989 ], [ -0.4909115, 42.026481499999981 ] ] ] } }
+]
+}

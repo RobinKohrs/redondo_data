@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montbrun_des_corbieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montbrun-des-Corbières", "metric_roundness": 61.9, "metric_rectangularity": 75.31, "metric_mobile_fit": 38.58, "metric_aspect_ratio": 1.177, "metric_area_km2": 19.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6643996, 43.2073852 ], [ 2.656594, 43.1986925 ], [ 2.656403, 43.1973455 ], [ 2.6620829, 43.189922 ], [ 2.673625, 43.1852805 ], [ 2.678099, 43.184 ], [ 2.6844325, 43.183845 ], [ 2.712436, 43.205854 ], [ 2.695195, 43.212804 ], [ 2.690341, 43.214212 ], [ 2.6820285, 43.214868 ], [ 2.6776805, 43.217173 ], [ 2.666484, 43.218556 ], [ 2.6643996, 43.2073852 ] ] ] } }
+]
+}

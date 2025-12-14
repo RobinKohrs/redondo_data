@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ktikadou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κτικάδου", "metric_roundness": 38.58, "metric_rectangularity": 62.0, "metric_mobile_fit": -9.34, "metric_aspect_ratio": 1.656, "metric_area_km2": 16.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.1556496, 37.5539803 ], [ 25.1663263, 37.546506699999988 ], [ 25.1710718, 37.546703199999982 ], [ 25.1752195, 37.571511 ], [ 25.1732687, 37.5751505 ], [ 25.169138, 37.5743265 ], [ 25.1365031, 37.5697679 ], [ 25.1154195, 37.5531615 ], [ 25.1153842, 37.549795499999988 ], [ 25.1240578, 37.548024399999981 ], [ 25.1307847, 37.5528529 ], [ 25.144661, 37.549946 ], [ 25.1556496, 37.5539803 ] ] ] } }
+]
+}

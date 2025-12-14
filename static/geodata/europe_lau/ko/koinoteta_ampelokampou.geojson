@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ampelokampou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αμπελοκάμπου", "metric_roundness": 69.16, "metric_rectangularity": 78.45, "metric_mobile_fit": 75.26, "metric_aspect_ratio": 0.81, "metric_area_km2": 14.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3311035, 37.839743499999983 ], [ 21.3300055, 37.8416755 ], [ 21.327819, 37.8468295 ], [ 21.3221315, 37.849517 ], [ 21.3159405, 37.853133 ], [ 21.313982, 37.8539465 ], [ 21.2958245, 37.8440065 ], [ 21.2980036, 37.8279588 ], [ 21.31775, 37.8169245 ], [ 21.3240152, 37.81848 ], [ 21.3319126, 37.829018 ], [ 21.3337915, 37.836871 ], [ 21.3311035, 37.839743499999983 ] ] ] } }
+]
+}

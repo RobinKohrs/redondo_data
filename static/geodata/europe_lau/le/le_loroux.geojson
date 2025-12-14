@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_loroux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Loroux", "metric_roundness": 56.97, "metric_rectangularity": 64.8, "metric_mobile_fit": 57.46, "metric_aspect_ratio": 0.988, "metric_area_km2": 25.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0644501, 48.399634699999986 ], [ -1.080461, 48.4169385 ], [ -1.0894635, 48.415050099999974 ], [ -1.1020145, 48.4070349 ], [ -1.1091955, 48.3963525 ], [ -1.1035735, 48.3914616 ], [ -1.1082335, 48.382530499999987 ], [ -1.0565855, 48.379186499999975 ], [ -1.053023, 48.3809725 ], [ -1.0644501, 48.399634699999986 ] ] ] } }
+]
+}

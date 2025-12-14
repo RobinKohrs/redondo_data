@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "esmoriz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Esmoriz", "metric_roundness": 43.74, "metric_rectangularity": 69.0, "metric_mobile_fit": 4.29, "metric_aspect_ratio": 1.52, "metric_area_km2": 17.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6008895, 40.969072 ], [ -8.6066535, 40.9754475 ], [ -8.610929, 40.9759555 ], [ -8.6130155, 40.971815899999989 ], [ -8.6212656, 40.9685251 ], [ -8.6531195, 40.9647785 ], [ -8.6574655, 40.9478325 ], [ -8.6038885, 40.950508 ], [ -8.6008735, 40.963582 ], [ -8.6008895, 40.969072 ] ] ] } }
+]
+}

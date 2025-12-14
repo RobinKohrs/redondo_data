@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "centrache",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Centrache", "metric_roundness": 33.62, "metric_rectangularity": 56.14, "metric_mobile_fit": 45.0, "metric_aspect_ratio": 1.112, "metric_area_km2": 12.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4461873, 38.7222952 ], [ 16.452399, 38.7249285 ], [ 16.4576304, 38.7337212 ], [ 16.4651815, 38.735676 ], [ 16.4578518, 38.7399057 ], [ 16.4432962, 38.7405933 ], [ 16.426929, 38.7471871 ], [ 16.418207, 38.7584405 ], [ 16.4113676, 38.7575693 ], [ 16.407936, 38.7524485 ], [ 16.4221501, 38.739682099999989 ], [ 16.4286559, 38.7267818 ], [ 16.4443305, 38.718303 ], [ 16.4461873, 38.7222952 ] ] ] } }
+]
+}

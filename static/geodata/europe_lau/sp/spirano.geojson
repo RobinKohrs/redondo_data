@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spirano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spirano", "metric_roundness": 54.3, "metric_rectangularity": 75.84, "metric_mobile_fit": 95.16, "metric_aspect_ratio": 0.611, "metric_area_km2": 20.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6553605, 45.600673 ], [ 9.650445, 45.593667 ], [ 9.6529766, 45.585234199999988 ], [ 9.6514895, 45.5775 ], [ 9.6578575, 45.56191 ], [ 9.671633, 45.5634068 ], [ 9.678953, 45.5611745 ], [ 9.6842806, 45.5669731 ], [ 9.6827429, 45.575422899999985 ], [ 9.6869755, 45.5812435 ], [ 9.6816685, 45.591220299999989 ], [ 9.6767055, 45.594658599999988 ], [ 9.675341, 45.603023 ], [ 9.6553605, 45.600673 ] ] ] } }
+]
+}

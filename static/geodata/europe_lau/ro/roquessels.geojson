@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roquessels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roquessels", "metric_roundness": 33.41, "metric_rectangularity": 76.51, "metric_mobile_fit": 94.15, "metric_aspect_ratio": 0.504, "metric_area_km2": 16.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.215409, 43.576768499999979 ], [ 3.2124154, 43.5712338 ], [ 3.2117961, 43.551359199999979 ], [ 3.216815, 43.542054 ], [ 3.2220627, 43.5333911 ], [ 3.2337795, 43.526212499999986 ], [ 3.2340255, 43.52621 ], [ 3.2469552, 43.5335148 ], [ 3.244019, 43.54022 ], [ 3.239123, 43.548674 ], [ 3.2348631, 43.5512413 ], [ 3.2260315, 43.5753335 ], [ 3.215409, 43.576768499999979 ] ] ] } }
+]
+}

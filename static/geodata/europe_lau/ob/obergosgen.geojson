@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "obergosgen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Obergösgen", "metric_roundness": 62.2, "metric_rectangularity": 70.72, "metric_mobile_fit": 71.3, "metric_aspect_ratio": 0.85, "metric_area_km2": 8.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9652765, 47.369608 ], [ 7.967434, 47.3722425 ], [ 7.9560906, 47.374341199999989 ], [ 7.9515828, 47.371545899999987 ], [ 7.9434736, 47.3733024 ], [ 7.939299, 47.370883499999984 ], [ 7.940855, 47.358986499999979 ], [ 7.943492, 47.3592625 ], [ 7.949365, 47.357438 ], [ 7.953419, 47.353687 ], [ 7.9588545, 47.351909 ], [ 7.9654051, 47.356061799999985 ], [ 7.9651985, 47.367108 ], [ 7.9652765, 47.369608 ] ] ] } }
+]
+}

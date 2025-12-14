@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chotyne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chotyně", "metric_roundness": 38.69, "metric_rectangularity": 60.2, "metric_mobile_fit": 83.63, "metric_aspect_ratio": 0.726, "metric_area_km2": 22.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.892072, 50.8303293 ], [ 14.8995625, 50.8400095 ], [ 14.8933423, 50.8524318 ], [ 14.8932689, 50.8598678 ], [ 14.8667279, 50.8543136 ], [ 14.8650295, 50.8473795 ], [ 14.8582059, 50.8417485 ], [ 14.8510348, 50.8239709 ], [ 14.8557394, 50.817670899999982 ], [ 14.8663763, 50.826849899999985 ], [ 14.876522, 50.826173 ], [ 14.892072, 50.8303293 ] ] ] } }
+]
+}

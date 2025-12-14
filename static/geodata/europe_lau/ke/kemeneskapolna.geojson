@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kemeneskapolna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kemeneskápolna", "metric_roundness": 43.05, "metric_rectangularity": 64.25, "metric_mobile_fit": 92.76, "metric_aspect_ratio": 0.635, "metric_area_km2": 10.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.1060672, 47.2268288 ], [ 17.1040793, 47.2211049 ], [ 17.091713, 47.214143 ], [ 17.0941242, 47.2072076 ], [ 17.0969655, 47.198362499999988 ], [ 17.1076035, 47.1997345 ], [ 17.113043, 47.200955 ], [ 17.117236, 47.2022995 ], [ 17.1160113, 47.2072076 ], [ 17.1218063, 47.221068499999987 ], [ 17.1147815, 47.230557499999989 ], [ 17.1060672, 47.2268288 ] ] ] } }
+]
+}

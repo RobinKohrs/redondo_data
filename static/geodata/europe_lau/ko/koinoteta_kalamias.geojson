@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kalamias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καλαμιάς", "metric_roundness": 47.93, "metric_rectangularity": 62.93, "metric_mobile_fit": 51.29, "metric_aspect_ratio": 1.05, "metric_area_km2": 14.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.9149495, 39.1955015 ], [ 20.900387, 39.1882685 ], [ 20.8932574, 39.1814123 ], [ 20.8954555, 39.173602 ], [ 20.9022914, 39.169647299999987 ], [ 20.9406975, 39.160463 ], [ 20.9276592, 39.186983399999981 ], [ 20.9180195, 39.192294499999988 ], [ 20.9149495, 39.1955015 ] ] ] } }
+]
+}

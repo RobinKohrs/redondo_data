@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valeyres_sous_ursins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valeyres-sous-Ursins", "metric_roundness": 49.32, "metric_rectangularity": 80.12, "metric_mobile_fit": 81.92, "metric_aspect_ratio": 0.743, "metric_area_km2": 6.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6670975, 46.7455775 ], [ 6.6507755, 46.756504 ], [ 6.6435767, 46.750313899999988 ], [ 6.640808, 46.7436875 ], [ 6.655814, 46.732267499999985 ], [ 6.6670975, 46.7455775 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "richelieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Richelieu", "metric_roundness": 44.28, "metric_rectangularity": 60.85, "metric_mobile_fit": 96.17, "metric_aspect_ratio": 0.601, "metric_area_km2": 10.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3135955, 47.0025395 ], [ 0.31626, 47.005151 ], [ 0.320913, 47.005593 ], [ 0.318423, 46.99835 ], [ 0.3237215, 46.9973635 ], [ 0.329014, 47.0033798 ], [ 0.3228355, 47.023753499999984 ], [ 0.3289865, 47.030707 ], [ 0.309938, 47.028032 ], [ 0.2996325, 47.019376399999977 ], [ 0.306038, 47.0112478 ], [ 0.3048212, 47.0052175 ], [ 0.30817, 46.999924 ], [ 0.3135955, 47.0025395 ] ] ] } }
+]
+}

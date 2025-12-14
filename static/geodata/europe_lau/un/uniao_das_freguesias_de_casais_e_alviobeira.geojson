@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_casais_e_alviobeira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Casais e Alviobeira", "metric_roundness": 46.17, "metric_rectangularity": 69.44, "metric_mobile_fit": 86.61, "metric_aspect_ratio": 0.696, "metric_area_km2": 60.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.3916074, 39.6286893 ], [ -8.3846615, 39.6216416 ], [ -8.3605895, 39.617898 ], [ -8.353446, 39.622397499999984 ], [ -8.351098, 39.6256577 ], [ -8.3529871, 39.639033299999987 ], [ -8.331735, 39.6476835 ], [ -8.3374654, 39.6561287 ], [ -8.3411184, 39.6770767 ], [ -8.3322782, 39.6930209 ], [ -8.3389405, 39.695018 ], [ -8.3633258, 39.6970332 ], [ -8.37355, 39.6899125 ], [ -8.3779187, 39.6821374 ], [ -8.388335, 39.681114 ], [ -8.3864267, 39.6745188 ], [ -8.3997651, 39.661086 ], [ -8.3992957, 39.6357652 ], [ -8.403314, 39.6220435 ], [ -8.3916074, 39.6286893 ] ] ] } }
+]
+}

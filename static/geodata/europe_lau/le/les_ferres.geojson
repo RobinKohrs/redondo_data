@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_ferres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Ferres", "metric_roundness": 51.67, "metric_rectangularity": 65.06, "metric_mobile_fit": 38.34, "metric_aspect_ratio": 1.179, "metric_area_km2": 26.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.075527, 43.824985 ], [ 7.0860215, 43.822247 ], [ 7.088669, 43.8226715 ], [ 7.1032275, 43.8287625 ], [ 7.1226613, 43.8463445 ], [ 7.1286175, 43.848589 ], [ 7.125388, 43.8541265 ], [ 7.1155504, 43.8543935 ], [ 7.1070463, 43.861203299999985 ], [ 7.1011255, 43.8607425 ], [ 7.0843153, 43.855083099999987 ], [ 7.072085, 43.855196 ], [ 7.0649305, 43.8256005 ], [ 7.075527, 43.824985 ] ] ] } }
+]
+}

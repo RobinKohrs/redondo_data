@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "macouba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Macouba", "metric_roundness": 37.96, "metric_rectangularity": 57.17, "metric_mobile_fit": 91.29, "metric_aspect_ratio": 0.65, "metric_area_km2": 18.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -61.1638075, 14.816010499999983 ], [ -61.144655, 14.8385774 ], [ -61.125482, 14.873507 ], [ -61.1482958, 14.8782597 ], [ -61.166471, 14.877107 ], [ -61.1673183, 14.8533697 ], [ -61.164047599999982, 14.8401487 ], [ -61.1664895, 14.817207 ], [ -61.1638075, 14.816010499999983 ] ] ] } }
+]
+}

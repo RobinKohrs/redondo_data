@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_cebria_de_vallalta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant Cebrià de Vallalta", "metric_roundness": 45.06, "metric_rectangularity": 65.65, "metric_mobile_fit": 94.58, "metric_aspect_ratio": 0.617, "metric_area_km2": 28.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5973462, 41.6075157 ], [ 2.6213179, 41.6160809 ], [ 2.628419, 41.629387 ], [ 2.62832, 41.638149 ], [ 2.627279, 41.647942 ], [ 2.6112655, 41.6484396 ], [ 2.6073678, 41.650502099999983 ], [ 2.605174, 41.6573545 ], [ 2.5930015, 41.6588755 ], [ 2.5934712, 41.6434857 ], [ 2.5795547, 41.6179618 ], [ 2.582045, 41.6105575 ], [ 2.588383, 41.599655 ], [ 2.5973462, 41.6075157 ] ] ] } }
+]
+}

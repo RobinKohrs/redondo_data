@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "memmelshoffen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Memmelshoffen", "metric_roundness": 63.91, "metric_rectangularity": 82.64, "metric_mobile_fit": 74.4, "metric_aspect_ratio": 0.819, "metric_area_km2": 4.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8626428, 48.96258 ], [ 7.8627903, 48.956531299999973 ], [ 7.8663405, 48.9516235 ], [ 7.870698, 48.9506885 ], [ 7.8743269, 48.9511169 ], [ 7.88365, 48.9606085 ], [ 7.868056, 48.96754 ], [ 7.8626428, 48.96258 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "banka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Banka", "metric_roundness": 39.81, "metric_rectangularity": 57.76, "metric_mobile_fit": 16.93, "metric_aspect_ratio": 1.393, "metric_area_km2": 18.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.8493641, 48.5713594 ], [ 17.875622, 48.5646095 ], [ 17.881317, 48.569982 ], [ 17.8865162, 48.5729642 ], [ 17.891394, 48.583952499999988 ], [ 17.8727739, 48.5834013 ], [ 17.851929, 48.593065499999987 ], [ 17.8465323, 48.5867864 ], [ 17.8360601, 48.581301899999985 ], [ 17.8304799, 48.5721612 ], [ 17.829254, 48.563556 ], [ 17.8493641, 48.5713594 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_montagne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Montagne", "metric_roundness": 45.61, "metric_rectangularity": 62.06, "metric_mobile_fit": 80.14, "metric_aspect_ratio": 0.761, "metric_area_km2": 7.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6886035, 47.175115 ], [ -1.6796425, 47.1727705 ], [ -1.676196, 47.176133 ], [ -1.6666185, 47.188492 ], [ -1.6688025, 47.188551 ], [ -1.6819892, 47.19163469999998 ], [ -1.6944625, 47.198992499999981 ], [ -1.6957992, 47.1908178 ], [ -1.6915359, 47.187119099999983 ], [ -1.695983, 47.175758 ], [ -1.6886035, 47.175115 ] ] ] } }
+]
+}

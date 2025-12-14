@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ampelophytou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αμπελοφύτου", "metric_roundness": 41.06, "metric_rectangularity": 71.87, "metric_mobile_fit": 83.58, "metric_aspect_ratio": 0.727, "metric_area_km2": 12.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6793091, 37.0280121 ], [ 21.6849559, 37.0261011 ], [ 21.6942033, 37.0333119 ], [ 21.708968, 37.0587565 ], [ 21.7007859, 37.0603566 ], [ 21.6972619, 37.0653523 ], [ 21.6938739, 37.0654661 ], [ 21.675191, 37.048366 ], [ 21.672686, 37.0256145 ], [ 21.6793091, 37.0280121 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bastennes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bastennes", "metric_roundness": 64.54, "metric_rectangularity": 73.21, "metric_mobile_fit": 45.94, "metric_aspect_ratio": 1.103, "metric_area_km2": 13.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7628996, 43.6623689 ], [ -0.7740505, 43.665673 ], [ -0.7805677, 43.663331599999985 ], [ -0.7879478, 43.654294 ], [ -0.8023388, 43.6490281 ], [ -0.799683, 43.6432535 ], [ -0.7867993, 43.639307099999982 ], [ -0.7854408, 43.635799099999986 ], [ -0.7760235, 43.63576 ], [ -0.7673136, 43.6453508 ], [ -0.7567363, 43.6464697 ], [ -0.757515, 43.6566655 ], [ -0.7628996, 43.6623689 ] ] ] } }
+]
+}

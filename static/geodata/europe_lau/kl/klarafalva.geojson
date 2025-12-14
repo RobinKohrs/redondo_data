@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "klarafalva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Klárafalva", "metric_roundness": 47.85, "metric_rectangularity": 60.14, "metric_mobile_fit": 86.63, "metric_aspect_ratio": 0.696, "metric_area_km2": 18.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3083393, 46.22052129999998 ], [ 20.3197624, 46.21783689999998 ], [ 20.321445, 46.214918 ], [ 20.3191317, 46.2098243 ], [ 20.3126972, 46.205650299999988 ], [ 20.3321833, 46.197235099999986 ], [ 20.339729, 46.210340499999987 ], [ 20.3515065, 46.222965 ], [ 20.3419698, 46.2287782 ], [ 20.3347311, 46.2401366 ], [ 20.3182112, 46.2373084 ], [ 20.3125415, 46.238789 ], [ 20.3083393, 46.22052129999998 ] ] ] } }
+]
+}

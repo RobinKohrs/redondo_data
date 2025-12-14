@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kilchberg_bl",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kilchberg (BL)", "metric_roundness": 41.64, "metric_rectangularity": 53.15, "metric_mobile_fit": 71.14, "metric_aspect_ratio": 0.851, "metric_area_km2": 3.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8946201, 47.4184877 ], [ 7.8975873, 47.421768 ], [ 7.910503, 47.424863 ], [ 7.905514, 47.4272845 ], [ 7.8979065, 47.436516499999989 ], [ 7.8989622, 47.433422899999975 ], [ 7.8897143, 47.42812259999998 ], [ 7.8878225, 47.419709499999989 ], [ 7.8946201, 47.4184877 ] ] ] } }
+]
+}

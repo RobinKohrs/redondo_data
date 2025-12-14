@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "quemperven",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Quemperven", "metric_roundness": 75.2, "metric_rectangularity": 78.3, "metric_mobile_fit": 58.46, "metric_aspect_ratio": 0.978, "metric_area_km2": 18.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.3123621, 48.7226839 ], [ -3.3140439, 48.732262099999986 ], [ -3.3346318, 48.739036 ], [ -3.338406, 48.742475 ], [ -3.3593955, 48.7287535 ], [ -3.358848, 48.718551 ], [ -3.3467263, 48.7150451 ], [ -3.3417335, 48.710747 ], [ -3.3223735, 48.7147825 ], [ -3.3123621, 48.7226839 ] ] ] } }
+]
+}

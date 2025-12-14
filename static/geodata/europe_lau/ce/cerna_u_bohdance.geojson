@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cerna_u_bohdance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Černá u Bohdanče", "metric_roundness": 48.31, "metric_rectangularity": 76.78, "metric_mobile_fit": 57.22, "metric_aspect_ratio": 0.99, "metric_area_km2": 6.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.6770735, 50.0454995 ], [ 15.6808592, 50.0466768 ], [ 15.686805, 50.0603015 ], [ 15.6771136, 50.06076239999998 ], [ 15.6724736, 50.0639915 ], [ 15.6647645, 50.056038499999985 ], [ 15.658283, 50.046159 ], [ 15.6770735, 50.0454995 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_honorine_du_fay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Honorine-du-Fay", "metric_roundness": 34.76, "metric_rectangularity": 59.68, "metric_mobile_fit": -57.91, "metric_aspect_ratio": 2.142, "metric_area_km2": 17.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.511706, 49.074567 ], [ -0.523735, 49.062374 ], [ -0.520799, 49.060241499999989 ], [ -0.5136064, 49.0628919 ], [ -0.4916485, 49.060377 ], [ -0.4578055, 49.063816 ], [ -0.451458, 49.0653675 ], [ -0.4855995, 49.080373 ], [ -0.4909798, 49.0823511 ], [ -0.4970977, 49.080009 ], [ -0.5149775, 49.0804585 ], [ -0.511706, 49.074567 ] ] ] } }
+]
+}

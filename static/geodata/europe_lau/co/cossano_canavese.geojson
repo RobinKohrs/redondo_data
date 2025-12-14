@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cossano_canavese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cossano Canavese", "metric_roundness": 57.39, "metric_rectangularity": 66.56, "metric_mobile_fit": 73.54, "metric_aspect_ratio": 0.827, "metric_area_km2": 6.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9924477, 45.3928953 ], [ 7.9855562, 45.386612 ], [ 7.990216, 45.382705499999986 ], [ 7.9910855, 45.377782 ], [ 8.009776, 45.375698 ], [ 8.008173, 45.3856173 ], [ 8.0116927, 45.393162499999988 ], [ 8.008894, 45.39789 ], [ 7.9981432, 45.3927839 ], [ 7.9959526, 45.3936429 ], [ 7.9971718, 45.3974037 ], [ 7.991959, 45.395923 ], [ 7.9924477, 45.3928953 ] ] ] } }
+]
+}

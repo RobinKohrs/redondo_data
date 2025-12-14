@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ladeveze_riviere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ladevèze-Rivière", "metric_roundness": 50.17, "metric_rectangularity": 73.93, "metric_mobile_fit": 58.98, "metric_aspect_ratio": 0.973, "metric_area_km2": 26.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1126464, 43.5380805 ], [ 0.1085701, 43.5415088 ], [ 0.1047754, 43.556233499999983 ], [ 0.0993523, 43.5594654 ], [ 0.100598, 43.5633645 ], [ 0.085325, 43.572081499999989 ], [ 0.0727845, 43.5669717 ], [ 0.0600731, 43.5707372 ], [ 0.057565, 43.564235 ], [ 0.0588521, 43.5560829 ], [ 0.0718842, 43.5331761 ], [ 0.0808401, 43.5344844 ], [ 0.088597, 43.5310415 ], [ 0.111148, 43.532129 ], [ 0.1126464, 43.5380805 ] ] ] } }
+]
+}

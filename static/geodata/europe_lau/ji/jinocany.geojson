@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jinocany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jinočany", "metric_roundness": 42.36, "metric_rectangularity": 66.46, "metric_mobile_fit": -17.48, "metric_aspect_ratio": 1.737, "metric_area_km2": 9.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.248141, 50.035636499999981 ], [ 14.2438975, 50.034431 ], [ 14.2453965, 50.0308615 ], [ 14.240594, 50.030458 ], [ 14.24927, 50.023634 ], [ 14.2617345, 50.025923399999975 ], [ 14.270979, 50.022379499999978 ], [ 14.2892795, 50.0274095 ], [ 14.270526, 50.040381 ], [ 14.248141, 50.035636499999981 ] ] ] } }
+]
+}

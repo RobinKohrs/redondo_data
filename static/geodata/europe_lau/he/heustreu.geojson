@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heustreu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heustreu", "metric_roundness": 55.09, "metric_rectangularity": 64.21, "metric_mobile_fit": 37.33, "metric_aspect_ratio": 1.189, "metric_area_km2": 25.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.2868135, 50.3359995 ], [ 10.2810302, 50.3431113 ], [ 10.2747645, 50.36278 ], [ 10.2606392, 50.3683719 ], [ 10.2451275, 50.367982 ], [ 10.2392014, 50.367177399999981 ], [ 10.2316848, 50.3550411 ], [ 10.2239155, 50.3509725 ], [ 10.2350657, 50.345464399999983 ], [ 10.2399875, 50.3393735 ], [ 10.2627509, 50.3383027 ], [ 10.2683905, 50.334623 ], [ 10.2868135, 50.3359995 ] ] ] } }
+]
+}

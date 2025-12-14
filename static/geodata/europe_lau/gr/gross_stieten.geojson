@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gross_stieten",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Groß Stieten", "metric_roundness": 60.16, "metric_rectangularity": 72.26, "metric_mobile_fit": 33.62, "metric_aspect_ratio": 1.226, "metric_area_km2": 17.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.4293756, 53.8067977 ], [ 11.4456535, 53.799959099999988 ], [ 11.4740655, 53.8091565 ], [ 11.4737882, 53.8130105 ], [ 11.4678366, 53.814138899999989 ], [ 11.4538873, 53.8237866 ], [ 11.4361606, 53.826402699999981 ], [ 11.4313765, 53.822847499999988 ], [ 11.4191403, 53.8095626 ], [ 11.42085, 53.806729 ], [ 11.4293756, 53.8067977 ] ] ] } }
+]
+}

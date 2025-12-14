@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "flaumont_waudrechies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Flaumont-Waudrechies", "metric_roundness": 48.65, "metric_rectangularity": 68.05, "metric_mobile_fit": 49.9, "metric_aspect_ratio": 1.064, "metric_area_km2": 13.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9483827, 50.1218962 ], [ 3.9646437, 50.1175845 ], [ 3.975367, 50.119512 ], [ 3.9791216, 50.1268209 ], [ 3.9897251, 50.1318736 ], [ 3.987653, 50.135256 ], [ 3.9906645, 50.143573 ], [ 3.9883085, 50.144601499999986 ], [ 3.9860785, 50.144767 ], [ 3.980856, 50.143535 ], [ 3.977091, 50.143765499999979 ], [ 3.9599746, 50.139996199999977 ], [ 3.9539777, 50.1283948 ], [ 3.9455655, 50.127124 ], [ 3.9483827, 50.1218962 ] ] ] } }
+]
+}

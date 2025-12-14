@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niedertiefenbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niedertiefenbach", "metric_roundness": 32.19, "metric_rectangularity": 54.46, "metric_mobile_fit": 18.3, "metric_aspect_ratio": 1.379, "metric_area_km2": 9.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9151756, 50.2570499 ], [ 7.9245813, 50.2557906 ], [ 7.928661, 50.258295499999988 ], [ 7.9318789, 50.2610738 ], [ 7.930731, 50.2633475 ], [ 7.929705, 50.264648 ], [ 7.9283394, 50.261857 ], [ 7.9221405, 50.263767 ], [ 7.9193065, 50.265464499999986 ], [ 7.9201135, 50.2704554 ], [ 7.916097, 50.272814 ], [ 7.913289, 50.2727865 ], [ 7.8882655, 50.2579135 ], [ 7.8796, 50.2485865 ], [ 7.8872832, 50.251664899999987 ], [ 7.9113145, 50.253755 ], [ 7.9151756, 50.2570499 ] ] ] } }
+]
+}

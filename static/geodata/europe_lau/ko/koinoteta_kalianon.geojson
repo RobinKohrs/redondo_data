@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kalianon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καλιανών", "metric_roundness": 60.78, "metric_rectangularity": 69.61, "metric_mobile_fit": 80.62, "metric_aspect_ratio": 0.756, "metric_area_km2": 18.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.5206291, 37.8729711 ], [ 22.5143863, 37.8821624 ], [ 22.5177105, 37.891296 ], [ 22.5172018, 37.899123 ], [ 22.499862, 37.9030535 ], [ 22.4857583, 37.8945129 ], [ 22.4869191, 37.8887194 ], [ 22.4834473, 37.8823238 ], [ 22.482718, 37.8711635 ], [ 22.4788775, 37.866879 ], [ 22.4886085, 37.8646338 ], [ 22.4933615, 37.8594795 ], [ 22.5015275, 37.860522499999988 ], [ 22.5206291, 37.8729711 ] ] ] } }
+]
+}

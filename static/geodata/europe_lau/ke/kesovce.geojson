@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kesovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kesovce", "metric_roundness": 32.16, "metric_rectangularity": 51.9, "metric_mobile_fit": 96.9, "metric_aspect_ratio": 0.532, "metric_area_km2": 8.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3975922, 48.417644499999987 ], [ 20.3917023, 48.411092199999985 ], [ 20.4093843, 48.394269099999981 ], [ 20.4079845, 48.3849675 ], [ 20.4164475, 48.393696499999983 ], [ 20.4167335, 48.399766499999984 ], [ 20.4196959, 48.4042915 ], [ 20.4150295, 48.412343599999986 ], [ 20.417726, 48.419933 ], [ 20.3975922, 48.417644499999987 ] ] ] } }
+]
+}

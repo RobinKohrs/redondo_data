@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ollans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ollans", "metric_roundness": 41.81, "metric_rectangularity": 68.94, "metric_mobile_fit": 80.44, "metric_aspect_ratio": 0.758, "metric_area_km2": 4.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.233821, 47.4265695 ], [ 6.2408161, 47.4190824 ], [ 6.2415655, 47.410740499999989 ], [ 6.243277, 47.410065599999989 ], [ 6.2582345, 47.413689 ], [ 6.2568264, 47.4182522 ], [ 6.250549, 47.424667 ], [ 6.2459515, 47.426218 ], [ 6.2389985, 47.431856 ], [ 6.234964, 47.431136 ], [ 6.233821, 47.4265695 ] ] ] } }
+]
+}

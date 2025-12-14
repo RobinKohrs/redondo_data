@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "darligen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Därligen", "metric_roundness": 45.07, "metric_rectangularity": 57.61, "metric_mobile_fit": 41.99, "metric_aspect_ratio": 1.143, "metric_area_km2": 15.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8441665, 46.666156 ], [ 7.8347675, 46.667403 ], [ 7.826805, 46.665154 ], [ 7.8169456, 46.6610471 ], [ 7.8030755, 46.665253199999988 ], [ 7.7915935, 46.661428 ], [ 7.7949015, 46.65584 ], [ 7.7915295, 46.649554 ], [ 7.793135, 46.645393 ], [ 7.7962105, 46.644304 ], [ 7.798654, 46.640518 ], [ 7.8092005, 46.635779499999984 ], [ 7.8099375, 46.6385025 ], [ 7.8306545, 46.653429 ], [ 7.8441665, 46.666156 ] ] ] } }
+]
+}

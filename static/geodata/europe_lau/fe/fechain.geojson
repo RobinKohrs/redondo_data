@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fechain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Féchain", "metric_roundness": 66.82, "metric_rectangularity": 77.72, "metric_mobile_fit": 27.22, "metric_aspect_ratio": 1.29, "metric_area_km2": 12.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2112235, 50.27984 ], [ 3.2051525, 50.277864 ], [ 3.1949015, 50.273799 ], [ 3.1930365, 50.271482499999976 ], [ 3.1950255, 50.260452499999985 ], [ 3.210356, 50.258899 ], [ 3.2318065, 50.263779 ], [ 3.2353109, 50.266658899999989 ], [ 3.2301582, 50.2697431 ], [ 3.230209, 50.2765365 ], [ 3.213385, 50.2792855 ], [ 3.2112235, 50.27984 ] ] ] } }
+]
+}

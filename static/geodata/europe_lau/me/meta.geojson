@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "meta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Meta", "metric_roundness": 26.22, "metric_rectangularity": 60.49, "metric_mobile_fit": 71.59, "metric_aspect_ratio": 0.847, "metric_area_km2": 3.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4310066, 40.6344932 ], [ 14.4233639, 40.6462284 ], [ 14.416405, 40.645733 ], [ 14.4082855, 40.651677 ], [ 14.4058655, 40.643164 ], [ 14.431996, 40.628256 ], [ 14.4310066, 40.6344932 ] ] ] } }
+]
+}

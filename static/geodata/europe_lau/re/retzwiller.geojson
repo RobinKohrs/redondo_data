@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "retzwiller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Retzwiller", "metric_roundness": 55.24, "metric_rectangularity": 73.15, "metric_mobile_fit": 34.35, "metric_aspect_ratio": 1.219, "metric_area_km2": 9.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0827186, 47.635935199999984 ], [ 7.0695355, 47.633956 ], [ 7.0694774, 47.628254399999982 ], [ 7.0747343, 47.6246219 ], [ 7.0751195, 47.6191065 ], [ 7.0785965, 47.6177485 ], [ 7.0840993, 47.6213631 ], [ 7.1054755, 47.626199499999984 ], [ 7.108874, 47.632862499999987 ], [ 7.0920085, 47.638780499999989 ], [ 7.0880095, 47.63953 ], [ 7.0827186, 47.635935199999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zdetin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zdětín", "metric_roundness": 45.68, "metric_rectangularity": 63.22, "metric_mobile_fit": 88.6, "metric_aspect_ratio": 0.677, "metric_area_km2": 12.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9914605, 49.497278 ], [ 16.994869, 49.498752 ], [ 17.005352, 49.5105295 ], [ 16.990665, 49.5152013 ], [ 16.9896715, 49.529007 ], [ 16.9835118, 49.5286469 ], [ 16.972901, 49.5217995 ], [ 16.9704259, 49.5132763 ], [ 16.9744607, 49.5093527 ], [ 16.9776275, 49.495487499999982 ], [ 16.9914605, 49.497278 ] ] ] } }
+]
+}

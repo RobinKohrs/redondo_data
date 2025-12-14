@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zalaigrice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zalaigrice", "metric_roundness": 49.68, "metric_rectangularity": 57.73, "metric_mobile_fit": 76.0, "metric_aspect_ratio": 0.803, "metric_area_km2": 16.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9901895, 46.746682 ], [ 16.9867605, 46.741311 ], [ 17.0055081, 46.731604 ], [ 17.021968, 46.731198 ], [ 17.0221839, 46.748901599999982 ], [ 17.0194491, 46.755106599999984 ], [ 17.0278019, 46.766631799999985 ], [ 17.0231295, 46.768559499999981 ], [ 17.0145421, 46.7615818 ], [ 16.9840425, 46.7566945 ], [ 16.990122, 46.752034 ], [ 16.9901895, 46.746682 ] ] ] } }
+]
+}

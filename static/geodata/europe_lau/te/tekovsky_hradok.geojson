@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tekovsky_hradok",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tekovský Hrádok", "metric_roundness": 54.88, "metric_rectangularity": 79.03, "metric_mobile_fit": 31.49, "metric_aspect_ratio": 1.248, "metric_area_km2": 16.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.517792, 48.1626515 ], [ 18.536724, 48.155034 ], [ 18.5506415, 48.149589 ], [ 18.5734815, 48.166450499999982 ], [ 18.570279, 48.166204499999985 ], [ 18.571637, 48.1704915 ], [ 18.5568942, 48.172352499999981 ], [ 18.5562407, 48.174669699999988 ], [ 18.5604368, 48.17656 ], [ 18.5580098, 48.1793609 ], [ 18.5548389, 48.1768961 ], [ 18.5432825, 48.178952799999983 ], [ 18.53634, 48.176250499999988 ], [ 18.517792, 48.1626515 ] ] ] } }
+]
+}

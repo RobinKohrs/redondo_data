@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "albiolo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Albiolo", "metric_roundness": 73.66, "metric_rectangularity": 74.67, "metric_mobile_fit": 68.73, "metric_aspect_ratio": 0.875, "metric_area_km2": 5.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9534145, 45.7998745 ], [ 8.9535745, 45.809028 ], [ 8.9477775, 45.815344 ], [ 8.9410227, 45.814569599999984 ], [ 8.929526, 45.8066505 ], [ 8.9297791, 45.8013978 ], [ 8.940866, 45.79619049999998 ], [ 8.9534145, 45.7998745 ] ] ] } }
+]
+}

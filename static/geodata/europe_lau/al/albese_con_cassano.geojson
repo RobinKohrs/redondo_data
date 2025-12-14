@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "albese_con_cassano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Albese con Cassano", "metric_roundness": 26.11, "metric_rectangularity": 64.73, "metric_mobile_fit": 78.57, "metric_aspect_ratio": 0.348, "metric_area_km2": 16.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.177378, 45.7841125 ], [ 9.1730252, 45.803740699999985 ], [ 9.174078, 45.821106 ], [ 9.165152, 45.827008 ], [ 9.1659451, 45.8332783 ], [ 9.169594, 45.836543 ], [ 9.1557695, 45.837733 ], [ 9.1520148, 45.8339546 ], [ 9.1507571, 45.8260633 ], [ 9.1619818, 45.8124563 ], [ 9.1505883, 45.793822399999982 ], [ 9.1533485, 45.7875855 ], [ 9.16408, 45.784609499999988 ], [ 9.177378, 45.7841125 ] ] ] } }
+]
+}

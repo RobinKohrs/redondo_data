@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_dokimiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Δοκιμίου", "metric_roundness": 34.27, "metric_rectangularity": 69.02, "metric_mobile_fit": 97.53, "metric_aspect_ratio": 0.587, "metric_area_km2": 20.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3508092, 38.6010197 ], [ 21.3473257, 38.5876557 ], [ 21.3659222, 38.5647873 ], [ 21.3794818, 38.589715699999985 ], [ 21.3772062, 38.6003864 ], [ 21.3932153, 38.616399 ], [ 21.3921279, 38.6197622 ], [ 21.3807478, 38.6200109 ], [ 21.373412, 38.6258675 ], [ 21.3699389, 38.6232222 ], [ 21.3690382, 38.616281099999988 ], [ 21.363317, 38.6154125 ], [ 21.3508092, 38.6010197 ] ] ] } }
+]
+}

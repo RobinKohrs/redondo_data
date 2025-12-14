@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_vicomte_sur_rance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Vicomté-sur-Rance", "metric_roundness": 54.06, "metric_rectangularity": 71.22, "metric_mobile_fit": 17.2, "metric_aspect_ratio": 1.39, "metric_area_km2": 10.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9910674, 48.4967317 ], [ -1.993947, 48.492786399999986 ], [ -2.0014505, 48.4913205 ], [ -1.9990805, 48.4847 ], [ -2.00402, 48.479521499999983 ], [ -1.9895834, 48.4783495 ], [ -1.9788956, 48.482298799999988 ], [ -1.9615345, 48.4821835 ], [ -1.9674714, 48.4939891 ], [ -1.9764725, 48.4986 ], [ -1.9910674, 48.4967317 ] ] ] } }
+]
+}

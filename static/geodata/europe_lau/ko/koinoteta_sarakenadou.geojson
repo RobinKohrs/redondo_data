@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sarakenadou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σαρακηνάδου", "metric_roundness": 63.75, "metric_rectangularity": 72.87, "metric_mobile_fit": 57.59, "metric_aspect_ratio": 0.987, "metric_area_km2": 5.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8349636, 37.788252 ], [ 20.8353615, 37.778313499999982 ], [ 20.8493517, 37.7725438 ], [ 20.8601725, 37.7745035 ], [ 20.8606795, 37.783386 ], [ 20.8565283, 37.783400799999988 ], [ 20.8528829, 37.7899836 ], [ 20.8440955, 37.7931445 ], [ 20.8349636, 37.788252 ] ] ] } }
+]
+}

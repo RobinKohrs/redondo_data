@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rychvald",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rychvald", "metric_roundness": 69.99, "metric_rectangularity": 78.32, "metric_mobile_fit": 55.42, "metric_aspect_ratio": 1.008, "metric_area_km2": 39.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.3490443, 49.863565 ], [ 18.3460556, 49.847686499999988 ], [ 18.3659155, 49.8418915 ], [ 18.400673, 49.8463705 ], [ 18.3977959, 49.857378 ], [ 18.4036272, 49.858544799999983 ], [ 18.4089159, 49.866597599999984 ], [ 18.399458, 49.88150169999998 ], [ 18.3943295, 49.884093499999985 ], [ 18.3663837, 49.878511599999982 ], [ 18.3493107, 49.8809479 ], [ 18.342907, 49.878224 ], [ 18.3490443, 49.863565 ] ] ] } }
+]
+}

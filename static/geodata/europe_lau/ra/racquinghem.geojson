@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "racquinghem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Racquinghem", "metric_roundness": 40.27, "metric_rectangularity": 71.27, "metric_mobile_fit": 12.08, "metric_aspect_ratio": 1.442, "metric_area_km2": 13.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3387605, 50.686531 ], [ 2.3411045, 50.68541 ], [ 2.3446345, 50.685634 ], [ 2.348955, 50.684826499999986 ], [ 2.3585724, 50.6869103 ], [ 2.3635245, 50.6846445 ], [ 2.373229, 50.691647499999988 ], [ 2.387666, 50.6985665 ], [ 2.3873865, 50.7005035 ], [ 2.381582, 50.701179 ], [ 2.3738035, 50.706033499999975 ], [ 2.3660075, 50.7090525 ], [ 2.3478985, 50.6997865 ], [ 2.3340315, 50.6895 ], [ 2.332112, 50.687024 ], [ 2.3387605, 50.686531 ] ] ] } }
+]
+}

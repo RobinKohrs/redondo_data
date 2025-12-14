@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tekoldany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tekolďany", "metric_roundness": 16.25, "metric_rectangularity": 69.95, "metric_mobile_fit": 46.8, "metric_aspect_ratio": 1.095, "metric_area_km2": 5.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.908653, 48.4872715 ], [ 17.9253195, 48.4759215 ], [ 17.932605, 48.4804975 ], [ 17.915415, 48.493259 ], [ 17.8851105, 48.50468 ], [ 17.908653, 48.4872715 ] ] ] } }
+]
+}

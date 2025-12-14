@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blanzee",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Blanzée", "metric_roundness": 35.57, "metric_rectangularity": 61.38, "metric_mobile_fit": -35.82, "metric_aspect_ratio": 1.921, "metric_area_km2": 7.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.556788, 49.160517 ], [ 5.554063, 49.1646705 ], [ 5.5303695, 49.168095 ], [ 5.5107285, 49.155146 ], [ 5.5222983, 49.1569766 ], [ 5.5392623, 49.152412799999986 ], [ 5.54933, 49.155691 ], [ 5.556788, 49.160517 ] ] ] } }
+]
+}

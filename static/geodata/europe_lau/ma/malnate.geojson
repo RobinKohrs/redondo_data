@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "malnate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malnate", "metric_roundness": 62.19, "metric_rectangularity": 65.27, "metric_mobile_fit": 41.53, "metric_aspect_ratio": 1.147, "metric_area_km2": 18.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9027065, 45.7982972 ], [ 8.8969715, 45.812924 ], [ 8.887969, 45.809881399999988 ], [ 8.8677815, 45.814331 ], [ 8.8641374, 45.8034926 ], [ 8.8689416, 45.7989132 ], [ 8.8572941, 45.789209299999989 ], [ 8.8661925, 45.783942499999981 ], [ 8.8678395, 45.7831245 ], [ 8.89168, 45.7867125 ], [ 8.9004195, 45.7847735 ], [ 8.9086425, 45.7932735 ], [ 8.9027065, 45.7982972 ] ] ] } }
+]
+}

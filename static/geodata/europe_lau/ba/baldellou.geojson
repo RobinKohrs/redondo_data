@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baldellou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baldellou", "metric_roundness": 59.9, "metric_rectangularity": 83.38, "metric_mobile_fit": 14.2, "metric_aspect_ratio": 1.42, "metric_area_km2": 55.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.601044, 41.9085275 ], [ 0.5955155, 41.9165544 ], [ 0.6043876, 41.9189069 ], [ 0.6030394, 41.9218571 ], [ 0.5624965, 41.9326745 ], [ 0.5426987, 41.936822699999986 ], [ 0.5140014, 41.9316863 ], [ 0.5105801, 41.926218399999982 ], [ 0.5105255, 41.913685 ], [ 0.5148137, 41.907081 ], [ 0.5337806, 41.8949107 ], [ 0.5681458, 41.887649 ], [ 0.5960675, 41.892708 ], [ 0.601044, 41.9085275 ] ] ] } }
+]
+}

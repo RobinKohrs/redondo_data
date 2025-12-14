@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_parceiros_e_azoia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Parceiros e Azoia", "metric_roundness": 48.8, "metric_rectangularity": 70.93, "metric_mobile_fit": 93.68, "metric_aspect_ratio": 0.626, "metric_area_km2": 38.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.8206063, 39.712031 ], [ -8.822529, 39.7266651 ], [ -8.8181682, 39.73462 ], [ -8.8231615, 39.745181499999987 ], [ -8.8258705, 39.743355 ], [ -8.827997, 39.742305 ], [ -8.8385485, 39.7410725 ], [ -8.8508395, 39.740395 ], [ -8.8711935, 39.7375755 ], [ -8.8712538, 39.7246428 ], [ -8.8652349, 39.7140744 ], [ -8.8664475, 39.7028116 ], [ -8.8632441, 39.6992448 ], [ -8.8673386, 39.6935986 ], [ -8.8576099, 39.6861608 ], [ -8.854084, 39.6799135 ], [ -8.838731, 39.687133 ], [ -8.8322825, 39.694143 ], [ -8.827326, 39.6943505 ], [ -8.8206063, 39.712031 ] ] ] } }
+]
+}

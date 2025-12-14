@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "taillepied",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Taillepied", "metric_roundness": 47.62, "metric_rectangularity": 63.84, "metric_mobile_fit": 45.71, "metric_aspect_ratio": 1.105, "metric_area_km2": 4.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5779929, 49.3626456 ], [ -1.5700605, 49.366347 ], [ -1.5828596, 49.370323299999988 ], [ -1.5935605, 49.369647 ], [ -1.5943645, 49.3677315 ], [ -1.5943885, 49.3653385 ], [ -1.592855, 49.3626 ], [ -1.594414, 49.36048 ], [ -1.593845, 49.35861 ], [ -1.5959425, 49.358127499999988 ], [ -1.59792, 49.356084 ], [ -1.58492, 49.353909499999986 ], [ -1.5779929, 49.3626456 ] ] ] } }
+]
+}

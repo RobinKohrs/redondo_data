@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krummenau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Krummenau", "metric_roundness": 54.48, "metric_rectangularity": 62.89, "metric_mobile_fit": 39.55, "metric_aspect_ratio": 1.167, "metric_area_km2": 10.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2600733, 49.8789081 ], [ 7.2868058, 49.8768764 ], [ 7.2905385, 49.879822 ], [ 7.2816556, 49.882821 ], [ 7.2863162, 49.890597899999982 ], [ 7.280875, 49.899459 ], [ 7.2773065, 49.8981515 ], [ 7.2717545, 49.896013 ], [ 7.2569115, 49.891664 ], [ 7.2577305, 49.8893324 ], [ 7.2496335, 49.882936299999976 ], [ 7.255911, 49.876929499999989 ], [ 7.2600733, 49.8789081 ] ] ] } }
+]
+}

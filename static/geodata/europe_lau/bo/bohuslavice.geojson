@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bohuslavice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bohuslavice", "metric_roundness": 25.17, "metric_rectangularity": 46.27, "metric_mobile_fit": 37.53, "metric_aspect_ratio": 1.187, "metric_area_km2": 9.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.594494, 49.14482 ], [ 15.5901118, 49.142568099999984 ], [ 15.5857899, 49.1450077 ], [ 15.5953889, 49.149949699999986 ], [ 15.594325, 49.1565625 ], [ 15.5813074, 49.1537971 ], [ 15.5642748, 49.164490399999984 ], [ 15.555272, 49.165055 ], [ 15.5625733, 49.153186399999981 ], [ 15.5835653, 49.1387289 ], [ 15.6030578, 49.139477 ], [ 15.594494, 49.14482 ] ] ] } }
+]
+}

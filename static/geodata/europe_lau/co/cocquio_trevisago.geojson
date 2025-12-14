@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cocquio_trevisago",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cocquio-Trevisago", "metric_roundness": 43.97, "metric_rectangularity": 67.24, "metric_mobile_fit": 22.02, "metric_aspect_ratio": 1.342, "metric_area_km2": 21.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.6754602, 45.8586903 ], [ 8.6909052, 45.8515024 ], [ 8.6943185, 45.845497 ], [ 8.7374975, 45.8728265 ], [ 8.73538, 45.87383849999997 ], [ 8.7198971, 45.871575 ], [ 8.7044895, 45.8754359 ], [ 8.7032355, 45.879672499999984 ], [ 8.696537, 45.881617 ], [ 8.68063, 45.8766623 ], [ 8.667875, 45.867811499999981 ], [ 8.6754602, 45.8586903 ] ] ] } }
+]
+}

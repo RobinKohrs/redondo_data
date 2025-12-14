@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zivotice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Životice", "metric_roundness": 49.48, "metric_rectangularity": 70.91, "metric_mobile_fit": 54.42, "metric_aspect_ratio": 1.018, "metric_area_km2": 9.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.701655, 49.4566535 ], [ 13.7021322, 49.467652799999989 ], [ 13.7104755, 49.480245199999978 ], [ 13.6862658, 49.4778867 ], [ 13.6768438, 49.4738327 ], [ 13.6735075, 49.4633295 ], [ 13.701655, 49.4566535 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niederraden",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niederraden", "metric_roundness": 47.23, "metric_rectangularity": 67.84, "metric_mobile_fit": 35.95, "metric_aspect_ratio": 1.203, "metric_area_km2": 4.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3315925, 49.9919055 ], [ 6.328452, 49.991244 ], [ 6.3259095, 49.9916795 ], [ 6.3249725, 49.9897795 ], [ 6.323348, 49.992829 ], [ 6.320886, 49.992691499999985 ], [ 6.3170515, 49.9928585 ], [ 6.3149105, 49.992447499999983 ], [ 6.318988, 49.987749 ], [ 6.3185205, 49.98465 ], [ 6.3246717, 49.978373 ], [ 6.3412605, 49.980713499999979 ], [ 6.3420135, 49.984500499999982 ], [ 6.3315925, 49.9919055 ] ] ] } }
+]
+}

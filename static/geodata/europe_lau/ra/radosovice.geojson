@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "radosovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Radošovice", "metric_roundness": 55.19, "metric_rectangularity": 68.71, "metric_mobile_fit": 23.99, "metric_aspect_ratio": 1.323, "metric_area_km2": 17.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8390185, 49.738937 ], [ 14.8712833, 49.7357526 ], [ 14.877121, 49.73111 ], [ 14.8913973, 49.7351495 ], [ 14.8926275, 49.7420115 ], [ 14.8946954, 49.7485236 ], [ 14.8922255, 49.7510375 ], [ 14.8837762, 49.7513894 ], [ 14.8726485, 49.758312 ], [ 14.8629936, 49.7529586 ], [ 14.853022, 49.756752499999983 ], [ 14.8444736, 49.7468746 ], [ 14.8409065, 49.7476935 ], [ 14.8390185, 49.738937 ] ] ] } }
+]
+}

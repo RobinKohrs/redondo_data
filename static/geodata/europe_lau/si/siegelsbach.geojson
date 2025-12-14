@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "siegelsbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Siegelsbach", "metric_roundness": 58.55, "metric_rectangularity": 82.37, "metric_mobile_fit": -7.87, "metric_aspect_ratio": 1.641, "metric_area_km2": 17.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0628575, 49.275733699999982 ], [ 9.0613729, 49.267993399999973 ], [ 9.0720005, 49.2602927 ], [ 9.0800985, 49.258580699999989 ], [ 9.0948761, 49.2576277 ], [ 9.1086117, 49.262444499999987 ], [ 9.115053, 49.2723705 ], [ 9.114386, 49.277941 ], [ 9.0687015, 49.27897 ], [ 9.0628575, 49.275733699999982 ] ] ] } }
+]
+}

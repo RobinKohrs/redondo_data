@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luxem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Luxem", "metric_roundness": 52.86, "metric_rectangularity": 68.25, "metric_mobile_fit": 54.72, "metric_aspect_ratio": 1.015, "metric_area_km2": 11.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0970703, 50.329585699999981 ], [ 7.0938275, 50.334566499999987 ], [ 7.0820098, 50.3331488 ], [ 7.080776, 50.3303955 ], [ 7.0816469, 50.3202572 ], [ 7.0918075, 50.309232499999979 ], [ 7.100352, 50.3081615 ], [ 7.122763, 50.317281 ], [ 7.0970703, 50.329585699999981 ] ] ] } }
+]
+}

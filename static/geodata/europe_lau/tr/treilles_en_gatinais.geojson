@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "treilles_en_gatinais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Treilles-en-Gâtinais", "metric_roundness": 50.83, "metric_rectangularity": 60.88, "metric_mobile_fit": 58.55, "metric_aspect_ratio": 0.977, "metric_area_km2": 31.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6369999, 48.069135 ], [ 2.6510706, 48.0653077 ], [ 2.6568388, 48.068066899999984 ], [ 2.6710785, 48.060579 ], [ 2.692207, 48.059842 ], [ 2.6916166, 48.0814963 ], [ 2.6872427, 48.0838471 ], [ 2.6874275, 48.088144 ], [ 2.6629025, 48.104806 ], [ 2.6517035, 48.09535 ], [ 2.6495375, 48.0923885 ], [ 2.645557, 48.0888465 ], [ 2.626449, 48.067673499999977 ], [ 2.6277175, 48.066726499999987 ], [ 2.6369999, 48.069135 ] ] ] } }
+]
+}

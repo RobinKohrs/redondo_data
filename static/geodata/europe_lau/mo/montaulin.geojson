@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montaulin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montaulin", "metric_roundness": 63.91, "metric_rectangularity": 70.56, "metric_mobile_fit": 41.97, "metric_aspect_ratio": 1.143, "metric_area_km2": 28.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1772065, 48.229692 ], [ 4.1940035, 48.232037 ], [ 4.2063003, 48.2370201 ], [ 4.225588, 48.233107499999981 ], [ 4.227634, 48.240585 ], [ 4.2217365, 48.250302499999982 ], [ 4.2176031, 48.2535599 ], [ 4.2195149, 48.2627521 ], [ 4.2089075, 48.265546 ], [ 4.1972832, 48.266766699999984 ], [ 4.1795475, 48.261082 ], [ 4.1779898, 48.252192699999988 ], [ 4.16401, 48.24964 ], [ 4.1772065, 48.229692 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cartignano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cartignano", "metric_roundness": 20.69, "metric_rectangularity": 46.74, "metric_mobile_fit": 84.68, "metric_aspect_ratio": 0.409, "metric_area_km2": 12.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2812313, 44.5128046 ], [ 7.2856049, 44.5008844 ], [ 7.2828882, 44.4949861 ], [ 7.2888444, 44.4841144 ], [ 7.2845827, 44.482165699999989 ], [ 7.2710619, 44.4864844 ], [ 7.267698, 44.4731635 ], [ 7.2890381, 44.4680693 ], [ 7.2969235, 44.475782 ], [ 7.299966, 44.4843277 ], [ 7.2921369, 44.498959 ], [ 7.2928587, 44.5092371 ], [ 7.2854335, 44.5238555 ], [ 7.284332, 44.524298 ], [ 7.2812313, 44.5128046 ] ] ] } }
+]
+}

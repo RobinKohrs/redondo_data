@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oudezeele",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oudezeele", "metric_roundness": 50.37, "metric_rectangularity": 65.49, "metric_mobile_fit": 90.95, "metric_aspect_ratio": 0.653, "metric_area_km2": 23.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5239998, 50.8400885 ], [ 2.530992, 50.8481145 ], [ 2.519562, 50.86368 ], [ 2.5009951, 50.854276199999987 ], [ 2.4879365, 50.8356815 ], [ 2.4880479, 50.8252714 ], [ 2.5041733, 50.824083499999986 ], [ 2.509608, 50.8205975 ], [ 2.516777, 50.822435 ], [ 2.532488, 50.832293 ], [ 2.5239998, 50.8400885 ] ] ] } }
+]
+}

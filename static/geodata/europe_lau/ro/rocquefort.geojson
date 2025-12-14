@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rocquefort",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rocquefort", "metric_roundness": 70.1, "metric_rectangularity": 75.63, "metric_mobile_fit": 41.32, "metric_aspect_ratio": 1.149, "metric_area_km2": 12.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7134515, 49.6778195 ], [ 0.686171, 49.6768935 ], [ 0.683523, 49.6752855 ], [ 0.6846061, 49.6676436 ], [ 0.692002, 49.658316 ], [ 0.694271, 49.656639499999983 ], [ 0.696509, 49.655862 ], [ 0.7052775, 49.656842 ], [ 0.7112125, 49.655575 ], [ 0.723023, 49.668865499999981 ], [ 0.7134515, 49.6778195 ] ] ] } }
+]
+}

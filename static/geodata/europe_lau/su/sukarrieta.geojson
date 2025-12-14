@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sukarrieta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sukarrieta", "metric_roundness": 25.83, "metric_rectangularity": 64.0, "metric_mobile_fit": -109.83, "metric_aspect_ratio": 2.661, "metric_area_km2": 3.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.6867967, 43.397555 ], [ -2.6931685, 43.397428 ], [ -2.7064007, 43.397745 ], [ -2.7149992, 43.3944598 ], [ -2.7148311, 43.389670599999988 ], [ -2.7197645, 43.3895125 ], [ -2.7195635, 43.387743 ], [ -2.7159525, 43.388239 ], [ -2.7126, 43.3882085 ], [ -2.704734, 43.3895095 ], [ -2.700373, 43.391014 ], [ -2.6945205, 43.392351 ], [ -2.6843905, 43.3914875 ], [ -2.68314, 43.394638 ], [ -2.6867967, 43.397555 ] ] ] } }
+]
+}

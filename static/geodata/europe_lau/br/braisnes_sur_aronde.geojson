@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "braisnes_sur_aronde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Braisnes-sur-Aronde", "metric_roundness": 49.14, "metric_rectangularity": 58.75, "metric_mobile_fit": 48.35, "metric_aspect_ratio": 1.079, "metric_area_km2": 5.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7693755, 49.468996499999982 ], [ 2.7731545, 49.46768 ], [ 2.779997, 49.4691682 ], [ 2.7799279, 49.4732127 ], [ 2.7923985, 49.4741755 ], [ 2.7835365, 49.479149 ], [ 2.7758424, 49.483840199999989 ], [ 2.767859, 49.4854135 ], [ 2.7642115, 49.485841099999988 ], [ 2.76224, 49.482783499999982 ], [ 2.7661115, 49.467705 ], [ 2.7693755, 49.468996499999982 ] ] ] } }
+]
+}

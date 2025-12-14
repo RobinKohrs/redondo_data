@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grafenschachen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grafenschachen", "metric_roundness": 49.18, "metric_rectangularity": 66.55, "metric_mobile_fit": 47.6, "metric_aspect_ratio": 1.087, "metric_area_km2": 21.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.0774288, 47.353659699999987 ], [ 16.0865595, 47.356033 ], [ 16.0808102, 47.365668899999982 ], [ 16.0862111, 47.3699807 ], [ 16.0833105, 47.3775633 ], [ 16.0774288, 47.378858 ], [ 16.075001, 47.3793924 ], [ 16.0617349, 47.3771525 ], [ 16.059204, 47.383499499999985 ], [ 16.029231, 47.38053 ], [ 16.0336075, 47.372496499999983 ], [ 16.0443941, 47.3709684 ], [ 16.0479963, 47.357854 ], [ 16.054741, 47.3477625 ], [ 16.0774288, 47.353659699999987 ] ] ] } }
+]
+}

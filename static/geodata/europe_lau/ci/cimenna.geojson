@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cimenna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cimenná", "metric_roundness": 23.79, "metric_rectangularity": 60.23, "metric_mobile_fit": 28.0, "metric_aspect_ratio": 1.282, "metric_area_km2": 8.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.1553484, 48.722676 ], [ 18.1539168, 48.7293079 ], [ 18.1179272, 48.7372951 ], [ 18.111644, 48.741513 ], [ 18.1052785, 48.7401556 ], [ 18.1055385, 48.736694 ], [ 18.1186963, 48.7329346 ], [ 18.1321314, 48.723078099999988 ], [ 18.1441185, 48.719549499999978 ], [ 18.1522535, 48.715760499999988 ], [ 18.1553484, 48.722676 ] ] ] } }
+]
+}

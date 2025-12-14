@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kourouton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κουρουτών", "metric_roundness": 26.52, "metric_rectangularity": 54.3, "metric_mobile_fit": 62.42, "metric_aspect_ratio": 0.938, "metric_area_km2": 14.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.7515944, 35.2064752 ], [ 24.7406794, 35.1993906 ], [ 24.7260271, 35.195351799999983 ], [ 24.7191765, 35.183666 ], [ 24.7266169, 35.179126499999981 ], [ 24.7504219, 35.179575399999983 ], [ 24.7747215, 35.2251495 ], [ 24.768897, 35.226332 ], [ 24.766341, 35.2275 ], [ 24.7515944, 35.2064752 ] ] ] } }
+]
+}

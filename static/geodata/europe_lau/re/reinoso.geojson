@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reinoso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reinoso", "metric_roundness": 69.11, "metric_rectangularity": 75.22, "metric_mobile_fit": 30.5, "metric_aspect_ratio": 1.258, "metric_area_km2": 15.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.3804627, 42.4953514 ], [ -3.3733465, 42.498112 ], [ -3.3648275, 42.506588 ], [ -3.3693611, 42.5160786 ], [ -3.3764592, 42.522717799999981 ], [ -3.3867325, 42.519648599999982 ], [ -3.391102, 42.5215684 ], [ -3.3958103, 42.5236371 ], [ -3.406965, 42.517685 ], [ -3.4104255, 42.5126955 ], [ -3.412927, 42.5079195 ], [ -3.4130805, 42.505398 ], [ -3.392482, 42.4969405 ], [ -3.3804627, 42.4953514 ] ] ] } }
+]
+}

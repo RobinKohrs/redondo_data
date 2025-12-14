@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_alessio_siculo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant'Alessio Siculo", "metric_roundness": 36.04, "metric_rectangularity": 54.54, "metric_mobile_fit": 8.44, "metric_aspect_ratio": 1.478, "metric_area_km2": 10.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3540035, 37.932764 ], [ 15.348583, 37.934205499999983 ], [ 15.319058, 37.93819 ], [ 15.3129585, 37.934805399999988 ], [ 15.3069377, 37.936380899999989 ], [ 15.3038452, 37.9326419 ], [ 15.321508, 37.9231877 ], [ 15.3341198, 37.921801 ], [ 15.343362, 37.9144854 ], [ 15.343392, 37.909764 ], [ 15.3471269, 37.912861499999984 ], [ 15.3483301, 37.9217116 ], [ 15.3571095, 37.9314705 ], [ 15.3540035, 37.932764 ] ] ] } }
+]
+}

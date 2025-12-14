@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brinzio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brinzio", "metric_roundness": 56.36, "metric_rectangularity": 63.3, "metric_mobile_fit": 51.05, "metric_aspect_ratio": 1.052, "metric_area_km2": 12.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7859806, 45.871566199999982 ], [ 8.7939175, 45.8746771 ], [ 8.7937936, 45.878677499999981 ], [ 8.799842, 45.881990599999988 ], [ 8.8113405, 45.882559499999985 ], [ 8.8171675, 45.888103 ], [ 8.802737, 45.898573 ], [ 8.7929985, 45.900887 ], [ 8.772853, 45.8952055 ], [ 8.7784477, 45.8910994 ], [ 8.7788337, 45.8766934 ], [ 8.776326, 45.873580499999981 ], [ 8.7859806, 45.871566199999982 ] ] ] } }
+]
+}

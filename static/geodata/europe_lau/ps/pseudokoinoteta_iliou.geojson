@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pseudokoinoteta_iliou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ψευδοκοινοτητα Ιλιου", "metric_roundness": 30.21, "metric_rectangularity": 45.6, "metric_mobile_fit": 76.71, "metric_aspect_ratio": 0.795, "metric_area_km2": 13.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.67922, 38.0607585 ], [ 23.6978942, 38.0391723 ], [ 23.684934, 38.030859 ], [ 23.711078, 38.016112 ], [ 23.7143065, 38.028042899999981 ], [ 23.7222981, 38.0341222 ], [ 23.7282825, 38.045614499999985 ], [ 23.7199931, 38.0515028 ], [ 23.7097006, 38.0459645 ], [ 23.6950268, 38.048977799999989 ], [ 23.688654, 38.0539778 ], [ 23.683583, 38.0646915 ], [ 23.67922, 38.0607585 ] ] ] } }
+]
+}

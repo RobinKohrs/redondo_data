@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sailly_sur_la_lys",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sailly-sur-la-Lys", "metric_roundness": 54.85, "metric_rectangularity": 71.75, "metric_mobile_fit": 35.03, "metric_aspect_ratio": 1.212, "metric_area_km2": 25.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7979523, 50.6370815 ], [ 2.7927493, 50.6420946 ], [ 2.7937179, 50.6440157 ], [ 2.8095307, 50.6442751 ], [ 2.8274409, 50.6553293 ], [ 2.8212815, 50.661277499999983 ], [ 2.811864, 50.668238 ], [ 2.8091935, 50.66937 ], [ 2.7955166, 50.6627377 ], [ 2.7705685, 50.6640508 ], [ 2.7625651, 50.6580401 ], [ 2.7595285, 50.6514035 ], [ 2.7591705, 50.6506775 ], [ 2.792453, 50.6336605 ], [ 2.7945815, 50.634953 ], [ 2.7979523, 50.6370815 ] ] ] } }
+]
+}

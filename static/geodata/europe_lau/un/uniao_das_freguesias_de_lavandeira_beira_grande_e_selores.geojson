@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_lavandeira_beira_grande_e_selores",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Lavandeira, Beira Grande e Selores", "metric_roundness": 39.94, "metric_rectangularity": 65.64, "metric_mobile_fit": 88.19, "metric_aspect_ratio": 0.681, "metric_area_km2": 65.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.299695, 41.2141245 ], [ -7.319207, 41.1915694 ], [ -7.3289235, 41.174507499999983 ], [ -7.347327, 41.145402 ], [ -7.3201206, 41.144114099999982 ], [ -7.3099901, 41.1464338 ], [ -7.304573, 41.139525 ], [ -7.289575, 41.1370535 ], [ -7.2907372, 41.1463829 ], [ -7.2886674, 41.1500794 ], [ -7.2819209, 41.1504452 ], [ -7.2701781, 41.1594124 ], [ -7.276262, 41.2018786 ], [ -7.2645045, 41.209612 ], [ -7.2780442, 41.2213936 ], [ -7.2823715, 41.228633 ], [ -7.2993325, 41.2254855 ], [ -7.299695, 41.2141245 ] ] ] } }
+]
+}

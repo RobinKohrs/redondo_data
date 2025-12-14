@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eversmeer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eversmeer", "metric_roundness": 47.71, "metric_rectangularity": 55.35, "metric_mobile_fit": 73.04, "metric_aspect_ratio": 0.832, "metric_area_km2": 33.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4159065, 53.578225499999981 ], [ 7.4202948, 53.552450199999988 ], [ 7.413102, 53.541842 ], [ 7.4292385, 53.5327625 ], [ 7.4393549, 53.540277099999969 ], [ 7.4501757, 53.536013899999979 ], [ 7.478314, 53.545866 ], [ 7.4735917, 53.5544794 ], [ 7.4607231, 53.5545347 ], [ 7.4398075, 53.560089 ], [ 7.4480721, 53.574777799999978 ], [ 7.4461135, 53.579318 ], [ 7.4159065, 53.578225499999981 ] ] ] } }
+]
+}

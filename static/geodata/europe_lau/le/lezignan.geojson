@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lezignan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lézignan", "metric_roundness": 55.41, "metric_rectangularity": 69.05, "metric_mobile_fit": 60.59, "metric_aspect_ratio": 0.957, "metric_area_km2": 5.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0073515, 43.101261 ], [ -0.0075019, 43.103580099999988 ], [ -0.0082471, 43.106314499999989 ], [ -0.0056455, 43.108689 ], [ -0.008823, 43.1095725 ], [ -0.0180605, 43.108571499999989 ], [ -0.0158205, 43.0903475 ], [ -0.015734, 43.090175 ], [ 0.004922, 43.092794499999989 ], [ 0.0073515, 43.101261 ] ] ] } }
+]
+}

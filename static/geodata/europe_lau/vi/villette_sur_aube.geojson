@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villette_sur_aube",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villette-sur-Aube", "metric_roundness": 47.39, "metric_rectangularity": 68.2, "metric_mobile_fit": 74.41, "metric_aspect_ratio": 0.818, "metric_area_km2": 16.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1105364, 48.5190705 ], [ 4.1164159, 48.512646599999989 ], [ 4.1287455, 48.5152735 ], [ 4.129276, 48.533809 ], [ 4.1288125, 48.535703499999983 ], [ 4.12405, 48.53699 ], [ 4.1199955, 48.537186 ], [ 4.1067406, 48.5381129 ], [ 4.0919295, 48.54613 ], [ 4.0878969, 48.538254099999989 ], [ 4.089007, 48.522870499999989 ], [ 4.1105364, 48.5190705 ] ] ] } }
+]
+}

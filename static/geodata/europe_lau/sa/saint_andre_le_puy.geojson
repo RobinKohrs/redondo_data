@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_andre_le_puy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-André-le-Puy", "metric_roundness": 55.58, "metric_rectangularity": 76.61, "metric_mobile_fit": 78.44, "metric_aspect_ratio": 0.778, "metric_area_km2": 17.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2838854, 45.636739299999988 ], [ 4.2822465, 45.6493349 ], [ 4.2776625, 45.656428 ], [ 4.2659817, 45.663662699999982 ], [ 4.255071, 45.663656 ], [ 4.2433855, 45.656071499999982 ], [ 4.2409836, 45.652632599999976 ], [ 4.2502464, 45.6385772 ], [ 4.2638894, 45.6338843 ], [ 4.272008, 45.625118499999985 ], [ 4.2726795, 45.625962 ], [ 4.2838854, 45.636739299999988 ] ] ] } }
+]
+}

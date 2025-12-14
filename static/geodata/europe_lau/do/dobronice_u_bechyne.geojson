@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dobronice_u_bechyne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dobronice u Bechyně", "metric_roundness": 38.11, "metric_rectangularity": 76.69, "metric_mobile_fit": -56.17, "metric_aspect_ratio": 2.124, "metric_area_km2": 19.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5370594, 49.3415443 ], [ 14.5463906, 49.3387618 ], [ 14.5465707, 49.3541539 ], [ 14.512758, 49.351714 ], [ 14.4847885, 49.350721 ], [ 14.484895, 49.343719499999985 ], [ 14.478037, 49.34309649999998 ], [ 14.478818, 49.337168 ], [ 14.4882288, 49.336356599999988 ], [ 14.489178, 49.333134 ], [ 14.5042523, 49.3352655 ], [ 14.5182966, 49.333300099999988 ], [ 14.5238284, 49.3377087 ], [ 14.5326775, 49.33674 ], [ 14.5370594, 49.3415443 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_koryphasiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κορυφασίου", "metric_roundness": 60.51, "metric_rectangularity": 75.31, "metric_mobile_fit": 64.07, "metric_aspect_ratio": 0.922, "metric_area_km2": 17.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7068491, 36.9861986 ], [ 21.7148225, 36.988329499999985 ], [ 21.7068286, 36.9970851 ], [ 21.7134268, 37.0015238 ], [ 21.7101365, 37.006426499999989 ], [ 21.702736, 37.0120145 ], [ 21.684678, 37.0087755 ], [ 21.67708, 37.00405 ], [ 21.667643, 36.997497 ], [ 21.6751026, 36.9895816 ], [ 21.6777778, 36.9765293 ], [ 21.6841279, 36.9743579 ], [ 21.6850485, 36.971135499999988 ], [ 21.7068491, 36.9861986 ] ] ] } }
+]
+}

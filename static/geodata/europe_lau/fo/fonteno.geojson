@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fonteno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fonteno", "metric_roundness": 50.09, "metric_rectangularity": 66.61, "metric_mobile_fit": -5.34, "metric_aspect_ratio": 1.616, "metric_area_km2": 21.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9873015, 45.741597 ], [ 10.0042701, 45.742828 ], [ 10.0153905, 45.7381105 ], [ 10.028626, 45.746281499999974 ], [ 10.0315291, 45.750490199999987 ], [ 10.0325178, 45.763332 ], [ 10.0197371, 45.766593499999985 ], [ 10.005092, 45.762323 ], [ 9.994752, 45.7608475 ], [ 9.9852898, 45.763638199999974 ], [ 9.9734664, 45.762425399999984 ], [ 9.966554, 45.7547125 ], [ 9.967336, 45.7534235 ], [ 9.9873015, 45.741597 ] ] ] } }
+]
+}

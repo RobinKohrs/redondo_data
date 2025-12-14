@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_nazaire_de_pezan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Nazaire-de-Pézan", "metric_roundness": 41.22, "metric_rectangularity": 59.42, "metric_mobile_fit": 93.22, "metric_aspect_ratio": 0.63, "metric_area_km2": 10.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1165, 43.6205715 ], [ 4.118953, 43.6238215 ], [ 4.1226945, 43.6243535 ], [ 4.1261025, 43.626454499999987 ], [ 4.133613, 43.637415499999989 ], [ 4.1334815, 43.6411035 ], [ 4.1334205, 43.643083 ], [ 4.1203703, 43.645827599999983 ], [ 4.112761, 43.6524043 ], [ 4.108764, 43.648678 ], [ 4.1087988, 43.6428125 ], [ 4.1018165, 43.641562 ], [ 4.1072257, 43.632069 ], [ 4.110786, 43.615892 ], [ 4.1165, 43.6205715 ] ] ] } }
+]
+}

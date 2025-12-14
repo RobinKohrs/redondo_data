@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alliancelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alliancelles", "metric_roundness": 46.9, "metric_rectangularity": 64.86, "metric_mobile_fit": 76.26, "metric_aspect_ratio": 0.8, "metric_area_km2": 15.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8895157, 48.800238899999989 ], [ 4.8957098, 48.8094172 ], [ 4.888758, 48.8172105 ], [ 4.8809201, 48.8158611 ], [ 4.875639, 48.8190375 ], [ 4.864218, 48.8145981 ], [ 4.8529895, 48.799565 ], [ 4.8625553, 48.7929861 ], [ 4.856164, 48.7866718 ], [ 4.8591405, 48.7838595 ], [ 4.8754769, 48.7935985 ], [ 4.893371, 48.796959 ], [ 4.8929305, 48.797687499999981 ], [ 4.8895157, 48.800238899999989 ] ] ] } }
+]
+}

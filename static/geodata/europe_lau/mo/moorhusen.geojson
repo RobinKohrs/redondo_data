@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moorhusen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moorhusen", "metric_roundness": 50.15, "metric_rectangularity": 79.42, "metric_mobile_fit": 70.22, "metric_aspect_ratio": 0.86, "metric_area_km2": 13.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.390757, 53.9434675 ], [ 9.391859, 53.941905 ], [ 9.413099, 53.946843799999989 ], [ 9.412976, 53.95597 ], [ 9.4085208, 53.961381499999987 ], [ 9.3972274, 53.9667878 ], [ 9.3778719, 53.9681366 ], [ 9.3757245, 53.9681085 ], [ 9.3747475, 53.967596499999978 ], [ 9.3897475, 53.945273 ], [ 9.390757, 53.9434675 ] ] ] } }
+]
+}

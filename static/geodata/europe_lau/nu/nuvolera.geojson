@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nuvolera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nuvolera", "metric_roundness": 26.96, "metric_rectangularity": 66.91, "metric_mobile_fit": 78.11, "metric_aspect_ratio": 0.781, "metric_area_km2": 26.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.3960612, 45.5103194 ], [ 10.4001035, 45.517698 ], [ 10.3740452, 45.545219399999986 ], [ 10.366427, 45.5451458 ], [ 10.354963, 45.552635 ], [ 10.345449, 45.5638053 ], [ 10.335369, 45.566493499999986 ], [ 10.3431445, 45.53732 ], [ 10.343599, 45.534344 ], [ 10.3824, 45.508462499999986 ], [ 10.3960612, 45.5103194 ] ] ] } }
+]
+}

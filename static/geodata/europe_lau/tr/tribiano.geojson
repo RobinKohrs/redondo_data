@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tribiano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tribiano", "metric_roundness": 56.96, "metric_rectangularity": 72.99, "metric_mobile_fit": 81.91, "metric_aspect_ratio": 0.743, "metric_area_km2": 14.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3696018, 45.4219869 ], [ 9.3653417, 45.4123526 ], [ 9.3586153, 45.4086772 ], [ 9.3544134, 45.398942299999987 ], [ 9.3642983, 45.3950769 ], [ 9.364231, 45.386422 ], [ 9.373116, 45.3865435 ], [ 9.3808566, 45.3888026 ], [ 9.3842343, 45.397692099999986 ], [ 9.3889375, 45.399843 ], [ 9.3920709, 45.409648099999984 ], [ 9.3850085, 45.4173725 ], [ 9.3696018, 45.4219869 ] ] ] } }
+]
+}

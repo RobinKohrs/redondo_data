@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "willadingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Willadingen", "metric_roundness": 57.35, "metric_rectangularity": 72.36, "metric_mobile_fit": 85.84, "metric_aspect_ratio": 0.704, "metric_area_km2": 4.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.615619, 47.1564385 ], [ 7.6146635, 47.154596 ], [ 7.6047815, 47.15274 ], [ 7.610803, 47.1374119 ], [ 7.6168676, 47.1378462 ], [ 7.6181844, 47.141766699999984 ], [ 7.6244035, 47.141808 ], [ 7.62448, 47.152013499999988 ], [ 7.6220555, 47.153001499999988 ], [ 7.619133, 47.1543645 ], [ 7.615619, 47.1564385 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_coimbra_se_nova_santa_cruz_almedina_e_sao_bartolomeu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu)", "metric_roundness": 23.52, "metric_rectangularity": 48.48, "metric_mobile_fit": 78.01, "metric_aspect_ratio": 0.782, "metric_area_km2": 14.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4390326, 40.2211655 ], [ -8.4448062, 40.234368799999984 ], [ -8.442313, 40.249815 ], [ -8.4664165, 40.2427365 ], [ -8.4657705, 40.238807 ], [ -8.4569017, 40.2352869 ], [ -8.4545657, 40.2207066 ], [ -8.443438, 40.217814499999982 ], [ -8.4292431, 40.2042106 ], [ -8.4238485, 40.1912285 ], [ -8.4193024, 40.1987613 ], [ -8.4063814, 40.2070616 ], [ -8.4116961, 40.212783099999989 ], [ -8.4273509, 40.2147235 ], [ -8.4274272, 40.2203093 ], [ -8.4226225, 40.224291 ], [ -8.4390326, 40.2211655 ] ] ] } }
+]
+}

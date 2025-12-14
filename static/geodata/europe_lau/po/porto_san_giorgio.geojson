@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "porto_san_giorgio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Porto San Giorgio", "metric_roundness": 51.49, "metric_rectangularity": 61.2, "metric_mobile_fit": 54.92, "metric_aspect_ratio": 1.013, "metric_area_km2": 16.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.8130662, 43.167780399999984 ], [ 13.8042359, 43.1717328 ], [ 13.7929273, 43.1954362 ], [ 13.790693, 43.198941499999989 ], [ 13.7850068, 43.1980174 ], [ 13.7813155, 43.1954362 ], [ 13.7741006, 43.186806699999984 ], [ 13.7625821, 43.1809592 ], [ 13.7620741, 43.175686599999985 ], [ 13.7792987, 43.1691675 ], [ 13.7838263, 43.1622443 ], [ 13.811036, 43.163217 ], [ 13.8130662, 43.167780399999984 ] ] ] } }
+]
+}

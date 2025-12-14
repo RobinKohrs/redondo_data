@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pont_les_bonfays",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pont-lès-Bonfays", "metric_roundness": 54.23, "metric_rectangularity": 69.02, "metric_mobile_fit": 56.44, "metric_aspect_ratio": 0.998, "metric_area_km2": 9.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1595478, 48.1607842 ], [ 6.1566675, 48.169917 ], [ 6.140393, 48.180258 ], [ 6.122975, 48.172044 ], [ 6.1328713, 48.165690399999988 ], [ 6.1316667, 48.1600617 ], [ 6.13842, 48.157361499999986 ], [ 6.158335, 48.1558195 ], [ 6.1595478, 48.1607842 ] ] ] } }
+]
+}

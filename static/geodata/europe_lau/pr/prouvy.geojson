@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prouvy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Prouvy", "metric_roundness": 34.74, "metric_rectangularity": 50.79, "metric_mobile_fit": 95.41, "metric_aspect_ratio": 0.608, "metric_area_km2": 11.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.448177, 50.314203 ], [ 3.4641905, 50.309421 ], [ 3.4655285, 50.3132991 ], [ 3.4726895, 50.3143575 ], [ 3.4719991, 50.3216529 ], [ 3.4618486, 50.3285072 ], [ 3.4638715, 50.337748 ], [ 3.4626475, 50.341012899999988 ], [ 3.4578622, 50.3410501 ], [ 3.456728, 50.345056 ], [ 3.4534445, 50.345625 ], [ 3.4534458, 50.3400367 ], [ 3.4572831, 50.337315099999977 ], [ 3.4381845, 50.322904 ], [ 3.448177, 50.314203 ] ] ] } }
+]
+}

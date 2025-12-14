@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vorosto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vöröstó", "metric_roundness": 57.54, "metric_rectangularity": 66.0, "metric_mobile_fit": 60.71, "metric_aspect_ratio": 0.955, "metric_area_km2": 12.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.7183397, 46.9853254 ], [ 17.703447, 46.9722045 ], [ 17.7038788, 46.967038499999987 ], [ 17.7191258, 46.958381 ], [ 17.7365315, 46.9614448 ], [ 17.7439635, 46.9590325 ], [ 17.743705, 46.966323599999974 ], [ 17.736504, 46.9720817 ], [ 17.7268615, 46.987318 ], [ 17.7183397, 46.9853254 ] ] ] } }
+]
+}

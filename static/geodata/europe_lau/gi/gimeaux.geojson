@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gimeaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gimeaux", "metric_roundness": 51.93, "metric_rectangularity": 82.79, "metric_mobile_fit": 92.12, "metric_aspect_ratio": 0.641, "metric_area_km2": 4.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1060544, 45.9434598 ], [ 3.1032504, 45.9467036 ], [ 3.1073155, 45.953903 ], [ 3.106842, 45.956965 ], [ 3.102731, 45.958163 ], [ 3.094794, 45.9579465 ], [ 3.09102, 45.955497499999986 ], [ 3.090156, 45.9395785 ], [ 3.0960995, 45.940348 ], [ 3.097787, 45.941192 ], [ 3.0999575, 45.9395575 ], [ 3.1038495, 45.9412405 ], [ 3.1060544, 45.9434598 ] ] ] } }
+]
+}

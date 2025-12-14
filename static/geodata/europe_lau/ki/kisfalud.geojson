@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kisfalud",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kisfalud", "metric_roundness": 51.58, "metric_rectangularity": 79.27, "metric_mobile_fit": 3.72, "metric_aspect_ratio": 1.525, "metric_area_km2": 32.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.0634325, 47.548326 ], [ 17.045002, 47.545359499999989 ], [ 17.0651075, 47.519598 ], [ 17.1097643, 47.526916099999987 ], [ 17.1138833, 47.525233899999975 ], [ 17.123558, 47.5351845 ], [ 17.1134393, 47.547097099999981 ], [ 17.1021885, 47.554368 ], [ 17.0634325, 47.548326 ] ] ] } }
+]
+}

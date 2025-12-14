@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "comunanza_cadenazzo_monteceneri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Comunanza Cadenazzo/Monteceneri", "metric_roundness": 37.39, "metric_rectangularity": 56.79, "metric_mobile_fit": 19.53, "metric_aspect_ratio": 1.367, "metric_area_km2": 5.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.035017, 46.141132 ], [ 9.037561, 46.1422475 ], [ 9.039346, 46.143977 ], [ 9.0438265, 46.143598 ], [ 9.0510525, 46.140202 ], [ 9.051036, 46.1352715 ], [ 9.056877, 46.131913 ], [ 9.06023, 46.132386499999988 ], [ 9.063749, 46.134945499999979 ], [ 9.0676385, 46.1347545 ], [ 9.0654062, 46.141865699999983 ], [ 9.0546515, 46.149323 ], [ 9.0404367, 46.1496523 ], [ 9.032636, 46.146906 ], [ 9.035017, 46.141132 ] ] ] } }
+]
+}

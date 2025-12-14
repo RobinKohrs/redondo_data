@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boara_pisani",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boara Pisani", "metric_roundness": 42.54, "metric_rectangularity": 65.6, "metric_mobile_fit": 42.37, "metric_aspect_ratio": 1.139, "metric_area_km2": 33.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.8261834, 45.138280599999987 ], [ 11.8186737, 45.147778599999988 ], [ 11.8040535, 45.148937 ], [ 11.7764775, 45.1308515 ], [ 11.7632255, 45.115915 ], [ 11.761529, 45.1125185 ], [ 11.7650624, 45.1020824 ], [ 11.7757175, 45.099163 ], [ 11.8089269, 45.1212177 ], [ 11.8316514, 45.1224387 ], [ 11.8418645, 45.128305 ], [ 11.8377385, 45.140227499999988 ], [ 11.8261834, 45.138280599999987 ] ] ] } }
+]
+}

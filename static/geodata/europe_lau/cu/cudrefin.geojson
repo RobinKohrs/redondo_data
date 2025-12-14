@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cudrefin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cudrefin", "metric_roundness": 42.34, "metric_rectangularity": 71.2, "metric_mobile_fit": 46.68, "metric_aspect_ratio": 1.096, "metric_area_km2": 33.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0001007, 46.930759499999979 ], [ 7.0089602, 46.9337697 ], [ 7.0190417, 46.929692899999978 ], [ 7.0275813, 46.933066099999984 ], [ 7.0266174, 46.937731299999982 ], [ 7.0596625, 46.951703 ], [ 7.0576052, 46.9548847 ], [ 7.0620559, 46.9713459 ], [ 7.051847, 46.977115 ], [ 7.0399715, 46.979881 ], [ 7.0365201, 46.972487799999989 ], [ 7.0245645, 46.962116 ], [ 6.9814925, 46.943438 ], [ 7.0001007, 46.930759499999979 ] ] ] } }
+]
+}

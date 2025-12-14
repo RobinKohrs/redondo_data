@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "macainhas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maçainhas", "metric_roundness": 59.96, "metric_rectangularity": 77.84, "metric_mobile_fit": 86.5, "metric_aspect_ratio": 0.698, "metric_area_km2": 31.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.277103, 40.3707295 ], [ -7.2706556, 40.3866239 ], [ -7.270393, 40.408057499999984 ], [ -7.293052, 40.4160565 ], [ -7.3022291, 40.406108599999989 ], [ -7.311575, 40.404505 ], [ -7.32162, 40.3738598 ], [ -7.3085821, 40.3692443 ], [ -7.3019448, 40.362106399999988 ], [ -7.2960535, 40.360117 ], [ -7.277103, 40.3707295 ] ] ] } }
+]
+}

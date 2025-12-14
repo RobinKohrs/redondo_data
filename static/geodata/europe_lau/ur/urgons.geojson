@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "urgons",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Urgons", "metric_roundness": 39.01, "metric_rectangularity": 73.05, "metric_mobile_fit": 82.17, "metric_aspect_ratio": 0.741, "metric_area_km2": 22.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.4378945, 43.624683 ], [ -0.416259, 43.6140385 ], [ -0.417451, 43.617549800000013 ], [ -0.4059624, 43.628039099999981 ], [ -0.416368, 43.64322 ], [ -0.438151, 43.6610205 ], [ -0.444803, 43.6653105 ], [ -0.4499542, 43.659062199999987 ], [ -0.4511836, 43.6507314 ], [ -0.4584435, 43.6464919 ], [ -0.4486221, 43.636174 ], [ -0.449, 43.632788 ], [ -0.4378945, 43.624683 ] ] ] } }
+]
+}

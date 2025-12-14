@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kios",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κιός", "metric_roundness": 47.98, "metric_rectangularity": 64.76, "metric_mobile_fit": 16.44, "metric_aspect_ratio": 1.398, "metric_area_km2": 6.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.5408411, 34.9728195 ], [ 32.5277504, 34.9812705 ], [ 32.519078, 34.9804995 ], [ 32.5172269, 34.978535799999989 ], [ 32.5184332, 34.9749694 ], [ 32.516191, 34.9753675 ], [ 32.516045, 34.975488 ], [ 32.5166625, 34.960916 ], [ 32.533993, 34.9620204 ], [ 32.550774, 34.9739995 ], [ 32.548235, 34.978214 ], [ 32.5408411, 34.9728195 ] ] ] } }
+]
+}

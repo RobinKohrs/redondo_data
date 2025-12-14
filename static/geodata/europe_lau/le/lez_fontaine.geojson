@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lez_fontaine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lez-Fontaine", "metric_roundness": 52.33, "metric_rectangularity": 67.13, "metric_mobile_fit": 87.07, "metric_aspect_ratio": 0.692, "metric_area_km2": 11.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0528593, 50.1779166 ], [ 4.043824, 50.17345049999998 ], [ 4.0523061, 50.167766499999985 ], [ 4.0562327, 50.160706599999983 ], [ 4.0729035, 50.1580815 ], [ 4.0756375, 50.187533499999979 ], [ 4.066042, 50.18745449999998 ], [ 4.0630158, 50.184851 ], [ 4.0539955, 50.1851555 ], [ 4.0528593, 50.1779166 ] ] ] } }
+]
+}

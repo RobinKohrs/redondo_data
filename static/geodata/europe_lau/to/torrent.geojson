@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "torrent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Torrent", "metric_roundness": 74.23, "metric_rectangularity": 85.48, "metric_mobile_fit": 63.89, "metric_aspect_ratio": 0.924, "metric_area_km2": 14.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1172332, 41.963810099999989 ], [ 3.111551, 41.959082 ], [ 3.1142913, 41.939663499999988 ], [ 3.1194265, 41.9368845 ], [ 3.1251557, 41.936348 ], [ 3.148614, 41.9445875 ], [ 3.1486395, 41.949726 ], [ 3.1464454, 41.9588928 ], [ 3.140135, 41.966213 ], [ 3.1172332, 41.963810099999989 ] ] ] } }
+]
+}

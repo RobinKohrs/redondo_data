@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thiant",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thiant", "metric_roundness": 59.61, "metric_rectangularity": 77.36, "metric_mobile_fit": 61.72, "metric_aspect_ratio": 0.945, "metric_area_km2": 20.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4353255, 50.2781805 ], [ 3.4387915, 50.284653599999984 ], [ 3.448667, 50.2892269 ], [ 3.4516404, 50.2938982 ], [ 3.461257, 50.2948015 ], [ 3.466188, 50.3060524 ], [ 3.4641905, 50.309421 ], [ 3.448177, 50.314203 ], [ 3.4399522, 50.3093638 ], [ 3.4315285, 50.3102563 ], [ 3.412884, 50.297003 ], [ 3.4180025, 50.288425499999981 ], [ 3.4353255, 50.2781805 ] ] ] } }
+]
+}

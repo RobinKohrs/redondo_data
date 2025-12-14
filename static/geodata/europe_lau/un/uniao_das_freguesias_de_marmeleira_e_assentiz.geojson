@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_marmeleira_e_assentiz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Marmeleira e Assentiz", "metric_roundness": 48.88, "metric_rectangularity": 72.21, "metric_mobile_fit": -14.32, "metric_aspect_ratio": 1.706, "metric_area_km2": 23.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.8660616, 39.250242 ], [ -8.8546629, 39.2424122 ], [ -8.8409837, 39.2485543 ], [ -8.8299171, 39.2470259 ], [ -8.8158303, 39.2568082 ], [ -8.8207925, 39.2730795 ], [ -8.8321435, 39.269575499999988 ], [ -8.8363096, 39.273711 ], [ -8.8824155, 39.2710785 ], [ -8.8847793, 39.268017699999987 ], [ -8.8756539, 39.2559113 ], [ -8.8769985, 39.2517015 ], [ -8.8757675, 39.250974499999984 ], [ -8.8660616, 39.250242 ] ] ] } }
+]
+}

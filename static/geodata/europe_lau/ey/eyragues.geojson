@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eyragues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eyragues", "metric_roundness": 56.99, "metric_rectangularity": 79.25, "metric_mobile_fit": 1.63, "metric_aspect_ratio": 1.546, "metric_area_km2": 40.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8456881, 43.8231799 ], [ 4.8650778, 43.8262388 ], [ 4.868539, 43.829836 ], [ 4.8815165, 43.846578199999989 ], [ 4.881861, 43.860017 ], [ 4.8433178, 43.860409399999988 ], [ 4.805073, 43.8541745 ], [ 4.8048785, 43.846123 ], [ 4.802051, 43.846557 ], [ 4.8021785, 43.8381642 ], [ 4.8122501, 43.8379538 ], [ 4.8163375, 43.8245845 ], [ 4.8456881, 43.8231799 ] ] ] } }
+]
+}

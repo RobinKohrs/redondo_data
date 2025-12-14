@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marocsa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marócsa", "metric_roundness": 36.45, "metric_rectangularity": 52.94, "metric_mobile_fit": -16.35, "metric_aspect_ratio": 1.726, "metric_area_km2": 23.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.8572918, 45.9174492 ], [ 17.8672405, 45.9135795 ], [ 17.8721194, 45.917329099999989 ], [ 17.871692, 45.9202085 ], [ 17.8488445, 45.927483 ], [ 17.83733, 45.931143 ], [ 17.8209445, 45.934007499999979 ], [ 17.8157265, 45.9348955 ], [ 17.8059915, 45.934942 ], [ 17.8042938, 45.9219359 ], [ 17.7901005, 45.9194605 ], [ 17.8018136, 45.913216 ], [ 17.8077185, 45.901883 ], [ 17.8572918, 45.9174492 ] ] ] } }
+]
+}

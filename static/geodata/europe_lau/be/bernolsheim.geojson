@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bernolsheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bernolsheim", "metric_roundness": 58.85, "metric_rectangularity": 66.31, "metric_mobile_fit": 48.96, "metric_aspect_ratio": 1.073, "metric_area_km2": 8.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6683229, 48.74663589999998 ], [ 7.669811, 48.744733 ], [ 7.6812055, 48.741086 ], [ 7.682392, 48.744546 ], [ 7.6871345, 48.742971499999989 ], [ 7.6956324, 48.751992199999982 ], [ 7.7037175, 48.753962 ], [ 7.699643, 48.760416 ], [ 7.6983412, 48.761671299999989 ], [ 7.6942406, 48.76121209999998 ], [ 7.6912272, 48.762837399999981 ], [ 7.68824, 48.760903299999981 ], [ 7.6723755, 48.7585455 ], [ 7.6683229, 48.74663589999998 ] ] ] } }
+]
+}

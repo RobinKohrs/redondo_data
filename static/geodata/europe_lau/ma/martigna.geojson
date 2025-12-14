@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martigna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martigna", "metric_roundness": 44.21, "metric_rectangularity": 80.48, "metric_mobile_fit": 74.8, "metric_aspect_ratio": 0.815, "metric_area_km2": 19.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6875535, 46.388709799999987 ], [ 5.6870052, 46.380206699999988 ], [ 5.673086, 46.374706499999988 ], [ 5.6825435, 46.368755 ], [ 5.6867545, 46.3684955 ], [ 5.6977014, 46.367628499999981 ], [ 5.7250745, 46.400992499999987 ], [ 5.7223735, 46.402559 ], [ 5.7200695, 46.40632 ], [ 5.7055801, 46.4116534 ], [ 5.6997995, 46.411155 ], [ 5.6875535, 46.388709799999987 ] ] ] } }
+]
+}

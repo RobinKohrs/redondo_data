@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "malves_en_minervois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malves-en-Minervois", "metric_roundness": 65.62, "metric_rectangularity": 71.83, "metric_mobile_fit": 36.47, "metric_aspect_ratio": 1.198, "metric_area_km2": 9.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4695925, 43.2436248 ], [ 2.469405, 43.257076499999982 ], [ 2.4456016, 43.2609488 ], [ 2.439547, 43.259049499999989 ], [ 2.4326338, 43.252570699999985 ], [ 2.4357645, 43.2469855 ], [ 2.4417445, 43.2470776 ], [ 2.451755, 43.2384752 ], [ 2.4630235, 43.23976 ], [ 2.4695925, 43.2436248 ] ] ] } }
+]
+}

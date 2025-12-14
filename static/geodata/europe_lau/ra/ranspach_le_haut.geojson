@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ranspach_le_haut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ranspach-le-Haut", "metric_roundness": 61.78, "metric_rectangularity": 76.96, "metric_mobile_fit": 69.82, "metric_aspect_ratio": 0.864, "metric_area_km2": 9.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.406248, 47.574206 ], [ 7.4043965, 47.573182499999987 ], [ 7.4082705, 47.570068 ], [ 7.4106115, 47.571085499999981 ], [ 7.414966, 47.567734 ], [ 7.43791, 47.57728 ], [ 7.4261315, 47.594065499999985 ], [ 7.4164456, 47.5894562 ], [ 7.410131, 47.5897635 ], [ 7.409656, 47.5875765 ], [ 7.4045815, 47.582571 ], [ 7.4041725, 47.5803805 ], [ 7.404934, 47.577193 ], [ 7.406248, 47.574206 ] ] ] } }
+]
+}

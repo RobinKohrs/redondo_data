@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "penna_in_teverina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Penna in Teverina", "metric_roundness": 49.78, "metric_rectangularity": 60.86, "metric_mobile_fit": 64.7, "metric_aspect_ratio": 0.915, "metric_area_km2": 17.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.3439482, 42.4851034 ], [ 12.3502119, 42.4753276 ], [ 12.3534969, 42.4743438 ], [ 12.3867542, 42.4894131 ], [ 12.390187, 42.498174 ], [ 12.371805, 42.503381 ], [ 12.3684852, 42.5116106 ], [ 12.3572825, 42.518634 ], [ 12.359786, 42.5117871 ], [ 12.3540268, 42.5013688 ], [ 12.335196, 42.490101 ], [ 12.3439482, 42.4851034 ] ] ] } }
+]
+}

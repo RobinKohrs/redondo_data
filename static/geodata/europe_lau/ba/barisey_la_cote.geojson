@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "barisey_la_cote",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Barisey-la-Côte", "metric_roundness": 57.24, "metric_rectangularity": 67.31, "metric_mobile_fit": 52.44, "metric_aspect_ratio": 1.038, "metric_area_km2": 9.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.847356, 48.557219 ], [ 5.845217, 48.556653 ], [ 5.8429415, 48.55708 ], [ 5.8406495, 48.556473 ], [ 5.8378125, 48.556611 ], [ 5.8346575, 48.55504 ], [ 5.8332, 48.553508499999985 ], [ 5.82869, 48.534744499999988 ], [ 5.8374756, 48.5347667 ], [ 5.8639305, 48.542337499999988 ], [ 5.847356, 48.557219 ] ] ] } }
+]
+}

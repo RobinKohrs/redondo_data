@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seeth_ekholt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Seeth-Ekholt", "metric_roundness": 57.88, "metric_rectangularity": 65.74, "metric_mobile_fit": 37.94, "metric_aspect_ratio": 1.183, "metric_area_km2": 19.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7180912, 53.739163699999985 ], [ 9.7097195, 53.735533 ], [ 9.7149318, 53.7298008 ], [ 9.7145115, 53.7235595 ], [ 9.7420175, 53.7238655 ], [ 9.7533941, 53.7365611 ], [ 9.765702, 53.738815 ], [ 9.7550751, 53.748082299999986 ], [ 9.740657, 53.751548 ], [ 9.7286339, 53.744675599999987 ], [ 9.7200005, 53.745310499999981 ], [ 9.7180912, 53.739163699999985 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "herschberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Herschberg", "metric_roundness": 58.18, "metric_rectangularity": 70.33, "metric_mobile_fit": 65.28, "metric_aspect_ratio": 0.91, "metric_area_km2": 28.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5391874, 49.284144599999983 ], [ 7.554843, 49.273619499999981 ], [ 7.569213, 49.277471 ], [ 7.5731479, 49.281373 ], [ 7.5755552, 49.2904829 ], [ 7.58505, 49.2949425 ], [ 7.5745333, 49.294801 ], [ 7.562509, 49.314008 ], [ 7.53393, 49.316786499999985 ], [ 7.5309015, 49.314537 ], [ 7.524835, 49.311991 ], [ 7.5290643, 49.306808 ], [ 7.5286395, 49.2981033 ], [ 7.5341865, 49.2931185 ], [ 7.5391874, 49.284144599999983 ] ] ] } }
+]
+}

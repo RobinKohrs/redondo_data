@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_povoa_de_santa_iria_e_forte_da_casa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Póvoa de Santa Iria e Forte da Casa", "metric_roundness": 40.86, "metric_rectangularity": 76.48, "metric_mobile_fit": 59.73, "metric_aspect_ratio": 0.965, "metric_area_km2": 13.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.050719, 38.886012 ], [ -9.0557267, 38.879356 ], [ -9.06425, 38.877410099999985 ], [ -9.0717658, 38.8693445 ], [ -9.0867995, 38.860743 ], [ -9.0762067, 38.8527061 ], [ -9.0762294, 38.846969099999988 ], [ -9.071773, 38.8436305 ], [ -9.068308, 38.8488285 ], [ -9.0646915, 38.853967 ], [ -9.059362, 38.858916 ], [ -9.0547925, 38.861200499999981 ], [ -9.048321, 38.863675 ], [ -9.0405165, 38.8672925 ], [ -9.0372795, 38.870337 ], [ -9.0342645, 38.8742145 ], [ -9.050719, 38.886012 ] ] ] } }
+]
+}

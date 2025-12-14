@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "turciansky_peter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Turčiansky Peter", "metric_roundness": 19.09, "metric_rectangularity": 48.72, "metric_mobile_fit": -87.29, "metric_aspect_ratio": 2.435, "metric_area_km2": 10.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.8978986, 49.0280679 ], [ 18.8953528, 49.036453599999987 ], [ 18.902252, 49.0402955 ], [ 18.8918043, 49.0406064 ], [ 18.827182, 49.04555449999998 ], [ 18.8278921, 49.041990099999985 ], [ 18.8484488, 49.0411218 ], [ 18.8642648, 49.0356985 ], [ 18.8726963, 49.0294008 ], [ 18.893213, 49.0253465 ], [ 18.8978986, 49.0280679 ] ] ] } }
+]
+}

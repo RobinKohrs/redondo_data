@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reichstadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reichstädt", "metric_roundness": 56.47, "metric_rectangularity": 76.49, "metric_mobile_fit": 71.29, "metric_aspect_ratio": 0.85, "metric_area_km2": 13.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.2405475, 50.915988799999987 ], [ 12.2481704, 50.9276044 ], [ 12.2361174, 50.9292189 ], [ 12.224169, 50.942935 ], [ 12.214416, 50.938066 ], [ 12.214319, 50.9338825 ], [ 12.2069235, 50.934180499999989 ], [ 12.2088015, 50.932191 ], [ 12.2076355, 50.925647 ], [ 12.228266, 50.912336 ], [ 12.2405475, 50.915988799999987 ] ] ] } }
+]
+}

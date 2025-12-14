@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "planalto_de_monforte_uniao_das_freguesias_de_oucidres_e_bobadela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Planalto de Monforte (União das freguesias de Oucidres e Bobadela)", "metric_roundness": 36.37, "metric_rectangularity": 74.46, "metric_mobile_fit": 62.84, "metric_aspect_ratio": 0.934, "metric_area_km2": 33.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.319005, 41.777093 ], [ -7.3423759, 41.759260399999988 ], [ -7.3432176, 41.753818 ], [ -7.3545257, 41.7402684 ], [ -7.372543, 41.7296475 ], [ -7.3708775, 41.7272935 ], [ -7.3680105, 41.7203815 ], [ -7.36612, 41.714909 ], [ -7.3404786, 41.7244018 ], [ -7.329802, 41.7251059 ], [ -7.3201602, 41.7382164 ], [ -7.310005, 41.7437905 ], [ -7.306283, 41.753259899999989 ], [ -7.298954, 41.759260399999988 ], [ -7.294689, 41.7627965 ], [ -7.319005, 41.777093 ] ] ] } }
+]
+}

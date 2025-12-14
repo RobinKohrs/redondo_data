@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "puls",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Puls", "metric_roundness": 40.7, "metric_rectangularity": 61.73, "metric_mobile_fit": 18.4, "metric_aspect_ratio": 1.379, "metric_area_km2": 30.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5557835, 54.092612 ], [ 9.5369212, 54.0920533 ], [ 9.5171195, 54.0967895 ], [ 9.4932605, 54.085210499999988 ], [ 9.492321, 54.078366599999988 ], [ 9.4791025, 54.069539 ], [ 9.492251, 54.062674 ], [ 9.5154465, 54.0727487 ], [ 9.5329845, 54.065207 ], [ 9.5400695, 54.0716055 ], [ 9.5447574, 54.078807799999986 ], [ 9.5592655, 54.090386 ], [ 9.5557835, 54.092612 ] ] ] } }
+]
+}

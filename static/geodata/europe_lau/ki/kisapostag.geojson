@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kisapostag",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kisapostag", "metric_roundness": 42.94, "metric_rectangularity": 70.17, "metric_mobile_fit": 99.82, "metric_aspect_ratio": 0.564, "metric_area_km2": 20.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.9396765, 46.883204499999984 ], [ 18.9463465, 46.889809499999984 ], [ 18.9417406, 46.8929051 ], [ 18.9487582, 46.9105555 ], [ 18.9366332, 46.9233367 ], [ 18.9279406, 46.9255487 ], [ 18.9099105, 46.9215265 ], [ 18.9151305, 46.908827499999987 ], [ 18.9165655, 46.903379 ], [ 18.919103, 46.897027499999986 ], [ 18.921186, 46.892538 ], [ 18.9299355, 46.8818805 ], [ 18.934305, 46.8785135 ], [ 18.9396765, 46.883204499999984 ] ] ] } }
+]
+}

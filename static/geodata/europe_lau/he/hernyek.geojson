@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hernyek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hernyék", "metric_roundness": 49.41, "metric_rectangularity": 68.01, "metric_mobile_fit": 91.13, "metric_aspect_ratio": 0.651, "metric_area_km2": 22.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.627613, 46.6345925 ], [ 16.6490155, 46.638270499999983 ], [ 16.652431, 46.64522 ], [ 16.655613, 46.660133 ], [ 16.6499125, 46.667594799999989 ], [ 16.6337548, 46.6736061 ], [ 16.625091, 46.681214499999989 ], [ 16.6207084, 46.663983899999984 ], [ 16.611376, 46.6510283 ], [ 16.6198075, 46.642145 ], [ 16.627613, 46.6345925 ] ] ] } }
+]
+}

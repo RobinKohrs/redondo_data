@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "peyrecave",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Peyrecave", "metric_roundness": 64.11, "metric_rectangularity": 67.02, "metric_mobile_fit": 60.89, "metric_aspect_ratio": 0.954, "metric_area_km2": 9.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8174185, 44.009072499999988 ], [ 0.8133971, 44.0085622 ], [ 0.8119639, 44.0036967 ], [ 0.793746, 44.003128 ], [ 0.794726, 43.9991201 ], [ 0.7908879, 43.995127 ], [ 0.8090145, 43.982041 ], [ 0.8168303, 43.9849885 ], [ 0.8179434, 43.991253 ], [ 0.8267191, 43.996572199999989 ], [ 0.8251425, 44.004405 ], [ 0.8174185, 44.009072499999988 ] ] ] } }
+]
+}

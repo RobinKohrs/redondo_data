@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trevou_treguignec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trévou-Tréguignec", "metric_roundness": 50.48, "metric_rectangularity": 73.99, "metric_mobile_fit": 79.42, "metric_aspect_ratio": 0.768, "metric_area_km2": 14.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.3428706, 48.827869099999987 ], [ -3.3540876, 48.820412799999986 ], [ -3.3639504, 48.8217333 ], [ -3.366151, 48.818983 ], [ -3.3481765, 48.7933465 ], [ -3.3436313, 48.7934295 ], [ -3.33366, 48.80079 ], [ -3.3386927, 48.806778599999987 ], [ -3.3251254, 48.809031499999982 ], [ -3.3353975, 48.82851 ], [ -3.3428706, 48.827869099999987 ] ] ] } }
+]
+}

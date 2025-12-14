@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "allenay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Allenay", "metric_roundness": 31.85, "metric_rectangularity": 65.69, "metric_mobile_fit": 82.34, "metric_aspect_ratio": 0.739, "metric_area_km2": 5.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4911985, 50.095056 ], [ 1.4859467, 50.083817499999974 ], [ 1.4779291, 50.079037299999989 ], [ 1.4791845, 50.075232 ], [ 1.4818045, 50.072952 ], [ 1.506397, 50.088957499999985 ], [ 1.5070115, 50.089815 ], [ 1.4978585, 50.098199 ], [ 1.4911985, 50.095056 ] ] ] } }
+]
+}

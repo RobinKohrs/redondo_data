@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "etival",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Étival", "metric_roundness": 53.45, "metric_rectangularity": 64.68, "metric_mobile_fit": 85.26, "metric_aspect_ratio": 0.71, "metric_area_km2": 28.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.77612, 46.493160199999984 ], [ 5.7727335, 46.4733155 ], [ 5.778097, 46.470542 ], [ 5.779244, 46.468076 ], [ 5.7793055, 46.465958 ], [ 5.8238215, 46.4833335 ], [ 5.8091674, 46.486995899999989 ], [ 5.8177995, 46.5073375 ], [ 5.7975406, 46.515505699999984 ], [ 5.78233, 46.513240699999983 ], [ 5.773378, 46.5030595 ], [ 5.77612, 46.493160199999984 ] ] ] } }
+]
+}

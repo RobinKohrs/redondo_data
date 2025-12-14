@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "andorno_micca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Andorno Micca", "metric_roundness": 40.57, "metric_rectangularity": 67.97, "metric_mobile_fit": 83.02, "metric_aspect_ratio": 0.732, "metric_area_km2": 11.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0482055, 45.606692 ], [ 8.0574215, 45.593326 ], [ 8.071153, 45.608821 ], [ 8.0788291, 45.6100879 ], [ 8.0857855, 45.62555 ], [ 8.0714825, 45.630165 ], [ 8.0641017, 45.6212926 ], [ 8.051854, 45.616815 ], [ 8.0472195, 45.6130355 ], [ 8.0473305, 45.609016 ], [ 8.0482055, 45.606692 ] ] ] } }
+]
+}

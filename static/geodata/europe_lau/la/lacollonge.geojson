@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lacollonge",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lacollonge", "metric_roundness": 35.36, "metric_rectangularity": 57.44, "metric_mobile_fit": -11.87, "metric_aspect_ratio": 1.681, "metric_area_km2": 3.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.940547, 47.6669995 ], [ 6.9433447, 47.662096 ], [ 6.951337, 47.667206199999974 ], [ 6.9556139, 47.66694589999998 ], [ 6.9571998, 47.6635201 ], [ 6.9549875, 47.659985 ], [ 6.9587849, 47.656541399999988 ], [ 6.9710285, 47.657905 ], [ 6.972517, 47.665008 ], [ 6.9719235, 47.6681405 ], [ 6.972096, 47.669349 ], [ 6.940547, 47.6669995 ] ] ] } }
+]
+}

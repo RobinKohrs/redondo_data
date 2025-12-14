@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mery_bissieres_en_auge",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Méry-Bissières-en-Auge", "metric_roundness": 27.06, "metric_rectangularity": 45.68, "metric_mobile_fit": 95.37, "metric_aspect_ratio": 0.516, "metric_area_km2": 19.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0931241, 49.124024799999987 ], [ -0.098139, 49.1116068 ], [ -0.0962547, 49.1037377 ], [ -0.0841027, 49.112692399999986 ], [ -0.054906, 49.118094 ], [ -0.0637224, 49.1272042 ], [ -0.06371, 49.151296 ], [ -0.0653335, 49.154949 ], [ -0.0736489, 49.158539499999989 ], [ -0.0786739, 49.142487 ], [ -0.0949005, 49.125712 ], [ -0.0931241, 49.124024799999987 ] ] ] } }
+]
+}

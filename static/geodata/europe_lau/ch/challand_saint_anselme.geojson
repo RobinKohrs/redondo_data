@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "challand_saint_anselme",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Challand-Saint-Anselme", "metric_roundness": 48.24, "metric_rectangularity": 70.26, "metric_mobile_fit": 4.05, "metric_aspect_ratio": 1.522, "metric_area_km2": 57.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7422666, 45.6960243 ], [ 7.7656233, 45.7043458 ], [ 7.7803408, 45.692723599999987 ], [ 7.787792, 45.690703499999984 ], [ 7.8018921, 45.693899099999989 ], [ 7.813773, 45.7161965 ], [ 7.8046863, 45.721489699999985 ], [ 7.7899779, 45.7246559 ], [ 7.7755804, 45.737379399999988 ], [ 7.7578534, 45.7364521 ], [ 7.7439988, 45.729269299999984 ], [ 7.7344502, 45.733761699999981 ], [ 7.7292205, 45.7408845 ], [ 7.704389, 45.703568 ], [ 7.7422666, 45.6960243 ] ] ] } }
+]
+}

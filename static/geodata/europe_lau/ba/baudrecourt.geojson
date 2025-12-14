@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baudrecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baudrecourt", "metric_roundness": 71.02, "metric_rectangularity": 74.75, "metric_mobile_fit": 52.68, "metric_aspect_ratio": 1.036, "metric_area_km2": 11.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.439035, 48.961710499999981 ], [ 6.4495945, 48.950485 ], [ 6.4555289, 48.948579 ], [ 6.4765795, 48.952701499999975 ], [ 6.477881, 48.957704 ], [ 6.4751635, 48.966088 ], [ 6.451211, 48.9732055 ], [ 6.439035, 48.961710499999981 ] ] ] } }
+]
+}

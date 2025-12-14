@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vidago_uniao_das_freguesias_de_vidago_arcosso_selhariz_e_vilarinho_das_paranheiras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vidago (União das freguesias de Vidago, Arcossó, Selhariz e Vilarinho das Paranheiras)", "metric_roundness": 42.71, "metric_rectangularity": 53.06, "metric_mobile_fit": 32.91, "metric_aspect_ratio": 1.233, "metric_area_km2": 43.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5334323, 41.6494494 ], [ -7.5519693, 41.658567 ], [ -7.558377, 41.6665685 ], [ -7.5602335, 41.6733839 ], [ -7.567514, 41.682051 ], [ -7.5692257, 41.6752055 ], [ -7.579396, 41.6625028 ], [ -7.599809, 41.659115 ], [ -7.6058406, 41.6527567 ], [ -7.6179003, 41.648817799999989 ], [ -7.6158851, 41.642037 ], [ -7.620556, 41.639702 ], [ -7.6112526, 41.6324064 ], [ -7.592124, 41.6245615 ], [ -7.5866811, 41.6296229 ], [ -7.570163, 41.630014399999986 ], [ -7.5474936, 41.6393716 ], [ -7.5379795, 41.6283514 ], [ -7.5258595, 41.6246365 ], [ -7.525652, 41.638758 ], [ -7.5334323, 41.6494494 ] ] ] } }
+]
+}

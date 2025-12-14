@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_pietro_in_lama",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Pietro in Lama", "metric_roundness": 40.85, "metric_rectangularity": 68.24, "metric_mobile_fit": 47.8, "metric_aspect_ratio": 1.084, "metric_area_km2": 14.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0850132, 40.290196699999989 ], [ 18.0957845, 40.276836 ], [ 18.1016754, 40.2805223 ], [ 18.1068971, 40.2798713 ], [ 18.1133884, 40.285283799999981 ], [ 18.1174958, 40.2846723 ], [ 18.124848, 40.3012756 ], [ 18.13567, 40.3099395 ], [ 18.1335155, 40.312479 ], [ 18.1263386, 40.3092962 ], [ 18.120043, 40.3120975 ], [ 18.0922305, 40.2997245 ], [ 18.0849915, 40.2936415 ], [ 18.0850132, 40.290196699999989 ] ] ] } }
+]
+}

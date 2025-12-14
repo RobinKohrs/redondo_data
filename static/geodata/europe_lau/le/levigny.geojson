@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "levigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lévigny", "metric_roundness": 54.86, "metric_rectangularity": 68.76, "metric_mobile_fit": 39.98, "metric_aspect_ratio": 1.163, "metric_area_km2": 31.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6936512, 48.3050906 ], [ 4.6711555, 48.292868 ], [ 4.6715835, 48.287364499999988 ], [ 4.6729878, 48.2834934 ], [ 4.6930068, 48.284280599999988 ], [ 4.716378, 48.279774499999988 ], [ 4.73632, 48.293834 ], [ 4.7393741, 48.2976594 ], [ 4.738944, 48.309028 ], [ 4.7259656, 48.3095221 ], [ 4.718799, 48.31675 ], [ 4.7146815, 48.318149799999986 ], [ 4.6979885, 48.3188055 ], [ 4.6936512, 48.3050906 ] ] ] } }
+]
+}

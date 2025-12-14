@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baltrum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baltrum", "metric_roundness": 32.24, "metric_rectangularity": 73.32, "metric_mobile_fit": -129.23, "metric_aspect_ratio": 2.855, "metric_area_km2": 18.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3820476, 53.735012499999982 ], [ 7.3594594, 53.7263649 ], [ 7.3885561, 53.7202069 ], [ 7.4239051, 53.7199486 ], [ 7.4301839, 53.7213851 ], [ 7.4357856, 53.7288334 ], [ 7.4317108, 53.732255 ], [ 7.4009084, 53.7357662 ], [ 7.3820476, 53.735012499999982 ] ] ] } }
+]
+}

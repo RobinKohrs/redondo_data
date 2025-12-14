@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_calvos_e_frades",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Calvos e Frades", "metric_roundness": 45.15, "metric_rectangularity": 58.63, "metric_mobile_fit": 77.12, "metric_aspect_ratio": 0.791, "metric_area_km2": 16.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.2464045, 41.627965 ], [ -8.2581709, 41.603227899999986 ], [ -8.273911, 41.5950735 ], [ -8.2727926, 41.591733 ], [ -8.2638411, 41.587137 ], [ -8.2574965, 41.5889765 ], [ -8.2582786, 41.5914076 ], [ -8.2360569, 41.588556799999985 ], [ -8.2307025, 41.598498 ], [ -8.234581, 41.626479 ], [ -8.2464045, 41.627965 ] ] ] } }
+]
+}

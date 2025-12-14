@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gondarem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gondarém", "metric_roundness": 24.18, "metric_rectangularity": 48.9, "metric_mobile_fit": -88.8, "metric_aspect_ratio": 2.451, "metric_area_km2": 13.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.767504, 41.929191499999988 ], [ -8.7734175, 41.925934 ], [ -8.7786395, 41.922203 ], [ -8.7828095, 41.919689 ], [ -8.7870895, 41.917594 ], [ -8.7809984, 41.9152934 ], [ -8.7774715, 41.909982 ], [ -8.7669005, 41.908364 ], [ -8.7372769, 41.912239 ], [ -8.712304, 41.920948 ], [ -8.7493163, 41.9221017 ], [ -8.762391, 41.931072 ], [ -8.767504, 41.929191499999988 ] ] ] } }
+]
+}

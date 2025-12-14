@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "notre_dame_de_commiers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Notre-Dame-de-Commiers", "metric_roundness": 64.07, "metric_rectangularity": 72.68, "metric_mobile_fit": 47.88, "metric_aspect_ratio": 1.084, "metric_area_km2": 11.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6952688, 45.018746499999985 ], [ 5.6891166, 45.0153089 ], [ 5.6864065, 45.0061955 ], [ 5.6926065, 44.999545 ], [ 5.700192, 44.9980185 ], [ 5.7042705, 44.9981285 ], [ 5.7105815, 44.996505 ], [ 5.7127075, 44.9991415 ], [ 5.7158855, 44.999233 ], [ 5.716541, 45.0039845 ], [ 5.728545, 45.009578499999989 ], [ 5.7174649, 45.0170464 ], [ 5.7030255, 45.0198447 ], [ 5.697507, 45.023994 ], [ 5.6952688, 45.018746499999985 ] ] ] } }
+]
+}

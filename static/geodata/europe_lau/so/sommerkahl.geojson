@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sommerkahl",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sommerkahl", "metric_roundness": 27.21, "metric_rectangularity": 52.96, "metric_mobile_fit": -60.25, "metric_aspect_ratio": 2.165, "metric_area_km2": 13.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2359771, 50.0683978 ], [ 9.250032, 50.060904 ], [ 9.256838, 50.0582875 ], [ 9.2722633, 50.065496399999986 ], [ 9.2842043, 50.05922 ], [ 9.2942209, 50.060781399999989 ], [ 9.3042085, 50.0571105 ], [ 9.3025905, 50.0600464 ], [ 9.3066961, 50.0646174 ], [ 9.2871925, 50.0656945 ], [ 9.2693805, 50.075844499999974 ], [ 9.2512499, 50.0752723 ], [ 9.2432637, 50.0780771 ], [ 9.239687, 50.0761755 ], [ 9.2359771, 50.0683978 ] ] ] } }
+]
+}

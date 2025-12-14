@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rocquemont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rocquemont", "metric_roundness": 46.37, "metric_rectangularity": 67.0, "metric_mobile_fit": 80.11, "metric_aspect_ratio": 0.761, "metric_area_km2": 15.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8224925, 49.27369 ], [ 2.80548, 49.276821 ], [ 2.8059455, 49.275068 ], [ 2.808322, 49.272264499999984 ], [ 2.808647, 49.2702415 ], [ 2.804796, 49.269537499999984 ], [ 2.8023325, 49.270401 ], [ 2.8002705, 49.2564295 ], [ 2.804312, 49.2555595 ], [ 2.8140945, 49.250616 ], [ 2.823328, 49.247479 ], [ 2.829618, 49.243581 ], [ 2.8368995, 49.2449836 ], [ 2.838986, 49.247271 ], [ 2.839051, 49.257712 ], [ 2.8224925, 49.27369 ] ] ] } }
+]
+}

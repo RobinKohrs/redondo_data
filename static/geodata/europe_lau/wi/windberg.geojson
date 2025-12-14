@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "windberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Windberg", "metric_roundness": 60.81, "metric_rectangularity": 70.08, "metric_mobile_fit": 49.3, "metric_aspect_ratio": 1.069, "metric_area_km2": 18.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.7690553, 48.9624826 ], [ 12.76206, 48.960335499999985 ], [ 12.7523842, 48.9587835 ], [ 12.7487609, 48.9501703 ], [ 12.7378923, 48.946462899999986 ], [ 12.7389989, 48.934898 ], [ 12.7422765, 48.931203 ], [ 12.7676693, 48.9314968 ], [ 12.7856, 48.9353445 ], [ 12.7888293, 48.9386031 ], [ 12.7826429, 48.947205499999981 ], [ 12.7719214, 48.9478939 ], [ 12.7709745, 48.958984499999985 ], [ 12.7690553, 48.9624826 ] ] ] } }
+]
+}

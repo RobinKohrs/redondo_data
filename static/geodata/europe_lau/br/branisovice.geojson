@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "branisovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Branišovice", "metric_roundness": 55.32, "metric_rectangularity": 70.62, "metric_mobile_fit": 43.27, "metric_aspect_ratio": 1.13, "metric_area_km2": 25.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4149479, 48.9711584 ], [ 16.400574, 48.9560725 ], [ 16.4086925, 48.953667 ], [ 16.4119905, 48.9526895 ], [ 16.4241945, 48.949562 ], [ 16.437535, 48.946080499999987 ], [ 16.4422845, 48.944738 ], [ 16.452361, 48.9539335 ], [ 16.4589835, 48.950633 ], [ 16.468279, 48.9598035 ], [ 16.459235, 48.961237 ], [ 16.4544545, 48.9677535 ], [ 16.4397305, 48.98093 ], [ 16.436133, 48.984082 ], [ 16.4149479, 48.9711584 ] ] ] } }
+]
+}

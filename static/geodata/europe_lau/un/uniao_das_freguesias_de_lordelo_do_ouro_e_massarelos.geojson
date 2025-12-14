@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_lordelo_do_ouro_e_massarelos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Lordelo do Ouro e Massarelos", "metric_roundness": 36.05, "metric_rectangularity": 62.91, "metric_mobile_fit": 11.53, "metric_aspect_ratio": 1.447, "metric_area_km2": 10.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.657144, 41.143434 ], [ -8.6520365, 41.144812499999986 ], [ -8.6386489, 41.1470619 ], [ -8.619527, 41.1397955 ], [ -8.6231239, 41.1447372 ], [ -8.62311, 41.1520463 ], [ -8.6359385, 41.159759 ], [ -8.6629985, 41.163572 ], [ -8.6652237, 41.1592698 ], [ -8.660294, 41.1429245 ], [ -8.657144, 41.143434 ] ] ] } }
+]
+}

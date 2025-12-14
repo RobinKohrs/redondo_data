@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ribeiradio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ribeiradio", "metric_roundness": 44.21, "metric_rectangularity": 61.46, "metric_mobile_fit": 93.55, "metric_aspect_ratio": 0.627, "metric_area_km2": 26.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.3098588, 40.742611 ], [ -8.3222605, 40.742369 ], [ -8.333588, 40.737001 ], [ -8.3242988, 40.7204775 ], [ -8.3251115, 40.7101398 ], [ -8.3141423, 40.7032858 ], [ -8.306723, 40.69253 ], [ -8.29829, 40.694535 ], [ -8.2882805, 40.6996365 ], [ -8.2898343, 40.705136 ], [ -8.2984282, 40.7131335 ], [ -8.2849795, 40.7396086 ], [ -8.2854643, 40.7453112 ], [ -8.2907835, 40.751289499999984 ], [ -8.3098588, 40.742611 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ozegna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ozegna", "metric_roundness": 51.03, "metric_rectangularity": 66.95, "metric_mobile_fit": 48.17, "metric_aspect_ratio": 1.081, "metric_area_km2": 11.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7405812, 45.3329029 ], [ 7.7467215, 45.328588 ], [ 7.7531101, 45.3355396 ], [ 7.7718, 45.3375245 ], [ 7.773387, 45.3416985 ], [ 7.7519732, 45.351662399999981 ], [ 7.7463635, 45.3577985 ], [ 7.740174, 45.357446499999988 ], [ 7.7284675, 45.3521365 ], [ 7.7405812, 45.3329029 ] ] ] } }
+]
+}

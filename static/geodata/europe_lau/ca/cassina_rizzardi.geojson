@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cassina_rizzardi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cassina Rizzardi", "metric_roundness": 54.25, "metric_rectangularity": 65.68, "metric_mobile_fit": 53.09, "metric_aspect_ratio": 1.032, "metric_area_km2": 7.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0130399, 45.7519048 ], [ 9.0268785, 45.7383445 ], [ 9.0326232, 45.742659199999984 ], [ 9.0405579, 45.743621799999985 ], [ 9.044009, 45.752398 ], [ 9.0393435, 45.756016399999986 ], [ 9.028534, 45.757623 ], [ 9.022196, 45.7593615 ], [ 9.0168605, 45.760577499999989 ], [ 9.0111395, 45.760515499999983 ], [ 9.0130399, 45.7519048 ] ] ] } }
+]
+}

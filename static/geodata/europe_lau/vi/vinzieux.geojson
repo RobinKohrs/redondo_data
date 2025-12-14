@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vinzieux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vinzieux", "metric_roundness": 33.69, "metric_rectangularity": 50.22, "metric_mobile_fit": 61.63, "metric_aspect_ratio": 0.946, "metric_area_km2": 14.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7004145, 45.3457435 ], [ 4.6980205, 45.344984499999988 ], [ 4.6900765, 45.3427585 ], [ 4.6934349, 45.329968699999981 ], [ 4.6765685, 45.3141475 ], [ 4.6799335, 45.308089 ], [ 4.6946042, 45.3155906 ], [ 4.7182417, 45.3315252 ], [ 4.732387, 45.331912 ], [ 4.7033075, 45.3495615 ], [ 4.7004145, 45.3457435 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gotzendorf_an_der_leitha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Götzendorf an der Leitha", "metric_roundness": 59.46, "metric_rectangularity": 78.07, "metric_mobile_fit": 51.07, "metric_aspect_ratio": 1.052, "metric_area_km2": 56.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5926661, 48.0142294 ], [ 16.6044565, 48.014314499999983 ], [ 16.59691, 48.025333 ], [ 16.5756629, 48.037819499999983 ], [ 16.555163, 48.0553325 ], [ 16.538419, 48.045548199999978 ], [ 16.5191952, 48.041675399999981 ], [ 16.5141824, 48.0376586 ], [ 16.508903, 48.026926 ], [ 16.5073385, 48.024726 ], [ 16.5593345, 47.993580499999986 ], [ 16.5781333, 48.0084374 ], [ 16.5847015, 48.010681 ], [ 16.5926661, 48.0142294 ] ] ] } }
+]
+}

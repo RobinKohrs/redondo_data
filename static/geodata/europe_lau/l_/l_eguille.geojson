@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "l_eguille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "L'Éguille", "metric_roundness": 42.87, "metric_rectangularity": 65.29, "metric_mobile_fit": 63.89, "metric_aspect_ratio": 0.924, "metric_area_km2": 8.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9693235, 45.6849635 ], [ -0.9675959, 45.692052099999984 ], [ -0.9610485, 45.696231 ], [ -0.9683652, 45.7066895 ], [ -0.9799512, 45.711201599999981 ], [ -0.9959426, 45.711350099999983 ], [ -0.9919843, 45.700781799999987 ], [ -0.9829748, 45.695516799999979 ], [ -0.9785525, 45.688685 ], [ -0.9693235, 45.6849635 ] ] ] } }
+]
+}

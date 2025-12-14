@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hautevesnes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hautevesnes", "metric_roundness": 34.58, "metric_rectangularity": 55.35, "metric_mobile_fit": 95.27, "metric_aspect_ratio": 0.61, "metric_area_km2": 16.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2309835, 49.1154312 ], [ 3.2187655, 49.1117306 ], [ 3.211363, 49.098049 ], [ 3.2339317, 49.096460199999981 ], [ 3.2372465, 49.091104 ], [ 3.2477045, 49.09385 ], [ 3.2494255, 49.105955499999986 ], [ 3.2538635, 49.111658499999976 ], [ 3.2469015, 49.120527499999987 ], [ 3.244379, 49.12495 ], [ 3.2399, 49.127239 ], [ 3.236613, 49.136708499999983 ], [ 3.236547, 49.136723 ], [ 3.2309835, 49.1154312 ] ] ] } }
+]
+}

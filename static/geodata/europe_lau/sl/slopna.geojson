@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "slopna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Slopná", "metric_roundness": 47.18, "metric_rectangularity": 62.1, "metric_mobile_fit": 85.94, "metric_aspect_ratio": 0.703, "metric_area_km2": 17.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.3851072, 49.045694499999982 ], [ 18.3933149, 49.0361408 ], [ 18.3950123, 49.028865 ], [ 18.404474, 49.020697499999983 ], [ 18.4135824, 49.0245163 ], [ 18.4116457, 49.0321682 ], [ 18.4271966, 49.0445895 ], [ 18.4166544, 49.0520161 ], [ 18.3922565, 49.05994 ], [ 18.3881279, 49.0592609 ], [ 18.386415, 49.0520005 ], [ 18.3851072, 49.045694499999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "codonera_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Codoñera, La", "metric_roundness": 49.53, "metric_rectangularity": 73.08, "metric_mobile_fit": 19.84, "metric_aspect_ratio": 1.364, "metric_area_km2": 35.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0351758, 40.908683499999988 ], [ -0.0295645, 40.9049225 ], [ -0.0196836, 40.915654 ], [ -0.0190685, 40.924782 ], [ -0.030236, 40.9344635 ], [ -0.0386449, 40.936108 ], [ -0.0564507, 40.9482827 ], [ -0.0960105, 40.945011 ], [ -0.0973512, 40.9282463 ], [ -0.088562, 40.9193265 ], [ -0.0351758, 40.908683499999988 ] ] ] } }
+]
+}

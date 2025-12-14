@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ponte_lambro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ponte Lambro", "metric_roundness": 49.04, "metric_rectangularity": 62.11, "metric_mobile_fit": 57.34, "metric_aspect_ratio": 0.989, "metric_area_km2": 7.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2209252, 45.8352893 ], [ 9.2148877, 45.84023819999998 ], [ 9.204805, 45.839914499999985 ], [ 9.2058432, 45.8329527 ], [ 9.2135948, 45.8217076 ], [ 9.2221817, 45.8174043 ], [ 9.2258478, 45.817928 ], [ 9.2260282, 45.8222472 ], [ 9.2372165, 45.8276125 ], [ 9.2294863, 45.831794699999989 ], [ 9.2301795, 45.835177 ], [ 9.2209252, 45.8352893 ] ] ] } }
+]
+}

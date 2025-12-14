@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_julien_sur_dheune",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Julien-sur-Dheune", "metric_roundness": 40.55, "metric_rectangularity": 56.02, "metric_mobile_fit": 16.3, "metric_aspect_ratio": 1.399, "metric_area_km2": 11.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5348191, 46.78336419999998 ], [ 4.521703, 46.7752615 ], [ 4.5293113, 46.767764499999984 ], [ 4.5437527, 46.769693 ], [ 4.5547725, 46.7615145 ], [ 4.5643264, 46.7603467 ], [ 4.5726595, 46.763640599999981 ], [ 4.563788, 46.771345499999988 ], [ 4.5570519, 46.777619 ], [ 4.5584461, 46.7829416 ], [ 4.5551265, 46.785284 ], [ 4.54708, 46.782379 ], [ 4.5452375, 46.7805695 ], [ 4.540187, 46.782017 ], [ 4.5348191, 46.78336419999998 ] ] ] } }
+]
+}

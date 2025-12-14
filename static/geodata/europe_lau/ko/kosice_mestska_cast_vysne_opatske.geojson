@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kosice_mestska_cast_vysne_opatske",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Košice - mestská časť Vyšné Opátske", "metric_roundness": 28.66, "metric_rectangularity": 48.29, "metric_mobile_fit": 96.1, "metric_aspect_ratio": 0.523, "metric_area_km2": 9.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.2776586, 48.7113048 ], [ 21.2764712, 48.7035355 ], [ 21.280611, 48.699033 ], [ 21.2870865, 48.6964652 ], [ 21.29417, 48.688195 ], [ 21.2918747, 48.6990212 ], [ 21.294842, 48.7082527 ], [ 21.303589, 48.71191649999998 ], [ 21.294034, 48.714689799999988 ], [ 21.2930145, 48.723855 ], [ 21.2763105, 48.724536 ], [ 21.274761, 48.721732 ], [ 21.2776586, 48.7113048 ] ] ] } }
+]
+}

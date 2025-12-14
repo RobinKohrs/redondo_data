@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dravaszerdahely",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Drávaszerdahely", "metric_roundness": 45.43, "metric_rectangularity": 66.18, "metric_mobile_fit": 97.51, "metric_aspect_ratio": 0.587, "metric_area_km2": 13.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.1666874, 45.832994799999973 ], [ 18.1729424, 45.8374222 ], [ 18.1716896, 45.843371799999986 ], [ 18.1748655, 45.850273 ], [ 18.1738915, 45.8566065 ], [ 18.1637089, 45.859331 ], [ 18.154566, 45.85682 ], [ 18.148456, 45.8544363 ], [ 18.1444685, 45.847946 ], [ 18.1429921, 45.840652599999984 ], [ 18.160421, 45.826345 ], [ 18.1694, 45.821527499999988 ], [ 18.1666874, 45.832994799999973 ] ] ] } }
+]
+}

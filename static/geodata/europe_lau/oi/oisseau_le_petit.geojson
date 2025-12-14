@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oisseau_le_petit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oisseau-le-Petit", "metric_roundness": 50.73, "metric_rectangularity": 71.02, "metric_mobile_fit": 61.41, "metric_aspect_ratio": 0.948, "metric_area_km2": 19.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.063084, 48.364579199999987 ], [ 0.051959, 48.362708 ], [ 0.0518065, 48.342414 ], [ 0.0612572, 48.3438023 ], [ 0.0672565, 48.337503 ], [ 0.0836306, 48.336973 ], [ 0.0911192, 48.330841699999986 ], [ 0.099949, 48.337265499999987 ], [ 0.0998981, 48.342284299999974 ], [ 0.0918225, 48.354371 ], [ 0.072296, 48.362489 ], [ 0.063084, 48.364579199999987 ] ] ] } }
+]
+}

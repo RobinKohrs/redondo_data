@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "frasso_sabino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frasso Sabino", "metric_roundness": 51.09, "metric_rectangularity": 64.2, "metric_mobile_fit": 70.79, "metric_aspect_ratio": 0.855, "metric_area_km2": 7.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.8279195, 42.221581 ], [ 12.8243165, 42.2302015 ], [ 12.8207285, 42.2307715 ], [ 12.8106629, 42.2333116 ], [ 12.798227, 42.2316775 ], [ 12.7985501, 42.224966699999982 ], [ 12.805549, 42.2215321 ], [ 12.8106629, 42.21381 ], [ 12.8191955, 42.2075825 ], [ 12.8279195, 42.221581 ] ] ] } }
+]
+}

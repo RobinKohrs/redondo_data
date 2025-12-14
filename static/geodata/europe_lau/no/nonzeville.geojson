@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nonzeville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nonzeville", "metric_roundness": 49.21, "metric_rectangularity": 71.89, "metric_mobile_fit": 66.06, "metric_aspect_ratio": 0.902, "metric_area_km2": 3.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.619977, 48.263426 ], [ 6.6336225, 48.258137499999982 ], [ 6.642018, 48.262944499999989 ], [ 6.6391245, 48.274406 ], [ 6.619977, 48.263426 ] ] ] } }
+]
+}

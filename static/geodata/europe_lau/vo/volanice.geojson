@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "volanice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Volanice", "metric_roundness": 55.74, "metric_rectangularity": 68.34, "metric_mobile_fit": 68.3, "metric_aspect_ratio": 0.88, "metric_area_km2": 15.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.398516, 50.3214025 ], [ 15.4065579, 50.321584 ], [ 15.413755, 50.3255574 ], [ 15.412746, 50.328588499999988 ], [ 15.412892, 50.34172 ], [ 15.4003545, 50.3468914 ], [ 15.3920332, 50.346125599999986 ], [ 15.3842515, 50.350769 ], [ 15.3754594, 50.3492636 ], [ 15.3732899, 50.342385399999984 ], [ 15.383965, 50.3330371 ], [ 15.3820393, 50.328385399999988 ], [ 15.3854835, 50.3248895 ], [ 15.398516, 50.3214025 ] ] ] } }
+]
+}

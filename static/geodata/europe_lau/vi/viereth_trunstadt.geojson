@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "viereth_trunstadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Viereth-Trunstadt", "metric_roundness": 50.57, "metric_rectangularity": 72.64, "metric_mobile_fit": 4.23, "metric_aspect_ratio": 1.52, "metric_area_km2": 36.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.7191867, 49.932586 ], [ 10.714203, 49.923112 ], [ 10.7349045, 49.910502 ], [ 10.755889, 49.903313499999989 ], [ 10.7621341, 49.9060053 ], [ 10.7661858, 49.911888599999983 ], [ 10.7862359, 49.91105 ], [ 10.8008985, 49.9234735 ], [ 10.7798899, 49.9294271 ], [ 10.7785205, 49.9341053 ], [ 10.7575392, 49.9400318 ], [ 10.7366335, 49.938794 ], [ 10.7191867, 49.932586 ] ] ] } }
+]
+}

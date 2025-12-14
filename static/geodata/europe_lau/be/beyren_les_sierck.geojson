@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beyren_les_sierck",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beyren-lès-Sierck", "metric_roundness": 48.77, "metric_rectangularity": 70.01, "metric_mobile_fit": 31.99, "metric_aspect_ratio": 1.243, "metric_area_km2": 22.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.278472, 49.455105 ], [ 6.289661, 49.451707 ], [ 6.2907135, 49.451942 ], [ 6.2928343, 49.4556346 ], [ 6.30246, 49.457383199999988 ], [ 6.3117305, 49.4633891 ], [ 6.333769, 49.466923 ], [ 6.3205319, 49.476950799999976 ], [ 6.2974346, 49.4809719 ], [ 6.2984839, 49.487498499999987 ], [ 6.2779866, 49.4752692 ], [ 6.2665945, 49.473651099999984 ], [ 6.265329, 49.469555 ], [ 6.278472, 49.455105 ] ] ] } }
+]
+}

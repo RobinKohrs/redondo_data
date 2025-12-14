@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beaux", "metric_roundness": 50.55, "metric_rectangularity": 67.38, "metric_mobile_fit": 86.61, "metric_aspect_ratio": 0.696, "metric_area_km2": 34.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.063389, 45.1698615 ], [ 4.0695314, 45.1664543 ], [ 4.0828218, 45.172139199999982 ], [ 4.0885752, 45.17805569999998 ], [ 4.1057014, 45.1857863 ], [ 4.113184, 45.1948005 ], [ 4.1008675, 45.2145225 ], [ 4.0951515, 45.2144052 ], [ 4.0812577, 45.224676199999983 ], [ 4.0728495, 45.220659 ], [ 4.0701165, 45.2062511 ], [ 4.0561967, 45.1902213 ], [ 4.0556505, 45.175056 ], [ 4.063389, 45.1698615 ] ] ] } }
+]
+}

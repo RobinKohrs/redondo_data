@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "quevreville_la_poterie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Quévreville-la-Poterie", "metric_roundness": 45.79, "metric_rectangularity": 66.38, "metric_mobile_fit": 93.86, "metric_aspect_ratio": 0.624, "metric_area_km2": 11.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1824477, 49.355123199999987 ], [ 1.1827115, 49.343842 ], [ 1.184848, 49.3380675 ], [ 1.1855395, 49.337894499999983 ], [ 1.1992492, 49.3393071 ], [ 1.1994515, 49.3511435 ], [ 1.2025624, 49.3610639 ], [ 1.1960582, 49.367104899999987 ], [ 1.1836453, 49.3699394 ], [ 1.1718705, 49.365857 ], [ 1.174949, 49.3635515 ], [ 1.1824477, 49.355123199999987 ] ] ] } }
+]
+}

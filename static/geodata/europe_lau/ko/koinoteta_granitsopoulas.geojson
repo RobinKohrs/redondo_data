@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_granitsopoulas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γρανιτσοπούλας", "metric_roundness": 35.87, "metric_rectangularity": 75.31, "metric_mobile_fit": 79.16, "metric_aspect_ratio": 0.771, "metric_area_km2": 12.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.539761, 39.7181225 ], [ 20.5339075, 39.7361005 ], [ 20.5225628, 39.7273196 ], [ 20.502121, 39.7174585 ], [ 20.4997865, 39.706529 ], [ 20.5016365, 39.7038595 ], [ 20.504072, 39.700934 ], [ 20.5051825, 39.698832 ], [ 20.5061085, 39.696212 ], [ 20.539761, 39.7181225 ] ] ] } }
+]
+}

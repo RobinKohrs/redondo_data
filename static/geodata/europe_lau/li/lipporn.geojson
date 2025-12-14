@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lipporn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lipporn", "metric_roundness": 43.33, "metric_rectangularity": 60.11, "metric_mobile_fit": 87.82, "metric_aspect_ratio": 0.684, "metric_area_km2": 12.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8768925, 50.131241499999987 ], [ 7.8684346, 50.1447167 ], [ 7.8701295, 50.1490745 ], [ 7.8698635, 50.153597 ], [ 7.8622795, 50.154917 ], [ 7.8583221, 50.147733 ], [ 7.852484, 50.146173499999982 ], [ 7.8491304, 50.1378427 ], [ 7.842468, 50.134192 ], [ 7.840577, 50.131213 ], [ 7.8422725, 50.126715 ], [ 7.8512295, 50.1298855 ], [ 7.854016, 50.128329 ], [ 7.8683955, 50.1209005 ], [ 7.8768925, 50.131241499999987 ] ] ] } }
+]
+}

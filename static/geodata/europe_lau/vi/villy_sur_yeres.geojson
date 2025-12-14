@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villy_sur_yeres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villy-sur-Yères", "metric_roundness": 37.76, "metric_rectangularity": 57.8, "metric_mobile_fit": 8.62, "metric_aspect_ratio": 1.476, "metric_area_km2": 19.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4753658, 49.944823199999981 ], [ 1.4663259, 49.951489599999981 ], [ 1.458139, 49.951802499999978 ], [ 1.45062, 49.958203499999989 ], [ 1.4471925, 49.954784499999981 ], [ 1.4399744, 49.9511605 ], [ 1.426465, 49.936037 ], [ 1.4473865, 49.926952 ], [ 1.4623903, 49.934517299999982 ], [ 1.4936778, 49.9380579 ], [ 1.4981545, 49.9439565 ], [ 1.4753658, 49.944823199999981 ] ] ] } }
+]
+}

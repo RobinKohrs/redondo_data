@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "noiseau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Noiseau", "metric_roundness": 64.03, "metric_rectangularity": 79.72, "metric_mobile_fit": 51.96, "metric_aspect_ratio": 1.043, "metric_area_km2": 10.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5430409, 48.76566339999998 ], [ 2.5633871, 48.764364099999987 ], [ 2.571677, 48.7670965 ], [ 2.5726552, 48.7729174 ], [ 2.5669906, 48.776391299999986 ], [ 2.561967, 48.7878055 ], [ 2.5355595, 48.777023 ], [ 2.5430409, 48.76566339999998 ] ] ] } }
+]
+}

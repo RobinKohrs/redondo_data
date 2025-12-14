@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mejannes_les_ales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Méjannes-lès-Alès", "metric_roundness": 54.74, "metric_rectangularity": 66.8, "metric_mobile_fit": 64.01, "metric_aspect_ratio": 0.922, "metric_area_km2": 12.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.160932, 44.085748 ], [ 4.1633295, 44.0940366 ], [ 4.1745345, 44.099701499999981 ], [ 4.1654522, 44.1062386 ], [ 4.1575574, 44.1074938 ], [ 4.1485735, 44.118708 ], [ 4.1434123, 44.1147315 ], [ 4.138673, 44.11594 ], [ 4.1299297, 44.1070317 ], [ 4.1474038, 44.091976899999985 ], [ 4.1496335, 44.083984 ], [ 4.160932, 44.085748 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fensdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fensdorf", "metric_roundness": 60.53, "metric_rectangularity": 72.92, "metric_mobile_fit": 59.05, "metric_aspect_ratio": 0.972, "metric_area_km2": 5.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.789094, 50.748650399999988 ], [ 7.7724918, 50.7438162 ], [ 7.7696135, 50.740197 ], [ 7.775288, 50.7370105 ], [ 7.7883485, 50.7312755 ], [ 7.7963007, 50.738886099999981 ], [ 7.796269, 50.747838499999986 ], [ 7.789094, 50.748650399999988 ] ] ] } }
+]
+}

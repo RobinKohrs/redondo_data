@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chyjice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chyjice", "metric_roundness": 53.95, "metric_rectangularity": 69.33, "metric_mobile_fit": 13.19, "metric_aspect_ratio": 1.431, "metric_area_km2": 12.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.2638315, 50.386337 ], [ 15.282724, 50.377496499999985 ], [ 15.3026007, 50.3801962 ], [ 15.3076645, 50.3865425 ], [ 15.3105165, 50.3895675 ], [ 15.3104581, 50.395870899999984 ], [ 15.301573, 50.3983035 ], [ 15.2853035, 50.398296 ], [ 15.2800479, 50.3968061 ], [ 15.2756966, 50.3899909 ], [ 15.26499, 50.38722 ], [ 15.2638315, 50.386337 ] ] ] } }
+]
+}

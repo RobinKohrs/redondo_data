@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ginestar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ginestar", "metric_roundness": 65.65, "metric_rectangularity": 66.11, "metric_mobile_fit": 64.88, "metric_aspect_ratio": 0.914, "metric_area_km2": 28.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.6260455, 41.052616 ], [ 0.616885, 41.033176699999984 ], [ 0.6026113, 41.0300905 ], [ 0.6073705, 41.0250515 ], [ 0.6240101, 41.0199313 ], [ 0.6247408, 41.0147048 ], [ 0.628507, 41.0131389 ], [ 0.6265623, 41.006735299999981 ], [ 0.633344, 41.0032525 ], [ 0.6509627, 41.006706 ], [ 0.6614881, 41.033964399999981 ], [ 0.6623966, 41.041020099999976 ], [ 0.6508275, 41.0506975 ], [ 0.6260455, 41.052616 ] ] ] } }
+]
+}

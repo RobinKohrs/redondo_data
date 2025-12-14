@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_ouen_de_thouberville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Ouen-de-Thouberville", "metric_roundness": 30.83, "metric_rectangularity": 56.01, "metric_mobile_fit": -47.02, "metric_aspect_ratio": 2.033, "metric_area_km2": 14.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8712272, 49.3421537 ], [ 0.8825059, 49.346659 ], [ 0.919571, 49.338606299999988 ], [ 0.932251, 49.345016 ], [ 0.931389, 49.34568 ], [ 0.92955, 49.346922 ], [ 0.9270265, 49.348689499999985 ], [ 0.9232105, 49.349903 ], [ 0.8970899, 49.3556242 ], [ 0.892349, 49.360138 ], [ 0.8854092, 49.360817499999975 ], [ 0.8745736, 49.3540606 ], [ 0.8680865, 49.353806499999983 ], [ 0.8629465, 49.34880339999998 ], [ 0.8642085, 49.345609499999981 ], [ 0.8712272, 49.3421537 ] ] ] } }
+]
+}

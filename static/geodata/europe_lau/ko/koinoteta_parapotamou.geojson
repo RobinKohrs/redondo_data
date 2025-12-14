@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_parapotamou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Παραποτάμου", "metric_roundness": 36.43, "metric_rectangularity": 59.98, "metric_mobile_fit": -11.01, "metric_aspect_ratio": 1.673, "metric_area_km2": 39.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.4344234, 39.7907894 ], [ 22.457258, 39.7943055 ], [ 22.4649294, 39.7989575 ], [ 22.4727462, 39.8110968 ], [ 22.4962045, 39.829989 ], [ 22.4587139, 39.8360756 ], [ 22.4454118, 39.831791299999985 ], [ 22.438802, 39.8332635 ], [ 22.435524, 39.8227603 ], [ 22.4069409, 39.815721 ], [ 22.4045979, 39.8081229 ], [ 22.398893, 39.8058696 ], [ 22.397594, 39.802366 ], [ 22.4344234, 39.7907894 ] ] ] } }
+]
+}

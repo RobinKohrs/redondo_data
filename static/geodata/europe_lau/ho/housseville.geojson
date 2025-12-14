@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "housseville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Housséville", "metric_roundness": 66.97, "metric_rectangularity": 72.05, "metric_mobile_fit": 35.25, "metric_aspect_ratio": 1.21, "metric_area_km2": 11.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0995094, 48.4122114 ], [ 6.0953, 48.401657 ], [ 6.0974985, 48.401218 ], [ 6.099175, 48.4019745 ], [ 6.101767, 48.401352 ], [ 6.102554, 48.398222 ], [ 6.1092458, 48.400857 ], [ 6.1250002, 48.397690599999983 ], [ 6.1341806, 48.403687699999985 ], [ 6.135977, 48.409346 ], [ 6.127178, 48.4164891 ], [ 6.117375, 48.420006 ], [ 6.106993, 48.418736 ], [ 6.0995094, 48.4122114 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baudricourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baudricourt", "metric_roundness": 46.74, "metric_rectangularity": 69.26, "metric_mobile_fit": 80.44, "metric_aspect_ratio": 0.758, "metric_area_km2": 7.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.065516, 48.3173835 ], [ 6.0503306, 48.3189249 ], [ 6.0450455, 48.321792 ], [ 6.0412, 48.319123 ], [ 6.0514036, 48.304496199999988 ], [ 6.0515285, 48.299022499999985 ], [ 6.053959, 48.2980905 ], [ 6.057455, 48.2952705 ], [ 6.059371, 48.296425499999984 ], [ 6.0714285, 48.3035865 ], [ 6.065516, 48.3173835 ] ] ] } }
+]
+}

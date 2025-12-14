@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "willerwald",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Willerwald", "metric_roundness": 50.32, "metric_rectangularity": 60.74, "metric_mobile_fit": 68.01, "metric_aspect_ratio": 0.882, "metric_area_km2": 14.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0308624, 49.021629499999989 ], [ 7.0312877, 49.0179317 ], [ 7.0268968, 49.0152128 ], [ 7.0330444, 49.0119734 ], [ 7.0344959, 49.007315899999988 ], [ 7.052344, 49.008701 ], [ 7.0533906, 49.011113699999981 ], [ 7.0487001, 49.016462399999988 ], [ 7.054912, 49.030622 ], [ 7.0397753, 49.0381438 ], [ 7.0237195, 49.0384415 ], [ 7.018327, 49.0371076 ], [ 7.0130305, 49.0303825 ], [ 7.0308624, 49.021629499999989 ] ] ] } }
+]
+}

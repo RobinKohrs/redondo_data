@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "herbstmuhle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Herbstmühle", "metric_roundness": 46.04, "metric_rectangularity": 65.7, "metric_mobile_fit": 48.25, "metric_aspect_ratio": 1.08, "metric_area_km2": 5.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2198575, 49.996576499999975 ], [ 6.241777, 50.0082575 ], [ 6.2402515, 50.0102915 ], [ 6.2379815, 50.00972 ], [ 6.235731, 50.012501499999978 ], [ 6.2249798, 50.013726299999981 ], [ 6.2168545, 50.010604 ], [ 6.2187137, 50.0040548 ], [ 6.2129579, 49.9999985 ], [ 6.213581, 49.996719 ], [ 6.2198575, 49.996576499999975 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tourtour",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tourtour", "metric_roundness": 60.6, "metric_rectangularity": 75.42, "metric_mobile_fit": 59.43, "metric_aspect_ratio": 0.968, "metric_area_km2": 54.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.31247, 43.625429 ], [ 6.3096755, 43.6235425 ], [ 6.304777, 43.6225885 ], [ 6.2990605, 43.625354 ], [ 6.290017, 43.625532 ], [ 6.2826334, 43.612206099999987 ], [ 6.267071, 43.594385 ], [ 6.3135534, 43.5642285 ], [ 6.325856, 43.5620575 ], [ 6.3383147, 43.5650066 ], [ 6.3427228, 43.5708772 ], [ 6.3525415, 43.5839535 ], [ 6.3427228, 43.5947655 ], [ 6.314368, 43.625989 ], [ 6.31247, 43.625429 ] ] ] } }
+]
+}

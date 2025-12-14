@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villanueva_de_argecilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villanueva de Argecilla", "metric_roundness": 50.96, "metric_rectangularity": 77.67, "metric_mobile_fit": 82.45, "metric_aspect_ratio": 0.738, "metric_area_km2": 8.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.9217218, 40.9163105 ], [ -2.928258, 40.9056205 ], [ -2.9281525, 40.903682499999981 ], [ -2.928749, 40.901703 ], [ -2.9287155, 40.899254 ], [ -2.926774, 40.894413 ], [ -2.924807, 40.891979 ], [ -2.92247, 40.890377 ], [ -2.918093, 40.886635 ], [ -2.9152935, 40.88501 ], [ -2.9129995, 40.8893585 ], [ -2.912128, 40.891807499999985 ], [ -2.910002, 40.8927345 ], [ -2.908064, 40.894291 ], [ -2.90887, 40.8960305 ], [ -2.8981895, 40.909111 ], [ -2.9217218, 40.9163105 ] ] ] } }
+]
+}

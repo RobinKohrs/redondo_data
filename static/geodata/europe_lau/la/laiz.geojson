@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laiz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laiz", "metric_roundness": 45.91, "metric_rectangularity": 74.02, "metric_mobile_fit": -18.73, "metric_aspect_ratio": 1.75, "metric_area_km2": 21.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.869327, 46.259827 ], [ 4.8660619, 46.247891 ], [ 4.86849, 46.244587499999987 ], [ 4.8756961, 46.2448082 ], [ 4.8780401, 46.2399417 ], [ 4.8995085, 46.232367 ], [ 4.9101825, 46.234555499999985 ], [ 4.9199221, 46.235003399999982 ], [ 4.9243624, 46.2420991 ], [ 4.9343162, 46.2447819 ], [ 4.935542, 46.249504499999986 ], [ 4.896364, 46.257958499999987 ], [ 4.869327, 46.259827 ] ] ] } }
+]
+}

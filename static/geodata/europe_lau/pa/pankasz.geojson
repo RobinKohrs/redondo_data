@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pankasz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pankasz", "metric_roundness": 43.65, "metric_rectangularity": 57.51, "metric_mobile_fit": 92.12, "metric_aspect_ratio": 0.641, "metric_area_km2": 18.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5166767, 46.847583 ], [ 16.5073276, 46.8519873 ], [ 16.4955901, 46.8544664 ], [ 16.4808185, 46.8514005 ], [ 16.4831732, 46.8438757 ], [ 16.4797295, 46.8365557 ], [ 16.4836815, 46.8326924 ], [ 16.4873565, 46.8171495 ], [ 16.50438, 46.8095505 ], [ 16.505736, 46.825370099999986 ], [ 16.5023923, 46.8338355 ], [ 16.521834, 46.838887 ], [ 16.5166767, 46.847583 ] ] ] } }
+]
+}

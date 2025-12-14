@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bennhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bennhausen", "metric_roundness": 21.08, "metric_rectangularity": 66.33, "metric_mobile_fit": -170.23, "metric_aspect_ratio": 3.265, "metric_area_km2": 3.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9874998, 49.626658499999984 ], [ 7.970009, 49.623205499999976 ], [ 7.9738695, 49.619011399999984 ], [ 7.978205, 49.6190395 ], [ 7.9881995, 49.620091 ], [ 7.996795, 49.621865 ], [ 8.0085485, 49.623889499999983 ], [ 7.9874998, 49.626658499999984 ] ] ] } }
+]
+}

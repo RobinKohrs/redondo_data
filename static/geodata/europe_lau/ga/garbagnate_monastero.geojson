@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "garbagnate_monastero",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Garbagnate Monastero", "metric_roundness": 45.48, "metric_rectangularity": 68.45, "metric_mobile_fit": 9.2, "metric_aspect_ratio": 1.47, "metric_area_km2": 7.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3209143, 45.7590831 ], [ 9.3229093, 45.760547500000015 ], [ 9.320857, 45.764132499999988 ], [ 9.3143715, 45.770208 ], [ 9.3021596, 45.776503799999986 ], [ 9.288832, 45.775829 ], [ 9.2861861, 45.772044 ], [ 9.2923345, 45.761824 ], [ 9.299006, 45.761348 ], [ 9.3209143, 45.7590831 ] ] ] } }
+]
+}

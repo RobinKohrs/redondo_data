@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aspin_en_lavedan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aspin-en-Lavedan", "metric_roundness": 41.11, "metric_rectangularity": 66.82, "metric_mobile_fit": 80.29, "metric_aspect_ratio": 0.76, "metric_area_km2": 2.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0433442, 43.0802713 ], [ -0.058357, 43.082314 ], [ -0.0554025, 43.072339 ], [ -0.0519365, 43.070079 ], [ -0.0484025, 43.069385 ], [ -0.0435885, 43.065618 ], [ -0.040996, 43.068573 ], [ -0.0433442, 43.0802713 ] ] ] } }
+]
+}

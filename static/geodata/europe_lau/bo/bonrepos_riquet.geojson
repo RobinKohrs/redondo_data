@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonrepos_riquet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonrepos-Riquet", "metric_roundness": 59.32, "metric_rectangularity": 78.53, "metric_mobile_fit": 47.12, "metric_aspect_ratio": 1.091, "metric_area_km2": 11.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6440705, 43.6805225 ], [ 1.639084, 43.682162 ], [ 1.634713, 43.685055499999983 ], [ 1.62376, 43.6882735 ], [ 1.6226875, 43.689848 ], [ 1.6111125, 43.687344 ], [ 1.6093795, 43.6851295 ], [ 1.6036065, 43.6718525 ], [ 1.6143414, 43.6702016 ], [ 1.628141, 43.661458 ], [ 1.63662, 43.6680322 ], [ 1.6375276, 43.6774225 ], [ 1.646443, 43.6789195 ], [ 1.6440705, 43.6805225 ] ] ] } }
+]
+}

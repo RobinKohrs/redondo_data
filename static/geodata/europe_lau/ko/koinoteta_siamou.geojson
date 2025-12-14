@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_siamou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σιάμου", "metric_roundness": 44.76, "metric_rectangularity": 62.41, "metric_mobile_fit": 30.93, "metric_aspect_ratio": 1.253, "metric_area_km2": 5.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0462731, 37.2310222 ], [ 22.0450683, 37.2391431 ], [ 22.0490175, 37.248048 ], [ 22.0192835, 37.237974 ], [ 22.0158095, 37.23744 ], [ 22.0253925, 37.229316 ], [ 22.0382335, 37.226952 ], [ 22.0462731, 37.2310222 ] ] ] } }
+]
+}

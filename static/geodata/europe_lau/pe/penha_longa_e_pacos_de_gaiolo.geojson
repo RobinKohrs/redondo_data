@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "penha_longa_e_pacos_de_gaiolo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Penha Longa e Paços de Gaiolo", "metric_roundness": 49.4, "metric_rectangularity": 64.81, "metric_mobile_fit": 12.06, "metric_aspect_ratio": 1.442, "metric_area_km2": 32.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.16413, 41.109799599999988 ], [ -8.176134, 41.0892545 ], [ -8.1728535, 41.088163 ], [ -8.1708825, 41.087962 ], [ -8.168876, 41.08808 ], [ -8.1657235, 41.088629 ], [ -8.1404255, 41.084342499999984 ], [ -8.1187237, 41.0889297 ], [ -8.1034415, 41.099158499999987 ], [ -8.096943, 41.1007365 ], [ -8.097055, 41.104672 ], [ -8.1032425, 41.116133499999982 ], [ -8.1271006, 41.115341799999975 ], [ -8.1359733, 41.1186972 ], [ -8.142441, 41.125726 ], [ -8.16413, 41.109799599999988 ] ] ] } }
+]
+}

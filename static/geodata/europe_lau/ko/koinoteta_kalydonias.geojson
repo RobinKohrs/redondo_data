@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kalydonias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καλυδονίας", "metric_roundness": 58.85, "metric_rectangularity": 74.74, "metric_mobile_fit": 32.47, "metric_aspect_ratio": 1.238, "metric_area_km2": 11.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.7473125, 35.5392345 ], [ 23.7383319, 35.5371854 ], [ 23.7359705, 35.5135675 ], [ 23.755273, 35.5176206 ], [ 23.764788, 35.5161995 ], [ 23.772418, 35.522816899999988 ], [ 23.775009, 35.529177 ], [ 23.7679911, 35.531532899999988 ], [ 23.768041, 35.537846 ], [ 23.7473125, 35.5392345 ] ] ] } }
+]
+}

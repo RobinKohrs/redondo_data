@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "auw_an_der_kyll",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Auw an der Kyll", "metric_roundness": 41.56, "metric_rectangularity": 46.47, "metric_mobile_fit": 37.88, "metric_aspect_ratio": 1.184, "metric_area_km2": 2.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6285365, 49.897218 ], [ 6.6143705, 49.90519 ], [ 6.6120894, 49.900595799999984 ], [ 6.6048625, 49.896621 ], [ 6.606051, 49.8923075 ], [ 6.6157313, 49.8974363 ], [ 6.626393, 49.892915 ], [ 6.6285365, 49.897218 ] ] ] } }
+]
+}

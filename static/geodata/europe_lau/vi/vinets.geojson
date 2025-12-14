@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vinets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vinets", "metric_roundness": 58.18, "metric_rectangularity": 77.62, "metric_mobile_fit": 56.16, "metric_aspect_ratio": 1.001, "metric_area_km2": 20.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2053428, 48.5549158 ], [ 4.1965595, 48.5419415 ], [ 4.2016319, 48.5381578 ], [ 4.2138771, 48.5373 ], [ 4.2256536, 48.533684699999988 ], [ 4.2286895, 48.529895499999988 ], [ 4.2332775, 48.531342099999982 ], [ 4.239555, 48.527104 ], [ 4.2523695, 48.543533 ], [ 4.2510789, 48.5486559 ], [ 4.231224, 48.5542193 ], [ 4.2185895, 48.5640195 ], [ 4.2053428, 48.5549158 ] ] ] } }
+]
+}

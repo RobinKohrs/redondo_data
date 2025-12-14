@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "detkovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dětkovice", "metric_roundness": 23.94, "metric_rectangularity": 61.15, "metric_mobile_fit": 88.86, "metric_aspect_ratio": 0.451, "metric_area_km2": 10.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.1488257, 49.2583245 ], [ 17.153976, 49.2695117 ], [ 17.1599015, 49.275057499999988 ], [ 17.1609497, 49.2777881 ], [ 17.1551567, 49.2823819 ], [ 17.1513505, 49.291041 ], [ 17.1473516, 49.2898268 ], [ 17.1462016, 49.2831809 ], [ 17.1356546, 49.27304969999998 ], [ 17.1315965, 49.2485825 ], [ 17.1488257, 49.2583245 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "langley",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Langley", "metric_roundness": 37.72, "metric_rectangularity": 63.46, "metric_mobile_fit": 2.67, "metric_aspect_ratio": 1.536, "metric_area_km2": 5.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3276185, 48.3515075 ], [ 6.3427228, 48.3596997 ], [ 6.349995, 48.361155 ], [ 6.3483106, 48.367172299999986 ], [ 6.3427228, 48.3661925 ], [ 6.336044, 48.3641053 ], [ 6.331984, 48.368194 ], [ 6.3284965, 48.366916499999988 ], [ 6.3268275, 48.365398 ], [ 6.3114255, 48.356853 ], [ 6.3276185, 48.3515075 ] ] ] } }
+]
+}

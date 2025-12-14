@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "flacey_en_bresse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Flacey-en-Bresse", "metric_roundness": 44.77, "metric_rectangularity": 59.53, "metric_mobile_fit": 39.23, "metric_aspect_ratio": 1.17, "metric_area_km2": 29.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.375533, 46.580151 ], [ 5.405692, 46.581666 ], [ 5.4060834, 46.5897839 ], [ 5.4136223, 46.599301499999982 ], [ 5.4028886, 46.6094345 ], [ 5.3974527, 46.6100975 ], [ 5.398591, 46.612712499999986 ], [ 5.3703076, 46.6121585 ], [ 5.3625565, 46.609668 ], [ 5.3578033, 46.6033663 ], [ 5.3563888, 46.583936199999989 ], [ 5.3513203, 46.5792376 ], [ 5.3504134, 46.5741533 ], [ 5.3435215, 46.5715465 ], [ 5.3621185, 46.5772665 ], [ 5.375533, 46.580151 ] ] ] } }
+]
+}

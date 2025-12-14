@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santiago_de_montalegre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santiago de Montalegre", "metric_roundness": 45.0, "metric_rectangularity": 72.37, "metric_mobile_fit": 96.1, "metric_aspect_ratio": 0.602, "metric_area_km2": 29.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.1758845, 39.6081326 ], [ -8.1724083, 39.593618 ], [ -8.1843586, 39.583059399999989 ], [ -8.1889555, 39.572844499999981 ], [ -8.1826285, 39.5723686 ], [ -8.1760372, 39.5671665 ], [ -8.1658049, 39.5666668 ], [ -8.1631076, 39.5637596 ], [ -8.147622, 39.567981499999988 ], [ -8.1495157, 39.5790493 ], [ -8.1399389, 39.602449 ], [ -8.1429605, 39.613506499999986 ], [ -8.1543311, 39.6233157 ], [ -8.1638715, 39.626552499999988 ], [ -8.1758845, 39.6081326 ] ] ] } }
+]
+}

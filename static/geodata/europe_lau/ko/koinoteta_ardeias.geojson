@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ardeias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αρδείας", "metric_roundness": 50.96, "metric_rectangularity": 62.79, "metric_mobile_fit": 64.63, "metric_aspect_ratio": 0.916, "metric_area_km2": 11.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.5339634, 41.205365199999989 ], [ 25.5445839, 41.2003649 ], [ 25.550527, 41.193039 ], [ 25.5640274, 41.2083483 ], [ 25.5621465, 41.2250705 ], [ 25.5250175, 41.2163495 ], [ 25.5339634, 41.205365199999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champ_laurent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champ-Laurent", "metric_roundness": 32.2, "metric_rectangularity": 61.16, "metric_mobile_fit": -9.46, "metric_aspect_ratio": 1.657, "metric_area_km2": 10.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1989183, 45.4998481 ], [ 6.207537, 45.499751 ], [ 6.2420205, 45.510124499999989 ], [ 6.216143, 45.514098 ], [ 6.2167535, 45.520643 ], [ 6.2115845, 45.5163635 ], [ 6.2101715, 45.514476 ], [ 6.207274, 45.5133605 ], [ 6.203667, 45.515827 ], [ 6.1997275, 45.5135315 ], [ 6.196692, 45.5140865 ], [ 6.1858608, 45.505827099999983 ], [ 6.1885075, 45.498697 ], [ 6.1938245, 45.496892 ], [ 6.1989183, 45.4998481 ] ] ] } }
+]
+}

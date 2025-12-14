@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "starosedlsky_hradek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Starosedlský Hrádek", "metric_roundness": 52.62, "metric_rectangularity": 71.15, "metric_mobile_fit": 21.51, "metric_aspect_ratio": 1.347, "metric_area_km2": 9.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9809885, 49.571417 ], [ 13.9857861, 49.565039099999986 ], [ 14.008196, 49.563391 ], [ 14.0112445, 49.566036 ], [ 14.016005, 49.566917299999986 ], [ 14.0181268, 49.574932699999984 ], [ 14.0229998, 49.578046499999985 ], [ 14.018261, 49.5836095 ], [ 13.996312, 49.5782265 ], [ 13.9809885, 49.571417 ] ] ] } }
+]
+}

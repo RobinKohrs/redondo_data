@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_vivier_sur_mer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Vivier-sur-Mer", "metric_roundness": 44.82, "metric_rectangularity": 58.56, "metric_mobile_fit": 84.37, "metric_aspect_ratio": 0.719, "metric_area_km2": 5.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.779155, 48.587246799999981 ], [ -1.7773265, 48.59398 ], [ -1.768489, 48.599205599999976 ], [ -1.768243, 48.60381349999998 ], [ -1.79081, 48.606152 ], [ -1.790893, 48.6027645 ], [ -1.7891455, 48.600404499999989 ], [ -1.789389, 48.5967865 ], [ -1.7886095, 48.593123 ], [ -1.7831475, 48.5853105 ], [ -1.779155, 48.587246799999981 ] ] ] } }
+]
+}

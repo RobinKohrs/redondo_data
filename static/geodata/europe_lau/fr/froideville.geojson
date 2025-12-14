@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "froideville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Froideville", "metric_roundness": 54.7, "metric_rectangularity": 73.19, "metric_mobile_fit": 52.25, "metric_aspect_ratio": 1.04, "metric_area_km2": 14.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6736802, 46.5954786 ], [ 6.6807879, 46.5949862 ], [ 6.6989668, 46.5821317 ], [ 6.706444, 46.581419 ], [ 6.7076785, 46.585637 ], [ 6.709098, 46.587778499999985 ], [ 6.7101935, 46.590727 ], [ 6.7099395, 46.594081 ], [ 6.711014, 46.598604 ], [ 6.705383, 46.606709 ], [ 6.6965296, 46.6105176 ], [ 6.688454, 46.6104035 ], [ 6.6767102, 46.6110265 ], [ 6.666204, 46.600827 ], [ 6.6736802, 46.5954786 ] ] ] } }
+]
+}

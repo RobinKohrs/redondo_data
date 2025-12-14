@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_granja_nova_e_vila_cha_da_beira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Granja Nova e Vila Chã da Beira", "metric_roundness": 34.14, "metric_rectangularity": 51.84, "metric_mobile_fit": 12.36, "metric_aspect_ratio": 1.439, "metric_area_km2": 23.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.6876351, 41.0452584 ], [ -7.7003941, 41.0354789 ], [ -7.7163567, 41.0433178 ], [ -7.7203545, 41.049533 ], [ -7.7209895, 41.04936 ], [ -7.7335934, 41.0383608 ], [ -7.7429185, 41.0349615 ], [ -7.7306382, 41.028187099999982 ], [ -7.726632, 41.0192675 ], [ -7.7246427, 41.0249531 ], [ -7.7179696, 41.0266193 ], [ -7.7042777, 41.0260269 ], [ -7.6932245, 41.0207905 ], [ -7.6911988, 41.0164289 ], [ -7.673195, 41.005948 ], [ -7.6653761, 41.017016 ], [ -7.659785, 41.031923499999984 ], [ -7.666733, 41.0274475 ], [ -7.6721605, 41.0270781 ], [ -7.677274, 41.038191499999982 ], [ -7.6876351, 41.0452584 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_patoulias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πατουλιάς", "metric_roundness": 58.45, "metric_rectangularity": 69.93, "metric_mobile_fit": 85.9, "metric_aspect_ratio": 0.704, "metric_area_km2": 9.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.8760745, 39.531971 ], [ 21.882, 39.5390622 ], [ 21.881102, 39.552554 ], [ 21.8755415, 39.5538755 ], [ 21.8542033, 39.5431999 ], [ 21.853354, 39.537145 ], [ 21.8610001, 39.5253535 ], [ 21.8769575, 39.522473 ], [ 21.8760745, 39.531971 ] ] ] } }
+]
+}

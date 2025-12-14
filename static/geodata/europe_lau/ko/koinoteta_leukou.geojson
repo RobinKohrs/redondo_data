@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_leukou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λευκού", "metric_roundness": 43.19, "metric_rectangularity": 66.63, "metric_mobile_fit": 76.84, "metric_aspect_ratio": 0.794, "metric_area_km2": 7.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6332145, 38.5989115 ], [ 21.6344215, 38.601227 ], [ 21.6354525, 38.604104499999984 ], [ 21.636638, 38.6092085 ], [ 21.636889, 38.6184305 ], [ 21.6369335, 38.6219205 ], [ 21.6166944, 38.615616 ], [ 21.6173197, 38.6071283 ], [ 21.6090555, 38.5978965 ], [ 21.6119089, 38.595065699999985 ], [ 21.6228959, 38.5963022 ], [ 21.629756, 38.5944875 ], [ 21.6332145, 38.5989115 ] ] ] } }
+]
+}

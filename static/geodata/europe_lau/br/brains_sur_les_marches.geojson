@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brains_sur_les_marches",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brains-sur-les-Marches", "metric_roundness": 49.96, "metric_rectangularity": 69.89, "metric_mobile_fit": 73.39, "metric_aspect_ratio": 0.829, "metric_area_km2": 17.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.1655235, 47.870264499999983 ], [ -1.1589919, 47.882217799999985 ], [ -1.154844, 47.884808 ], [ -1.1588047, 47.8894166 ], [ -1.1580162, 47.9021808 ], [ -1.1761795, 47.897716499999987 ], [ -1.1969129, 47.887570799999985 ], [ -1.197439, 47.8796209 ], [ -1.1907893, 47.873564199999983 ], [ -1.1891695, 47.867707 ], [ -1.1655235, 47.870264499999983 ] ] ] } }
+]
+}

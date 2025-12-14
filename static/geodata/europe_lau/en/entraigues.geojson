@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "entraigues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Entraigues", "metric_roundness": 67.96, "metric_rectangularity": 74.22, "metric_mobile_fit": 77.81, "metric_aspect_ratio": 0.784, "metric_area_km2": 21.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2705355, 45.8653935 ], [ 3.283396, 45.876861899999987 ], [ 3.2853915, 45.882994 ], [ 3.2791409, 45.895957599999981 ], [ 3.2729311, 45.896504 ], [ 3.2705395, 45.903543 ], [ 3.2648515, 45.902555 ], [ 3.2556405, 45.9027655 ], [ 3.2500892, 45.9015554 ], [ 3.2424005, 45.881324 ], [ 3.2472832, 45.8804666 ], [ 3.2466281, 45.8703892 ], [ 3.250138, 45.8672605 ], [ 3.2705355, 45.8653935 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vaucluse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vaucluse", "metric_roundness": 26.49, "metric_rectangularity": 45.76, "metric_mobile_fit": 93.01, "metric_aspect_ratio": 0.493, "metric_area_km2": 10.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6821799, 47.248467499999975 ], [ 6.6894269, 47.2482422 ], [ 6.6894616, 47.236928 ], [ 6.6828349, 47.230737 ], [ 6.6926475, 47.227155 ], [ 6.6996425, 47.226980499999982 ], [ 6.6992778, 47.2439983 ], [ 6.7062125, 47.2531745 ], [ 6.6991803, 47.2535089 ], [ 6.6866005, 47.269907 ], [ 6.6843868, 47.2656727 ], [ 6.6764366, 47.2618722 ], [ 6.6750645, 47.257414 ], [ 6.6821799, 47.248467499999975 ] ] ] } }
+]
+}

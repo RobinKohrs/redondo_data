@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pamandzi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pamandzi", "metric_roundness": 35.31, "metric_rectangularity": 47.33, "metric_mobile_fit": 82.18, "metric_aspect_ratio": 0.741, "metric_area_km2": 4.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 45.278149899999988, -12.8042132 ], [ 45.2799781, -12.811872 ], [ 45.286706099999989, -12.817118400000012 ], [ 45.2848969, -12.803936 ], [ 45.2872844, -12.8001153 ], [ 45.2955324, -12.7963788 ], [ 45.296453499999984, -12.784067 ], [ 45.271347, -12.7933055 ], [ 45.278149899999988, -12.8042132 ] ] ] } }
+]
+}

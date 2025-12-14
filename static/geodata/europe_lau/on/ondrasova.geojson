@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ondrasova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ondrašová", "metric_roundness": 38.96, "metric_rectangularity": 68.17, "metric_mobile_fit": 2.65, "metric_aspect_ratio": 1.536, "metric_area_km2": 15.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.758316, 48.9467326 ], [ 18.7853362, 48.944330499999985 ], [ 18.7908951, 48.946387199999982 ], [ 18.7954625, 48.944713799999974 ], [ 18.7974429, 48.9404956 ], [ 18.8122385, 48.939354 ], [ 18.8135845, 48.950361499999985 ], [ 18.7653409, 48.9659741 ], [ 18.7628313, 48.9599938 ], [ 18.751319, 48.9530105 ], [ 18.758316, 48.9467326 ] ] ] } }
+]
+}

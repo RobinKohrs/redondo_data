@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valdeconcha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valdeconcha", "metric_roundness": 59.07, "metric_rectangularity": 75.43, "metric_mobile_fit": 45.65, "metric_aspect_ratio": 1.106, "metric_area_km2": 40.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.8510342, 40.4317612 ], [ -2.8392976, 40.4432638 ], [ -2.844309, 40.456340399999981 ], [ -2.8414465, 40.463528 ], [ -2.8571162, 40.469888 ], [ -2.8636936, 40.471195 ], [ -2.8965881, 40.4777313 ], [ -2.905609, 40.4757875 ], [ -2.915477, 40.4620855 ], [ -2.8960831, 40.448562 ], [ -2.89154, 40.436868499999989 ], [ -2.8724113, 40.428445499999988 ], [ -2.8636936, 40.4269788 ], [ -2.8538315, 40.4253195 ], [ -2.8510342, 40.4317612 ] ] ] } }
+]
+}

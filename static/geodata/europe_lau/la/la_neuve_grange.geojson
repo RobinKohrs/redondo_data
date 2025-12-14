@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_neuve_grange",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Neuve-Grange", "metric_roundness": 41.49, "metric_rectangularity": 67.5, "metric_mobile_fit": 55.05, "metric_aspect_ratio": 1.012, "metric_area_km2": 12.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5802453, 49.3504274 ], [ 1.5729335, 49.353075499999989 ], [ 1.5737555, 49.3583552 ], [ 1.5697895, 49.365693599999979 ], [ 1.5553017, 49.373202 ], [ 1.541762, 49.373228 ], [ 1.5395041, 49.369650299999982 ], [ 1.5411748, 49.3577406 ], [ 1.556429, 49.35143 ], [ 1.5668905, 49.347140499999988 ], [ 1.5799695, 49.347008 ], [ 1.5802453, 49.3504274 ] ] ] } }
+]
+}

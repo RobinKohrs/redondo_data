@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_aubin_de_nabirat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Aubin-de-Nabirat", "metric_roundness": 55.86, "metric_rectangularity": 74.11, "metric_mobile_fit": 79.57, "metric_aspect_ratio": 0.767, "metric_area_km2": 12.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2730416, 44.734577 ], [ 1.2647235, 44.726264499999985 ], [ 1.264501, 44.7241035 ], [ 1.268137, 44.7219355 ], [ 1.2700395, 44.7220885 ], [ 1.2870255, 44.7144625 ], [ 1.290024, 44.720643599999988 ], [ 1.2986648, 44.727238799999981 ], [ 1.2997011, 44.7327383 ], [ 1.296495, 44.7370835 ], [ 1.300186, 44.744279 ], [ 1.291648, 44.745278 ], [ 1.287717, 44.7462835 ], [ 1.2823645, 44.7456475 ], [ 1.2788625, 44.747233 ], [ 1.2763325, 44.7475245 ], [ 1.2730416, 44.734577 ] ] ] } }
+]
+}

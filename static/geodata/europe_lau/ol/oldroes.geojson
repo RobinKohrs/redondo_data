@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oldroes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oldrões", "metric_roundness": 31.31, "metric_rectangularity": 57.58, "metric_mobile_fit": 22.5, "metric_aspect_ratio": 1.337, "metric_area_km2": 6.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.297048, 41.1599667 ], [ -8.3123185, 41.1487715 ], [ -8.3127013, 41.1446857 ], [ -8.2991, 41.1415 ], [ -8.2926514, 41.141148199999989 ], [ -8.2928954, 41.1496636 ], [ -8.287954, 41.1549445 ], [ -8.2762585, 41.153987499999985 ], [ -8.271492, 41.162723 ], [ -8.283069, 41.164347499999984 ], [ -8.2859285, 41.160966 ], [ -8.291055, 41.160577 ], [ -8.297048, 41.1599667 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "birenbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Birenbach", "metric_roundness": 49.21, "metric_rectangularity": 68.87, "metric_mobile_fit": 82.02, "metric_aspect_ratio": 0.742, "metric_area_km2": 5.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6624914, 48.744399899999983 ], [ 9.669713, 48.739677 ], [ 9.6680002, 48.744856399999982 ], [ 9.6709025, 48.748850499999989 ], [ 9.6724567, 48.7572646 ], [ 9.6586885, 48.760711 ], [ 9.6518127, 48.7569014 ], [ 9.6528775, 48.7458438 ], [ 9.648775, 48.74344 ], [ 9.6624914, 48.744399899999983 ] ] ] } }
+]
+}

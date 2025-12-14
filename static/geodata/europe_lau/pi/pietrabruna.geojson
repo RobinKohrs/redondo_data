@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pietrabruna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pietrabruna", "metric_roundness": 40.46, "metric_rectangularity": 71.14, "metric_mobile_fit": -15.01, "metric_aspect_ratio": 1.713, "metric_area_km2": 20.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8760283, 43.8859153 ], [ 7.8753934, 43.8822477 ], [ 7.8850715, 43.877718500000015 ], [ 7.8911195, 43.874171499999989 ], [ 7.909705, 43.8719775 ], [ 7.9189162, 43.8760313 ], [ 7.9368955, 43.8758905 ], [ 7.944289, 43.8786005 ], [ 7.9369952, 43.8859153 ], [ 7.934746, 43.888171 ], [ 7.9282164, 43.886772199999989 ], [ 7.9221413, 43.8907036 ], [ 7.8805065, 43.9009705 ], [ 7.8780615, 43.89766 ], [ 7.8760283, 43.8859153 ] ] ] } }
+]
+}

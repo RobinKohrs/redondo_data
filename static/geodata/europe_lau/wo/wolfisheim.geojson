@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wolfisheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wolfisheim", "metric_roundness": 26.55, "metric_rectangularity": 65.31, "metric_mobile_fit": 77.79, "metric_aspect_ratio": 0.34, "metric_area_km2": 13.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6509922, 48.603446599999984 ], [ 7.659736, 48.5779323 ], [ 7.6579328, 48.570700099999989 ], [ 7.651692, 48.56694049999998 ], [ 7.6500881, 48.5632694 ], [ 7.66388, 48.5658825 ], [ 7.6735827, 48.574254499999988 ], [ 7.6733555, 48.597937 ], [ 7.6701773, 48.6078275 ], [ 7.666846, 48.608924499999986 ], [ 7.6509922, 48.603446599999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "morell_el",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Morell, El", "metric_roundness": 38.98, "metric_rectangularity": 56.28, "metric_mobile_fit": 49.2, "metric_aspect_ratio": 1.07, "metric_area_km2": 9.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2313477, 41.193929 ], [ 1.233831, 41.2039285 ], [ 1.233178, 41.2158235 ], [ 1.232725, 41.217318 ], [ 1.219492, 41.2155405 ], [ 1.2181461, 41.2036351 ], [ 1.2067985, 41.2038563 ], [ 1.1933505, 41.1933455 ], [ 1.1972264, 41.1932183 ], [ 1.2002685, 41.1931185 ], [ 1.201393, 41.190016 ], [ 1.2094255, 41.1888665 ], [ 1.2138645, 41.1905875 ], [ 1.2164845, 41.191309 ], [ 1.2313477, 41.193929 ] ] ] } }
+]
+}

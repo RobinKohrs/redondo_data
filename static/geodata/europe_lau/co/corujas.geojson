@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "corujas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Corujas", "metric_roundness": 54.31, "metric_rectangularity": 67.47, "metric_mobile_fit": 32.54, "metric_aspect_ratio": 1.237, "metric_area_km2": 17.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.999984, 41.617925 ], [ -6.992605, 41.6039409 ], [ -6.995246, 41.59572 ], [ -6.9749815, 41.587021499999977 ], [ -6.9724795, 41.588209 ], [ -6.957135, 41.599383499999988 ], [ -6.9523385, 41.6030895 ], [ -6.947659, 41.6059365 ], [ -6.946154, 41.606985 ], [ -6.9730844, 41.619515299999989 ], [ -6.9999155, 41.619558 ], [ -6.999984, 41.617925 ] ] ] } }
+]
+}

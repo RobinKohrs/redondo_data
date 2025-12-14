@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "forstwald",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Forstwald", "metric_roundness": 63.24, "metric_rectangularity": 72.96, "metric_mobile_fit": 60.55, "metric_aspect_ratio": 0.957, "metric_area_km2": 9.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1638115, 49.8263095 ], [ 9.167062, 49.822991499999986 ], [ 9.173379, 49.820905499999988 ], [ 9.178918, 49.814266499999981 ], [ 9.1837715, 49.811740499999985 ], [ 9.1966946, 49.8292308 ], [ 9.1850177, 49.8356227 ], [ 9.1749861, 49.836098899999989 ], [ 9.1650186, 49.8324708 ], [ 9.1605625, 49.827099 ], [ 9.1638115, 49.8263095 ] ] ] } }
+]
+}

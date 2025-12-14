@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_julien_en_saint_alban",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Julien-en-Saint-Alban", "metric_roundness": 22.13, "metric_rectangularity": 50.25, "metric_mobile_fit": 46.22, "metric_aspect_ratio": 1.1, "metric_area_km2": 21.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7083977, 44.748588799999986 ], [ 4.7251035, 44.72673 ], [ 4.7281035, 44.7290045 ], [ 4.7233498, 44.7454159 ], [ 4.7177283, 44.750507399999989 ], [ 4.7131102, 44.7617475 ], [ 4.6881185, 44.7744865 ], [ 4.6832695, 44.7703622 ], [ 4.6713826, 44.7757999 ], [ 4.652732, 44.7744345 ], [ 4.652075, 44.762516 ], [ 4.6640721, 44.766367799999983 ], [ 4.6787817, 44.760522 ], [ 4.693486, 44.743362 ], [ 4.7083977, 44.748588799999986 ] ] ] } }
+]
+}

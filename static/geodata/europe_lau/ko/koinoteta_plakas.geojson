@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_plakas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πλάκας", "metric_roundness": 39.84, "metric_rectangularity": 52.96, "metric_mobile_fit": 24.62, "metric_aspect_ratio": 1.316, "metric_area_km2": 5.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.2185372, 35.453663899999974 ], [ 24.2164903, 35.458179099999981 ], [ 24.2167625, 35.461558499999988 ], [ 24.2089428, 35.4625462 ], [ 24.2017224, 35.4507391 ], [ 24.189911, 35.451484499999985 ], [ 24.2177205, 35.4400445 ], [ 24.2206825, 35.4431955 ], [ 24.223804, 35.4458905 ], [ 24.226271, 35.448607 ], [ 24.2185372, 35.453663899999974 ] ] ] } }
+]
+}

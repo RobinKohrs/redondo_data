@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courteron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courteron", "metric_roundness": 32.72, "metric_rectangularity": 56.35, "metric_mobile_fit": 74.77, "metric_aspect_ratio": 0.815, "metric_area_km2": 22.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4923885, 48.040563499999983 ], [ 4.4660822, 48.0270017 ], [ 4.4376725, 48.019195899999985 ], [ 4.4356048, 48.0082245 ], [ 4.4447329, 47.9937509 ], [ 4.4516415, 47.991244 ], [ 4.4724174, 48.013569399999987 ], [ 4.4956805, 48.021071499999984 ], [ 4.4921283, 48.023578799999989 ], [ 4.4927225, 48.040557499999984 ], [ 4.4923885, 48.040563499999983 ] ] ] } }
+]
+}

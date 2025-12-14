@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "strocin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stročín", "metric_roundness": 34.0, "metric_rectangularity": 64.19, "metric_mobile_fit": 87.68, "metric_aspect_ratio": 0.439, "metric_area_km2": 19.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6067606, 49.2864127 ], [ 21.6018595, 49.294503 ], [ 21.595598, 49.2912295 ], [ 21.591281, 49.280625499999985 ], [ 21.5896863, 49.263586 ], [ 21.609976, 49.244371499999986 ], [ 21.620759, 49.249142499999977 ], [ 21.6180028, 49.2634091 ], [ 21.6234375, 49.275564 ], [ 21.6067606, 49.2864127 ] ] ] } }
+]
+}

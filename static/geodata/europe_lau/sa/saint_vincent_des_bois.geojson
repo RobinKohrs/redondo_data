@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_vincent_des_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Vincent-des-Bois", "metric_roundness": 41.26, "metric_rectangularity": 61.99, "metric_mobile_fit": 80.75, "metric_aspect_ratio": 0.755, "metric_area_km2": 12.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4039085, 49.0500155 ], [ 1.4079135, 49.051619 ], [ 1.3994958, 49.0637223 ], [ 1.414924, 49.07555 ], [ 1.406819, 49.076701 ], [ 1.3937815, 49.0720711 ], [ 1.38364, 49.075566 ], [ 1.3819393, 49.072923299999985 ], [ 1.3861435, 49.0639275 ], [ 1.3781953, 49.060136399999976 ], [ 1.3822701, 49.0547215 ], [ 1.3767705, 49.048488 ], [ 1.3930552, 49.0435896 ], [ 1.399865, 49.046829 ], [ 1.4039085, 49.0500155 ] ] ] } }
+]
+}

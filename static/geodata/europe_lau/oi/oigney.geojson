@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oigney",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oigney", "metric_roundness": 64.96, "metric_rectangularity": 80.63, "metric_mobile_fit": 46.61, "metric_aspect_ratio": 1.096, "metric_area_km2": 17.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.826378, 47.757618 ], [ 5.8241929, 47.7507835 ], [ 5.8454525, 47.739894499999984 ], [ 5.8554098, 47.746773099999984 ], [ 5.8731445, 47.752243 ], [ 5.8756075, 47.7560875 ], [ 5.864195, 47.771153 ], [ 5.85827, 47.771422 ], [ 5.846684, 47.7688905 ], [ 5.826378, 47.757618 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_germain_du_corbeis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Germain-du-Corbéis", "metric_roundness": 50.09, "metric_rectangularity": 80.42, "metric_mobile_fit": -10.88, "metric_aspect_ratio": 1.671, "metric_area_km2": 16.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.08358, 48.411137499999988 ], [ 0.0872723, 48.419834099999981 ], [ 0.0839013, 48.423803099999986 ], [ 0.062734, 48.425090499999989 ], [ 0.0332107, 48.4289433 ], [ 0.0303583, 48.426878 ], [ 0.0296505, 48.419334499999977 ], [ 0.0425759, 48.40888 ], [ 0.0590299, 48.4091996 ], [ 0.0673565, 48.4060615 ], [ 0.08358, 48.411137499999988 ] ] ] } }
+]
+}

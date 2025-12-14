@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_aldoar_foz_do_douro_e_nevogilde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Aldoar, Foz do Douro e Nevogilde", "metric_roundness": 41.27, "metric_rectangularity": 58.19, "metric_mobile_fit": 85.7, "metric_aspect_ratio": 0.706, "metric_area_km2": 10.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6854585, 41.15976269999998 ], [ -8.670748, 41.1434745 ], [ -8.660294, 41.1429245 ], [ -8.6652237, 41.1592698 ], [ -8.6629985, 41.163572 ], [ -8.6580246, 41.1699902 ], [ -8.6599243, 41.1744402 ], [ -8.6577835, 41.1774355 ], [ -8.66976, 41.1763045 ], [ -8.6774001, 41.1719004 ], [ -8.6901235, 41.173398499999983 ], [ -8.6854585, 41.15976269999998 ] ] ] } }
+]
+}

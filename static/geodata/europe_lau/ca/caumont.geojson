@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caumont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caumont", "metric_roundness": 48.67, "metric_rectangularity": 68.22, "metric_mobile_fit": 97.68, "metric_aspect_ratio": 0.586, "metric_area_km2": 14.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8970899, 49.3556242 ], [ 0.9232105, 49.349903 ], [ 0.9219345, 49.356214 ], [ 0.9243255, 49.358864499999974 ], [ 0.9219065, 49.361801 ], [ 0.9189785, 49.367661 ], [ 0.9182995, 49.369854 ], [ 0.9178295, 49.3763715 ], [ 0.917446, 49.380275 ], [ 0.9181155, 49.385458 ], [ 0.8959905, 49.379191399999989 ], [ 0.8927545, 49.372147 ], [ 0.892349, 49.360138 ], [ 0.8970899, 49.3556242 ] ] ] } }
+]
+}

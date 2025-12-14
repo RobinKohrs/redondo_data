@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "magny_en_bessin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Magny-en-Bessin", "metric_roundness": 64.25, "metric_rectangularity": 72.58, "metric_mobile_fit": 76.79, "metric_aspect_ratio": 0.795, "metric_area_km2": 10.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.664868, 49.324483499999985 ], [ -0.6740858, 49.3234077 ], [ -0.683214, 49.311581 ], [ -0.6748841, 49.3021618 ], [ -0.658542, 49.2985505 ], [ -0.6543883, 49.300739 ], [ -0.652613, 49.3039215 ], [ -0.6554173, 49.3070104 ], [ -0.651607, 49.3145195 ], [ -0.662443, 49.3241835 ], [ -0.664868, 49.324483499999985 ] ] ] } }
+]
+}

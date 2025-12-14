@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nenkovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nenkovice", "metric_roundness": 38.28, "metric_rectangularity": 56.94, "metric_mobile_fit": 88.25, "metric_aspect_ratio": 0.68, "metric_area_km2": 15.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.0056865, 49.0088114 ], [ 16.99623, 49.002099699999988 ], [ 16.978133, 48.995867 ], [ 16.9763305, 48.982276 ], [ 16.9896958, 48.979626099999976 ], [ 16.9857862, 48.975722399999988 ], [ 16.9898305, 48.9684355 ], [ 16.994986, 48.971717799999986 ], [ 16.9962745, 48.9800471 ], [ 17.0018169, 48.9869481 ], [ 17.0138968, 48.990368299999986 ], [ 17.016442, 48.993724 ], [ 17.01817, 49.006534 ], [ 17.0056865, 49.0088114 ] ] ] } }
+]
+}

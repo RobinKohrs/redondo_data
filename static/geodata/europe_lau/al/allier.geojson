@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "allier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Allier", "metric_roundness": 32.63, "metric_rectangularity": 60.0, "metric_mobile_fit": -52.83, "metric_aspect_ratio": 2.091, "metric_area_km2": 7.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.144276, 43.1884835 ], [ 0.133234, 43.1834144 ], [ 0.1132635, 43.1867495 ], [ 0.102653, 43.177066499999988 ], [ 0.1306235, 43.172487499999981 ], [ 0.1429935, 43.176385499999988 ], [ 0.1485175, 43.186763 ], [ 0.144276, 43.1884835 ] ] ] } }
+]
+}

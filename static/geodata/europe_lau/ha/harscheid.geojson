@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "harscheid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Harscheid", "metric_roundness": 52.17, "metric_rectangularity": 74.92, "metric_mobile_fit": -2.69, "metric_aspect_ratio": 1.589, "metric_area_km2": 7.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9090105, 50.464958 ], [ 6.9014815, 50.469092 ], [ 6.879823, 50.4655139 ], [ 6.8730015, 50.462297499999984 ], [ 6.8730568, 50.456435599999985 ], [ 6.8767767, 50.45467 ], [ 6.8856338, 50.456746699999982 ], [ 6.90777, 50.454992 ], [ 6.9090105, 50.464958 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "buochs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Buochs", "metric_roundness": 54.76, "metric_rectangularity": 65.28, "metric_mobile_fit": 41.31, "metric_aspect_ratio": 1.149, "metric_area_km2": 21.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4415998, 46.959563699999983 ], [ 8.4477485, 46.972642 ], [ 8.428571, 46.9757391 ], [ 8.419098, 46.981302 ], [ 8.3878285, 46.972443 ], [ 8.3873685, 46.964998499999979 ], [ 8.3984593, 46.9671727 ], [ 8.4183892, 46.9469755 ], [ 8.428677, 46.945452 ], [ 8.4415998, 46.959563699999983 ] ] ] } }
+]
+}

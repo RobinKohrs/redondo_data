@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "galiax",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Galiax", "metric_roundness": 39.5, "metric_rectangularity": 54.55, "metric_mobile_fit": 88.8, "metric_aspect_ratio": 0.674, "metric_area_km2": 11.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.025873, 43.591148499999989 ], [ 0.0282005, 43.592007 ], [ 0.0240684, 43.618425599999988 ], [ 0.028572, 43.62078 ], [ 0.0157756, 43.6298222 ], [ 0.0080295, 43.6236515 ], [ -0.0031955, 43.621839499999986 ], [ -0.0074549, 43.6165921 ], [ -0.007008, 43.613118 ], [ 0.0017471, 43.6122509 ], [ 0.0198272, 43.596689 ], [ 0.022028, 43.591380499999985 ], [ 0.025873, 43.591148499999989 ] ] ] } }
+]
+}

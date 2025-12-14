@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "freixieiro_de_soutelo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Freixieiro de Soutelo", "metric_roundness": 43.13, "metric_rectangularity": 67.44, "metric_mobile_fit": -12.41, "metric_aspect_ratio": 1.687, "metric_area_km2": 20.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.7939322, 41.7804845 ], [ -8.7905195, 41.7850208 ], [ -8.777895, 41.7903655 ], [ -8.7773555, 41.801304 ], [ -8.7915519, 41.8008702 ], [ -8.791578, 41.8056005 ], [ -8.8077614, 41.8021299 ], [ -8.8243175, 41.803776899999988 ], [ -8.8340905, 41.8016165 ], [ -8.842982, 41.781799499999984 ], [ -8.8315712, 41.7844676 ], [ -8.8133195, 41.7765895 ], [ -8.7939322, 41.7804845 ] ] ] } }
+]
+}

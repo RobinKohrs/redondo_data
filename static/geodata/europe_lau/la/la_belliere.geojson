@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_belliere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Bellière", "metric_roundness": 50.62, "metric_rectangularity": 68.82, "metric_mobile_fit": 67.14, "metric_aspect_ratio": 0.891, "metric_area_km2": 10.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5945279, 49.6187461 ], [ 1.5828382, 49.606140499999988 ], [ 1.5857663, 49.601699499999988 ], [ 1.59203, 49.600723 ], [ 1.6128779, 49.5917615 ], [ 1.617901, 49.5924178 ], [ 1.621198, 49.5970915 ], [ 1.616707, 49.601019799999989 ], [ 1.6140855, 49.610441 ], [ 1.6061645, 49.6090358 ], [ 1.6061762, 49.6164249 ], [ 1.599772, 49.619659 ], [ 1.5945279, 49.6187461 ] ] ] } }
+]
+}

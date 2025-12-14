@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fancsal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fancsal", "metric_roundness": 43.76, "metric_rectangularity": 63.34, "metric_mobile_fit": 99.19, "metric_aspect_ratio": 0.554, "metric_area_km2": 22.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.0724835, 48.3376783 ], [ 21.083879, 48.3445165 ], [ 21.07666, 48.36054679999998 ], [ 21.0797039, 48.37689169999998 ], [ 21.0745285, 48.38553 ], [ 21.0610275, 48.3806015 ], [ 21.055116, 48.3778327 ], [ 21.052898, 48.3605088 ], [ 21.04395, 48.353635 ], [ 21.0439805, 48.345036499999985 ], [ 21.0724835, 48.3376783 ] ] ] } }
+]
+}

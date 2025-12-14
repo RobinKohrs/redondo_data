@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monoszlo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monoszló", "metric_roundness": 59.13, "metric_rectangularity": 72.34, "metric_mobile_fit": 78.03, "metric_aspect_ratio": 0.782, "metric_area_km2": 16.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6442133, 46.9193284 ], [ 17.63855, 46.919417499999987 ], [ 17.6293565, 46.915326199999988 ], [ 17.6296988, 46.910559899999981 ], [ 17.6241611, 46.9036318 ], [ 17.6229345, 46.8956155 ], [ 17.6390972, 46.891021199999983 ], [ 17.649531, 46.884099 ], [ 17.6593815, 46.891515499999976 ], [ 17.663369, 46.895963499999986 ], [ 17.653763, 46.9131595 ], [ 17.6442133, 46.9193284 ] ] ] } }
+]
+}

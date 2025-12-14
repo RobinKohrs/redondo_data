@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberroedern",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberrœdern", "metric_roundness": 51.6, "metric_rectangularity": 72.54, "metric_mobile_fit": 67.88, "metric_aspect_ratio": 0.884, "metric_area_km2": 11.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9805635, 48.912800499999989 ], [ 7.990031, 48.931003499999974 ], [ 7.9853688, 48.9307723 ], [ 7.9727485, 48.936419 ], [ 7.9696088, 48.941565299999986 ], [ 7.963763, 48.9419505 ], [ 7.9600317, 48.933394399999983 ], [ 7.9508252, 48.929936299999987 ], [ 7.9533984, 48.9234213 ], [ 7.9610295, 48.920537 ], [ 7.967494, 48.919448 ], [ 7.970984, 48.915210499999986 ], [ 7.9805635, 48.912800499999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hecmanville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hecmanville", "metric_roundness": 27.26, "metric_rectangularity": 58.28, "metric_mobile_fit": 31.34, "metric_aspect_ratio": 1.249, "metric_area_km2": 6.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.6558535, 49.16431 ], [ 0.66005, 49.165896499999988 ], [ 0.6609275, 49.164202 ], [ 0.668299, 49.165077 ], [ 0.670191, 49.1659125 ], [ 0.6697633, 49.168830199999981 ], [ 0.6786604, 49.1737621 ], [ 0.680587, 49.1809925 ], [ 0.6718985, 49.184736499999985 ], [ 0.6651181, 49.177912 ], [ 0.645871, 49.1673505 ], [ 0.6382175, 49.162560499999984 ], [ 0.6558535, 49.16431 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "taksony",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Taksony", "metric_roundness": 42.85, "metric_rectangularity": 75.08, "metric_mobile_fit": 51.67, "metric_aspect_ratio": 1.046, "metric_area_km2": 45.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.1091687, 47.310198099999987 ], [ 19.0881936, 47.323405099999988 ], [ 19.061828, 47.346124 ], [ 19.0507608, 47.339643799999983 ], [ 19.0458653, 47.326516599999977 ], [ 19.038259, 47.317346499999985 ], [ 19.073323, 47.300397 ], [ 19.107737, 47.283068 ], [ 19.1355255, 47.299539499999987 ], [ 19.1333475, 47.301875 ], [ 19.128659, 47.305672 ], [ 19.124819, 47.30839 ], [ 19.1091687, 47.310198099999987 ] ] ] } }
+]
+}

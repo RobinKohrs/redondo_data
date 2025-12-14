@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nivolas_vermelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nivolas-Vermelle", "metric_roundness": 53.05, "metric_rectangularity": 70.2, "metric_mobile_fit": 88.81, "metric_aspect_ratio": 0.674, "metric_area_km2": 12.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2981924, 45.5656791 ], [ 5.293302, 45.552980499999975 ], [ 5.2946799, 45.548269399999981 ], [ 5.312657, 45.547155499999988 ], [ 5.323903, 45.553611 ], [ 5.3229907, 45.5610465 ], [ 5.3165733, 45.566331399999974 ], [ 5.3163815, 45.56987849999998 ], [ 5.305056, 45.5785525 ], [ 5.2961976, 45.579362 ], [ 5.2928805, 45.5714475 ], [ 5.2981924, 45.5656791 ] ] ] } }
+]
+}

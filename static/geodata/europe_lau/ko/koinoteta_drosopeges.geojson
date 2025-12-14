@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_drosopeges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Δροσοπηγής", "metric_roundness": 62.69, "metric_rectangularity": 77.87, "metric_mobile_fit": 52.84, "metric_aspect_ratio": 1.034, "metric_area_km2": 11.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.4782025, 36.678317 ], [ 22.4614384, 36.690058799999989 ], [ 22.4612225, 36.6930295 ], [ 22.4520555, 36.693951 ], [ 22.4370705, 36.6697335 ], [ 22.4624445, 36.662052 ], [ 22.4782025, 36.678317 ] ] ] } }
+]
+}

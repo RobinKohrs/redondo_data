@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_blachatanou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βλαχατάνου", "metric_roundness": 24.38, "metric_rectangularity": 63.16, "metric_mobile_fit": 96.16, "metric_aspect_ratio": 0.601, "metric_area_km2": 13.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6187875, 39.790801 ], [ 20.6354755, 39.7948195 ], [ 20.632226, 39.8005996 ], [ 20.6595465, 39.839431 ], [ 20.649185, 39.841646 ], [ 20.640782, 39.842944 ], [ 20.6303032, 39.8208197 ], [ 20.620666, 39.8138965 ], [ 20.6226269, 39.805346299999989 ], [ 20.6187515, 39.799669 ], [ 20.6187875, 39.790801 ] ] ] } }
+]
+}

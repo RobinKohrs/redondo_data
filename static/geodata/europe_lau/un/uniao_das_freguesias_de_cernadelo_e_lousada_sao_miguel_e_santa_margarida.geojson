@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_cernadelo_e_lousada_sao_miguel_e_santa_margarida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida)", "metric_roundness": 33.32, "metric_rectangularity": 65.1, "metric_mobile_fit": -1.43, "metric_aspect_ratio": 1.577, "metric_area_km2": 13.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.2820385, 41.3088175 ], [ -8.250684, 41.2936565 ], [ -8.2405843, 41.2954152 ], [ -8.2330755, 41.287427499999986 ], [ -8.2259795, 41.2911185 ], [ -8.2223227, 41.2955243 ], [ -8.22371, 41.303018499999986 ], [ -8.242563, 41.309654 ], [ -8.247354, 41.3154255 ], [ -8.2614086, 41.3108873 ], [ -8.278229, 41.315205 ], [ -8.280965, 41.3158785 ], [ -8.2820385, 41.3088175 ] ] ] } }
+]
+}

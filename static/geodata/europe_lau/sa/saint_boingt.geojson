@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_boingt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Boingt", "metric_roundness": 29.5, "metric_rectangularity": 57.03, "metric_mobile_fit": 85.38, "metric_aspect_ratio": 0.709, "metric_area_km2": 18.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4190567, 48.4172447 ], [ 6.400675, 48.395365 ], [ 6.4044441, 48.391407699999988 ], [ 6.4117988, 48.3928606 ], [ 6.4239432, 48.4077741 ], [ 6.4482145, 48.414405 ], [ 6.453294, 48.4334035 ], [ 6.4454213, 48.4340372 ], [ 6.4432175, 48.436879 ], [ 6.4358437, 48.4406879 ], [ 6.4325108, 48.439523899999983 ], [ 6.4261243, 48.4353951 ], [ 6.424759, 48.4292993 ], [ 6.417411, 48.422415499999985 ], [ 6.4190567, 48.4172447 ] ] ] } }
+]
+}

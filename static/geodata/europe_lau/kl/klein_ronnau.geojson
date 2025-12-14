@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "klein_ronnau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Klein Rönnau", "metric_roundness": 49.45, "metric_rectangularity": 71.25, "metric_mobile_fit": 48.91, "metric_aspect_ratio": 1.073, "metric_area_km2": 13.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.3529283, 53.966654699999978 ], [ 10.349728, 53.973301 ], [ 10.3169095, 53.966751 ], [ 10.3097315, 53.956145799999987 ], [ 10.3105738, 53.9526265 ], [ 10.3211245, 53.949625 ], [ 10.3349851, 53.9582742 ], [ 10.341893, 53.953432 ], [ 10.349826, 53.953801 ], [ 10.3529283, 53.966654699999978 ] ] ] } }
+]
+}

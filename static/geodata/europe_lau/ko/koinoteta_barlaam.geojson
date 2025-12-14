@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_barlaam",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βαρλαάμ", "metric_roundness": 43.42, "metric_rectangularity": 54.28, "metric_mobile_fit": 53.83, "metric_aspect_ratio": 1.024, "metric_area_km2": 13.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8938753, 39.4102425 ], [ 20.902785, 39.395243 ], [ 20.9179106, 39.4165493 ], [ 20.9166625, 39.4295905 ], [ 20.8899553, 39.431059799999986 ], [ 20.8704295, 39.428359 ], [ 20.8938753, 39.4102425 ] ] ] } }
+]
+}

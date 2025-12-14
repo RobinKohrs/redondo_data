@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "buigny_les_gamaches",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Buigny-lès-Gamaches", "metric_roundness": 41.25, "metric_rectangularity": 58.23, "metric_mobile_fit": 90.88, "metric_aspect_ratio": 0.654, "metric_area_km2": 11.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5549968, 50.018674 ], [ 1.5509951, 50.011109399999981 ], [ 1.5623145, 50.010653299999973 ], [ 1.5685445, 50.0033355 ], [ 1.5730888, 50.0016277 ], [ 1.5795515, 50.004975500000015 ], [ 1.5729997, 50.0206403 ], [ 1.5810993, 50.023516399999984 ], [ 1.585581, 50.029611 ], [ 1.5830859, 50.0308328 ], [ 1.5834015, 50.035622 ], [ 1.567367, 50.032729599999989 ], [ 1.552974, 50.022116 ], [ 1.5549968, 50.018674 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sankt_katharinen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sankt Katharinen", "metric_roundness": 49.88, "metric_rectangularity": 67.91, "metric_mobile_fit": 22.12, "metric_aspect_ratio": 1.341, "metric_area_km2": 4.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7827885, 49.8671488 ], [ 7.783208, 49.8694908 ], [ 7.7705095, 49.874382 ], [ 7.7568425, 49.873675 ], [ 7.7566495, 49.870258 ], [ 7.7585315, 49.8699885 ], [ 7.756576, 49.86381 ], [ 7.75722, 49.861584 ], [ 7.764606, 49.862959 ], [ 7.772338, 49.865828 ], [ 7.774559, 49.8647465 ], [ 7.7827885, 49.8671488 ] ] ] } }
+]
+}

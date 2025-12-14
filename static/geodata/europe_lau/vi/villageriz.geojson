@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villageriz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villageriz", "metric_roundness": 43.98, "metric_rectangularity": 83.9, "metric_mobile_fit": 16.18, "metric_aspect_ratio": 1.401, "metric_area_km2": 12.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.956598, 42.1240695 ], [ -5.960906, 42.127175 ], [ -5.96289, 42.12796 ], [ -5.967632, 42.128479 ], [ -5.9743045, 42.130195499999985 ], [ -5.9745145, 42.1279295 ], [ -5.979371, 42.119034 ], [ -5.96889, 42.111622 ], [ -5.9465074, 42.1023686 ], [ -5.9320075, 42.104423 ], [ -5.930203, 42.10957350000001 ], [ -5.9268275, 42.114017499999989 ], [ -5.934079, 42.116257 ], [ -5.953472, 42.1236725 ], [ -5.956598, 42.1240695 ] ] ] } }
+]
+}

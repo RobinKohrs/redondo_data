@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_stolou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Στόλου", "metric_roundness": 57.27, "metric_rectangularity": 70.6, "metric_mobile_fit": 63.89, "metric_aspect_ratio": 0.924, "metric_area_km2": 21.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.609934, 37.427614499999983 ], [ 22.6041646, 37.419540699999985 ], [ 22.6033388, 37.4042737 ], [ 22.628115, 37.382022 ], [ 22.6405671, 37.3994259 ], [ 22.652539, 37.406674 ], [ 22.6563475, 37.414673499999985 ], [ 22.6358445, 37.423573499999989 ], [ 22.6212845, 37.4243 ], [ 22.609934, 37.427614499999983 ] ] ] } }
+]
+}

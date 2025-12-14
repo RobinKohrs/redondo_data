@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uttenhoffen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Uttenhoffen", "metric_roundness": 34.27, "metric_rectangularity": 72.61, "metric_mobile_fit": 12.8, "metric_aspect_ratio": 1.435, "metric_area_km2": 4.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6351449, 48.900857899999984 ], [ 7.6287795, 48.895941 ], [ 7.6291585, 48.8951045 ], [ 7.6508143, 48.886256499999973 ], [ 7.663287, 48.885042499999983 ], [ 7.6557859, 48.893707499999984 ], [ 7.645567, 48.899443 ], [ 7.6351449, 48.900857899999984 ] ] ] } }
+]
+}

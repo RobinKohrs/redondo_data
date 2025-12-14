@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_nostimou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νοστίμου", "metric_roundness": 52.65, "metric_rectangularity": 74.31, "metric_mobile_fit": 66.33, "metric_aspect_ratio": 0.899, "metric_area_km2": 11.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7365408, 38.8474909 ], [ 21.7390558, 38.854599 ], [ 21.7457415, 38.86044 ], [ 21.747406, 38.86413 ], [ 21.7342732, 38.8745547 ], [ 21.7135525, 38.878977 ], [ 21.712251, 38.872799 ], [ 21.7116565, 38.8693565 ], [ 21.711045, 38.8619395 ], [ 21.729741, 38.849345 ], [ 21.7365408, 38.8474909 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "felsopakony",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Felsőpakony", "metric_roundness": 64.97, "metric_rectangularity": 87.81, "metric_mobile_fit": 55.77, "metric_aspect_ratio": 1.005, "metric_area_km2": 32.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.261403, 47.368129499999981 ], [ 19.228769, 47.3423725 ], [ 19.2324909, 47.3363554 ], [ 19.2414938, 47.3345421 ], [ 19.2671001, 47.319673099999989 ], [ 19.2881558, 47.333368699999987 ], [ 19.2884009, 47.3382898 ], [ 19.300622, 47.342096 ], [ 19.2837235, 47.355644499999983 ], [ 19.278734, 47.358435 ], [ 19.261403, 47.368129499999981 ] ] ] } }
+]
+}

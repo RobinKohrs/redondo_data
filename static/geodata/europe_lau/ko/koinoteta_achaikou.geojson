@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_achaikou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αχαϊκού", "metric_roundness": 52.1, "metric_rectangularity": 73.26, "metric_mobile_fit": -9.22, "metric_aspect_ratio": 1.655, "metric_area_km2": 5.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.5958203, 38.1271491 ], [ 21.5915575, 38.122210499999987 ], [ 21.5948665, 38.115622899999984 ], [ 21.6074066, 38.111002 ], [ 21.6206425, 38.1125675 ], [ 21.6241557, 38.115485299999989 ], [ 21.6255195, 38.1207385 ], [ 21.6241238, 38.1242285 ], [ 21.6092428, 38.1226639 ], [ 21.6027285, 38.1267895 ], [ 21.5958203, 38.1271491 ] ] ] } }
+]
+}

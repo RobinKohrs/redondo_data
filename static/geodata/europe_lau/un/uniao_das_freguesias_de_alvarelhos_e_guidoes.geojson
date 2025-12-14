@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_alvarelhos_e_guidoes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Alvarelhos e Guidões", "metric_roundness": 43.82, "metric_rectangularity": 67.98, "metric_mobile_fit": 93.17, "metric_aspect_ratio": 0.631, "metric_area_km2": 21.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.621777, 41.295369 ], [ -8.608313, 41.290557 ], [ -8.6004488, 41.3028231 ], [ -8.590159, 41.310973 ], [ -8.6081304, 41.3339272 ], [ -8.616927, 41.3381655 ], [ -8.6216768, 41.337234599999988 ], [ -8.6219885, 41.342496 ], [ -8.631593, 41.32993 ], [ -8.6337835, 41.322078 ], [ -8.630931, 41.3120775 ], [ -8.621777, 41.295369 ] ] ] } }
+]
+}

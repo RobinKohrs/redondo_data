@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mentieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mentières", "metric_roundness": 39.2, "metric_rectangularity": 74.34, "metric_mobile_fit": 87.3, "metric_aspect_ratio": 0.435, "metric_area_km2": 26.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1325175, 45.0952105 ], [ 3.1271383, 45.0894857 ], [ 3.1292531, 45.0699056 ], [ 3.1237215, 45.061813 ], [ 3.1328005, 45.049410499999986 ], [ 3.1487095, 45.050254 ], [ 3.1522364, 45.0528567 ], [ 3.1495507, 45.0645744 ], [ 3.1595776, 45.071501699999985 ], [ 3.158512, 45.0979665 ], [ 3.1433716, 45.1071299 ], [ 3.1331705, 45.107552 ], [ 3.1325175, 45.0952105 ] ] ] } }
+]
+}

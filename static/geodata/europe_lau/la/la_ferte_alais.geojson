@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_ferte_alais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Ferté-Alais", "metric_roundness": 46.22, "metric_rectangularity": 63.46, "metric_mobile_fit": -9.22, "metric_aspect_ratio": 1.655, "metric_area_km2": 10.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.391372, 48.480691 ], [ 2.3868873, 48.484706199999984 ], [ 2.3662489, 48.4909835 ], [ 2.3526417, 48.4851818 ], [ 2.346602, 48.4866905 ], [ 2.344505, 48.485792 ], [ 2.345452, 48.484174 ], [ 2.345721, 48.48191749999998 ], [ 2.344166, 48.476299 ], [ 2.347884, 48.47513 ], [ 2.3470045, 48.473152 ], [ 2.348559, 48.472073 ], [ 2.3533525, 48.478126 ], [ 2.3775148, 48.4726828 ], [ 2.385753, 48.473322 ], [ 2.391372, 48.480691 ] ] ] } }
+]
+}

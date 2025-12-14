@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heinkenborstel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heinkenborstel", "metric_roundness": 45.86, "metric_rectangularity": 56.67, "metric_mobile_fit": 64.7, "metric_aspect_ratio": 0.916, "metric_area_km2": 22.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7553634, 54.123857399999984 ], [ 9.771626, 54.1088215 ], [ 9.7831683, 54.120620599999988 ], [ 9.7853167, 54.132223399999987 ], [ 9.7833135, 54.1386985 ], [ 9.7480902, 54.1393464 ], [ 9.742852, 54.145133 ], [ 9.729807, 54.141506 ], [ 9.728585, 54.1370001 ], [ 9.7330301, 54.1342475 ], [ 9.7324555, 54.128771 ], [ 9.7553634, 54.123857399999984 ] ] ] } }
+]
+}

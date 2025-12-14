@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castillo_albaranez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castillo-Albaráñez", "metric_roundness": 57.67, "metric_rectangularity": 72.01, "metric_mobile_fit": 79.86, "metric_aspect_ratio": 0.764, "metric_area_km2": 20.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3994695, 40.276741 ], [ -2.391961, 40.2757985 ], [ -2.3884845, 40.276455 ], [ -2.382824, 40.27676 ], [ -2.3799875, 40.278167499999981 ], [ -2.374787, 40.2782405 ], [ -2.3658775, 40.279934 ], [ -2.3644435, 40.2812155 ], [ -2.367347, 40.290169 ], [ -2.375164, 40.306267 ], [ -2.3775775, 40.3164065 ], [ -2.3884005, 40.317047 ], [ -2.3908025, 40.3181495 ], [ -2.4045962, 40.3039683 ], [ -2.4068625, 40.276031499999981 ], [ -2.3994695, 40.276741 ] ] ] } }
+]
+}

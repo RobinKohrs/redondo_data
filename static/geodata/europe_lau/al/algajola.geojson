@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "algajola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Algajola", "metric_roundness": 57.98, "metric_rectangularity": 69.93, "metric_mobile_fit": 22.54, "metric_aspect_ratio": 1.337, "metric_area_km2": 2.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8479805, 42.6027877 ], [ 8.8557645, 42.597645 ], [ 8.8688561, 42.603867 ], [ 8.8672975, 42.608656 ], [ 8.8474275, 42.609441499999981 ], [ 8.8479805, 42.6027877 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castelgaillard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castelgaillard", "metric_roundness": 41.25, "metric_rectangularity": 44.31, "metric_mobile_fit": 51.51, "metric_aspect_ratio": 1.047, "metric_area_km2": 12.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9085391, 43.3639325 ], [ 0.892492, 43.365824599999989 ], [ 0.875522, 43.358847 ], [ 0.9020023, 43.344374 ], [ 0.894347, 43.3327575 ], [ 0.904426, 43.333926 ], [ 0.9083635, 43.331543 ], [ 0.9160509, 43.3335432 ], [ 0.9155215, 43.339331 ], [ 0.9070891, 43.346285599999987 ], [ 0.9124667, 43.358898 ], [ 0.9281545, 43.358389 ], [ 0.9162975, 43.366664 ], [ 0.911507, 43.3680835 ], [ 0.9085391, 43.3639325 ] ] ] } }
+]
+}

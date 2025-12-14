@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kayhude",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kayhude", "metric_roundness": 57.61, "metric_rectangularity": 74.06, "metric_mobile_fit": 76.09, "metric_aspect_ratio": 0.802, "metric_area_km2": 15.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.1169995, 53.774717 ], [ 10.1168891, 53.770401699999987 ], [ 10.111859, 53.767837 ], [ 10.1064053, 53.7546392 ], [ 10.1092451, 53.745902 ], [ 10.1257435, 53.746601 ], [ 10.1330516, 53.754784199999982 ], [ 10.1402865, 53.7556505 ], [ 10.1454784, 53.764237499999986 ], [ 10.1325885, 53.77144 ], [ 10.1169995, 53.774717 ] ] ] } }
+]
+}

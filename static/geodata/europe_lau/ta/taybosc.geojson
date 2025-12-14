@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "taybosc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Taybosc", "metric_roundness": 65.01, "metric_rectangularity": 70.06, "metric_mobile_fit": 58.7, "metric_aspect_ratio": 0.975, "metric_area_km2": 11.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7400038, 43.799569399999989 ], [ 0.7332257, 43.7902782 ], [ 0.7256615, 43.791474 ], [ 0.723866, 43.7795165 ], [ 0.735676, 43.7725705 ], [ 0.7504865, 43.7762945 ], [ 0.7545803, 43.7841321 ], [ 0.7609365, 43.7888923 ], [ 0.753077, 43.8000055 ], [ 0.7400038, 43.799569399999989 ] ] ] } }
+]
+}

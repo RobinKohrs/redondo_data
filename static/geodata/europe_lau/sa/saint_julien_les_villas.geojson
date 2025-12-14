@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_julien_les_villas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Julien-les-Villas", "metric_roundness": 69.99, "metric_rectangularity": 74.8, "metric_mobile_fit": 42.02, "metric_aspect_ratio": 1.142, "metric_area_km2": 11.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1114573, 48.264762499999989 ], [ 4.1192315, 48.268566 ], [ 4.1225425, 48.277846 ], [ 4.1149262, 48.280241299999979 ], [ 4.1096715, 48.286742499999988 ], [ 4.0932513, 48.282985 ], [ 4.0841157, 48.2777263 ], [ 4.08708, 48.266242499999976 ], [ 4.087975, 48.264353 ], [ 4.1114573, 48.264762499999989 ] ] ] } }
+]
+}

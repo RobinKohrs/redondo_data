@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ticineto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ticineto", "metric_roundness": 49.52, "metric_rectangularity": 62.26, "metric_mobile_fit": 38.97, "metric_aspect_ratio": 1.173, "metric_area_km2": 15.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.5794751, 45.092483099999981 ], [ 8.5741816, 45.094613599999981 ], [ 8.571989, 45.0993016 ], [ 8.5782595, 45.10836 ], [ 8.5654543, 45.1171614 ], [ 8.5567452, 45.111565899999988 ], [ 8.549904, 45.1141704 ], [ 8.5285705, 45.110248499999983 ], [ 8.5350054, 45.108318 ], [ 8.5514268, 45.0881844 ], [ 8.5604685, 45.086525 ], [ 8.57459, 45.087811 ], [ 8.5794751, 45.092483099999981 ] ] ] } }
+]
+}

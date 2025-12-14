@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nancois_le_grand",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nançois-le-Grand", "metric_roundness": 54.75, "metric_rectangularity": 69.08, "metric_mobile_fit": 41.37, "metric_aspect_ratio": 1.149, "metric_area_km2": 20.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3681551, 48.725744 ], [ 5.3726489, 48.720923899999981 ], [ 5.3776152, 48.7053949 ], [ 5.3773868, 48.7019483 ], [ 5.37212, 48.697619499999981 ], [ 5.4107975, 48.701468 ], [ 5.4197317, 48.7141167 ], [ 5.4184365, 48.7173265 ], [ 5.4003194, 48.725744 ], [ 5.39382, 48.728763799999989 ], [ 5.365148, 48.728969499999984 ], [ 5.3681551, 48.725744 ] ] ] } }
+]
+}

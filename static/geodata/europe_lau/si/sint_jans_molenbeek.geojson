@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sint_jans_molenbeek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sint-Jans-Molenbeek", "metric_roundness": 32.22, "metric_rectangularity": 49.77, "metric_mobile_fit": 6.57, "metric_aspect_ratio": 1.497, "metric_area_km2": 15.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3365393, 50.859498499999987 ], [ 4.3283233, 50.8571848 ], [ 4.3246547, 50.8616923 ], [ 4.307331, 50.864231 ], [ 4.3026154, 50.857770599999981 ], [ 4.289841, 50.8558045 ], [ 4.2844186, 50.853523 ], [ 4.2870379, 50.84905 ], [ 4.2846355, 50.845249 ], [ 4.3106357, 50.849789 ], [ 4.3294245, 50.844681699999988 ], [ 4.3355255, 50.848232499999988 ], [ 4.3475161, 50.8610948 ], [ 4.3406365, 50.871292 ], [ 4.3323755, 50.864559 ], [ 4.3365393, 50.859498499999987 ] ] ] } }
+]
+}

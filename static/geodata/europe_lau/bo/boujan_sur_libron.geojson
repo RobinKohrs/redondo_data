@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boujan_sur_libron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boujan-sur-Libron", "metric_roundness": 51.35, "metric_rectangularity": 63.88, "metric_mobile_fit": 61.31, "metric_aspect_ratio": 0.949, "metric_area_km2": 12.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2586205, 43.3920625 ], [ 3.24162, 43.373474699999981 ], [ 3.2441391, 43.3644337 ], [ 3.2555047, 43.3664264 ], [ 3.2592802, 43.3721067 ], [ 3.2812421, 43.37370869999998 ], [ 3.2845468, 43.381286599999981 ], [ 3.2799175, 43.388419 ], [ 3.2759485, 43.390619 ], [ 3.274118, 43.3924775 ], [ 3.27165, 43.3923195 ], [ 3.262661, 43.397295 ], [ 3.2586205, 43.3920625 ] ] ] } }
+]
+}

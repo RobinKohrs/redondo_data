@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_mesnil_ozenne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Mesnil-Ozenne", "metric_roundness": 28.89, "metric_rectangularity": 53.35, "metric_mobile_fit": -8.69, "metric_aspect_ratio": 1.649, "metric_area_km2": 10.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.2341152, 48.658504599999986 ], [ -1.2233774, 48.6642691 ], [ -1.2089775, 48.659616 ], [ -1.2011618, 48.666462 ], [ -1.191923, 48.667645 ], [ -1.1907245, 48.676257499999984 ], [ -1.1979555, 48.679497 ], [ -1.2040011, 48.6748365 ], [ -1.2057074, 48.66983459999998 ], [ -1.2313524, 48.675156 ], [ -1.2432654, 48.664895399999985 ], [ -1.245721, 48.657476499999987 ], [ -1.2341152, 48.658504599999986 ] ] ] } }
+]
+}

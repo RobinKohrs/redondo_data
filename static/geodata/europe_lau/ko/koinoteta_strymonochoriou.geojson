@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_strymonochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Στρυμονοχωρίου", "metric_roundness": 53.1, "metric_rectangularity": 72.92, "metric_mobile_fit": 42.14, "metric_aspect_ratio": 1.141, "metric_area_km2": 19.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.3429015, 41.255990499999989 ], [ 23.328835, 41.277207 ], [ 23.3140981, 41.2674787 ], [ 23.3044075, 41.2554965 ], [ 23.2951955, 41.251364 ], [ 23.3135951, 41.2395045 ], [ 23.3313285, 41.236813 ], [ 23.356512, 41.249072 ], [ 23.3429015, 41.255990499999989 ] ] ] } }
+]
+}

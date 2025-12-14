@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chlumek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chlumek", "metric_roundness": 58.56, "metric_rectangularity": 67.77, "metric_mobile_fit": 24.23, "metric_aspect_ratio": 1.32, "metric_area_km2": 15.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.8761875, 49.3787534 ], [ 15.8633726, 49.3824638 ], [ 15.843125, 49.3829396 ], [ 15.8260765, 49.379496 ], [ 15.8358923, 49.362823499999983 ], [ 15.843125, 49.360255699999982 ], [ 15.849867, 49.357862 ], [ 15.8642307, 49.3662808 ], [ 15.8688234, 49.372003099999986 ], [ 15.8769215, 49.3731495 ], [ 15.8761875, 49.3787534 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "palleja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pallejà", "metric_roundness": 35.95, "metric_rectangularity": 52.04, "metric_mobile_fit": 9.76, "metric_aspect_ratio": 1.465, "metric_area_km2": 15.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.994082, 41.435589 ], [ 1.9904095, 41.439622 ], [ 1.9624912, 41.421996 ], [ 1.947049, 41.420142299999981 ], [ 1.945183, 41.417508499999983 ], [ 1.9736863, 41.4166399 ], [ 1.9885955, 41.408331 ], [ 1.9982107, 41.4065918 ], [ 2.0097105, 41.4109765 ], [ 2.005604, 41.4214415 ], [ 1.994082, 41.435589 ] ] ] } }
+]
+}

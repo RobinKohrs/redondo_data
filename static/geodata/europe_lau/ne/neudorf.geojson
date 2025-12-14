@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neudorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neudorf", "metric_roundness": 49.12, "metric_rectangularity": 65.09, "metric_mobile_fit": 86.68, "metric_aspect_ratio": 0.696, "metric_area_km2": 48.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9226916, 48.029568399999981 ], [ 16.904276, 48.042852 ], [ 16.8847777, 48.0340821 ], [ 16.8860885, 48.0268404 ], [ 16.9015714, 48.011065599999988 ], [ 16.899192, 48.0007308 ], [ 16.9017345, 47.997186 ], [ 16.9013707, 47.989029099999989 ], [ 16.9265305, 47.9774375 ], [ 16.9497211, 47.9917771 ], [ 16.9528057, 48.0137426 ], [ 16.950511, 48.0198745 ], [ 16.9226916, 48.029568399999981 ] ] ] } }
+]
+}

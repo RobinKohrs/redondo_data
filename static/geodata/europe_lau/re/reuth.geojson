@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reuth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reuth", "metric_roundness": 50.12, "metric_rectangularity": 62.2, "metric_mobile_fit": 58.66, "metric_aspect_ratio": 0.976, "metric_area_km2": 17.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5111875, 50.285761 ], [ 6.5194505, 50.298807499999988 ], [ 6.4858245, 50.312052499999986 ], [ 6.483319, 50.31256 ], [ 6.4805305, 50.312417 ], [ 6.4772475, 50.313951 ], [ 6.4743065, 50.314604499999987 ], [ 6.4722255, 50.3152435 ], [ 6.4706125, 50.313538 ], [ 6.4794079, 50.2909058 ], [ 6.4774005, 50.28468 ], [ 6.4790395, 50.283277499999983 ], [ 6.483741, 50.284541499999982 ], [ 6.5111875, 50.285761 ] ] ] } }
+]
+}

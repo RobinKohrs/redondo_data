@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rudelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rudelle", "metric_roundness": 41.42, "metric_rectangularity": 62.23, "metric_mobile_fit": 88.73, "metric_aspect_ratio": 0.675, "metric_area_km2": 13.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.88652, 44.7317156 ], [ 1.8875658, 44.7380754 ], [ 1.8826855, 44.749765799999977 ], [ 1.875295, 44.748953 ], [ 1.858965, 44.7310205 ], [ 1.870505, 44.7210385 ], [ 1.877695, 44.708831 ], [ 1.88154, 44.7089275 ], [ 1.8805037, 44.7136979 ], [ 1.8872201, 44.719230499999981 ], [ 1.8966616, 44.7219274 ], [ 1.897871, 44.7286555 ], [ 1.88652, 44.7317156 ] ] ] } }
+]
+}

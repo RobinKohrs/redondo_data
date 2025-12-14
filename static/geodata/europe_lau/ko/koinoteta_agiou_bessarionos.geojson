@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agiou_bessarionos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγίου Βησσαρίωνος", "metric_roundness": 38.64, "metric_rectangularity": 77.08, "metric_mobile_fit": 14.42, "metric_aspect_ratio": 1.418, "metric_area_km2": 20.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6637806, 39.5000104 ], [ 21.6452745, 39.5001575 ], [ 21.6367627, 39.4872685 ], [ 21.6249026, 39.4892175 ], [ 21.5983065, 39.477583 ], [ 21.6049682, 39.4677511 ], [ 21.614812, 39.4623977 ], [ 21.6353735, 39.4699825 ], [ 21.6502407, 39.4759728 ], [ 21.6624795, 39.4863295 ], [ 21.6676935, 39.4957335 ], [ 21.6637806, 39.5000104 ] ] ] } }
+]
+}

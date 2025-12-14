@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chanas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chanas", "metric_roundness": 58.37, "metric_rectangularity": 76.36, "metric_mobile_fit": 54.16, "metric_aspect_ratio": 1.021, "metric_area_km2": 23.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8263855, 45.3025355 ], [ 4.8433905, 45.306581499999979 ], [ 4.850626, 45.3072375 ], [ 4.858804, 45.308952 ], [ 4.8575025, 45.3170815 ], [ 4.8550076, 45.325849 ], [ 4.8430763, 45.327753599999987 ], [ 4.8439805, 45.337979499999989 ], [ 4.8351742, 45.3374346 ], [ 4.8171816, 45.3265641 ], [ 4.8047995, 45.324905499999986 ], [ 4.8092175, 45.300785 ], [ 4.8263855, 45.3025355 ] ] ] } }
+]
+}

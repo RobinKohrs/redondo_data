@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jablonove_okres_bytca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jablonové (okres Bytča)", "metric_roundness": 64.99, "metric_rectangularity": 77.46, "metric_mobile_fit": 50.31, "metric_aspect_ratio": 1.059, "metric_area_km2": 10.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.592079, 49.183087 ], [ 18.5900977, 49.1881809 ], [ 18.5667195, 49.1977335 ], [ 18.5519552, 49.1833224 ], [ 18.5547308, 49.179080099999986 ], [ 18.5661028, 49.176273899999977 ], [ 18.566973, 49.172979 ], [ 18.592079, 49.183087 ] ] ] } }
+]
+}

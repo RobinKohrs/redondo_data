@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rohrsen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rohrsen", "metric_roundness": 32.92, "metric_rectangularity": 42.4, "metric_mobile_fit": 27.03, "metric_aspect_ratio": 1.292, "metric_area_km2": 13.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2495106, 52.708288099999983 ], [ 9.2564638, 52.713852 ], [ 9.260671, 52.727489 ], [ 9.2533216, 52.72686 ], [ 9.2488885, 52.7215643 ], [ 9.2385467, 52.7197705 ], [ 9.2217814, 52.725427499999988 ], [ 9.2018275, 52.725694499999989 ], [ 9.2062966, 52.716828 ], [ 9.2185113, 52.7216936 ], [ 9.2263985, 52.7169535 ], [ 9.2290787, 52.7051259 ], [ 9.2466775, 52.699902499999986 ], [ 9.2495106, 52.708288099999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chevincourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chevincourt", "metric_roundness": 52.51, "metric_rectangularity": 69.01, "metric_mobile_fit": 88.46, "metric_aspect_ratio": 0.678, "metric_area_km2": 19.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8456393, 49.5321407 ], [ 2.8348242, 49.517492399999981 ], [ 2.8297865, 49.51471 ], [ 2.8308994, 49.5083848 ], [ 2.840734, 49.5017065 ], [ 2.8559875, 49.497345699999983 ], [ 2.8629755, 49.499587 ], [ 2.863061, 49.519854399999986 ], [ 2.8692019, 49.524180399999985 ], [ 2.870914, 49.530891 ], [ 2.870048, 49.533823499999976 ], [ 2.862404, 49.536731499999981 ], [ 2.8456393, 49.5321407 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "salassa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Salassa", "metric_roundness": 55.52, "metric_rectangularity": 66.37, "metric_mobile_fit": 42.6, "metric_aspect_ratio": 1.137, "metric_area_km2": 9.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.677635, 45.3647347 ], [ 7.676055, 45.3555375 ], [ 7.675827, 45.346695499999981 ], [ 7.6928394, 45.35231659999998 ], [ 7.7014835, 45.3501945 ], [ 7.7109954, 45.352417299999985 ], [ 7.7144245, 45.3571895 ], [ 7.695418, 45.370558499999987 ], [ 7.677635, 45.3647347 ] ] ] } }
+]
+}

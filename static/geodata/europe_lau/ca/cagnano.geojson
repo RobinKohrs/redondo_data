@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cagnano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cagnano", "metric_roundness": 45.77, "metric_rectangularity": 79.36, "metric_mobile_fit": -39.36, "metric_aspect_ratio": 1.956, "metric_area_km2": 27.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4812884, 42.866933 ], [ 9.473461, 42.875351399999985 ], [ 9.4776445, 42.8818675 ], [ 9.4498678, 42.8833718 ], [ 9.4354546, 42.8870557 ], [ 9.4183066, 42.8863907 ], [ 9.4107823, 42.879394799999986 ], [ 9.4038025, 42.862663499999982 ], [ 9.4168077, 42.8643697 ], [ 9.4517102, 42.8580253 ], [ 9.480072, 42.8601035 ], [ 9.4812884, 42.866933 ] ] ] } }
+]
+}

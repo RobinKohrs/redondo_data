@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sergey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sergey", "metric_roundness": 36.76, "metric_rectangularity": 73.13, "metric_mobile_fit": 98.66, "metric_aspect_ratio": 0.576, "metric_area_km2": 2.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.505601, 46.757953499999985 ], [ 6.5053175, 46.760722 ], [ 6.5019555, 46.7605775 ], [ 6.499707, 46.7589215 ], [ 6.491704, 46.743553 ], [ 6.498347, 46.7449347 ], [ 6.501632, 46.741575 ], [ 6.503288, 46.741921499999989 ], [ 6.507798, 46.7558125 ], [ 6.505601, 46.757953499999985 ] ] ] } }
+]
+}

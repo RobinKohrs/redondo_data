@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "magyarboly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Magyarbóly", "metric_roundness": 56.03, "metric_rectangularity": 65.09, "metric_mobile_fit": 84.36, "metric_aspect_ratio": 0.719, "metric_area_km2": 35.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.4822095, 45.8234233 ], [ 18.487651, 45.819658699999984 ], [ 18.525045, 45.825741 ], [ 18.5292907, 45.8423971 ], [ 18.527362, 45.846811 ], [ 18.5239383, 45.8546663 ], [ 18.5085092, 45.853378299999989 ], [ 18.493287, 45.874751 ], [ 18.4758504, 45.853524399999984 ], [ 18.4724745, 45.8434143 ], [ 18.472434, 45.827732 ], [ 18.4735532, 45.824265499999981 ], [ 18.477739, 45.822971 ], [ 18.4822095, 45.8234233 ] ] ] } }
+]
+}

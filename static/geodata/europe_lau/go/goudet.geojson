@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "goudet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Goudet", "metric_roundness": 27.98, "metric_rectangularity": 39.82, "metric_mobile_fit": 66.69, "metric_aspect_ratio": 0.896, "metric_area_km2": 8.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9212015, 44.883529699999983 ], [ 3.9431099, 44.8786316 ], [ 3.9477515, 44.8806025 ], [ 3.9385881, 44.88402 ], [ 3.918837, 44.901848099999988 ], [ 3.9215775, 44.9074694 ], [ 3.9197145, 44.9137905 ], [ 3.9127049, 44.9128222 ], [ 3.90816, 44.906496 ], [ 3.911858, 44.895196 ], [ 3.9015095, 44.89127 ], [ 3.9163183, 44.888982 ], [ 3.918729, 44.8772155 ], [ 3.9212015, 44.883529699999983 ] ] ] } }
+]
+}

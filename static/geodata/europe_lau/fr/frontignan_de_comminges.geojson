@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "frontignan_de_comminges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frontignan-de-Comminges", "metric_roundness": 24.69, "metric_rectangularity": 49.42, "metric_mobile_fit": 16.94, "metric_aspect_ratio": 1.393, "metric_area_km2": 4.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.649959, 42.9640705 ], [ 0.660947, 42.9589235 ], [ 0.6716995, 42.95557 ], [ 0.679881, 42.956909499999981 ], [ 0.690308, 42.9541775 ], [ 0.6631955, 42.9687255 ], [ 0.662251, 42.971765499999982 ], [ 0.659687, 42.973262 ], [ 0.658965, 42.9753715 ], [ 0.649959, 42.9640705 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_amand_les_eaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Amand-les-Eaux", "metric_roundness": 53.27, "metric_rectangularity": 66.32, "metric_mobile_fit": 2.98, "metric_aspect_ratio": 1.533, "metric_area_km2": 84.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.495933, 50.4591365 ], [ 3.4738891, 50.45837239999998 ], [ 3.4586892, 50.4649335 ], [ 3.4519874, 50.460140199999984 ], [ 3.4356545, 50.462184 ], [ 3.4224232, 50.4588748 ], [ 3.4210388, 50.455134 ], [ 3.4096105, 50.460652099999983 ], [ 3.3866976, 50.4579988 ], [ 3.380699, 50.4544065 ], [ 3.386019, 50.4399775 ], [ 3.4053965, 50.42834 ], [ 3.4125806, 50.4271196 ], [ 3.429373, 50.411845 ], [ 3.4665716, 50.412737 ], [ 3.508451, 50.449793 ], [ 3.495933, 50.4591365 ] ] ] } }
+]
+}

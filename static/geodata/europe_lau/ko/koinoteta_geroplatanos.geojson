@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_geroplatanos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γεροπλάτανος", "metric_roundness": 52.12, "metric_rectangularity": 61.48, "metric_mobile_fit": 29.56, "metric_aspect_ratio": 1.267, "metric_area_km2": 12.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3516296, 39.5342794 ], [ 20.3579136, 39.5298729 ], [ 20.3644888, 39.5315158 ], [ 20.3712745, 39.52744 ], [ 20.3782122, 39.5381368 ], [ 20.396664, 39.5392995 ], [ 20.3967675, 39.547728 ], [ 20.3694334, 39.5501308 ], [ 20.358087, 39.555975499999988 ], [ 20.3498863, 39.5493371 ], [ 20.350408, 39.540708 ], [ 20.3516296, 39.5342794 ] ] ] } }
+]
+}

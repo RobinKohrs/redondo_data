@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vaulnaveys_le_bas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vaulnaveys-le-Bas", "metric_roundness": 50.01, "metric_rectangularity": 63.93, "metric_mobile_fit": 8.94, "metric_aspect_ratio": 1.473, "metric_area_km2": 23.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7870943, 45.1008792 ], [ 5.77761, 45.097156 ], [ 5.7839675, 45.0913855 ], [ 5.7873475, 45.089534 ], [ 5.7942265, 45.0864925 ], [ 5.8023605, 45.0844465 ], [ 5.8046795, 45.0827085 ], [ 5.8076865, 45.083028499999983 ], [ 5.8157473, 45.0866344 ], [ 5.8230972, 45.085184 ], [ 5.8360907, 45.0920772 ], [ 5.847359, 45.091603499999984 ], [ 5.8314507, 45.1101022 ], [ 5.7968705, 45.116131499999987 ], [ 5.7870943, 45.1008792 ] ] ] } }
+]
+}

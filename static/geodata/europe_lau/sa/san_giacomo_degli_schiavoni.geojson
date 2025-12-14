@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_giacomo_degli_schiavoni",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Giacomo degli Schiavoni", "metric_roundness": 58.95, "metric_rectangularity": 72.64, "metric_mobile_fit": 35.84, "metric_aspect_ratio": 1.204, "metric_area_km2": 19.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.9424376, 41.9563809 ], [ 14.9656425, 41.955096 ], [ 14.9703398, 41.9642905 ], [ 14.9697311, 41.9838519 ], [ 14.9466696, 41.9877457 ], [ 14.9357212, 41.9817671 ], [ 14.9330126, 41.974383899999978 ], [ 14.9244192, 41.973400499999983 ], [ 14.9174605, 41.965847499999988 ], [ 14.9424376, 41.9563809 ] ] ] } }
+]
+}

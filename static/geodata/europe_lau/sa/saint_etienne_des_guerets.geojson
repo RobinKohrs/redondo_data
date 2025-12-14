@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_etienne_des_guerets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Étienne-des-Guérets", "metric_roundness": 32.6, "metric_rectangularity": 50.1, "metric_mobile_fit": 99.71, "metric_aspect_ratio": 0.56, "metric_area_km2": 25.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.077002, 47.572451 ], [ 1.0732673, 47.5842656 ], [ 1.0741745, 47.590726 ], [ 1.0826551, 47.606534 ], [ 1.079867, 47.6255555 ], [ 1.0655022, 47.6241159 ], [ 1.0645226, 47.6155876 ], [ 1.0603581, 47.611042699999977 ], [ 1.0333515, 47.607007 ], [ 1.052062, 47.5868405 ], [ 1.0545695, 47.582100499999989 ], [ 1.059326, 47.577835 ], [ 1.063594, 47.566142499999984 ], [ 1.077002, 47.572451 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kratzenburg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kratzenburg", "metric_roundness": 67.04, "metric_rectangularity": 85.7, "metric_mobile_fit": 52.53, "metric_aspect_ratio": 1.037, "metric_area_km2": 17.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5603671, 50.1797429 ], [ 7.5691278, 50.1826447 ], [ 7.5784284, 50.1907352 ], [ 7.5805285, 50.198002 ], [ 7.5500619, 50.211414899999987 ], [ 7.5292145, 50.1980055 ], [ 7.5356236, 50.1969287 ], [ 7.5361915, 50.193593299999989 ], [ 7.549664, 50.184379 ], [ 7.5603671, 50.1797429 ] ] ] } }
+]
+}

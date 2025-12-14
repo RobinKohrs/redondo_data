@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bachas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bachas", "metric_roundness": 58.21, "metric_rectangularity": 75.68, "metric_mobile_fit": 75.44, "metric_aspect_ratio": 0.808, "metric_area_km2": 5.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.948446, 43.2544815 ], [ 0.944444, 43.2572695 ], [ 0.9392225, 43.2590985 ], [ 0.9349715, 43.258953 ], [ 0.9304174, 43.2475543 ], [ 0.931311, 43.240656 ], [ 0.9392309, 43.2429514 ], [ 0.948787, 43.2398645 ], [ 0.9517555, 43.2497975 ], [ 0.948446, 43.2544815 ] ] ] } }
+]
+}

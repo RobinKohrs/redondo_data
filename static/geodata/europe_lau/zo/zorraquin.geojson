@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zorraquin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zorraquín", "metric_roundness": 37.12, "metric_rectangularity": 66.32, "metric_mobile_fit": 94.52, "metric_aspect_ratio": 0.508, "metric_area_km2": 11.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.0595685, 42.33844 ], [ -3.0529194, 42.322029799999989 ], [ -3.0505425, 42.297806 ], [ -3.0382389, 42.3060146 ], [ -3.0320572, 42.31542 ], [ -3.0316662, 42.3252533 ], [ -3.0360895, 42.3349915 ], [ -3.0595685, 42.33844 ] ] ] } }
+]
+}

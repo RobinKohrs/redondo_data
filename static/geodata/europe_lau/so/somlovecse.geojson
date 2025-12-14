@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "somlovecse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Somlóvecse", "metric_roundness": 42.13, "metric_rectangularity": 68.81, "metric_mobile_fit": -12.97, "metric_aspect_ratio": 1.692, "metric_area_km2": 10.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.3843393, 47.2072076 ], [ 17.3618004, 47.2100151 ], [ 17.34765, 47.20751 ], [ 17.337908, 47.203186499999987 ], [ 17.3450165, 47.1904945 ], [ 17.3615469, 47.192862 ], [ 17.3865265, 47.206706 ], [ 17.3843393, 47.2072076 ] ] ] } }
+]
+}

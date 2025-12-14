@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neuville_au_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neuville-au-Bois", "metric_roundness": 56.6, "metric_rectangularity": 61.07, "metric_mobile_fit": 54.08, "metric_aspect_ratio": 1.022, "metric_area_km2": 7.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7690575, 49.9711525 ], [ 1.7706885, 49.9639435 ], [ 1.779396, 49.9617595 ], [ 1.7779585, 49.960676 ], [ 1.7786645, 49.957786 ], [ 1.7864495, 49.958847 ], [ 1.7878358, 49.965881 ], [ 1.8015045, 49.9728455 ], [ 1.7951, 49.978213 ], [ 1.7820899, 49.9755103 ], [ 1.773958, 49.9770275 ], [ 1.7690575, 49.9711525 ] ] ] } }
+]
+}

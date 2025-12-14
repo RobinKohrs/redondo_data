@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourguignon_sous_montbavin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourguignon-sous-Montbavin", "metric_roundness": 29.74, "metric_rectangularity": 65.95, "metric_mobile_fit": 84.01, "metric_aspect_ratio": 0.722, "metric_area_km2": 4.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.5315678, 49.539116199999988 ], [ 3.526217, 49.536308 ], [ 3.5260768, 49.529796299999973 ], [ 3.535192, 49.524658 ], [ 3.5422333, 49.524109799999984 ], [ 3.54642, 49.519289799999981 ], [ 3.544929, 49.516243 ], [ 3.5515343, 49.517884299999984 ], [ 3.544504, 49.5298205 ], [ 3.5315678, 49.539116199999988 ] ] ] } }
+]
+}

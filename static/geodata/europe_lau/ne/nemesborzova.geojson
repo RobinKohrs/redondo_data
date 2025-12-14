@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nemesborzova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nemesborzova", "metric_roundness": 61.09, "metric_rectangularity": 73.54, "metric_mobile_fit": 48.58, "metric_aspect_ratio": 1.077, "metric_area_km2": 4.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.6173656, 47.989773499999984 ], [ 22.611576, 47.987911499999989 ], [ 22.6246935, 47.9814795 ], [ 22.6391479, 47.987991099999988 ], [ 22.634737, 47.9964313 ], [ 22.6259565, 47.998618499999978 ], [ 22.6173656, 47.989773499999984 ] ] ] } }
+]
+}

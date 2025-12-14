@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kisdobsza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kisdobsza", "metric_roundness": 43.29, "metric_rectangularity": 80.23, "metric_mobile_fit": 92.23, "metric_aspect_ratio": 0.64, "metric_area_km2": 20.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6725991, 46.0086131 ], [ 17.67013, 46.01289 ], [ 17.6610623, 46.0295204 ], [ 17.655927, 46.053445499999988 ], [ 17.632815, 46.048619599999981 ], [ 17.628239, 46.0433415 ], [ 17.6400116, 46.0170349 ], [ 17.6564725, 46.007089499999985 ], [ 17.660816, 46.0053395 ], [ 17.6725991, 46.0086131 ] ] ] } }
+]
+}

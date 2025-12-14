@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martiniana_po",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martiniana Po", "metric_roundness": 46.86, "metric_rectangularity": 64.01, "metric_mobile_fit": 38.15, "metric_aspect_ratio": 1.181, "metric_area_km2": 25.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3648186, 44.606224 ], [ 7.3807052, 44.6069451 ], [ 7.391418, 44.611246 ], [ 7.390067, 44.6293229 ], [ 7.3598515, 44.637174 ], [ 7.3541202, 44.633157499999989 ], [ 7.3480922, 44.621774 ], [ 7.32528, 44.6021125 ], [ 7.3476715, 44.597311 ], [ 7.3593195, 44.599166 ], [ 7.3648186, 44.606224 ] ] ] } }
+]
+}

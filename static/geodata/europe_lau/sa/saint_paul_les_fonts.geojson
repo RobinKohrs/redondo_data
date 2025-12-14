@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_paul_les_fonts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Paul-les-Fonts", "metric_roundness": 21.47, "metric_rectangularity": 43.52, "metric_mobile_fit": 91.62, "metric_aspect_ratio": 0.479, "metric_area_km2": 9.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6123037, 44.049940199999988 ], [ 4.6221319, 44.081533699999987 ], [ 4.636793, 44.0861575 ], [ 4.6319606, 44.0931049 ], [ 4.624469, 44.093703 ], [ 4.610935, 44.0920469 ], [ 4.6075981, 44.0832566 ], [ 4.6090041, 44.065473099999984 ], [ 4.60533, 44.047439 ], [ 4.6083595, 44.046476 ], [ 4.6123037, 44.049940199999988 ] ] ] } }
+]
+}

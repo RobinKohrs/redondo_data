@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "houeville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Houéville", "metric_roundness": 59.6, "metric_rectangularity": 74.44, "metric_mobile_fit": 34.19, "metric_aspect_ratio": 1.221, "metric_area_km2": 7.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7965855, 48.373242499999989 ], [ 5.7896215, 48.3702605 ], [ 5.7974682, 48.3604466 ], [ 5.8141424, 48.363217 ], [ 5.8251535, 48.368274499999984 ], [ 5.8084346, 48.379628 ], [ 5.802097, 48.379785 ], [ 5.7965855, 48.373242499999989 ] ] ] } }
+]
+}

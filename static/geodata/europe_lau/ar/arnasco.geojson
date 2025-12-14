@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arnasco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arnasco", "metric_roundness": 33.41, "metric_rectangularity": 55.82, "metric_mobile_fit": 18.07, "metric_aspect_ratio": 1.382, "metric_area_km2": 11.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.100433, 44.0709715 ], [ 8.1181225, 44.073807899999984 ], [ 8.1238068, 44.0693743 ], [ 8.134555, 44.067899499999982 ], [ 8.122364, 44.0805375 ], [ 8.1224117, 44.0866998 ], [ 8.1083688, 44.0875684 ], [ 8.1097875, 44.091079 ], [ 8.1075475, 44.0930945 ], [ 8.1030082, 44.0949297 ], [ 8.0961795, 44.091583 ], [ 8.0825608, 44.0895559 ], [ 8.0922349, 44.0751694 ], [ 8.098925, 44.07159 ], [ 8.100433, 44.0709715 ] ] ] } }
+]
+}

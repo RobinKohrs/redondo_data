@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grandville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grandville", "metric_roundness": 25.68, "metric_rectangularity": 69.17, "metric_mobile_fit": 23.86, "metric_aspect_ratio": 1.324, "metric_area_km2": 21.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.203986, 48.5791955 ], [ 4.2083665, 48.5751155 ], [ 4.2105645, 48.5722035 ], [ 4.2822165, 48.609272 ], [ 4.273053, 48.6136051 ], [ 4.2599146, 48.608290799999985 ], [ 4.2283521, 48.602084499999982 ], [ 4.2169464, 48.595616099999987 ], [ 4.2087491, 48.5942942 ], [ 4.2077757, 48.5894149 ], [ 4.1993465, 48.582100499999981 ], [ 4.203986, 48.5791955 ] ] ] } }
+]
+}

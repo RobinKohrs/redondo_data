@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alsoszolnok",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alsószölnök", "metric_roundness": 40.36, "metric_rectangularity": 69.53, "metric_mobile_fit": 98.25, "metric_aspect_ratio": 0.545, "metric_area_km2": 20.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.217448, 46.936111 ], [ 16.210032, 46.942499 ], [ 16.2083333, 46.94021 ], [ 16.2039886, 46.942174199999982 ], [ 16.1975445, 46.939957499999984 ], [ 16.179055, 46.907405 ], [ 16.1881395, 46.9078692 ], [ 16.190798, 46.894378599999989 ], [ 16.1992614, 46.8968798 ], [ 16.2062215, 46.89509 ], [ 16.211356, 46.8972 ], [ 16.217448, 46.936111 ] ] ] } }
+]
+}

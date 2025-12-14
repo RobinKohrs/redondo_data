@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vysoka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vysoká", "metric_roundness": 50.55, "metric_rectangularity": 63.91, "metric_mobile_fit": 17.71, "metric_aspect_ratio": 1.385, "metric_area_km2": 6.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8069468, 49.674289 ], [ 16.796063, 49.671118499999963 ], [ 16.791312, 49.66587 ], [ 16.7983258, 49.6643048 ], [ 16.7961072, 49.658381099999986 ], [ 16.8038055, 49.656814499999982 ], [ 16.8089201, 49.657558099999974 ], [ 16.8181109, 49.665696299999986 ], [ 16.828715, 49.6667575 ], [ 16.828526, 49.668019 ], [ 16.826581, 49.670427499999974 ], [ 16.8069468, 49.674289 ] ] ] } }
+]
+}

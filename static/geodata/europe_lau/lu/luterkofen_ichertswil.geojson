@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luterkofen_ichertswil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lüterkofen-Ichertswil", "metric_roundness": 49.73, "metric_rectangularity": 66.07, "metric_mobile_fit": 27.35, "metric_aspect_ratio": 1.289, "metric_area_km2": 9.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5105205, 47.1750805 ], [ 7.5087005, 47.175414499999988 ], [ 7.495571, 47.171581 ], [ 7.4970335, 47.170114 ], [ 7.4902235, 47.165782 ], [ 7.492727, 47.16328 ], [ 7.488478, 47.1606555 ], [ 7.484745, 47.159640499999988 ], [ 7.48208, 47.158157499999987 ], [ 7.479836, 47.155325 ], [ 7.494252, 47.1526525 ], [ 7.5218655, 47.1585855 ], [ 7.52299, 47.160815499999984 ], [ 7.5105205, 47.1750805 ] ] ] } }
+]
+}

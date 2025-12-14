@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bélus", "metric_roundness": 61.2, "metric_rectangularity": 74.69, "metric_mobile_fit": 20.89, "metric_aspect_ratio": 1.354, "metric_area_km2": 22.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0951481, 43.5881518 ], [ -1.088425, 43.5977622 ], [ -1.099689, 43.6053645 ], [ -1.1286452, 43.6085298 ], [ -1.1387036, 43.6043552 ], [ -1.146393, 43.594072 ], [ -1.149577, 43.5902805 ], [ -1.1471005, 43.588773 ], [ -1.1450295, 43.589788 ], [ -1.1387036, 43.5870922 ], [ -1.1306428, 43.5796996 ], [ -1.116075, 43.5758105 ], [ -1.0943115, 43.580795499999986 ], [ -1.0951481, 43.5881518 ] ] ] } }
+]
+}

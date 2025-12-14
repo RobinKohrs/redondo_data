@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_lagou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λαγού", "metric_roundness": 60.79, "metric_rectangularity": 75.55, "metric_mobile_fit": 27.6, "metric_aspect_ratio": 1.286, "metric_area_km2": 5.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.462603, 35.207442 ], [ 25.459255, 35.206481 ], [ 25.457161, 35.205581 ], [ 25.445966, 35.201128 ], [ 25.4454275, 35.192955399999988 ], [ 25.448142, 35.1908575 ], [ 25.4680784, 35.1919156 ], [ 25.4733842, 35.195249799999985 ], [ 25.4736921, 35.2031775 ], [ 25.4655155, 35.2088105 ], [ 25.462603, 35.207442 ] ] ] } }
+]
+}

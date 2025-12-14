@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "divaky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Diváky", "metric_roundness": 63.04, "metric_rectangularity": 68.11, "metric_mobile_fit": 39.47, "metric_aspect_ratio": 1.168, "metric_area_km2": 19.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.7901247, 48.980703799999986 ], [ 16.8167935, 48.986593 ], [ 16.8073875, 48.99694 ], [ 16.8012529, 48.9998747 ], [ 16.769473, 48.9989595 ], [ 16.7617088, 48.991762199999982 ], [ 16.7631685, 48.977784499999984 ], [ 16.7679123, 48.9726973 ], [ 16.781096, 48.9689195 ], [ 16.7901247, 48.980703799999986 ] ] ] } }
+]
+}

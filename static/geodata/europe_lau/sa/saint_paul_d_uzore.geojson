@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_paul_d_uzore",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Paul-d'Uzore", "metric_roundness": 29.61, "metric_rectangularity": 58.81, "metric_mobile_fit": 87.82, "metric_aspect_ratio": 0.441, "metric_area_km2": 19.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1076139, 45.667353 ], [ 4.0930384, 45.6732705 ], [ 4.0914586, 45.6761938 ], [ 4.0967644, 45.682863299999973 ], [ 4.0992687, 45.6962025 ], [ 4.1111127, 45.697442599999988 ], [ 4.1065465, 45.702725 ], [ 4.0782519, 45.696992299999984 ], [ 4.076704, 45.687039 ], [ 4.0750873, 45.6682524 ], [ 4.079586, 45.658378 ], [ 4.0901318, 45.653753699999982 ], [ 4.090985, 45.6456015 ], [ 4.0983125, 45.648052 ], [ 4.10048, 45.647613 ], [ 4.1076139, 45.667353 ] ] ] } }
+]
+}

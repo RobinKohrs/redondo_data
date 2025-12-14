@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villenavotte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villenavotte", "metric_roundness": 43.85, "metric_rectangularity": 58.98, "metric_mobile_fit": 19.68, "metric_aspect_ratio": 1.366, "metric_area_km2": 4.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.237196, 48.240424199999985 ], [ 3.2472105, 48.244129 ], [ 3.2439815, 48.248110499999989 ], [ 3.242549, 48.250954 ], [ 3.2137845, 48.2457855 ], [ 3.2329665, 48.2346535 ], [ 3.237196, 48.240424199999985 ] ] ] } }
+]
+}

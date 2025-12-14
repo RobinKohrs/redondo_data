@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "givrycourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Givrycourt", "metric_roundness": 48.24, "metric_rectangularity": 71.07, "metric_mobile_fit": 91.99, "metric_aspect_ratio": 0.643, "metric_area_km2": 6.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9241505, 48.936202 ], [ 6.923777, 48.938152 ], [ 6.91505, 48.9399005 ], [ 6.910885, 48.939934 ], [ 6.905714, 48.938016499999975 ], [ 6.9141011, 48.919029399999985 ], [ 6.924132, 48.916874499999984 ], [ 6.9262175, 48.9216105 ], [ 6.9254485, 48.923711 ], [ 6.928235, 48.92941 ], [ 6.928267, 48.934234 ], [ 6.9241505, 48.936202 ] ] ] } }
+]
+}

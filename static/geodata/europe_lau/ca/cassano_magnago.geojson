@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cassano_magnago",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cassano Magnago", "metric_roundness": 28.58, "metric_rectangularity": 60.59, "metric_mobile_fit": 89.45, "metric_aspect_ratio": 0.457, "metric_area_km2": 25.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.844018, 45.6673639 ], [ 8.8337697, 45.6856103 ], [ 8.8334485, 45.7052775 ], [ 8.829028, 45.705901 ], [ 8.8225718, 45.6912896 ], [ 8.812509, 45.688592 ], [ 8.8132178, 45.684975499999979 ], [ 8.806618, 45.6845475 ], [ 8.8063197, 45.676189 ], [ 8.832254, 45.64079 ], [ 8.8380355, 45.638680699999981 ], [ 8.8457795, 45.642655499999982 ], [ 8.8502803, 45.6509073 ], [ 8.846744, 45.6668855 ], [ 8.844018, 45.6673639 ] ] ] } }
+]
+}

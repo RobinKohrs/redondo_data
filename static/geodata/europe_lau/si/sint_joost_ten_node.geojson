@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sint_joost_ten_node",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sint-Joost-ten-Node", "metric_roundness": 30.18, "metric_rectangularity": 55.69, "metric_mobile_fit": 22.08, "metric_aspect_ratio": 1.342, "metric_area_km2": 2.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3566706, 50.8562233 ], [ 4.3674121, 50.8524852 ], [ 4.3704676, 50.8474938 ], [ 4.3842645, 50.85146349999998 ], [ 4.3821845, 50.851921 ], [ 4.3721345, 50.856899 ], [ 4.368003, 50.8575175 ], [ 4.35725, 50.86047749999998 ], [ 4.3566706, 50.8562233 ] ] ] } }
+]
+}

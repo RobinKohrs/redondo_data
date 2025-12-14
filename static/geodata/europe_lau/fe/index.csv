@@ -1,0 +1,343 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Fedderingen,fedderingen,fe,35.44,53.19,16.3
+europe_lau,Felde,felde,fe,59.56,63.38,48.65
+europe_lau,Felm,felm,fe,47.03,56.95,80.73
+europe_lau,Feldkirchen an der Donau,feldkirchen_an_der_donau,fe,72.63,75.35,67.08
+europe_lau,"Fehmarn, Stadt",fehmarn_stadt,fe,48.76,64.11,23.21
+europe_lau,Feldhorst,feldhorst,fe,42.63,59.74,97.42
+europe_lau,Fernwald,fernwald,fe,55.33,67.67,69.39
+europe_lau,Feldkirchen bei Graz,feldkirchen_bei_graz,fe,54.62,69.82,65.42
+europe_lau,Fensdorf,fensdorf,fe,60.53,72.92,59.05
+europe_lau,"Felsberg, Stadt",felsberg_stadt,fe,57.88,67.56,66.85
+europe_lau,Feldatal,feldatal,fe,62.78,70.66,54.62
+europe_lau,Fernitz-Mellach,fernitz_mellach,fe,27.7,46.25,96.45
+europe_lau,Feilbingert,feilbingert,fe,59.13,61.74,37.87
+europe_lau,Fehl-Ritzhausen,fehl_ritzhausen,fe,57.93,77.44,84.06
+europe_lau,Fell,fell,fe,40.81,58.59,55
+europe_lau,Feilsdorf,feilsdorf,fe,38.91,61.83,77.7
+europe_lau,Ferschweiler,ferschweiler,fe,40.44,51.26,60.32
+europe_lau,Feistritztal,feistritztal,fe,27.52,59.87,12.68
+europe_lau,Feuerscheid,feuerscheid,fe,61.14,68.15,58.89
+europe_lau,Feusdorf,feusdorf,fe,52.73,67.53,1.72
+europe_lau,"Fellbach, Stadt",fellbach_stadt,fe,33.57,58.44,92.75
+europe_lau,Feldberg (Schwarzwald),feldberg_schwarzwald,fe,22.97,44.93,-87.96
+europe_lau,Fehring,fehring,fe,47.15,51.93,74.51
+europe_lau,Feldbach,feldbach,fe,33.1,49,89.14
+europe_lau,Feldkirchen,feldkirchen,fe,42.96,56.35,18.81
+europe_lau,Feichten a.d.Alz,feichten_a_d_alz,fe,60.79,73.71,67.26
+europe_lau,Feldkirchen,feldkirchen,fe,52.58,67.08,9.56
+europe_lau,Feldkirchen-Westerham,feldkirchen_westerham,fe,59.55,64.93,69.57
+europe_lau,Feldafing,feldafing,fe,33.99,51.09,95.93
+europe_lau,Ferdinandshof,ferdinandshof,fe,30.36,45.85,1.15
+europe_lau,Fendels,fendels,fe,53.11,66.88,80.16
+europe_lau,Fellheim,fellheim,fe,34.07,53.65,88.81
+europe_lau,Ferna,ferna,fe,56.98,65.59,57.52
+europe_lau,"Feucht, M",feucht_m,fe,29.27,50.06,-17.25
+europe_lau,Felix,felix,fe,57.34,71.13,44.99
+europe_lau,Feuerthalen,feuerthalen,fe,31.35,73.68,-1.38
+europe_lau,Felanitx,felanitx,fe,48.32,62.68,49.9
+europe_lau,Ferreries,ferreries,fe,39.18,56.34,94.25
+europe_lau,Ferreira,ferreira,fe,21.59,55.79,77.79
+europe_lau,Fernelmont,fernelmont,fe,48.95,59.09,80
+europe_lau,Feistritz an der Gail,feistritz_an_der_gail,fe,21.05,48.76,-73.87
+europe_lau,Férez,ferez,fe,34.35,60.11,22.55
+europe_lau,Feld am See,feld_am_see,fe,37.38,52.65,-15.45
+europe_lau,Fernán Caballero,fernan_caballero,fe,27.37,56.42,-59.42
+europe_lau,Feria,feria,fe,41.25,67.39,90.49
+europe_lau,Fene,fene,fe,41.19,60.55,35.1
+europe_lau,Ferrol,ferrol,fe,48.42,56.43,54.13
+europe_lau,Ferndorf,ferndorf,fe,43.34,58.07,40.47
+europe_lau,Fehraltorf,fehraltorf,fe,53.38,70.08,74.27
+europe_lau,Fernán-Núñez,fernan_nunez,fe,73.66,71.92,52.55
+europe_lau,Fexhe-le-Haut-Clocher,fexhe_le_haut_clocher,fe,57.42,67.32,44.57
+europe_lau,Ferlach,ferlach,fe,38.52,53.59,27.27
+europe_lau,Ferrières,ferrieres,fe,38.93,48.48,30.25
+europe_lau,Feuchter Forst,feuchter_forst,fe,46.65,53.29,24.48
+europe_lau,Fehrbellin,fehrbellin,fe,65.57,68.05,59.56
+europe_lau,Feldkirch,feldkirch,fe,37.64,58.4,84.99
+europe_lau,Feilitzsch,feilitzsch,fe,41.99,56.53,87.45
+europe_lau,Felixsee/Feliksowy Jazor,felixsee_feliksowy_jazor,fe,44.88,53.65,52.41
+europe_lau,"Feuchtwangen, St",feuchtwangen_st,fe,52.9,63.74,51.35
+europe_lau,Feldberger Seenlandschaft,feldberger_seenlandschaft,fe,35.45,59.97,31.08
+europe_lau,Fensterbach,fensterbach,fe,32.17,57.04,5.31
+europe_lau,Feistritz im Rosental,feistritz_im_rosental,fe,48.66,55.27,75.16
+europe_lau,Fellen,fellen,fe,51.52,63.44,62.54
+europe_lau,Ferschnitz,ferschnitz,fe,51.78,59.89,51.82
+europe_lau,Feyt,feyt,fe,30.78,60.93,68.48
+europe_lau,Félines,felines,fe,43.12,57.58,5.67
+europe_lau,Fépin,fepin,fe,59.34,70.01,24.58
+europe_lau,Fehren,fehren,fe,61.02,68.09,53.94
+europe_lau,Feux,feux,fe,55.32,61.3,78.69
+europe_lau,Félines-Termenès,felines_termenes,fe,57.36,82.6,29.88
+europe_lau,Fendeille,fendeille,fe,39.3,63.44,36.62
+europe_lau,Fenouillet-du-Razès,fenouillet_du_razes,fe,34.57,64.6,-49.79
+europe_lau,Ferrals-les-Corbières,ferrals_les_corbieres,fe,50.93,69.75,55.97
+europe_lau,Ferran,ferran,fe,37.37,51.84,-2.36
+europe_lau,Festes-et-Saint-André,festes_et_saint_andre,fe,50.25,82.15,5.81
+europe_lau,Feuilla,feuilla,fe,54.09,77.95,69.85
+europe_lau,Fenioux,fenioux,fe,69.28,76.29,51.59
+europe_lau,Ferrières,ferrieres,fe,45.01,65.49,42.06
+europe_lau,Ferrières-le-Lac,ferrieres_le_lac,fe,54.17,79.4,27.51
+europe_lau,Ferrières-les-Bois,ferrieres_les_bois,fe,61.52,73.36,67.63
+europe_lau,Fertans,fertans,fe,49.89,68.54,14.25
+europe_lau,Fesches-le-Châtel,fesches_le_chatel,fe,40.06,64.85,-22.8
+europe_lau,Fessevillers,fessevillers,fe,41.05,57.06,42.98
+europe_lau,Feule,feule,fe,46.15,59.69,82.21
+europe_lau,Ferrières-sur-Sichon,ferrieres_sur_sichon,fe,43.21,63.56,11.99
+europe_lau,Ferrières-Haut-Clocher,ferrieres_haut_clocher,fe,61.91,73.54,60.21
+europe_lau,Ferrières-Saint-Hilaire,ferrieres_saint_hilaire,fe,56.32,66.74,22.26
+europe_lau,Feuguerolles,feuguerolles,fe,48.99,72.96,-12.74
+europe_lau,Ferrera,ferrera,fe,44.98,56.43,61.21
+europe_lau,Feillens,feillens,fe,59.96,69.86,42.8
+europe_lau,Ferney-Voltaire,ferney_voltaire,fe,51.94,75.63,69.11
+europe_lau,Féchy,fechy,fe,43.1,75.64,79.58
+europe_lau,Felsberg,felsberg,fe,54.84,61.55,60.69
+europe_lau,Ferrières-Saint-Mary,ferrieres_saint_mary,fe,59.25,64.79,40.42
+europe_lau,Fère-en-Tardenois,fere_en_tardenois,fe,16.76,36.21,84.72
+europe_lau,Fesmy-le-Sart,fesmy_le_sart,fe,43.77,68.45,13.26
+europe_lau,Festieux,festieux,fe,72.84,76.43,74.47
+europe_lau,Feusisberg,feusisberg,fe,40.58,63.89,8.22
+europe_lau,Feistritz ob Bleiburg,feistritz_ob_bleiburg,fe,42.39,65.5,86.88
+europe_lau,"Febró, La",febro_la,fe,53.67,68.12,16.22
+europe_lau,Fermoselle,fermoselle,fe,44.21,60.95,12.09
+europe_lau,Ferreras de Abajo,ferreras_de_abajo,fe,36.61,65.4,-62
+europe_lau,Ferreras de Arriba,ferreras_de_arriba,fe,39.82,54.65,63.85
+europe_lau,Ferreruela,ferreruela,fe,47.1,55.66,36.8
+europe_lau,Ferreux-Quincey,ferreux_quincey,fe,45.54,61.98,82.42
+europe_lau,Feuges,feuges,fe,55.54,68.84,33.07
+europe_lau,Feuguerolles-Bully,feuguerolles_bully,fe,56.97,74.5,51.3
+europe_lau,Fétigny,fetigny,fe,43.12,71.22,81.59
+europe_lau,Feldbrunnen-St. Niklaus,feldbrunnen_st_niklaus,fe,36.95,63.4,95.47
+europe_lau,Feldkirchen in Kärnten,feldkirchen_in_karnten,fe,44.24,52.19,46.65
+europe_lau,Ferenbalm,ferenbalm,fe,51.85,65.46,75.94
+europe_lau,Ferpicloz,ferpicloz,fe,46.88,66.26,42.73
+europe_lau,Ferrières-sur-Ariège,ferrieres_sur_ariege,fe,36.37,63.9,54.19
+europe_lau,Ferreruela de Huerva,ferreruela_de_huerva,fe,52.79,77.12,24.6
+europe_lau,Fèrebrianges,ferebrianges,fe,34.77,67.4,53.23
+europe_lau,Fère-Champenoise,fere_champenoise,fe,29.29,57.95,-0.97
+europe_lau,Festigny,festigny,fe,45.37,61.17,64
+europe_lau,Feurs,feurs,fe,59.55,65.05,53.68
+europe_lau,Feins-en-Gâtinais,feins_en_gatinais,fe,46.94,69.96,92.87
+europe_lau,Férolles,ferolles,fe,37.06,65.65,-40.8
+europe_lau,Ferrières-en-Gâtinais,ferrieres_en_gatinais,fe,42.26,48.89,80.62
+europe_lau,Fégréac,fegreac,fe,38.49,61.06,6.78
+europe_lau,Fercé,ferce,fe,50.5,64.41,48.61
+europe_lau,Feneu,feneu,fe,52.85,64.22,88.79
+europe_lau,Fécocourt,fecocourt,fe,43.85,54.61,13.59
+europe_lau,Fenneviller,fenneviller,fe,19.86,41.97,20.63
+europe_lau,Ferrières,ferrieres,fe,46.41,67.54,79.84
+europe_lau,Fey-en-Haye,fey_en_haye,fe,41.81,59.24,45.96
+europe_lau,Fernoël,fernoel,fe,51.96,65.82,73.86
+europe_lau,Fessanvilliers-Mattanvilliers,fessanvilliers_mattanvilliers,fe,38.86,62.73,72.13
+europe_lau,Felzins,felzins,fe,62.12,74.9,67.45
+europe_lau,Fénétrange,fenetrange,fe,40.56,66.1,-7.32
+europe_lau,Fèves,feves,fe,12.26,38.13,-174.34
+europe_lau,Féy,fey,fe,53.16,64.12,80.97
+europe_lau,Félines,felines,fe,50.67,53.04,77.74
+europe_lau,Ferrussac,ferrussac,fe,44.76,65.19,73.34
+europe_lau,Ferrière-et-Lafolie,ferriere_et_lafolie,fe,41.64,62,-9.01
+europe_lau,Fermanville,fermanville,fe,41.31,60.77,57.19
+europe_lau,Feugères,feugeres,fe,30.22,59.6,66.96
+europe_lau,Ferrensac,ferrensac,fe,37.25,49.13,83.16
+europe_lau,Feugarolles,feugarolles,fe,41.51,61.35,88.84
+europe_lau,Felben-Wellhausen,felben_wellhausen,fe,45.68,73.89,32.3
+europe_lau,Fénay,fenay,fe,31.76,48.27,72.57
+europe_lau,Feusines,feusines,fe,45.74,62.8,81.73
+europe_lau,Ferden,ferden,fe,45.2,56.71,44.79
+europe_lau,Ferreyres,ferreyres,fe,44.25,56.28,50.03
+europe_lau,Feuillade,feuillade,fe,37.34,73.88,83.45
+europe_lau,Félines-sur-Rimandoule,felines_sur_rimandoule,fe,40.05,53.63,88.52
+europe_lau,Ferrassières,ferrassieres,fe,50.24,66.74,18.65
+europe_lau,Feins,feins,fe,61.87,67.93,40.53
+europe_lau,Ferrière-Larçon,ferriere_larcon,fe,57.21,66.49,84.74
+europe_lau,Ferrière-sur-Beaulieu,ferriere_sur_beaulieu,fe,38.31,65.45,51.9
+europe_lau,Félines-Minervois,felines_minervois,fe,39.09,57.29,85.98
+europe_lau,Ferrals-les-Montagnes,ferrals_les_montagnes,fe,39.47,64.54,90.51
+europe_lau,Ferrières-les-Verreries,ferrieres_les_verreries,fe,43.14,58.88,41.1
+europe_lau,Ferrières-Poussarou,ferrieres_poussarou,fe,58.52,66.43,41.88
+europe_lau,Fenouillet,fenouillet,fe,49.93,69.31,78.18
+europe_lau,Felce,felce,fe,53.24,70.62,44.27
+europe_lau,Feliceto,feliceto,fe,30.35,61.82,94.03
+europe_lau,Fey,fey,fe,54.77,64.48,58.92
+europe_lau,Felletin,felletin,fe,27.97,51.31,95.67
+europe_lau,Féniers,feniers,fe,41.58,48.51,44.78
+europe_lau,Festigny,festigny,fe,25.73,55.07,88.89
+europe_lau,Ferdinandovac,ferdinandovac,fe,37.01,57.88,25.91
+europe_lau,Feričanci,fericanci,fe,29.53,58.7,60.39
+europe_lau,Fénery,fenery,fe,37.72,62.16,-16.73
+europe_lau,Fenioux,fenioux,fe,55.34,67.74,78.98
+europe_lau,Feyzin,feyzin,fe,54.84,72.26,17.77
+europe_lau,Feilluns,feilluns,fe,54.59,69.87,64.39
+europe_lau,Fenouillet,fenouillet,fe,47.29,60.43,26.91
+europe_lau,Feytiat,feytiat,fe,42.72,56.4,15.75
+europe_lau,Ferrère,ferrere,fe,56.78,63.55,75.01
+europe_lau,Ferrières,ferrieres,fe,50.19,67.65,85.08
+europe_lau,Féneyrols,feneyrols,fe,27.26,54.2,86.24
+europe_lau,Ferrières,ferrieres,fe,50.18,69.79,15.21
+europe_lau,Fescamps,fescamps,fe,39.66,56.09,92.66
+europe_lau,Feuillères,feuilleres,fe,57.01,74.4,6.39
+europe_lau,Feuquières-en-Vimeu,feuquieres_en_vimeu,fe,67.88,80.06,39.36
+europe_lau,Feucherolles,feucherolles,fe,57.9,65.85,47.13
+europe_lau,Fénols,fenols,fe,46.38,65.17,42.31
+europe_lau,Felon,felon,fe,44.91,68.86,31.48
+europe_lau,Fêche-l'Église,feche_l_eglise,fe,41.8,60.9,98.59
+europe_lau,Fécamp,fecamp,fe,48.59,55.64,41.54
+europe_lau,Ferrières-en-Bray,ferrieres_en_bray,fe,54.43,60.67,78.19
+europe_lau,Fesques,fesques,fe,27.11,56.24,97.51
+europe_lau,Ferdrupt,ferdrupt,fe,39.07,67.02,72.45
+europe_lau,Feissons-sur-Salins,feissons_sur_salins,fe,24.62,43.77,-29.05
+europe_lau,Féchain,fechain,fe,66.82,77.72,27.22
+europe_lau,Feignies,feignies,fe,59.4,69.4,75.37
+europe_lau,Felleries,felleries,fe,24.31,65.86,-157.82
+europe_lau,Fenain,fenain,fe,23.29,63.34,79.12
+europe_lau,Férin,ferin,fe,65.85,75.08,47.77
+europe_lau,Féron,feron,fe,60.02,69.62,36.27
+europe_lau,Ferrière-la-Grande,ferriere_la_grande,fe,55.4,66.88,67.75
+europe_lau,Ferrière-la-Petite,ferriere_la_petite,fe,62.29,67.23,31.87
+europe_lau,Fertrève,fertreve,fe,44.09,65.26,-10.83
+europe_lau,Féricy,fericy,fe,70.9,76.55,63.1
+europe_lau,Férolles-Attilly,ferolles_attilly,fe,51.29,68.95,53.98
+europe_lau,Ferrières-en-Brie,ferrieres_en_brie,fe,47.39,61,34.07
+europe_lau,Feigneux,feigneux,fe,43.39,62.41,64.5
+europe_lau,Ferrières,ferrieres,fe,61.05,72.28,73.58
+europe_lau,Feuquières,feuquieres,fe,56.24,72.95,66.44
+europe_lau,Fédry,fedry,fe,31.6,43.33,72.32
+europe_lau,Ferrières-lès-Ray,ferrieres_les_ray,fe,55.88,68.52,39.54
+europe_lau,Ferrières-lès-Scey,ferrieres_les_scey,fe,39.47,52.99,86.86
+europe_lau,Férel,ferel,fe,54.91,70.5,68.67
+europe_lau,Felbabka,felbabka,fe,41.79,65.03,22.33
+europe_lau,Feings,feings,fe,48.15,71.55,24.39
+europe_lau,Ferrières-la-Verrerie,ferrieres_la_verrerie,fe,31.23,51.16,66.73
+europe_lau,Feigères,feigeres,fe,33.68,49.5,93.03
+europe_lau,Fessy,fessy,fe,27.07,53.37,67.32
+europe_lau,Féternes,feternes,fe,34.4,55.47,30.93
+europe_lau,Febvin-Palfart,febvin_palfart,fe,43.4,66.54,81.72
+europe_lau,Ferfay,ferfay,fe,52.97,76.27,72.91
+europe_lau,Ferques,ferques,fe,43.79,70.84,-23.9
+europe_lau,Festubert,festubert,fe,36.47,48.19,43.69
+europe_lau,Feuchy,feuchy,fe,51.61,62.25,56.56
+europe_lau,Fegersheim,fegersheim,fe,59.97,63.26,68.47
+europe_lau,Fessenheim-le-Bas,fessenheim_le_bas,fe,65.54,68.86,38.92
+europe_lau,Feldbach,feldbach,fe,44.44,61.16,29.06
+europe_lau,Feldkirch,feldkirch,fe,18.98,60.49,92.1
+europe_lau,Fellering,fellering,fe,27.01,34.86,32.1
+europe_lau,Ferrette,ferrette,fe,52.08,69.31,72.29
+europe_lau,Fessenheim,fessenheim,fe,38.11,88.07,-121.26
+europe_lau,Fercé-sur-Sarthe,ferce_sur_sarthe,fe,63.92,70.84,58.41
+europe_lau,Fels am Wagram,fels_am_wagram,fe,47.82,52.9,69.82
+europe_lau,Ferrera Erbognone,ferrera_erbognone,fe,46.51,60.44,82.49
+europe_lau,Fedje,fedje,fe,52.03,72.64,81.07
+europe_lau,Feulen,feulen,fe,65.84,72.98,64.85
+europe_lau,Feltre,feltre,fe,41.44,54.05,87.77
+europe_lau,Fermo,fermo,fe,44.47,57.41,34.81
+europe_lau,Feroleto della Chiesa,feroleto_della_chiesa,fe,31.58,63.11,-78.56
+europe_lau,Ferruzzano,ferruzzano,fe,40.61,67.89,39.19
+europe_lau,Ferriere,ferriere,fe,68.99,70.28,49.43
+europe_lau,Ferrara,ferrara,fe,38.19,49.69,44.77
+europe_lau,Ferrara di Monte Baldo,ferrara_di_monte_baldo,fe,51.2,75.34,95.56
+europe_lau,Ferrazzano,ferrazzano,fe,32.6,56.73,-29.58
+europe_lau,Felitto,felitto,fe,46.49,66.31,15.42
+europe_lau,Fermignano,fermignano,fe,62.82,66.51,48.16
+europe_lau,Ferentino,ferentino,fe,67.08,71.19,65.01
+europe_lau,Feldebrő,feldebro,fe,41.49,61.8,17.23
+europe_lau,Felizzano,felizzano,fe,30.93,45.27,69.93
+europe_lau,Feroleto Antico,feroleto_antico,fe,20.99,51.26,81.58
+europe_lau,Felsőzsolca,felsozsolca,fe,41.07,59.93,68.16
+europe_lau,Felsőszentiván,felsoszentivan,fe,41.97,57.16,68.89
+europe_lau,Felsőtárkány,felsotarkany,fe,48.84,68.61,94.62
+europe_lau,Fenyőfő,fenyofo,fe,27.91,56.05,90.96
+europe_lau,Felsőszenterzsébet,felsoszenterzsebet,fe,62.25,77.31,59.2
+europe_lau,Fertőrákos,fertorakos,fe,36.88,60.95,86.91
+europe_lau,Fedémes,fedemes,fe,56.27,68.28,46.88
+europe_lau,Fegyvernek,fegyvernek,fe,53.34,66.45,46.02
+europe_lau,Feisoglio,feisoglio,fe,60.43,76.73,34.14
+europe_lau,Felsőregmec,felsoregmec,fe,55.78,63.83,80.02
+europe_lau,Felsőjánosfa,felsojanosfa,fe,25.83,52.31,97.2
+europe_lau,Felsőberecki,felsoberecki,fe,49.62,56.32,68.32
+europe_lau,Feletto,feletto,fe,42.36,74.67,64.3
+europe_lau,Fenestrelle,fenestrelle,fe,44.09,62.36,47.04
+europe_lau,Ferno,ferno,fe,29.34,64.32,-19.88
+europe_lau,Ferrera di Varese,ferrera_di_varese,fe,52.32,78.41,19.67
+europe_lau,Felsőrajk,felsorajk,fe,39.59,56.42,87.27
+europe_lau,Fénis,fenis,fe,37.21,70.23,85.98
+europe_lau,Fertőszéplak,fertoszeplak,fe,29.25,66.19,95.48
+europe_lau,Felsőtelekes,felsotelekes,fe,55.49,66.69,84.07
+europe_lau,Felsőkelecsény,felsokelecseny,fe,53.13,66.42,32.54
+europe_lau,Felsőszentmárton,felsoszentmarton,fe,41.53,59.26,-6.96
+europe_lau,Felsőegerszeg,felsoegerszeg,fe,34.33,51.82,95.01
+europe_lau,Fényeslitke,fenyeslitke,fe,36.24,55.81,81.36
+europe_lau,Felgyő,felgyo,fe,43.71,70.76,-8.05
+europe_lau,Felino,felino,fe,36.86,67.16,59.86
+europe_lau,Felsőszölnök,felsoszolnok,fe,52.08,67.97,38.09
+europe_lau,Felsővadász,felsovadasz,fe,52.01,67.96,75.13
+europe_lau,Fenegrò,fenegro,fe,30.54,65.36,82.49
+europe_lau,Feked,feked,fe,37.72,61.81,96.23
+europe_lau,Felsőnyék,felsonyek,fe,59.96,77.73,64.74
+europe_lau,Fehérvárcsurgó,fehervarcsurgo,fe,27.54,49,-19.77
+europe_lau,Felsőcsatár,felsocsatar,fe,28.7,48.12,-36.02
+europe_lau,Felsőmocsolád,felsomocsolad,fe,30.46,49.98,94.73
+europe_lau,Feketeerdő,feketeerdo,fe,53.91,60.28,54.39
+europe_lau,Felsőnyárád,felsonyarad,fe,60.57,61.3,67.92
+europe_lau,Fertőendréd,fertoendred,fe,35.28,59.94,94.65
+europe_lau,Felsődobsza,felsodobsza,fe,59.32,66.3,43.26
+europe_lau,Fertőd,fertod,fe,27.78,61.15,52.75
+europe_lau,Felsőpetény,felsopeteny,fe,58.53,74.13,41.29
+europe_lau,Felsőörs,felsoors,fe,45.37,65.03,42.19
+europe_lau,Ferrandina,ferrandina,fe,45.03,68.45,85.35
+europe_lau,Felpéc,felpec,fe,41.42,68.04,12.68
+europe_lau,Felsőtold,felsotold,fe,46.96,59.86,56.45
+europe_lau,Fehérgyarmat,fehergyarmat,fe,55.77,69.29,78.96
+europe_lau,Ferencszállás,ferencszallas,fe,31.87,49.52,92.14
+europe_lau,Ferrere,ferrere,fe,47.15,66.51,85.42
+europe_lau,Ferentillo,ferentillo,fe,50.77,63.03,14.74
+europe_lau,Felsőlajos,felsolajos,fe,46.99,74.23,79.71
+europe_lau,Fertőhomok,fertohomok,fe,15.23,48.2,79.07
+europe_lau,Felsőpakony,felsopakony,fe,64.97,87.81,55.77
+europe_lau,Fertőszentmiklós,fertoszentmiklos,fe,55.74,69.72,65.84
+europe_lau,Fermoy,fermoy,fe,46.86,62.02,42.78
+europe_lau,Fertőboz,fertoboz,fe,35.35,72.57,97.59
+europe_lau,Feistritz am Wechsel,feistritz_am_wechsel,fe,37.78,51.29,15.89
+europe_lau,Felsőpáhok,felsopahok,fe,63.42,71.09,60.53
+europe_lau,Felsőnána,felsonana,fe,54.56,63.41,55.59
+europe_lau,Felsőgagy,felsogagy,fe,42.35,74.06,98.07
+europe_lau,Felsőmarác,felsomarac,fe,34.7,63.88,97.54
+europe_lau,Felcsút,felcsut,fe,56.12,62.17,40.35
+europe_lau,Fehértó,feherto,fe,45.53,66.07,93.19
+europe_lau,Feldru,feldru,fe,52.59,63.8,83.72
+europe_lau,Feleacu,feleacu,fe,41.72,55.1,9.63
+europe_lau,Fekišovce,fekisovce,fe,61.37,83.05,75.14
+europe_lau,Fermentelos,fermentelos,fe,49.32,71.73,13.66
+europe_lau,Fermedo,fermedo,fe,19.51,54.61,-6.45
+europe_lau,Feldkirchen bei Mattighofen,feldkirchen_bei_mattighofen,fe,52.78,66.25,84.37
+europe_lau,Ferreira do Zêzere,ferreira_do_zezere,fe,61.13,66.77,72.59
+europe_lau,Feliceni,feliceni,fe,33.22,45.23,45.47
+europe_lau,Ferreiros,ferreiros,fe,48.44,59.2,87.07
+europe_lau,Ferrel,ferrel,fe,31.38,51.56,-4.83
+europe_lau,Feldioara,feldioara,fe,34.6,56.94,52.8
+europe_lau,Fernão Ferro,fernao_ferro,fe,46.06,66.28,52.58
+europe_lau,Fervença,fervenca,fe,59.05,72.16,63.4
+europe_lau,Ferreirós do Dão,ferreiros_do_dao,fe,57.31,76.16,60
+europe_lau,Ferreira de Aves,ferreira_de_aves,fe,48.85,64.32,37.15
+europe_lau,Fermentões,fermentoes,fe,67.61,69.97,70.08
+europe_lau,Felnac,felnac,fe,56.83,62.7,56.16
+europe_lau,Felixdorf,felixdorf,fe,47.15,59.97,40.07
+europe_lau,Ferreiras,ferreiras,fe,43.04,57.23,-7.61
+europe_lau,Ferragudo,ferragudo,fe,44.58,65.92,91.82
+europe_lau,Ferla,ferla,fe,45.68,57.92,54.55
+europe_lau,Ferral,ferral,fe,51.68,59.92,29.63
+europe_lau,Ferro,ferro,fe,45.32,66.12,39.02
+europe_lau,Fenais da Luz,fenais_da_luz,fe,45.06,65.55,82.84
+europe_lau,Feteiras,feteiras,fe,48.9,61.56,78.86
+europe_lau,Fenais da Ajuda,fenais_da_ajuda,fe,27.17,44.44,97.23
+europe_lau,Feteira,feteira,fe,58.61,83.22,78.73
+europe_lau,Feteira,feteira,fe,42.07,62.09,57.96
+europe_lau,Fernão Joanes,fernao_joanes,fe,41.77,68.1,18.56
+europe_lau,Ferreiros de Tendais,ferreiros_de_tendais,fe,41.62,71.89,59.66
+europe_lau,Febres,febres,fe,48.62,62.62,36.67
+europe_lau,Ferreira,ferreira,fe,58.78,71.76,42.92
+europe_lau,Ferreira-a-Nova,ferreira_a_nova,fe,15.88,47.21,78.31
+europe_lau,Fereşti,feresti,fe,48.59,56.28,71.39
+europe_lau,Feitosa,feitosa,fe,48.73,66.85,65.42
+europe_lau,Ferreirim,ferreirim,fe,63.62,73.96,30.22
+europe_lau,Ferreiros de Avões,ferreiros_de_avoes,fe,61.87,70.34,52.53
+europe_lau,Ferreira,ferreira,fe,41.93,60.13,65.14

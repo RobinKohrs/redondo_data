@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_machairon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μαχαιρών", "metric_roundness": 37.45, "metric_rectangularity": 64.42, "metric_mobile_fit": 68.33, "metric_aspect_ratio": 0.879, "metric_area_km2": 5.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.1241397, 35.4154568 ], [ 24.1090225, 35.413178 ], [ 24.114375, 35.407337399999975 ], [ 24.1164475, 35.3980885 ], [ 24.1308107, 35.4042302 ], [ 24.1377815, 35.419734 ], [ 24.1347365, 35.424747 ], [ 24.1241397, 35.4154568 ] ] ] } }
+]
+}

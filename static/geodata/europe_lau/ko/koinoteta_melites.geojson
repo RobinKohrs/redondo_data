@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_melites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μελίτης", "metric_roundness": 50.25, "metric_rectangularity": 75.47, "metric_mobile_fit": 1.91, "metric_aspect_ratio": 1.543, "metric_area_km2": 53.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6033258, 40.853055399999981 ], [ 21.5915089, 40.8542865 ], [ 21.5617495, 40.84870549999998 ], [ 21.5510505, 40.8318408 ], [ 21.5476165, 40.8190585 ], [ 21.5640362, 40.8171363 ], [ 21.6146663, 40.8032972 ], [ 21.6314735, 40.8064335 ], [ 21.6280289, 40.816220099999988 ], [ 21.6312515, 40.822148 ], [ 21.6440727, 40.8219004 ], [ 21.6516205, 40.8297375 ], [ 21.6033258, 40.853055399999981 ] ] ] } }
+]
+}

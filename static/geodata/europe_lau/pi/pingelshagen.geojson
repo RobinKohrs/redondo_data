@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pingelshagen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pingelshagen", "metric_roundness": 42.21, "metric_rectangularity": 55.71, "metric_mobile_fit": 75.45, "metric_aspect_ratio": 0.808, "metric_area_km2": 5.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3353821, 53.6797252 ], [ 11.333683, 53.672307 ], [ 11.3418625, 53.6773835 ], [ 11.3571913, 53.68918619999998 ], [ 11.3416671, 53.6938691 ], [ 11.330624, 53.6896 ], [ 11.327773, 53.689348 ], [ 11.3353821, 53.6797252 ] ] ] } }
+]
+}

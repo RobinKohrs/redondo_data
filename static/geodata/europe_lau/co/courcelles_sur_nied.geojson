@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courcelles_sur_nied",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courcelles-sur-Nied", "metric_roundness": 53.36, "metric_rectangularity": 55.79, "metric_mobile_fit": 62.28, "metric_aspect_ratio": 0.94, "metric_area_km2": 11.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2985434, 49.0627031 ], [ 6.292194, 49.056666799999988 ], [ 6.2935125, 49.050999399999988 ], [ 6.2898558, 49.0451495 ], [ 6.2968855, 49.0423195 ], [ 6.3038779, 49.049864899999989 ], [ 6.3127469, 49.048699399999983 ], [ 6.3220257, 49.0525923 ], [ 6.3296455, 49.05199 ], [ 6.330578, 49.058043399999981 ], [ 6.3222095, 49.061703 ], [ 6.3108938, 49.070197199999981 ], [ 6.3020123, 49.070718899999989 ], [ 6.2981125, 49.067948 ], [ 6.2985434, 49.0627031 ] ] ] } }
+]
+}

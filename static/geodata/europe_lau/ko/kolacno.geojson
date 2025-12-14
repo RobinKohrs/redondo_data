@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kolacno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kolačno", "metric_roundness": 65.48, "metric_rectangularity": 79.76, "metric_mobile_fit": 69.24, "metric_aspect_ratio": 0.87, "metric_area_km2": 48.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.4024798, 48.556931699999986 ], [ 18.4282317, 48.553813299999987 ], [ 18.44062, 48.556733499999986 ], [ 18.4461164, 48.5599208 ], [ 18.4507914, 48.568487 ], [ 18.4456765, 48.5824633 ], [ 18.4379962, 48.586587799999982 ], [ 18.4325953, 48.595962799999981 ], [ 18.411332, 48.6106045 ], [ 18.392051, 48.597127 ], [ 18.376097, 48.578382 ], [ 18.4024798, 48.556931699999986 ] ] ] } }
+]
+}

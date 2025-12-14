@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niehl",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niehl", "metric_roundness": 66.05, "metric_rectangularity": 73.87, "metric_mobile_fit": 62.34, "metric_aspect_ratio": 0.939, "metric_area_km2": 4.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.374193, 49.944309 ], [ 6.372831, 49.9484045 ], [ 6.375449, 49.951221 ], [ 6.376158, 49.954950499999988 ], [ 6.3678051, 49.960371299999984 ], [ 6.3642415, 49.9597805 ], [ 6.3580858, 49.9579638 ], [ 6.3520045, 49.951171 ], [ 6.366262, 49.943823 ], [ 6.374193, 49.944309 ] ] ] } }
+]
+}

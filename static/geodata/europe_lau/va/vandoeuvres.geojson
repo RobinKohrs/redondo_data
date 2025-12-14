@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vandoeuvres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vandoeuvres", "metric_roundness": 64.46, "metric_rectangularity": 69.5, "metric_mobile_fit": 72.53, "metric_aspect_ratio": 0.837, "metric_area_km2": 9.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.216559, 46.2121995 ], [ 6.2195265, 46.215110499999987 ], [ 6.2200665, 46.218175 ], [ 6.2166785, 46.221872 ], [ 6.218234, 46.224768 ], [ 6.2107135, 46.226575499999974 ], [ 6.201827, 46.2325965 ], [ 6.1891196, 46.220928299999983 ], [ 6.189252, 46.2150466 ], [ 6.195372, 46.207019499999987 ], [ 6.1991665, 46.208258 ], [ 6.201404, 46.207311 ], [ 6.203746, 46.209172 ], [ 6.2169895, 46.210341499999984 ], [ 6.216559, 46.2121995 ] ] ] } }
+]
+}

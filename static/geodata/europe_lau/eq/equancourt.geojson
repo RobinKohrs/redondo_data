@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "equancourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Équancourt", "metric_roundness": 39.36, "metric_rectangularity": 71.63, "metric_mobile_fit": 88.87, "metric_aspect_ratio": 0.451, "metric_area_km2": 19.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0119655, 50.058041 ], [ 3.006831, 50.054604499999982 ], [ 2.9962967, 50.030732 ], [ 3.0053946, 50.025123399999984 ], [ 3.0039825, 50.017025 ], [ 3.0110339, 50.012729699999973 ], [ 3.0236475, 50.015199 ], [ 3.0251315, 50.0169885 ], [ 3.0235419, 50.0245318 ], [ 3.0281271, 50.040062499999983 ], [ 3.0278758, 50.0511014 ], [ 3.0249085, 50.054144 ], [ 3.0119655, 50.058041 ] ] ] } }
+]
+}

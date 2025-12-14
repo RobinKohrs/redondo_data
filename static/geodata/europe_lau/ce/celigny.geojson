@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "celigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Céligny", "metric_roundness": 39.2, "metric_rectangularity": 73.19, "metric_mobile_fit": 50.72, "metric_aspect_ratio": 1.055, "metric_area_km2": 8.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2129085, 46.3528865 ], [ 6.1802845, 46.364593 ], [ 6.17441, 46.362377499999987 ], [ 6.1729586, 46.355446599999986 ], [ 6.193455, 46.3487243 ], [ 6.19312, 46.343844499999989 ], [ 6.2071165, 46.3384645 ], [ 6.2129085, 46.3528865 ] ] ] } }
+]
+}

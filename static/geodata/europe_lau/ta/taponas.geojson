@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "taponas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Taponas", "metric_roundness": 54.34, "metric_rectangularity": 66.02, "metric_mobile_fit": 70.67, "metric_aspect_ratio": 0.856, "metric_area_km2": 15.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7438633, 46.1388723 ], [ 4.7513299, 46.1245665 ], [ 4.7481536, 46.1144484 ], [ 4.752336, 46.110059 ], [ 4.767107, 46.106524 ], [ 4.7711, 46.110444 ], [ 4.772066, 46.117624 ], [ 4.774189, 46.1202335 ], [ 4.787482, 46.130882 ], [ 4.7651845, 46.13897 ], [ 4.754758, 46.141849 ], [ 4.7438633, 46.1388723 ] ] ] } }
+]
+}

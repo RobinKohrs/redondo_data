@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orsfeld",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orsfeld", "metric_roundness": 65.76, "metric_rectangularity": 76.41, "metric_mobile_fit": 65.36, "metric_aspect_ratio": 0.909, "metric_area_km2": 13.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.614057, 50.021087499999979 ], [ 6.623721, 50.01680349999998 ], [ 6.6322916, 50.018954099999988 ], [ 6.6371161, 50.0261584 ], [ 6.6456655, 50.028404 ], [ 6.6472555, 50.040299 ], [ 6.641845, 50.0428435 ], [ 6.6363705, 50.044442 ], [ 6.617282, 50.03837 ], [ 6.6148142, 50.0339902 ], [ 6.6095543, 50.0324972 ], [ 6.6081515, 50.026580499999973 ], [ 6.614057, 50.021087499999979 ] ] ] } }
+]
+}

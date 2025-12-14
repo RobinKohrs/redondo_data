@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_libadias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λιβαδιάς", "metric_roundness": 39.84, "metric_rectangularity": 73.16, "metric_mobile_fit": -50.03, "metric_aspect_ratio": 2.063, "metric_area_km2": 25.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.1140675, 41.2518055 ], [ 23.096825, 41.2525584 ], [ 23.0906183, 41.2574757 ], [ 23.0729125, 41.258937499999988 ], [ 23.0584551, 41.2521437 ], [ 23.036664, 41.251984 ], [ 23.0451393, 41.2430703 ], [ 23.042887, 41.232487 ], [ 23.0558571, 41.23072 ], [ 23.088052, 41.2342058 ], [ 23.1140755, 41.231978 ], [ 23.1140675, 41.2518055 ] ] ] } }
+]
+}

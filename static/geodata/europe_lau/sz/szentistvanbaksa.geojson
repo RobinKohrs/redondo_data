@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szentistvanbaksa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szentistvánbaksa", "metric_roundness": 25.82, "metric_rectangularity": 63.12, "metric_mobile_fit": -114.27, "metric_aspect_ratio": 2.705, "metric_area_km2": 14.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.003821, 48.2246465 ], [ 21.012815, 48.21821019999998 ], [ 21.0135605, 48.214053 ], [ 21.0377474, 48.2090148 ], [ 21.0781935, 48.212159 ], [ 21.077396, 48.2149965 ], [ 21.032467, 48.227333 ], [ 21.003821, 48.2246465 ] ] ] } }
+]
+}

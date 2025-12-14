@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontaine_lavaganne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontaine-Lavaganne", "metric_roundness": 50.35, "metric_rectangularity": 64.0, "metric_mobile_fit": 7.15, "metric_aspect_ratio": 1.491, "metric_area_km2": 16.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9264274, 49.6050233 ], [ 1.927547, 49.599791499999988 ], [ 1.9294745, 49.600651499999984 ], [ 1.9448825, 49.586269 ], [ 1.9542591, 49.5853228 ], [ 1.980694, 49.597624499999988 ], [ 1.9836683, 49.6040873 ], [ 1.977068, 49.610206 ], [ 1.9665578, 49.6025637 ], [ 1.9469815, 49.609834 ], [ 1.9264274, 49.6050233 ] ] ] } }
+]
+}

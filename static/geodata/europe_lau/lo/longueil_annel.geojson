@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "longueil_annel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Longueil-Annel", "metric_roundness": 73.18, "metric_rectangularity": 70.46, "metric_mobile_fit": 48.57, "metric_aspect_ratio": 1.077, "metric_area_km2": 14.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.867849, 49.458874499999986 ], [ 2.8744325, 49.4612705 ], [ 2.874711, 49.468015499999979 ], [ 2.861374, 49.479276 ], [ 2.8441975, 49.479439 ], [ 2.8443644, 49.4746 ], [ 2.8306655, 49.465742499999983 ], [ 2.8331547, 49.4606594 ], [ 2.8471595, 49.452855499999977 ], [ 2.8509015, 49.4536485 ], [ 2.8506817, 49.456797399999985 ], [ 2.8607819, 49.458546299999988 ], [ 2.8654, 49.455247 ], [ 2.867849, 49.458874499999986 ] ] ] } }
+]
+}

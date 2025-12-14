@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_albrechtice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velké Albrechtice", "metric_roundness": 52.87, "metric_rectangularity": 61.64, "metric_mobile_fit": 64.87, "metric_aspect_ratio": 0.914, "metric_area_km2": 31.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0261005, 49.7320785 ], [ 18.0633304, 49.727323399999989 ], [ 18.0839913, 49.737773799999985 ], [ 18.089347, 49.743254500000013 ], [ 18.0733912, 49.7463681 ], [ 18.0687114, 49.7527302 ], [ 18.0476275, 49.761299 ], [ 18.0436782, 49.764526 ], [ 18.0415898, 49.7717721 ], [ 18.0353104, 49.7731888 ], [ 18.0288766, 49.763348199999989 ], [ 18.0244785, 49.7463395 ], [ 18.0261005, 49.7320785 ] ] ] } }
+]
+}

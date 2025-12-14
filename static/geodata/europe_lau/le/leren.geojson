@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "leren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Léren", "metric_roundness": 46.79, "metric_rectangularity": 75.43, "metric_mobile_fit": 2.92, "metric_aspect_ratio": 1.533, "metric_area_km2": 8.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0594398, 43.4934845 ], [ -1.0269125, 43.50404 ], [ -1.0315098, 43.509223 ], [ -1.0427727, 43.508903099999984 ], [ -1.0471613, 43.5133926 ], [ -1.0517091, 43.51018 ], [ -1.0561869, 43.5119351 ], [ -1.068996, 43.50845 ], [ -1.0685716, 43.5026436 ], [ -1.063335, 43.494748 ], [ -1.0594398, 43.4934845 ] ] ] } }
+]
+}

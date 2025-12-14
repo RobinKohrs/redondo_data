@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kukels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kükels", "metric_roundness": 61.4, "metric_rectangularity": 81.17, "metric_mobile_fit": 63.23, "metric_aspect_ratio": 0.93, "metric_area_km2": 24.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.2226595, 53.884652 ], [ 10.2299589, 53.8819316 ], [ 10.2452493, 53.881852 ], [ 10.2520969, 53.8854131 ], [ 10.2491738, 53.889050499999989 ], [ 10.251403, 53.8913005 ], [ 10.2409925, 53.9023906 ], [ 10.237646, 53.9113705 ], [ 10.207458, 53.9117615 ], [ 10.2036015, 53.9017005 ], [ 10.2049585, 53.881043 ], [ 10.2151055, 53.882405 ], [ 10.2226595, 53.884652 ] ] ] } }
+]
+}

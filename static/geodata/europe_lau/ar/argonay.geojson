@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "argonay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Argonay", "metric_roundness": 47.86, "metric_rectangularity": 72.26, "metric_mobile_fit": 47.82, "metric_aspect_ratio": 1.084, "metric_area_km2": 10.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1593111, 45.9600193 ], [ 6.1371135, 45.952392499999981 ], [ 6.1288149, 45.9434316 ], [ 6.132892, 45.935921699999973 ], [ 6.1421441, 45.9349801 ], [ 6.1515532, 45.939624099999989 ], [ 6.155803, 45.938924 ], [ 6.1656229, 45.9497789 ], [ 6.167863, 45.958150499999981 ], [ 6.1593111, 45.9600193 ] ] ] } }
+]
+}

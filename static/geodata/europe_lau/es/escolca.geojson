@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "escolca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Escolca", "metric_roundness": 59.45, "metric_rectangularity": 73.73, "metric_mobile_fit": 74.54, "metric_aspect_ratio": 0.817, "metric_area_km2": 17.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1519555, 39.684262699999977 ], [ 9.1463987, 39.695875799999982 ], [ 9.1286044, 39.7094856 ], [ 9.11762, 39.712338 ], [ 9.1101672, 39.684032599999988 ], [ 9.119565, 39.675243 ], [ 9.1378379, 39.6729869 ], [ 9.147457, 39.6774985 ], [ 9.1519555, 39.684262699999977 ] ] ] } }
+]
+}

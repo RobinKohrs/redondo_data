@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_aurence_cazaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Aurence-Cazaux", "metric_roundness": 47.51, "metric_rectangularity": 71.89, "metric_mobile_fit": 77.46, "metric_aspect_ratio": 0.788, "metric_area_km2": 18.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.444855, 43.3570384 ], [ 0.4473395, 43.36536 ], [ 0.4451804, 43.368416499999988 ], [ 0.4473066, 43.3744219 ], [ 0.4456405, 43.385609 ], [ 0.445303, 43.392331 ], [ 0.435178, 43.3867333 ], [ 0.4157605, 43.384101 ], [ 0.4064952, 43.365010399999989 ], [ 0.410109, 43.3546515 ], [ 0.418092, 43.3575715 ], [ 0.424252, 43.3579055 ], [ 0.426871, 43.3569635 ], [ 0.444855, 43.3570384 ] ] ] } }
+]
+}

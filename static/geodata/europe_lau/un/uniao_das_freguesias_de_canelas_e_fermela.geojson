@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_canelas_e_fermela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Canelas e Fermelã", "metric_roundness": 43.86, "metric_rectangularity": 56.03, "metric_mobile_fit": 13.67, "metric_aspect_ratio": 1.426, "metric_area_km2": 40.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5114785, 40.716985 ], [ -8.5182316, 40.7290492 ], [ -8.5243157, 40.7321485 ], [ -8.527961, 40.741483 ], [ -8.5541421, 40.730534399999982 ], [ -8.5628578, 40.723756 ], [ -8.5717728, 40.7226597 ], [ -8.575389, 40.7186553 ], [ -8.5937733, 40.7191783 ], [ -8.603852, 40.7230105 ], [ -8.6085314, 40.7164785 ], [ -8.6078102, 40.7128174 ], [ -8.5879556, 40.7106016 ], [ -8.579761, 40.703772899999983 ], [ -8.5715315, 40.7026341 ], [ -8.5642936, 40.6907785 ], [ -8.537196, 40.689889 ], [ -8.5114785, 40.716985 ] ] ] } }
+]
+}

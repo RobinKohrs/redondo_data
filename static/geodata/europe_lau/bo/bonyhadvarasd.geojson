@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonyhadvarasd",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonyhádvarasd", "metric_roundness": 61.65, "metric_rectangularity": 69.39, "metric_mobile_fit": 61.69, "metric_aspect_ratio": 0.946, "metric_area_km2": 21.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.4641175, 46.366935499999983 ], [ 18.4741473, 46.3523493 ], [ 18.4878518, 46.346693399999985 ], [ 18.492378, 46.340336 ], [ 18.5058341, 46.3421017 ], [ 18.5024704, 46.350194399999985 ], [ 18.5172226, 46.3586816 ], [ 18.507667, 46.3790925 ], [ 18.4840966, 46.3730457 ], [ 18.4762965, 46.374768 ], [ 18.4641175, 46.366935499999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agias_kyriakes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγίας Κυριακής", "metric_roundness": 51.8, "metric_rectangularity": 71.11, "metric_mobile_fit": 11.59, "metric_aspect_ratio": 1.447, "metric_area_km2": 30.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0817072, 40.279679 ], [ 22.0897374, 40.2721591 ], [ 22.1050615, 40.2643555 ], [ 22.131577, 40.2676018 ], [ 22.1423726, 40.2724267 ], [ 22.154565, 40.2827335 ], [ 22.1561939, 40.2892274 ], [ 22.1435423, 40.2900484 ], [ 22.1342265, 40.3056485 ], [ 22.1144239, 40.2936629 ], [ 22.1062326, 40.2933838 ], [ 22.099986, 40.297651 ], [ 22.077891, 40.292599 ], [ 22.0817072, 40.279679 ] ] ] } }
+]
+}

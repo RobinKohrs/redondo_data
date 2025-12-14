@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "enzen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Enzen", "metric_roundness": 34.43, "metric_rectangularity": 73.62, "metric_mobile_fit": 74.92, "metric_aspect_ratio": 0.813, "metric_area_km2": 3.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.379401, 49.9118685 ], [ 6.3799424, 49.9168279 ], [ 6.374031, 49.9235505 ], [ 6.3690571, 49.924048399999982 ], [ 6.3613475, 49.930542 ], [ 6.356355, 49.927643499999981 ], [ 6.3598084, 49.921685499999981 ], [ 6.372558, 49.912089 ], [ 6.379401, 49.9118685 ] ] ] } }
+]
+}

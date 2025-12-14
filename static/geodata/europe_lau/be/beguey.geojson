@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beguey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Béguey", "metric_roundness": 48.03, "metric_rectangularity": 73.14, "metric_mobile_fit": 77.82, "metric_aspect_ratio": 0.784, "metric_area_km2": 6.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3339625, 44.6477165 ], [ -0.332916, 44.645581499999984 ], [ -0.3327705, 44.6422465 ], [ -0.328347, 44.636720499999988 ], [ -0.3217876, 44.6390859 ], [ -0.3173186, 44.6473211 ], [ -0.3119015, 44.650796 ], [ -0.31716, 44.6554385 ], [ -0.3191595, 44.658009499999984 ], [ -0.3211, 44.6590425 ], [ -0.3223085, 44.6619375 ], [ -0.339702, 44.6519955 ], [ -0.3339625, 44.6477165 ] ] ] } }
+]
+}

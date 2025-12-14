@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moulins_sur_ouanne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moulins-sur-Ouanne", "metric_roundness": 44.88, "metric_rectangularity": 64.75, "metric_mobile_fit": -0.8, "metric_aspect_ratio": 1.571, "metric_area_km2": 22.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.311173, 47.694601 ], [ 3.343477, 47.687356 ], [ 3.3505668, 47.7002981 ], [ 3.3618848, 47.69701 ], [ 3.3809335, 47.7055545 ], [ 3.3719557, 47.713025099999982 ], [ 3.3599498, 47.7160051 ], [ 3.3436637, 47.7172491 ], [ 3.337393, 47.713812299999987 ], [ 3.3280475, 47.7135275 ], [ 3.3225648, 47.7092325 ], [ 3.3140764, 47.708142099999982 ], [ 3.3119335, 47.696079499999982 ], [ 3.311173, 47.694601 ] ] ] } }
+]
+}

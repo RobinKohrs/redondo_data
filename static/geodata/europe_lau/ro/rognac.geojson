@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rognac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rognac", "metric_roundness": 49.2, "metric_rectangularity": 75.45, "metric_mobile_fit": 43.79, "metric_aspect_ratio": 1.125, "metric_area_km2": 34.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2179675, 43.487609899999988 ], [ 5.2234185, 43.479122499999988 ], [ 5.2487158, 43.4750235 ], [ 5.2595477, 43.4833915 ], [ 5.271654, 43.485675 ], [ 5.269577, 43.4954625 ], [ 5.2595477, 43.5000948 ], [ 5.2064595, 43.524615 ], [ 5.2040446, 43.514427299999987 ], [ 5.1947679, 43.5025976 ], [ 5.202792, 43.491173 ], [ 5.2179675, 43.487609899999988 ] ] ] } }
+]
+}

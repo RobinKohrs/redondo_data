@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lungavilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lungavilla", "metric_roundness": 60.19, "metric_rectangularity": 79.88, "metric_mobile_fit": 78.73, "metric_aspect_ratio": 0.775, "metric_area_km2": 14.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.070016, 45.0200695 ], [ 9.0850691, 45.0223835 ], [ 9.0973195, 45.029457 ], [ 9.098698, 45.0479285 ], [ 9.0713015, 45.050443 ], [ 9.0653777, 45.0446101 ], [ 9.0682615, 45.02382 ], [ 9.070016, 45.0200695 ] ] ] } }
+]
+}

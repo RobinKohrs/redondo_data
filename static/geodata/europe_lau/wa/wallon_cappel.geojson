@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wallon_cappel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wallon-Cappel", "metric_roundness": 42.06, "metric_rectangularity": 73.46, "metric_mobile_fit": 88.83, "metric_aspect_ratio": 0.451, "metric_area_km2": 13.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4794081, 50.7446904 ], [ 2.4717075, 50.738667 ], [ 2.4716295, 50.7381825 ], [ 2.468251, 50.7215575 ], [ 2.468178, 50.720975 ], [ 2.4816259, 50.7111315 ], [ 2.4869399, 50.7091096 ], [ 2.490853, 50.710687299999989 ], [ 2.4940005, 50.714972 ], [ 2.4941213, 50.7285976 ], [ 2.4883715, 50.745535499999988 ], [ 2.4794081, 50.7446904 ] ] ] } }
+]
+}

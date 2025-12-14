@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_neuville_en_beine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Neuville-en-Beine", "metric_roundness": 47.02, "metric_rectangularity": 73.56, "metric_mobile_fit": -27.8, "metric_aspect_ratio": 1.841, "metric_area_km2": 8.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1575029, 49.6689723 ], [ 3.1645216, 49.6745251 ], [ 3.172672, 49.669709 ], [ 3.1760388, 49.6707466 ], [ 3.1733242, 49.6749682 ], [ 3.177929, 49.678407 ], [ 3.1708315, 49.6841095 ], [ 3.166582, 49.683348 ], [ 3.143595, 49.681669 ], [ 3.1380105, 49.6771035 ], [ 3.135973, 49.6769065 ], [ 3.1343905, 49.6755055 ], [ 3.1343825, 49.67351 ], [ 3.1359035, 49.672172 ], [ 3.1366325, 49.668799 ], [ 3.1575029, 49.6689723 ] ] ] } }
+]
+}

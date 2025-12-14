@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "curmont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Curmont", "metric_roundness": 34.2, "metric_rectangularity": 64.56, "metric_mobile_fit": 56.95, "metric_aspect_ratio": 0.993, "metric_area_km2": 6.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.9569088, 48.2624864 ], [ 4.9385374, 48.2654106 ], [ 4.936466, 48.254592299999985 ], [ 4.9596973, 48.247689899999976 ], [ 4.9690335, 48.243530499999984 ], [ 4.9690975, 48.248567 ], [ 4.9684985, 48.250064499999986 ], [ 4.9597275, 48.2586355 ], [ 4.9596973, 48.258702799999988 ], [ 4.9569088, 48.2624864 ] ] ] } }
+]
+}

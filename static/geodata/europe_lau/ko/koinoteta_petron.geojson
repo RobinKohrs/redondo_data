@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_petron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πετρών", "metric_roundness": 45.44, "metric_rectangularity": 69.54, "metric_mobile_fit": 65.65, "metric_aspect_ratio": 0.906, "metric_area_km2": 44.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6995875, 40.7375509 ], [ 21.713128, 40.75632 ], [ 21.7131266, 40.7627467 ], [ 21.710566, 40.7650757 ], [ 21.6865688, 40.763358599999982 ], [ 21.6613312, 40.7481032 ], [ 21.638353, 40.7146735 ], [ 21.650095, 40.70461250000001 ], [ 21.6706892, 40.702533 ], [ 21.69941, 40.7180445 ], [ 21.6995875, 40.7375509 ] ] ] } }
+]
+}

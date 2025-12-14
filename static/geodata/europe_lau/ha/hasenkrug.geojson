@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hasenkrug",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hasenkrug", "metric_roundness": 31.88, "metric_rectangularity": 45.04, "metric_mobile_fit": 69.53, "metric_aspect_ratio": 0.867, "metric_area_km2": 15.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.836516, 53.9974447 ], [ 9.8370915, 53.9908486 ], [ 9.8288746, 53.9898895 ], [ 9.8281065, 53.9794316 ], [ 9.835538, 53.979185 ], [ 9.8763315, 53.9834375 ], [ 9.8566497, 53.984722099999985 ], [ 9.8539864, 53.990943599999987 ], [ 9.8554403, 53.99478 ], [ 9.8765595, 54.0088855 ], [ 9.8725635, 54.010006 ], [ 9.8643295, 54.01203049999998 ], [ 9.836516, 53.9974447 ] ] ] } }
+]
+}

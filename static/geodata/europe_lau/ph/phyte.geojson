@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "phyte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Φύτη", "metric_roundness": 36.06, "metric_rectangularity": 56.58, "metric_mobile_fit": 78.36, "metric_aspect_ratio": 0.779, "metric_area_km2": 7.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.5289225, 34.9478775 ], [ 32.5350137, 34.9328903 ], [ 32.531977, 34.923916 ], [ 32.5416558, 34.9211656 ], [ 32.5484865, 34.9150535 ], [ 32.548555, 34.915090499999984 ], [ 32.5604245, 34.936938499999989 ], [ 32.5567671, 34.9350157 ], [ 32.5455006, 34.9384483 ], [ 32.5378483, 34.9454309 ], [ 32.528778, 34.9483645 ], [ 32.5289225, 34.9478775 ] ] ] } }
+]
+}

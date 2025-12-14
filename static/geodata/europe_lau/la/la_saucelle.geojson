@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_saucelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Saucelle", "metric_roundness": 70.67, "metric_rectangularity": 77.61, "metric_mobile_fit": 60.8, "metric_aspect_ratio": 0.954, "metric_area_km2": 32.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0137402, 48.649373399999988 ], [ 1.001268, 48.637518 ], [ 0.9996969, 48.6275021 ], [ 0.9960495, 48.624189 ], [ 1.010639, 48.611542499999985 ], [ 1.0134055, 48.6093255 ], [ 1.017253, 48.6073005 ], [ 1.0234875, 48.605257 ], [ 1.049363, 48.623024199999989 ], [ 1.0597561, 48.6266052 ], [ 1.055037, 48.633724 ], [ 1.0559468, 48.636615899999981 ], [ 1.0466419, 48.6444182 ], [ 1.03019, 48.647163 ], [ 1.0137402, 48.649373399999988 ] ] ] } }
+]
+}

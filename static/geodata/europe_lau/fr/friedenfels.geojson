@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "friedenfels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Friedenfels", "metric_roundness": 58.57, "metric_rectangularity": 66.11, "metric_mobile_fit": 36.1, "metric_aspect_ratio": 1.201, "metric_area_km2": 37.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.1267239, 49.8951843 ], [ 12.1164705, 49.9105255 ], [ 12.0839152, 49.9070052 ], [ 12.0690958, 49.895341599999988 ], [ 12.057802, 49.8968645 ], [ 12.058295, 49.888881199999979 ], [ 12.0678905, 49.886353799999988 ], [ 12.070952, 49.88042249999998 ], [ 12.0787965, 49.884255799999984 ], [ 12.11453, 49.867798499999971 ], [ 12.133401, 49.878094 ], [ 12.1374829, 49.8877056 ], [ 12.133449, 49.893461 ], [ 12.1267239, 49.8951843 ] ] ] } }
+]
+}

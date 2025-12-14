@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "keidelheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Keidelheim", "metric_roundness": 53.8, "metric_rectangularity": 77.08, "metric_mobile_fit": 54.3, "metric_aspect_ratio": 1.019, "metric_area_km2": 6.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4854079, 49.9806996 ], [ 7.4949988, 49.9830748 ], [ 7.501213, 49.980217 ], [ 7.50551, 49.981383499999986 ], [ 7.5039125, 49.984124 ], [ 7.5023273, 49.986804299999989 ], [ 7.5049685, 49.9898604 ], [ 7.501309, 49.9972385 ], [ 7.4785195, 49.9954805 ], [ 7.4816695, 49.988021499999988 ], [ 7.4854079, 49.9806996 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_paulet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Paulet", "metric_roundness": 67.72, "metric_rectangularity": 71.35, "metric_mobile_fit": 36.21, "metric_aspect_ratio": 1.2, "metric_area_km2": 13.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8886817, 43.3894418 ], [ 1.895588, 43.396575 ], [ 1.9032839, 43.407082599999988 ], [ 1.897621, 43.414269 ], [ 1.8908992, 43.4162519 ], [ 1.8613215, 43.41444 ], [ 1.8589896, 43.4097648 ], [ 1.8654097, 43.4041093 ], [ 1.8659721, 43.3960898 ], [ 1.8692535, 43.393274 ], [ 1.8886817, 43.3894418 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stranka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stránka", "metric_roundness": 38.64, "metric_rectangularity": 54.09, "metric_mobile_fit": 6.27, "metric_aspect_ratio": 1.5, "metric_area_km2": 21.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.7072081, 50.4144645 ], [ 14.6985075, 50.422290499999988 ], [ 14.6880282, 50.427974 ], [ 14.6771097, 50.4294444 ], [ 14.668868, 50.438772499999985 ], [ 14.6432715, 50.4326132 ], [ 14.6469666, 50.424900099999988 ], [ 14.639107, 50.416673 ], [ 14.668763, 50.409739 ], [ 14.6802867, 50.4165807 ], [ 14.708978, 50.4090925 ], [ 14.7072081, 50.4144645 ] ] ] } }
+]
+}

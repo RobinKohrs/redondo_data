@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_poterie_mathieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Poterie-Mathieu", "metric_roundness": 39.38, "metric_rectangularity": 59.5, "metric_mobile_fit": -10.92, "metric_aspect_ratio": 1.672, "metric_area_km2": 15.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5432435, 49.239417 ], [ 0.5503885, 49.245113499999974 ], [ 0.5412354, 49.249226499999985 ], [ 0.5383275, 49.2634105 ], [ 0.534841, 49.263009 ], [ 0.532067, 49.263397499999982 ], [ 0.526133, 49.262274 ], [ 0.519689, 49.263561 ], [ 0.5098305, 49.260841 ], [ 0.5071665, 49.258554 ], [ 0.5049985, 49.257712 ], [ 0.5012945, 49.257646 ], [ 0.4900165, 49.257788 ], [ 0.4885555, 49.2545215 ], [ 0.4889955, 49.251832 ], [ 0.5432435, 49.239417 ] ] ] } }
+]
+}

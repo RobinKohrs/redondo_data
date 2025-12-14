@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_skepastes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σκεπαστής", "metric_roundness": 38.84, "metric_rectangularity": 71.12, "metric_mobile_fit": 87.28, "metric_aspect_ratio": 0.69, "metric_area_km2": 11.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.350765299999988, 38.848097399999986 ], [ 23.3558734, 38.8439286 ], [ 23.3578, 38.820293 ], [ 23.3694723, 38.8227105 ], [ 23.3816285, 38.821315 ], [ 23.3781625, 38.847711 ], [ 23.349484, 38.856597 ], [ 23.350765299999988, 38.848097399999986 ] ] ] } }
+]
+}

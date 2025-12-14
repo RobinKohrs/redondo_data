@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valadares",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valadares", "metric_roundness": 58.11, "metric_rectangularity": 75.39, "metric_mobile_fit": 49.78, "metric_aspect_ratio": 1.065, "metric_area_km2": 35.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.2199945, 40.797092 ], [ -8.2203162, 40.7917604 ], [ -8.2408701, 40.7707263 ], [ -8.2447895, 40.760195 ], [ -8.2313355, 40.75891 ], [ -8.2247127, 40.7516902 ], [ -8.2166783, 40.7481079 ], [ -8.2082313, 40.751379899999982 ], [ -8.2016258, 40.747595399999987 ], [ -8.1873442, 40.745983599999988 ], [ -8.176548, 40.749531 ], [ -8.1729352, 40.7601994 ], [ -8.1848545, 40.778281 ], [ -8.2199945, 40.797092 ] ] ] } }
+]
+}

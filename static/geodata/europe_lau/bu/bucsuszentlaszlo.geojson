@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bucsuszentlaszlo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Búcsúszentlászló", "metric_roundness": 32.33, "metric_rectangularity": 58.94, "metric_mobile_fit": 98.73, "metric_aspect_ratio": 0.55, "metric_area_km2": 2.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9244861, 46.780847799999982 ], [ 16.933552, 46.777232499999975 ], [ 16.9338508, 46.78525 ], [ 16.9402507, 46.789056 ], [ 16.9354125, 46.7928235 ], [ 16.9290689, 46.7973202 ], [ 16.9280165, 46.789563099999981 ], [ 16.924121, 46.785299 ], [ 16.9244861, 46.780847799999982 ] ] ] } }
+]
+}

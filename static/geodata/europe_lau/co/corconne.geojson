@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "corconne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Corconne", "metric_roundness": 65.82, "metric_rectangularity": 79.1, "metric_mobile_fit": 76.72, "metric_aspect_ratio": 0.795, "metric_area_km2": 25.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.946924, 43.8926535 ], [ 3.9325915, 43.894519 ], [ 3.9248985, 43.888419 ], [ 3.923037, 43.8859153 ], [ 3.9195965, 43.881288 ], [ 3.9180456, 43.8693058 ], [ 3.9221025, 43.8583795 ], [ 3.9279975, 43.855204 ], [ 3.937904, 43.8535745 ], [ 3.9589885, 43.853505 ], [ 3.9632937, 43.861667299999986 ], [ 3.9582975, 43.882908 ], [ 3.948828, 43.891816 ], [ 3.946924, 43.8926535 ] ] ] } }
+]
+}

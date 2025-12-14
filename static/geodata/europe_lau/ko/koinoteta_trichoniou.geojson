@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_trichoniou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Τριχωνίου", "metric_roundness": 41.58, "metric_rectangularity": 78.82, "metric_mobile_fit": 88.55, "metric_aspect_ratio": 0.448, "metric_area_km2": 7.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.5396425, 38.5674365 ], [ 21.532323, 38.567367 ], [ 21.5286062, 38.556269799999974 ], [ 21.5314402, 38.5368066 ], [ 21.5365082, 38.5339695 ], [ 21.5460825, 38.5358845 ], [ 21.5440048, 38.5511814 ], [ 21.547776, 38.566717 ], [ 21.5396425, 38.5674365 ] ] ] } }
+]
+}

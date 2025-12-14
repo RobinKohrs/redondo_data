@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grimmenstein",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grimmenstein", "metric_roundness": 63.08, "metric_rectangularity": 71.69, "metric_mobile_fit": 71.54, "metric_aspect_ratio": 0.847, "metric_area_km2": 32.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1323866, 47.6269191 ], [ 16.1283415, 47.637619 ], [ 16.0919786, 47.6416968 ], [ 16.0807898, 47.6347247 ], [ 16.0797695, 47.620011 ], [ 16.0808041, 47.612286399999981 ], [ 16.1112015, 47.5947155 ], [ 16.124362, 47.612588 ], [ 16.125533, 47.613347499999982 ], [ 16.1283365, 47.6175155 ], [ 16.1349711, 47.6181577 ], [ 16.138813, 47.623284 ], [ 16.1323866, 47.6269191 ] ] ] } }
+]
+}

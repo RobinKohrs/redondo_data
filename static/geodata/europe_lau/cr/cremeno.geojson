@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cremeno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cremeno", "metric_roundness": 65.32, "metric_rectangularity": 70.29, "metric_mobile_fit": 70.51, "metric_aspect_ratio": 0.857, "metric_area_km2": 28.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4641239, 45.9000404 ], [ 9.476099, 45.895314299999988 ], [ 9.484025, 45.8963245 ], [ 9.4877933, 45.9015225 ], [ 9.4892779, 45.9113971 ], [ 9.4825531, 45.923860399999974 ], [ 9.4754578, 45.929444 ], [ 9.4773185, 45.937144 ], [ 9.4714564, 45.9394182 ], [ 9.4519975, 45.9326055 ], [ 9.438058, 45.922735 ], [ 9.434924, 45.9122114 ], [ 9.4499455, 45.899803 ], [ 9.4641239, 45.9000404 ] ] ] } }
+]
+}

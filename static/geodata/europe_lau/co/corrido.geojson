@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "corrido",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Corrido", "metric_roundness": 55.91, "metric_rectangularity": 74.1, "metric_mobile_fit": 42.12, "metric_aspect_ratio": 1.141, "metric_area_km2": 12.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1127186, 46.050793 ], [ 9.1189344, 46.045247 ], [ 9.140195, 46.042833 ], [ 9.1453851, 46.053004199999982 ], [ 9.1237695, 46.070545 ], [ 9.09981, 46.0554665 ], [ 9.1127186, 46.050793 ] ] ] } }
+]
+}

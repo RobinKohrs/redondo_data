@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tocqueville_en_caux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tocqueville-en-Caux", "metric_roundness": 24.85, "metric_rectangularity": 74.47, "metric_mobile_fit": -158.24, "metric_aspect_ratio": 3.145, "metric_area_km2": 7.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.887681, 49.784944 ], [ 0.883862, 49.784584 ], [ 0.8829185, 49.78169 ], [ 0.882785, 49.7790835 ], [ 0.9044125, 49.7779135 ], [ 0.9340955, 49.78236 ], [ 0.937973, 49.787119 ], [ 0.9144683, 49.789244199999985 ], [ 0.9053905, 49.787013 ], [ 0.887681, 49.784944 ] ] ] } }
+]
+}

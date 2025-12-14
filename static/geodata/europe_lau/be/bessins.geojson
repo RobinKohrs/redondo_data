@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bessins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bessins", "metric_roundness": 66.49, "metric_rectangularity": 77.19, "metric_mobile_fit": 68.03, "metric_aspect_ratio": 0.882, "metric_area_km2": 8.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2527925, 45.196818 ], [ 5.2593895, 45.193953499999985 ], [ 5.2595477, 45.1937693 ], [ 5.2754739, 45.1952408 ], [ 5.277287, 45.199900599999985 ], [ 5.274719, 45.217557 ], [ 5.2595477, 45.2137805 ], [ 5.251896, 45.210794499999984 ], [ 5.25104, 45.207576 ], [ 5.2478205, 45.204456 ], [ 5.247501, 45.2029785 ], [ 5.248243, 45.201339499999989 ], [ 5.2527925, 45.196818 ] ] ] } }
+]
+}

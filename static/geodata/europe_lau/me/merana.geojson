@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merana", "metric_roundness": 41.94, "metric_rectangularity": 63.17, "metric_mobile_fit": 47.22, "metric_aspect_ratio": 1.09, "metric_area_km2": 17.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2725868, 44.5069677 ], [ 8.2825303, 44.5076755 ], [ 8.2921747, 44.502817199999988 ], [ 8.3042853, 44.5033369 ], [ 8.3147855, 44.4963125 ], [ 8.3205499, 44.5010039 ], [ 8.3189728, 44.5053313 ], [ 8.3014747, 44.5132756 ], [ 8.2999397, 44.517009699999988 ], [ 8.3042824, 44.5200392 ], [ 8.3032757, 44.5219455 ], [ 8.280497, 44.534867 ], [ 8.261596, 44.519424499999978 ], [ 8.2725868, 44.5069677 ] ] ] } }
+]
+}

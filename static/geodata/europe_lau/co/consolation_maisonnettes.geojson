@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "consolation_maisonnettes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Consolation-Maisonnettes", "metric_roundness": 50.65, "metric_rectangularity": 57.42, "metric_mobile_fit": 69.32, "metric_aspect_ratio": 0.869, "metric_area_km2": 8.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6033095, 47.166623 ], [ 6.600677, 47.170054 ], [ 6.5950553, 47.1582497 ], [ 6.5868464, 47.149783299999989 ], [ 6.5875864, 47.145573099999986 ], [ 6.5920053, 47.1432312 ], [ 6.5979324, 47.1455624 ], [ 6.6125948, 47.1439655 ], [ 6.6211355, 47.150015499999981 ], [ 6.6150568, 47.151069 ], [ 6.609677, 47.1661175 ], [ 6.6033095, 47.166623 ] ] ] } }
+]
+}

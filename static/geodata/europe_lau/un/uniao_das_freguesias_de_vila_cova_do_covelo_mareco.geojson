@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_vila_cova_do_covelo_mareco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Vila Cova do Covelo/Mareco", "metric_roundness": 39.57, "metric_rectangularity": 68.58, "metric_mobile_fit": 91.0, "metric_aspect_ratio": 0.652, "metric_area_km2": 21.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5957295, 40.6924895 ], [ -7.614601, 40.679129 ], [ -7.6191341, 40.673056099999982 ], [ -7.6165646, 40.6605326 ], [ -7.6246039, 40.6554812 ], [ -7.625833, 40.64386 ], [ -7.6054745, 40.6452595 ], [ -7.595645, 40.646039 ], [ -7.5964893, 40.648372699999989 ], [ -7.5869514, 40.659224199999983 ], [ -7.5835659, 40.6738933 ], [ -7.5899005, 40.688884699999981 ], [ -7.5880565, 40.6929965 ], [ -7.5957295, 40.6924895 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_malamaton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μαλαμάτων", "metric_roundness": 35.87, "metric_rectangularity": 47.37, "metric_mobile_fit": 83.76, "metric_aspect_ratio": 0.725, "metric_area_km2": 14.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.8745445, 38.403408 ], [ 21.8689795, 38.3976225 ], [ 21.866524, 38.395624 ], [ 21.863592, 38.392432 ], [ 21.851717, 38.3745195 ], [ 21.8773292, 38.3687455 ], [ 21.8962345, 38.371406 ], [ 21.8852995, 38.388331399999984 ], [ 21.8828185, 38.4053945 ], [ 21.8838383, 38.4110387 ], [ 21.880939, 38.416879500000015 ], [ 21.8745445, 38.403408 ] ] ] } }
+]
+}

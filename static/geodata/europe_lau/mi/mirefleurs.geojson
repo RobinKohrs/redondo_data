@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mirefleurs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mirefleurs", "metric_roundness": 80.11, "metric_rectangularity": 76.54, "metric_mobile_fit": 56.36, "metric_aspect_ratio": 0.999, "metric_area_km2": 18.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2408991, 45.679456099999989 ], [ 3.2478505, 45.685768 ], [ 3.244705, 45.701359 ], [ 3.2420245, 45.7022805 ], [ 3.2406995, 45.7037305 ], [ 3.237025, 45.702771 ], [ 3.2298485, 45.703728 ], [ 3.224617, 45.7057035 ], [ 3.215462, 45.703391499999988 ], [ 3.213424, 45.70618 ], [ 3.2071978, 45.702113 ], [ 3.2026154, 45.6843441 ], [ 3.2221245, 45.674547499999981 ], [ 3.2408991, 45.679456099999989 ] ] ] } }
+]
+}

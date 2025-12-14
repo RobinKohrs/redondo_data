@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dricourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dricourt", "metric_roundness": 31.68, "metric_rectangularity": 57.18, "metric_mobile_fit": 63.04, "metric_aspect_ratio": 0.932, "metric_area_km2": 17.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.513033, 49.377982499999987 ], [ 4.5207763, 49.381037599999985 ], [ 4.5211652, 49.3863007 ], [ 4.532925, 49.392765099999984 ], [ 4.5322764, 49.4018526 ], [ 4.5491525, 49.409648499999982 ], [ 4.541758, 49.4128735 ], [ 4.495226, 49.397098499999984 ], [ 4.4955265, 49.37522 ], [ 4.513033, 49.377982499999987 ] ] ] } }
+]
+}

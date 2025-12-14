@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rontalon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rontalon", "metric_roundness": 56.35, "metric_rectangularity": 67.86, "metric_mobile_fit": 10.78, "metric_aspect_ratio": 1.455, "metric_area_km2": 24.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5877941, 45.66245 ], [ 4.5952206, 45.6560322 ], [ 4.591301, 45.646555 ], [ 4.593271, 45.646065 ], [ 4.594921, 45.644051 ], [ 4.596813, 45.64348649999998 ], [ 4.6002335, 45.6456635 ], [ 4.6100435, 45.638930499999987 ], [ 4.6262299, 45.643232199999986 ], [ 4.6521185, 45.655529499999986 ], [ 4.6545495, 45.6584045 ], [ 4.6361128, 45.669824 ], [ 4.5994915, 45.6710055 ], [ 4.5877941, 45.66245 ] ] ] } }
+]
+}

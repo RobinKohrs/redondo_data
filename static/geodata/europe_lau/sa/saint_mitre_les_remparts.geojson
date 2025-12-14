@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_mitre_les_remparts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Mitre-les-Remparts", "metric_roundness": 51.43, "metric_rectangularity": 68.94, "metric_mobile_fit": 33.14, "metric_aspect_ratio": 1.231, "metric_area_km2": 39.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.0174414, 43.4386642 ], [ 5.0214245, 43.432883 ], [ 5.0375795, 43.436728599999981 ], [ 5.0439655, 43.442028199999989 ], [ 5.0542405, 43.442998 ], [ 5.0536253, 43.4591453 ], [ 5.0470859, 43.4671369 ], [ 5.0382282, 43.470405099999986 ], [ 5.006005, 43.469665 ], [ 4.9988225, 43.4699861 ], [ 4.9875688, 43.479263799999984 ], [ 4.9759015, 43.474128 ], [ 4.9796748, 43.4629161 ], [ 4.9755808, 43.4522184 ], [ 4.980825, 43.445298 ], [ 5.0174414, 43.4386642 ] ] ] } }
+]
+}

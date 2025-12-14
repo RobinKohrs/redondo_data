@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_curopos_e_vale_de_janeiro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Curopos e Vale de Janeiro", "metric_roundness": 58.61, "metric_rectangularity": 67.77, "metric_mobile_fit": 54.39, "metric_aspect_ratio": 1.019, "metric_area_km2": 65.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.0710325, 41.7599984 ], [ -7.069825, 41.765520699999989 ], [ -7.0615335, 41.775662499999989 ], [ -7.0611892, 41.779356199999988 ], [ -7.0697905, 41.788349 ], [ -7.0787751, 41.806963599999989 ], [ -7.0778785, 41.818461 ], [ -7.0906618, 41.817018499999989 ], [ -7.107595, 41.8050154 ], [ -7.1258204, 41.8054129 ], [ -7.1346885, 41.808695 ], [ -7.1372595, 41.8017255 ], [ -7.158765, 41.7788865 ], [ -7.1168721, 41.759260399999988 ], [ -7.114808, 41.7582745 ], [ -7.0868925, 41.7470325 ], [ -7.0828605, 41.748751399999989 ], [ -7.079264, 41.7557385 ], [ -7.0710325, 41.7599984 ] ] ] } }
+]
+}

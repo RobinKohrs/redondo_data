@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "acquedolci",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Acquedolci", "metric_roundness": 47.12, "metric_rectangularity": 62.71, "metric_mobile_fit": 39.03, "metric_aspect_ratio": 1.172, "metric_area_km2": 21.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5883192, 38.0599275 ], [ 14.5530315, 38.058262 ], [ 14.5600287, 38.046194 ], [ 14.558363, 38.032619 ], [ 14.5826545, 38.0276074 ], [ 14.5849593, 38.0297696 ], [ 14.5806636, 38.0364669 ], [ 14.5842602, 38.0418707 ], [ 14.6151545, 38.044296 ], [ 14.6128833, 38.0598812 ], [ 14.6084495, 38.0693405 ], [ 14.5883192, 38.0599275 ] ] ] } }
+]
+}

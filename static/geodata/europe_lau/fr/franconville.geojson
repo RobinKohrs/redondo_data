@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "franconville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Franconville", "metric_roundness": 68.33, "metric_rectangularity": 71.66, "metric_mobile_fit": 58.06, "metric_aspect_ratio": 0.982, "metric_area_km2": 10.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4697431, 48.496653599999973 ], [ 6.4708975, 48.502903199999977 ], [ 6.4634475, 48.5078746 ], [ 6.452558, 48.5092645 ], [ 6.4482413, 48.5134436 ], [ 6.443001, 48.510912 ], [ 6.4361506, 48.5037671 ], [ 6.4398216, 48.497570499999988 ], [ 6.434251, 48.495065 ], [ 6.4407215, 48.488713499999989 ], [ 6.4515545, 48.4888105 ], [ 6.4697431, 48.496653599999973 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luquin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Luquin", "metric_roundness": 26.65, "metric_rectangularity": 61.21, "metric_mobile_fit": 78.88, "metric_aspect_ratio": 0.351, "metric_area_km2": 8.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.148337, 42.524433 ], [ -2.14716, 42.52866 ], [ -2.1447385, 42.556949499999988 ], [ -2.1505972, 42.5601628 ], [ -2.158189, 42.5594865 ], [ -2.1652507, 42.553101399999989 ], [ -2.1593874, 42.544828699999989 ], [ -2.160883, 42.5388601 ], [ -2.1572572, 42.5255623 ], [ -2.1481805, 42.517135 ], [ -2.148337, 42.524433 ] ] ] } }
+]
+}

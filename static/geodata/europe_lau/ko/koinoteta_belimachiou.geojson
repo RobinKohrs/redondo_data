@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_belimachiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βελιμαχίου", "metric_roundness": 46.98, "metric_rectangularity": 66.47, "metric_mobile_fit": 79.78, "metric_aspect_ratio": 0.765, "metric_area_km2": 18.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7432124, 38.0006587 ], [ 21.733417, 37.994813199999989 ], [ 21.734355, 37.97445 ], [ 21.7401938, 37.971697899999988 ], [ 21.7492402, 37.9610857 ], [ 21.776338, 37.959959 ], [ 21.7653366, 37.9735795 ], [ 21.7689466, 37.987367 ], [ 21.7667875, 37.9949673 ], [ 21.7596493, 37.9959856 ], [ 21.7467344, 38.0041974 ], [ 21.742728, 38.0029065 ], [ 21.7432124, 38.0006587 ] ] ] } }
+]
+}

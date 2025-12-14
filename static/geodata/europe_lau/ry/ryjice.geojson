@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ryjice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ryjice", "metric_roundness": 26.28, "metric_rectangularity": 58.12, "metric_mobile_fit": 96.18, "metric_aspect_ratio": 0.524, "metric_area_km2": 3.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0829718, 50.703602399999987 ], [ 14.0889906, 50.698086799999984 ], [ 14.0904555, 50.683511 ], [ 14.0976932, 50.683519799999985 ], [ 14.10176, 50.6911445 ], [ 14.09035, 50.7044308 ], [ 14.083812, 50.706212 ], [ 14.0829718, 50.703602399999987 ] ] ] } }
+]
+}

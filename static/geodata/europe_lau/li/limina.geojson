@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "limina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Limina", "metric_roundness": 58.42, "metric_rectangularity": 67.05, "metric_mobile_fit": 33.55, "metric_aspect_ratio": 1.227, "metric_area_km2": 15.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.2586525, 37.953923399999987 ], [ 15.2515962, 37.9570202 ], [ 15.2529189, 37.9465691 ], [ 15.249991, 37.9382475 ], [ 15.2557209, 37.9357176 ], [ 15.2643972, 37.9372906 ], [ 15.2751885, 37.926439 ], [ 15.2810335, 37.925514 ], [ 15.299009, 37.948854 ], [ 15.2977393, 37.953615 ], [ 15.2926569, 37.9562141 ], [ 15.266115, 37.9564625 ], [ 15.2586525, 37.953923399999987 ] ] ] } }
+]
+}

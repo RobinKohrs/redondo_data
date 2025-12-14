@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_leger_sur_roanne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Léger-sur-Roanne", "metric_roundness": 61.59, "metric_rectangularity": 75.32, "metric_mobile_fit": 76.49, "metric_aspect_ratio": 0.798, "metric_area_km2": 8.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0134125, 46.0310395 ], [ 4.0174125, 46.0329595 ], [ 4.0152275, 46.035422499999981 ], [ 4.015409, 46.039243499999984 ], [ 4.01076, 46.045702499999983 ], [ 4.0080795, 46.0510065 ], [ 4.004661, 46.055467 ], [ 3.9924937, 46.053117399999977 ], [ 3.9890367, 46.037679 ], [ 3.9913768, 46.032655099999985 ], [ 4.004038, 46.030773499999988 ], [ 4.0134125, 46.0310395 ] ] ] } }
+]
+}

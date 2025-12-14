@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_laurent_sur_saone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Laurent-sur-Saône", "metric_roundness": 25.4, "metric_rectangularity": 71.21, "metric_mobile_fit": 92.5, "metric_aspect_ratio": 0.638, "metric_area_km2": 0.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.836059, 46.298461499999981 ], [ 4.836739, 46.300562 ], [ 4.8391175, 46.303426 ], [ 4.841091, 46.302297 ], [ 4.8452355, 46.3097855 ], [ 4.8412175, 46.3118055 ], [ 4.8373455, 46.3052745 ], [ 4.8329205, 46.299431 ], [ 4.836059, 46.298461499999981 ] ] ] } }
+]
+}

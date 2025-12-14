@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guntramsdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guntramsdorf", "metric_roundness": 33.84, "metric_rectangularity": 59.34, "metric_mobile_fit": 29.76, "metric_aspect_ratio": 1.265, "metric_area_km2": 32.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.3653125, 48.03662 ], [ 16.343087, 48.042928 ], [ 16.3410059, 48.054477699999985 ], [ 16.3273111, 48.0589928 ], [ 16.3304495, 48.06818 ], [ 16.3294825, 48.06895 ], [ 16.307182, 48.0719365 ], [ 16.3001559, 48.0665835 ], [ 16.280564, 48.062426 ], [ 16.2714955, 48.058551 ], [ 16.3004903, 48.051239699999989 ], [ 16.2990123, 48.0467997 ], [ 16.3037045, 48.0440505 ], [ 16.35349, 48.0223535 ], [ 16.3653125, 48.03662 ] ] ] } }
+]
+}

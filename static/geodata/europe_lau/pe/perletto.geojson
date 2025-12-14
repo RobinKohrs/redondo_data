@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "perletto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Perletto", "metric_roundness": 27.38, "metric_rectangularity": 53.72, "metric_mobile_fit": 73.13, "metric_aspect_ratio": 0.831, "metric_area_km2": 18.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2456275, 44.5697245 ], [ 8.2437717, 44.5798445 ], [ 8.2305885, 44.5940655 ], [ 8.2314389, 44.600389199999988 ], [ 8.2247352, 44.6038887 ], [ 8.2176245, 44.6151585 ], [ 8.199611, 44.615330299999989 ], [ 8.1956965, 44.6181285 ], [ 8.1891277, 44.613672 ], [ 8.189369, 44.6103725 ], [ 8.1966651, 44.6032594 ], [ 8.197908, 44.5928469 ], [ 8.2202114, 44.5853548 ], [ 8.241337, 44.5712 ], [ 8.2456275, 44.5697245 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fongueusemare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fongueusemare", "metric_roundness": 40.72, "metric_rectangularity": 65.31, "metric_mobile_fit": -15.52, "metric_aspect_ratio": 1.718, "metric_area_km2": 29.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3068302, 49.656747299999985 ], [ 0.324173, 49.668980499999982 ], [ 0.3335173, 49.668427 ], [ 0.3483494, 49.6755881 ], [ 0.349427, 49.6819565 ], [ 0.3357, 49.688127499999986 ], [ 0.3243305, 49.6888545 ], [ 0.3200279, 49.686228899999989 ], [ 0.3107695, 49.687887899999986 ], [ 0.264208, 49.6762425 ], [ 0.2679043, 49.671901199999986 ], [ 0.286386, 49.6644925 ], [ 0.3068302, 49.656747299999985 ] ] ] } }
+]
+}

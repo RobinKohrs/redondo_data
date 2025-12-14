@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sobesin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soběšín", "metric_roundness": 59.61, "metric_rectangularity": 63.84, "metric_mobile_fit": 44.04, "metric_aspect_ratio": 1.122, "metric_area_km2": 17.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.9577356, 49.787158899999987 ], [ 14.971257, 49.790926499999983 ], [ 14.9796705, 49.793855 ], [ 14.9930408, 49.7983062 ], [ 14.9936555, 49.8080035 ], [ 14.9863831, 49.810766099999988 ], [ 14.9686507, 49.8084649 ], [ 14.962109, 49.812991499999974 ], [ 14.953602, 49.817039 ], [ 14.9417099, 49.8110227 ], [ 14.9478827, 49.805257 ], [ 14.9453715, 49.7973315 ], [ 14.9577356, 49.787158899999987 ] ] ] } }
+]
+}

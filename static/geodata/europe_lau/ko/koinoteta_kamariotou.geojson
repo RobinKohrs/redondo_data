@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kamariotou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καμαριώτου", "metric_roundness": 45.74, "metric_rectangularity": 60.42, "metric_mobile_fit": 26.66, "metric_aspect_ratio": 1.296, "metric_area_km2": 11.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.896444, 35.328299399999985 ], [ 24.8894521, 35.3226018 ], [ 24.877811, 35.3236005 ], [ 24.875153, 35.319812 ], [ 24.873824, 35.317352 ], [ 24.8802063, 35.3127204 ], [ 24.8944242, 35.3092818 ], [ 24.9060378, 35.3006837 ], [ 24.9190655, 35.299834 ], [ 24.921819, 35.3096275 ], [ 24.9152837, 35.317326099999981 ], [ 24.9071841, 35.3211788 ], [ 24.9038845, 35.330055 ], [ 24.896444, 35.328299399999985 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vigneul_sous_montmedy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vigneul-sous-Montmédy", "metric_roundness": 48.42, "metric_rectangularity": 54.96, "metric_mobile_fit": 77.26, "metric_aspect_ratio": 0.79, "metric_area_km2": 11.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.327134, 49.493777 ], [ 5.331755, 49.492575 ], [ 5.3423385, 49.492797 ], [ 5.350523, 49.495649 ], [ 5.3448402, 49.495806899999984 ], [ 5.3411543, 49.5010614 ], [ 5.3332261, 49.499628699999974 ], [ 5.3297982, 49.5025207 ], [ 5.3433339, 49.5161704 ], [ 5.343414, 49.520491 ], [ 5.3314386, 49.52410219999998 ], [ 5.324069, 49.5195065 ], [ 5.3125966, 49.511884599999981 ], [ 5.3121735, 49.507980499999988 ], [ 5.327134, 49.493777 ] ] ] } }
+]
+}

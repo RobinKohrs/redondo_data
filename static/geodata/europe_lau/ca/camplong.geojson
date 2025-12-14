@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "camplong",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Camplong", "metric_roundness": 34.54, "metric_rectangularity": 54.8, "metric_mobile_fit": 82.83, "metric_aspect_ratio": 0.734, "metric_area_km2": 24.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0788979, 43.7016876 ], [ 3.0987982, 43.6927739 ], [ 3.1137755, 43.669057499999987 ], [ 3.1191055, 43.658837 ], [ 3.1240875, 43.6562905 ], [ 3.1316074, 43.6608351 ], [ 3.1338095, 43.6653947 ], [ 3.1284659, 43.6824322 ], [ 3.133262, 43.6935365 ], [ 3.1321066, 43.7000228 ], [ 3.1234525, 43.7026955 ], [ 3.0967074, 43.7118338 ], [ 3.0807365, 43.7101366 ], [ 3.0774205, 43.707370499999989 ], [ 3.0788979, 43.7016876 ] ] ] } }
+]
+}

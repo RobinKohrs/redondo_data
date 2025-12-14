@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "anzex",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Anzex", "metric_roundness": 50.26, "metric_rectangularity": 77.39, "metric_mobile_fit": 98.12, "metric_aspect_ratio": 0.581, "metric_area_km2": 45.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1967855, 44.3181125 ], [ 0.1550896, 44.3136512 ], [ 0.1448625, 44.3097085 ], [ 0.1533069, 44.298813099999983 ], [ 0.1461646, 44.289417299999982 ], [ 0.1480472, 44.2725094 ], [ 0.1423735, 44.267118 ], [ 0.1497202, 44.258965 ], [ 0.1583109, 44.2551084 ], [ 0.1815134, 44.2511001 ], [ 0.1835812, 44.2527419 ], [ 0.1823085, 44.2575685 ], [ 0.1898345, 44.2712985 ], [ 0.1967855, 44.3181125 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberruti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberrüti", "metric_roundness": 56.13, "metric_rectangularity": 62.01, "metric_mobile_fit": 75.28, "metric_aspect_ratio": 0.81, "metric_area_km2": 10.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4121368, 47.1719416 ], [ 8.4031299, 47.1772806 ], [ 8.4002415, 47.183521 ], [ 8.3925525, 47.175525799999981 ], [ 8.3816516, 47.172250699999978 ], [ 8.3789205, 47.1618819 ], [ 8.3825845, 47.160890499999987 ], [ 8.3969076, 47.1583291 ], [ 8.3997471, 47.153780899999987 ], [ 8.414341, 47.157180499999981 ], [ 8.4121368, 47.1719416 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monasterace",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monasterace", "metric_roundness": 59.91, "metric_rectangularity": 76.63, "metric_mobile_fit": 64.34, "metric_aspect_ratio": 0.919, "metric_area_km2": 25.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5674107, 38.4713395 ], [ 16.5578627, 38.4685888 ], [ 16.5480981, 38.471455 ], [ 16.541168, 38.4633245 ], [ 16.5461937, 38.4458713 ], [ 16.5320529, 38.4451769 ], [ 16.5295791, 38.4422286 ], [ 16.5321135, 38.4372712 ], [ 16.5369216, 38.4340975 ], [ 16.570899, 38.4267165 ], [ 16.5816193, 38.4507566 ], [ 16.5820845, 38.469790499999988 ], [ 16.5674107, 38.4713395 ] ] ] } }
+]
+}

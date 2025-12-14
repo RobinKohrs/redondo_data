@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ernolsheim_les_saverne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ernolsheim-lès-Saverne", "metric_roundness": 46.89, "metric_rectangularity": 70.39, "metric_mobile_fit": 34.11, "metric_aspect_ratio": 1.221, "metric_area_km2": 24.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3991441, 48.798244599999983 ], [ 7.3914254, 48.804193 ], [ 7.3489205, 48.799169499999984 ], [ 7.344729, 48.798302 ], [ 7.348108, 48.793261199999982 ], [ 7.3464037, 48.7849635 ], [ 7.3573621, 48.784511699999982 ], [ 7.3718771, 48.7760824 ], [ 7.3902115, 48.770921 ], [ 7.4064077, 48.771571499999972 ], [ 7.3984015, 48.785355099999975 ], [ 7.400511, 48.789167 ], [ 7.3991441, 48.798244599999983 ] ] ] } }
+]
+}

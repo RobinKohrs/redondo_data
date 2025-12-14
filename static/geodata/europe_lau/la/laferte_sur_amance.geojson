@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laferte_sur_amance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laferté-sur-Amance", "metric_roundness": 46.7, "metric_rectangularity": 63.36, "metric_mobile_fit": 90.36, "metric_aspect_ratio": 0.659, "metric_area_km2": 17.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6968148, 47.8540555 ], [ 5.687074, 47.8505525 ], [ 5.6824802, 47.843129099999977 ], [ 5.683957, 47.837035599999986 ], [ 5.6751595, 47.827040499999988 ], [ 5.6813103, 47.8243016 ], [ 5.6807608, 47.820202199999983 ], [ 5.6855775, 47.812791499999989 ], [ 5.6966193, 47.822785 ], [ 5.7136405, 47.821566499999989 ], [ 5.7156632, 47.827456 ], [ 5.7120739, 47.835749199999988 ], [ 5.71294, 47.843056 ], [ 5.6968148, 47.8540555 ] ] ] } }
+]
+}

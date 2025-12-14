@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "crespy_le_neuf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Crespy-le-Neuf", "metric_roundness": 45.58, "metric_rectangularity": 71.41, "metric_mobile_fit": -1.48, "metric_aspect_ratio": 1.577, "metric_area_km2": 22.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6379678, 48.400311 ], [ 4.6434365, 48.411334 ], [ 4.5985675, 48.4069259 ], [ 4.58223, 48.409945 ], [ 4.5789228, 48.4030445 ], [ 4.5836646, 48.399507499999977 ], [ 4.5847045, 48.389847 ], [ 4.584198, 48.387788 ], [ 4.5848525, 48.384178 ], [ 4.5881005, 48.384331499999988 ], [ 4.6083507, 48.384327299999981 ], [ 4.638988, 48.395591 ], [ 4.6379678, 48.400311 ] ] ] } }
+]
+}

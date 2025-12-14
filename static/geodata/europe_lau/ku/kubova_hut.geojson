@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kubova_hut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kubova Huť", "metric_roundness": 57.03, "metric_rectangularity": 76.13, "metric_mobile_fit": 82.95, "metric_aspect_ratio": 0.733, "metric_area_km2": 3.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.7707375, 48.9886165 ], [ 13.7677893, 48.9874175 ], [ 13.7640033, 48.979840699999983 ], [ 13.7739032, 48.9726734 ], [ 13.7777057, 48.9746715 ], [ 13.7819807, 48.983280599999986 ], [ 13.7731655, 48.988769 ], [ 13.7707375, 48.9886165 ] ] ] } }
+]
+}

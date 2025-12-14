@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mespuits",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mespuits", "metric_roundness": 50.31, "metric_rectangularity": 73.49, "metric_mobile_fit": 33.31, "metric_aspect_ratio": 1.229, "metric_area_km2": 22.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2562241, 48.3526216 ], [ 2.2518361, 48.345970199999989 ], [ 2.254448, 48.3419715 ], [ 2.258223, 48.342738 ], [ 2.276634, 48.3419845 ], [ 2.2761585, 48.344681 ], [ 2.2858, 48.34572 ], [ 2.2856242, 48.3488924 ], [ 2.3029055, 48.356382 ], [ 2.30873, 48.369157499999986 ], [ 2.2672885, 48.371838 ], [ 2.2587185, 48.372722 ], [ 2.253743, 48.361525 ], [ 2.2562241, 48.3526216 ] ] ] } }
+]
+}

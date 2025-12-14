@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_polemarchiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πολεμαρχίου", "metric_roundness": 66.43, "metric_rectangularity": 81.34, "metric_mobile_fit": 64.34, "metric_aspect_ratio": 0.919, "metric_area_km2": 3.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.819246, 35.5077085 ], [ 23.820179, 35.5173915 ], [ 23.816607, 35.518498 ], [ 23.8142145, 35.5196075 ], [ 23.811008, 35.5204635 ], [ 23.8076805, 35.519639 ], [ 23.802204, 35.5191115 ], [ 23.801766, 35.512916499999989 ], [ 23.8038975, 35.508939 ], [ 23.805157, 35.5072745 ], [ 23.806736, 35.505782 ], [ 23.8085145, 35.5046985 ], [ 23.8120755, 35.504157 ], [ 23.818906, 35.5054405 ], [ 23.819246, 35.5077085 ] ] ] } }
+]
+}

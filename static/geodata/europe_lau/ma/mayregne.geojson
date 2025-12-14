@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mayregne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mayrègne", "metric_roundness": 49.1, "metric_rectangularity": 70.92, "metric_mobile_fit": 85.36, "metric_aspect_ratio": 0.709, "metric_area_km2": 9.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5491575, 42.836856399999988 ], [ 0.5486377, 42.845366299999988 ], [ 0.554036, 42.860087 ], [ 0.5475938, 42.864513099999989 ], [ 0.5341775, 42.861254 ], [ 0.5341991, 42.853848 ], [ 0.5246275, 42.8422527 ], [ 0.5239115, 42.836194 ], [ 0.5321305, 42.8333585 ], [ 0.5491575, 42.836856399999988 ] ] ] } }
+]
+}

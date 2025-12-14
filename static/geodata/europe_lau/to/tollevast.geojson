@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tollevast",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tollevast", "metric_roundness": 54.1, "metric_rectangularity": 69.92, "metric_mobile_fit": 46.97, "metric_aspect_ratio": 1.093, "metric_area_km2": 30.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.636972, 49.5596 ], [ -1.5926919, 49.5673035 ], [ -1.577195, 49.57521939999998 ], [ -1.5752955, 49.582819 ], [ -1.5821214, 49.593471699999981 ], [ -1.5949199, 49.592225399999982 ], [ -1.5972504, 49.5975337 ], [ -1.6012535, 49.598965 ], [ -1.626394, 49.5948585 ], [ -1.6219366, 49.579794299999975 ], [ -1.6416392, 49.571539 ], [ -1.6391805, 49.5620465 ], [ -1.636972, 49.5596 ] ] ] } }
+]
+}

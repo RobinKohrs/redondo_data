@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mornico_losana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mornico Losana", "metric_roundness": 50.16, "metric_rectangularity": 65.54, "metric_mobile_fit": 28.2, "metric_aspect_ratio": 1.28, "metric_area_km2": 16.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2103085, 44.9975039 ], [ 9.2202972, 44.9913883 ], [ 9.2355625, 44.9950115 ], [ 9.2270417, 45.007967799999989 ], [ 9.2305132, 45.009493599999985 ], [ 9.2295921, 45.013455199999981 ], [ 9.2150175, 45.0211945 ], [ 9.18673, 45.016428 ], [ 9.181582, 45.009906 ], [ 9.1949286, 45.0055034 ], [ 9.1978653, 44.9985387 ], [ 9.2015366, 44.9966668 ], [ 9.197999, 44.99484 ], [ 9.2103085, 44.9975039 ] ] ] } }
+]
+}

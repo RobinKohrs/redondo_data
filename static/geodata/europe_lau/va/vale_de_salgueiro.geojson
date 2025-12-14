@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vale_de_salgueiro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vale de Salgueiro", "metric_roundness": 43.0, "metric_rectangularity": 65.83, "metric_mobile_fit": 93.52, "metric_aspect_ratio": 0.627, "metric_area_km2": 27.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.2551085, 41.601065 ], [ -7.2580105, 41.5924955 ], [ -7.2538833, 41.582377699999981 ], [ -7.258883, 41.566696 ], [ -7.248236, 41.5463894 ], [ -7.240401, 41.542833 ], [ -7.2100535, 41.5942395 ], [ -7.2551085, 41.601065 ] ] ] } }
+]
+}

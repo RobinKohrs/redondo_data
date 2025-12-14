@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roseto_capo_spulico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roseto Capo Spulico", "metric_roundness": 38.82, "metric_rectangularity": 60.06, "metric_mobile_fit": 31.19, "metric_aspect_ratio": 1.251, "metric_area_km2": 53.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5547233, 39.994332899999989 ], [ 16.56178, 39.977373799999988 ], [ 16.5925043, 39.9730255 ], [ 16.6130725, 39.965350799999982 ], [ 16.6296845, 39.9645125 ], [ 16.6140035, 39.986224199999988 ], [ 16.6064445, 40.026232 ], [ 16.5431694, 40.016806799999983 ], [ 16.528928, 40.0122805 ], [ 16.5366325, 40.0026545 ], [ 16.5547233, 39.994332899999989 ] ] ] } }
+]
+}

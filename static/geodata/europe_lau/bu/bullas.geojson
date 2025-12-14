@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bullas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bullas", "metric_roundness": 41.77, "metric_rectangularity": 65.98, "metric_mobile_fit": 92.05, "metric_aspect_ratio": 0.642, "metric_area_km2": 132.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6735176, 37.9874437 ], [ -1.6240793, 38.0404391 ], [ -1.6158872, 38.057636599999988 ], [ -1.625643, 38.089679499999988 ], [ -1.6455238, 38.0956928 ], [ -1.6669166, 38.095180299999988 ], [ -1.7010376, 38.075412199999981 ], [ -1.7198229, 38.058278699999981 ], [ -1.7219745, 38.0243876 ], [ -1.7085293, 37.9942165 ], [ -1.7104916, 37.972032 ], [ -1.714343, 37.9655225 ], [ -1.6735176, 37.9874437 ] ] ] } }
+]
+}

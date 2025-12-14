@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "combas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Combas", "metric_roundness": 50.77, "metric_rectangularity": 64.11, "metric_mobile_fit": 78.22, "metric_aspect_ratio": 0.78, "metric_area_km2": 30.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1438653, 43.8613687 ], [ 4.1436825, 43.882502 ], [ 4.1283339, 43.885726499999976 ], [ 4.1166311, 43.8735346 ], [ 4.1084635, 43.870179 ], [ 4.0999786, 43.8662895 ], [ 4.0971743, 43.8563263 ], [ 4.087163, 43.8555115 ], [ 4.0956588, 43.8371379 ], [ 4.1196949, 43.8409143 ], [ 4.1279231, 43.8372496 ], [ 4.128729, 43.833331 ], [ 4.1363985, 43.8389495 ], [ 4.1438653, 43.8613687 ] ] ] } }
+]
+}

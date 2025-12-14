@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mont_sur_courville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mont-sur-Courville", "metric_roundness": 66.51, "metric_rectangularity": 75.25, "metric_mobile_fit": 64.92, "metric_aspect_ratio": 0.913, "metric_area_km2": 14.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6540941, 49.2578373 ], [ 3.6606807, 49.2584388 ], [ 3.6696578, 49.2408156 ], [ 3.6750455, 49.2400835 ], [ 3.693716, 49.249713 ], [ 3.6964922, 49.2565544 ], [ 3.6919381, 49.2569922 ], [ 3.6851514, 49.2676587 ], [ 3.679788, 49.270384 ], [ 3.6706755, 49.267749599999973 ], [ 3.6651265, 49.269433 ], [ 3.655249, 49.262848 ], [ 3.6540941, 49.2578373 ] ] ] } }
+]
+}

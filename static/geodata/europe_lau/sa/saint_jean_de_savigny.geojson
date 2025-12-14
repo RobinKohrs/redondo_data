@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_de_savigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-de-Savigny", "metric_roundness": 38.47, "metric_rectangularity": 58.61, "metric_mobile_fit": 32.53, "metric_aspect_ratio": 1.237, "metric_area_km2": 17.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9700929, 49.1796478 ], [ -0.9841577, 49.182944699999986 ], [ -0.9885442, 49.189595599999983 ], [ -0.987312, 49.194339499999984 ], [ -0.9887661, 49.1973546 ], [ -1.009312, 49.2038449 ], [ -1.0242465, 49.203866 ], [ -1.0195822, 49.1954151 ], [ -1.0248285, 49.177537 ], [ -1.0183863, 49.174951 ], [ -1.000697, 49.178938099999989 ], [ -0.970236, 49.176286 ], [ -0.9700929, 49.1796478 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "terssac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Terssac", "metric_roundness": 54.05, "metric_rectangularity": 77.98, "metric_mobile_fit": -2.11, "metric_aspect_ratio": 1.584, "metric_area_km2": 10.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.0793585, 43.932175 ], [ 2.0596786, 43.9305672 ], [ 2.047085, 43.9246335 ], [ 2.0490084, 43.919207499999985 ], [ 2.0629065, 43.9117555 ], [ 2.064766, 43.9131535 ], [ 2.0706235, 43.9128535 ], [ 2.0760295, 43.913766 ], [ 2.087001, 43.916576499999984 ], [ 2.091979, 43.918525 ], [ 2.091056, 43.925135 ], [ 2.087906, 43.9254925 ], [ 2.088182, 43.927387499999988 ], [ 2.0793585, 43.932175 ] ] ] } }
+]
+}

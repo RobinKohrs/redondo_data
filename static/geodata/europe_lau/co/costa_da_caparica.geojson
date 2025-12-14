@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "costa_da_caparica",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Costa da Caparica", "metric_roundness": 8.13, "metric_rectangularity": 43.72, "metric_mobile_fit": 89.94, "metric_aspect_ratio": 0.462, "metric_area_km2": 18.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.2383519, 38.6617182 ], [ -9.252595, 38.6575475 ], [ -9.2125334, 38.606568599999989 ], [ -9.1878215, 38.550321 ], [ -9.186755, 38.550528 ], [ -9.1985914, 38.585601 ], [ -9.2037923, 38.6146646 ], [ -9.2103462, 38.621356 ], [ -9.2105455, 38.628567499999988 ], [ -9.2383519, 38.6617182 ] ] ] } }
+]
+}

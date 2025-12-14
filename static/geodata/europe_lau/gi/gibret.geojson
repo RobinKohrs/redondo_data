@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gibret",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gibret", "metric_roundness": 55.14, "metric_rectangularity": 70.32, "metric_mobile_fit": 72.77, "metric_aspect_ratio": 0.835, "metric_area_km2": 5.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.818967, 43.6913585 ], [ -0.823936, 43.691313 ], [ -0.8266365, 43.6908295 ], [ -0.8284805, 43.689426 ], [ -0.8338685, 43.688018 ], [ -0.8320985, 43.6790334 ], [ -0.819947, 43.6723315 ], [ -0.8137849, 43.6713681 ], [ -0.8107925, 43.6751085 ], [ -0.8180812, 43.680212399999981 ], [ -0.8127085, 43.6839332 ], [ -0.8162645, 43.690673499999988 ], [ -0.818967, 43.6913585 ] ] ] } }
+]
+}

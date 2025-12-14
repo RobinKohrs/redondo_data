@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "contremoulins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Contremoulins", "metric_roundness": 56.91, "metric_rectangularity": 74.23, "metric_mobile_fit": 8.84, "metric_aspect_ratio": 1.474, "metric_area_km2": 10.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.4294876, 49.7162837 ], [ 0.4541299, 49.7171831 ], [ 0.458242, 49.719976499999973 ], [ 0.4587065, 49.722409 ], [ 0.4532031, 49.7292629 ], [ 0.4350469, 49.7346674 ], [ 0.419286, 49.731663499999982 ], [ 0.4167874, 49.729259599999985 ], [ 0.4178345, 49.725359 ], [ 0.423094, 49.720514 ], [ 0.4294876, 49.7162837 ] ] ] } }
+]
+}

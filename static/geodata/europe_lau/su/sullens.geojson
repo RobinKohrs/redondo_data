@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sullens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sullens", "metric_roundness": 61.85, "metric_rectangularity": 73.13, "metric_mobile_fit": 29.26, "metric_aspect_ratio": 1.27, "metric_area_km2": 8.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.585093, 46.592231 ], [ 6.5801317, 46.593474 ], [ 6.5740315, 46.6007116 ], [ 6.571305, 46.600025 ], [ 6.5656675, 46.600773499999988 ], [ 6.560924, 46.597912 ], [ 6.5516775, 46.599091 ], [ 6.5533057, 46.590567899999989 ], [ 6.550245, 46.589382 ], [ 6.549118, 46.585711499999981 ], [ 6.575617, 46.581306499999975 ], [ 6.5799005, 46.583141499999982 ], [ 6.585093, 46.592231 ] ] ] } }
+]
+}

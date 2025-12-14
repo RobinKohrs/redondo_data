@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rioux_martin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rioux-Martin", "metric_roundness": 49.33, "metric_rectangularity": 67.49, "metric_mobile_fit": 33.47, "metric_aspect_ratio": 1.228, "metric_area_km2": 29.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.033502, 45.2388875 ], [ 0.0147863, 45.24766409999998 ], [ 0.0164026, 45.256508 ], [ 0.011918, 45.2665295 ], [ -0.0128486, 45.2554 ], [ -0.0332184, 45.253121899999982 ], [ -0.044308, 45.2480245 ], [ -0.0393819, 45.2453156 ], [ -0.0340039, 45.2354397 ], [ -0.0164264, 45.228760499999986 ], [ 0.0022305, 45.228487199999989 ], [ 0.0058655, 45.221908 ], [ 0.0165915, 45.2314437 ], [ 0.031637, 45.2336225 ], [ 0.033502, 45.2388875 ] ] ] } }
+]
+}

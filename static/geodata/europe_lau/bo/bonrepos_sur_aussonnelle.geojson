@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonrepos_sur_aussonnelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonrepos-sur-Aussonnelle", "metric_roundness": 43.85, "metric_rectangularity": 62.35, "metric_mobile_fit": -10.42, "metric_aspect_ratio": 1.667, "metric_area_km2": 19.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.118377, 43.5462676 ], [ 1.105679, 43.536972 ], [ 1.1087305, 43.5323605 ], [ 1.1095605, 43.528271 ], [ 1.1201815, 43.532436 ], [ 1.132516, 43.534012499999989 ], [ 1.148955, 43.5348595 ], [ 1.1519075, 43.536061 ], [ 1.154007, 43.536084 ], [ 1.17133, 43.539678499999987 ], [ 1.1711022, 43.546752899999987 ], [ 1.1597257, 43.5491114 ], [ 1.156434, 43.556824 ], [ 1.1241213, 43.554564399999983 ], [ 1.112164, 43.556736 ], [ 1.118377, 43.5462676 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pluzna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plužná", "metric_roundness": 58.5, "metric_rectangularity": 71.04, "metric_mobile_fit": 80.18, "metric_aspect_ratio": 0.761, "metric_area_km2": 13.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.787756, 50.461542 ], [ 14.789834, 50.460441499999988 ], [ 14.7923245, 50.460484 ], [ 14.7951135, 50.4594935 ], [ 14.819199, 50.4662765 ], [ 14.8111269, 50.476148899999984 ], [ 14.8201375, 50.482981 ], [ 14.7932648, 50.490054699999988 ], [ 14.7836065, 50.462913499999985 ], [ 14.787756, 50.461542 ] ] ] } }
+]
+}

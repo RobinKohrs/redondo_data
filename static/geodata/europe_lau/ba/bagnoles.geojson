@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bagnoles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bagnoles", "metric_roundness": 43.99, "metric_rectangularity": 72.61, "metric_mobile_fit": -21.04, "metric_aspect_ratio": 1.773, "metric_area_km2": 11.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4658201, 43.273738699999988 ], [ 2.448877, 43.277308 ], [ 2.4287223, 43.276338 ], [ 2.4220825, 43.272249499999987 ], [ 2.4263416, 43.2683894 ], [ 2.423413, 43.264284499999988 ], [ 2.4388361, 43.2653099 ], [ 2.4404774, 43.2635269 ], [ 2.439547, 43.259049499999989 ], [ 2.4456016, 43.2609488 ], [ 2.469405, 43.257076499999982 ], [ 2.4713405, 43.269905499999986 ], [ 2.4658201, 43.273738699999988 ] ] ] } }
+]
+}

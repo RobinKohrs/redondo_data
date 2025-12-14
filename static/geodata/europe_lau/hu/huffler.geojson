@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "huffler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hüffler", "metric_roundness": 53.42, "metric_rectangularity": 64.28, "metric_mobile_fit": 57.51, "metric_aspect_ratio": 0.987, "metric_area_km2": 8.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4074975, 49.5039405 ], [ 7.404165, 49.5041015 ], [ 7.4042275, 49.5059615 ], [ 7.4011265, 49.5058285 ], [ 7.397539, 49.505301 ], [ 7.395472, 49.5058165 ], [ 7.392859, 49.505267499999974 ], [ 7.389494, 49.504126499999984 ], [ 7.3776685, 49.5042535 ], [ 7.3751725, 49.499709499999987 ], [ 7.3721675, 49.498942 ], [ 7.3872545, 49.48272 ], [ 7.398247, 49.492864 ], [ 7.4059135, 49.498504 ], [ 7.4074975, 49.5039405 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stein_bockenheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stein-Bockenheim", "metric_roundness": 44.87, "metric_rectangularity": 74.7, "metric_mobile_fit": 39.71, "metric_aspect_ratio": 1.165, "metric_area_km2": 13.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.948613, 49.755754499999981 ], [ 7.9666795, 49.7636034 ], [ 7.973934, 49.7713815 ], [ 7.9608558, 49.7771617 ], [ 7.9442304, 49.7745786 ], [ 7.934571, 49.768022499999979 ], [ 7.932923, 49.766626 ], [ 7.9263056, 49.760235 ], [ 7.9245686, 49.753996299999983 ], [ 7.930042, 49.749801 ], [ 7.948613, 49.755754499999981 ] ] ] } }
+]
+}

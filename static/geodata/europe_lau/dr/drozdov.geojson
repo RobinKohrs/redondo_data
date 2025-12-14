@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "drozdov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Drozdov", "metric_roundness": 36.76, "metric_rectangularity": 51.47, "metric_mobile_fit": 88.26, "metric_aspect_ratio": 0.68, "metric_area_km2": 24.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.8652909, 49.8777896 ], [ 13.8523985, 49.888236 ], [ 13.8233955, 49.904666 ], [ 13.8274821, 49.881403 ], [ 13.8329576, 49.868116799999981 ], [ 13.817597, 49.8667145 ], [ 13.8319832, 49.8603829 ], [ 13.8379602, 49.854432599999988 ], [ 13.8449775, 49.8543005 ], [ 13.870741, 49.860642499999983 ], [ 13.859403, 49.869439 ], [ 13.8652909, 49.8777896 ] ] ] } }
+]
+}

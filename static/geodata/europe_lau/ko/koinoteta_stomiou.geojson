@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_stomiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Στομίου", "metric_roundness": 61.98, "metric_rectangularity": 74.02, "metric_mobile_fit": 52.2, "metric_aspect_ratio": 1.041, "metric_area_km2": 11.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.822229, 37.4155 ], [ 21.8207515, 37.4205365 ], [ 21.8085476, 37.420608799999989 ], [ 21.7985186, 37.4155394 ], [ 21.787593, 37.3981045 ], [ 21.793232, 37.393597 ], [ 21.8126965, 37.392557499999988 ], [ 21.82015, 37.397096 ], [ 21.8243385, 37.4105345 ], [ 21.822229, 37.4155 ] ] ] } }
+]
+}

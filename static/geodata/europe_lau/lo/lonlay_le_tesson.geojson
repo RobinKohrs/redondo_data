@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lonlay_le_tesson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lonlay-le-Tesson", "metric_roundness": 28.09, "metric_rectangularity": 67.38, "metric_mobile_fit": 26.64, "metric_aspect_ratio": 1.296, "metric_area_km2": 28.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.316925, 48.6761885 ], [ -0.3256014, 48.6656792 ], [ -0.3400997, 48.6650943 ], [ -0.3527985, 48.661089499999981 ], [ -0.3662923, 48.6453262 ], [ -0.3906511, 48.643512099999988 ], [ -0.396726, 48.638444499999984 ], [ -0.3628615, 48.628903 ], [ -0.3403207, 48.6432008 ], [ -0.3305649, 48.645103699999986 ], [ -0.3137623, 48.654023099999982 ], [ -0.3039555, 48.667358 ], [ -0.316925, 48.6761885 ] ] ] } }
+]
+}

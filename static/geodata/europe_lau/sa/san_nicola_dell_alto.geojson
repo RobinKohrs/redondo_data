@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_nicola_dell_alto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Nicola dell'Alto", "metric_roundness": 35.12, "metric_rectangularity": 71.95, "metric_mobile_fit": 71.29, "metric_aspect_ratio": 0.85, "metric_area_km2": 13.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9679205, 39.295693499999985 ], [ 16.9595855, 39.301547 ], [ 16.9549035, 39.2957572 ], [ 16.9546915, 39.2907085 ], [ 16.9586353, 39.284702899999985 ], [ 16.9679174, 39.278848499999988 ], [ 16.973737, 39.2666938 ], [ 16.9813483, 39.2611481 ], [ 16.9920039, 39.260436199999987 ], [ 16.9998165, 39.2743585 ], [ 16.9679205, 39.295693499999985 ] ] ] } }
+]
+}

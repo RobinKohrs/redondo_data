@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nizne_ladickovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nižné Ladičkovce", "metric_roundness": 54.67, "metric_rectangularity": 79.37, "metric_mobile_fit": 85.94, "metric_aspect_ratio": 0.703, "metric_area_km2": 19.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.910225, 48.9957865 ], [ 21.9107315, 49.001412099999989 ], [ 21.9198408, 49.0072322 ], [ 21.9227155, 49.018359 ], [ 21.9174315, 49.0339485 ], [ 21.881805, 49.028029 ], [ 21.894108, 48.9988065 ], [ 21.910225, 48.9957865 ] ] ] } }
+]
+}

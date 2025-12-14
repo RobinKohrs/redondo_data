@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "folkusova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Folkušová", "metric_roundness": 49.12, "metric_rectangularity": 75.64, "metric_mobile_fit": 31.29, "metric_aspect_ratio": 1.25, "metric_area_km2": 14.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.9614988, 48.980253299999987 ], [ 18.942281, 48.985401499999988 ], [ 18.933785, 48.9700225 ], [ 18.9425267, 48.964776 ], [ 18.9656306, 48.958211499999983 ], [ 18.9855455, 48.96429 ], [ 18.9614988, 48.980253299999987 ] ] ] } }
+]
+}

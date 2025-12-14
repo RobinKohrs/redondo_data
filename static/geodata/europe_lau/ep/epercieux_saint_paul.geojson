@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "epercieux_saint_paul",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Épercieux-Saint-Paul", "metric_roundness": 51.06, "metric_rectangularity": 68.38, "metric_mobile_fit": 89.47, "metric_aspect_ratio": 0.668, "metric_area_km2": 16.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1995855, 45.8124945 ], [ 4.1962045, 45.809581 ], [ 4.1843595, 45.807481499999987 ], [ 4.1825275, 45.804677499999983 ], [ 4.1938794, 45.7978114 ], [ 4.183358, 45.787249499999987 ], [ 4.1830336, 45.7823698 ], [ 4.1876939, 45.7755114 ], [ 4.2013292, 45.776867299999985 ], [ 4.207205, 45.7735805 ], [ 4.219799, 45.775215499999987 ], [ 4.2171611, 45.7942782 ], [ 4.2032905, 45.807933499999983 ], [ 4.1995855, 45.8124945 ] ] ] } }
+]
+}

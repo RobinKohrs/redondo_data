@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sebastou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σεβαστού", "metric_roundness": 38.1, "metric_rectangularity": 60.41, "metric_mobile_fit": 36.54, "metric_aspect_ratio": 1.197, "metric_area_km2": 8.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.4619525, 39.4249975 ], [ 20.4626995, 39.4197935 ], [ 20.462706, 39.4150085 ], [ 20.465921, 39.4146625 ], [ 20.472089, 39.41449 ], [ 20.48363, 39.4135425 ], [ 20.4958363, 39.424642 ], [ 20.5013323, 39.4350232 ], [ 20.5003465, 39.439144 ], [ 20.4912591, 39.432705299999988 ], [ 20.4616545, 39.428846 ], [ 20.4619525, 39.4249975 ] ] ] } }
+]
+}

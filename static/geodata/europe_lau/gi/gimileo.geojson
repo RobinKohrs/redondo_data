@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gimileo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gimileo", "metric_roundness": 36.31, "metric_rectangularity": 52.91, "metric_mobile_fit": 91.36, "metric_aspect_ratio": 0.649, "metric_area_km2": 6.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.8074916, 42.5517723 ], [ -2.8110322, 42.5630532 ], [ -2.816075, 42.5679935 ], [ -2.8179348, 42.557392099999987 ], [ -2.8252045, 42.5548965 ], [ -2.8276865, 42.554458499999981 ], [ -2.830949, 42.555118500000013 ], [ -2.8329355, 42.5544855 ], [ -2.8355465, 42.5526505 ], [ -2.83629, 42.548336 ], [ -2.8320928, 42.5485251 ], [ -2.8135875, 42.5352975 ], [ -2.8074916, 42.5517723 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "concressault",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Concressault", "metric_roundness": 59.97, "metric_rectangularity": 74.12, "metric_mobile_fit": 67.16, "metric_aspect_ratio": 0.891, "metric_area_km2": 17.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5694074, 47.504306 ], [ 2.5629316, 47.508359299999981 ], [ 2.5470925, 47.4971965 ], [ 2.5552511, 47.493494399999982 ], [ 2.5524212, 47.4860261 ], [ 2.5559645, 47.475862 ], [ 2.5904865, 47.481638 ], [ 2.5910346, 47.485651399999981 ], [ 2.5858814, 47.489414099999983 ], [ 2.5898397, 47.496671 ], [ 2.5811503, 47.500982099999987 ], [ 2.5780065, 47.5091895 ], [ 2.5694074, 47.504306 ] ] ] } }
+]
+}

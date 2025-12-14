@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chrastany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chrášťany", "metric_roundness": 62.31, "metric_rectangularity": 73.62, "metric_mobile_fit": 60.33, "metric_aspect_ratio": 0.959, "metric_area_km2": 10.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2711837, 50.053176 ], [ 14.2479785, 50.0582845 ], [ 14.2440705, 50.05931 ], [ 14.2358205, 50.055546 ], [ 14.248141, 50.035636499999981 ], [ 14.270526, 50.040381 ], [ 14.2711837, 50.053176 ] ] ] } }
+]
+}

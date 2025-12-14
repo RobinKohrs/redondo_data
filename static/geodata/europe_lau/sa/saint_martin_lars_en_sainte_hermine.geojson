@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_martin_lars_en_sainte_hermine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Martin-Lars-en-Sainte-Hermine", "metric_roundness": 51.43, "metric_rectangularity": 65.49, "metric_mobile_fit": 78.95, "metric_aspect_ratio": 0.773, "metric_area_km2": 40.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9496972, 46.6053483 ], [ -0.943483, 46.614902 ], [ -0.9516263, 46.6175997 ], [ -0.9657174, 46.6153708 ], [ -0.9691228, 46.6184643 ], [ -0.967073, 46.625726499999985 ], [ -1.0021988, 46.609651899999989 ], [ -1.0105397, 46.5991614 ], [ -1.0076971, 46.588605499999986 ], [ -0.9990302, 46.5894797 ], [ -0.9916266, 46.584197499999988 ], [ -0.9906749, 46.574429299999984 ], [ -0.9873422, 46.5718575 ], [ -0.9893575, 46.5661155 ], [ -0.9686142, 46.572321199999976 ], [ -0.9479565, 46.592801 ], [ -0.9496972, 46.6053483 ] ] ] } }
+]
+}

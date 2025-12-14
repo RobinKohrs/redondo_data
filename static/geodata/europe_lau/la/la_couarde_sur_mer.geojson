@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_couarde_sur_mer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Couarde-sur-Mer", "metric_roundness": 29.06, "metric_rectangularity": 64.46, "metric_mobile_fit": -32.15, "metric_aspect_ratio": 1.884, "metric_area_km2": 18.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4679165, 46.203348 ], [ -1.4578935, 46.200982499999981 ], [ -1.4387275, 46.1939675 ], [ -1.430344, 46.1899685 ], [ -1.4201955, 46.187604 ], [ -1.4117625, 46.184206 ], [ -1.4043895, 46.1985684 ], [ -1.4000115, 46.200613 ], [ -1.4005225, 46.2033355 ], [ -1.423275, 46.2049034 ], [ -1.4443875, 46.2138655 ], [ -1.4807435, 46.209973499999982 ], [ -1.4746145, 46.2026855 ], [ -1.4679165, 46.203348 ] ] ] } }
+]
+}

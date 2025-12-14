@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "talamona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Talamona", "metric_roundness": 48.13, "metric_rectangularity": 66.08, "metric_mobile_fit": 86.95, "metric_aspect_ratio": 0.693, "metric_area_km2": 43.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.630344, 46.1505885 ], [ 9.6259023, 46.146520599999988 ], [ 9.5962052, 46.142448 ], [ 9.5972903, 46.12830959999998 ], [ 9.603222, 46.111072 ], [ 9.644095, 46.089419 ], [ 9.6616493, 46.1154824 ], [ 9.6486438, 46.121781399999989 ], [ 9.6438866, 46.127461499999981 ], [ 9.6464582, 46.1327937 ], [ 9.643003, 46.138177 ], [ 9.6477915, 46.153146 ], [ 9.6463995, 46.154873 ], [ 9.635683, 46.1536825 ], [ 9.630344, 46.1505885 ] ] ] } }
+]
+}

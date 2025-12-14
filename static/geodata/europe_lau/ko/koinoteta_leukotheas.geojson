@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_leukotheas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λευκοθέας", "metric_roundness": 37.34, "metric_rectangularity": 62.15, "metric_mobile_fit": 12.11, "metric_aspect_ratio": 1.441, "metric_area_km2": 14.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.34038, 40.308454499999982 ], [ 21.3205332, 40.3118872 ], [ 21.309817, 40.3301695 ], [ 21.2906077, 40.319941399999983 ], [ 21.278489, 40.316719 ], [ 21.3035818, 40.2974276 ], [ 21.3341415, 40.304547499999984 ], [ 21.34038, 40.308454499999982 ] ] ] } }
+]
+}

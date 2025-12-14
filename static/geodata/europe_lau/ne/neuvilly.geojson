@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neuvilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neuvilly", "metric_roundness": 62.67, "metric_rectangularity": 77.26, "metric_mobile_fit": 50.36, "metric_aspect_ratio": 1.059, "metric_area_km2": 30.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4831987, 50.142074099999988 ], [ 3.481222, 50.133292 ], [ 3.4831178, 50.1220304 ], [ 3.4874595, 50.116509 ], [ 3.489806, 50.1153195 ], [ 3.498291, 50.1133905 ], [ 3.5052465, 50.1201555 ], [ 3.5096889, 50.1225203 ], [ 3.51476, 50.120627099999986 ], [ 3.5478895, 50.1366885 ], [ 3.5459825, 50.1415015 ], [ 3.51354, 50.153748 ], [ 3.4831987, 50.142074099999988 ] ] ] } }
+]
+}

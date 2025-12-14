@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heuilley_sur_saone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heuilley-sur-Saône", "metric_roundness": 35.77, "metric_rectangularity": 60.26, "metric_mobile_fit": 42.14, "metric_aspect_ratio": 1.141, "metric_area_km2": 20.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4386224, 47.338614299999989 ], [ 5.433582, 47.3295913 ], [ 5.4349125, 47.319375 ], [ 5.4665322, 47.3295619 ], [ 5.4737275, 47.324314 ], [ 5.4793867, 47.331146 ], [ 5.4867914, 47.3274388 ], [ 5.4926806, 47.3323286 ], [ 5.4950209, 47.3425467 ], [ 5.490064, 47.354343 ], [ 5.488829, 47.355861499999982 ], [ 5.4740575, 47.3490524 ], [ 5.468187, 47.3413352 ], [ 5.4515217, 47.339914 ], [ 5.438428, 47.3445775 ], [ 5.4386224, 47.338614299999989 ] ] ] } }
+]
+}

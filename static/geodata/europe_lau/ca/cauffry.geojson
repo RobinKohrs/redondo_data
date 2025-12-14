@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cauffry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cauffry", "metric_roundness": 28.96, "metric_rectangularity": 62.5, "metric_mobile_fit": -35.16, "metric_aspect_ratio": 1.914, "metric_area_km2": 10.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4577105, 49.316243 ], [ 2.455154, 49.315527 ], [ 2.4522095, 49.320345499999981 ], [ 2.4487825, 49.3240765 ], [ 2.4325445, 49.320856 ], [ 2.3967565, 49.3090115 ], [ 2.407205, 49.303203 ], [ 2.4493612, 49.313014599999988 ], [ 2.4565155, 49.310126 ], [ 2.458042, 49.310763 ], [ 2.4577105, 49.316243 ] ] ] } }
+]
+}

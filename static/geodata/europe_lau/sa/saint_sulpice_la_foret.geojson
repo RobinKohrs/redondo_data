@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_sulpice_la_foret",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Sulpice-la-Forêt", "metric_roundness": 42.85, "metric_rectangularity": 71.03, "metric_mobile_fit": 70.19, "metric_aspect_ratio": 0.861, "metric_area_km2": 15.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5785562, 48.1961629 ], [ -1.5692918, 48.204347399999989 ], [ -1.5681988, 48.211561899999985 ], [ -1.5629809, 48.209498399999987 ], [ -1.5578978, 48.212238299999981 ], [ -1.555063, 48.224008 ], [ -1.5751229, 48.230689 ], [ -1.5828897, 48.217919 ], [ -1.591114, 48.214255500000014 ], [ -1.598436, 48.198705499999988 ], [ -1.599654, 48.1969995 ], [ -1.5785562, 48.1961629 ] ] ] } }
+]
+}

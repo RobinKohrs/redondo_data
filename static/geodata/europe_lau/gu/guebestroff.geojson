@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guebestroff",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guébestroff", "metric_roundness": 32.55, "metric_rectangularity": 79.29, "metric_mobile_fit": 96.24, "metric_aspect_ratio": 0.6, "metric_area_km2": 9.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6978945, 48.8519675 ], [ 6.7126658, 48.8290011 ], [ 6.718796, 48.824456 ], [ 6.7236165, 48.827285499999988 ], [ 6.7272165, 48.8255315 ], [ 6.728198, 48.827295499999984 ], [ 6.7298375, 48.8285805 ], [ 6.7263488, 48.8373794 ], [ 6.7123691, 48.8526752 ], [ 6.7106955, 48.859491 ], [ 6.708116, 48.8573805 ], [ 6.704189, 48.855283 ], [ 6.6978945, 48.8519675 ] ] ] } }
+]
+}

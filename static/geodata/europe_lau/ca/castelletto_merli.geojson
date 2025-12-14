@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castelletto_merli",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castelletto Merli", "metric_roundness": 49.92, "metric_rectangularity": 58.76, "metric_mobile_fit": 81.04, "metric_aspect_ratio": 0.752, "metric_area_km2": 23.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2411568, 45.062799 ], [ 8.2645455, 45.062235 ], [ 8.262111, 45.069985 ], [ 8.2467873, 45.078101599999982 ], [ 8.2487289, 45.0887302 ], [ 8.2457645, 45.0949235 ], [ 8.2364928, 45.0950931 ], [ 8.23256, 45.099148499999984 ], [ 8.2158865, 45.092418 ], [ 8.2151168, 45.0838074 ], [ 8.2230193, 45.0705771 ], [ 8.2205525, 45.060241799999986 ], [ 8.213122, 45.0577925 ], [ 8.2302885, 45.0508635 ], [ 8.2411568, 45.062799 ] ] ] } }
+]
+}

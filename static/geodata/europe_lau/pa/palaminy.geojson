@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "palaminy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Palaminy", "metric_roundness": 45.6, "metric_rectangularity": 74.93, "metric_mobile_fit": 94.38, "metric_aspect_ratio": 0.506, "metric_area_km2": 21.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.04783, 43.2116505 ], [ 1.0421748, 43.202958699999989 ], [ 1.0413515, 43.19546 ], [ 1.0443032, 43.1945476 ], [ 1.045912, 43.177821 ], [ 1.0563253, 43.175370699999988 ], [ 1.0598305, 43.1714105 ], [ 1.06534, 43.169355 ], [ 1.0706915, 43.1693735 ], [ 1.0723266, 43.176965399999986 ], [ 1.0766265, 43.178672 ], [ 1.0728412, 43.2137975 ], [ 1.067287, 43.2201495 ], [ 1.04783, 43.2116505 ] ] ] } }
+]
+}

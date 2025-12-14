@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aarburg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aarburg", "metric_roundness": 41.14, "metric_rectangularity": 70.6, "metric_mobile_fit": 93.26, "metric_aspect_ratio": 0.63, "metric_area_km2": 9.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.909576, 47.307957 ], [ 7.9137907, 47.311988399999983 ], [ 7.9120633, 47.3203081 ], [ 7.9225745, 47.3287126 ], [ 7.9182065, 47.335382 ], [ 7.9158755, 47.336606 ], [ 7.9095927, 47.3406554 ], [ 7.9038698, 47.336412 ], [ 7.8970596, 47.3274653 ], [ 7.8973846, 47.3201651 ], [ 7.8921905, 47.3162295 ], [ 7.909576, 47.307957 ] ] ] } }
+]
+}

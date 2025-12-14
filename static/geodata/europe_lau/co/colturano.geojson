@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "colturano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Colturano", "metric_roundness": 42.62, "metric_rectangularity": 59.09, "metric_mobile_fit": -6.78, "metric_aspect_ratio": 1.63, "metric_area_km2": 8.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3550459, 45.377181799999981 ], [ 9.364231, 45.386422 ], [ 9.3212835, 45.3863035 ], [ 9.3227086, 45.380744799999967 ], [ 9.3331075, 45.368028 ], [ 9.334001, 45.3679175 ], [ 9.350978, 45.376357 ], [ 9.3550459, 45.377181799999981 ] ] ] } }
+]
+}

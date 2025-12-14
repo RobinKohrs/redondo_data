@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guarbecque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guarbecque", "metric_roundness": 34.77, "metric_rectangularity": 69.35, "metric_mobile_fit": 72.65, "metric_aspect_ratio": 0.836, "metric_area_km2": 13.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4866735, 50.6141704 ], [ 2.4736012, 50.599631099999982 ], [ 2.4649485, 50.59604 ], [ 2.465643, 50.592128 ], [ 2.473054, 50.591268 ], [ 2.479905, 50.592337 ], [ 2.491842, 50.594684699999981 ], [ 2.4955541, 50.6014403 ], [ 2.508141, 50.6115785 ], [ 2.508432, 50.617231199999985 ], [ 2.5046873, 50.6229502 ], [ 2.491164, 50.624275499999989 ], [ 2.4866735, 50.6141704 ] ] ] } }
+]
+}

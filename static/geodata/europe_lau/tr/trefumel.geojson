@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trefumel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tréfumel", "metric_roundness": 52.88, "metric_rectangularity": 67.4, "metric_mobile_fit": 74.39, "metric_aspect_ratio": 0.819, "metric_area_km2": 12.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0437485, 48.335534499999987 ], [ -2.0408326, 48.3335235 ], [ -2.041078, 48.327590499999978 ], [ -2.0282045, 48.323805899999982 ], [ -2.003479, 48.332316 ], [ -2.0209815, 48.356504 ], [ -2.0249031, 48.3536071 ], [ -2.0259949, 48.3466187 ], [ -2.0356365, 48.3431925 ], [ -2.0437485, 48.335534499999987 ] ] ] } }
+]
+}

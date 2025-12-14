@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "croettwiller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Crœttwiller", "metric_roundness": 41.74, "metric_rectangularity": 71.11, "metric_mobile_fit": 91.99, "metric_aspect_ratio": 0.643, "metric_area_km2": 5.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0273185, 48.9250015 ], [ 8.0306925, 48.919875499999989 ], [ 8.0400985, 48.9220547 ], [ 8.04125, 48.925576 ], [ 8.0462255, 48.931453 ], [ 8.0499387, 48.939887 ], [ 8.0433475, 48.943003 ], [ 8.0295965, 48.934759 ], [ 8.0273185, 48.9250015 ] ] ] } }
+]
+}

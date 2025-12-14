@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "perriers_en_beauficel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Perriers-en-Beauficel", "metric_roundness": 42.86, "metric_rectangularity": 70.84, "metric_mobile_fit": 94.12, "metric_aspect_ratio": 0.621, "metric_area_km2": 20.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.97927, 48.7262225 ], [ -0.9838836, 48.7336637 ], [ -0.9828116, 48.739036 ], [ -0.982786, 48.752321499999987 ], [ -0.9858865, 48.7559145 ], [ -0.9962367, 48.755708899999981 ], [ -1.018894, 48.745811 ], [ -1.0119096, 48.739036 ], [ -1.018221, 48.728638 ], [ -1.0178676, 48.725744 ], [ -1.0164152, 48.7138491 ], [ -1.0077529, 48.715935699999982 ], [ -1.0018574, 48.7210978 ], [ -0.9844425, 48.724189499999987 ], [ -0.97927, 48.7262225 ] ] ] } }
+]
+}

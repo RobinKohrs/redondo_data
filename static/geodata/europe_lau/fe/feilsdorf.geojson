@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "feilsdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Feilsdorf", "metric_roundness": 38.91, "metric_rectangularity": 61.83, "metric_mobile_fit": 77.7, "metric_aspect_ratio": 0.786, "metric_area_km2": 9.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3987827, 49.9844087 ], [ 6.407749, 49.980357 ], [ 6.4112123, 49.981885299999988 ], [ 6.4126902, 49.987072899999987 ], [ 6.421864, 49.986513 ], [ 6.42142, 49.991088399999988 ], [ 6.41075, 50.0050015 ], [ 6.401226, 50.008426 ], [ 6.3877597, 50.0086196 ], [ 6.3873285, 50.005451 ], [ 6.3981397, 50.002248799999983 ], [ 6.4012191, 49.997067899999983 ], [ 6.3982125, 49.9928545 ], [ 6.3987827, 49.9844087 ] ] ] } }
+]
+}

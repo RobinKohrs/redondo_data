@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kricen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Křičeň", "metric_roundness": 47.57, "metric_rectangularity": 66.88, "metric_mobile_fit": 51.53, "metric_aspect_ratio": 1.047, "metric_area_km2": 10.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.631526, 50.118015899999989 ], [ 15.6334224, 50.1103801 ], [ 15.642563, 50.1084413 ], [ 15.644544, 50.103015 ], [ 15.6623602, 50.099811399999986 ], [ 15.66854, 50.1096545 ], [ 15.666036, 50.11478169999998 ], [ 15.6613055, 50.116208 ], [ 15.6480759, 50.1180633 ], [ 15.6425205, 50.126905 ], [ 15.629573, 50.121456499999987 ], [ 15.6242945, 50.1179135 ], [ 15.631526, 50.118015899999989 ] ] ] } }
+]
+}

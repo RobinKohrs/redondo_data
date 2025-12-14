@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sitara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σιταρά", "metric_roundness": 57.26, "metric_rectangularity": 67.24, "metric_mobile_fit": 65.35, "metric_aspect_ratio": 0.909, "metric_area_km2": 17.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3906509, 39.9443422 ], [ 21.378477, 39.9303625 ], [ 21.3976989, 39.926062 ], [ 21.4229706, 39.9324513 ], [ 21.4261652, 39.9455296 ], [ 21.4209238, 39.946759899999982 ], [ 21.4113555, 39.960906 ], [ 21.4022462, 39.966280299999987 ], [ 21.393658, 39.962979 ], [ 21.3906509, 39.9443422 ] ] ] } }
+]
+}

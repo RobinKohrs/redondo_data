@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_rabenion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Ραβενίων", "metric_roundness": 58.15, "metric_rectangularity": 68.64, "metric_mobile_fit": 58.63, "metric_aspect_ratio": 0.976, "metric_area_km2": 26.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.5859865, 39.91881 ], [ 20.5994895, 39.9084825 ], [ 20.6104681, 39.921575399999981 ], [ 20.625162, 39.92591 ], [ 20.625208, 39.9489005 ], [ 20.6219089, 39.9445291 ], [ 20.6147263, 39.943007 ], [ 20.6020152, 39.9477833 ], [ 20.588571, 39.95821 ], [ 20.579821, 39.9495633 ], [ 20.575704, 39.949884499999975 ], [ 20.569393, 39.9448675 ], [ 20.5619, 39.9378285 ], [ 20.5859865, 39.91881 ] ] ] } }
+]
+}

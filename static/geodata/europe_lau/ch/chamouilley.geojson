@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chamouilley",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chamouilley", "metric_roundness": 43.47, "metric_rectangularity": 70.1, "metric_mobile_fit": 96.79, "metric_aspect_ratio": 0.595, "metric_area_km2": 17.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.0505215, 48.6318504 ], [ 5.032916, 48.61355649999998 ], [ 5.0417849, 48.6090807 ], [ 5.0348583, 48.6012578 ], [ 5.0377445, 48.592468499999988 ], [ 5.0527984, 48.590769899999984 ], [ 5.069886, 48.593638 ], [ 5.070291, 48.595922 ], [ 5.0599753, 48.613409599999976 ], [ 5.0566645, 48.632330499999988 ], [ 5.0505215, 48.6318504 ] ] ] } }
+]
+}

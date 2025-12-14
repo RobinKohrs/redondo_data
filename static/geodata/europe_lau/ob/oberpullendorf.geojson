@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberpullendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberpullendorf", "metric_roundness": 58.09, "metric_rectangularity": 66.65, "metric_mobile_fit": 48.88, "metric_aspect_ratio": 1.074, "metric_area_km2": 27.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4892881, 47.5031532 ], [ 16.480924, 47.504384 ], [ 16.4945058, 47.490175399999984 ], [ 16.5116284, 47.481839 ], [ 16.516308, 47.4763685 ], [ 16.5234912, 47.4758559 ], [ 16.5355115, 47.4837817 ], [ 16.5450216, 47.4925502 ], [ 16.5443635, 47.4964005 ], [ 16.5393708, 47.5150824 ], [ 16.5273365, 47.510562099999987 ], [ 16.52447, 47.516191 ], [ 16.4892881, 47.5031532 ] ] ] } }
+]
+}

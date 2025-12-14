@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mesnil_lettre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mesnil-Lettre", "metric_roundness": 38.08, "metric_rectangularity": 52.46, "metric_mobile_fit": 40.77, "metric_aspect_ratio": 1.155, "metric_area_km2": 19.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2542324, 48.4672481 ], [ 4.2260783, 48.451216099999982 ], [ 4.2371454, 48.4428185 ], [ 4.2681504, 48.4526514 ], [ 4.29625, 48.465228 ], [ 4.2802973, 48.4676511 ], [ 4.2700861, 48.4744076 ], [ 4.2624131, 48.474047399999989 ], [ 4.2556725, 48.483113499999973 ], [ 4.247239, 48.4766495 ], [ 4.2542324, 48.4672481 ] ] ] } }
+]
+}

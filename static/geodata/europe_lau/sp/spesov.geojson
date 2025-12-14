@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spesov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spešov", "metric_roundness": 53.52, "metric_rectangularity": 75.53, "metric_mobile_fit": 23.57, "metric_aspect_ratio": 1.327, "metric_area_km2": 7.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6383815, 49.3984445 ], [ 16.6315474, 49.398407599999985 ], [ 16.6283921, 49.4036292 ], [ 16.6241357, 49.404714899999988 ], [ 16.6007295, 49.4001795 ], [ 16.6039182, 49.389966299999983 ], [ 16.608203, 49.386245 ], [ 16.632255, 49.393061499999988 ], [ 16.6383815, 49.3984445 ] ] ] } }
+]
+}

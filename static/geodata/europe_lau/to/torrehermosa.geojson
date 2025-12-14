@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "torrehermosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Torrehermosa", "metric_roundness": 56.75, "metric_rectangularity": 71.51, "metric_mobile_fit": 43.96, "metric_aspect_ratio": 1.123, "metric_area_km2": 36.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.1349478, 41.2249104 ], [ -2.1159915, 41.2199825 ], [ -2.1096657, 41.220809 ], [ -2.0919733, 41.230488 ], [ -2.089896, 41.238091 ], [ -2.1196082, 41.264335399999986 ], [ -2.1299407, 41.2618995 ], [ -2.158693, 41.264885 ], [ -2.1564455, 41.258644 ], [ -2.15489, 41.2403945 ], [ -2.1506085, 41.225441 ], [ -2.1498325, 41.2207945 ], [ -2.149, 41.2188145 ], [ -2.1349478, 41.2249104 ] ] ] } }
+]
+}

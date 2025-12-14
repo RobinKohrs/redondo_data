@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "quintas_de_sao_bartolomeu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Quintas de São Bartolomeu", "metric_roundness": 44.82, "metric_rectangularity": 56.69, "metric_mobile_fit": 28.08, "metric_aspect_ratio": 1.282, "metric_area_km2": 17.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.1210361, 40.3884286 ], [ -7.1283175, 40.381694 ], [ -7.1216565, 40.369593699999989 ], [ -7.1274465, 40.3562145 ], [ -7.0881316, 40.364832799999981 ], [ -7.0814384, 40.362574699999989 ], [ -7.0819932, 40.368066899999981 ], [ -7.077141, 40.366700699999988 ], [ -7.068646, 40.369784 ], [ -7.0994545, 40.3843215 ], [ -7.1045214, 40.3916822 ], [ -7.11465, 40.388379 ], [ -7.1210361, 40.3884286 ] ] ] } }
+]
+}

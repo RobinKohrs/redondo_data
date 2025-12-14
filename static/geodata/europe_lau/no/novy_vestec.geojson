@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "novy_vestec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nový Vestec", "metric_roundness": 42.84, "metric_rectangularity": 72.12, "metric_mobile_fit": -12.95, "metric_aspect_ratio": 1.692, "metric_area_km2": 7.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6994825, 50.1756355 ], [ 14.7152485, 50.1724765 ], [ 14.7218454, 50.179761399999983 ], [ 14.7308815, 50.183763 ], [ 14.710194, 50.188466 ], [ 14.6942489, 50.1865764 ], [ 14.688633, 50.179907 ], [ 14.6994825, 50.1756355 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "serignac_peboudou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sérignac-Péboudou", "metric_roundness": 34.13, "metric_rectangularity": 54.52, "metric_mobile_fit": 40.65, "metric_aspect_ratio": 1.156, "metric_area_km2": 24.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5060712, 44.6328148 ], [ 0.5083698, 44.623020899999979 ], [ 0.5033185, 44.6062365 ], [ 0.5109723, 44.6068271 ], [ 0.5296292, 44.6018105 ], [ 0.5460267, 44.6026395 ], [ 0.566831, 44.596691 ], [ 0.5676513, 44.600501 ], [ 0.5583829, 44.6033468 ], [ 0.5577204, 44.612856 ], [ 0.5632335, 44.622073 ], [ 0.5553143, 44.6243213 ], [ 0.5328418, 44.6228237 ], [ 0.5227823, 44.6345828 ], [ 0.515517, 44.6384315 ], [ 0.499865, 44.6350765 ], [ 0.5060712, 44.6328148 ] ] ] } }
+]
+}

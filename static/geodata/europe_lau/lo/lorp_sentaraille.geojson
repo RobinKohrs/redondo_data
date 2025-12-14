@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lorp_sentaraille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lorp-Sentaraille", "metric_roundness": 51.26, "metric_rectangularity": 74.43, "metric_mobile_fit": 78.55, "metric_aspect_ratio": 0.777, "metric_area_km2": 11.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.117307, 43.020678499999988 ], [ 1.1121525, 43.026963 ], [ 1.10934, 43.029051 ], [ 1.106684, 43.032982499999989 ], [ 1.102715, 43.035327 ], [ 1.0910427, 43.020435 ], [ 1.0906249, 43.0160978 ], [ 1.107077, 43.0019725 ], [ 1.1236559, 43.003961199999985 ], [ 1.1260723, 43.0096822 ], [ 1.1230185, 43.014032 ], [ 1.117307, 43.020678499999988 ] ] ] } }
+]
+}

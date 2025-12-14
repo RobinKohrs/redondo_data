@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "armentieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Armentières", "metric_roundness": 66.33, "metric_rectangularity": 72.99, "metric_mobile_fit": 50.9, "metric_aspect_ratio": 1.054, "metric_area_km2": 15.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8647215, 50.683022 ], [ 2.871429, 50.681419499999983 ], [ 2.891203, 50.6787949 ], [ 2.8973075, 50.680583 ], [ 2.898094, 50.685918 ], [ 2.8949621, 50.688458299999986 ], [ 2.900403, 50.693271499999987 ], [ 2.886375, 50.7053754 ], [ 2.870144, 50.7029 ], [ 2.8561975, 50.686027 ], [ 2.8647215, 50.683022 ] ] ] } }
+]
+}

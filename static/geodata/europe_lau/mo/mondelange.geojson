@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mondelange",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mondelange", "metric_roundness": 50.96, "metric_rectangularity": 68.3, "metric_mobile_fit": -2.73, "metric_aspect_ratio": 1.59, "metric_area_km2": 9.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.194819, 49.260786499999973 ], [ 6.192567, 49.2657892 ], [ 6.1857747, 49.266587 ], [ 6.181011, 49.272695 ], [ 6.1770456, 49.273821299999987 ], [ 6.1710108, 49.2713077 ], [ 6.1579955, 49.2658865 ], [ 6.1509478, 49.2629537 ], [ 6.152341, 49.255813 ], [ 6.1710108, 49.2562449 ], [ 6.1858185, 49.256587499999981 ], [ 6.194819, 49.260786499999973 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_melidoniou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μελιδονίου", "metric_roundness": 12.39, "metric_rectangularity": 51.13, "metric_mobile_fit": 75.79, "metric_aspect_ratio": 0.805, "metric_area_km2": 11.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.058885, 35.3351485 ], [ 24.0867777, 35.3494163 ], [ 24.0990757, 35.3662104 ], [ 24.1203034, 35.3868068 ], [ 24.119932, 35.389312499999988 ], [ 24.1186385, 35.3915905 ], [ 24.1177175, 35.393907499999983 ], [ 24.1164475, 35.3980885 ], [ 24.110099, 35.396243 ], [ 24.0906152, 35.3790125 ], [ 24.0849833, 35.353113 ], [ 24.071333, 35.3445053 ], [ 24.0582055, 35.340203 ], [ 24.058885, 35.3351485 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chavanne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chavanne", "metric_roundness": 37.09, "metric_rectangularity": 60.22, "metric_mobile_fit": 95.16, "metric_aspect_ratio": 0.611, "metric_area_km2": 4.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.66598, 47.561931 ], [ 6.6634035, 47.5629735 ], [ 6.6621445, 47.5646865 ], [ 6.661572, 47.566644499999988 ], [ 6.653691, 47.571217 ], [ 6.6484725, 47.560196 ], [ 6.6478978, 47.555764199999977 ], [ 6.6587943, 47.5515654 ], [ 6.6590115, 47.546607 ], [ 6.6629095, 47.552002 ], [ 6.668155, 47.5551385 ], [ 6.6701765, 47.557901 ], [ 6.66598, 47.561931 ] ] ] } }
+]
+}

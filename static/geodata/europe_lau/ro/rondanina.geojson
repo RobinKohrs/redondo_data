@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rondanina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rondanina", "metric_roundness": 48.9, "metric_rectangularity": 57.65, "metric_mobile_fit": 71.12, "metric_aspect_ratio": 0.851, "metric_area_km2": 25.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1991431, 44.568217399999988 ], [ 9.2077065, 44.562800599999989 ], [ 9.2095964, 44.5564138 ], [ 9.1975885, 44.5491976 ], [ 9.193234, 44.540465499999989 ], [ 9.2062098, 44.537156 ], [ 9.220257, 44.5281665 ], [ 9.2310658, 44.529146399999988 ], [ 9.2327058, 44.5348125 ], [ 9.2500045, 44.545354 ], [ 9.2441731, 44.5476585 ], [ 9.2224174, 44.5724343 ], [ 9.1995835, 44.575688 ], [ 9.1991431, 44.568217399999988 ] ] ] } }
+]
+}

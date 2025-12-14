@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chaux", "metric_roundness": 55.01, "metric_rectangularity": 77.92, "metric_mobile_fit": 80.87, "metric_aspect_ratio": 0.754, "metric_area_km2": 15.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.90974, 47.144783499999988 ], [ 4.9070175, 47.1443945 ], [ 4.905571, 47.1431215 ], [ 4.9028745, 47.143271 ], [ 4.9023542, 47.1372247 ], [ 4.8937176, 47.133451599999987 ], [ 4.885948, 47.1229915 ], [ 4.9024765, 47.108763 ], [ 4.9137655, 47.115981 ], [ 4.925213, 47.125085 ], [ 4.9258573, 47.134853 ], [ 4.912567, 47.144585 ], [ 4.90974, 47.144783499999988 ] ] ] } }
+]
+}

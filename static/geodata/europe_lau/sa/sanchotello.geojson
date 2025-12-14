@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sanchotello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sanchotello", "metric_roundness": 67.73, "metric_rectangularity": 70.13, "metric_mobile_fit": 57.49, "metric_aspect_ratio": 0.988, "metric_area_km2": 23.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.7374506, 40.4291148 ], [ -5.7306158, 40.4391172 ], [ -5.7305485, 40.4468612 ], [ -5.7229015, 40.453655 ], [ -5.7325729, 40.4617916 ], [ -5.749033, 40.465851 ], [ -5.7505953, 40.4616914 ], [ -5.77593, 40.4491235 ], [ -5.776483, 40.44051 ], [ -5.7718515, 40.435936 ], [ -5.76918, 40.431469 ], [ -5.7693675, 40.42797849999998 ], [ -5.7699275, 40.4261475 ], [ -5.7661985, 40.425174 ], [ -5.73474, 40.4245605 ], [ -5.7374506, 40.4291148 ] ] ] } }
+]
+}

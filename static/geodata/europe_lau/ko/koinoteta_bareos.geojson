@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_bareos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βαρέος", "metric_roundness": 32.13, "metric_rectangularity": 77.3, "metric_mobile_fit": -136.48, "metric_aspect_ratio": 2.927, "metric_area_km2": 8.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.5796196, 38.389852399999988 ], [ 20.565504, 38.386222499999988 ], [ 20.5657655, 38.3823585 ], [ 20.565807, 38.381181 ], [ 20.5993605, 38.3772647 ], [ 20.6079379, 38.3778837 ], [ 20.615696, 38.380966 ], [ 20.609537, 38.390705 ], [ 20.5796196, 38.389852399999988 ] ] ] } }
+]
+}

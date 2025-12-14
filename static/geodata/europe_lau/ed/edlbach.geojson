@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "edlbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Edlbach", "metric_roundness": 66.67, "metric_rectangularity": 74.16, "metric_mobile_fit": 33.53, "metric_aspect_ratio": 1.227, "metric_area_km2": 18.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.3832298, 47.7125211 ], [ 14.369131, 47.720657 ], [ 14.342493, 47.7179865 ], [ 14.3357271, 47.715282699999989 ], [ 14.332554, 47.709728 ], [ 14.3418128, 47.706815 ], [ 14.348298, 47.693832299999976 ], [ 14.3552781, 47.691615499999983 ], [ 14.3650843, 47.692397199999988 ], [ 14.3742025, 47.6973722 ], [ 14.3855165, 47.70838149999998 ], [ 14.3832298, 47.7125211 ] ] ] } }
+]
+}

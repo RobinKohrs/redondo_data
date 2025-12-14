@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castelnuovo_calcea",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castelnuovo Calcea", "metric_roundness": 64.31, "metric_rectangularity": 78.95, "metric_mobile_fit": 68.22, "metric_aspect_ratio": 0.88, "metric_area_km2": 15.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.305908, 44.7831195 ], [ 8.3010434, 44.7838906 ], [ 8.3035917, 44.7894538 ], [ 8.3000263, 44.794207799999988 ], [ 8.3012632, 44.7982958 ], [ 8.297296, 44.8033265 ], [ 8.276233, 44.8015895 ], [ 8.2740165, 44.800529 ], [ 8.2737763, 44.794207799999988 ], [ 8.2688882, 44.786420899999982 ], [ 8.268063, 44.775177499999984 ], [ 8.290198, 44.7728145 ], [ 8.3031645, 44.77388 ], [ 8.305908, 44.7831195 ] ] ] } }
+]
+}

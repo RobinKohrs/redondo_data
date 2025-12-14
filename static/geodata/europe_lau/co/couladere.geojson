@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "couladere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Couladère", "metric_roundness": 62.38, "metric_rectangularity": 82.19, "metric_mobile_fit": 88.99, "metric_aspect_ratio": 0.673, "metric_area_km2": 4.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0904572, 43.2052742 ], [ 1.0850355, 43.2000777 ], [ 1.0852531, 43.1935358 ], [ 1.090319, 43.1865145 ], [ 1.0942844, 43.188517799999985 ], [ 1.102343, 43.1881275 ], [ 1.101961, 43.2041995 ], [ 1.0904572, 43.2052742 ] ] ] } }
+]
+}

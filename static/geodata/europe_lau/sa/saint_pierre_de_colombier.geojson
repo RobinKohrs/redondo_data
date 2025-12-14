@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_pierre_de_colombier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Pierre-de-Colombier", "metric_roundness": 64.57, "metric_rectangularity": 67.81, "metric_mobile_fit": 44.59, "metric_aspect_ratio": 1.117, "metric_area_km2": 19.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2585051, 44.6938062 ], [ 4.2679205, 44.692744499999989 ], [ 4.2690515, 44.694479 ], [ 4.27176, 44.696195 ], [ 4.2779475, 44.696401 ], [ 4.2821835, 44.698539 ], [ 4.2789581, 44.7018037 ], [ 4.279309, 44.7084364 ], [ 4.2927235, 44.715375 ], [ 4.2866795, 44.7255125 ], [ 4.2656905, 44.7273617 ], [ 4.2617056, 44.7205885 ], [ 4.2427215, 44.7153955 ], [ 4.2383328, 44.7094611 ], [ 4.2453682, 44.7051436 ], [ 4.24483, 44.700641 ], [ 4.2585051, 44.6938062 ] ] ] } }
+]
+}

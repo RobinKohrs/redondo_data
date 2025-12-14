@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schorbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schorbach", "metric_roundness": 71.22, "metric_rectangularity": 70.9, "metric_mobile_fit": 56.13, "metric_aspect_ratio": 1.001, "metric_area_km2": 31.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3808915, 49.080342899999984 ], [ 7.3798663, 49.068614399999987 ], [ 7.389813, 49.060433 ], [ 7.4023185, 49.0594281 ], [ 7.416297, 49.070152499999985 ], [ 7.4349192, 49.073588699999981 ], [ 7.4403945, 49.0791945 ], [ 7.43946, 49.0858164 ], [ 7.4249645, 49.098129 ], [ 7.4178452, 49.094352699999988 ], [ 7.393033, 49.099997 ], [ 7.3783815, 49.086894 ], [ 7.3808915, 49.080342899999984 ] ] ] } }
+]
+}

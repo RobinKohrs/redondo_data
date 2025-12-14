@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laffaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laffaux", "metric_roundness": 49.02, "metric_rectangularity": 68.65, "metric_mobile_fit": 46.02, "metric_aspect_ratio": 1.102, "metric_area_km2": 15.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4352483, 49.4363629 ], [ 3.4376066, 49.4410817 ], [ 3.4450064, 49.4427753 ], [ 3.4517343, 49.449296899999986 ], [ 3.464083, 49.451357 ], [ 3.441638, 49.4528971 ], [ 3.4414841, 49.458694899999976 ], [ 3.434097, 49.4673825 ], [ 3.4176875, 49.458178 ], [ 3.4073725, 49.448073 ], [ 3.424248, 49.433936 ], [ 3.4352483, 49.4363629 ] ] ] } }
+]
+}

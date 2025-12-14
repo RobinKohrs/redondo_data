@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dallikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dällikon", "metric_roundness": 62.14, "metric_rectangularity": 81.24, "metric_mobile_fit": 44.36, "metric_aspect_ratio": 1.119, "metric_area_km2": 9.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.418145, 47.434244 ], [ 8.426901, 47.431759 ], [ 8.444624, 47.428242 ], [ 8.4507447, 47.4373526 ], [ 8.4407825, 47.448082 ], [ 8.4197155, 47.449692499999976 ], [ 8.4152585, 47.4422287 ], [ 8.416004, 47.434595 ], [ 8.418145, 47.434244 ] ] ] } }
+]
+}

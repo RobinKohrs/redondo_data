@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_hostien",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Hostien", "metric_roundness": 61.29, "metric_rectangularity": 69.52, "metric_mobile_fit": 48.22, "metric_aspect_ratio": 1.08, "metric_area_km2": 27.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0822749, 45.07625179999998 ], [ 4.0830241, 45.0843858 ], [ 4.0802555, 45.0875315 ], [ 4.0560798, 45.0882456 ], [ 4.0529931, 45.0918785 ], [ 4.0445277, 45.0926283 ], [ 4.0294425, 45.1006535 ], [ 4.0268928, 45.082832199999984 ], [ 4.018629, 45.071972499999987 ], [ 4.0273521, 45.0642521 ], [ 4.0432588, 45.0585622 ], [ 4.0681495, 45.0670545 ], [ 4.0822749, 45.07625179999998 ] ] ] } }
+]
+}

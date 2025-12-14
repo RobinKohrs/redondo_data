@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_authieux_sur_le_port_saint_ouen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Authieux-sur-le-Port-Saint-Ouen", "metric_roundness": 56.02, "metric_rectangularity": 79.13, "metric_mobile_fit": 81.63, "metric_aspect_ratio": 0.746, "metric_area_km2": 10.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.133332, 49.3285955 ], [ 1.136901, 49.3258375 ], [ 1.1444192, 49.3301254 ], [ 1.1454745, 49.335509 ], [ 1.1440613, 49.3400996 ], [ 1.1470755, 49.343531 ], [ 1.1398676, 49.352200699999976 ], [ 1.1271405, 49.3509685 ], [ 1.1203584, 49.340447 ], [ 1.1168828, 49.32777549999998 ], [ 1.1314935, 49.327849499999985 ], [ 1.133332, 49.3285955 ] ] ] } }
+]
+}

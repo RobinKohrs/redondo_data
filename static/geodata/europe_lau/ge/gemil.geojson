@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gemil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gémil", "metric_roundness": 54.96, "metric_rectangularity": 63.85, "metric_mobile_fit": 26.87, "metric_aspect_ratio": 1.294, "metric_area_km2": 5.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5948709, 43.742889899999987 ], [ 1.5862785, 43.748301 ], [ 1.5843875, 43.745951 ], [ 1.5839205, 43.743691 ], [ 1.582274, 43.7407585 ], [ 1.5812749, 43.7359818 ], [ 1.5921123, 43.730410899999981 ], [ 1.613312, 43.7364575 ], [ 1.6085455, 43.7457025 ], [ 1.5948709, 43.742889899999987 ] ] ] } }
+]
+}

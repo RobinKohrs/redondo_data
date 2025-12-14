@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nolay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nolay", "metric_roundness": 70.51, "metric_rectangularity": 72.65, "metric_mobile_fit": 48.62, "metric_aspect_ratio": 1.076, "metric_area_km2": 39.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.301155, 41.517181499999985 ], [ -2.3104885, 41.529796499999989 ], [ -2.3354585, 41.548355 ], [ -2.3443598, 41.5450324 ], [ -2.3728605, 41.534458 ], [ -2.3757845, 41.526259 ], [ -2.3713365, 41.508438 ], [ -2.3499378, 41.5075904 ], [ -2.3443598, 41.5035063 ], [ -2.3253155, 41.496441 ], [ -2.322844, 41.5002175 ], [ -2.3183565, 41.502083 ], [ -2.301155, 41.517181499999985 ] ] ] } }
+]
+}

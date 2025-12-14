@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "visoncourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Visoncourt", "metric_roundness": 28.36, "metric_rectangularity": 68.81, "metric_mobile_fit": -21.27, "metric_aspect_ratio": 1.775, "metric_area_km2": 9.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3073296, 47.7506632 ], [ 6.3200034, 47.7498831 ], [ 6.325013, 47.760027 ], [ 6.324012, 47.764473 ], [ 6.3033349, 47.7584927 ], [ 6.2983591, 47.754665299999985 ], [ 6.2823491, 47.754389 ], [ 6.2706155, 47.749584 ], [ 6.2713655, 47.746182499999989 ], [ 6.277365, 47.7460695 ], [ 6.289084, 47.7438715 ], [ 6.2970106, 47.744147 ], [ 6.305749, 47.7462315 ], [ 6.3073296, 47.7506632 ] ] ] } }
+]
+}

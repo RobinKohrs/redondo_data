@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "l_horme",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "L'Horme", "metric_roundness": 63.87, "metric_rectangularity": 77.2, "metric_mobile_fit": 52.72, "metric_aspect_ratio": 1.035, "metric_area_km2": 8.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.545638, 45.482088 ], [ 4.553169, 45.486439 ], [ 4.5571835, 45.489239 ], [ 4.561371, 45.493116 ], [ 4.5493192, 45.4969795 ], [ 4.539066, 45.504987 ], [ 4.536276, 45.505627 ], [ 4.5267839, 45.4944978 ], [ 4.5256756, 45.48729609999998 ], [ 4.5327544, 45.481486899999986 ], [ 4.5433735, 45.4814575 ], [ 4.545638, 45.482088 ] ] ] } }
+]
+}

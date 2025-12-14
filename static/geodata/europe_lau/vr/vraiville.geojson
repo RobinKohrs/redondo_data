@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vraiville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vraiville", "metric_roundness": 64.65, "metric_rectangularity": 69.69, "metric_mobile_fit": 70.66, "metric_aspect_ratio": 0.856, "metric_area_km2": 15.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0543991, 49.2231956 ], [ 1.0559996, 49.2261793 ], [ 1.0482495, 49.2273475 ], [ 1.0433431, 49.227154599999984 ], [ 1.0443002, 49.232193599999988 ], [ 1.0419994, 49.2341864 ], [ 1.0322154, 49.229497699999989 ], [ 1.0234697, 49.22956139999998 ], [ 1.016992, 49.2253275 ], [ 1.0232605, 49.212983 ], [ 1.023398, 49.204398 ], [ 1.036961, 49.202802 ], [ 1.0581165, 49.215133499999986 ], [ 1.0543991, 49.2231956 ] ] ] } }
+]
+}

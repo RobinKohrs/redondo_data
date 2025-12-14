@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_brice_courcelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Brice-Courcelles", "metric_roundness": 42.98, "metric_rectangularity": 53.84, "metric_mobile_fit": 75.54, "metric_aspect_ratio": 0.807, "metric_area_km2": 9.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.96834, 49.273482 ], [ 3.9759981, 49.270758399999984 ], [ 3.9811835, 49.262233 ], [ 3.9871809, 49.255037799999982 ], [ 3.998372, 49.2555225 ], [ 3.9955102, 49.260523499999984 ], [ 3.9979165, 49.271601299999986 ], [ 4.0061844, 49.279866 ], [ 3.9985307, 49.2856323 ], [ 3.9930955, 49.282222 ], [ 3.9882048, 49.27766279999998 ], [ 3.9788445, 49.2774845 ], [ 3.96834, 49.273482 ] ] ] } }
+]
+}

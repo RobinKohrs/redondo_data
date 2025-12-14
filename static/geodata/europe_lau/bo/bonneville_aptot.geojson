@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonneville_aptot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonneville-Aptot", "metric_roundness": 51.22, "metric_rectangularity": 68.13, "metric_mobile_fit": 61.44, "metric_aspect_ratio": 0.948, "metric_area_km2": 17.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7340343, 49.2645063 ], [ 0.7294445, 49.258816 ], [ 0.7360682, 49.2559579 ], [ 0.7417469, 49.2488094 ], [ 0.7535969, 49.245582 ], [ 0.7678105, 49.2444723 ], [ 0.7754235, 49.2475345 ], [ 0.767875, 49.262317 ], [ 0.760765, 49.2698615 ], [ 0.748981, 49.2690235 ], [ 0.7487225, 49.274735 ], [ 0.7366475, 49.2761835 ], [ 0.7293558, 49.2713721 ], [ 0.730137, 49.269168 ], [ 0.7340343, 49.2645063 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_leptopodon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λεπτοπόδων", "metric_roundness": 37.01, "metric_rectangularity": 63.35, "metric_mobile_fit": 98.42, "metric_aspect_ratio": 0.547, "metric_area_km2": 7.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.9396323, 38.5778192 ], [ 25.955274, 38.555673 ], [ 25.9566896, 38.560726 ], [ 25.9559125, 38.5665155 ], [ 25.9606307, 38.571945 ], [ 25.9619172, 38.578575 ], [ 25.9602897, 38.5834538 ], [ 25.95203, 38.591084 ], [ 25.9371535, 38.587755 ], [ 25.9396323, 38.5778192 ] ] ] } }
+]
+}

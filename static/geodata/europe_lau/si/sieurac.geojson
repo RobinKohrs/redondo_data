@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sieurac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sieurac", "metric_roundness": 53.54, "metric_rectangularity": 70.69, "metric_mobile_fit": 56.87, "metric_aspect_ratio": 0.994, "metric_area_km2": 16.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.0716844, 43.80756 ], [ 2.0712558, 43.801879899999975 ], [ 2.080529, 43.7932525 ], [ 2.0827665, 43.795191 ], [ 2.0906773, 43.797283899999989 ], [ 2.1017624, 43.7941759 ], [ 2.1165445, 43.79886 ], [ 2.0955289, 43.8151034 ], [ 2.0940115, 43.8237485 ], [ 2.082617, 43.8294031 ], [ 2.0698119, 43.822256499999973 ], [ 2.0667585, 43.81581 ], [ 2.0686575, 43.810691 ], [ 2.0716844, 43.80756 ] ] ] } }
+]
+}

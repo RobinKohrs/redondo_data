@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontenoy_sur_moselle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontenoy-sur-Moselle", "metric_roundness": 49.78, "metric_rectangularity": 60.46, "metric_mobile_fit": 55.96, "metric_aspect_ratio": 1.003, "metric_area_km2": 12.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0103525, 48.6981702 ], [ 6.0062631, 48.7026344 ], [ 6.0077288, 48.7109339 ], [ 6.003624, 48.717705 ], [ 5.992542, 48.7166253 ], [ 5.985498, 48.722643499999982 ], [ 5.9810805, 48.720268899999979 ], [ 5.9790185, 48.714920199999987 ], [ 5.9727695, 48.713426 ], [ 5.9676488, 48.7004178 ], [ 5.9789909, 48.7027309 ], [ 5.9968064, 48.6983245 ], [ 6.003369, 48.6933438 ], [ 6.0103525, 48.695590799999984 ], [ 6.0121775, 48.696178 ], [ 6.0103525, 48.6981702 ] ] ] } }
+]
+}

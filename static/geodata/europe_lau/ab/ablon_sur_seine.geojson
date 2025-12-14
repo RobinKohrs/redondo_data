@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ablon_sur_seine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ablon-sur-Seine", "metric_roundness": 40.54, "metric_rectangularity": 66.44, "metric_mobile_fit": 15.77, "metric_aspect_ratio": 1.405, "metric_area_km2": 2.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.420723, 48.721045499999988 ], [ 2.4255485, 48.7227045 ], [ 2.435128, 48.724090499999981 ], [ 2.4313772, 48.725744 ], [ 2.4236794, 48.729137599999987 ], [ 2.4110165, 48.72605 ], [ 2.4142655, 48.717814499999989 ], [ 2.420723, 48.721045499999988 ] ] ] } }
+]
+}

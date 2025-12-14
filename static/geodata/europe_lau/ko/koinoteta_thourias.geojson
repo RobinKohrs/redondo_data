@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_thourias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Θουρίας", "metric_roundness": 52.6, "metric_rectangularity": 68.13, "metric_mobile_fit": 4.5, "metric_aspect_ratio": 1.518, "metric_area_km2": 6.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.025147, 37.083554 ], [ 22.0406784, 37.0800902 ], [ 22.0517975, 37.073305499999989 ], [ 22.0580645, 37.077713499999987 ], [ 22.0611285, 37.084761 ], [ 22.05842, 37.0908835 ], [ 22.028181, 37.092221 ], [ 22.025147, 37.083554 ] ] ] } }
+]
+}

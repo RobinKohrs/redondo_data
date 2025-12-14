@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aibre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aibre", "metric_roundness": 46.31, "metric_rectangularity": 77.0, "metric_mobile_fit": 5.77, "metric_aspect_ratio": 1.505, "metric_area_km2": 10.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.681619, 47.557067499999981 ], [ 6.677154, 47.5553435 ], [ 6.6765405, 47.550276 ], [ 6.6888455, 47.5453565 ], [ 6.6988925, 47.544574 ], [ 6.7037885, 47.5450645 ], [ 6.706769, 47.543286499999986 ], [ 6.7089575, 47.543203 ], [ 6.7151695, 47.542699 ], [ 6.7183895, 47.54546 ], [ 6.722134, 47.5456795 ], [ 6.719505, 47.5525345 ], [ 6.685244, 47.5631475 ], [ 6.681619, 47.557067499999981 ] ] ] } }
+]
+}

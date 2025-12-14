@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vaniskovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vaniškovce", "metric_roundness": 54.82, "metric_rectangularity": 71.1, "metric_mobile_fit": 70.01, "metric_aspect_ratio": 0.862, "metric_area_km2": 11.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.2860825, 49.177199 ], [ 21.2768809, 49.162621099999981 ], [ 21.281842, 49.152202 ], [ 21.2845468, 49.154982499999988 ], [ 21.3070531, 49.1569267 ], [ 21.3140845, 49.160612 ], [ 21.3102588, 49.161776799999984 ], [ 21.3028542, 49.1750336 ], [ 21.296315, 49.180408 ], [ 21.2860825, 49.177199 ] ] ] } }
+]
+}

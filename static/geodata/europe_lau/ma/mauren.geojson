@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mauren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mauren", "metric_roundness": 46.16, "metric_rectangularity": 59.7, "metric_mobile_fit": 56.4, "metric_aspect_ratio": 0.999, "metric_area_km2": 16.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5339635, 47.220604 ], [ 9.5313295, 47.211321299999987 ], [ 9.5448519, 47.204543699999981 ], [ 9.5597452, 47.208603599999989 ], [ 9.5655705, 47.204368699999982 ], [ 9.5606345, 47.2004015 ], [ 9.5792925, 47.1951 ], [ 9.5848095, 47.204570499999988 ], [ 9.5697663, 47.2187105 ], [ 9.5548239, 47.2238104 ], [ 9.557584, 47.2314815 ], [ 9.544842, 47.226161499999982 ], [ 9.5339635, 47.220604 ] ] ] } }
+]
+}

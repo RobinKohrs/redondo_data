@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ronchois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ronchois", "metric_roundness": 58.67, "metric_rectangularity": 67.5, "metric_mobile_fit": 29.15, "metric_aspect_ratio": 1.271, "metric_area_km2": 20.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6210257, 49.7083023 ], [ 1.648512, 49.716311499999982 ], [ 1.653324, 49.7241165 ], [ 1.654157, 49.729114 ], [ 1.6512492, 49.7313457 ], [ 1.6257685, 49.730066799999989 ], [ 1.6177303, 49.737859199999981 ], [ 1.61003, 49.739005 ], [ 1.5984408, 49.735798599999988 ], [ 1.5937941, 49.7268786 ], [ 1.606469, 49.717718499999982 ], [ 1.6210257, 49.7083023 ] ] ] } }
+]
+}

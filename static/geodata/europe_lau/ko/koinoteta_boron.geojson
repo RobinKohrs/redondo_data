@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_boron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βώρων", "metric_roundness": 45.43, "metric_rectangularity": 71.38, "metric_mobile_fit": 94.07, "metric_aspect_ratio": 0.622, "metric_area_km2": 16.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.8269075, 35.0544647 ], [ 24.8237801, 35.075925799999986 ], [ 24.8275345, 35.085239 ], [ 24.8150463, 35.093435599999985 ], [ 24.794832, 35.0923915 ], [ 24.7986686, 35.0756807 ], [ 24.7934703, 35.0648415 ], [ 24.8005022, 35.0580521 ], [ 24.8112135, 35.054368499999988 ], [ 24.8174304, 35.0550087 ], [ 24.8234035, 35.048598 ], [ 24.8269075, 35.0544647 ] ] ] } }
+]
+}

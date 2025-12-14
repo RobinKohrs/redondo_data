@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "forst_an_der_weinstrasse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Forst an der Weinstraße", "metric_roundness": 19.07, "metric_rectangularity": 47.03, "metric_mobile_fit": -54.64, "metric_aspect_ratio": 2.109, "metric_area_km2": 7.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.206894, 49.437734 ], [ 8.1735159, 49.430054499999983 ], [ 8.1499225, 49.42027 ], [ 8.1757329, 49.426148299999987 ], [ 8.1850008, 49.419386899999985 ], [ 8.1927185, 49.4201595 ], [ 8.2045222, 49.4282061 ], [ 8.2094135, 49.437281 ], [ 8.206894, 49.437734 ] ] ] } }
+]
+}

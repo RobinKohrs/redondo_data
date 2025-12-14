@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "burgauberg_neudauberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Burgauberg-Neudauberg", "metric_roundness": 32.13, "metric_rectangularity": 66.82, "metric_mobile_fit": 95.2, "metric_aspect_ratio": 0.515, "metric_area_km2": 23.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.125975, 47.179486499999989 ], [ 16.1023095, 47.183906499999985 ], [ 16.1072826, 47.176575399999983 ], [ 16.109483, 47.1662025 ], [ 16.115005, 47.1453369 ], [ 16.1129665, 47.133247 ], [ 16.1372145, 47.130906 ], [ 16.1424145, 47.1312075 ], [ 16.1364826, 47.1482138 ], [ 16.1405163, 47.1697758 ], [ 16.1289085, 47.179305 ], [ 16.125975, 47.179486499999989 ] ] ] } }
+]
+}

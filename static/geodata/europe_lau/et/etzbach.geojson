@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "etzbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Etzbach", "metric_roundness": 55.71, "metric_rectangularity": 82.43, "metric_mobile_fit": 67.35, "metric_aspect_ratio": 0.889, "metric_area_km2": 7.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.680133, 50.775594 ], [ 7.682324, 50.770990899999987 ], [ 7.6967135, 50.765308 ], [ 7.7007848, 50.7643536 ], [ 7.7053949, 50.7658409 ], [ 7.7101515, 50.772774 ], [ 7.7028765, 50.778531 ], [ 7.686481, 50.785706499999982 ], [ 7.680133, 50.775594 ] ] ] } }
+]
+}

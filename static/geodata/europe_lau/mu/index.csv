@@ -1,0 +1,506 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Mutěnice,mutenice,mu,63.62,75.64,16.71
+europe_lau,Münzbach,munzbach,mu,43.78,51.54,52.94
+europe_lau,Mühlheim am Inn,muhlheim_am_inn,mu,48.59,66.88,24.89
+europe_lau,Mühlenbarbek,muhlenbarbek,mu,51.22,59.85,80.96
+europe_lau,Münsterdorf,munsterdorf,mu,52.48,56.11,47.36
+europe_lau,Mühlenrade,muhlenrade,mu,38.91,57.69,26.51
+europe_lau,Müssen,mussen,mu,52.68,69.95,18.96
+europe_lau,Mustin,mustin,mu,61.44,69.49,57.27
+europe_lau,Münzkirchen,munzkirchen,mu,30.18,55.2,75.41
+europe_lau,Mucheln,mucheln,mu,52.36,66.45,75.68
+europe_lau,Mühbrook,muhbrook,mu,46.96,75.26,91.83
+europe_lau,Mühlgraben,muhlgraben,mu,55.87,64.22,67.63
+europe_lau,Munkbrarup,munkbrarup,mu,32.45,54.9,41.58
+europe_lau,"Munster, Stadt",munster_stadt,mu,48.08,60.03,64.37
+europe_lau,Müden (Aller),muden_aller,mu,51.18,58.94,57.08
+europe_lau,Muhr,muhr,mu,30.66,60.65,-11.12
+europe_lau,Mühltal,muhltal,mu,42.75,68.59,98.76
+europe_lau,Münster (Hessen),munster_hessen,mu,24.15,49.52,-97.51
+europe_lau,"Mülheim an der Ruhr, Stadt",mulheim_an_der_ruhr_stadt,mu,57.84,68.34,77.75
+europe_lau,Much,much,mu,60.24,69.54,53.5
+europe_lau,"Münster, Stadt",munster_stadt,mu,64.88,69.42,72.37
+europe_lau,Mühlbach am Hochkönig,muhlbach_am_hochkonig,mu,58.26,71.29,26
+europe_lau,"Mühlheim am Main, Stadt",muhlheim_am_main_stadt,mu,56.07,68.21,68.98
+europe_lau,"Münzenberg, Stadt",munzenberg_stadt,mu,42.16,62.38,-8.53
+europe_lau,Mudersbach,mudersbach,mu,43.1,59.05,40.13
+europe_lau,Müllenbach,mullenbach,mu,57.36,73.69,7.19
+europe_lau,Müsch,musch,mu,62.35,69.96,43.22
+europe_lau,Münchhausen,munchhausen,mu,57.8,64.23,41.11
+europe_lau,Mücke,mucke,mu,43.31,66.44,50.5
+europe_lau,Mudenbach,mudenbach,mu,61.28,75.02,73.87
+europe_lau,Mündersbach,mundersbach,mu,52.05,70.39,28.66
+europe_lau,Müschenbach,muschenbach,mu,33.91,54.14,-5.16
+europe_lau,Müden (Mosel),muden_mosel,mu,52.81,76.95,-6.58
+europe_lau,Müllenbach,mullenbach,mu,55.35,78.46,88.49
+europe_lau,Münk,munk,mu,60.05,79.52,57.76
+europe_lau,"Mülheim-Kärlich, Stadt",mulheim_karlich_stadt,mu,62.03,65.63,64.97
+europe_lau,"Münstermaifeld, Stadt",munstermaifeld_stadt,mu,27.35,44.25,64.66
+europe_lau,Mühlpfad,muhlpfad,mu,57.77,80.67,23.7
+europe_lau,Mutterschied,mutterschied,mu,59.58,69.24,62.52
+europe_lau,Münchwald,munchwald,mu,54.21,68.09,20.47
+europe_lau,Mudershausen,mudershausen,mu,40.58,53.6,66.16
+europe_lau,Mülbach,mulbach,mu,53.45,68.74,52.38
+europe_lau,Muxerath,muxerath,mu,51.47,73.33,77.81
+europe_lau,Münchweiler an der Alsenz,munchweiler_an_der_alsenz,mu,54.65,73.2,82.45
+europe_lau,Münsterappel,munsterappel,mu,32.89,54.32,-30.06
+europe_lau,Mürlenbach,murlenbach,mu,35.03,60.16,-57.46
+europe_lau,Mülheim an der Mosel,mulheim_an_der_mosel,mu,26.97,37.99,34.08
+europe_lau,Musweiler,musweiler,mu,73.42,77.04,48.35
+europe_lau,Mühlen,muhlen,mu,39.34,62.06,-2.31
+europe_lau,Murau,murau,mu,39.08,53.79,80.07
+europe_lau,Mühlhausen im Täle,muhlhausen_im_tale,mu,32.49,50.15,79.48
+europe_lau,Mundelsheim,mundelsheim,mu,47.95,62.13,68.82
+europe_lau,Murr,murr,mu,65.92,89.65,59.65
+europe_lau,Mützenich,mutzenich,mu,56.1,63.52,42
+europe_lau,Mückeln,muckeln,mu,45.54,67.67,35.72
+europe_lau,Münchweiler am Klingbach,munchweiler_am_klingbach,mu,55.13,67.24,68.2
+europe_lau,Mürzzuschlag,murzzuschlag,mu,40.98,54.8,51.12
+europe_lau,"Murrhardt, Stadt",murrhardt_stadt,mu,51.21,65.77,31.58
+europe_lau,Mutterstadt,mutterstadt,mu,56.78,76.03,70.04
+europe_lau,Münster-Sarmsheim,munster_sarmsheim,mu,48.09,61.11,18.02
+europe_lau,Münchweiler an der Rodalb,munchweiler_an_der_rodalb,mu,49.32,57.54,41.13
+europe_lau,"Mühlacker, Stadt",muhlacker_stadt,mu,44.78,48.79,57.95
+europe_lau,"Müllheim, Stadt",mullheim_stadt,mu,51.42,55.06,58.64
+europe_lau,Münstertal/Schwarzwald,munstertal_schwarzwald,mu,42.47,66.51,67.38
+europe_lau,Mühlenbach,muhlenbach,mu,62.22,65.8,36.66
+europe_lau,"Mühlheim an der Donau, Stadt",muhlheim_an_der_donau_stadt,mu,43.01,58.76,53.15
+europe_lau,Mühlingen,muhlingen,mu,47.77,58.85,26.58
+europe_lau,Mühlhausen-Ehingen,muhlhausen_ehingen,mu,46.65,56.9,75.9
+europe_lau,Murg,murg,mu,44.05,63.95,98.05
+europe_lau,Mulfingen,mulfingen,mu,48.27,64.99,89.63
+europe_lau,Mutlangen,mutlangen,mu,33.62,55.83,62.94
+europe_lau,"Münsingen, Stadt",munsingen_stadt,mu,44.94,50.56,57.3
+europe_lau,Muggensturm,muggensturm,mu,66.88,76.83,63.14
+europe_lau,Mureck,mureck,mu,28.08,45.47,-22.08
+europe_lau,Mühlhausen,muhlhausen,mu,39.59,60.9,24.78
+europe_lau,"Munderkingen, Stadt",munderkingen_stadt,mu,34.5,41.21,39.75
+europe_lau,"Murnau a.Staffelsee, M",murnau_a_staffelsee_m,mu,36.43,56.25,71.97
+europe_lau,Mühlbachl,muhlbachl,mu,41.67,53.55,84.58
+europe_lau,Mutters,mutters,mu,48.74,69.54,71.84
+europe_lau,"München, Landeshauptstadt",munchen_landeshauptstadt,mu,54.49,61.15,26.75
+europe_lau,Münsing,munsing,mu,27.21,51.97,86.43
+europe_lau,Münster,munster,mu,58.16,72.63,69.45
+europe_lau,"Mühldorf a.Inn, St",muhldorf_a_inn_st,mu,40.68,48.76,49.95
+europe_lau,Mühldorfer Hart,muhldorfer_hart,mu,67.25,73.45,47.96
+europe_lau,Münchsmünster,munchsmunster,mu,45.43,58.68,45.44
+europe_lau,Mühlen Eichsen,muhlen_eichsen,mu,39.07,59.92,82.85
+europe_lau,Mücka / Mikow,mucka_mikow,mu,36.5,54,67.84
+europe_lau,Mühlhausen,muhlhausen,mu,57.77,62.98,34.95
+europe_lau,Müglitztal,muglitztal,mu,49.55,72.72,22.84
+europe_lau,"Münsterhausen, M",munsterhausen_m,mu,42.66,66.99,-26.16
+europe_lau,"Mügeln, Stadt",mugeln_stadt,mu,35.9,55.41,-34.64
+europe_lau,Muldestausee,muldestausee,mu,51.53,62.31,22.45
+europe_lau,Münchehofe,munchehofe,mu,46.03,61.34,83.19
+europe_lau,"Mücheln (Geiseltal), Stadt",mucheln_geiseltal_stadt,mu,40.82,57.77,70.5
+europe_lau,Münster,munster,mu,40.39,63.23,94.69
+europe_lau,Munningen,munningen,mu,35.94,65.76,-5.45
+europe_lau,"Mühlberg/Elbe, Stadt",muhlberg_elbe_stadt,mu,30.23,47.11,98.78
+europe_lau,Mühlenberge,muhlenberge,mu,35.16,44.45,25.45
+europe_lau,"Müncheberg, Stadt",muncheberg_stadt,mu,41.31,61.82,36.31
+europe_lau,"Münchenbernsdorf, Stadt",munchenbernsdorf_stadt,mu,36.98,64.1,40.41
+europe_lau,"Mühlhausen/Thüringen, Stadt",muhlhausen_thuringen_stadt,mu,46,52.82,71.65
+europe_lau,Mühlenbecker Land,muhlenbecker_land,mu,34.74,58.21,96.9
+europe_lau,Muro,muro,mu,43.2,75.63,70.68
+europe_lau,Mudá,muda,mu,55.17,68.35,30.57
+europe_lau,Munitibar-Arbatzegi Gerrikaitz,munitibar_arbatzegi_gerrikaitz,mu,61.19,66.97,67.45
+europe_lau,Muxika,muxika,mu,37.17,66.47,66.5
+europe_lau,Mundaka,mundaka,mu,49.9,51.58,60.24
+europe_lau,Mungia,mungia,mu,41.45,64.39,65.46
+europe_lau,Muskiz,muskiz,mu,46.58,71.05,94.57
+europe_lau,Muñana,munana,mu,58.83,64.29,45.44
+europe_lau,Muñico,munico,mu,46.24,57.28,56.13
+europe_lau,Muñogalindo,munogalindo,mu,53.37,68.21,75.37
+europe_lau,Muñogrande,munogrande,mu,41.84,64.48,36.91
+europe_lau,Muñomer del Peco,munomer_del_peco,mu,41.08,58.23,59.94
+europe_lau,Muñopepe,munopepe,mu,46.74,53.51,74.31
+europe_lau,Muñosancho,munosancho,mu,53.39,67.34,73.95
+europe_lau,Muñotello,munotello,mu,54.19,63.91,79.01
+europe_lau,Muriel de la Fuente,muriel_de_la_fuente,mu,51.21,70.88,-1.95
+europe_lau,Muriel Viejo,muriel_viejo,mu,33.29,52.93,95.71
+europe_lau,Murtas,murtas,mu,33.74,48.69,80.65
+europe_lau,Munera,munera,mu,70.69,78.77,55.03
+europe_lau,Muntanyola,muntanyola,mu,46.32,62.58,1.84
+europe_lau,Mura,mura,mu,55.24,65.23,60.38
+europe_lau,Mutxamel,mutxamel,mu,42.33,56.79,-0.37
+europe_lau,Murla,murla,mu,40.13,66.83,-0.7
+europe_lau,Muro de Alcoy,muro_de_alcoy,mu,48.09,55.29,48.61
+europe_lau,Mühldorf,muhldorf,mu,22.99,40.87,84.07
+europe_lau,Mugardos,mugardos,mu,30.25,57.68,-33.69
+europe_lau,Muxía,muxia,mu,53.07,61.07,39.72
+europe_lau,Muros,muros,mu,42.55,48.27,61.87
+europe_lau,Muri bei Bern,muri_bei_bern,mu,51.75,62.26,55.48
+europe_lau,Musson,musson,mu,42.73,57.52,43.93
+europe_lau,"Müllrose, Stadt",mullrose_stadt,mu,27.05,40,49.51
+europe_lau,Mühl Rosin,muhl_rosin,mu,42.89,57.39,1.12
+europe_lau,"Münchberg, St",munchberg_st,mu,53.79,64.15,33.26
+europe_lau,Mühlenfließ,muhlenfliess,mu,33.12,50.81,71.96
+europe_lau,Muhu vald,muhu_vald,mu,48.46,61.71,55.97
+europe_lau,Mulgi vald,mulgi_vald,mu,56.63,60.41,38.94
+europe_lau,Mustvee vald,mustvee_vald,mu,32.28,51.58,99.1
+europe_lau,Mühlau,muhlau,mu,64.78,72,75.9
+europe_lau,Mulda/Sa.,mulda_sa,mu,50.92,55.62,41.04
+europe_lau,Münchsteinach,munchsteinach,mu,49.76,57.07,82.82
+europe_lau,Mühlental,muhlental,mu,36.89,57.67,68.41
+europe_lau,Muldenhammer,muldenhammer,mu,36.96,53.27,-12.21
+europe_lau,Muhr a.See,muhr_a_see,mu,52.39,67.5,90.16
+europe_lau,Mülsen,mulsen,mu,28.99,65.24,57.48
+europe_lau,Murchin,murchin,mu,43.68,56,51.87
+europe_lau,"Münnerstadt, St",munnerstadt_st,mu,32.29,51.88,-18.54
+europe_lau,"Mühlhausen, M",muhlhausen_m,mu,30.48,62.32,55.84
+europe_lau,Musau,musau,mu,43.48,66.57,24.89
+europe_lau,Muchow,muchow,mu,43.81,61.72,10.03
+europe_lau,Mustin,mustin,mu,67.67,71.35,38.89
+europe_lau,Muids,muids,mu,31.73,70.94,4.55
+europe_lau,Muzy,muzy,mu,51.66,61.6,22.6
+europe_lau,Mussidan,mussidan,mu,63.16,66.96,75.19
+europe_lau,Mümliswil-Ramiswil,mumliswil_ramiswil,mu,25.79,52.02,-97.45
+europe_lau,Mühlau,muhlau,mu,59.06,74.67,75.53
+europe_lau,Muri (AG),muri_ag,mu,49.99,67.96,88.45
+europe_lau,Münsterlingen,munsterlingen,mu,42.84,60.76,7.71
+europe_lau,Musigny,musigny,mu,65.8,86.02,44.04
+europe_lau,Mussy-la-Fosse,mussy_la_fosse,mu,45.09,79.8,37.14
+europe_lau,Mumpf,mumpf,mu,36.68,50.97,8.16
+europe_lau,Münchwilen (TG),munchwilen_tg,mu,33.86,40.36,39.17
+europe_lau,Murasson,murasson,mu,30.42,46.81,-32.66
+europe_lau,Mur-de-Barrez,mur_de_barrez,mu,33.43,61.88,98.8
+europe_lau,Muret-le-Château,muret_le_chateau,mu,48.27,61.88,83.69
+europe_lau,Murols,murols,mu,41.9,57.17,79.47
+europe_lau,Mutrux,mutrux,mu,23.62,50.58,-84.43
+europe_lau,Muhos,muhos,mu,31.19,51.32,92.27
+europe_lau,Multia,multia,mu,48.3,58.83,56.54
+europe_lau,Muonio,muonio,mu,37.61,64.08,95.48
+europe_lau,Mustasaari,mustasaari,mu,35.24,46.67,92.48
+europe_lau,Muntelier,muntelier,mu,24.86,64.89,43.35
+europe_lau,Muurame,muurame,mu,44.43,58.93,71.9
+europe_lau,Muron,muron,mu,33.09,60.2,64.75
+europe_lau,Murten,murten,mu,41.57,51.25,29.99
+europe_lau,Münchenstein,munchenstein,mu,34.35,46.44,64.98
+europe_lau,Murat,murat,mu,46,66.26,89.76
+europe_lau,Muttenz,muttenz,mu,51.43,66.9,91.55
+europe_lau,Muzzano,muzzano,mu,59.28,67.61,31.66
+europe_lau,Murgenthal,murgenthal,mu,54.63,64.77,73.21
+europe_lau,Murs-et-Gélignieux,murs_et_gelignieux,mu,30.62,57.73,-1.28
+europe_lau,Müllheim,mullheim,mu,53.58,60.97,77.46
+europe_lau,Murtin-et-Bogny,murtin_et_bogny,mu,41.63,57.21,69.23
+europe_lau,Muras,muras,mu,46.3,66.58,34.1
+europe_lau,Muniesa,muniesa,mu,42.2,68.44,88.77
+europe_lau,Murueta,murueta,mu,47.04,52.32,48.01
+europe_lau,Münchenbuchsee,munchenbuchsee,mu,28.96,49.67,30.15
+europe_lau,Muñopedro,munopedro,mu,38.03,59.26,79.67
+europe_lau,Muñoveros,munoveros,mu,55.18,66.55,79.7
+europe_lau,Muduex,muduex,mu,37.87,65.28,70.91
+europe_lau,Museros,museros,mu,33.41,63.14,65.9
+europe_lau,Muolen,muolen,mu,30.87,50.21,-39.76
+europe_lau,Muhen,muhen,mu,54.49,78.84,31.83
+europe_lau,Muelas de los Caballeros,muelas_de_los_caballeros,mu,43.05,60.66,84.28
+europe_lau,Muelas del Pan,muelas_del_pan,mu,33.21,59.91,39.48
+europe_lau,Muga de Sayago,muga_de_sayago,mu,52.27,68.37,52.12
+europe_lau,Mues,mues,mu,37.39,58.05,84.17
+europe_lau,Murchante,murchante,mu,43.3,67.31,90.44
+europe_lau,Murieta,murieta,mu,47.42,61.04,51.46
+europe_lau,Murillo el Cuende,murillo_el_cuende,mu,35.77,64.87,92.92
+europe_lau,Murillo el Fruto,murillo_el_fruto,mu,54.73,73.24,24.08
+europe_lau,Muruzábal,muruzabal,mu,32.54,46.79,87.51
+europe_lau,Muotathal,muotathal,mu,40.09,54.19,11.57
+europe_lau,Muret-et-Crouttes,muret_et_crouttes,mu,32.12,49.11,29.87
+europe_lau,Muscourt,muscourt,mu,41.37,64.77,91.65
+europe_lau,Mussy-sur-Seine,mussy_sur_seine,mu,38.87,49.04,29
+europe_lau,Mutriku,mutriku,mu,72.84,74.07,44.59
+europe_lau,Mutiloa,mutiloa,mu,37.2,66.87,-70.44
+europe_lau,Mucientes,mucientes,mu,54.75,76.92,61.04
+europe_lau,"Mudarra, La",mudarra_la,mu,40.67,54.22,49.19
+europe_lau,Muriel,muriel,mu,47.52,64.26,29.58
+europe_lau,Mühleberg,muhleberg,mu,63.91,70.75,75.79
+europe_lau,Münchenwiler,munchenwiler,mu,62.51,81.77,64.72
+europe_lau,Murat,murat,mu,55.96,68.32,61.07
+europe_lau,Muel,muel,mu,41.19,56.14,36.19
+europe_lau,"Muela, La",muela_la,mu,44.57,56.92,76.87
+europe_lau,Munébrega,munebrega,mu,49.03,62.96,76.17
+europe_lau,Murero,murero,mu,22.81,56.56,44.01
+europe_lau,Murillo de Gállego,murillo_de_gallego,mu,20.99,49.64,78.04
+europe_lau,Müntschemier,muntschemier,mu,52.59,66.62,33.12
+europe_lau,Muíños,muinos,mu,53.94,61.06,68.04
+europe_lau,Munilla,munilla,mu,33.33,38.16,59.98
+europe_lau,Murillo de Río Leza,murillo_de_rio_leza,mu,32.69,56.23,-27.65
+europe_lau,Muro de Aguas,muro_de_aguas,mu,41.25,53.94,-3.31
+europe_lau,Muro en Cameros,muro_en_cameros,mu,60.88,67.57,49.33
+europe_lau,Murias de Paredes,murias_de_paredes,mu,63.84,66.43,60.13
+europe_lau,Mutrécy,mutrecy,mu,53.54,65.88,81.8
+europe_lau,Mula,mula,mu,53.74,56.88,66.82
+europe_lau,Murcia,murcia,mu,49.42,65.28,41.24
+europe_lau,Muros de Nalón,muros_de_nalon,mu,53.56,65.6,41.99
+europe_lau,Mussey-sur-Marne,mussey_sur_marne,mu,47.28,69.43,-24.82
+europe_lau,Muneville-le-Bingard,muneville_le_bingard,mu,58.55,65.01,55.09
+europe_lau,Muneville-sur-Mer,muneville_sur_mer,mu,45.87,56.88,26.49
+europe_lau,Mûrs-Erigné,murs_erigne,mu,61.16,65.15,52.73
+europe_lau,Muides-sur-Loire,muides_sur_loire,mu,40.68,53.9,3.1
+europe_lau,Mulsans,mulsans,mu,53.4,60.44,50.18
+europe_lau,Mur-de-Sologne,mur_de_sologne,mu,40.29,53.29,86.34
+europe_lau,Mur-sur-Allier,mur_sur_allier,mu,45.01,65.55,89.95
+europe_lau,Muizon,muizon,mu,26.36,64.4,-117.35
+europe_lau,Mutigny,mutigny,mu,36.6,65.03,82.35
+europe_lau,Murat-le-Quaire,murat_le_quaire,mu,43.03,71.19,-34
+europe_lau,Murol,murol,mu,21.17,41.98,-28.61
+europe_lau,Murville,murville,mu,57.42,76.25,45.74
+europe_lau,Muidorge,muidorge,mu,58.13,71.52,30.73
+europe_lau,Muirancourt,muirancourt,mu,67.24,81.86,53.23
+europe_lau,Mureaumont,mureaumont,mu,29.9,48.43,56.9
+europe_lau,Münchwilen (AG),munchwilen_ag,mu,45.39,69.54,95.63
+europe_lau,Mutigney,mutigney,mu,40.87,65.85,72.42
+europe_lau,Murtensee/Lac de Morat (FR),murtensee_lac_de_morat_fr,mu,54.95,80.79,43.39
+europe_lau,Murtensee/Lac de Morat (VD),murtensee_lac_de_morat_vd,mu,64.15,85.16,47.43
+europe_lau,Muret,muret,mu,42.72,46.32,47.94
+europe_lau,Mülligen,mulligen,mu,45.17,66.57,6.93
+europe_lau,Muracciole,muracciole,mu,41.82,57.19,91.37
+europe_lau,Murato,murato,mu,55.37,65.45,57.82
+europe_lau,Muro,muro,mu,28.7,50.61,98.78
+europe_lau,Murs,murs,mu,38.53,62.13,95.83
+europe_lau,Muel,muel,mu,45.92,59.29,85.69
+europe_lau,Mugron,mugron,mu,57.05,66.17,33.23
+europe_lau,Murianette,murianette,mu,42.41,55.57,67.52
+europe_lau,Murinais,murinais,mu,47.71,59.61,70.04
+europe_lau,Murzo,murzo,mu,57.37,68.15,42.4
+europe_lau,Mureils,mureils,mu,35.5,58.7,99.07
+europe_lau,Muralto,muralto,mu,48.18,67.15,23.05
+europe_lau,Mus,mus,mu,30.98,54.7,96.97
+europe_lau,Muriaux,muriaux,mu,56.12,66.19,38.65
+europe_lau,Mudaison,mudaison,mu,54.74,68.67,62.53
+europe_lau,Murles,murles,mu,39.82,60.64,90.88
+europe_lau,Murviel-lès-Béziers,murviel_les_beziers,mu,41.43,57.85,92.79
+europe_lau,Murviel-lès-Montpellier,murviel_les_montpellier,mu,55.35,68.62,30.4
+europe_lau,Muille-Villette,muille_villette,mu,55.53,62.99,52.35
+europe_lau,Murat-sur-Vèbre,murat_sur_vebre,mu,52.14,62.91,54.14
+europe_lau,Muć,muc,mu,63.92,67.63,57.62
+europe_lau,Mussy-sous-Dun,mussy_sous_dun,mu,53.53,66.07,69.54
+europe_lau,Münchendorf,munchendorf,mu,59.35,78.65,81.9
+europe_lau,Muchedent,muchedent,mu,43.46,53.24,10.79
+europe_lau,Müllendorf,mullendorf,mu,31.17,57.07,97.78
+europe_lau,Muespach,muespach,mu,59.97,73.52,83.94
+europe_lau,Muespach-le-Haut,muespach_le_haut,mu,66.32,82.7,71.42
+europe_lau,Muhlbach-sur-Munster,muhlbach_sur_munster,mu,38.97,52.97,32.35
+europe_lau,Mulhouse,mulhouse,mu,51.72,56.12,62.16
+europe_lau,Munchhouse,munchhouse,mu,57.81,63.18,68.04
+europe_lau,Munster,munster,mu,39.32,49.06,25.98
+europe_lau,Muntzenheim,muntzenheim,mu,45.78,66.51,-3.3
+europe_lau,Munwiller,munwiller,mu,62.6,67.85,42.36
+europe_lau,Murbach,murbach,mu,28.72,55.63,-1.45
+europe_lau,Mursko Središće,mursko_sredisce,mu,40.91,48.46,48.94
+europe_lau,Mulcent,mulcent,mu,67,70.01,69.75
+europe_lau,Mun,mun,mu,40.15,65.94,99.78
+europe_lau,Murs,murs,mu,48.24,58.87,52.84
+europe_lau,Mukařov,mukarov,mu,56.03,68.05,73.28
+europe_lau,Münichreith-Laimbach,munichreith_laimbach,mu,30.35,43.27,93.63
+europe_lau,Mulsanne,mulsanne,mu,56.54,69.94,84.11
+europe_lau,Murvaux,murvaux,mu,34.85,54.81,60.11
+europe_lau,Muzeray,muzeray,mu,44.48,67.87,15.49
+europe_lau,Muhlbach-sur-Bruche,muhlbach_sur_bruche,mu,40.42,63.07,-21
+europe_lau,Mulhausen,mulhausen,mu,44.5,64.02,29.63
+europe_lau,Munchhausen,munchhausen,mu,49.79,75.24,68.7
+europe_lau,Mundolsheim,mundolsheim,mu,40.02,48.13,51.4
+europe_lau,Mussig,mussig,mu,44.18,64.85,81.36
+europe_lau,Muttersholtz,muttersholtz,mu,53.03,65.25,20.72
+europe_lau,Mutzenhouse,mutzenhouse,mu,62.98,76.15,65.1
+europe_lau,Mutzig,mutzig,mu,52.74,58.39,60.79
+europe_lau,Mulcey,mulcey,mu,50.65,67.12,77.08
+europe_lau,Munster,munster,mu,33.1,66.93,-19.56
+europe_lau,Murlin,murlin,mu,41.35,63.46,81.58
+europe_lau,Muncq-Nieurlet,muncq_nieurlet,mu,38.05,63.62,97.38
+europe_lau,Mühldorf,muhldorf,mu,54.36,65.18,32.63
+europe_lau,Musculdy,musculdy,mu,23.72,44.68,98.98
+europe_lau,Mûres,mures,mu,53.25,68.07,88.71
+europe_lau,Muzillac,muzillac,mu,31.64,53.03,71.19
+europe_lau,Musièges,musieges,mu,54.58,61.26,53.94
+europe_lau,Mutěnice,mutenice,mu,53.18,77.65,61.74
+europe_lau,Mussolente,mussolente,mu,36.37,80.84,90.63
+europe_lau,Mulazzo,mulazzo,mu,51.42,60.73,42.19
+europe_lau,Muzzana del Turgnano,muzzana_del_turgnano,mu,27.95,59.1,84.06
+europe_lau,Murów,murow,mu,57.78,62.38,68.56
+europe_lau,Muggiò,muggio,mu,53.45,64.59,88.87
+europe_lau,Mussomeli,mussomeli,mu,66.42,72.64,55.35
+europe_lau,Mugnano del Cardinale,mugnano_del_cardinale,mu,32.28,46.97,-14.18
+europe_lau,Muggia,muggia,mu,25.24,57.39,-94.01
+europe_lau,Muro Leccese,muro_leccese,mu,47.27,64.75,35.57
+europe_lau,Muravera,muravera,mu,25.84,48.8,86.18
+europe_lau,Musei,musei,mu,47.3,63.87,9.37
+europe_lau,Mura,mura,mu,50.43,67.08,10.51
+europe_lau,Muscoline,muscoline,mu,54.54,62.95,55.75
+europe_lau,Musile di Piave,musile_di_piave,mu,34.82,42.08,57.22
+europe_lau,Mulazzano,mulazzano,mu,33.86,52.92,80.25
+europe_lau,Muccia,muccia,mu,42.83,61.31,45.12
+europe_lau,Murowana Goślina,murowana_goslina,mu,48.69,64.03,48.24
+europe_lau,Murisengo,murisengo,mu,44.54,56.9,74.54
+europe_lau,Mugnano di Napoli,mugnano_di_napoli,mu,73.39,72.62,54.59
+europe_lau,Mutěnín,mutenin,mu,42.51,70.02,-7.01
+europe_lau,Murony,murony,mu,46.91,57.19,72.78
+europe_lau,Murarátka,muraratka,mu,34.69,70.55,97.36
+europe_lau,Múcsony,mucsony,mu,64.31,72.92,62.73
+europe_lau,Mullingar,mullingar,mu,69.04,73.34,51.74
+europe_lau,Murazzano,murazzano,mu,41.49,47.83,43.89
+europe_lau,Mutkov,mutkov,mu,30.51,42.5,-7.57
+europe_lau,Muro Lucano,muro_lucano,mu,69.22,68.42,60.36
+europe_lau,Mucsfa,mucsfa,mu,48.51,74.62,9.47
+europe_lau,Murlo,murlo,mu,52.75,67.61,75.84
+europe_lau,Musso,musso,mu,28.63,75.99,-96.8
+europe_lau,Murialdo,murialdo,mu,56.38,67.5,44.23
+europe_lau,Murga,murga,mu,40.29,69.85,69.61
+europe_lau,Múlaþing,mulathing,mu,36.51,49.55,56.61
+europe_lau,Murakeresztúr,murakeresztur,mu,28.86,48.62,92.76
+europe_lau,Mutějovice,mutejovice,mu,40.98,64.8,75.44
+europe_lau,Muraszemenye,muraszemenye,mu,43.37,65.36,13.5
+europe_lau,Murter - Kornati,murter_kornati,mu,6.75,38.64,33.39
+europe_lau,Muhi,muhi,mu,51.79,69.96,27.59
+europe_lau,Muinebeag,muinebeag,mu,34.34,58.01,99.64
+europe_lau,Mucsi,mucsi,mu,37.36,56.72,-3.66
+europe_lau,Mudrovce,mudrovce,mu,29.6,66.58,22.93
+europe_lau,Mužla,muzla,mu,45.19,66.06,59.84
+europe_lau,Municipiul Bistriţa,municipiul_bistrita,mu,40.76,55.6,54.52
+europe_lau,Municipiul Constanţa,municipiul_constanta,mu,33.67,47.49,81.73
+europe_lau,Municipiul Mangalia,municipiul_mangalia,mu,37.94,52.83,75.93
+europe_lau,Municipiul Medgidia,municipiul_medgidia,mu,50.14,60.12,73.46
+europe_lau,Municipiul Târgu Jiu,municipiul_targu_jiu,mu,60.26,63.17,45.93
+europe_lau,Municipiul Motru,municipiul_motru,mu,29.12,47.3,96.99
+europe_lau,Mútne,mutne,mu,54.35,66.76,79.97
+europe_lau,Municipiul Botoşani,municipiul_botosani,mu,33.42,50.62,68.78
+europe_lau,Municipiul Dorohoi,municipiul_dorohoi,mu,46.07,51.42,61.38
+europe_lau,Municipiul Ploieşti,municipiul_ploiesti,mu,35.62,54.43,-23.4
+europe_lau,Municipiul Sfântul Gheorghe,municipiul_sfantul_gheorghe,mu,36.17,51.89,34.81
+europe_lau,Muşeteşti,musetesti,mu,17.39,50.02,81.68
+europe_lau,Muro,muro,mu,48.25,74.09,60.4
+europe_lau,Municipiul Târgu Secuiesc,municipiul_targu_secuiesc,mu,30.3,48.28,4.12
+europe_lau,Municipiul Odorheiu Secuiesc,municipiul_odorheiu_secuiesc,mu,40.76,55.56,8.12
+europe_lau,Municipiul Miercurea Ciuc,municipiul_miercurea_ciuc,mu,30.33,59.57,6.76
+europe_lau,Municipiul Gheorgheni,municipiul_gheorgheni,mu,44.15,60.13,47.17
+europe_lau,Municipiul Topliţa,municipiul_toplita,mu,42.09,52.64,84.22
+europe_lau,Mugeni,mugeni,mu,55.14,63.85,69.83
+europe_lau,Municipiul Braşov,municipiul_brasov,mu,29.96,56.87,88.55
+europe_lau,Municipiul Codlea,municipiul_codlea,mu,42.35,60.2,3.45
+europe_lau,Municipiul Făgăraş,municipiul_fagaras,mu,32.92,52.68,97.74
+europe_lau,Municipiul Săcele,municipiul_sacele,mu,39.28,59.46,42.95
+europe_lau,Muggendorf,muggendorf,mu,35.02,58.56,-37.88
+europe_lau,Municipiul Câmpina,municipiul_campina,mu,39.96,67.29,95.51
+europe_lau,Municipiul Piteşti,municipiul_pitesti,mu,29.11,47.32,7.46
+europe_lau,Municipiul Târgovişte,municipiul_targoviste,mu,34.07,59.84,-39.14
+europe_lau,Municipiul Moreni,municipiul_moreni,mu,55.13,67.45,39.71
+europe_lau,Municipiul Sebeş,municipiul_sebes,mu,53.31,65.18,75.74
+europe_lau,Mullsjö,mullsjo,mu,41.43,62.34,94.64
+europe_lau,Municipiul Blaj,municipiul_blaj,mu,37.2,44.62,49.92
+europe_lau,Muge,muge,mu,29.84,45.39,-19.49
+europe_lau,Municipiul Deva,municipiul_deva,mu,37.49,59.86,73.25
+europe_lau,Municipiul Hunedoara,municipiul_hunedoara,mu,41.16,49.99,18.99
+europe_lau,Municipiul Petroşani,municipiul_petrosani,mu,25.68,36.79,88.69
+europe_lau,Municipiul Lupeni,municipiul_lupeni,mu,39.28,64.33,98.32
+europe_lau,Municipiul Vulcan,municipiul_vulcan,mu,40.69,62.28,65.43
+europe_lau,Municipiul Brad,municipiul_brad,mu,38.2,45.82,75.46
+europe_lau,Municipiul Orăştie,municipiul_orastie,mu,33.78,44.23,67.38
+europe_lau,Mučín,mucin,mu,56.23,81.34,23.22
+europe_lau,Mudroňovo,mudronovo,mu,24.89,54.79,88.82
+europe_lau,Municipiul Brăila,municipiul_braila,mu,63.75,67.47,57.4
+europe_lau,Municipiul Buzău,municipiul_buzau,mu,34.39,52.88,-4.98
+europe_lau,Municipiul Râmnicu Sărat,municipiul_ramnicu_sarat,mu,32.92,54.58,76.44
+europe_lau,Municipiul Câmpulung,municipiul_campulung,mu,33.73,56.6,78.97
+europe_lau,Municipiul Curtea de Arges,municipiul_curtea_de_arges,mu,53.73,64.79,43.36
+europe_lau,Municipiul Satu Mare,municipiul_satu_mare,mu,43.38,59.42,92.81
+europe_lau,Municipiul Carei,municipiul_carei,mu,43.15,50.91,47.64
+europe_lau,Municipiul Craiova,municipiul_craiova,mu,39.94,51.94,28.35
+europe_lau,Municipiul Băileşti,municipiul_bailesti,mu,64.45,81.16,55.05
+europe_lau,Municipiul Calafat,municipiul_calafat,mu,28.02,48.65,48.17
+europe_lau,Municipiul Bacău,municipiul_bacau,mu,31.59,56.14,91.32
+europe_lau,Municipiul Oneşti,municipiul_onesti,mu,45.29,54,16.58
+europe_lau,Municipiul Moineşti,municipiul_moinesti,mu,52.95,59.23,67.21
+europe_lau,Munkedal,munkedal,mu,38.6,52.92,95.75
+europe_lau,Muľa,mula,mu,35.92,58.29,99.35
+europe_lau,Munderfing,munderfing,mu,53.11,58.42,30.11
+europe_lau,Municipiul Călăraşi,municipiul_calarasi,mu,34.61,60.71,93.87
+europe_lau,Municipiul Arad,municipiul_arad,mu,53.47,58.08,69.19
+europe_lau,Municipiul Slobozia,municipiul_slobozia,mu,26.48,44.59,90.96
+europe_lau,Municipiul Feteşti,municipiul_fetesti,mu,53.89,63.24,75.99
+europe_lau,Munteni-Buzău,munteni_buzau,mu,26.82,58.15,92.74
+europe_lau,Municipiul Iaşi,municipiul_iasi,mu,35.11,53.11,53.91
+europe_lau,Murgeşti,murgesti,mu,50.69,58.59,36.37
+europe_lau,Muráň,muran,mu,43.25,55.81,22.42
+europe_lau,Muránska Dlhá Lúka,muranska_dlha_luka,mu,30.17,66.74,56.63
+europe_lau,Muránska Huta,muranska_huta,mu,62.68,70.74,40.26
+europe_lau,Muránska Lehota,muranska_lehota,mu,34.82,67.2,64.82
+europe_lau,Muránska Zdychava,muranska_zdychava,mu,54.46,70.52,67.48
+europe_lau,Murgaşi,murgasi,mu,32.19,59.74,90.78
+europe_lau,Municipiul Oradea,municipiul_oradea,mu,50.73,55.81,60.32
+europe_lau,Municipiul Beiuş,municipiul_beius,mu,48.51,54,67.78
+europe_lau,Municipiul Marghita,municipiul_marghita,mu,65.38,69.05,68.24
+europe_lau,Municipiul Salonta,municipiul_salonta,mu,53.74,63.92,30.04
+europe_lau,Municipiul Reşiţa,municipiul_resita,mu,39.59,53.42,32.62
+europe_lau,Municipiul Caransebeş,municipiul_caransebes,mu,42.02,52.93,56.15
+europe_lau,Munkfors,munkfors,mu,54.63,65.11,54.09
+europe_lau,Municipiul Cluj-Napoca,municipiul_cluj_napoca,mu,58.51,61.47,71.63
+europe_lau,Municipiul Dej,municipiul_dej,mu,34.4,44.4,45.66
+europe_lau,Municipiul Turda,municipiul_turda,mu,49.19,59.65,73.53
+europe_lau,Municipiul Câmpia Turzii,municipiul_campia_turzii,mu,63.81,67.54,60.35
+europe_lau,Municipiul Gherla,municipiul_gherla,mu,42.21,52.98,80.47
+europe_lau,Municipiul Galaţi,municipiul_galati,mu,45.53,50.73,69.98
+europe_lau,Municipiul Tecuci,municipiul_tecuci,mu,58.08,64.48,60.22
+europe_lau,Munteni,munteni,mu,43.83,58.6,-4.12
+europe_lau,Municipiul Paşcani,municipiul_pascani,mu,55.23,58.66,44.23
+europe_lau,Murska Sobota,murska_sobota,mu,55.49,60.16,56.83
+europe_lau,Muta,muta,mu,66.14,74.45,47.18
+europe_lau,Mukařov,mukarov,mu,32.84,53.32,87.37
+europe_lau,Municipiul Baia Mare,municipiul_baia_mare,mu,40.72,66.03,90.58
+europe_lau,Municipiul Adjud,municipiul_adjud,mu,30.28,56.58,91.93
+europe_lau,Muşăteşti,musatesti,mu,27.29,60.74,85.83
+europe_lau,Mundão,mundao,mu,51.29,73.11,93.36
+europe_lau,Municipiul Bucureşti,municipiul_bucuresti,mu,53.85,62.54,66.77
+europe_lau,Muxagata,muxagata,mu,47.93,59.61,25.25
+europe_lau,Muckendorf-Wipfing,muckendorf_wipfing,mu,41.1,72.52,93.72
+europe_lau,Muşeniţa,musenita,mu,38.76,53.55,-8.62
+europe_lau,Mujães,mujaes,mu,47.07,64.03,23.03
+europe_lau,Municipiul Sighetu Marmaţiei,municipiul_sighetu_marmatiei,mu,41.17,67.5,5.05
+europe_lau,Municipiul Drobeta-Turnu Severin,municipiul_drobeta_turnu_severin,mu,17.86,43.55,16.18
+europe_lau,Municipiul Orşova,municipiul_orsova,mu,45.47,69.49,73.35
+europe_lau,Murighiol,murighiol,mu,37.59,59.55,97.16
+europe_lau,Municipiul Bârlad,municipiul_barlad,mu,33.17,57.91,97.54
+europe_lau,Municipiul Huşi,municipiul_husi,mu,41.11,60.74,30.95
+europe_lau,Municipiul Vaslui,municipiul_vaslui,mu,47.58,62.38,30.49
+europe_lau,Murtosa,murtosa,mu,47.53,63.41,5.63
+europe_lau,Municipiul Turnu Măgurele,municipiul_turnu_magurele,mu,36.97,46.18,63.55
+europe_lau,Municipiul Alexandria,municipiul_alexandria,mu,40.75,47.21,49.77
+europe_lau,Municipiul Roşiori de Vede,municipiul_rosiori_de_vede,mu,37.24,58.26,76.09
+europe_lau,Muszyna,muszyna,mu,50.8,68.57,41.56
+europe_lau,Muzzano,muzzano,mu,27.83,51.55,27.21
+europe_lau,Municipiul Târgu Mureş,municipiul_targu_mures,mu,43.53,45.43,57.6
+europe_lau,Municipiul Sighişoara,municipiul_sighisoara,mu,43.9,62.35,94.08
+europe_lau,Municipiul Reghin,municipiul_reghin,mu,48.72,60.24,86.8
+europe_lau,Municipiul Târnăveni,municipiul_tarnaveni,mu,40.53,56.45,83.81
+europe_lau,Muereasca,muereasca,mu,23.48,52.98,73.69
+europe_lau,Muros,muros,mu,52.91,65.44,40.65
+europe_lau,Municipiul Focşani,municipiul_focsani,mu,52.72,60.48,69.27
+europe_lau,Municipiul Timişoara,municipiul_timisoara,mu,53.62,57.69,69.71
+europe_lau,Municipiul Lugoj,municipiul_lugoj,mu,41.39,53.06,22.11
+europe_lau,Murça,murca,mu,61.78,80.33,57.08
+europe_lau,Muxagata,muxagata,mu,58.15,80.56,47.1
+europe_lau,Mucharz,mucharz,mu,49.23,63.75,17.61
+europe_lau,Municipiul Zalău,municipiul_zalau,mu,46.35,62.63,55.79
+europe_lau,Municipiul Tulcea,municipiul_tulcea,mu,49.26,58.34,75.47
+europe_lau,Municipiul Sibiu,municipiul_sibiu,mu,43.77,55.67,70.4
+europe_lau,Murtede,murtede,mu,52.71,68.02,87.94
+europe_lau,Municipiul Piatra Neamţ,municipiul_piatra_neamt,mu,47.52,55.46,69.63
+europe_lau,Municipiul Roman,municipiul_roman,mu,54.1,67.37,22.47
+europe_lau,Municipiul Aiud,municipiul_aiud,mu,50.31,58.72,33.81
+europe_lau,Municipiul Giurgiu,municipiul_giurgiu,mu,45.78,69.33,13.31
+europe_lau,Municipiul Olteniţa,municipiul_oltenita,mu,48.88,60.52,48
+europe_lau,Municipiul Urziceni,municipiul_urziceni,mu,36.97,57.31,45.61
+europe_lau,Municipiul Alba Iulia,municipiul_alba_iulia,mu,46.2,53.39,66.86
+europe_lau,Municipiul Mediaş,municipiul_medias,mu,35.06,60.56,89.9
+europe_lau,Muntenii de Jos,muntenii_de_jos,mu,48.32,62.71,48.16
+europe_lau,Muntenii de Sus,muntenii_de_sus,mu,42.45,55.93,58.85
+europe_lau,Municipiul Râmnicu Vâlcea,municipiul_ramnicu_valcea,mu,33.52,49.01,54.78
+europe_lau,Municipiul Drăgăşani,municipiul_dragasani,mu,59.84,59.12,60.29
+europe_lau,Municipiul Suceava,municipiul_suceava,mu,40.44,50.4,87.78
+europe_lau,Municipiul Câmpulung Moldovenesc,municipiul_campulung_moldovenesc,mu,43.62,53.09,83.92
+europe_lau,Municipiul Fălticeni,municipiul_falticeni,mu,66.5,70.53,70.13
+europe_lau,Municipiul Rădăuţi,municipiul_radauti,mu,63.29,76.96,39.05
+europe_lau,Municipiul Vatra Dornei,municipiul_vatra_dornei,mu,53.09,67.35,67.31
+europe_lau,Municipiul Slatina,municipiul_slatina,mu,59.44,69.95,65.52
+europe_lau,Municipiul Caracal,municipiul_caracal,mu,43.14,61.58,4.48
+europe_lau,Múrias,murias,mu,51.63,78.04,-13.38
+europe_lau,Mudau,mudau,mu,54.79,70.29,14.88
+europe_lau,Münsingen,munsingen,mu,39.18,53.96,78.27
+europe_lau,Murello,murello,mu,47.85,73.68,98.39

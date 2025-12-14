@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ferques",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ferques", "metric_roundness": 43.79, "metric_rectangularity": 70.84, "metric_mobile_fit": -23.9, "metric_aspect_ratio": 1.802, "metric_area_km2": 23.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.73194, 50.8293445 ], [ 1.7337855, 50.8242685 ], [ 1.7597493, 50.8223184 ], [ 1.7650295, 50.815978 ], [ 1.79535, 50.8200335 ], [ 1.8004699, 50.8207223 ], [ 1.7995088, 50.8261019 ], [ 1.805354, 50.832389 ], [ 1.7938308, 50.836386399999988 ], [ 1.786303, 50.835445 ], [ 1.756365, 50.840339 ], [ 1.7511105, 50.840269499999984 ], [ 1.744635, 50.841718 ], [ 1.73194, 50.8293445 ] ] ] } }
+]
+}

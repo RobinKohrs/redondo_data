@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saligney",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saligney", "metric_roundness": 56.12, "metric_rectangularity": 70.28, "metric_mobile_fit": 45.95, "metric_aspect_ratio": 1.103, "metric_area_km2": 16.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6285303, 47.213752599999985 ], [ 5.6361405, 47.2056285 ], [ 5.6413965, 47.2109879 ], [ 5.653607, 47.213545499999974 ], [ 5.663877, 47.224639 ], [ 5.6481726, 47.231118899999984 ], [ 5.6477305, 47.239239499999989 ], [ 5.6341072, 47.2366147 ], [ 5.6274547, 47.230774099999984 ], [ 5.6121434, 47.2243868 ], [ 5.6092907, 47.221912499999988 ], [ 5.60959, 47.2175945 ], [ 5.6285303, 47.213752599999985 ] ] ] } }
+]
+}

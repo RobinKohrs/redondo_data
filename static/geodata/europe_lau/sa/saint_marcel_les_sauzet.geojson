@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_marcel_les_sauzet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Marcel-lès-Sauzet", "metric_roundness": 39.23, "metric_rectangularity": 76.77, "metric_mobile_fit": 97.77, "metric_aspect_ratio": 0.585, "metric_area_km2": 7.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7909591, 44.6102675 ], [ 4.8051635, 44.584002 ], [ 4.8165215, 44.5924672 ], [ 4.8122051, 44.6071246 ], [ 4.8002335, 44.615128 ], [ 4.7909591, 44.6102675 ] ] ] } }
+]
+}

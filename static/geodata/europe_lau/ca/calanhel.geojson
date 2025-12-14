@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "calanhel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Calanhel", "metric_roundness": 50.57, "metric_rectangularity": 62.8, "metric_mobile_fit": 21.7, "metric_aspect_ratio": 1.345, "metric_area_km2": 33.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.4469801, 48.454884599999986 ], [ -3.4929775, 48.454900099999982 ], [ -3.4977325, 48.4569245 ], [ -3.5006005, 48.450102499999986 ], [ -3.504734, 48.446102 ], [ -3.505626, 48.444390499999983 ], [ -3.506381, 48.428252 ], [ -3.4977592, 48.4191949 ], [ -3.4668045, 48.42524 ], [ -3.4498382, 48.4392544 ], [ -3.429864, 48.4481375 ], [ -3.4469801, 48.454884599999986 ] ] ] } }
+]
+}

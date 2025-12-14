@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "smerillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Smerillo", "metric_roundness": 58.5, "metric_rectangularity": 75.2, "metric_mobile_fit": 56.81, "metric_aspect_ratio": 0.994, "metric_area_km2": 20.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.4069665, 42.9996943 ], [ 13.41306, 42.9864745 ], [ 13.4364306, 42.986939199999981 ], [ 13.4457852, 42.990464 ], [ 13.4478705, 42.9934506 ], [ 13.4458067, 42.9999769 ], [ 13.4538598, 43.006524399999982 ], [ 13.4553025, 43.018338 ], [ 13.4293897, 43.0220219 ], [ 13.4207055, 43.0169597 ], [ 13.4184899, 43.0114891 ], [ 13.4113055, 43.0083665 ], [ 13.4069665, 42.9996943 ] ] ] } }
+]
+}

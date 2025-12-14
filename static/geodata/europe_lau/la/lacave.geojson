@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lacave",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lacave", "metric_roundness": 35.28, "metric_rectangularity": 61.52, "metric_mobile_fit": 16.4, "metric_aspect_ratio": 1.399, "metric_area_km2": 8.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0083518, 43.0367775 ], [ 1.0193006, 43.039162 ], [ 1.035936, 43.058742 ], [ 1.0256845, 43.0590745 ], [ 1.0169642, 43.053314 ], [ 0.993266, 43.048421499999989 ], [ 0.9942275, 43.0465465 ], [ 0.9933775, 43.0430675 ], [ 0.9943725, 43.0398455 ], [ 1.0083518, 43.0367775 ] ] ] } }
+]
+}

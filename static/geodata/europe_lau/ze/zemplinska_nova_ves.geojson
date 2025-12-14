@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zemplinska_nova_ves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zemplínska Nová Ves", "metric_roundness": 46.3, "metric_rectangularity": 55.11, "metric_mobile_fit": 74.74, "metric_aspect_ratio": 0.815, "metric_area_km2": 15.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.699521, 48.581656 ], [ 21.6788385, 48.603344499999984 ], [ 21.671903, 48.601493499999989 ], [ 21.6819733, 48.5896699 ], [ 21.6616597, 48.5844836 ], [ 21.6587845, 48.5742615 ], [ 21.6650576, 48.5687248 ], [ 21.6897685, 48.5713729 ], [ 21.6938415, 48.568957 ], [ 21.697896, 48.569698 ], [ 21.701443, 48.5699815 ], [ 21.699521, 48.581656 ] ] ] } }
+]
+}

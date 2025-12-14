@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "igliano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Igliano", "metric_roundness": 47.89, "metric_rectangularity": 64.17, "metric_mobile_fit": 87.9, "metric_aspect_ratio": 0.684, "metric_area_km2": 6.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0127578, 44.4520068 ], [ 8.0094414, 44.4445832 ], [ 8.002176, 44.4428675 ], [ 8.0036705, 44.4355212 ], [ 8.013777, 44.4281765 ], [ 8.0211845, 44.430946 ], [ 8.02356, 44.44438 ], [ 8.0272825, 44.446519 ], [ 8.0199915, 44.454401499999989 ], [ 8.0127578, 44.4520068 ] ] ] } }
+]
+}

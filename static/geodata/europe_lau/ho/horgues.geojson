@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "horgues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Horgues", "metric_roundness": 52.18, "metric_rectangularity": 68.91, "metric_mobile_fit": 75.83, "metric_aspect_ratio": 0.804, "metric_area_km2": 8.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0666305, 43.1931894 ], [ 0.0709035, 43.174421 ], [ 0.0795995, 43.178784 ], [ 0.0846675, 43.1829805 ], [ 0.0913775, 43.1844695 ], [ 0.0946005, 43.190649 ], [ 0.0946215, 43.1932645 ], [ 0.096269, 43.196362 ], [ 0.093725, 43.196623 ], [ 0.0886785, 43.1999225 ], [ 0.0839865, 43.2012935 ], [ 0.069788, 43.1958315 ], [ 0.0666305, 43.1931894 ] ] ] } }
+]
+}

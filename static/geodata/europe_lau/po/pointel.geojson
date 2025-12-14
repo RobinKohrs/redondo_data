@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pointel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pointel", "metric_roundness": 34.18, "metric_rectangularity": 51.83, "metric_mobile_fit": 94.06, "metric_aspect_ratio": 0.622, "metric_area_km2": 16.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3682055, 48.6746255 ], [ -0.327646, 48.689844499999985 ], [ -0.3323751, 48.700419399999987 ], [ -0.3308477, 48.704808599999986 ], [ -0.33796, 48.712366499999987 ], [ -0.3473765, 48.719438499999981 ], [ -0.3514154, 48.7016764 ], [ -0.3696301, 48.688829 ], [ -0.369872, 48.6816035 ], [ -0.3682055, 48.6746255 ] ] ] } }
+]
+}

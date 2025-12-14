@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kentrou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κέντρου", "metric_roundness": 41.82, "metric_rectangularity": 63.51, "metric_mobile_fit": 7.65, "metric_aspect_ratio": 1.486, "metric_area_km2": 43.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2522863, 36.9639168 ], [ 22.2086925, 36.9570365 ], [ 22.2281845, 36.9472118 ], [ 22.2342095, 36.9376265 ], [ 22.249399, 36.938681 ], [ 22.270281, 36.942137399999986 ], [ 22.31074, 36.954387 ], [ 22.3014032, 36.9682345 ], [ 22.2966961, 36.9892821 ], [ 22.2769198, 36.992495 ], [ 22.2601331, 36.9828097 ], [ 22.256998, 36.9745505 ], [ 22.2522863, 36.9639168 ] ] ] } }
+]
+}

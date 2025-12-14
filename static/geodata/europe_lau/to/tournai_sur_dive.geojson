@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tournai_sur_dive",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tournai-sur-Dive", "metric_roundness": 41.73, "metric_rectangularity": 66.67, "metric_mobile_fit": 96.78, "metric_aspect_ratio": 0.595, "metric_area_km2": 29.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0363574, 48.782049099999981 ], [ 0.0442444, 48.785250699999978 ], [ 0.0736235, 48.817731499999987 ], [ 0.0638546, 48.820367 ], [ 0.0611045, 48.82667 ], [ 0.0518905, 48.8299465 ], [ 0.0346765, 48.838237 ], [ 0.025121, 48.8194665 ], [ 0.0266382, 48.8113776 ], [ 0.0228876, 48.804577099999989 ], [ 0.0325148, 48.797554599999984 ], [ 0.025276, 48.786947 ], [ 0.0363574, 48.782049099999981 ] ] ] } }
+]
+}

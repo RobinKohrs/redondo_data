@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pohle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pohle", "metric_roundness": 57.43, "metric_rectangularity": 67.58, "metric_mobile_fit": 51.42, "metric_aspect_ratio": 1.048, "metric_area_km2": 19.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3169081, 52.263230299999982 ], [ 9.3110975, 52.256094499999989 ], [ 9.3209724, 52.248019 ], [ 9.326003, 52.2472515 ], [ 9.3559206, 52.2612072 ], [ 9.361285, 52.269009 ], [ 9.3588648, 52.2733621 ], [ 9.3460126, 52.2720571 ], [ 9.343888, 52.274464499999979 ], [ 9.312937, 52.276554499999989 ], [ 9.3169081, 52.263230299999982 ] ] ] } }
+]
+}

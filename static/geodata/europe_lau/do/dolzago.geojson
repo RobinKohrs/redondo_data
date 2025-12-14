@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolzago",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolzago", "metric_roundness": 44.46, "metric_rectangularity": 63.24, "metric_mobile_fit": 21.62, "metric_aspect_ratio": 1.346, "metric_area_km2": 4.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.352526, 45.777639 ], [ 9.3379095, 45.776945 ], [ 9.3284645, 45.763184 ], [ 9.330323, 45.762102499999983 ], [ 9.3415653, 45.7642282 ], [ 9.3470941, 45.768420099999986 ], [ 9.355045, 45.7671455 ], [ 9.358452, 45.772976499999984 ], [ 9.352526, 45.777639 ] ] ] } }
+]
+}

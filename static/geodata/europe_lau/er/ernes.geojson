@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ernes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ernes", "metric_roundness": 56.34, "metric_rectangularity": 77.63, "metric_mobile_fit": 16.62, "metric_aspect_ratio": 1.396, "metric_area_km2": 20.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1307423, 49.001447899999981 ], [ -0.123052, 48.9971695 ], [ -0.1079766, 48.9981188 ], [ -0.1013447, 49.0056448 ], [ -0.0958824, 49.0174137 ], [ -0.1068415, 49.019296 ], [ -0.135573, 49.024718899999989 ], [ -0.154531, 49.022763 ], [ -0.1464798, 49.0151963 ], [ -0.1535383, 49.0109858 ], [ -0.142172, 49.000947 ], [ -0.1307423, 49.001447899999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolni_nemci",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolní Němčí", "metric_roundness": 59.26, "metric_rectangularity": 72.95, "metric_mobile_fit": 76.6, "metric_aspect_ratio": 0.796, "metric_area_km2": 22.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5914529, 48.984348699999984 ], [ 17.563033, 48.9816646 ], [ 17.5565425, 48.973762 ], [ 17.567575, 48.9546925 ], [ 17.5732003, 48.9496618 ], [ 17.589941, 48.945546499999985 ], [ 17.5947504, 48.958478299999982 ], [ 17.6036175, 48.967007 ], [ 17.5914529, 48.984348699999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolni_zivotice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolní Životice", "metric_roundness": 38.89, "metric_rectangularity": 58.02, "metric_mobile_fit": 56.64, "metric_aspect_ratio": 0.996, "metric_area_km2": 27.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.776056, 49.913552 ], [ 17.7717705, 49.911574 ], [ 17.769492, 49.910573 ], [ 17.7644033, 49.8972524 ], [ 17.7495525, 49.8851005 ], [ 17.7441509, 49.8766008 ], [ 17.7554815, 49.872914499999986 ], [ 17.7870702, 49.889435899999988 ], [ 17.805245, 49.888642 ], [ 17.810137, 49.892938499999985 ], [ 17.804615, 49.9155875 ], [ 17.779695, 49.914526 ], [ 17.776056, 49.913552 ] ] ] } }
+]
+}

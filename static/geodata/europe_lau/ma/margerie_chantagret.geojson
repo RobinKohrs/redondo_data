@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "margerie_chantagret",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Margerie-Chantagret", "metric_roundness": 43.27, "metric_rectangularity": 68.57, "metric_mobile_fit": -8.47, "metric_aspect_ratio": 1.647, "metric_area_km2": 16.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0654855, 45.538149 ], [ 4.0559742, 45.53776329999998 ], [ 4.0510088, 45.5285054 ], [ 4.0382045, 45.529614 ], [ 4.0352997, 45.5252652 ], [ 4.0218865, 45.527656499999985 ], [ 4.0188987, 45.5211524 ], [ 4.0267555, 45.513141 ], [ 4.0320407, 45.516132099999986 ], [ 4.0589243, 45.515576299999978 ], [ 4.0798465, 45.518444499999987 ], [ 4.0763319, 45.533620799999987 ], [ 4.07038, 45.5390635 ], [ 4.0654855, 45.538149 ] ] ] } }
+]
+}

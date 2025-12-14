@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rechtenstein",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rechtenstein", "metric_roundness": 35.97, "metric_rectangularity": 58.35, "metric_mobile_fit": -41.33, "metric_aspect_ratio": 1.976, "metric_area_km2": 8.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.525395, 48.2452693 ], [ 9.535189, 48.236882499999986 ], [ 9.542009, 48.240037900000011 ], [ 9.5669168, 48.237847199999983 ], [ 9.5736045, 48.240188499999981 ], [ 9.546373, 48.2524531 ], [ 9.5324465, 48.2531315 ], [ 9.525395, 48.2452693 ] ] ] } }
+]
+}

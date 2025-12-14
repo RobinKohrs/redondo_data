@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sombrin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sombrin", "metric_roundness": 68.36, "metric_rectangularity": 85.43, "metric_mobile_fit": 52.59, "metric_aspect_ratio": 1.037, "metric_area_km2": 16.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4860815, 50.233333 ], [ 2.497803, 50.222882 ], [ 2.516844, 50.227608899999971 ], [ 2.528121, 50.235017 ], [ 2.5185485, 50.249563 ], [ 2.5175305, 50.251169 ], [ 2.5108232, 50.252639 ], [ 2.4875321, 50.2419936 ], [ 2.4798945, 50.241179 ], [ 2.4860815, 50.233333 ] ] ] } }
+]
+}

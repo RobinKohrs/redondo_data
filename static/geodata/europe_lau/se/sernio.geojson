@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sernio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sernio", "metric_roundness": 17.98, "metric_rectangularity": 65.0, "metric_mobile_fit": 95.0, "metric_aspect_ratio": 0.612, "metric_area_km2": 19.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.1911443, 46.2303472 ], [ 10.2019312, 46.222788 ], [ 10.226589, 46.190672 ], [ 10.2284785, 46.192212499999982 ], [ 10.2299247, 46.199139099999989 ], [ 10.241651, 46.202269499999979 ], [ 10.233643, 46.21335209999998 ], [ 10.212234, 46.2280862 ], [ 10.1979804, 46.250088 ], [ 10.1902025, 46.2567015 ], [ 10.182525, 46.2574605 ], [ 10.1911443, 46.2303472 ] ] ] } }
+]
+}

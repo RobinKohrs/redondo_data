@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alfarela_de_jales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alfarela de Jales", "metric_roundness": 53.6, "metric_rectangularity": 62.75, "metric_mobile_fit": 59.72, "metric_aspect_ratio": 0.965, "metric_area_km2": 24.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5598099, 41.4377221 ], [ -7.5386302, 41.439849699999989 ], [ -7.5218225, 41.450884 ], [ -7.5325766, 41.4560496 ], [ -7.536114, 41.463731599999988 ], [ -7.5457495, 41.4607094 ], [ -7.5472663, 41.463816899999983 ], [ -7.5665786, 41.469731599999989 ], [ -7.570973, 41.4748155 ], [ -7.578159, 41.4693798 ], [ -7.5821422, 41.4438647 ], [ -7.5683965, 41.427982 ], [ -7.5598099, 41.4377221 ] ] ] } }
+]
+}

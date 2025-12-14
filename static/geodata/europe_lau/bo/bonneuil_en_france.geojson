@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonneuil_en_france",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonneuil-en-France", "metric_roundness": 54.13, "metric_rectangularity": 63.46, "metric_mobile_fit": 54.82, "metric_aspect_ratio": 1.014, "metric_area_km2": 10.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4178476, 48.9694049 ], [ 2.417887, 48.959536 ], [ 2.4475245, 48.9557985 ], [ 2.450345, 48.954924 ], [ 2.45601, 48.9557715 ], [ 2.4562211, 48.960098099999989 ], [ 2.4488605, 48.9645386 ], [ 2.4443173, 48.971757499999988 ], [ 2.4388676, 48.97374259999998 ], [ 2.4392386, 48.977215599999987 ], [ 2.4322965, 48.9797605 ], [ 2.425407, 48.976930499999987 ], [ 2.4248135, 48.9750165 ], [ 2.4178476, 48.9694049 ] ] ] } }
+]
+}

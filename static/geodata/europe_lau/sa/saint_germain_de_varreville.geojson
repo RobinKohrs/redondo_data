@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_germain_de_varreville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Germain-de-Varreville", "metric_roundness": 22.81, "metric_rectangularity": 82.9, "metric_mobile_fit": 40.98, "metric_aspect_ratio": 1.153, "metric_area_km2": 13.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.21245, 49.44716 ], [ -1.223141, 49.4555125 ], [ -1.2722577, 49.4327868 ], [ -1.2701987, 49.4237988 ], [ -1.2763715, 49.4201765 ], [ -1.275079, 49.419451 ], [ -1.21245, 49.44716 ] ] ] } }
+]
+}

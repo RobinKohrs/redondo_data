@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "deimberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Deimberg", "metric_roundness": 38.52, "metric_rectangularity": 55.33, "metric_mobile_fit": 83.37, "metric_aspect_ratio": 0.729, "metric_area_km2": 5.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5289615, 49.630740499999987 ], [ 7.524074, 49.634707 ], [ 7.525749, 49.636206 ], [ 7.5240425, 49.637099 ], [ 7.5257255, 49.6383185 ], [ 7.526719, 49.6400365 ], [ 7.5144995, 49.642776 ], [ 7.5168925, 49.6334388 ], [ 7.5067603, 49.6296112 ], [ 7.503976, 49.624661499999974 ], [ 7.5056185, 49.620572 ], [ 7.527876, 49.6275835 ], [ 7.5289615, 49.630740499999987 ] ] ] } }
+]
+}

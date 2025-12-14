@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_dvorany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Veľké Dvorany", "metric_roundness": 64.3, "metric_rectangularity": 73.46, "metric_mobile_fit": 49.46, "metric_aspect_ratio": 1.068, "metric_area_km2": 18.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0493425, 48.5581435 ], [ 18.0570556, 48.546778399999987 ], [ 18.059226, 48.537179 ], [ 18.0720375, 48.5370055 ], [ 18.0818613, 48.537431499999983 ], [ 18.0888076, 48.547480399999984 ], [ 18.0959762, 48.552097199999984 ], [ 18.098997, 48.559468 ], [ 18.0955405, 48.5620535 ], [ 18.087192, 48.567783 ], [ 18.0493425, 48.5581435 ] ] ] } }
+]
+}

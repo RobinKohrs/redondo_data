@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_nikion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νικιών", "metric_roundness": 57.84, "metric_rectangularity": 69.73, "metric_mobile_fit": 35.07, "metric_aspect_ratio": 1.212, "metric_area_km2": 13.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.1744082, 36.5804582 ], [ 27.1628315, 36.572554399999987 ], [ 27.158001, 36.561687499999984 ], [ 27.1659925, 36.5587434 ], [ 27.182917, 36.5599105 ], [ 27.1914349, 36.5577872 ], [ 27.2053395, 36.5699915 ], [ 27.1962642, 36.5830932 ], [ 27.1868244, 36.5841183 ], [ 27.178809, 36.5891595 ], [ 27.1744082, 36.5804582 ] ] ] } }
+]
+}

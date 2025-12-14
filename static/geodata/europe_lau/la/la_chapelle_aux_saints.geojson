@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chapelle_aux_saints",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chapelle-aux-Saints", "metric_roundness": 53.99, "metric_rectangularity": 69.37, "metric_mobile_fit": 70.52, "metric_aspect_ratio": 0.857, "metric_area_km2": 10.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7329813, 44.97996729999997 ], [ 1.7325855, 44.9859303 ], [ 1.738394, 44.991569 ], [ 1.7315802, 44.9918074 ], [ 1.726288, 44.9961895 ], [ 1.7140308, 44.994317099999989 ], [ 1.703374, 44.9865705 ], [ 1.7087615, 44.9696365 ], [ 1.7110325, 44.967296499999989 ], [ 1.713452, 44.967787 ], [ 1.7329813, 44.97996729999997 ] ] ] } }
+]
+}

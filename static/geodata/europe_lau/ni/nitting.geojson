@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nitting",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nitting", "metric_roundness": 37.98, "metric_rectangularity": 65.48, "metric_mobile_fit": 62.24, "metric_aspect_ratio": 0.94, "metric_area_km2": 20.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0440136, 48.677697699999982 ], [ 7.0302605, 48.68037 ], [ 7.0212365, 48.672442899999986 ], [ 7.0191235, 48.6711485 ], [ 7.022306, 48.6645305 ], [ 7.0329039, 48.663462399999986 ], [ 7.0560815, 48.642002 ], [ 7.0702305, 48.6392045 ], [ 7.0706965, 48.640582 ], [ 7.0691818, 48.6518714 ], [ 7.0654675, 48.6554883 ], [ 7.077711, 48.660742 ], [ 7.0660665, 48.6648365 ], [ 7.0440136, 48.677697699999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pickliessem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pickließem", "metric_roundness": 56.07, "metric_rectangularity": 75.7, "metric_mobile_fit": 21.25, "metric_aspect_ratio": 1.35, "metric_area_km2": 13.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6486728, 49.9995878 ], [ 6.6318495, 50.001178 ], [ 6.62914, 49.9929415 ], [ 6.6416335, 49.982077 ], [ 6.670914, 49.981421 ], [ 6.6733809, 49.9874412 ], [ 6.6697071, 49.9967714 ], [ 6.6641215, 49.999207399999989 ], [ 6.664658, 50.001998499999985 ], [ 6.6595338, 49.9987822 ], [ 6.6570565, 50.00249 ], [ 6.6486728, 49.9995878 ] ] ] } }
+]
+}

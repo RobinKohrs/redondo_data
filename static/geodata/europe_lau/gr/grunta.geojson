@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grunta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grunta", "metric_roundness": 53.96, "metric_rectangularity": 68.81, "metric_mobile_fit": 67.33, "metric_aspect_ratio": 0.889, "metric_area_km2": 1.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.2521482, 49.97530159999998 ], [ 15.2471415, 49.97682 ], [ 15.2479345, 49.971845 ], [ 15.2531324, 49.968137 ], [ 15.2579535, 49.9670761 ], [ 15.2616336, 49.9701956 ], [ 15.258188, 49.9775585 ], [ 15.2521482, 49.97530159999998 ] ] ] } }
+]
+}

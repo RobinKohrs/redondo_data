@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bratislava_mestska_cast_dubravka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bratislava - mestská časť Dúbravka", "metric_roundness": 44.97, "metric_rectangularity": 65.73, "metric_mobile_fit": 49.7, "metric_aspect_ratio": 1.066, "metric_area_km2": 18.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.048858, 48.1837251 ], [ 17.0414901, 48.1989273 ], [ 17.032488, 48.202879 ], [ 17.0092954, 48.2024287 ], [ 17.0134605, 48.1856275 ], [ 17.0120225, 48.182963699999988 ], [ 17.0201035, 48.1742646 ], [ 17.0253512, 48.1761541 ], [ 17.0396772, 48.174395499999989 ], [ 17.0445881, 48.169472 ], [ 17.062686, 48.1768965 ], [ 17.048858, 48.1837251 ] ] ] } }
+]
+}

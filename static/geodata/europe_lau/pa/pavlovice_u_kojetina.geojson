@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pavlovice_u_kojetina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pavlovice u Kojetína", "metric_roundness": 59.42, "metric_rectangularity": 71.56, "metric_mobile_fit": 80.75, "metric_aspect_ratio": 0.755, "metric_area_km2": 12.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.2269105, 49.297217 ], [ 17.220868, 49.312937 ], [ 17.22171, 49.318501499999982 ], [ 17.212609, 49.3166395 ], [ 17.1946435, 49.310678 ], [ 17.193115, 49.296880499999979 ], [ 17.2096035, 49.289315799999983 ], [ 17.2140675, 49.291182 ], [ 17.2269105, 49.297217 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "souastre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Souastre", "metric_roundness": 55.92, "metric_rectangularity": 66.31, "metric_mobile_fit": 25.95, "metric_aspect_ratio": 1.303, "metric_area_km2": 17.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5513305, 50.141699 ], [ 2.5566203, 50.1422471 ], [ 2.5683715, 50.135959499999984 ], [ 2.5781795, 50.13989 ], [ 2.5806465, 50.1378085 ], [ 2.5897813, 50.1397133 ], [ 2.5962685, 50.1486665 ], [ 2.5824151, 50.160322 ], [ 2.5811735, 50.164207499999989 ], [ 2.5692876, 50.159038299999978 ], [ 2.5545025, 50.1592275 ], [ 2.538827, 50.147967499999986 ], [ 2.5513305, 50.141699 ] ] ] } }
+]
+}

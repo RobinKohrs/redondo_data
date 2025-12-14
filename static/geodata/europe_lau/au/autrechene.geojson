@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "autrechene",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Autrechêne", "metric_roundness": 43.94, "metric_rectangularity": 51.73, "metric_mobile_fit": 53.16, "metric_aspect_ratio": 1.031, "metric_area_km2": 6.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9575462, 47.585791699999987 ], [ 6.9565605, 47.580591 ], [ 6.961756, 47.582358 ], [ 6.9673131, 47.586725 ], [ 6.974896, 47.587894 ], [ 6.9743468, 47.5913561 ], [ 6.9796115, 47.595214 ], [ 6.9779015, 47.596227499999983 ], [ 6.9623687, 47.600336499999983 ], [ 6.9523144, 47.598962799999988 ], [ 6.9472208, 47.6017805 ], [ 6.9473003, 47.5970926 ], [ 6.951818, 47.594095 ], [ 6.9575462, 47.585791699999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_garounas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Γαρούνας", "metric_roundness": 38.38, "metric_rectangularity": 58.07, "metric_mobile_fit": 66.87, "metric_aspect_ratio": 0.894, "metric_area_km2": 4.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.8839305, 39.54631 ], [ 19.877833, 39.548281 ], [ 19.8659975, 39.5517375 ], [ 19.882523, 39.527923 ], [ 19.884462, 39.52849 ], [ 19.886234, 39.5294665 ], [ 19.888061, 39.5310805 ], [ 19.8906215, 39.534634499999989 ], [ 19.8926565, 39.5386805 ], [ 19.8935975, 39.542081 ], [ 19.8839305, 39.54631 ] ] ] } }
+]
+}

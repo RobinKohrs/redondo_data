@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bortlingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Börtlingen", "metric_roundness": 66.96, "metric_rectangularity": 75.12, "metric_mobile_fit": 61.33, "metric_aspect_ratio": 0.949, "metric_area_km2": 18.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.614526, 48.76929 ], [ 9.6179379, 48.7659228 ], [ 9.6141445, 48.760882299999977 ], [ 9.6213955, 48.745277499999986 ], [ 9.622056, 48.744833 ], [ 9.6383761, 48.746838299999979 ], [ 9.648775, 48.74344 ], [ 9.6528775, 48.7458438 ], [ 9.6518127, 48.7569014 ], [ 9.6586885, 48.760711 ], [ 9.6531315, 48.7653642 ], [ 9.6578815, 48.770409 ], [ 9.626598, 48.774377 ], [ 9.614526, 48.76929 ] ] ] } }
+]
+}

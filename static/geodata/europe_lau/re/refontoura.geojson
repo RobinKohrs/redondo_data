@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "refontoura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Refontoura", "metric_roundness": 45.03, "metric_rectangularity": 63.53, "metric_mobile_fit": 28.62, "metric_aspect_ratio": 1.276, "metric_area_km2": 6.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.1813636, 41.3348047 ], [ -8.1796481, 41.3375724 ], [ -8.181778, 41.344166500000014 ], [ -8.1927193, 41.3418514 ], [ -8.2049779, 41.346514399999982 ], [ -8.207278, 41.3429905 ], [ -8.198166, 41.3267855 ], [ -8.174414, 41.3313655 ], [ -8.173742, 41.331633499999974 ], [ -8.1813636, 41.3348047 ] ] ] } }
+]
+}

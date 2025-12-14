@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martignas_sur_jalle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martignas-sur-Jalle", "metric_roundness": 46.06, "metric_rectangularity": 75.12, "metric_mobile_fit": -21.4, "metric_aspect_ratio": 1.777, "metric_area_km2": 52.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7558348, 44.8462189 ], [ -0.7463085, 44.8503135 ], [ -0.758387, 44.86688 ], [ -0.7693355, 44.8646015 ], [ -0.8167445, 44.8606655 ], [ -0.8277675, 44.8572985 ], [ -0.836898, 44.8553805 ], [ -0.854928, 44.848001 ], [ -0.8370413, 44.840287 ], [ -0.833923, 44.8285501 ], [ -0.8057881, 44.82353 ], [ -0.7537155, 44.8325535 ], [ -0.7558348, 44.8462189 ] ] ] } }
+]
+}

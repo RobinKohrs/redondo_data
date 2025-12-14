@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "haigneville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Haigneville", "metric_roundness": 34.52, "metric_rectangularity": 70.94, "metric_mobile_fit": 82.75, "metric_aspect_ratio": 0.39, "metric_area_km2": 6.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3334545, 48.492449599999979 ], [ 6.3330853, 48.4780525 ], [ 6.3349898, 48.4722177 ], [ 6.339665, 48.471249 ], [ 6.3427228, 48.4706109 ], [ 6.348139, 48.476533499999981 ], [ 6.3502595, 48.4842905 ], [ 6.341401, 48.498833499999989 ], [ 6.339569, 48.4980855 ], [ 6.338428, 48.499799 ], [ 6.3367265, 48.498101 ], [ 6.3334545, 48.492449599999979 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lichos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lichos", "metric_roundness": 46.75, "metric_rectangularity": 56.49, "metric_mobile_fit": 48.03, "metric_aspect_ratio": 1.082, "metric_area_km2": 5.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.8665363, 43.3057205 ], [ -0.8742072, 43.3088381 ], [ -0.871572, 43.318797499999988 ], [ -0.8974635, 43.315081 ], [ -0.8983535, 43.312087 ], [ -0.8923005, 43.3101612 ], [ -0.8791281, 43.2988227 ], [ -0.871533, 43.297403 ], [ -0.8665363, 43.3057205 ] ] ] } }
+]
+}

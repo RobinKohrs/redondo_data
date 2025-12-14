@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bezaumont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bezaumont", "metric_roundness": 45.28, "metric_rectangularity": 52.15, "metric_mobile_fit": 35.22, "metric_aspect_ratio": 1.21, "metric_area_km2": 9.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1166657, 48.852680499999984 ], [ 6.1200477, 48.8556786 ], [ 6.125759, 48.855610499999983 ], [ 6.1231495, 48.857223499999982 ], [ 6.1063787, 48.8594796 ], [ 6.080741, 48.85304 ], [ 6.0933464, 48.8499665 ], [ 6.0917475, 48.836155 ], [ 6.099217, 48.8367205 ], [ 6.1034545, 48.835002 ], [ 6.1084375, 48.835115 ], [ 6.1166657, 48.852680499999984 ] ] ] } }
+]
+}

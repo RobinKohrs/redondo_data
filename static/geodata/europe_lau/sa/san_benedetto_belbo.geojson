@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_benedetto_belbo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Benedetto Belbo", "metric_roundness": 52.09, "metric_rectangularity": 65.09, "metric_mobile_fit": 77.11, "metric_aspect_ratio": 0.791, "metric_area_km2": 9.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.051777, 44.504271 ], [ 8.0457743, 44.4986321 ], [ 8.0469302, 44.4860011 ], [ 8.0514939, 44.4816944 ], [ 8.0519405, 44.477093 ], [ 8.0574557, 44.4751034 ], [ 8.0637255, 44.4832047 ], [ 8.0712579, 44.484031 ], [ 8.0791915, 44.4963395 ], [ 8.056743, 44.4997992 ], [ 8.054126, 44.505227 ], [ 8.051777, 44.504271 ] ] ] } }
+]
+}

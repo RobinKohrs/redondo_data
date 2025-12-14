@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "serval",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Serval", "metric_roundness": 50.26, "metric_rectangularity": 61.26, "metric_mobile_fit": 75.12, "metric_aspect_ratio": 0.811, "metric_area_km2": 5.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.668586, 49.3468295 ], [ 3.67516, 49.345813 ], [ 3.677821, 49.3423595 ], [ 3.6833565, 49.344917499999987 ], [ 3.684376, 49.342736 ], [ 3.6901545, 49.342851 ], [ 3.6921634, 49.3593722 ], [ 3.6897956, 49.361290099999984 ], [ 3.668877, 49.350069 ], [ 3.668586, 49.3468295 ] ] ] } }
+]
+}

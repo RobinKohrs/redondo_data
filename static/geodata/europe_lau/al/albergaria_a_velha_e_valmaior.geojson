@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "albergaria_a_velha_e_valmaior",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Albergaria-a-Velha e Valmaior", "metric_roundness": 51.83, "metric_rectangularity": 66.44, "metric_mobile_fit": 12.05, "metric_aspect_ratio": 1.442, "metric_area_km2": 82.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4704182, 40.678832899999989 ], [ -8.4499645, 40.679290099999989 ], [ -8.4164545, 40.6912915 ], [ -8.4163725, 40.694603500000014 ], [ -8.4159675, 40.703274 ], [ -8.41524, 40.7145095 ], [ -8.46204, 40.719607499999988 ], [ -8.5114785, 40.716985 ], [ -8.537196, 40.689889 ], [ -8.5361799, 40.6843891 ], [ -8.5267066, 40.6775189 ], [ -8.518485, 40.66621 ], [ -8.5126653, 40.6624088 ], [ -8.510568, 40.6554765 ], [ -8.4811775, 40.6577035 ], [ -8.4704182, 40.678832899999989 ] ] ] } }
+]
+}

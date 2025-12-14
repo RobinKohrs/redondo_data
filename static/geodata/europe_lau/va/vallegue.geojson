@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vallegue",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vallègue", "metric_roundness": 43.94, "metric_rectangularity": 60.26, "metric_mobile_fit": -16.94, "metric_aspect_ratio": 1.732, "metric_area_km2": 7.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7676409, 43.4235666 ], [ 1.7751377, 43.4273911 ], [ 1.7750052, 43.4301018 ], [ 1.769149, 43.4333215 ], [ 1.7626864, 43.4342523 ], [ 1.7635724, 43.4298624 ], [ 1.7607655, 43.428342399999984 ], [ 1.745111, 43.4336055 ], [ 1.7377385, 43.4299165 ], [ 1.7331375, 43.4277785 ], [ 1.7470655, 43.4175035 ], [ 1.763496, 43.416639499999988 ], [ 1.7676409, 43.4235666 ] ] ] } }
+]
+}

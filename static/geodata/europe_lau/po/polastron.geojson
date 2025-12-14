@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "polastron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Polastron", "metric_roundness": 46.81, "metric_rectangularity": 67.82, "metric_mobile_fit": 40.7, "metric_aspect_ratio": 1.155, "metric_area_km2": 8.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9452811, 43.3063866 ], [ 0.9534398, 43.313289399999988 ], [ 0.9655305, 43.315462 ], [ 0.9714543, 43.3220455 ], [ 0.963733, 43.324787699999987 ], [ 0.966492, 43.3328915 ], [ 0.9473925, 43.3288264 ], [ 0.943873, 43.319994099999988 ], [ 0.929359, 43.319875 ], [ 0.93835, 43.3100885 ], [ 0.9452811, 43.3063866 ] ] ] } }
+]
+}

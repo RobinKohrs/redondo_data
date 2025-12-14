@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "massenbachhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Massenbachhausen", "metric_roundness": 63.79, "metric_rectangularity": 75.62, "metric_mobile_fit": 69.85, "metric_aspect_ratio": 0.864, "metric_area_km2": 20.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0349916, 49.2001219 ], [ 9.0269185, 49.198322 ], [ 9.0204896, 49.1947751 ], [ 9.0226819, 49.1888401 ], [ 9.0097915, 49.179922499999989 ], [ 9.0165625, 49.164583 ], [ 9.0525166, 49.1705101 ], [ 9.0567642, 49.1767308 ], [ 9.0558804, 49.183457099999984 ], [ 9.041939, 49.1973755 ], [ 9.0349916, 49.2001219 ] ] ] } }
+]
+}

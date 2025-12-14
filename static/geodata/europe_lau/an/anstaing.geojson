@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "anstaing",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Anstaing", "metric_roundness": 63.02, "metric_rectangularity": 69.1, "metric_mobile_fit": 52.95, "metric_aspect_ratio": 1.033, "metric_area_km2": 5.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.195572, 50.611427 ], [ 3.189424, 50.6113345 ], [ 3.1802105, 50.609289499999988 ], [ 3.1776415, 50.607423499999982 ], [ 3.179529, 50.6064595 ], [ 3.1729545, 50.6019645 ], [ 3.184463, 50.599771299999986 ], [ 3.192146, 50.5932935 ], [ 3.1988609, 50.5968132 ], [ 3.2024685, 50.601762 ], [ 3.195572, 50.611427 ] ] ] } }
+]
+}

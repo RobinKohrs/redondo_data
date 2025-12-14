@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lentillac_du_causse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lentillac-du-Causse", "metric_roundness": 39.96, "metric_rectangularity": 66.33, "metric_mobile_fit": 94.52, "metric_aspect_ratio": 0.617, "metric_area_km2": 26.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6586025, 44.5668642 ], [ 1.64416, 44.5826075 ], [ 1.6256755, 44.573093499999985 ], [ 1.6276668, 44.567285199999986 ], [ 1.6208536, 44.557371299999986 ], [ 1.6207926, 44.5492214 ], [ 1.614203, 44.53877 ], [ 1.6193899, 44.5340332 ], [ 1.6293857, 44.5327592 ], [ 1.6338009, 44.525849799999982 ], [ 1.642276, 44.5235378 ], [ 1.6514725, 44.536842 ], [ 1.6485134, 44.544635 ], [ 1.6529201, 44.5575061 ], [ 1.6653705, 44.564871 ], [ 1.6586025, 44.5668642 ] ] ] } }
+]
+}

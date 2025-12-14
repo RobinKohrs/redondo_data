@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seekirch",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Seekirch", "metric_roundness": 37.56, "metric_rectangularity": 49.32, "metric_mobile_fit": 86.64, "metric_aspect_ratio": 0.696, "metric_area_km2": 12.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6455989, 48.119764 ], [ 9.6426175, 48.128751599999987 ], [ 9.6377418, 48.130757699999982 ], [ 9.6295135, 48.122511 ], [ 9.6389379, 48.1177393 ], [ 9.6346427, 48.103904599999986 ], [ 9.6302863, 48.100068399999984 ], [ 9.6328825, 48.0919325 ], [ 9.6403485, 48.09999 ], [ 9.6489054, 48.096670499999988 ], [ 9.6568, 48.100186 ], [ 9.669991, 48.115641499999988 ], [ 9.6455989, 48.119764 ] ] ] } }
+]
+}

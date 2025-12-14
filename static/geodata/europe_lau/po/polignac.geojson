@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "polignac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Polignac", "metric_roundness": 48.65, "metric_rectangularity": 71.05, "metric_mobile_fit": 10.78, "metric_aspect_ratio": 1.455, "metric_area_km2": 9.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3000911, 45.2895342 ], [ -0.3170025, 45.28863 ], [ -0.3280375, 45.28581 ], [ -0.328122, 45.283826 ], [ -0.3041213, 45.269251799999985 ], [ -0.2896479, 45.2701875 ], [ -0.286191, 45.275598 ], [ -0.288382, 45.278786499999981 ], [ -0.3000911, 45.2895342 ] ] ] } }
+]
+}

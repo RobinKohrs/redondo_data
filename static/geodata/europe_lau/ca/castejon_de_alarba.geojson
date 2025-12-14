@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castejon_de_alarba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castejón de Alarba", "metric_roundness": 63.5, "metric_rectangularity": 77.43, "metric_mobile_fit": 43.92, "metric_aspect_ratio": 1.123, "metric_area_km2": 31.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6613254, 41.2066594 ], [ -1.6832395, 41.195392499999983 ], [ -1.6816245, 41.193313499999974 ], [ -1.6812565, 41.1896245 ], [ -1.6817285, 41.186268 ], [ -1.68169, 41.1828545 ], [ -1.6836905, 41.1799775 ], [ -1.6727189, 41.17069489999998 ], [ -1.6617529, 41.169847499999982 ], [ -1.6393745, 41.160366 ], [ -1.6328498, 41.1634385 ], [ -1.6300268, 41.173642899999983 ], [ -1.6145935, 41.1842 ], [ -1.650457, 41.204624 ], [ -1.6613254, 41.2066594 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sirk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sirk", "metric_roundness": 33.26, "metric_rectangularity": 67.07, "metric_mobile_fit": 95.21, "metric_aspect_ratio": 0.515, "metric_area_km2": 41.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.1048085, 48.6579995 ], [ 20.0873355, 48.6670288 ], [ 20.0798125, 48.66664 ], [ 20.0710795, 48.6472445 ], [ 20.0752415, 48.638459 ], [ 20.088217, 48.615812399999989 ], [ 20.1158795, 48.595673 ], [ 20.1183655, 48.613413199999989 ], [ 20.1266445, 48.6211285 ], [ 20.1260103, 48.6273063 ], [ 20.1175982, 48.636101399999987 ], [ 20.1124305, 48.657663499999984 ], [ 20.1048085, 48.6579995 ] ] ] } }
+]
+}

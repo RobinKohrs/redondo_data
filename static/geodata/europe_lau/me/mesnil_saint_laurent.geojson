@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mesnil_saint_laurent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mesnil-Saint-Laurent", "metric_roundness": 46.11, "metric_rectangularity": 62.28, "metric_mobile_fit": 17.73, "metric_aspect_ratio": 1.385, "metric_area_km2": 13.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.380878, 49.823647499999979 ], [ 3.38329, 49.822181 ], [ 3.3886575, 49.8233025 ], [ 3.3900155, 49.8218535 ], [ 3.3920475, 49.8251862 ], [ 3.389845, 49.8297215 ], [ 3.3723054, 49.831706 ], [ 3.3666758, 49.839241099999981 ], [ 3.3522595, 49.843951 ], [ 3.3536468, 49.8405958 ], [ 3.339142, 49.831516 ], [ 3.3466282, 49.828475899999987 ], [ 3.3511548, 49.82033209999998 ], [ 3.377249, 49.819315 ], [ 3.380878, 49.823647499999979 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villongo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villongo", "metric_roundness": 61.34, "metric_rectangularity": 62.8, "metric_mobile_fit": 47.39, "metric_aspect_ratio": 1.089, "metric_area_km2": 12.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.938553, 45.689263499999981 ], [ 9.9281675, 45.6810652 ], [ 9.906247, 45.6793265 ], [ 9.9050495, 45.677392 ], [ 9.9110723, 45.664726599999987 ], [ 9.9207731, 45.6659572 ], [ 9.938004, 45.6616715 ], [ 9.9422625, 45.665262 ], [ 9.9455059, 45.6712721 ], [ 9.9436885, 45.6759774 ], [ 9.948038, 45.681291499999986 ], [ 9.938553, 45.689263499999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "flainval",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Flainval", "metric_roundness": 56.29, "metric_rectangularity": 69.52, "metric_mobile_fit": 66.71, "metric_aspect_ratio": 0.895, "metric_area_km2": 8.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3862875, 48.622458499999986 ], [ 6.383839, 48.6215165 ], [ 6.3870156, 48.616787099999982 ], [ 6.384532, 48.608252 ], [ 6.4011605, 48.608960499999988 ], [ 6.4142384, 48.619457299999979 ], [ 6.411102, 48.6251725 ], [ 6.4040082, 48.6306956 ], [ 6.3897355, 48.625581 ], [ 6.3862875, 48.622458499999986 ] ] ] } }
+]
+}

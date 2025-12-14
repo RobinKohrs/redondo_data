@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_chotousses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Χωτούσσης", "metric_roundness": 49.64, "metric_rectangularity": 69.98, "metric_mobile_fit": 23.19, "metric_aspect_ratio": 1.331, "metric_area_km2": 14.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2816701, 37.774504399999984 ], [ 22.2645723, 37.777638599999989 ], [ 22.2611205, 37.7822 ], [ 22.2425774, 37.7839549 ], [ 22.2394925, 37.7812055 ], [ 22.239947, 37.760323499999984 ], [ 22.2483866, 37.7621944 ], [ 22.263695, 37.755387899999981 ], [ 22.2774994, 37.7590773 ], [ 22.2813445, 37.756728 ], [ 22.2843165, 37.758825 ], [ 22.28758, 37.759651 ], [ 22.2816701, 37.774504399999984 ] ] ] } }
+]
+}

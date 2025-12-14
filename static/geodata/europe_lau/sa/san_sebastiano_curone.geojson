@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_sebastiano_curone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Sebastiano Curone", "metric_roundness": 36.22, "metric_rectangularity": 55.21, "metric_mobile_fit": -13.35, "metric_aspect_ratio": 1.696, "metric_area_km2": 7.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0538997, 44.7834046 ], [ 9.067899, 44.780106 ], [ 9.0897027, 44.781606599999989 ], [ 9.09299, 44.7873705 ], [ 9.082636, 44.787738 ], [ 9.07589, 44.794207799999988 ], [ 9.0715216, 44.7963903 ], [ 9.0686555, 44.7992395 ], [ 9.0640489, 44.794207799999988 ], [ 9.0602512, 44.7908592 ], [ 9.0472665, 44.788272 ], [ 9.0538997, 44.7834046 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bridore",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bridoré", "metric_roundness": 59.97, "metric_rectangularity": 70.61, "metric_mobile_fit": 70.0, "metric_aspect_ratio": 0.862, "metric_area_km2": 32.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1076461, 47.038074699999989 ], [ 1.0993685, 47.043569299999987 ], [ 1.0990447, 47.0544277 ], [ 1.084288, 47.06256149999998 ], [ 1.0750706, 47.0592326 ], [ 1.063912, 47.047266899999983 ], [ 1.0578853, 47.0471519 ], [ 1.0511311, 47.0256002 ], [ 1.055586, 47.0165648 ], [ 1.0776155, 47.015838 ], [ 1.0831276, 47.0201152 ], [ 1.1102625, 47.029236499999989 ], [ 1.1076461, 47.038074699999989 ] ] ] } }
+]
+}

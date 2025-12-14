@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hrachoviste",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hrachovište", "metric_roundness": 58.28, "metric_rectangularity": 66.31, "metric_mobile_fit": 64.98, "metric_aspect_ratio": 0.913, "metric_area_km2": 21.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.7382171, 48.712185099999971 ], [ 17.7541305, 48.718406 ], [ 17.7398815, 48.727583 ], [ 17.7307364, 48.728591499999979 ], [ 17.7179369, 48.7244509 ], [ 17.715901, 48.726543 ], [ 17.7111576, 48.727839799999984 ], [ 17.7060159, 48.7250285 ], [ 17.7012075, 48.715227 ], [ 17.7097568, 48.704822 ], [ 17.7096868, 48.695807899999984 ], [ 17.720052, 48.6903295 ], [ 17.736522, 48.701513 ], [ 17.7382171, 48.712185099999971 ] ] ] } }
+]
+}

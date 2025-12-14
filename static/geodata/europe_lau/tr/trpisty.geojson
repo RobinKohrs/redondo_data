@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trpisty",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trpísty", "metric_roundness": 42.78, "metric_rectangularity": 65.3, "metric_mobile_fit": 5.82, "metric_aspect_ratio": 1.504, "metric_area_km2": 23.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.0560989, 49.8337478 ], [ 13.0477298, 49.8381712 ], [ 13.028536, 49.8339965 ], [ 13.0146955, 49.8252398 ], [ 13.0270949, 49.8207411 ], [ 13.0270995, 49.818089 ], [ 13.0644409, 49.807212799999981 ], [ 13.0868785, 49.8114975 ], [ 13.0828555, 49.817094 ], [ 13.0678706, 49.827775 ], [ 13.067454, 49.833991 ], [ 13.0560989, 49.8337478 ] ] ] } }
+]
+}

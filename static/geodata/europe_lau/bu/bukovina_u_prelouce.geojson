@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bukovina_u_prelouce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bukovina u Přelouče", "metric_roundness": 44.74, "metric_rectangularity": 71.07, "metric_mobile_fit": -0.45, "metric_aspect_ratio": 1.567, "metric_area_km2": 3.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.5527353, 49.944311 ], [ 15.5607325, 49.941798 ], [ 15.5741585, 49.944053 ], [ 15.5794675, 49.952775499999987 ], [ 15.5613585, 49.952132 ], [ 15.552805, 49.947292 ], [ 15.5527353, 49.944311 ] ] ] } }
+]
+}

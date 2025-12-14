@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tartegnin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tartegnin", "metric_roundness": 23.01, "metric_rectangularity": 54.64, "metric_mobile_fit": 77.27, "metric_aspect_ratio": 0.79, "metric_area_km2": 2.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3089755, 46.465046 ], [ 6.3191845, 46.460804 ], [ 6.3223965, 46.4616005 ], [ 6.32446, 46.463195 ], [ 6.318991, 46.4649836 ], [ 6.3112811, 46.474669899999981 ], [ 6.303478, 46.4791 ], [ 6.3089755, 46.465046 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_durraes_e_tregosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Durrães e Tregosa", "metric_roundness": 40.42, "metric_rectangularity": 65.18, "metric_mobile_fit": -34.66, "metric_aspect_ratio": 1.909, "metric_area_km2": 12.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6985838, 41.6254779 ], [ -8.682219, 41.6201505 ], [ -8.675574, 41.622733 ], [ -8.671202, 41.6248465 ], [ -8.668748, 41.626203 ], [ -8.663934, 41.6285475 ], [ -8.659698, 41.6304625 ], [ -8.6554385, 41.631512 ], [ -8.652007, 41.633285 ], [ -8.6666152, 41.6420179 ], [ -8.6970429, 41.640125 ], [ -8.7078605, 41.631896 ], [ -8.6985838, 41.6254779 ] ] ] } }
+]
+}

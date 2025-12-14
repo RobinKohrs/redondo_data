@@ -1,0 +1,587 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Kakejcov,kakejcov,ka,65.59,79.28,62.58
+europe_lau,Kanice,kanice,ka,25.93,57.94,76.16
+europe_lau,Kaltenberg,kaltenberg,ka,42.08,69.02,70.16
+europe_lau,Kasalice,kasalice,ka,46.73,65.43,32.4
+europe_lau,Kacanovy,kacanovy,ka,49.84,63.49,17.69
+europe_lau,Karlovice,karlovice,ka,51.89,67.05,0.77
+europe_lau,Kamenec u Poličky,kamenec_u_policky,ka,30.39,78.63,92.01
+europe_lau,Kamenná Horka,kamenna_horka,ka,48.82,71.21,47.16
+europe_lau,Kaňovice,kanovice,ka,50.89,66.16,78.45
+europe_lau,Kašava,kasava,ka,55.65,65.88,53.67
+europe_lau,Karlín,karlin,ka,56.22,66.79,32.41
+europe_lau,Karlovice,karlovice,ka,38.71,62.22,46.89
+europe_lau,Kalhov,kalhov,ka,37.48,57.65,58.07
+europe_lau,Kaliště,kaliste,ka,32.57,48.63,-4.68
+europe_lau,Kamenice,kamenice,ka,47.21,53.76,56.11
+europe_lau,Karolín,karolin,ka,33.35,50.14,90.94
+europe_lau,Kamenná,kamenna,ka,49.5,62.14,61.38
+europe_lau,Kameničná,kamenicna,ka,41.55,69.97,22.18
+europe_lau,Kallham,kallham,ka,49.74,64.14,27.9
+europe_lau,Katov,katov,ka,37.81,54.37,97.84
+europe_lau,Katsdorf,katsdorf,ka,43.87,60.88,75.67
+europe_lau,Kamenná,kamenna,ka,49.43,68.1,-2.74
+europe_lau,Karlova Studánka,karlova_studanka,ka,46.3,63.63,22.82
+europe_lau,Karlovice,karlovice,ka,35.87,58.02,25.97
+europe_lau,Kaňovice,kanovice,ka,25.77,52.31,47.11
+europe_lau,Kamenný Malíkov,kamenny_malikov,ka,62.1,68.17,71.45
+europe_lau,Karviná,karvina,ka,40.28,49.67,68.12
+europe_lau,Karlík,karlik,ka,37.33,49.33,72.08
+europe_lau,Kaiser-Wilhelm-Koog,kaiser_wilhelm_koog,ka,45.96,82.5,52.75
+europe_lau,Karolinenkoog,karolinenkoog,ka,41.25,63.96,81.39
+europe_lau,Kankelau,kankelau,ka,53.95,70.84,71
+europe_lau,Kasseburg,kasseburg,ka,72.01,76.07,58.4
+europe_lau,Kastorf,kastorf,ka,57.01,70.28,78.14
+europe_lau,Kadov,kadov,ka,64.31,80.57,60.37
+europe_lau,Kaaks,kaaks,ka,51.37,64.2,46.61
+europe_lau,Kaisborstel,kaisborstel,ka,58.53,69.44,76.35
+europe_lau,Kadolec,kadolec,ka,41.81,57.51,55.48
+europe_lau,Kadov,kadov,ka,41.65,56.65,64.15
+europe_lau,Kaly,kaly,ka,45.72,74.07,43.84
+europe_lau,Karlov,karlov,ka,51.56,74.16,90.85
+europe_lau,Kampen (Sylt),kampen_sylt,ka,32.99,58.1,98.03
+europe_lau,Karlum,karlum,ka,62.19,71.79,69.66
+europe_lau,Katharinenheerd,katharinenheerd,ka,40.69,55.31,22.7
+europe_lau,Kalübbe,kalubbe,ka,51.43,59.62,29.96
+europe_lau,Karby,karby,ka,28.33,50.93,-22.45
+europe_lau,Kabelhorst,kabelhorst,ka,42.55,63.68,97.93
+europe_lau,Kasseedorf,kasseedorf,ka,48.87,58.64,71.15
+europe_lau,Kalefeld,kalefeld,ka,58.7,61.33,57.4
+europe_lau,Katlenburg-Lindau,katlenburg_lindau,ka,47.02,61.43,91.65
+europe_lau,"Kappeln, Stadt",kappeln_stadt,ka,53.65,59.5,43.49
+europe_lau,"Kaltenkirchen, Stadt",kaltenkirchen_stadt,ka,39.56,58.77,26.53
+europe_lau,Kattendorf,kattendorf,ka,37.57,54.58,12.21
+europe_lau,Kayhude,kayhude,ka,57.61,74.06,76.09
+europe_lau,Kalbe,kalbe,ka,52.34,63.8,86.34
+europe_lau,"Kamen, Stadt",kamen_stadt,ka,41.93,60.54,6.37
+europe_lau,Kakenstorf,kakenstorf,ka,30.08,57.28,59.74
+europe_lau,Karwitz,karwitz,ka,50.7,54.2,34.83
+europe_lau,"Kalkar, Stadt",kalkar_stadt,ka,38.26,56.29,79.28
+europe_lau,"Kaarst, Stadt",kaarst_stadt,ka,51.57,62.33,66.23
+europe_lau,"Kamp-Lintfort, Stadt",kamp_lintfort_stadt,ka,63.18,64.91,64.08
+europe_lau,Kall,kall,ka,44.76,63.59,91.54
+europe_lau,Kalletal,kalletal,ka,62.01,63.81,75.94
+europe_lau,Kaprun,kaprun,ka,30.93,66.73,98.01
+europe_lau,"Karben, Stadt",karben_stadt,ka,46.95,55.27,36.29
+europe_lau,Kausen,kausen,ka,58.87,78.24,40.29
+europe_lau,Kainbach bei Graz,kainbach_bei_graz,ka,49.19,55.64,55.47
+europe_lau,Katzwinkel (Sieg),katzwinkel_sieg,ka,69.84,71.1,38.91
+europe_lau,Kalenborn,kalenborn,ka,68.13,78.18,58.89
+europe_lau,Kaltenborn,kaltenborn,ka,54.77,63.07,84.77
+europe_lau,"Kassel, documenta-Stadt",kassel_documenta_stadt,ka,54.88,67.95,8.58
+europe_lau,Kalbach,kalbach,ka,48.16,67.35,72.55
+europe_lau,Kaufungen,kaufungen,ka,45.64,55.71,28.82
+europe_lau,Karl,karl,ka,46.53,64.12,5.96
+europe_lau,Kaifenheim,kaifenheim,ka,60.98,72.1,66.7
+europe_lau,Kail,kail,ka,64.66,73.61,56.43
+europe_lau,"Kaisersesch, Stadt",kaisersesch_stadt,ka,34.34,48.76,20.98
+europe_lau,Kalenborn,kalenborn,ka,35.36,48.7,42.69
+europe_lau,Kalt,kalt,ka,57.1,66.61,79.85
+europe_lau,Kaltenengers,kaltenengers,ka,35.78,57.12,95.65
+europe_lau,Kasbach-Ohlenberg,kasbach_ohlenberg,ka,39.83,65.63,34.59
+europe_lau,Kappel,kappel,ka,46.97,56.64,82.29
+europe_lau,Karbach,karbach,ka,39.4,67.51,-53.15
+europe_lau,"Kastellaun, Stadt",kastellaun_stadt,ka,38.91,54.32,3.85
+europe_lau,Kalwang,kalwang,ka,35.02,50.67,61.97
+europe_lau,Kammern im Liesingtal,kammern_im_liesingtal,ka,51.12,58.85,59.52
+europe_lau,Kalsdorf bei Graz,kalsdorf_bei_graz,ka,34.69,60.74,57.48
+europe_lau,Kaltenholzhausen,kaltenholzhausen,ka,39.94,67.45,95.83
+europe_lau,Kamp-Bornhofen,kamp_bornhofen,ka,24.74,39.16,-27.29
+europe_lau,Kasdorf,kasdorf,ka,38.43,70.62,44.68
+europe_lau,"Katzenelnbogen, Stadt",katzenelnbogen_stadt,ka,22.83,51.99,35.27
+europe_lau,"Kaub, Stadt",kaub_stadt,ka,25.27,30.64,27.32
+europe_lau,Kaden,kaden,ka,39.13,70.9,8.98
+europe_lau,Karlshausen,karlshausen,ka,71.55,69.46,50.44
+europe_lau,Kaschenbach,kaschenbach,ka,43.18,61.09,77.97
+europe_lau,Kalkofen,kalkofen,ka,43.36,70.03,40.57
+europe_lau,Katzenbach,katzenbach,ka,67.31,76.46,36.2
+europe_lau,Kadenbach,kadenbach,ka,50.68,60.48,72.17
+europe_lau,Kammerforst,kammerforst,ka,44.62,71.78,88.07
+europe_lau,Kaperich,kaperich,ka,35.33,71.54,88.58
+europe_lau,Kanzem,kanzem,ka,40.47,74.82,90.76
+europe_lau,Kasel,kasel,ka,31.54,51.07,6.54
+europe_lau,Kastel-Staadt,kastel_staadt,ka,53.47,65.81,18.81
+europe_lau,"Kaiserslautern, Stadt",kaiserslautern_stadt,ka,51.73,62.33,40.61
+europe_lau,Kallstadt,kallstadt,ka,34.28,58.02,33.56
+europe_lau,"Kandel, Stadt",kandel_stadt,ka,39.4,57.82,-3.17
+europe_lau,Katzweiler,katzweiler,ka,40.97,59.09,0.14
+europe_lau,Kainach bei Voitsberg,kainach_bei_voitsberg,ka,52.08,63.41,60.45
+europe_lau,Kalenborn-Scheuern,kalenborn_scheuern,ka,41.2,61.27,40.56
+europe_lau,Katzwinkel,katzwinkel,ka,33.15,41.32,63.35
+europe_lau,Kappeln,kappeln,ka,52.03,63.7,24.66
+europe_lau,Kapfenberg,kapfenberg,ka,63.28,68.1,37.2
+europe_lau,Kapellen-Drusweiler,kapellen_drusweiler,ka,48.51,73.47,82.63
+europe_lau,Kapsweyer,kapsweyer,ka,32.22,69.33,98.39
+europe_lau,Kaisersbach,kaisersbach,ka,44.65,57.05,13.59
+europe_lau,Kaindorf,kaindorf,ka,43.37,63.27,71.27
+europe_lau,Käshofen,kashofen,ka,47.36,64.81,8.11
+europe_lau,Kämpfelbach,kampfelbach,ka,59.86,71.48,68.79
+europe_lau,Karres,karres,ka,50.82,65.69,66.31
+europe_lau,Karrösten,karrosten,ka,34.3,69.67,56.05
+europe_lau,Kappelrodeck,kappelrodeck,ka,39.7,64.86,95.32
+europe_lau,Kappel-Grafenhausen,kappel_grafenhausen,ka,49.22,56.83,80.08
+europe_lau,"Kandern, Stadt",kandern_stadt,ka,59.25,65.63,43.73
+europe_lau,Kapfenstein,kapfenstein,ka,52.34,61.38,57.78
+europe_lau,"Karlsruhe, Stadt",karlsruhe_stadt,ka,51.73,59,41.6
+europe_lau,Karlsbad,karlsbad,ka,40.74,58.92,83.84
+europe_lau,Karlsdorf-Neuthard,karlsdorf_neuthard,ka,48.42,54.66,56.08
+europe_lau,Kaisersdorf,kaisersdorf,ka,41.92,73.37,-22.06
+europe_lau,Kanzach,kanzach,ka,52.7,59.33,61.35
+europe_lau,"Kaufering, M",kaufering_m,ka,40.82,64.54,97.34
+europe_lau,Kastl,kastl,ka,45.79,61.54,54.85
+europe_lau,Karlsfeld,karlsfeld,ka,31.51,56.4,58.28
+europe_lau,Kauns,kauns,ka,27.17,53.02,40.11
+europe_lau,Karlshuld,karlshuld,ka,65.03,69.23,35.88
+europe_lau,Karlskron,karlskron,ka,55.8,72.08,47.4
+europe_lau,Kalkhorst,kalkhorst,ka,51.09,73.53,28.16
+europe_lau,Kasterlee,kasterlee,ka,52.51,62.63,40.71
+europe_lau,Käbschütztal,kabschutztal,ka,51.08,61.85,69.89
+europe_lau,Kaltenbach,kaltenbach,ka,32.22,59.77,43.38
+europe_lau,Kamminke,kamminke,ka,48.82,65.57,87.24
+europe_lau,Karlshagen,karlshagen,ka,56.53,64.93,50.02
+europe_lau,Katzow,katzow,ka,36.74,63.64,66.26
+europe_lau,"Kastl, M",kastl_m,ka,56.84,65.77,81.76
+europe_lau,Kappl,kappl,ka,34.57,46.14,24.37
+europe_lau,Kaunerberg,kaunerberg,ka,32.88,70.15,-8.36
+europe_lau,Kaunertal,kaunertal,ka,32.19,68.11,87.36
+europe_lau,Kaiserpfalz,kaiserpfalz,ka,52.81,60.32,34.96
+europe_lau,Karsdorf,karsdorf,ka,46.59,54.55,69.07
+europe_lau,"Kaisheim, M",kaisheim_m,ka,30.45,43.84,31.28
+europe_lau,Kammeltal,kammeltal,ka,42.58,66.87,97.75
+europe_lau,"Kaltennordheim, Stadt",kaltennordheim_stadt,ka,40.47,56.64,7.84
+europe_lau,"Kalbe (Milde), Stadt",kalbe_milde_stadt,ka,49.45,62.06,38.79
+europe_lau,"Kaltental, M",kaltental_m,ka,48.47,64.86,91.07
+europe_lau,Kammlach,kammlach,ka,51.33,64.64,65.43
+europe_lau,Kasel-Golzig,kasel_golzig,ka,36.7,51.89,14.28
+europe_lau,Kabelsketal,kabelsketal,ka,44.18,55.88,23.23
+europe_lau,"Kahla, Stadt",kahla_stadt,ka,55.13,67.46,78.29
+europe_lau,Karlsdorf,karlsdorf,ka,51.37,72.15,20.4
+europe_lau,Kamern,kamern,ka,53.92,63.49,29.53
+europe_lau,Kapellendorf,kapellendorf,ka,47.79,57.34,59.01
+europe_lau,Katzhütte,katzhutte,ka,36.56,56.92,-10.03
+europe_lau,Kaulsdorf,kaulsdorf,ka,49.32,55.33,57.11
+europe_lau,Kalchreuther Forst,kalchreuther_forst,ka,25.19,46.94,36.53
+europe_lau,Kampenhout,kampenhout,ka,62.97,69.77,48.92
+europe_lau,Kapelle-op-den-Bos,kapelle_op_den_bos,ka,37.08,51.4,85.25
+europe_lau,Kauern,kauern,ka,50.63,66.52,87.15
+europe_lau,Kasteelbrakel,kasteelbrakel,ka,61.94,74.68,8.3
+europe_lau,Kaprijke,kaprijke,ka,44.86,60.77,86.98
+europe_lau,Kammerforst,kammerforst,ka,33.81,67.17,4.18
+europe_lau,Kalbsrieth,kalbsrieth,ka,32.84,65.79,-51.22
+europe_lau,Kalundborg,kalundborg,ka,38.65,49.87,45.66
+europe_lau,Karrantza Harana,karrantza_harana,ka,53.99,75.64,69.64
+europe_lau,Kallnach,kallnach,ka,38.76,45.11,46.13
+europe_lau,Kappelen,kappelen,ka,31.44,65.17,75.24
+europe_lau,Казанлък,kazanl_k,ka,42.74,66.24,71.61
+europe_lau,Калояново,kaloanovo,ka,58.92,67.32,57.98
+europe_lau,Карлово,karlovo,ka,39.62,63.89,2.51
+europe_lau,Kappel am Albis,kappel_am_albis,ka,42.73,60.87,7.34
+europe_lau,Каолиново,kaolinovo,ka,52.23,58.74,71.42
+europe_lau,Каспичан,kaspican,ka,34.76,51.74,80.43
+europe_lau,Кайнарджа,kajnardza,ka,45.33,57.44,49.66
+europe_lau,"Karbach, M",karbach_m,ka,45.25,69.01,61.97
+europe_lau,"Karlstadt, St",karlstadt_st,ka,38.16,50.18,-0.19
+europe_lau,Karsbach,karsbach,ka,63.64,63.09,64.14
+europe_lau,Kassow,kassow,ka,45.02,54.92,63.81
+europe_lau,Kals am Großglockner,kals_am_grossglockner,ka,42.25,55.2,92.69
+europe_lau,Kadrina vald,kadrina_vald,ka,40.41,59.1,71.2
+europe_lau,Kambja vald,kambja_vald,ka,43.52,51.09,83.3
+europe_lau,Kanepi vald,kanepi_vald,ka,67.43,76.54,82.06
+europe_lau,Kastre vald,kastre_vald,ka,47.72,67.3,1.31
+europe_lau,Kartitsch,kartitsch,ka,54.46,68.58,38.71
+europe_lau,KAVAJË,kavaje,ka,49.49,59.34,44.88
+europe_lau,Kappel am Krappfeld,kappel_am_krappfeld,ka,53.27,61.51,67.08
+europe_lau,Kammerstein,kammerstein,ka,57.91,65.28,42.07
+europe_lau,Karstädt,karstadt,ka,65.75,68.67,51.86
+europe_lau,Kaufbeuren,kaufbeuren,ka,52.85,57.04,66.4
+europe_lau,Karnin,karnin,ka,58.4,66.82,59.98
+europe_lau,"Kasendorf, M",kasendorf_m,ka,53.42,67.43,28.93
+europe_lau,Каварна,kavarna,ka,49.88,51.44,73.22
+europe_lau,Kaiserhammer Forst-Ost,kaiserhammer_forst_ost,ka,25.78,50.17,6
+europe_lau,Kalmthout,kalmthout,ka,45.99,55.66,62.98
+europe_lau,Kapellen (Antwerpen),kapellen_antwerpen,ka,49.78,58.31,44.29
+europe_lau,Karlstein a.Main,karlstein_a_main,ka,20.73,45.04,-52.4
+europe_lau,"Kamenz / Kamjenc, Stadt",kamenz_kamjenc_stadt,ka,72.78,67.52,55.8
+europe_lau,Kahl a.Main,kahl_a_main,ka,30.03,68.55,98.78
+europe_lau,Kälberberg,kalberberg,ka,50.38,72.89,43.93
+europe_lau,Kaisers,kaisers,ka,24.23,46.64,-41.25
+europe_lau,Камено,kameno,ka,42.62,53.82,78.74
+europe_lau,Карнобат,karnobat,ka,57.07,66.83,73.75
+europe_lau,"Kallmünz, M",kallmunz_m,ka,44.48,55.8,10.75
+europe_lau,Kalchreuth,kalchreuth,ka,51.46,60.92,76.02
+europe_lau,Karlsburg,karlsburg,ka,57.4,63.58,63.71
+europe_lau,Karenz,karenz,ka,45.28,60.38,80.77
+europe_lau,Karrenzin,karrenzin,ka,41.26,57.88,-20.78
+europe_lau,Karstädt,karstadt,ka,42.08,76.19,-27
+europe_lau,Kargow,kargow,ka,44.29,68.79,74.1
+europe_lau,Kastl,kastl,ka,44.45,64.7,16.39
+europe_lau,KAMËZ,kamez,ka,28.92,58.27,-34.11
+europe_lau,Kallern,kallern,ka,28.34,54.86,92.29
+europe_lau,Kaltbrunn,kaltbrunn,ka,22.95,50.77,-42.98
+europe_lau,Kaarina,kaarina,ka,45.27,64.08,32.71
+europe_lau,Kaavi,kaavi,ka,51.76,67.49,66.89
+europe_lau,Kajaani,kajaani,ka,47.23,58.74,39.33
+europe_lau,Kalajoki,kalajoki,ka,52.25,56.45,74.69
+europe_lau,Kangasala,kangasala,ka,33.31,47.89,-10.02
+europe_lau,Kangasniemi,kangasniemi,ka,50.34,66.53,74.45
+europe_lau,Kankaanpää,kankaanpaa,ka,53.41,56.63,60.78
+europe_lau,Kannonkoski,kannonkoski,ka,58.34,67.66,48.72
+europe_lau,Kannus,kannus,ka,42.81,60.79,80.5
+europe_lau,Karijoki,karijoki,ka,32.67,48.86,60.65
+europe_lau,Karkkila,karkkila,ka,34.05,53.24,16.86
+europe_lau,Karstula,karstula,ka,46.88,63.71,25.97
+europe_lau,Karvia,karvia,ka,50.89,65.58,83.4
+europe_lau,Kaskinen,kaskinen,ka,26.38,64.4,76.3
+europe_lau,Kauhajoki,kauhajoki,ka,62.53,70.19,73.97
+europe_lau,Kauhava,kauhava,ka,66.01,70.88,47.68
+europe_lau,Kauniainen,kauniainen,ka,42.72,63.26,-7.47
+europe_lau,Kaustinen,kaustinen,ka,43.94,55.37,6.32
+europe_lau,Kärkölä,karkola,ka,47.87,61.43,77.34
+europe_lau,Kärsämäki,karsamaki,ka,59.79,71.56,58.72
+europe_lau,Känerkinden,kanerkinden,ka,41.13,77.38,93.57
+europe_lau,Kandergrund,kandergrund,ka,61.1,69.8,53.85
+europe_lau,Kandersteg,kandersteg,ka,38.73,56.93,-10.53
+europe_lau,Kammersrohr,kammersrohr,ka,52.18,80.22,98.13
+europe_lau,Kaufdorf,kaufdorf,ka,45.44,74.73,-20.27
+europe_lau,Kappel (SO),kappel_so,ka,39.39,61.47,1.51
+europe_lau,Κάτω Μύλος,kato_mylos,ka,41.8,67.44,44.08
+europe_lau,Κάθικας,kathikas,ka,22.33,38.77,-18.72
+europe_lau,Κάτω Κιβίδες,kato_kibides,ka,63.51,73.68,40.18
+europe_lau,Καλό Χωριό Καπούτη,kalo_chorio_kapoute,ka,53.01,62.07,27.15
+europe_lau,Kalhausen,kalhausen,ka,57.64,68.46,69.29
+europe_lau,Κατωκοπιά,katokopia,ka,58.13,75.97,66.38
+europe_lau,Kanfen,kanfen,ka,65.68,72.87,63.43
+europe_lau,Kappelkinger,kappelkinger,ka,55.39,65.66,86.87
+europe_lau,Καζάφανι,kazaphani,ka,37.05,60.21,1.94
+europe_lau,Κανλί (Κανλίκιογιου),kanli_kanlikiogiou,ka,48.6,58.34,73.83
+europe_lau,Καννάβια,kannabia,ka,35.06,58.24,83.63
+europe_lau,Κακοπετριά,kakopetria,ka,56.43,65.45,59.12
+europe_lau,Καράκουμι,karakoumi,ka,52,69.07,51.57
+europe_lau,Κάρμι,karmi,ka,40.17,58.35,-14.88
+europe_lau,Καλό Χωριό Λεμεσού,kalo_chorio_lemesou,ka,30.73,46.89,-32.61
+europe_lau,Καλό Χωριό Λάρνακας,kalo_chorio_larnakas,ka,50.83,59.76,20.61
+europe_lau,Κατύδατα,katydata,ka,30.61,48.19,6.72
+europe_lau,Κάτω Δίκωμο,kato_dikomo,ka,41.7,67.43,-19.5
+europe_lau,Καραβάς,karabas,ka,42.48,48.26,32.28
+europe_lau,Kařízek,karizek,ka,43.28,59.41,79.46
+europe_lau,Κάτω Πολεμίδια,kato_polemidia,ka,26.64,43.93,93.14
+europe_lau,Καλαβασός,kalabasos,ka,30.51,51.56,90.49
+europe_lau,Κάτω Μονή,kato_mone,ka,23.45,38.76,98.99
+europe_lau,Καλοπαναγιώτης,kalopanagiotes,ka,28.19,55.26,86.13
+europe_lau,Κάμπος,kampos,ka,39.5,62.55,39.84
+europe_lau,Καντού,kantou,ka,32.05,54.85,97.15
+europe_lau,Καλό Χωριό Σολέας,kalo_chorio_soleas,ka,37.59,64.15,93.85
+europe_lau,Καπηλειό,kapeleio,ka,72.97,73.33,42.27
+europe_lau,Καμινάρια,kaminaria,ka,22.18,48.81,80.53
+europe_lau,Κάτω Πλάτρες (Toρνάρηδες),kato_platres_tornaredes,ka,28.04,43.9,40.28
+europe_lau,Καλλέπεια,kallepeia,ka,25.17,57.77,64.24
+europe_lau,Καμπυλή,kampyle,ka,48.83,58.62,77.26
+europe_lau,Καρπάσεια,karpaseia,ka,32.58,53.07,45.27
+europe_lau,Κάτω Κουτραφάς,kato_koutraphas,ka,38.72,65.25,72.75
+europe_lau,Κάτω Ζώδεια,kato_zodeia,ka,34.98,61.96,7.55
+europe_lau,Καζιβερά,kazibera,ka,55.57,67.28,76.47
+europe_lau,Κάτω Λεύκαρα,kato_leukara,ka,33.31,53.13,-4.28
+europe_lau,Κάτω Δρυς,kato_drys,ka,38.55,63.62,54.12
+europe_lau,Καραβοστάσι,karabostasi,ka,26,51.25,-52.55
+europe_lau,Καλογραία,kalograia,ka,48.63,61.45,27.31
+europe_lau,Καλοψίδα,kalopsida,ka,66.8,65.2,53.75
+europe_lau,Kaisten,kaisten,ka,47.72,62.05,47.41
+europe_lau,Καλό Χωριό Ορεινής,kalo_chorio_oreines,ka,43.73,65.3,98.65
+europe_lau,Κάτω Δευτερά,kato_deutera,ka,24.15,45.71,87.61
+europe_lau,Καλυβάκια,kalybakia,ka,44.87,67.69,79.13
+europe_lau,Καμπί,kampi,ka,36.75,59.43,99.59
+europe_lau,Καπέδες,kapedes,ka,35.27,59.94,58.96
+europe_lau,Καταλιόντας,kataliontas,ka,68.85,73.23,55.17
+europe_lau,Καμπιά,kampia,ka,37.52,67.75,54.42
+europe_lau,Kali,kali,ka,51.32,65.26,55.64
+europe_lau,Kanfanar,kanfanar,ka,52.32,70.89,34.59
+europe_lau,Kapela,kapela,ka,47.58,61.1,94.94
+europe_lau,Kaptol,kaptol,ka,53.24,72.66,88.53
+europe_lau,Karlobag,karlobag,ka,26.23,60.14,66.24
+europe_lau,Kadlín,kadlin,ka,54.51,64.11,46.63
+europe_lau,Kamenný Újezd,kamenny_ujezd,ka,45.84,62.4,19.54
+europe_lau,Kani-Kéli,kani_keli,ka,35.13,53.13,27.87
+europe_lau,Kaltenleutgeben,kaltenleutgeben,ka,41.43,59.21,-4.04
+europe_lau,Kaliště,kaliste,ka,65.86,74.75,61.41
+europe_lau,Kamenice,kamenice,ka,47.74,54.87,46.58
+europe_lau,Kamenné Zboží,kamenne_zbozi,ka,60.23,73.31,14.45
+europe_lau,Karlovac,karlovac,ka,46.8,55.67,41.8
+europe_lau,Kastav,kastav,ka,48.12,59.92,88.56
+europe_lau,Kaštela,kastela,ka,24.28,44.82,-66.58
+europe_lau,Kamenný Přívoz,kamenny_privoz,ka,49.99,78.94,-7.82
+europe_lau,Kamýk nad Vltavou,kamyk_nad_vltavou,ka,46.67,64.11,83.06
+europe_lau,Kalenice,kalenice,ka,57.35,68.3,50.43
+europe_lau,Kamenná,kamenna,ka,58.64,66.71,61.1
+europe_lau,Kanina,kanina,ka,50.27,66.32,19.77
+europe_lau,Karlštejn,karlstejn,ka,60.14,64.02,59.29
+europe_lau,Kappelen,kappelen,ka,35.09,62.37,93.39
+europe_lau,Katzenthal,katzenthal,ka,28.38,40.69,-10.41
+europe_lau,Kaysersberg Vignoble,kaysersberg_vignoble,ka,33.31,45.9,10.85
+europe_lau,Kamenná,kamenna,ka,53.31,64.69,60.51
+europe_lau,Katusice,katusice,ka,59.17,65.55,49.35
+europe_lau,Κάτω Ακουρδάλεια,kato_akourdaleia,ka,45.4,67.78,75.26
+europe_lau,Kácov,kacov,ka,37.88,47.53,84.55
+europe_lau,Κανναβιού,kannabiou,ka,31.27,67.54,81.56
+europe_lau,Kaumberg,kaumberg,ka,51.79,63.71,66.84
+europe_lau,Καραμούλληδες,karamoulledes,ka,29.88,54.19,-12.45
+europe_lau,Κάτω Αρόδες,kato_arodes,ka,12.41,31.9,-151.83
+europe_lau,Kamberk,kamberk,ka,64.61,75.76,63.34
+europe_lau,Kačice,kacice,ka,50.83,70.89,-4.9
+europe_lau,Kamenné Žehrovice,kamenne_zehrovice,ka,55.08,64.63,47.7
+europe_lau,Katov,katov,ka,53.21,71.6,62.47
+europe_lau,Kamenný Most,kamenny_most,ka,49.37,71.44,99.47
+europe_lau,Kaltenhouse,kaltenhouse,ka,41.41,49.05,50.61
+europe_lau,Kauffenheim,kauffenheim,ka,47.17,73.87,15.1
+europe_lau,Kamieniec Ząbkowicki,kamieniec_zabkowicki,ka,43.22,56.54,4.25
+europe_lau,Kaliska,kaliska,ka,52.32,58.22,60.09
+europe_lau,Karsin,karsin,ka,56.4,66.26,71.35
+europe_lau,Kapelln,kapelln,ka,50.33,65.57,71.82
+europe_lau,Kamień,kamien,ka,41.04,53.54,9.31
+europe_lau,Karlino,karlino,ka,33.02,53.41,85.43
+europe_lau,Kalisz Pomorski,kalisz_pomorski,ka,48.73,57.2,32.52
+europe_lau,Kąty Wrocławskie,katy_wroclawskie,ka,56.81,64.28,43.95
+europe_lau,Karlstein an der Thaya,karlstein_an_der_thaya,ka,49.61,64.66,-1.19
+europe_lau,Kamiennik,kamiennik,ka,48.7,64.75,42.19
+europe_lau,Kalinowo,kalinowo,ka,60.52,67.35,70.94
+europe_lau,Karlsøy,karlsoy,ka,49.27,59.9,46.06
+europe_lau,Karlstetten,karlstetten,ka,33.38,60.45,-4.06
+europe_lau,Karnice,karnice,ka,56,66.49,42.64
+europe_lau,Kamień Pomorski,kamien_pomorski,ka,39.63,45.6,46.93
+europe_lau,Karpacz,karpacz,ka,59.16,72.17,4.38
+europe_lau,Kamienna Góra,kamienna_gora,ka,46.17,65.19,23.03
+europe_lau,Kasten bei Böheimkirchen,kasten_bei_boheimkirchen,ka,43.16,64.07,31.04
+europe_lau,Kautzen,kautzen,ka,46.11,62.68,13.85
+europe_lau,Kaceřov,kacerov,ka,58.19,66.3,52.27
+europe_lau,Kałuszyn,kaluszyn,ka,46.27,52.9,56.17
+europe_lau,Kamenický Šenov,kamenicky_senov,ka,48.17,62.98,56.01
+europe_lau,Kamienna Góra,kamienna_gora,ka,34.25,50.3,36.94
+europe_lau,Kacákova Lhota,kacakova_lhota,ka,45.12,60.03,27.99
+europe_lau,Kašperské Hory,kasperske_hory,ka,29.32,59.55,98.39
+europe_lau,Kamień Krajeński,kamien_krajenski,ka,63.19,67.45,47.73
+europe_lau,Karczew,karczew,ka,53.55,67.13,83.04
+europe_lau,Kampinos,kampinos,ka,51,53.22,40.93
+europe_lau,Karczmiska,karczmiska,ka,44.74,64.64,46.16
+europe_lau,Kazimierz Dolny,kazimierz_dolny,ka,46.01,50.45,48.05
+europe_lau,Kawęczyn,kaweczyn,ka,59.47,62.72,67.84
+europe_lau,Kamieniec,kamieniec,ka,60.46,59.75,57.83
+europe_lau,Kauno miesto savivaldybė,kauno_miesto_savivaldybe,ka,46.24,62.65,10.1
+europe_lau,Kalvarijos savivaldybė,kalvarijos_savivaldybe,ka,60.69,65.74,54.79
+europe_lau,Kaišiadorių rajono savivaldybė,kaisiadoriu_rajono_savivaldybe,ka,50.65,58.14,50.66
+europe_lau,Kauno rajono savivaldybė,kauno_rajono_savivaldybe,ka,45.85,53.16,54.05
+europe_lau,Kartuzy,kartuzy,ka,36.88,46.36,28.02
+europe_lau,Karniewo,karniewo,ka,53.44,57.66,49.53
+europe_lau,Kadzidło,kadzidlo,ka,49.92,53.17,28.97
+europe_lau,Kašnice,kasnice,ka,27.71,71.12,-28.11
+europe_lau,Kańczuga,kanczuga,ka,57.29,59.8,56.53
+europe_lau,Kaczory,kaczory,ka,44.46,59.05,82.23
+europe_lau,Kaźmierz,kazmierz,ka,66.68,70.29,55.89
+europe_lau,Kařez,karez,ka,40.83,56.83,69.78
+europe_lau,Kazlų Rūdos savivaldybė,kazlu_rudos_savivaldybe,ka,49.39,61.77,82.58
+europe_lau,Käerjeng,kaerjeng,ka,49.75,67.33,69.52
+europe_lau,Kayl,kayl,ka,42.71,56.06,79.54
+europe_lau,Kaliště,kaliste,ka,46.62,58.68,69.82
+europe_lau,Kámen,kamen,ka,48.69,60.72,63.08
+europe_lau,Kamenice nad Lipou,kamenice_nad_lipou,ka,43.76,59.22,77.37
+europe_lau,Kántorjánosi,kantorjanosi,ka,60.42,66.21,70.68
+europe_lau,Karos,karos,ka,20.22,44.62,83.5
+europe_lau,Kaskantyú,kaskantyu,ka,57.42,70.49,49.75
+europe_lau,Kartal,kartal,ka,37.38,56.04,-10.1
+europe_lau,Kajárpéc,kajarpec,ka,67.35,70.08,66.33
+europe_lau,Kardoskút,kardoskut,ka,54.05,76.03,1.3
+europe_lau,Karolinka,karolinka,ka,33.85,59.15,61.55
+europe_lau,Kateřinice,katerinice,ka,51.58,68.51,31.93
+europe_lau,Káloz,kaloz,ka,56.48,74.19,72.1
+europe_lau,Kánó,kano,ka,30.49,50.98,28.56
+europe_lau,Karancslapujtő,karancslapujto,ka,34.16,54.36,-10.74
+europe_lau,Karcsa,karcsa,ka,58,83.85,92.84
+europe_lau,Kájov,kajov,ka,43.3,66.17,91.47
+europe_lau,Kaplice,kaplice,ka,48.48,63.82,77.01
+europe_lau,Kadarkút,kadarkut,ka,62.72,77.39,56.52
+europe_lau,Katafa,katafa,ka,41.04,77.08,87.39
+europe_lau,Kazsok,kazsok,ka,45.09,59.14,39.1
+europe_lau,Karancsság,karancssag,ka,41.41,60.77,48.08
+europe_lau,Kajászó,kajaszo,ka,69.1,86.18,58.81
+europe_lau,Kálócfa,kalocfa,ka,35.88,52.37,43.99
+europe_lau,Kállósemjén,kallosemjen,ka,32,62.49,93.37
+europe_lau,Kamýk,kamyk,ka,36.88,60.79,90.64
+europe_lau,Kaposkeresztúr,kaposkeresztur,ka,48.64,66.16,92.36
+europe_lau,Kamenný Újezd,kamenny_ujezd,ka,55.18,62.6,45.95
+europe_lau,Kásád,kasad,ka,43.18,60.73,89.36
+europe_lau,Kastélyosdombó,kastelyosdombo,ka,34.27,39.36,62.86
+europe_lau,Kálló,kallo,ka,45.58,61.23,74.72
+europe_lau,Karakószörcsök,karakoszorcsok,ka,35.72,55.87,96.92
+europe_lau,Karancskeszi,karancskeszi,ka,48.53,63.78,53.52
+europe_lau,Kaposfő,kaposfo,ka,42.97,69.71,81.07
+europe_lau,Kápolnásnyék,kapolnasnyek,ka,35.06,59.88,88.3
+europe_lau,Kaszaper,kaszaper,ka,41.53,53.21,84.68
+europe_lau,Kázsmárk,kazsmark,ka,51.51,69.29,37.67
+europe_lau,Kálmánháza,kalmanhaza,ka,49.99,66.34,73.11
+europe_lau,Kacorlak,kacorlak,ka,62.29,85.11,52.96
+europe_lau,Kapospula,kapospula,ka,24.87,67.93,84.44
+europe_lau,Kamut,kamut,ka,60.2,67,55.47
+europe_lau,Kacsóta,kacsota,ka,29.81,48.26,93.67
+europe_lau,Kányavár,kanyavar,ka,33.27,68.25,85.04
+europe_lau,Kám,kam,ka,20.08,36.08,90.88
+europe_lau,Karmacs,karmacs,ka,36.8,63.38,99.37
+europe_lau,Kávás,kavas,ka,40.98,63.43,95.24
+europe_lau,Kál,kal,ka,45.4,62.47,37.35
+europe_lau,Kakucs,kakucs,ka,54.99,71.62,51.87
+europe_lau,Kaposmérő,kaposmero,ka,26.53,59.25,87.91
+europe_lau,Kajdacs,kajdacs,ka,57.29,77.4,71.92
+europe_lau,Káptalanfa,kaptalanfa,ka,36,55.03,59.16
+europe_lau,Káva,kava,ka,41.78,67.97,97.61
+europe_lau,Kapuvár,kapuvar,ka,35.67,49.75,94.65
+europe_lau,Kazár,kazar,ka,42.84,51.56,67.56
+europe_lau,Karcag,karcag,ka,58.67,66.76,77.04
+europe_lau,Kadov,kadov,ka,54.59,62.22,57.9
+europe_lau,Katovice,katovice,ka,67.24,67.1,66.72
+europe_lau,Kalaznó,kalazno,ka,53.29,68.15,81.25
+europe_lau,Karád,karad,ka,61.75,65.66,69.27
+europe_lau,Kánya,kanya,ka,52.97,72,77.35
+europe_lau,Kára,kara,ka,55.69,76.96,71.24
+europe_lau,Kallósd,kallosd,ka,75.41,83.23,43.84
+europe_lau,Káptalantóti,kaptalantoti,ka,60.7,70.45,78.72
+europe_lau,Karancsalja,karancsalja,ka,51.64,64.51,66.78
+europe_lau,Kaničky,kanicky,ka,50.06,74.27,41.04
+europe_lau,Kács,kacs,ka,30.73,54.36,97.87
+europe_lau,Kámen,kamen,ka,48.94,63.57,34.74
+europe_lau,Kapoly,kapoly,ka,58.25,76.99,72.93
+europe_lau,Kapolcs,kapolcs,ka,53.54,67.1,80.2
+europe_lau,Kaposszekcső,kaposszekcso,ka,58.59,70.24,77.42
+europe_lau,Kátoly,katoly,ka,38.14,49.98,80.94
+europe_lau,Kamond,kamond,ka,50.77,72.48,79.41
+europe_lau,Kaposgyarmat,kaposgyarmat,ka,36.86,57.7,67.44
+europe_lau,Kaldrananeshreppur,kaldrananeshreppur,ka,44.26,59.06,68.84
+europe_lau,Kardos,kardos,ka,39.74,60.83,73.54
+europe_lau,Kalinovac,kalinovac,ka,54.16,68.64,34.17
+europe_lau,Kalnik,kalnik,ka,47.65,60.3,12.03
+europe_lau,Karácsond,karacsond,ka,49.71,67.68,32.08
+europe_lau,Kárász,karasz,ka,32.73,43.13,50.56
+europe_lau,Kálmáncsa,kalmancsa,ka,67,70.06,48.91
+europe_lau,Kákics,kakics,ka,37.58,59.45,-27.89
+europe_lau,Kaposszerdahely,kaposszerdahely,ka,32.82,58.06,85.21
+europe_lau,Kaszó,kaszo,ka,34.71,45.3,69.93
+europe_lau,Kardašova Řečice,kardasova_recice,ka,51.53,68.77,58.96
+europe_lau,Karojba,karojba,ka,46.32,55.51,45.19
+europe_lau,Kaštelir-Labinci - Castelliere-S. Domenica,kastelir_labinci_castelliere_s_domenica,ka,52.44,71.29,95.85
+europe_lau,Kamanje,kamanje,ka,49.44,63.53,79.22
+europe_lau,Kakasd,kakasd,ka,56.59,68.23,86.86
+europe_lau,Kápolna,kapolna,ka,27.37,64.19,-60.9
+europe_lau,Károlyháza,karolyhaza,ka,41.97,64.36,26.04
+europe_lau,Kanturk,kanturk,ka,48.68,54.57,40.29
+europe_lau,Karakó,karako,ka,28.7,43.62,67.84
+europe_lau,Katymár,katymar,ka,46.17,62.63,14.57
+europe_lau,Kaposújlak,kaposujlak,ka,42.16,78.98,92.06
+europe_lau,Káld,kald,ka,51.11,62.52,47.44
+europe_lau,Karancsberény,karancsbereny,ka,66.75,73.01,46.62
+europe_lau,Kány,kany,ka,59.46,75.51,88.38
+europe_lau,Kaposhomok,kaposhomok,ka,45.9,65.85,99
+europe_lau,Kaba,kaba,ka,56.97,69.93,58.83
+europe_lau,Kazincbarcika,kazincbarcika,ka,30.51,62.23,49.55
+europe_lau,Katádfa,katadfa,ka,27.98,54.34,86.55
+europe_lau,Kaposvár,kaposvar,ka,44.26,58.36,91.51
+europe_lau,Kalša,kalsa,ka,39.29,49.74,43.36
+europe_lau,Kamenica nad Hronom,kamenica_nad_hronom,ka,35.45,55.02,38.88
+europe_lau,Kamenín,kamenin,ka,42.33,63.64,-6.58
+europe_lau,Kamenný Most,kamenny_most,ka,53.15,61.42,74.41
+europe_lau,Kamienka (okres Stará Ľubovňa),kamienka_okres_stara_lubovna,ka,50.49,59.11,53.45
+europe_lau,Kamenná Poruba (okres Žilina),kamenna_poruba_okres_zilina,ka,38.48,71.22,52.66
+europe_lau,Kaplna,kaplna,ka,39.93,93.67,51.34
+europe_lau,Kámen,kamen,ka,59.31,68.94,62.53
+europe_lau,Kamenná Lhota,kamenna_lhota,ka,50.65,64.48,54.75
+europe_lau,Kameničany,kamenicany,ka,12.62,69.4,77.3
+europe_lau,Kačanov,kacanov,ka,37.71,80.15,12.82
+europe_lau,Kaluža,kaluza,ka,24.68,63.59,77.47
+europe_lau,Kajal,kajal,ka,38.48,44.68,67.95
+europe_lau,Kapišová,kapisova,ka,62.09,72.87,34.41
+europe_lau,Kátov,katov,ka,48.85,68.58,60.16
+europe_lau,Kalameny,kalameny,ka,31.95,70.32,86.25
+europe_lau,Kanjiža,kanjiza,ka,49.72,67.8,78.53
+europe_lau,Kamenec pod Vtáčnikom,kamenec_pod_vtacnikom,ka,37.58,74.19,48.91
+europe_lau,Kanianka,kanianka,ka,34.71,71.47,16.63
+europe_lau,Kameničky,kamenicky,ka,46.07,66.24,63.83
+europe_lau,Kapušianske Kľačany,kapusianske_klacany,ka,35.05,52.28,92.05
+europe_lau,Kašov,kasov,ka,46.76,69.81,74.16
+europe_lau,Kazimír,kazimir,ka,49.13,64.74,84.21
+europe_lau,Kamenná Poruba (okres Vranov nad Topľou),kamenna_poruba_okres_vranov_nad_toplou,ka,38.66,55.87,4.47
+europe_lau,Kalnište,kalniste,ka,47.24,74.15,88.31
+europe_lau,Kapince,kapince,ka,40.62,71.44,-35.99
+europe_lau,Kalinovo,kalinovo,ka,33.97,48.88,35.81
+europe_lau,Kalonda,kalonda,ka,51.65,65.23,80.17
+europe_lau,Kamenec,kamenec,ka,43.96,70.86,-7.16
+europe_lau,Katrineholm,katrineholm,ka,35.15,52.5,66.02
+europe_lau,Kaloša,kalosa,ka,34.94,59.12,93.89
+europe_lau,Kateřinice,katerinice,ka,50.21,78.91,72.6
+europe_lau,Kamenica,kamenica,ka,40.3,52.92,19.13
+europe_lau,Kapušany,kapusany,ka,38.7,52.6,28.78
+europe_lau,Kačlehy,kaclehy,ka,41.99,61.16,60.95
+europe_lau,Kalinov,kalinov,ka,51.93,58.48,65.79
+europe_lau,Kalná Roztoka,kalna_roztoka,ka,58.28,72.13,71.01
+europe_lau,Kameničná,kamenicna,ka,20.52,41.88,58.3
+europe_lau,Kálnica,kalnica,ka,49.84,71.95,53.59
+europe_lau,Kaľamenová,kalamenova,ka,23.65,60.69,98.26
+europe_lau,Karlová,karlova,ka,43.6,69.72,99.63
+europe_lau,Kalmar,kalmar,ka,36.45,65.04,70.38
+europe_lau,Karlskrona,karlskrona,ka,47.98,64.62,57.67
+europe_lau,Karlshamn,karlshamn,ka,52.81,69.62,65.47
+europe_lau,Kävlinge,kavlinge,ka,40.89,63.1,7.88
+europe_lau,Karlsborg,karlsborg,ka,46.64,61.44,89.9
+europe_lau,Kamenné Kosihy,kamenne_kosihy,ka,36.7,62.75,19.41
+europe_lau,Kamenica nad Cirochou,kamenica_nad_cirochou,ka,44.62,64.06,79.21
+europe_lau,Kamienka (okres Humenné),kamienka_okres_humenne,ka,49.05,64.6,34.73
+europe_lau,Karná,karna,ka,52.89,71.22,71.47
+europe_lau,Kalix,kalix,ka,49.51,63.43,60.62
+europe_lau,Kamanová,kamanova,ka,38.33,70.26,-16.7
+europe_lau,Kaľava,kalava,ka,40.23,57.24,-10.15
+europe_lau,Kalná nad Hronom,kalna_nad_hronom,ka,55.32,70.75,74.3
+europe_lau,Kátlovce,katlovce,ka,62.49,82.52,54.54
+europe_lau,Kameňany,kamenany,ka,52.27,64.65,22.65
+europe_lau,Kalinkovo,kalinkovo,ka,34.43,54.99,-25
+europe_lau,Káranice,karanice,ka,49.47,68.39,83.94
+europe_lau,Kazanów,kazanow,ka,43.81,58.61,2.73
+europe_lau,Karlstad,karlstad,ka,37.67,56.01,82.54
+europe_lau,Karlskoga,karlskoga,ka,46.05,63.86,79.83
+europe_lau,Kamnik,kamnik,ka,30,44.44,12.31
+europe_lau,Kanal,kanal,ka,50.05,65.81,59.52
+europe_lau,Kazimierza Wielka,kazimierza_wielka,ka,56.61,59.78,34.43
+europe_lau,Kanice,kanice,ka,47.21,55.72,40.93
+europe_lau,Kadaň,kadan,ka,42.24,47.01,73.9
+europe_lau,Karlova Ves,karlova_ves,ka,36.4,62.14,-31.28
+europe_lau,Kárášjohka - Karasjok,karasjohka_karasjok,ka,48.1,60.06,85.12
+europe_lau,Katwijk,katwijk,ka,57.81,67.15,68.95
+europe_lau,Kārsavas novads,karsavas_novads,ka,48.2,56.1,25.37
+europe_lau,Kapelle,kapelle,ka,52.68,60.75,72.92
+europe_lau,Kąkolewnica,kakolewnica,ka,53.71,66.69,60.64
+europe_lau,Kamień,kamien,ka,45.41,60.45,47.64
+europe_lau,Kalek,kalek,ka,39.47,58.91,22.98
+europe_lau,Kaceřov,kacerov,ka,50.81,60.3,14.42
+europe_lau,Kaznějov,kaznejov,ka,45.28,57.7,20.51
+europe_lau,Kargowa,kargowa,ka,47,59.2,24.97
+europe_lau,Kamienica,kamienica,ka,26.25,41.3,-1.9
+europe_lau,Kamionka Wielka,kamionka_wielka,ka,44.11,64.72,19.12
+europe_lau,Kandavas novads,kandavas_novads,ka,49.67,55.72,78.28
+europe_lau,Кавадарци,kavadarci,ka,51.37,57.8,61.86
+europe_lau,Карбинци,karbinci,ka,36.67,66.73,-5.55
+europe_lau,Kaag en Braassem,kaag_en_braassem,ka,46.87,71.16,10.86
+europe_lau,Kamionka,kamionka,ka,48.6,62.33,80.11
+europe_lau,Káraný,karany,ka,43.49,58.97,45.09
+europe_lau,Kamieńsk,kamiensk,ka,65.4,64.96,65.58
+europe_lau,Kalisz,kalisz,ka,67.11,70.43,49.71
+europe_lau,Kalivody,kalivody,ka,46.53,76.91,-38.9
+europe_lau,Kalwaria Zebrzydowska,kalwaria_zebrzydowska,ka,42.64,62.91,20.75
+europe_lau,Kazimierz Biskupi,kazimierz_biskupi,ka,43.99,54.86,36.68
+europe_lau,Карпош,karpos,ka,42.4,60.45,82.84
+europe_lau,Karmøy,karmoy,ka,24.73,70.06,73.33
+europe_lau,Kalety,kalety,ka,34.74,52.37,6.15
+europe_lau,Karlovy Vary,karlovy_vary,ka,51.23,59.16,29.92
+europe_lau,Kampen,kampen,ka,51.15,60.7,55.23
+europe_lau,Kamienica Polska,kamienica_polska,ka,38.57,56.92,28.81
+europe_lau,Katowice,katowice,ka,54.19,55.47,66.86
+europe_lau,Kasejovice,kasejovice,ka,54.63,54.75,62.73
+europe_lau,Katzelsdorf,katzelsdorf,ka,46.31,65.29,77.61
+europe_lau,Kalocsa,kalocsa,ka,49.52,58.14,77.59
+europe_lau,Καλιάνα,kaliana,ka,53.97,72.58,27.23
+europe_lau,Κάτω Πύργος,kato_pyrgos,ka,46.47,72.1,37.78
+europe_lau,Kaiseraugst,kaiseraugst,ka,44.73,64.03,-7.93
+europe_lau,Kaiserstuhl,kaiserstuhl,ka,47.68,68.7,24.65
+europe_lau,Karle,karle,ka,65.3,71.31,40.34

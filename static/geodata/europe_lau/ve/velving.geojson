@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velving",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velving", "metric_roundness": 55.34, "metric_rectangularity": 71.08, "metric_mobile_fit": 28.97, "metric_aspect_ratio": 1.273, "metric_area_km2": 10.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5248119, 49.237266299999966 ], [ 6.5281021, 49.231322099999979 ], [ 6.540191, 49.229586499999989 ], [ 6.546764, 49.232212100000012 ], [ 6.5550179, 49.2428466 ], [ 6.5621535, 49.2463535 ], [ 6.5385335, 49.251957 ], [ 6.5253092, 49.2486593 ], [ 6.5185405, 49.239386 ], [ 6.5248119, 49.237266299999966 ] ] ] } }
+]
+}

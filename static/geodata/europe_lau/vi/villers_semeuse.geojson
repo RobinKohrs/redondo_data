@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villers_semeuse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villers-Semeuse", "metric_roundness": 52.03, "metric_rectangularity": 59.97, "metric_mobile_fit": 57.94, "metric_aspect_ratio": 0.983, "metric_area_km2": 15.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.733498, 49.7244725 ], [ 4.759201, 49.7329205 ], [ 4.774614, 49.738788799999988 ], [ 4.7759965, 49.7430006 ], [ 4.773472, 49.744015 ], [ 4.7698215, 49.7447715 ], [ 4.767608, 49.746343 ], [ 4.7636565, 49.747779 ], [ 4.76122, 49.7504145 ], [ 4.759194, 49.751555 ], [ 4.759024, 49.753793 ], [ 4.7572525, 49.754787 ], [ 4.7375002, 49.7550741 ], [ 4.7378775, 49.7394625 ], [ 4.7294455, 49.733119 ], [ 4.733498, 49.7244725 ] ] ] } }
+]
+}

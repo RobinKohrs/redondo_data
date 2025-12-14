@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rudtligen_alchenfluh",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rüdtligen-Alchenflüh", "metric_roundness": 48.24, "metric_rectangularity": 72.44, "metric_mobile_fit": 67.51, "metric_aspect_ratio": 0.887, "metric_area_km2": 5.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5812635, 47.085021499999989 ], [ 7.5784505, 47.087094 ], [ 7.5734415, 47.090527 ], [ 7.5665495, 47.0944565 ], [ 7.5626815, 47.096251 ], [ 7.561223, 47.092060499999981 ], [ 7.5539945, 47.087049 ], [ 7.5632751, 47.0803845 ], [ 7.5684335, 47.0726775 ], [ 7.57048, 47.075068 ], [ 7.5738815, 47.076827 ], [ 7.576799, 47.07981 ], [ 7.578653, 47.0788725 ], [ 7.5847175, 47.0815815 ], [ 7.5812635, 47.085021499999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "auberives_en_royans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Auberives-en-Royans", "metric_roundness": 56.75, "metric_rectangularity": 80.03, "metric_mobile_fit": 52.72, "metric_aspect_ratio": 1.035, "metric_area_km2": 10.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.331139, 45.06257 ], [ 5.3065415, 45.079812 ], [ 5.2964569, 45.072061 ], [ 5.291619, 45.0638905 ], [ 5.3045494, 45.060989599999985 ], [ 5.3057975, 45.055384 ], [ 5.306276, 45.0533905 ], [ 5.3083145, 45.053516 ], [ 5.3178495, 45.0513425 ], [ 5.320481, 45.051857 ], [ 5.3211332, 45.0560818 ], [ 5.33335, 45.059989499999986 ], [ 5.331139, 45.06257 ] ] ] } }
+]
+}

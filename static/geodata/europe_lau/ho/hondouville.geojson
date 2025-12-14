@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hondouville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hondouville", "metric_roundness": 32.76, "metric_rectangularity": 61.36, "metric_mobile_fit": -29.3, "metric_aspect_ratio": 1.855, "metric_area_km2": 16.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0988795, 49.150117799999983 ], [ 1.0752834, 49.142361699999988 ], [ 1.0741925, 49.1396685 ], [ 1.0901202, 49.1414039 ], [ 1.1201385, 49.132972499999987 ], [ 1.1294941, 49.1393808 ], [ 1.1351135, 49.139692499999974 ], [ 1.145873, 49.141708 ], [ 1.132681, 49.158243 ], [ 1.0988795, 49.150117799999983 ] ] ] } }
+]
+}

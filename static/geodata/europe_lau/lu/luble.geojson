@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luble",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lublé", "metric_roundness": 25.96, "metric_rectangularity": 63.87, "metric_mobile_fit": 32.76, "metric_aspect_ratio": 1.235, "metric_area_km2": 28.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2195358, 47.5100718 ], [ 0.2201065, 47.501952499999987 ], [ 0.2602072, 47.5165037 ], [ 0.2648636, 47.5226049 ], [ 0.2887866, 47.5316077 ], [ 0.294517, 47.537703499999985 ], [ 0.3021945, 47.547151 ], [ 0.291057, 47.5465055 ], [ 0.289304, 47.547149 ], [ 0.256072, 47.540575 ], [ 0.2490393, 47.5319296 ], [ 0.2324261, 47.5328083 ], [ 0.2248415, 47.527279 ], [ 0.2195358, 47.5100718 ] ] ] } }
+]
+}

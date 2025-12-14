@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberhausbergen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberhausbergen", "metric_roundness": 47.28, "metric_rectangularity": 60.23, "metric_mobile_fit": 28.85, "metric_aspect_ratio": 1.274, "metric_area_km2": 9.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7086535, 48.603935 ], [ 7.7054005, 48.605849 ], [ 7.6890645, 48.6103556 ], [ 7.6827001, 48.6163601 ], [ 7.6832585, 48.619374499999985 ], [ 7.682962, 48.6197935 ], [ 7.6774535, 48.6201106 ], [ 7.66593, 48.612165499999982 ], [ 7.666846, 48.608924499999986 ], [ 7.6701773, 48.6078275 ], [ 7.6733555, 48.597937 ], [ 7.6880515, 48.598127 ], [ 7.7086535, 48.603935 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mikulovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mikulovice", "metric_roundness": 46.65, "metric_rectangularity": 61.16, "metric_mobile_fit": 29.81, "metric_aspect_ratio": 1.264, "metric_area_km2": 8.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.7726944, 49.9847786 ], [ 15.7799388, 49.980478499999982 ], [ 15.7929405, 49.9784515 ], [ 15.7885005, 49.998403 ], [ 15.7752318, 49.9942862 ], [ 15.7619015, 49.996484 ], [ 15.753705, 49.989443 ], [ 15.7584308, 49.9880792 ], [ 15.7595855, 49.982702 ], [ 15.7726944, 49.9847786 ] ] ] } }
+]
+}

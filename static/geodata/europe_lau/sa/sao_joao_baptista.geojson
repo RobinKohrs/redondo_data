@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sao_joao_baptista",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "São João Baptista", "metric_roundness": 14.98, "metric_rectangularity": 44.36, "metric_mobile_fit": 98.53, "metric_aspect_ratio": 0.548, "metric_area_km2": 7.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4689935, 39.4670657 ], [ -8.492805, 39.443495 ], [ -8.4849495, 39.439508 ], [ -8.4677475, 39.447067 ], [ -8.4624357, 39.4543036 ], [ -8.4617595, 39.463742 ], [ -8.4640724, 39.4765186 ], [ -8.4579411, 39.4837512 ], [ -8.4565055, 39.490615 ], [ -8.4568615, 39.490669 ], [ -8.4689935, 39.4670657 ] ] ] } }
+]
+}

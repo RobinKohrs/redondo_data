@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ramalde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ramalde", "metric_roundness": 50.59, "metric_rectangularity": 77.54, "metric_mobile_fit": 29.11, "metric_aspect_ratio": 1.271, "metric_area_km2": 10.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6271282, 41.174934299999983 ], [ -8.6226815, 41.1802515 ], [ -8.6323487, 41.1796128 ], [ -8.6431092, 41.1836281 ], [ -8.6577835, 41.1774355 ], [ -8.6599243, 41.1744402 ], [ -8.6580246, 41.1699902 ], [ -8.6629985, 41.163572 ], [ -8.6359385, 41.159759 ], [ -8.625187, 41.167035 ], [ -8.6271282, 41.174934299999983 ] ] ] } }
+]
+}

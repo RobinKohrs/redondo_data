@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tremilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trémilly", "metric_roundness": 36.31, "metric_rectangularity": 63.5, "metric_mobile_fit": 96.36, "metric_aspect_ratio": 0.526, "metric_area_km2": 24.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7670786, 48.407918799999983 ], [ 4.7601875, 48.387613499999986 ], [ 4.7545815, 48.366546 ], [ 4.775903, 48.356914499999981 ], [ 4.7928885, 48.3560935 ], [ 4.7973789, 48.3757133 ], [ 4.7800404, 48.386476699999989 ], [ 4.782424, 48.400224 ], [ 4.7752915, 48.4022245 ], [ 4.775653, 48.406805 ], [ 4.77216, 48.410124 ], [ 4.7670786, 48.407918799999983 ] ] ] } }
+]
+}

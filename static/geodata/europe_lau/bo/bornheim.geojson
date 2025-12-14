@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bornheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bornheim", "metric_roundness": 29.37, "metric_rectangularity": 59.86, "metric_mobile_fit": 99.61, "metric_aspect_ratio": 0.566, "metric_area_km2": 10.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0644817, 49.765428499999977 ], [ 8.0661765, 49.7712095 ], [ 8.0731196, 49.7839697 ], [ 8.070475, 49.7879285 ], [ 8.0775396, 49.790178 ], [ 8.0813133, 49.795318699999989 ], [ 8.0806645, 49.79982 ], [ 8.068785, 49.797694 ], [ 8.0495331, 49.7830301 ], [ 8.0559052, 49.7722882 ], [ 8.0491475, 49.769385 ], [ 8.0593905, 49.7631515 ], [ 8.0644817, 49.765428499999977 ] ] ] } }
+]
+}

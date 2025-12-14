@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vale_do_paraiso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vale do Paraíso", "metric_roundness": 44.23, "metric_rectangularity": 62.01, "metric_mobile_fit": 11.55, "metric_aspect_ratio": 1.447, "metric_area_km2": 10.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.8802228, 39.126834699999989 ], [ -8.9056674, 39.1238609 ], [ -8.91678, 39.1197645 ], [ -8.8992047, 39.1056079 ], [ -8.8926697, 39.108737 ], [ -8.8862243, 39.1057677 ], [ -8.881239, 39.106803 ], [ -8.8742859, 39.1106068 ], [ -8.8749691, 39.1200854 ], [ -8.8674745, 39.1282815 ], [ -8.8728235, 39.132044 ], [ -8.8802228, 39.126834699999989 ] ] ] } }
+]
+}

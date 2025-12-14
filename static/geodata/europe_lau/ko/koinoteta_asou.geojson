@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_asou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άσου", "metric_roundness": 42.13, "metric_rectangularity": 53.29, "metric_mobile_fit": 44.72, "metric_aspect_ratio": 1.115, "metric_area_km2": 8.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.565807, 38.381181 ], [ 20.5657655, 38.3823585 ], [ 20.548462, 38.3836945 ], [ 20.5385035, 38.3788292 ], [ 20.5358238, 38.3862267 ], [ 20.5267919, 38.385662299999986 ], [ 20.5289373, 38.3794178 ], [ 20.5441209, 38.3730283 ], [ 20.5467685, 38.358801 ], [ 20.56003, 38.3609345 ], [ 20.5642385, 38.3699595 ], [ 20.565807, 38.381181 ] ] ] } }
+]
+}

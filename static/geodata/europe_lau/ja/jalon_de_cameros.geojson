@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jalon_de_cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jalón de Cameros", "metric_roundness": 60.21, "metric_rectangularity": 77.14, "metric_mobile_fit": 72.14, "metric_aspect_ratio": 0.841, "metric_area_km2": 15.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.4791605, 42.2074845 ], [ -2.4714798, 42.2083502 ], [ -2.4706883, 42.2145539 ], [ -2.4870312, 42.22482 ], [ -2.493858, 42.2328185 ], [ -2.511249, 42.226581 ], [ -2.5099, 42.221502099999981 ], [ -2.5136415, 42.211696499999988 ], [ -2.4982185, 42.194996 ], [ -2.4791605, 42.2074845 ] ] ] } }
+]
+}

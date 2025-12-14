@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dyo_potamoi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Δύο Ποταμοί", "metric_roundness": 64.08, "metric_rectangularity": 72.49, "metric_mobile_fit": 41.95, "metric_aspect_ratio": 1.143, "metric_area_km2": 7.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.0863031, 35.2558634 ], [ 33.0726045, 35.247399 ], [ 33.0684823, 35.2402176 ], [ 33.07086, 35.235952 ], [ 33.0745464, 35.2388484 ], [ 33.096209, 35.231887 ], [ 33.102038799999988, 35.243124599999987 ], [ 33.0995115, 35.252251 ], [ 33.0863031, 35.2558634 ] ] ] } }
+]
+}

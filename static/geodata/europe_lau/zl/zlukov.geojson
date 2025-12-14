@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zlukov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zlukov", "metric_roundness": 61.94, "metric_rectangularity": 67.83, "metric_mobile_fit": 71.55, "metric_aspect_ratio": 0.847, "metric_area_km2": 14.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.7371345, 49.202451 ], [ 14.7343364, 49.182315699999982 ], [ 14.7439495, 49.1787205 ], [ 14.7494068, 49.183615499999981 ], [ 14.757951, 49.181535499999981 ], [ 14.7668319, 49.1793735 ], [ 14.772612, 49.1854695 ], [ 14.7603605, 49.202897499999978 ], [ 14.757951, 49.2047123 ], [ 14.753252, 49.2082515 ], [ 14.7371345, 49.202451 ] ] ] } }
+]
+}

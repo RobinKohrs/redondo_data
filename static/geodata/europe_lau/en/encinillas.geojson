@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "encinillas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Encinillas", "metric_roundness": 42.76, "metric_rectangularity": 67.81, "metric_mobile_fit": 76.17, "metric_aspect_ratio": 0.801, "metric_area_km2": 14.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.14578, 41.045112499999988 ], [ -4.148868, 41.04348 ], [ -4.152064, 41.0424195 ], [ -4.160183, 41.0264873 ], [ -4.1704541, 41.0244475 ], [ -4.174511, 41.015461 ], [ -4.1688473, 41.0098152 ], [ -4.1623846, 41.0080005 ], [ -4.1458649, 41.0140632 ], [ -4.1321265, 41.025326 ], [ -4.13731, 41.047928 ], [ -4.14578, 41.045112499999988 ] ] ] } }
+]
+}

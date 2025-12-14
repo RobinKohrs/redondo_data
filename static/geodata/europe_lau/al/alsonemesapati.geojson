@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alsonemesapati",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alsónemesapáti", "metric_roundness": 44.45, "metric_rectangularity": 65.95, "metric_mobile_fit": 55.96, "metric_aspect_ratio": 1.003, "metric_area_km2": 30.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9522478, 46.8313141 ], [ 16.9596831, 46.8343859 ], [ 16.9567664, 46.844142299999987 ], [ 16.9580364, 46.859594599999987 ], [ 16.931176, 46.861251 ], [ 16.9290054, 46.854929699999985 ], [ 16.9159035, 46.8468215 ], [ 16.904671, 46.843774599999982 ], [ 16.9055102, 46.8282106 ], [ 16.8978865, 46.8191035 ], [ 16.9311733, 46.8212655 ], [ 16.9380718, 46.8262199 ], [ 16.957989, 46.824271 ], [ 16.9522478, 46.8313141 ] ] ] } }
+]
+}

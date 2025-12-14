@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_bonneville_sur_iton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Bonneville-sur-Iton", "metric_roundness": 36.68, "metric_rectangularity": 43.61, "metric_mobile_fit": 42.66, "metric_aspect_ratio": 1.136, "metric_area_km2": 9.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0279621, 49.0042288 ], [ 1.017441, 49.008798499999983 ], [ 1.013904, 49.007681 ], [ 1.015732, 49.006173 ], [ 1.0274975, 48.9931221 ], [ 1.0282007, 48.9890032 ], [ 1.025206, 48.985787 ], [ 1.0293515, 48.9819125 ], [ 1.03334, 48.983484 ], [ 1.0352105, 48.985122 ], [ 1.03642, 48.983742 ], [ 1.0396575, 48.9875165 ], [ 1.044949, 48.994430699999981 ], [ 1.0604515, 49.000431 ], [ 1.0458554, 49.001799899999973 ], [ 1.04413, 49.0074365 ], [ 1.0279621, 49.0042288 ] ] ] } }
+]
+}

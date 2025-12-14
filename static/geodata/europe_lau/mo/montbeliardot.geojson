@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montbeliardot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montbéliardot", "metric_roundness": 31.92, "metric_rectangularity": 70.42, "metric_mobile_fit": -8.84, "metric_aspect_ratio": 1.651, "metric_area_km2": 7.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6650573, 47.172118 ], [ 6.6787416, 47.1790757 ], [ 6.694541, 47.1814065 ], [ 6.6845545, 47.192685 ], [ 6.644585, 47.175582 ], [ 6.648016, 47.1730665 ], [ 6.6650573, 47.172118 ] ] ] } }
+]
+}

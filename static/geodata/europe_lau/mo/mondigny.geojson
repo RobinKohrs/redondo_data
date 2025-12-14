@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mondigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mondigny", "metric_roundness": 54.45, "metric_rectangularity": 65.87, "metric_mobile_fit": 54.12, "metric_aspect_ratio": 1.021, "metric_area_km2": 14.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.620591, 49.70183 ], [ 4.6325425, 49.699304 ], [ 4.6391845, 49.699169 ], [ 4.6596865, 49.7116695 ], [ 4.6599911, 49.7156836 ], [ 4.653144, 49.718596 ], [ 4.643117, 49.720548 ], [ 4.6393895, 49.725435 ], [ 4.638197, 49.7281975 ], [ 4.6316025, 49.727380699999976 ], [ 4.6269195, 49.72303 ], [ 4.6209627, 49.708509599999978 ], [ 4.614141, 49.701916 ], [ 4.620591, 49.70183 ] ] ] } }
+]
+}

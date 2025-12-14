@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ancretieville_saint_victor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ancretiéville-Saint-Victor", "metric_roundness": 59.98, "metric_rectangularity": 77.53, "metric_mobile_fit": 51.48, "metric_aspect_ratio": 1.048, "metric_area_km2": 28.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9746825, 49.673397 ], [ 0.9671, 49.674883 ], [ 0.9480555, 49.6648035 ], [ 0.9473505, 49.6542188 ], [ 0.935929, 49.64272 ], [ 0.952354, 49.636932 ], [ 0.968145, 49.635438 ], [ 0.9747224, 49.6421578 ], [ 0.986345, 49.645342 ], [ 0.999763, 49.6600855 ], [ 0.9746825, 49.673397 ] ] ] } }
+]
+}

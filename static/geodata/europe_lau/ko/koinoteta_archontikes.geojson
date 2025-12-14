@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_archontikes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αρχοντικής", "metric_roundness": 42.52, "metric_rectangularity": 59.24, "metric_mobile_fit": 50.45, "metric_aspect_ratio": 1.058, "metric_area_km2": 5.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.3390735, 35.3240185 ], [ 24.3232445, 35.32605 ], [ 24.3301476, 35.3136708 ], [ 24.3307175, 35.302428499999984 ], [ 24.3471705, 35.308189 ], [ 24.353872, 35.3107365 ], [ 24.349642, 35.31246 ], [ 24.3473055, 35.31385 ], [ 24.3460905, 35.316486499999982 ], [ 24.343696, 35.3201385 ], [ 24.343477, 35.322168499999989 ], [ 24.3437835, 35.325938499999985 ], [ 24.3390735, 35.3240185 ] ] ] } }
+]
+}

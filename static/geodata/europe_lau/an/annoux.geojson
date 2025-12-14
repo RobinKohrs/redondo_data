@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "annoux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Annoux", "metric_roundness": 42.86, "metric_rectangularity": 68.97, "metric_mobile_fit": 95.96, "metric_aspect_ratio": 0.603, "metric_area_km2": 19.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0363989, 47.6284998 ], [ 4.0324542, 47.6178884 ], [ 4.043027, 47.607096 ], [ 4.0505865, 47.606355 ], [ 4.0604065, 47.607649 ], [ 4.068579, 47.605369 ], [ 4.0701219, 47.626669299999989 ], [ 4.0627409, 47.6299863 ], [ 4.060403, 47.634234 ], [ 4.0417902, 47.647479699999984 ], [ 4.0387672, 47.645732199999983 ], [ 4.039381, 47.6405143 ], [ 4.0350085, 47.639241 ], [ 4.0363989, 47.6284998 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ceckovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Čečkovice", "metric_roundness": 57.89, "metric_rectangularity": 83.25, "metric_mobile_fit": 46.07, "metric_aspect_ratio": 1.102, "metric_area_km2": 5.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.6618755, 49.7737385 ], [ 15.675993, 49.7828771 ], [ 15.6773335, 49.786581499999983 ], [ 15.6752415, 49.787281 ], [ 15.6698025, 49.790846 ], [ 15.6668135, 49.791910499999979 ], [ 15.6463245, 49.78296 ], [ 15.6618755, 49.7737385 ] ] ] } }
+]
+}

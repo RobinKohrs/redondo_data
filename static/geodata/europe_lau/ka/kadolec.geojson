@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kadolec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kadolec", "metric_roundness": 41.81, "metric_rectangularity": 57.51, "metric_mobile_fit": 55.48, "metric_aspect_ratio": 1.008, "metric_area_km2": 15.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.116793, 49.369336 ], [ 16.1149975, 49.363501499999984 ], [ 16.152952, 49.359563 ], [ 16.1641302, 49.3664749 ], [ 16.1579256, 49.371195799999988 ], [ 16.1598235, 49.3816345 ], [ 16.1576308, 49.386961799999987 ], [ 16.1596305, 49.391228 ], [ 16.157452, 49.390959 ], [ 16.154695, 49.3913085 ], [ 16.1427025, 49.381809499999989 ], [ 16.116793, 49.369336 ] ] ] } }
+]
+}

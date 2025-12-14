@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marcetelli",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marcetelli", "metric_roundness": 32.46, "metric_rectangularity": 58.0, "metric_mobile_fit": 80.08, "metric_aspect_ratio": 0.762, "metric_area_km2": 20.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.020015, 42.198877 ], [ 13.0315085, 42.198905 ], [ 13.0407065, 42.1991313 ], [ 13.043194, 42.196634 ], [ 13.057774, 42.198279 ], [ 13.0561127, 42.2245078 ], [ 13.0643674, 42.2348613 ], [ 13.06783, 42.245432 ], [ 13.0609855, 42.2438192 ], [ 13.0482748, 42.2331883 ], [ 13.0309041, 42.2263485 ], [ 13.020811, 42.218067399999988 ], [ 13.0230822, 42.20578 ], [ 13.0176415, 42.1988165 ], [ 13.020015, 42.198877 ] ] ] } }
+]
+}

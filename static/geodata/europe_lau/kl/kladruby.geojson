@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kladruby",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kladruby", "metric_roundness": 31.27, "metric_rectangularity": 59.99, "metric_mobile_fit": 2.24, "metric_aspect_ratio": 1.54, "metric_area_km2": 11.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.920846, 49.726504899999988 ], [ 14.9303837, 49.719726699999981 ], [ 14.9442624, 49.7164043 ], [ 14.9658055, 49.717581 ], [ 14.971306, 49.71889 ], [ 14.962942, 49.7206149 ], [ 14.954374, 49.730132 ], [ 14.9391321, 49.7311876 ], [ 14.9293712, 49.7378228 ], [ 14.9220335, 49.738984 ], [ 14.917509, 49.737022499999981 ], [ 14.9218565, 49.730976499999983 ], [ 14.920846, 49.726504899999988 ] ] ] } }
+]
+}

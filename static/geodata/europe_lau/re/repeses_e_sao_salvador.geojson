@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "repeses_e_sao_salvador",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Repeses e São Salvador", "metric_roundness": 61.72, "metric_rectangularity": 72.4, "metric_mobile_fit": 69.33, "metric_aspect_ratio": 0.869, "metric_area_km2": 18.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.9242532, 40.6303796 ], [ -7.914113, 40.6313415 ], [ -7.917728, 40.645844 ], [ -7.9273684, 40.6463552 ], [ -7.927856, 40.6627575 ], [ -7.9444971, 40.6595255 ], [ -7.9455904, 40.651666 ], [ -7.956089, 40.6466135 ], [ -7.9603692, 40.6390109 ], [ -7.9529561, 40.6265119 ], [ -7.94799, 40.623852 ], [ -7.9368665, 40.622379 ], [ -7.9242532, 40.6303796 ] ] ] } }
+]
+}

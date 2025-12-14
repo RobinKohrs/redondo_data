@@ -1,0 +1,419 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Windhaag bei Freistadt,windhaag_bei_freistadt,wi,51.74,56.9,57.56
+europe_lau,Windhaag bei Perg,windhaag_bei_perg,wi,47.73,62.64,48.88
+europe_lau,Windischgarsten,windischgarsten,wi,38.65,58.11,54.85
+europe_lau,Wilhering,wilhering,wi,71.13,72.94,48.98
+europe_lau,Wippenham,wippenham,wi,66.7,73.98,63.8
+europe_lau,Wiemerstedt,wiemerstedt,wi,47.07,69.25,10.64
+europe_lau,Windbergen,windbergen,wi,54.1,77.01,46.41
+europe_lau,Wiemersdorf,wiemersdorf,wi,55.06,63.97,50.18
+europe_lau,Winsen,winsen,wi,45.8,69.32,-5.63
+europe_lau,Wittenborn,wittenborn,wi,45.83,64.54,84.5
+europe_lau,Wiershop,wiershop,wi,68.84,78.38,59.77
+europe_lau,Witzeeze,witzeeze,wi,48.99,68.76,-12.49
+europe_lau,Wisch,wisch,wi,38.73,59.26,37.47
+europe_lau,Wittmoldt,wittmoldt,wi,60.42,73.36,48.78
+europe_lau,Windeby,windeby,wi,32.87,60.64,76.53
+europe_lau,Winnemark,winnemark,wi,43.53,63.58,62.43
+europe_lau,Winnert,winnert,wi,42.91,70.72,-22.51
+europe_lau,Wisch,wisch,wi,45.88,64.24,37.87
+europe_lau,Witsum,witsum,wi,47.48,70.05,47.3
+europe_lau,Wittbek,wittbek,wi,23.65,63.14,-135.06
+europe_lau,Wittdün auf Amrum,wittdun_auf_amrum,wi,50.81,62.67,23.12
+europe_lau,Witzwort,witzwort,wi,61.67,63.57,47.35
+europe_lau,"Wittingen, Stadt",wittingen_stadt,wi,55.59,69.91,70.07
+europe_lau,Winnigstedt,winnigstedt,wi,55.3,70.06,70.71
+europe_lau,Wittmar,wittmar,wi,46.65,66.05,93.51
+europe_lau,Wietzen,wietzen,wi,43.82,51.1,46.81
+europe_lau,"Wiedensahl, Flecken",wiedensahl_flecken,wi,44.44,72.86,65.75
+europe_lau,"Wienhausen, Klostergemeinde",wienhausen_klostergemeinde,wi,34.36,48.68,-11.55
+europe_lau,Wietze,wietze,wi,56.24,64.34,55.75
+europe_lau,Winsen (Aller),winsen_aller,wi,43.69,60.03,-12.43
+europe_lau,Wilstedt,wilstedt,wi,60.85,76.03,7.49
+europe_lau,Wietzendorf,wietzendorf,wi,61.16,69.14,35.91
+europe_lau,Wiedenborstel,wiedenborstel,wi,65.18,75.58,38.16
+europe_lau,Willenscharen,willenscharen,wi,35.65,64.87,-39.29
+europe_lau,"Wilster, Stadt",wilster_stadt,wi,53.36,60.62,33.28
+europe_lau,Winseldorf,winseldorf,wi,30.08,54.77,85.19
+europe_lau,Wittenbergen,wittenbergen,wi,55.12,65.79,69.67
+europe_lau,Witzhave,witzhave,wi,44.93,69.32,61.34
+europe_lau,Wilnsdorf,wilnsdorf,wi,64.6,67.91,45.86
+europe_lau,Wickede (Ruhr),wickede_ruhr,wi,46.88,57.63,79.5
+europe_lau,"Wiesbaden, Landeshauptstadt",wiesbaden_landeshauptstadt,wi,65.07,67.35,44.02
+europe_lau,Wischhafen,wischhafen,wi,36.47,57.35,95.33
+europe_lau,"Wilhelmshaven, Stadt",wilhelmshaven_stadt,wi,59.38,77.16,80.73
+europe_lau,Wiefelstede,wiefelstede,wi,36.23,58.58,94.91
+europe_lau,"Wiesmoor, Stadt",wiesmoor_stadt,wi,48.23,64.38,67.68
+europe_lau,Wirdum,wirdum,wi,36.1,56.13,99.32
+europe_lau,Wingst,wingst,wi,54.58,66.04,59.3
+europe_lau,"Winsen (Luhe), Stadt",winsen_luhe_stadt,wi,51.9,51.23,50.29
+europe_lau,Wistedt,wistedt,wi,46.81,62.66,17.99
+europe_lau,Wittorf,wittorf,wi,39.17,49.43,85.16
+europe_lau,"Willich, Stadt",willich_stadt,wi,38.94,61.67,-15.52
+europe_lau,"Wiehl, Stadt",wiehl_stadt,wi,37.8,59.58,-31.51
+europe_lau,"Wipperfürth, Hansestadt",wipperfurth_hansestadt,wi,53.07,62.91,53.88
+europe_lau,Windeck,windeck,wi,61.28,69.48,28.52
+europe_lau,"Willebadessen, Stadt",willebadessen_stadt,wi,52.11,63.27,40.15
+europe_lau,"Witten, Stadt",witten_stadt,wi,47.03,67.43,58.12
+europe_lau,"Winterberg, Stadt",winterberg_stadt,wi,60.91,70.55,79.27
+europe_lau,"Wittmund, Stadt",wittmund_stadt,wi,40.56,64.77,99.78
+europe_lau,Wies,wies,wi,16.6,48.83,-88.76
+europe_lau,Willingshausen,willingshausen,wi,44.65,61.66,33.7
+europe_lau,Willingen (Upland),willingen_upland,wi,44.55,56.17,14.01
+europe_lau,"Witzenhausen, Stadt",witzenhausen_stadt,wi,51.79,69.72,51.41
+europe_lau,Wiesemscheid,wiesemscheid,wi,43.91,67.62,7.83
+europe_lau,Wimbach,wimbach,wi,44.16,67.02,49.17
+europe_lau,Winnerath,winnerath,wi,56.22,66.07,29.41
+europe_lau,Wirft,wirft,wi,55.59,74.48,6.51
+europe_lau,Wildeck,wildeck,wi,31.31,45.53,25.54
+europe_lau,Wippingen,wippingen,wi,39.31,74.56,95.6
+europe_lau,Wielen,wielen,wi,46.57,60.46,60.13
+europe_lau,Wietmarschen,wietmarschen,wi,44.06,62.59,78.18
+europe_lau,Wilsum,wilsum,wi,70.97,73,46.51
+europe_lau,Wiesen,wiesen,wi,42.45,62.26,77.19
+europe_lau,"Wildeshausen, Stadt",wildeshausen_stadt,wi,45.57,59.99,69.41
+europe_lau,Winkelsett,winkelsett,wi,48.24,72.25,94.31
+europe_lau,Wied,wied,wi,26.97,64.89,60.24
+europe_lau,Willingen,willingen,wi,45.02,56.17,50.87
+europe_lau,Willmenrod,willmenrod,wi,63.64,75.74,70.2
+europe_lau,Winkelbach,winkelbach,wi,22.53,56.44,34.06
+europe_lau,Winnen,winnen,wi,58.28,68.54,52
+europe_lau,Wickenrodt,wickenrodt,wi,47.33,67.08,37.7
+europe_lau,Wirschweiler,wirschweiler,wi,40.57,59.39,38.06
+europe_lau,Wirfus,wirfus,wi,53.39,63.04,56.31
+europe_lau,Wierschem,wierschem,wi,35.67,62.08,68.75
+europe_lau,Winningen,winningen,wi,65.83,83,54.17
+europe_lau,Windhagen,windhagen,wi,43.53,51.49,67.77
+europe_lau,Wildon,wildon,wi,35.3,47.66,12.49
+europe_lau,Wiebelsheim,wiebelsheim,wi,65.98,74.88,44
+europe_lau,Willroth,willroth,wi,54.21,61.97,59.74
+europe_lau,"Wissen, Stadt",wissen_stadt,wi,33.12,44.56,59.69
+europe_lau,Windesheim,windesheim,wi,47.45,65.53,25.77
+europe_lau,Winterbach,winterbach,wi,42.39,71.2,80.6
+europe_lau,Winterburg,winterburg,wi,63.15,73.15,54.73
+europe_lau,Wiersdorf,wiersdorf,wi,51.26,72.07,1.32
+europe_lau,Wilsecker,wilsecker,wi,45.18,75.19,-18.78
+europe_lau,Winterborn,winterborn,wi,67.55,71.05,51.76
+europe_lau,Winnweiler,winnweiler,wi,37.92,49.35,30.02
+europe_lau,Winden,winden,wi,40.85,52.23,50.35
+europe_lau,Winterwerb,winterwerb,wi,39.43,66.87,-35.26
+europe_lau,"Wirges, Stadt",wirges_stadt,wi,23.62,55.33,48.59
+europe_lau,Wirscheid,wirscheid,wi,42.72,53.43,75.25
+europe_lau,Wittgert,wittgert,wi,48.91,52.75,44.04
+europe_lau,Wildalpen,wildalpen,wi,47.54,63.94,40.76
+europe_lau,Wiesbaum,wiesbaum,wi,52.43,70.06,81.4
+europe_lau,Winkel (Eifel),winkel_eifel,wi,58.7,76.22,43.04
+europe_lau,Wiltingen,wiltingen,wi,26.25,48.39,80.3
+europe_lau,Wincheringen,wincheringen,wi,32.35,48.28,42.24
+europe_lau,Winden am See,winden_am_see,wi,18.75,40.3,86.19
+europe_lau,Willwerscheid,willwerscheid,wi,64.15,81.39,56.71
+europe_lau,Wintrich,wintrich,wi,28.56,65.68,81.75
+europe_lau,"Wittlich, Stadt",wittlich_stadt,wi,52.95,57.85,29.82
+europe_lau,"Wiesensteig, Stadt",wiesensteig_stadt,wi,64.5,70.92,33.35
+europe_lau,Winden,winden,wi,40.57,71.39,6.54
+europe_lau,Winringen,winringen,wi,50.57,63.57,89.14
+europe_lau,Winterscheid,winterscheid,wi,52.78,58.04,66.05
+europe_lau,Winterspelt,winterspelt,wi,41.29,57.48,84.18
+europe_lau,Wißmannsdorf,wissmannsdorf,wi,36.33,51.76,26.13
+europe_lau,Wiesweiler,wiesweiler,wi,40.16,46.68,60.71
+europe_lau,"Winnenden, Stadt",winnenden_stadt,wi,62.37,67.03,44.58
+europe_lau,Winterbach,winterbach,wi,49.29,61.98,74.28
+europe_lau,"Widdern, Stadt",widdern_stadt,wi,46.36,64.84,85.05
+europe_lau,Wintersheim,wintersheim,wi,47.63,75.48,-14.15
+europe_lau,Wilgartswiesen,wilgartswiesen,wi,40.6,58.41,-16.01
+europe_lau,Wiesbach,wiesbach,wi,48.89,63.09,36.43
+europe_lau,Winterbach (Pfalz),winterbach_pfalz,wi,42.12,56.73,54.97
+europe_lau,"Wildberg, Stadt",wildberg_stadt,wi,37.84,47.41,17.08
+europe_lau,Wiernsheim,wiernsheim,wi,32.38,55.27,41.72
+europe_lau,Wimsheim,wimsheim,wi,44.79,70.5,-36.71
+europe_lau,Wittnau,wittnau,wi,32.32,58.85,78.97
+europe_lau,Winden im Elztal,winden_im_elztal,wi,52.15,68.89,14.68
+europe_lau,Willstätt,willstatt,wi,51.46,66.37,77.34
+europe_lau,Wieden,wieden,wi,54.85,61.2,57.41
+europe_lau,Wittlingen,wittlingen,wi,53.96,74.56,13.47
+europe_lau,Wittighausen,wittighausen,wi,33.03,55.96,91.44
+europe_lau,Winterlingen,winterlingen,wi,45.35,59.71,86.59
+europe_lau,Wiesenbach,wiesenbach,wi,65.13,68.68,38.06
+europe_lau,"Wiesloch, Stadt",wiesloch_stadt,wi,32.17,60.43,23.32
+europe_lau,Wilhelmsfeld,wilhelmsfeld,wi,51.9,59.17,49.58
+europe_lau,Wittibreut,wittibreut,wi,49.13,62.28,19.93
+europe_lau,Wildschönau,wildschonau,wi,39.26,52.41,85.18
+europe_lau,Wiesenfelden,wiesenfelden,wi,42.21,63.52,75.95
+europe_lau,Windberg,windberg,wi,60.81,70.08,49.3
+europe_lau,Windach,windach,wi,56.23,73.12,33.32
+europe_lau,Wildermieming,wildermieming,wi,36.67,76.5,92.59
+europe_lau,Wilhelmsdorf,wilhelmsdorf,wi,49.73,63.82,76.28
+europe_lau,Winhöring,winhoring,wi,49.95,63.88,4.02
+europe_lau,Wielenbach,wielenbach,wi,24.78,51.69,-63.57
+europe_lau,Wildsteig,wildsteig,wi,40.77,62.63,98.98
+europe_lau,"Winzer, M",winzer_m,wi,31.54,48,9.57
+europe_lau,Wildenberg,wildenberg,wi,59.58,74.46,71.46
+europe_lau,"Windorf, M",windorf_m,wi,47.26,60.91,49.21
+europe_lau,Witzmannsberg,witzmannsberg,wi,40.51,59.76,85.09
+europe_lau,Wieck a. Darß,wieck_a_darss,wi,34.15,46.33,61.67
+europe_lau,Wiek,wiek,wi,20.13,57.96,99.22
+europe_lau,Wittenhagen,wittenhagen,wi,27.56,50.45,-56.4
+europe_lau,"Wilthen, Stadt",wilthen_stadt,wi,70.1,71.97,59.74
+europe_lau,"Wittichenau / Kulow, Stadt",wittichenau_kulow_stadt,wi,57.18,65.13,46.93
+europe_lau,"Wittislingen, M",wittislingen_m,wi,52.88,71.5,18.96
+europe_lau,Wien,wien,wi,55.74,64.69,27.24
+europe_lau,"Wismar, Hansestadt",wismar_hansestadt,wi,57.88,59.79,41.41
+europe_lau,Wiesing,wiesing,wi,47.33,62.72,74.07
+europe_lau,Wiedergeltingen,wiedergeltingen,wi,65.76,72.49,75.12
+europe_lau,Winterrieden,winterrieden,wi,66.26,75.81,66.47
+europe_lau,"Wilsdruff, Stadt",wilsdruff_stadt,wi,52.9,68.11,15.01
+europe_lau,Wiesenbach,wiesenbach,wi,38.61,62.14,96.89
+europe_lau,Winterbach,winterbach,wi,44.51,64.43,43.51
+europe_lau,Winzerwald,winzerwald,wi,38.39,61.32,40.36
+europe_lau,Wiesfleck,wiesfleck,wi,50.51,70.39,78.01
+europe_lau,Wiedemar,wiedemar,wi,40.99,52.61,84.74
+europe_lau,Witterda,witterda,wi,45.22,57.14,51.3
+europe_lau,Witzleben,witzleben,wi,69.09,74.58,42.68
+europe_lau,Wielsbeke,wielsbeke,wi,36.32,53.19,36.19
+europe_lau,Wingene,wingene,wi,45.7,69.87,20.03
+europe_lau,"Wildau, Stadt",wildau_stadt,wi,59.91,64.08,60.25
+europe_lau,Wichmar,wichmar,wi,55.28,61.46,79.1
+europe_lau,Wimmelburg,wimmelburg,wi,39.4,72.79,-2.57
+europe_lau,"Wiggensbach, M",wiggensbach_m,wi,44.1,54.45,21.2
+europe_lau,Wildpoldsried,wildpoldsried,wi,47.03,62.49,89.23
+europe_lau,"Wittenberg, Lutherstadt",wittenberg_lutherstadt,wi,52.51,64.88,63.14
+europe_lau,Wiegendorf,wiegendorf,wi,49.57,57.19,27.8
+europe_lau,"Wilhermsdorf, M",wilhermsdorf_m,wi,51.35,64.2,85.53
+europe_lau,Wilhelmsdorf,wilhelmsdorf,wi,64.31,70.15,81.31
+europe_lau,Wiesenfeld,wiesenfeld,wi,38.44,63.96,12.98
+europe_lau,Wingerode,wingerode,wi,57.47,65.56,52.32
+europe_lau,Wiesenthal,wiesenthal,wi,44.39,64.83,98.36
+europe_lau,Wiesenaue,wiesenaue,wi,61.17,68.28,38.18
+europe_lau,Windischleuba,windischleuba,wi,54.24,59.14,51.54
+europe_lau,Wildberg,wildberg,wi,46.98,62.89,77.64
+europe_lau,Wil (ZH),wil_zh,wi,38.59,51.08,55.38
+europe_lau,Winkel,winkel,wi,39.61,62.76,94.91
+europe_lau,Winklern,winklern,wi,23.04,54.24,79.5
+europe_lau,Wiesendangen,wiesendangen,wi,38.6,56.42,-9.29
+europe_lau,Winkelhofer Forst,winkelhofer_forst,wi,46.31,59.68,22.04
+europe_lau,Wiesthal,wiesthal,wi,36.49,53.71,45.88
+europe_lau,Wipfeld,wipfeld,wi,34.36,55.26,95.66
+europe_lau,Winkelhaid,winkelhaid,wi,52.63,70.57,55.24
+europe_lau,Winkelhaid,winkelhaid,wi,44.03,72.48,-9.37
+europe_lau,Wiesenau,wiesenau,wi,37.87,53.08,18.59
+europe_lau,"Wittstock/Dosse, Stadt",wittstock_dosse_stadt,wi,36.1,50.48,63.94
+europe_lau,Wiendorf,wiendorf,wi,58.03,61.16,69.3
+europe_lau,Wittenbeck,wittenbeck,wi,45.97,56.05,75.9
+europe_lau,Wiesenthau,wiesenthau,wi,59.92,73.76,63.52
+europe_lau,"Wiesenttal, M",wiesenttal_m,wi,46.76,57.93,80.71
+europe_lau,Wilhelmsthal,wilhelmsthal,wi,25.72,46.75,94.91
+europe_lau,Wichelen,wichelen,wi,50.33,53.48,59.63
+europe_lau,Wilhelmsdorf,wilhelmsdorf,wi,56.25,64.33,74.67
+europe_lau,Willebroek,willebroek,wi,47.04,63.95,62.14
+europe_lau,"Winterhausen, M",winterhausen_m,wi,32.31,61.13,89.56
+europe_lau,Wiesenburg/Mark,wiesenburg_mark,wi,42.14,56.85,44.2
+europe_lau,"Wittenberge, Stadt",wittenberge_stadt,wi,30.89,43.18,65.08
+europe_lau,Wiesengrund/Łukojce,wiesengrund_lukojce,wi,28.16,49.19,94.76
+europe_lau,Wilhelmsburg,wilhelmsburg,wi,28.89,56.23,7.22
+europe_lau,"Wildenfels, Stadt",wildenfels_stadt,wi,39.49,55.08,53.25
+europe_lau,"Wilkau-Haßlau, Stadt",wilkau_hasslau_stadt,wi,46.51,54.32,46.88
+europe_lau,Wiesen,wiesen,wi,41.42,65.28,78.71
+europe_lau,Wiesener Forst,wiesener_forst,wi,37.01,53.01,52.83
+europe_lau,"Wildflecken, M",wildflecken_m,wi,54.11,64.86,35.88
+europe_lau,"Windischeschenbach, St",windischeschenbach_st,wi,53.58,62.49,61.14
+europe_lau,Wieseth,wieseth,wi,68.06,68.78,52.34
+europe_lau,Wilburgstetten,wilburgstetten,wi,36.88,56.29,86.04
+europe_lau,Windelsbach,windelsbach,wi,40.81,48.55,52.82
+europe_lau,"Windsbach, St",windsbach_st,wi,42.83,54.33,63.23
+europe_lau,Wittelshofen,wittelshofen,wi,34.73,49.05,24.38
+europe_lau,Wiesent,wiesent,wi,57.13,65.7,35.33
+europe_lau,Wijnegem,wijnegem,wi,42.01,66.05,-8.52
+europe_lau,"Wittenburg, Stadt",wittenburg_stadt,wi,58.27,60.95,73.94
+europe_lau,Wittendörp,wittendorp,wi,46.84,53.28,56.29
+europe_lau,Wittenförden,wittenforden,wi,42.01,56.71,61.05
+europe_lau,Witzin,witzin,wi,34.82,60.06,-53.44
+europe_lau,"Winklarn, M",winklarn_m,wi,60.16,65.67,54.97
+europe_lau,"Wiesau, M",wiesau_m,wi,50.75,57.68,69.37
+europe_lau,Wiesenbronn,wiesenbronn,wi,63.74,72.37,54.9
+europe_lau,"Wiesentheid, M",wiesentheid_m,wi,24.26,49.8,-57.41
+europe_lau,"Willanzheim, M",willanzheim_m,wi,30.48,54.14,60.99
+europe_lau,Wildberg,wildberg,wi,54.46,63.73,21.46
+europe_lau,Wiliberg,wiliberg,wi,42.09,60.26,-22.35
+europe_lau,Wittnau,wittnau,wi,56.96,71.24,60.71
+europe_lau,Wiège-Faty,wiege_faty,wi,50.28,62.76,65.55
+europe_lau,Wimy,wimy,wi,45.59,59.65,91.03
+europe_lau,Wissignicourt,wissignicourt,wi,40.86,49.72,76.92
+europe_lau,Wildhaus-Alt St. Johann,wildhaus_alt_st_johann,wi,37.8,58.48,37.18
+europe_lau,Wilchingen,wilchingen,wi,31.34,51.97,5.44
+europe_lau,Witterswil,witterswil,wi,63.31,78.61,79.13
+europe_lau,Wilen (TG),wilen_tg,wi,51.89,75.13,84.55
+europe_lau,Winznau,winznau,wi,28.03,52.82,32.5
+europe_lau,Wisen (SO),wisen_so,wi,64.52,71.95,41.08
+europe_lau,Wintersingen,wintersingen,wi,59.63,74.75,74.53
+europe_lau,Wittinsburg,wittinsburg,wi,49.58,75.42,88.45
+europe_lau,Wimmis,wimmis,wi,62.06,76.36,67.3
+europe_lau,Winklarn,winklarn,wi,59.75,65.43,66.86
+europe_lau,Wiggiswil,wiggiswil,wi,50.89,63.01,45.89
+europe_lau,Wiler bei Utzenstorf,wiler_bei_utzenstorf,wi,67.5,72.72,72.77
+europe_lau,Willadingen,willadingen,wi,57.35,72.36,85.84
+europe_lau,Wittenbach,wittenbach,wi,48.14,56.89,62.95
+europe_lau,Wiedlisbach,wiedlisbach,wi,32.29,53.8,-37.44
+europe_lau,Wikon,wikon,wi,40.41,70.61,-12.18
+europe_lau,Wignicourt,wignicourt,wi,56.85,69.56,84.03
+europe_lau,Williers,williers,wi,28.64,65.1,57.11
+europe_lau,Wichtrach,wichtrach,wi,71.59,77.26,61.32
+europe_lau,Willisau,willisau,wi,46.29,52.42,75.2
+europe_lau,Wil (SG),wil_sg,wi,57.75,61.94,34.08
+europe_lau,Wiener Neustadt,wiener_neustadt,wi,33.38,52.29,85.27
+europe_lau,Widnau,widnau,wi,53.54,67.41,80.47
+europe_lau,Widen,widen,wi,48.49,67.7,87.02
+europe_lau,Wileroltigen,wileroltigen,wi,58.12,67.11,49.06
+europe_lau,Witry-lès-Reims,witry_les_reims,wi,47.02,58.78,71.53
+europe_lau,Wigoltingen,wigoltingen,wi,40.69,49.74,27.55
+europe_lau,Wiler (Lötschen),wiler_lotschen,wi,32.01,76.6,62.3
+europe_lau,Windisch,windisch,wi,40.33,53.83,80.71
+europe_lau,Wislikofen,wislikofen,wi,42.53,58.33,11.83
+europe_lau,Wildendürnbach,wildendurnbach,wi,48.87,62.04,49.49
+europe_lau,Wiencourt-l'Équipée,wiencourt_l_equipee,wi,49.09,66.74,94.91
+europe_lau,Wiry-au-Mont,wiry_au_mont,wi,62.66,76.36,42.11
+europe_lau,Wickerschwihr,wickerschwihr,wi,45.6,63.75,49
+europe_lau,Widensolen,widensolen,wi,60.22,69.82,74.84
+europe_lau,Wihr-au-Val,wihr_au_val,wi,29.5,52.35,67.45
+europe_lau,Wildenstein,wildenstein,wi,49.66,68.16,86.45
+europe_lau,Willer,willer,wi,30.57,67.92,4.2
+europe_lau,Willer-sur-Thur,willer_sur_thur,wi,29.43,43.66,32.72
+europe_lau,Winkel,winkel,wi,61.83,80.77,70.36
+europe_lau,Wintzenheim,wintzenheim,wi,31.36,60.89,28.86
+europe_lau,Wittelsheim,wittelsheim,wi,45.26,62.65,51.42
+europe_lau,Wittenheim,wittenheim,wi,43.86,66.04,1.71
+europe_lau,Wittersdorf,wittersdorf,wi,48.84,58.33,73.92
+europe_lau,Wisembach,wisembach,wi,33.93,52.31,-21.55
+europe_lau,Wilfersdorf,wilfersdorf,wi,51.75,60.4,62.86
+europe_lau,Wicquinghem,wicquinghem,wi,57.42,77.51,80.79
+europe_lau,Widehem,widehem,wi,44.29,62.17,-2.78
+europe_lau,Wierre-au-Bois,wierre_au_bois,wi,67.82,74.18,68.46
+europe_lau,Wierre-Effroy,wierre_effroy,wi,64.66,70.17,28.69
+europe_lau,Willeman,willeman,wi,60,67.56,71.82
+europe_lau,Willencourt,willencourt,wi,59,74.15,46.44
+europe_lau,Willerval,willerval,wi,44.18,67.3,97.13
+europe_lau,Wimereux,wimereux,wi,22,53.71,83.48
+europe_lau,Wimille,wimille,wi,42.82,56.02,93.96
+europe_lau,Wingles,wingles,wi,45.08,73.96,41.52
+europe_lau,Wirwignes,wirwignes,wi,41.63,62.33,81.47
+europe_lau,Wismes,wismes,wi,55.44,67.86,71.48
+europe_lau,Wisques,wisques,wi,53.75,60.97,28.85
+europe_lau,Wissant,wissant,wi,37.44,61.58,67.15
+europe_lau,Witternesse,witternesse,wi,36.43,58.15,8.01
+europe_lau,Wittes,wittes,wi,27.59,55.97,-49.88
+europe_lau,Wizernes,wizernes,wi,48.93,60.14,26.22
+europe_lau,Willeroncourt,willeroncourt,wi,48.35,63.52,86.09
+europe_lau,Wiseppe,wiseppe,wi,61.62,78.92,40.34
+europe_lau,Wicres,wicres,wi,41.09,54.79,47.51
+europe_lau,Wignehies,wignehies,wi,41.03,68.05,98.59
+europe_lau,Wickersheim-Wilshausen,wickersheim_wilshausen,wi,47.46,66.03,18.1
+europe_lau,Wildersbach,wildersbach,wi,44.04,69.54,97.44
+europe_lau,Willgottheim,willgottheim,wi,37.15,58.94,-0.16
+europe_lau,Wilwisheim,wilwisheim,wi,43.22,56.98,38.13
+europe_lau,Wimmenau,wimmenau,wi,49.42,59.76,59.79
+europe_lau,Windstein,windstein,wi,57.74,83.39,77.35
+europe_lau,Wingen,wingen,wi,55.31,65.13,55.53
+europe_lau,Wingen-sur-Moder,wingen_sur_moder,wi,47.6,61.72,93.18
+europe_lau,Wingersheim les Quatre Bans,wingersheim_les_quatre_bans,wi,35.03,52.62,-0.71
+europe_lau,Wintershouse,wintershouse,wi,44.7,71.02,45.04
+europe_lau,Wintzenbach,wintzenbach,wi,40.71,53.99,18.63
+europe_lau,Wintzenheim-Kochersberg,wintzenheim_kochersberg,wi,27.12,72.01,-134.61
+europe_lau,Wisches,wisches,wi,32.76,62.94,1.63
+europe_lau,Wissembourg,wissembourg,wi,25.37,49.4,-21.43
+europe_lau,Witternheim,witternheim,wi,59.59,69.5,60.2
+europe_lau,Wittersheim,wittersheim,wi,55.86,71.78,84.67
+europe_lau,Wittisheim,wittisheim,wi,31.92,51.68,33.93
+europe_lau,Wiwersheim,wiwersheim,wi,55.86,63.92,85.46
+europe_lau,Willems,willems,wi,47.79,65,-8.56
+europe_lau,Willies,willies,wi,54.64,67.96,42.93
+europe_lau,Winnezeele,winnezeele,wi,41.37,57.6,34.93
+europe_lau,Wiesviller,wiesviller,wi,46.05,65.57,86.47
+europe_lau,Willerwald,willerwald,wi,50.32,60.74,68.01
+europe_lau,Wintersbourg,wintersbourg,wi,60.88,71.94,80.35
+europe_lau,Wittring,wittring,wi,45.22,58.71,4.54
+europe_lau,Wiązów,wiazow,wi,53.08,58.78,67.14
+europe_lau,Wisznia Mała,wisznia_mala,wi,55.08,61.89,63.08
+europe_lau,Wińsko,winsko,wi,50.45,64.34,1.06
+europe_lau,Wielopole Skrzyńskie,wielopole_skrzynskie,wi,53.43,60.75,43.29
+europe_lau,Wiśniowa,wisniowa,wi,47.06,59.64,51.39
+europe_lau,Wierzchowo,wierzchowo,wi,43.14,62.02,-4.59
+europe_lau,Wiltz,wiltz,wi,37.04,62.58,89.58
+europe_lau,Winseler,winseler,wi,52.93,71.27,42.89
+europe_lau,Wilczęta,wilczeta,wi,51.14,63.1,54
+europe_lau,Wilków,wilkow,wi,64.08,63.87,57.62
+europe_lau,Wieliczki,wieliczki,wi,51.12,55.8,72.44
+europe_lau,Wizna,wizna,wi,38.38,52.35,65.72
+europe_lau,Widuchowa,widuchowa,wi,35.08,56.33,96.93
+europe_lau,Wimpassing an der Leitha,wimpassing_an_der_leitha,wi,49.91,66.03,77.22
+europe_lau,Wielka Nieszawka,wielka_nieszawka,wi,44.51,58.72,35.72
+europe_lau,Wiżajny,wizajny,wi,47.66,70.89,77.72
+europe_lau,Wieliszew,wieliszew,wi,47.21,73.24,-29.86
+europe_lau,Wielgie,wielgie,wi,74.03,72.36,62.01
+europe_lau,Wilkołaz,wilkolaz,wi,59.99,71.07,72.53
+europe_lau,Więcbork,wiecbork,wi,47.35,62.07,22.99
+europe_lau,Wiązowna,wiazowna,wi,35.89,55.55,37.59
+europe_lau,Wilhelmsburg,wilhelmsburg,wi,52.45,65.81,5.39
+europe_lau,Wilków,wilkow,wi,47.34,63.31,68.03
+europe_lau,Wierzbinek,wierzbinek,wi,42.93,60.12,-0.85
+europe_lau,Wilczyn,wilczyn,wi,50.74,62.39,33.96
+europe_lau,Wieczfnia Kościelna,wieczfnia_koscielna,wi,49.31,65.35,30.58
+europe_lau,Wiśniewo,wisniewo,wi,52.49,65.78,58.51
+europe_lau,Wielichowo,wielichowo,wi,45.45,54.6,73.11
+europe_lau,Wijewo,wijewo,wi,43.36,65.12,-6.54
+europe_lau,Wicko,wicko,wi,46.42,62.58,5.2
+europe_lau,Winnica,winnica,wi,47.29,62.95,95.58
+europe_lau,Wiązownica,wiazownica,wi,57.59,59.13,51.2
+europe_lau,Windigsteig,windigsteig,wi,41.73,63.45,-18.57
+europe_lau,Wielkie Oczy,wielkie_oczy,wi,51.75,61.55,27.5
+europe_lau,Wieleń,wielen,wi,47.92,60.52,89.01
+europe_lau,Wincrange,wincrange,wi,43.88,64.26,60.48
+europe_lau,Wissous,wissous,wi,54.43,73.69,72.2
+europe_lau,Wicklow,wicklow,wi,42.99,61.89,60.68
+europe_lau,Willendorf,willendorf,wi,49.44,67.58,7.66
+europe_lau,Wimpassing im Schwarzatale,wimpassing_im_schwarzatale,wi,31.2,54.53,-43.85
+europe_lau,Wiener Neudorf,wiener_neudorf,wi,38.97,72.73,88.56
+europe_lau,Wienerwald,wienerwald,wi,42.89,59.37,26.59
+europe_lau,Wilga,wilga,wi,46.16,67.15,55.47
+europe_lau,Wiśniew,wisniew,wi,60.27,69.25,66.74
+europe_lau,Wierzbno,wierzbno,wi,43.74,59.21,30.1
+europe_lau,Wiskitki,wiskitki,wi,59.02,62.66,72.68
+europe_lau,Wieniawa,wieniawa,wi,54.16,68.72,37.28
+europe_lau,Wierzbica,wierzbica,wi,58.15,68.04,42.57
+europe_lau,Wilczyce,wilczyce,wi,52.41,68.24,28.28
+europe_lau,Winzendorf-Muthmannsdorf,winzendorf_muthmannsdorf,wi,39.37,54.95,80.75
+europe_lau,Wisznice,wisznice,wi,46.56,49.58,54.06
+europe_lau,Witnica,witnica,wi,45.25,57.37,32.75
+europe_lau,Wierzbica,wierzbica,wi,48.53,65.18,84.61
+europe_lau,Wielbark,wielbark,wi,52.82,66.36,18.86
+europe_lau,Wielka Wieś,wielka_wies,wi,33.99,53.29,42.16
+europe_lau,Wiśniowa,wisniowa,wi,70.62,71.46,76.68
+europe_lau,Wieliczka,wieliczka,wi,39.87,48.72,64.33
+europe_lau,Wijdemeren,wijdemeren,wi,55.85,74.71,93.46
+europe_lau,Wielgomłyny,wielgomlyny,wi,59.51,61.31,71.45
+europe_lau,Widawa,widawa,wi,57.77,68.36,37.56
+europe_lau,Witkowo,witkowo,wi,51.22,69.69,58.07
+europe_lau,Wieprz,wieprz,wi,61.9,70.48,59.59
+europe_lau,Wierzchosławice,wierzchoslawice,wi,52.35,55.37,60.35
+europe_lau,Wietrzychowice,wietrzychowice,wi,50.65,66.91,69.8
+europe_lau,Wieluń,wielun,wi,36.83,49.37,10
+europe_lau,Wierzchlas,wierzchlas,wi,60.96,66.7,58.95
+europe_lau,Wieruszów,wieruszow,wi,46.1,58.02,74.74
+europe_lau,Witonia,witonia,wi,54.23,58.07,66.09
+europe_lau,Wilamowice,wilamowice,wi,53.41,63.93,73.51
+europe_lau,Wilkowice,wilkowice,wi,29.92,57.23,3.72
+europe_lau,Wisła,wisla,wi,49.19,68.39,16.04
+europe_lau,Wieselburg,wieselburg,wi,51.42,69.31,82.54
+europe_lau,Wierden,wierden,wi,44.57,55.16,88.85
+europe_lau,Wiślica,wislica,wi,56.01,66.77,77.56
+europe_lau,Wielowieś,wielowies,wi,46.65,55.23,27.84
+europe_lau,Wiesmath,wiesmath,wi,50.38,70.66,73.66
+europe_lau,Wieselburg-Land,wieselburg_land,wi,25.1,44.97,-64.22
+europe_lau,Winterswijk,winterswijk,wi,67.29,79.04,69.52
+europe_lau,Wijchen,wijchen,wi,41.8,67.14,22.75
+europe_lau,Wijk bij Duurstede,wijk_bij_duurstede,wi,47.89,62.56,10.38
+europe_lau,Wilzenberg-Hußweiler,wilzenberg_hussweiler,wi,53.22,59.97,49.78
+europe_lau,Willmering,willmering,wi,67.62,65.29,64.05
+europe_lau,Winterthur,winterthur,wi,60.2,67.06,52.24
+europe_lau,Wila,wila,wi,32.75,54.16,29.14
+europe_lau,"Wirsberg, M",wirsberg_m,wi,51.03,63.02,85.91
+europe_lau,Willmars,willmars,wi,25.1,48.66,31.02
+europe_lau,Wilderswil,wilderswil,wi,31.76,44.99,74.81

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neubeuern_m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neubeuern, M", "metric_roundness": 62.12, "metric_rectangularity": 67.59, "metric_mobile_fit": 67.51, "metric_aspect_ratio": 0.887, "metric_area_km2": 33.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.1482765, 47.758229 ], [ 12.1566668, 47.762677 ], [ 12.1757582, 47.766402099999986 ], [ 12.186034, 47.779531499999983 ], [ 12.1735978, 47.7872481 ], [ 12.1601686, 47.7896649 ], [ 12.1594187, 47.7952912 ], [ 12.1503303, 47.803310699999976 ], [ 12.140268, 47.804403 ], [ 12.1250555, 47.787997499999989 ], [ 12.126048, 47.768898899999989 ], [ 12.130759, 47.76014 ], [ 12.1307465, 47.758232 ], [ 12.1482765, 47.758229 ] ] ] } }
+]
+}

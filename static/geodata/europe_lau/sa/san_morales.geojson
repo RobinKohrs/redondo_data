@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_morales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Morales", "metric_roundness": 47.02, "metric_rectangularity": 67.66, "metric_mobile_fit": 85.67, "metric_aspect_ratio": 0.706, "metric_area_km2": 8.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.51041, 40.974945 ], [ -5.497494, 40.973090499999984 ], [ -5.492192, 40.9730605 ], [ -5.4897517, 40.9768952 ], [ -5.4912887, 40.985977399999989 ], [ -5.5024904, 40.998613 ], [ -5.5116297, 41.0023042 ], [ -5.5136748, 40.999977799999989 ], [ -5.5123077, 40.986023599999989 ], [ -5.5170953, 40.980130399999986 ], [ -5.515061, 40.9744185 ], [ -5.51041, 40.974945 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bielovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bielovce", "metric_roundness": 47.75, "metric_rectangularity": 57.82, "metric_mobile_fit": 28.46, "metric_aspect_ratio": 1.278, "metric_area_km2": 25.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.7847319, 47.9982769 ], [ 18.7684726, 48.009783299999988 ], [ 18.7596185, 48.0128298 ], [ 18.746773, 48.0120545 ], [ 18.7417726, 48.0066117 ], [ 18.7435997, 47.9962422 ], [ 18.735497, 47.985776 ], [ 18.7423681, 47.979331699999982 ], [ 18.7548155, 47.975082499999985 ], [ 18.768691, 47.984683199999978 ], [ 18.7991454, 47.9853519 ], [ 18.8075775, 47.988184 ], [ 18.7847319, 47.9982769 ] ] ] } }
+]
+}

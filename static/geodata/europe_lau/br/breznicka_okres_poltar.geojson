@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "breznicka_okres_poltar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Breznička (okres Poltár)", "metric_roundness": 52.58, "metric_rectangularity": 64.23, "metric_mobile_fit": 54.58, "metric_aspect_ratio": 1.017, "metric_area_km2": 20.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.7269638, 48.4245807 ], [ 19.7063865, 48.4276525 ], [ 19.7138149, 48.4147049 ], [ 19.7259248, 48.4042846 ], [ 19.7373296, 48.4047877 ], [ 19.7497868, 48.3986269 ], [ 19.7588595, 48.404418 ], [ 19.7561254, 48.415936199999983 ], [ 19.7588376, 48.421415699999983 ], [ 19.7480329, 48.4294999 ], [ 19.7378625, 48.432881 ], [ 19.7294665, 48.431840499999986 ], [ 19.7269638, 48.4245807 ] ] ] } }
+]
+}

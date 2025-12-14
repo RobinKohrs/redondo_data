@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "choratice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Choratice", "metric_roundness": 40.33, "metric_rectangularity": 50.45, "metric_mobile_fit": 54.76, "metric_aspect_ratio": 1.015, "metric_area_km2": 10.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8879175, 49.825629499999977 ], [ 14.8788421, 49.8398848 ], [ 14.8803855, 49.843756899999974 ], [ 14.8749983, 49.8462277 ], [ 14.8785914, 49.848094 ], [ 14.8763505, 49.852993 ], [ 14.8650825, 49.853415 ], [ 14.8591505, 49.846789699999981 ], [ 14.8436035, 49.842254 ], [ 14.8568297, 49.833361299999986 ], [ 14.8793916, 49.8301278 ], [ 14.8860475, 49.825255 ], [ 14.8879175, 49.825629499999977 ] ] ] } }
+]
+}

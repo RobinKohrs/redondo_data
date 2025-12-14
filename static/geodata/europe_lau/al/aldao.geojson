@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aldao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aldão", "metric_roundness": 64.73, "metric_rectangularity": 81.07, "metric_mobile_fit": 5.38, "metric_aspect_ratio": 1.509, "metric_area_km2": 2.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.2819185, 41.463232499999989 ], [ -8.2811906, 41.4587508 ], [ -8.275882, 41.45781 ], [ -8.2628347, 41.459261099999985 ], [ -8.262008, 41.4619255 ], [ -8.262342, 41.4640555 ], [ -8.267153, 41.4676413 ], [ -8.275389, 41.4677 ], [ -8.2819185, 41.463232499999989 ] ] ] } }
+]
+}

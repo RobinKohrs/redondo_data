@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ontigola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ontígola", "metric_roundness": 53.03, "metric_rectangularity": 68.64, "metric_mobile_fit": 8.12, "metric_aspect_ratio": 1.481, "metric_area_km2": 36.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.6124157, 39.9888332 ], [ -3.5803749, 39.978318699999988 ], [ -3.553211, 39.974435599999985 ], [ -3.5316618, 39.9999792 ], [ -3.5352337, 40.0088112 ], [ -3.5460654, 40.012394599999986 ], [ -3.5504875, 40.017564499999985 ], [ -3.553211, 40.0178438 ], [ -3.5891995, 40.0126643 ], [ -3.5950836, 40.002041499999983 ], [ -3.6155975, 39.9939265 ], [ -3.6124157, 39.9888332 ] ] ] } }
+]
+}

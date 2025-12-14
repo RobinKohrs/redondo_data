@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villegongis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villegongis", "metric_roundness": 54.37, "metric_rectangularity": 74.99, "metric_mobile_fit": 19.39, "metric_aspect_ratio": 1.369, "metric_area_km2": 39.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5977043, 46.9068329 ], [ 1.634917, 46.9295935 ], [ 1.6151569, 46.941587699999985 ], [ 1.5859045, 46.940889 ], [ 1.5583303, 46.9358611 ], [ 1.5499735, 46.9232395 ], [ 1.5496595, 46.9222475 ], [ 1.5561775, 46.920646 ], [ 1.559513, 46.914181699999986 ], [ 1.5724835, 46.905735699999987 ], [ 1.59036, 46.899038 ], [ 1.5977043, 46.9068329 ] ] ] } }
+]
+}

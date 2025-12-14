@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laversines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laversines", "metric_roundness": 45.96, "metric_rectangularity": 55.01, "metric_mobile_fit": 41.62, "metric_aspect_ratio": 1.146, "metric_area_km2": 33.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2190357, 49.418413799999989 ], [ 2.231861, 49.437075 ], [ 2.225694, 49.447543 ], [ 2.2012655, 49.447108799999981 ], [ 2.1780015, 49.4415075 ], [ 2.1753345, 49.4353037 ], [ 2.153477, 49.434995499999985 ], [ 2.1821295, 49.420699 ], [ 2.1920747, 49.417098 ], [ 2.2001948, 49.4088652 ], [ 2.2152605, 49.4030675 ], [ 2.2190357, 49.418413799999989 ] ] ] } }
+]
+}

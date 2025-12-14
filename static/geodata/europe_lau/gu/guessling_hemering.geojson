@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guessling_hemering",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guessling-Hémering", "metric_roundness": 54.78, "metric_rectangularity": 69.46, "metric_mobile_fit": 58.1, "metric_aspect_ratio": 0.981, "metric_area_km2": 24.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6410234, 49.016604699999981 ], [ 6.6565825, 49.002522 ], [ 6.664031, 49.001478 ], [ 6.685767, 49.0201417 ], [ 6.6993145, 49.026798 ], [ 6.6917135, 49.0322685 ], [ 6.695801, 49.035125 ], [ 6.6966535, 49.0377485 ], [ 6.6722476, 49.035294599999986 ], [ 6.66538, 49.0404255 ], [ 6.6469475, 49.0301755 ], [ 6.6410234, 49.016604699999981 ] ] ] } }
+]
+}

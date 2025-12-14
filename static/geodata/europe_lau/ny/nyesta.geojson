@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nyesta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nyésta", "metric_roundness": 29.6, "metric_rectangularity": 64.8, "metric_mobile_fit": 98.62, "metric_aspect_ratio": 0.576, "metric_area_km2": 15.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.9455987, 48.382497699999988 ], [ 20.9439851, 48.374180399999986 ], [ 20.946249, 48.362939499999982 ], [ 20.9532329, 48.354194799999988 ], [ 20.957217, 48.354594 ], [ 20.9640264, 48.3743726 ], [ 20.9827465, 48.398218 ], [ 20.9659276, 48.39886689999998 ], [ 20.9597622, 48.396099899999989 ], [ 20.9544285, 48.3907355 ], [ 20.9455987, 48.382497699999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ferna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ferna", "metric_roundness": 56.98, "metric_rectangularity": 65.59, "metric_mobile_fit": 57.52, "metric_aspect_ratio": 0.987, "metric_area_km2": 11.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.3168647, 51.4583683 ], [ 10.3035432, 51.4624758 ], [ 10.301617, 51.463010499999989 ], [ 10.2931025, 51.4640185 ], [ 10.2854636, 51.4646217 ], [ 10.2817809, 51.4620442 ], [ 10.2896575, 51.450528499999976 ], [ 10.2867085, 51.444784 ], [ 10.3035432, 51.439404 ], [ 10.3103692, 51.4485055 ], [ 10.321735, 51.4526335 ], [ 10.3168647, 51.4583683 ] ] ] } }
+]
+}

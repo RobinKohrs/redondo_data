@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "loukovec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Loukovec", "metric_roundness": 51.77, "metric_rectangularity": 75.8, "metric_mobile_fit": -2.56, "metric_aspect_ratio": 1.588, "metric_area_km2": 6.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.0261215, 50.5582115 ], [ 15.0284973, 50.5639143 ], [ 15.025563, 50.5717195 ], [ 14.998209, 50.568351 ], [ 14.9921095, 50.5655395 ], [ 14.9938462, 50.5627388 ], [ 15.0153675, 50.557165499999989 ], [ 15.0261215, 50.5582115 ] ] ] } }
+]
+}

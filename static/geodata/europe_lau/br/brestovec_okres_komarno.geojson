@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brestovec_okres_komarno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brestovec (okres Komárno)", "metric_roundness": 15.44, "metric_rectangularity": 46.39, "metric_mobile_fit": 47.24, "metric_aspect_ratio": 1.09, "metric_area_km2": 15.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.8476257, 47.892411 ], [ 17.8302288, 47.87392509999998 ], [ 17.806381, 47.869246 ], [ 17.798075, 47.857222 ], [ 17.8046505, 47.855300499999977 ], [ 17.824991, 47.855847499999989 ], [ 17.8278513, 47.8658491 ], [ 17.8736683, 47.8952537 ], [ 17.874877, 47.902556 ], [ 17.8476257, 47.892411 ] ] ] } }
+]
+}

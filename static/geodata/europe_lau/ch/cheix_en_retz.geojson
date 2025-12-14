@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cheix_en_retz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cheix-en-Retz", "metric_roundness": 34.01, "metric_rectangularity": 79.22, "metric_mobile_fit": -55.79, "metric_aspect_ratio": 2.12, "metric_area_km2": 17.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.773155, 47.1700125 ], [ -1.765567, 47.1773355 ], [ -1.7634155, 47.183421499999987 ], [ -1.7761044, 47.1843638 ], [ -1.7852032, 47.188212199999988 ], [ -1.7963039, 47.187381599999981 ], [ -1.8074193, 47.193209499999988 ], [ -1.8103226, 47.193081799999987 ], [ -1.8130435, 47.1879949 ], [ -1.825209, 47.192428 ], [ -1.8357836, 47.180935499999983 ], [ -1.796187, 47.172341 ], [ -1.773155, 47.1700125 ] ] ] } }
+]
+}

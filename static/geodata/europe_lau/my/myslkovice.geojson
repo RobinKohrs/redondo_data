@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "myslkovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Myslkovice", "metric_roundness": 56.0, "metric_rectangularity": 82.45, "metric_mobile_fit": 27.74, "metric_aspect_ratio": 1.285, "metric_area_km2": 11.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.7710037, 49.2989749 ], [ 14.7670275, 49.304360499999987 ], [ 14.757951, 49.3087229 ], [ 14.7491272, 49.305441099999982 ], [ 14.733731, 49.307266499999983 ], [ 14.7323255, 49.2914805 ], [ 14.757951, 49.2898529 ], [ 14.76986, 49.2890965 ], [ 14.7710037, 49.2989749 ] ] ] } }
+]
+}

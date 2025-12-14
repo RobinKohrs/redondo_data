@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tisinec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tisinec", "metric_roundness": 50.3, "metric_rectangularity": 75.45, "metric_mobile_fit": 63.16, "metric_aspect_ratio": 0.931, "metric_area_km2": 9.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6351199, 49.226049299999978 ], [ 21.6208705, 49.2237015 ], [ 21.630227, 49.2201686 ], [ 21.639579, 49.2087724 ], [ 21.6516345, 49.215068 ], [ 21.6604285, 49.226021 ], [ 21.647091, 49.236527 ], [ 21.6351199, 49.226049299999978 ] ] ] } }
+]
+}

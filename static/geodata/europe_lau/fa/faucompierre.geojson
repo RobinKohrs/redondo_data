@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "faucompierre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Faucompierre", "metric_roundness": 30.66, "metric_rectangularity": 71.84, "metric_mobile_fit": -98.93, "metric_aspect_ratio": 2.552, "metric_area_km2": 5.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6754091, 48.133788 ], [ 6.6851145, 48.1372765 ], [ 6.68564, 48.138112499999984 ], [ 6.6711349, 48.1448251 ], [ 6.6456818, 48.1451456 ], [ 6.642209, 48.141631 ], [ 6.644917, 48.139371 ], [ 6.657243, 48.137116499999983 ], [ 6.6754091, 48.133788 ] ] ] } }
+]
+}

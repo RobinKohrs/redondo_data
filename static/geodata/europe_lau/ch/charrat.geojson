@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "charrat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Charrat", "metric_roundness": 57.49, "metric_rectangularity": 74.73, "metric_mobile_fit": 78.41, "metric_aspect_ratio": 0.778, "metric_area_km2": 15.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1573045, 46.1248335 ], [ 7.142344, 46.1400875 ], [ 7.1165815, 46.1243645 ], [ 7.1219302, 46.120248099999976 ], [ 7.1200392, 46.111348599999971 ], [ 7.1392695, 46.103827 ], [ 7.14337, 46.106015 ], [ 7.1507895, 46.1140675 ], [ 7.1573045, 46.1248335 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vimodrone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vimodrone", "metric_roundness": 58.34, "metric_rectangularity": 75.97, "metric_mobile_fit": 22.62, "metric_aspect_ratio": 1.336, "metric_area_km2": 9.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3067363, 45.5163745 ], [ 9.2996686, 45.5220019 ], [ 9.30305, 45.52607 ], [ 9.2812381, 45.522721499999982 ], [ 9.268408, 45.516783 ], [ 9.268176, 45.5111012 ], [ 9.2746375, 45.506263499999989 ], [ 9.2903357, 45.505851 ], [ 9.2990929, 45.509262799999988 ], [ 9.3024115, 45.5072075 ], [ 9.305214, 45.5133635 ], [ 9.3067363, 45.5163745 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_sur_tourbe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-sur-Tourbe", "metric_roundness": 24.44, "metric_rectangularity": 54.87, "metric_mobile_fit": -65.5, "metric_aspect_ratio": 2.217, "metric_area_km2": 40.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6152224, 49.1273075 ], [ 4.6167277, 49.1200888 ], [ 4.6248843, 49.117857899999983 ], [ 4.627551, 49.108321 ], [ 4.6577509, 49.1122058 ], [ 4.7071065, 49.11084749999997 ], [ 4.7162023, 49.1272619 ], [ 4.7414775, 49.144052 ], [ 4.7392875, 49.145579 ], [ 4.7135821, 49.136797699999988 ], [ 4.6899542, 49.1328209 ], [ 4.6592098, 49.129452699999987 ], [ 4.6475583, 49.13292509999998 ], [ 4.6185925, 49.129591499999989 ], [ 4.6152224, 49.1273075 ] ] ] } }
+]
+}

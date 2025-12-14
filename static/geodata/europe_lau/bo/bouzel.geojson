@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bouzel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bouzel", "metric_roundness": 39.19, "metric_rectangularity": 63.64, "metric_mobile_fit": 96.87, "metric_aspect_ratio": 0.531, "metric_area_km2": 8.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.307981, 45.790803 ], [ 3.3091504, 45.7841221 ], [ 3.3064003, 45.7777733 ], [ 3.31324, 45.768218499999989 ], [ 3.3242035, 45.7666385 ], [ 3.328252, 45.7665575 ], [ 3.330963, 45.767209 ], [ 3.3275198, 45.779603599999987 ], [ 3.3306551, 45.7887781 ], [ 3.3216621, 45.789233 ], [ 3.3177845, 45.792382499999981 ], [ 3.314457, 45.796955499999989 ], [ 3.3140405, 45.798803499999984 ], [ 3.307981, 45.790803 ] ] ] } }
+]
+}

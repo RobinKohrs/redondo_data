@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castiglione_chiavarese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castiglione Chiavarese", "metric_roundness": 49.73, "metric_rectangularity": 59.03, "metric_mobile_fit": 30.65, "metric_aspect_ratio": 1.256, "metric_area_km2": 57.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5733565, 44.2707335 ], [ 9.5618029, 44.2781416 ], [ 9.5533963, 44.290002699999988 ], [ 9.5386074, 44.2969949 ], [ 9.522674, 44.3099845 ], [ 9.51628, 44.307013 ], [ 9.5009947, 44.2909303 ], [ 9.4827614, 44.2851242 ], [ 9.4854903, 44.2716757 ], [ 9.4731948, 44.2620642 ], [ 9.471939, 44.2559055 ], [ 9.5054117, 44.2595734 ], [ 9.5264732, 44.2568495 ], [ 9.533072, 44.252174499999988 ], [ 9.5572447, 44.257267899999988 ], [ 9.571536, 44.2533755 ], [ 9.5733565, 44.2707335 ] ] ] } }
+]
+}

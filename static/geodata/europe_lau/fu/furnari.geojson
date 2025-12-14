@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "furnari",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Furnari", "metric_roundness": 46.56, "metric_rectangularity": 72.37, "metric_mobile_fit": 86.62, "metric_aspect_ratio": 0.696, "metric_area_km2": 22.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.0969855, 38.1036393 ], [ 15.0917404, 38.0879609 ], [ 15.0968006, 38.0781215 ], [ 15.1129646, 38.0881505 ], [ 15.1220345, 38.088416 ], [ 15.1249122, 38.0956467 ], [ 15.133809, 38.0979292 ], [ 15.1328015, 38.106852 ], [ 15.1254647, 38.114132399999974 ], [ 15.1243276, 38.1224722 ], [ 15.119376, 38.130556 ], [ 15.1009579, 38.1222132 ], [ 15.087408, 38.120146 ], [ 15.091123, 38.10562 ], [ 15.0969855, 38.1036393 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_bares",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βάρης", "metric_roundness": 39.9, "metric_rectangularity": 52.23, "metric_mobile_fit": 68.06, "metric_aspect_ratio": 0.882, "metric_area_km2": 21.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.787388, 37.821184 ], [ 23.7913625, 37.8123085 ], [ 23.796194, 37.799595 ], [ 23.8051202, 37.8190587 ], [ 23.8148967, 37.8197125 ], [ 23.827114, 37.809696 ], [ 23.8270106, 37.8244264 ], [ 23.8406217, 37.8411515 ], [ 23.839046, 37.8466063 ], [ 23.8107067, 37.8406662 ], [ 23.787991, 37.8488605 ], [ 23.785618, 37.828773 ], [ 23.787388, 37.821184 ] ] ] } }
+]
+}

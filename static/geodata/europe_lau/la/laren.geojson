@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laren", "metric_roundness": 35.87, "metric_rectangularity": 60.49, "metric_mobile_fit": 99.8, "metric_aspect_ratio": 0.56, "metric_area_km2": 33.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2440385, 52.2546195 ], [ 5.2244019, 52.2720618 ], [ 5.2104501, 52.266706899999988 ], [ 5.2041885, 52.267517 ], [ 5.203871, 52.266952499999988 ], [ 5.1892445, 52.247596 ], [ 5.1991645, 52.2403945 ], [ 5.218925, 52.2122 ], [ 5.224596, 52.225197 ], [ 5.2440385, 52.2546195 ] ] ] } }
+]
+}

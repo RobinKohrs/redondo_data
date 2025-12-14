@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_de_chevelu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-de-Chevelu", "metric_roundness": 44.94, "metric_rectangularity": 63.53, "metric_mobile_fit": 95.81, "metric_aspect_ratio": 0.604, "metric_area_km2": 25.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.8118725, 45.704976099999989 ], [ 5.8039845, 45.704591499999985 ], [ 5.802563, 45.7024295 ], [ 5.8017245, 45.697277499999977 ], [ 5.8105446, 45.694584199999987 ], [ 5.8062948, 45.6850061 ], [ 5.8071597, 45.680985699999987 ], [ 5.8274625, 45.6694625 ], [ 5.8449605, 45.690079 ], [ 5.847135, 45.692938 ], [ 5.846918, 45.704652 ], [ 5.844291, 45.712839 ], [ 5.8369635, 45.7219385 ], [ 5.8118725, 45.704976099999989 ] ] ] } }
+]
+}

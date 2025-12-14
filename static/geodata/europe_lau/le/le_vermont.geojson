@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_vermont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Vermont", "metric_roundness": 33.08, "metric_rectangularity": 71.3, "metric_mobile_fit": -21.96, "metric_aspect_ratio": 1.782, "metric_area_km2": 9.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0834879, 48.387110299999982 ], [ 7.0929455, 48.394165 ], [ 7.084979, 48.397881 ], [ 7.0703535, 48.397685499999987 ], [ 7.0653154, 48.393698299999983 ], [ 7.0569357, 48.3935756 ], [ 7.0504004, 48.390001799999986 ], [ 7.041186, 48.381056 ], [ 7.0566789, 48.3785933 ], [ 7.0629625, 48.381004 ], [ 7.0834879, 48.387110299999982 ] ] ] } }
+]
+}

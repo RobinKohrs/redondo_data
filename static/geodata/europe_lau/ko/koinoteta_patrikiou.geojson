@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_patrikiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πατρικίου", "metric_roundness": 52.4, "metric_rectangularity": 77.32, "metric_mobile_fit": 95.67, "metric_aspect_ratio": 0.606, "metric_area_km2": 19.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.62877, 40.9142886 ], [ 23.6331374, 40.9234088 ], [ 23.6337005, 40.941296 ], [ 23.6129263, 40.9406536 ], [ 23.606385, 40.935409 ], [ 23.5982784, 40.916792399999984 ], [ 23.5994785, 40.910515099999984 ], [ 23.606703, 40.9021925 ], [ 23.6124129, 40.897555 ], [ 23.6211864, 40.897114 ], [ 23.6316535, 40.9069055 ], [ 23.62877, 40.9142886 ] ] ] } }
+]
+}

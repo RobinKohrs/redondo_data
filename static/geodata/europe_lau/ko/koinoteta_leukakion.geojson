@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_leukakion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λευκακίων", "metric_roundness": 37.78, "metric_rectangularity": 62.72, "metric_mobile_fit": -37.73, "metric_aspect_ratio": 1.94, "metric_area_km2": 16.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.8845115, 37.554848 ], [ 22.8972113, 37.5626842 ], [ 22.9068875, 37.564457499999975 ], [ 22.9007796, 37.5737048 ], [ 22.8901625, 37.5756265 ], [ 22.8801491, 37.5687181 ], [ 22.8639135, 37.582271 ], [ 22.859764, 37.5816385 ], [ 22.8545015, 37.5791125 ], [ 22.8397747, 37.5627477 ], [ 22.843117, 37.558531 ], [ 22.8845115, 37.554848 ] ] ] } }
+]
+}

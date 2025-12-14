@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "erzenhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Erzenhausen", "metric_roundness": 34.08, "metric_rectangularity": 64.13, "metric_mobile_fit": 52.28, "metric_aspect_ratio": 1.04, "metric_area_km2": 13.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.617626, 49.51766 ], [ 7.6104065, 49.518825499999977 ], [ 7.606478, 49.521552 ], [ 7.595941, 49.513368 ], [ 7.6038801, 49.5079701 ], [ 7.6074287, 49.499646 ], [ 7.6188395, 49.4954445 ], [ 7.647194, 49.489539 ], [ 7.6448153, 49.497340099999988 ], [ 7.6318359, 49.505167 ], [ 7.6233575, 49.514556 ], [ 7.617626, 49.51766 ] ] ] } }
+]
+}

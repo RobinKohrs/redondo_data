@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thiverval_grignon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thiverval-Grignon", "metric_roundness": 44.46, "metric_rectangularity": 57.03, "metric_mobile_fit": 18.21, "metric_aspect_ratio": 1.38, "metric_area_km2": 26.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9081685, 48.8378382 ], [ 1.9201093, 48.835025699999989 ], [ 1.9217315, 48.8261225 ], [ 1.9289265, 48.824351799999981 ], [ 1.9378741, 48.834177499999974 ], [ 1.945138, 48.837292 ], [ 1.9687955, 48.834825 ], [ 1.9698245, 48.841474399999981 ], [ 1.961375, 48.851887499999982 ], [ 1.9217075, 48.858319 ], [ 1.9127225, 48.86084649999998 ], [ 1.9033552, 48.851265799999986 ], [ 1.9047667, 48.845862 ], [ 1.8932775, 48.847375 ], [ 1.9081685, 48.8378382 ] ] ] } }
+]
+}

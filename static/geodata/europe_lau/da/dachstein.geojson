@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dachstein",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dachstein", "metric_roundness": 53.45, "metric_rectangularity": 74.34, "metric_mobile_fit": 26.48, "metric_aspect_ratio": 1.298, "metric_area_km2": 16.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5384025, 48.542549 ], [ 7.545629, 48.541005499999976 ], [ 7.549523, 48.5411405 ], [ 7.561934, 48.542998 ], [ 7.5665485, 48.54436149999998 ], [ 7.5672765, 48.5449905 ], [ 7.553105, 48.5630995 ], [ 7.5425936, 48.567177099999988 ], [ 7.518663, 48.560983 ], [ 7.5159655, 48.5606155 ], [ 7.5183481, 48.548633699999989 ], [ 7.5273694, 48.547984299999975 ], [ 7.533366, 48.541158 ], [ 7.5384025, 48.542549 ] ] ] } }
+]
+}

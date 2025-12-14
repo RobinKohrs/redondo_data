@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_benisson_dieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Bénisson-Dieu", "metric_roundness": 53.78, "metric_rectangularity": 70.25, "metric_mobile_fit": 84.55, "metric_aspect_ratio": 0.717, "metric_area_km2": 23.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.031146, 46.171969499999989 ], [ 4.0316284, 46.1657478 ], [ 4.021814, 46.154782 ], [ 4.0456445, 46.134405 ], [ 4.0639966, 46.147156299999978 ], [ 4.0636198, 46.153051699999985 ], [ 4.0669644, 46.1571417 ], [ 4.0639641, 46.1632142 ], [ 4.06997, 46.1720855 ], [ 4.0631066, 46.1772652 ], [ 4.0533002, 46.176543099999982 ], [ 4.049827, 46.180928 ], [ 4.031146, 46.171969499999989 ] ] ] } }
+]
+}

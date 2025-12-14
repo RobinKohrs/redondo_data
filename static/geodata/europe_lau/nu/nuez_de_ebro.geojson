@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nuez_de_ebro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nuez de Ebro", "metric_roundness": 52.79, "metric_rectangularity": 72.98, "metric_mobile_fit": 93.65, "metric_aspect_ratio": 0.626, "metric_area_km2": 14.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.6904295, 41.602928 ], [ -0.699525, 41.5901296 ], [ -0.700358, 41.5709685 ], [ -0.682836, 41.5638695 ], [ -0.6717116, 41.5656904 ], [ -0.6732935, 41.573236299999984 ], [ -0.6676715, 41.58905 ], [ -0.6904295, 41.602928 ] ] ] } }
+]
+}

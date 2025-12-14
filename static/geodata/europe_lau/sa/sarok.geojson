@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sarok",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sárok", "metric_roundness": 50.7, "metric_rectangularity": 75.01, "metric_mobile_fit": 7.45, "metric_aspect_ratio": 1.488, "metric_area_km2": 9.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.6223348, 45.839624 ], [ 18.61479, 45.8532675 ], [ 18.5939195, 45.852464 ], [ 18.587001, 45.850359 ], [ 18.5824905, 45.8498975 ], [ 18.580543, 45.849542 ], [ 18.583349, 45.8394425 ], [ 18.5978951, 45.8391679 ], [ 18.6007575, 45.833702 ], [ 18.6223348, 45.839624 ] ] ] } }
+]
+}

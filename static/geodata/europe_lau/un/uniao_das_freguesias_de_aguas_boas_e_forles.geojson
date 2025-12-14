@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_aguas_boas_e_forles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Águas Boas e Forles", "metric_roundness": 47.46, "metric_rectangularity": 60.29, "metric_mobile_fit": 5.42, "metric_aspect_ratio": 1.508, "metric_area_km2": 27.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.6624131, 40.8638044 ], [ -7.662167, 40.854669799999989 ], [ -7.6790488, 40.858731 ], [ -7.6879235, 40.854384499999988 ], [ -7.6897475, 40.85164 ], [ -7.658663, 40.8363323 ], [ -7.6539375, 40.836785 ], [ -7.6484522, 40.843829199999973 ], [ -7.6399363, 40.8406924 ], [ -7.6287936, 40.8411014 ], [ -7.6211456, 40.835069799999985 ], [ -7.6166846, 40.838863599999989 ], [ -7.6123085, 40.852806 ], [ -7.619496, 40.8642635 ], [ -7.6321358, 40.8739036 ], [ -7.644658, 40.869999499999984 ], [ -7.6624131, 40.8638044 ] ] ] } }
+]
+}

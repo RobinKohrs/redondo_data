@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lieffrans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lieffrans", "metric_roundness": 58.51, "metric_rectangularity": 76.21, "metric_mobile_fit": 4.81, "metric_aspect_ratio": 1.514, "metric_area_km2": 9.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9615134, 47.531101599999985 ], [ 5.9507202, 47.5282088 ], [ 5.9486535, 47.5242132 ], [ 5.9507374, 47.5203266 ], [ 5.9468059, 47.5161449 ], [ 5.950767, 47.5143275 ], [ 5.9573512, 47.513329399999989 ], [ 5.9616304, 47.517909299999978 ], [ 5.9672767, 47.514174 ], [ 5.9747232, 47.5165009 ], [ 5.9819765, 47.513980499999988 ], [ 5.9866833, 47.519242699999985 ], [ 5.981223, 47.531112 ], [ 5.9615134, 47.531101599999985 ] ] ] } }
+]
+}

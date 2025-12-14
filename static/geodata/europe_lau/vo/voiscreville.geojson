@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "voiscreville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Voiscreville", "metric_roundness": 55.44, "metric_rectangularity": 77.58, "metric_mobile_fit": 83.48, "metric_aspect_ratio": 0.728, "metric_area_km2": 3.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7582314, 49.2781757 ], [ 0.7613175, 49.272026 ], [ 0.770666, 49.2728998 ], [ 0.7775795, 49.2837125 ], [ 0.7635875, 49.289370499999983 ], [ 0.7582314, 49.2781757 ] ] ] } }
+]
+}

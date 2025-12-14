@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fuenteheridos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fuenteheridos", "metric_roundness": 68.08, "metric_rectangularity": 70.93, "metric_mobile_fit": 49.63, "metric_aspect_ratio": 1.066, "metric_area_km2": 17.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.6596765, 37.9231565 ], [ -6.6764068, 37.9195119 ], [ -6.6857357, 37.9111756 ], [ -6.6855695, 37.908329 ], [ -6.6699901, 37.893591 ], [ -6.6626791, 37.891903499999984 ], [ -6.6517433, 37.895755099999988 ], [ -6.6479585, 37.889053499999982 ], [ -6.6426834, 37.8924127 ], [ -6.6396506, 37.9013883 ], [ -6.6404875, 37.9122705 ], [ -6.645764, 37.9230995 ], [ -6.6596765, 37.9231565 ] ] ] } }
+]
+}

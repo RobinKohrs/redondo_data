@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "miossens_lanusse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Miossens-Lanusse", "metric_roundness": 52.42, "metric_rectangularity": 71.89, "metric_mobile_fit": 82.06, "metric_aspect_ratio": 0.742, "metric_area_km2": 17.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3245355, 43.471957 ], [ -0.324028, 43.4689925 ], [ -0.3047357, 43.4503438 ], [ -0.29695, 43.448013499999988 ], [ -0.291805, 43.448859 ], [ -0.288524, 43.4515915 ], [ -0.286087, 43.452549499999989 ], [ -0.283527, 43.460264 ], [ -0.2891199, 43.4683421 ], [ -0.294127, 43.486497 ], [ -0.2993465, 43.4898855 ], [ -0.3062885, 43.4824719 ], [ -0.326329, 43.474934499999982 ], [ -0.3245355, 43.471957 ] ] ] } }
+]
+}

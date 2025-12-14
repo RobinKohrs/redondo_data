@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "milesovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Milešovice", "metric_roundness": 33.22, "metric_rectangularity": 68.38, "metric_mobile_fit": 55.34, "metric_aspect_ratio": 1.009, "metric_area_km2": 16.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8519049, 49.074437699999983 ], [ 16.8641556, 49.0738195 ], [ 16.8638085, 49.070046 ], [ 16.8672736, 49.0685978 ], [ 16.8721775, 49.0731335 ], [ 16.8732787, 49.0767308 ], [ 16.85284, 49.1008485 ], [ 16.845684, 49.1047505 ], [ 16.8339584, 49.100528099999984 ], [ 16.817572, 49.102012 ], [ 16.8395595, 49.082282499999984 ], [ 16.8519049, 49.074437699999983 ] ] ] } }
+]
+}

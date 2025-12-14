@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dittweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dittweiler", "metric_roundness": 44.01, "metric_rectangularity": 63.58, "metric_mobile_fit": -1.31, "metric_aspect_ratio": 1.576, "metric_area_km2": 13.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.32223, 49.4172225 ], [ 7.328279, 49.416877 ], [ 7.3389807, 49.421180199999988 ], [ 7.3471622, 49.4300715 ], [ 7.3410505, 49.438791499999986 ], [ 7.338488, 49.438702 ], [ 7.337354, 49.440192 ], [ 7.3178712, 49.4340306 ], [ 7.2906815, 49.432173 ], [ 7.293687, 49.427279 ], [ 7.2988293, 49.4244821 ], [ 7.3108399, 49.4247557 ], [ 7.3135066, 49.4204508 ], [ 7.319833, 49.417908499999982 ], [ 7.32223, 49.4172225 ] ] ] } }
+]
+}

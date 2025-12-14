@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bethencourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Béthencourt", "metric_roundness": 44.97, "metric_rectangularity": 66.17, "metric_mobile_fit": 21.3, "metric_aspect_ratio": 1.35, "metric_area_km2": 12.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.433395, 50.152859 ], [ 3.4229087, 50.152780099999987 ], [ 3.4104111, 50.147664599999985 ], [ 3.4041735, 50.151151499999983 ], [ 3.3992453, 50.149229399999982 ], [ 3.4021095, 50.1400655 ], [ 3.4085215, 50.138789 ], [ 3.4139332, 50.1336271 ], [ 3.4197127, 50.1368308 ], [ 3.4440365, 50.131587499999988 ], [ 3.442779, 50.1437355 ], [ 3.433395, 50.152859 ] ] ] } }
+]
+}

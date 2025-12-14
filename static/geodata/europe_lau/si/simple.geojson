@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "simple",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Simplé", "metric_roundness": 51.16, "metric_rectangularity": 60.05, "metric_mobile_fit": 85.1, "metric_aspect_ratio": 0.711, "metric_area_km2": 19.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.8309445, 47.879326 ], [ -0.8323921, 47.8830451 ], [ -0.8431144, 47.889688299999982 ], [ -0.847395, 47.901425 ], [ -0.8643305, 47.903707499999982 ], [ -0.8731515, 47.89685 ], [ -0.8597289, 47.8839681 ], [ -0.8725023, 47.8736628 ], [ -0.8742443, 47.866358 ], [ -0.8716305, 47.863004 ], [ -0.8608102, 47.862891499999989 ], [ -0.8471486, 47.8703609 ], [ -0.8356265, 47.8726285 ], [ -0.8309445, 47.879326 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montmarlon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montmarlon", "metric_roundness": 23.3, "metric_rectangularity": 54.45, "metric_mobile_fit": -25.76, "metric_aspect_ratio": 1.82, "metric_area_km2": 7.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9773339, 46.871658799999977 ], [ 5.9654202, 46.881837499999989 ], [ 5.9501457, 46.882338499999975 ], [ 5.9453665, 46.879836 ], [ 5.947112, 46.8745865 ], [ 5.9625709, 46.870778 ], [ 5.965641, 46.865002899999986 ], [ 5.996694, 46.863060499999989 ], [ 5.9773339, 46.871658799999977 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belmesnil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Belmesnil", "metric_roundness": 55.99, "metric_rectangularity": 65.02, "metric_mobile_fit": 77.54, "metric_aspect_ratio": 0.787, "metric_area_km2": 7.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0385065, 49.775702 ], [ 1.0386885, 49.7735955 ], [ 1.0348115, 49.772791 ], [ 1.0351305, 49.765695 ], [ 1.0413712, 49.766045899999988 ], [ 1.048336, 49.7606225 ], [ 1.0575905, 49.7557475 ], [ 1.0625335, 49.764419 ], [ 1.0581921, 49.7761085 ], [ 1.054526, 49.778497 ], [ 1.0494635, 49.7779495 ], [ 1.0385065, 49.775702 ] ] ] } }
+]
+}

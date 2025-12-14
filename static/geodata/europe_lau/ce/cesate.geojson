@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cesate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cesate", "metric_roundness": 63.41, "metric_rectangularity": 86.09, "metric_mobile_fit": 28.52, "metric_aspect_ratio": 1.277, "metric_area_km2": 12.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.095606, 45.587938 ], [ 9.0998931, 45.596203499999987 ], [ 9.0987727, 45.6017635 ], [ 9.094657, 45.604557 ], [ 9.0841168, 45.6080963 ], [ 9.0613395, 45.607694 ], [ 9.0609727, 45.6008213 ], [ 9.0652932, 45.5949038 ], [ 9.0641475, 45.586775499999987 ], [ 9.095396, 45.5872685 ], [ 9.095606, 45.587938 ] ] ] } }
+]
+}

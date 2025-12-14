@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baustert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baustert", "metric_roundness": 40.87, "metric_rectangularity": 56.88, "metric_mobile_fit": 61.16, "metric_aspect_ratio": 0.951, "metric_area_km2": 10.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3898295, 49.969141499999978 ], [ 6.391093, 49.971289899999981 ], [ 6.4102795, 49.975816 ], [ 6.407749, 49.980357 ], [ 6.3987827, 49.9844087 ], [ 6.3982125, 49.9928545 ], [ 6.3850002, 49.9877891 ], [ 6.3748757, 49.9964704 ], [ 6.3697505, 49.997215 ], [ 6.3714593, 49.988443 ], [ 6.368766, 49.984191499999987 ], [ 6.3898295, 49.969141499999978 ] ] ] } }
+]
+}

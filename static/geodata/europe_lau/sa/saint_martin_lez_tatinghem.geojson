@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_martin_lez_tatinghem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Martin-lez-Tatinghem", "metric_roundness": 50.06, "metric_rectangularity": 78.55, "metric_mobile_fit": 53.83, "metric_aspect_ratio": 1.024, "metric_area_km2": 25.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2466311, 50.7574584 ], [ 2.236715, 50.768912499999985 ], [ 2.2212016, 50.765673399999983 ], [ 2.1888705, 50.750479 ], [ 2.1856625, 50.749422499999987 ], [ 2.1889727, 50.744192899999987 ], [ 2.1871385, 50.7389255 ], [ 2.1917765, 50.733108799999982 ], [ 2.2026627, 50.734189399999984 ], [ 2.2100435, 50.73125 ], [ 2.2230285, 50.7397932 ], [ 2.2270252, 50.7459392 ], [ 2.244492, 50.747036 ], [ 2.2466311, 50.7574584 ] ] ] } }
+]
+}

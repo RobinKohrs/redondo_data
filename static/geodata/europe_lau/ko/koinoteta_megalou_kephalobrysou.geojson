@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_megalou_kephalobrysou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μεγάλου Κεφαλοβρύσου", "metric_roundness": 35.46, "metric_rectangularity": 62.38, "metric_mobile_fit": 45.8, "metric_aspect_ratio": 1.104, "metric_area_km2": 12.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.692494, 39.611131 ], [ 21.7033105, 39.6037093 ], [ 21.7077907, 39.594150299999988 ], [ 21.7161493, 39.586758199999984 ], [ 21.7386852, 39.5819344 ], [ 21.7329218, 39.6002378 ], [ 21.723508, 39.614159 ], [ 21.692494, 39.611131 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brasfemes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brasfemes", "metric_roundness": 57.5, "metric_rectangularity": 71.12, "metric_mobile_fit": 23.72, "metric_aspect_ratio": 1.325, "metric_area_km2": 16.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4178254, 40.2685341 ], [ -8.419971, 40.265204499999982 ], [ -8.4113896, 40.255631699999981 ], [ -8.4042172, 40.2542899 ], [ -8.3928965, 40.2605199 ], [ -8.3769848, 40.2635818 ], [ -8.3722902, 40.2678668 ], [ -8.368838, 40.277497 ], [ -8.372674, 40.2797055 ], [ -8.3884865, 40.2837295 ], [ -8.3995246, 40.2805982 ], [ -8.4084669, 40.2814726 ], [ -8.4195105, 40.272334 ], [ -8.4178254, 40.2685341 ] ] ] } }
+]
+}

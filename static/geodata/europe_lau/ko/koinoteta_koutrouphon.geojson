@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_koutrouphon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κουτρούφων", "metric_roundness": 31.17, "metric_rectangularity": 45.6, "metric_mobile_fit": 75.25, "metric_aspect_ratio": 0.81, "metric_area_km2": 8.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.481255, 37.364846 ], [ 22.4823028, 37.3542003 ], [ 22.4877445, 37.3472395 ], [ 22.4953379, 37.3499282 ], [ 22.5076735, 37.3479195 ], [ 22.5025517, 37.3667667 ], [ 22.516602, 37.3819215 ], [ 22.481255, 37.364846 ] ] ] } }
+]
+}

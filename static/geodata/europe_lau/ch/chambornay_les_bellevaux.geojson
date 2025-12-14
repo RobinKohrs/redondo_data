@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chambornay_les_bellevaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chambornay-lès-Bellevaux", "metric_roundness": 46.29, "metric_rectangularity": 57.7, "metric_mobile_fit": 85.31, "metric_aspect_ratio": 0.709, "metric_area_km2": 12.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0913877, 47.4008161 ], [ 6.0878365, 47.402678 ], [ 6.085072, 47.400156 ], [ 6.0816885, 47.394457499999987 ], [ 6.0814545, 47.391133 ], [ 6.082758, 47.388929499999982 ], [ 6.0921026, 47.38818329999998 ], [ 6.106645, 47.376987 ], [ 6.111802, 47.378665 ], [ 6.1045472, 47.37909639999998 ], [ 6.105023, 47.3838399 ], [ 6.1131545, 47.3876698 ], [ 6.116408, 47.393148 ], [ 6.1190807, 47.4023906 ], [ 6.108853, 47.412892 ], [ 6.0913877, 47.4008161 ] ] ] } }
+]
+}

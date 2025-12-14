@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "joncherey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Joncherey", "metric_roundness": 61.14, "metric_rectangularity": 67.95, "metric_mobile_fit": 48.28, "metric_aspect_ratio": 1.08, "metric_area_km2": 11.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.998519, 47.524467 ], [ 7.0046563, 47.5213373 ], [ 7.019703, 47.520045 ], [ 7.0213155, 47.523617 ], [ 7.02511, 47.5274285 ], [ 7.024675, 47.531545499999986 ], [ 7.0225455, 47.531541499999989 ], [ 7.0218395, 47.533215 ], [ 7.0252135, 47.537651 ], [ 7.026199, 47.540539 ], [ 7.028221, 47.541584 ], [ 7.0237597, 47.5448465 ], [ 7.0128885, 47.544489 ], [ 6.9885595, 47.533135499999986 ], [ 6.998519, 47.524467 ] ] ] } }
+]
+}

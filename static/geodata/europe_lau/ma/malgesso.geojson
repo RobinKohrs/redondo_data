@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "malgesso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malgesso", "metric_roundness": 54.99, "metric_rectangularity": 74.13, "metric_mobile_fit": 73.62, "metric_aspect_ratio": 0.826, "metric_area_km2": 5.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.681065, 45.8351505 ], [ 8.671165, 45.8350595 ], [ 8.6679482, 45.8285145 ], [ 8.6616905, 45.827961599999981 ], [ 8.658659, 45.820811 ], [ 8.6768975, 45.8139245 ], [ 8.683827, 45.831657 ], [ 8.681065, 45.8351505 ] ] ] } }
+]
+}

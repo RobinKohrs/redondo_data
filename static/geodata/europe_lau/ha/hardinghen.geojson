@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hardinghen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hardinghen", "metric_roundness": 53.77, "metric_rectangularity": 64.25, "metric_mobile_fit": 40.31, "metric_aspect_ratio": 1.159, "metric_area_km2": 21.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.851841, 50.783104499999986 ], [ 1.856482, 50.7874455 ], [ 1.8499883, 50.7906058 ], [ 1.8478757, 50.800613599999984 ], [ 1.8426428, 50.8029622 ], [ 1.8432755, 50.809544 ], [ 1.8371119, 50.8135313 ], [ 1.8239976, 50.808741 ], [ 1.8065835, 50.81132 ], [ 1.8063239, 50.804013 ], [ 1.8006017, 50.7978889 ], [ 1.8086348, 50.7951258 ], [ 1.82079, 50.7830685 ], [ 1.851841, 50.783104499999986 ] ] ] } }
+]
+}

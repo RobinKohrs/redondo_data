@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bradlecka_lhota",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bradlecká Lhota", "metric_roundness": 52.73, "metric_rectangularity": 69.36, "metric_mobile_fit": 68.34, "metric_aspect_ratio": 0.879, "metric_area_km2": 9.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3872464, 50.4920908 ], [ 15.3791655, 50.491236499999985 ], [ 15.3911496, 50.4812634 ], [ 15.401636, 50.4799125 ], [ 15.4042925, 50.481815499999989 ], [ 15.4077, 50.4826315 ], [ 15.4142703, 50.4913107 ], [ 15.4136462, 50.4958337 ], [ 15.3944045, 50.501074 ], [ 15.3840435, 50.505318 ], [ 15.3872464, 50.4920908 ] ] ] } }
+]
+}

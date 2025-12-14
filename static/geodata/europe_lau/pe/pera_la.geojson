@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pera_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pera, La", "metric_roundness": 66.76, "metric_rectangularity": 77.37, "metric_mobile_fit": 77.15, "metric_aspect_ratio": 0.791, "metric_area_km2": 21.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9681502, 42.034809 ], [ 2.9607157, 42.037912899999988 ], [ 2.9527675, 42.031053 ], [ 2.951726, 42.0057325 ], [ 2.9580619, 42.000079899999974 ], [ 2.9753921, 42.0005489 ], [ 2.9804035, 41.9973995 ], [ 2.9892405, 42.005933499999983 ], [ 2.994861, 42.016482 ], [ 2.9928975, 42.023900499999975 ], [ 2.979384, 42.0359705 ], [ 2.9681502, 42.034809 ] ] ] } }
+]
+}

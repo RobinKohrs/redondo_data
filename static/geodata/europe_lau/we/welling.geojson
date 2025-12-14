@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "welling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Welling", "metric_roundness": 58.15, "metric_rectangularity": 72.76, "metric_mobile_fit": 22.75, "metric_aspect_ratio": 1.335, "metric_area_km2": 17.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3549875, 50.339342699999982 ], [ 7.3332045, 50.344885499999982 ], [ 7.3150425, 50.343537 ], [ 7.3035403, 50.3268505 ], [ 7.307611, 50.321581 ], [ 7.3226397, 50.323944499999989 ], [ 7.3325764, 50.320286 ], [ 7.3425033, 50.324091699999975 ], [ 7.3460962, 50.3285469 ], [ 7.353593, 50.3287495 ], [ 7.3549875, 50.339342699999982 ] ] ] } }
+]
+}

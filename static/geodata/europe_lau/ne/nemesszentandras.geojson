@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nemesszentandras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nemesszentandrás", "metric_roundness": 51.82, "metric_rectangularity": 67.5, "metric_mobile_fit": 88.4, "metric_aspect_ratio": 0.679, "metric_area_km2": 12.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9578259, 46.7480866 ], [ 16.9654955, 46.762988 ], [ 16.9611959, 46.766467699999986 ], [ 16.9589588, 46.7794222 ], [ 16.9338765, 46.777061499999988 ], [ 16.9342153, 46.7536923 ], [ 16.9529342, 46.757020899999986 ], [ 16.9550785, 46.7475005 ], [ 16.9578259, 46.7480866 ] ] ] } }
+]
+}

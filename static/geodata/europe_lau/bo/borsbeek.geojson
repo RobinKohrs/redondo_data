@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borsbeek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Borsbeek", "metric_roundness": 65.09, "metric_rectangularity": 73.47, "metric_mobile_fit": 59.32, "metric_aspect_ratio": 0.969, "metric_area_km2": 9.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4789254, 51.186225799999967 ], [ 4.4838985, 51.180568499999985 ], [ 4.5037637, 51.184406499999987 ], [ 4.5090025, 51.189754 ], [ 4.5030609, 51.1895907 ], [ 4.4981535, 51.196346899999973 ], [ 4.4826405, 51.203861 ], [ 4.4730043, 51.198741399999989 ], [ 4.4729755, 51.1867005 ], [ 4.4789254, 51.186225799999967 ] ] ] } }
+]
+}

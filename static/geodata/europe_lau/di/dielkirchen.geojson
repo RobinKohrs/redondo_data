@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dielkirchen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dielkirchen", "metric_roundness": 61.79, "metric_rectangularity": 75.14, "metric_mobile_fit": 47.24, "metric_aspect_ratio": 1.09, "metric_area_km2": 20.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.802627, 49.657166499999974 ], [ 7.819681, 49.6552435 ], [ 7.822307, 49.647479 ], [ 7.8348328, 49.6561275 ], [ 7.8543895, 49.6582165 ], [ 7.8542055, 49.661291 ], [ 7.8537035, 49.6663385 ], [ 7.849562, 49.671976499999971 ], [ 7.844524, 49.675513 ], [ 7.840764, 49.6807545 ], [ 7.8244732, 49.6781934 ], [ 7.798349, 49.665607499999986 ], [ 7.802627, 49.657166499999974 ] ] ] } }
+]
+}

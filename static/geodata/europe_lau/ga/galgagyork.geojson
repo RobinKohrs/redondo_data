@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "galgagyork",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Galgagyörk", "metric_roundness": 51.0, "metric_rectangularity": 76.18, "metric_mobile_fit": 95.09, "metric_aspect_ratio": 0.612, "metric_area_km2": 32.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.3595455, 47.7222125 ], [ 19.3566828, 47.7159134 ], [ 19.3649955, 47.709426 ], [ 19.3781541, 47.710168 ], [ 19.3868475, 47.713933499999982 ], [ 19.3919458, 47.7231513 ], [ 19.402884, 47.733119499999979 ], [ 19.4035507, 47.7482784 ], [ 19.40092, 47.75407 ], [ 19.3896481, 47.7609659 ], [ 19.3678617, 47.759398299999987 ], [ 19.3681683, 47.7492659 ], [ 19.361247, 47.744528 ], [ 19.3595455, 47.7222125 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cervatto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cervatto", "metric_roundness": 69.41, "metric_rectangularity": 77.39, "metric_mobile_fit": 44.95, "metric_aspect_ratio": 1.113, "metric_area_km2": 19.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.1222847, 45.868252299999988 ], [ 8.1264965, 45.8623894 ], [ 8.1364365, 45.857117 ], [ 8.1654583, 45.8671346 ], [ 8.1680437, 45.873927899999977 ], [ 8.165955, 45.883432 ], [ 8.1578857, 45.887074899999988 ], [ 8.1458008, 45.8845458 ], [ 8.1340521, 45.8879403 ], [ 8.118772, 45.885752499999981 ], [ 8.1222847, 45.868252299999988 ] ] ] } }
+]
+}

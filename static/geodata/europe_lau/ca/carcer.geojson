@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carcer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Càrcer", "metric_roundness": 36.79, "metric_rectangularity": 50.91, "metric_mobile_fit": 95.81, "metric_aspect_ratio": 0.604, "metric_area_km2": 12.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.574695, 39.0824395 ], [ -0.5808615, 39.0762175 ], [ -0.5743178, 39.0742062 ], [ -0.5728372, 39.0693367 ], [ -0.5868237, 39.063688299999988 ], [ -0.5860349, 39.055675199999989 ], [ -0.5921495, 39.050873 ], [ -0.5799712, 39.0499498 ], [ -0.5674425, 39.03817 ], [ -0.5657968, 39.0417771 ], [ -0.556793, 39.0446175 ], [ -0.5641415, 39.0676052 ], [ -0.563711, 39.0835935 ], [ -0.574695, 39.0824395 ] ] ] } }
+]
+}

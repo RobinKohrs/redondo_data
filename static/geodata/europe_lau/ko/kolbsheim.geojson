@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kolbsheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kolbsheim", "metric_roundness": 47.51, "metric_rectangularity": 64.78, "metric_mobile_fit": 72.31, "metric_aspect_ratio": 0.839, "metric_area_km2": 7.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5736212, 48.5729427 ], [ 7.5707564, 48.560634199999988 ], [ 7.575473, 48.557494299999981 ], [ 7.5860225, 48.556973 ], [ 7.5870985, 48.5519735 ], [ 7.5953677, 48.5503984 ], [ 7.602332, 48.553386499999988 ], [ 7.5986335, 48.556782 ], [ 7.601236, 48.56430049999998 ], [ 7.5862068, 48.567593699999982 ], [ 7.579917, 48.5752935 ], [ 7.5736212, 48.5729427 ] ] ] } }
+]
+}

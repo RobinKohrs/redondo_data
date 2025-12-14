@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_denis_de_mailloc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Denis-de-Mailloc", "metric_roundness": 55.37, "metric_rectangularity": 67.31, "metric_mobile_fit": 55.72, "metric_aspect_ratio": 1.005, "metric_area_km2": 10.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3136255, 49.0866895 ], [ 0.3191055, 49.086872 ], [ 0.323232, 49.089512 ], [ 0.325903, 49.089782 ], [ 0.3306985, 49.091435 ], [ 0.3370475, 49.095325499999987 ], [ 0.332186, 49.0985705 ], [ 0.3236895, 49.103731 ], [ 0.3060395, 49.1114685 ], [ 0.301643, 49.1066655 ], [ 0.2993755, 49.106896499999984 ], [ 0.297123, 49.104971 ], [ 0.3033679, 49.098129 ], [ 0.3082675, 49.0854655 ], [ 0.3136255, 49.0866895 ] ] ] } }
+]
+}

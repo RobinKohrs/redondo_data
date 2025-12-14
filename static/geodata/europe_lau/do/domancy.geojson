@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "domancy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Domancy", "metric_roundness": 41.41, "metric_rectangularity": 70.3, "metric_mobile_fit": 0.4, "metric_aspect_ratio": 1.559, "metric_area_km2": 15.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6339565, 45.9097723 ], [ 6.6394768, 45.9045097 ], [ 6.6531263, 45.8992356 ], [ 6.6831705, 45.8959585 ], [ 6.6944001, 45.9015926 ], [ 6.692262, 45.90971 ], [ 6.6637078, 45.9132956 ], [ 6.6481965, 45.923031 ], [ 6.6401224, 45.9181005 ], [ 6.6378673, 45.9133522 ], [ 6.63376, 45.913447 ], [ 6.6339565, 45.9097723 ] ] ] } }
+]
+}

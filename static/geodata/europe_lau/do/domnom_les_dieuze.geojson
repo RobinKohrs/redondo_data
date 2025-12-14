@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "domnom_les_dieuze",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Domnom-lès-Dieuze", "metric_roundness": 58.51, "metric_rectangularity": 73.53, "metric_mobile_fit": 50.72, "metric_aspect_ratio": 1.055, "metric_area_km2": 15.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.798222, 48.856601499999982 ], [ 6.8170515, 48.845136499999981 ], [ 6.8307142, 48.8548195 ], [ 6.844616, 48.855627 ], [ 6.8469147, 48.8582298 ], [ 6.846513, 48.869742499999987 ], [ 6.822995, 48.8754925 ], [ 6.798222, 48.856601499999982 ] ] ] } }
+]
+}

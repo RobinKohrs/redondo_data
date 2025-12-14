@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nogal_de_las_huertas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nogal de las Huertas", "metric_roundness": 60.75, "metric_rectangularity": 66.03, "metric_mobile_fit": 64.48, "metric_aspect_ratio": 0.918, "metric_area_km2": 24.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.6624615, 42.3959845 ], [ -4.6591595, 42.389258099999978 ], [ -4.6625578, 42.3800847 ], [ -4.642114, 42.381423 ], [ -4.63361, 42.367115 ], [ -4.628141, 42.3642658 ], [ -4.6226699, 42.3656973 ], [ -4.6223119, 42.3704367 ], [ -4.6070765, 42.380501 ], [ -4.6037405, 42.386828 ], [ -4.615178, 42.391379099999988 ], [ -4.6215576, 42.404993899999987 ], [ -4.630207, 42.4116055 ], [ -4.6624615, 42.3959845 ] ] ] } }
+]
+}

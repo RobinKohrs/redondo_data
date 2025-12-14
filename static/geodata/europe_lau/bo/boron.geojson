@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boron", "metric_roundness": 58.72, "metric_rectangularity": 74.91, "metric_mobile_fit": 32.15, "metric_aspect_ratio": 1.241, "metric_area_km2": 13.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0395985, 47.546235 ], [ 7.0277366, 47.561247099999989 ], [ 7.0216095, 47.5639685 ], [ 7.0075194, 47.5669429 ], [ 7.0020145, 47.564245499999984 ], [ 6.9975075, 47.559971 ], [ 6.9929676, 47.554389399999984 ], [ 6.9933599, 47.549379399999978 ], [ 7.0128885, 47.544489 ], [ 7.0237597, 47.5448465 ], [ 7.028221, 47.541584 ], [ 7.0395985, 47.546235 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mnisek_nad_hnilcom",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mníšek nad Hnilcom", "metric_roundness": 51.62, "metric_rectangularity": 71.58, "metric_mobile_fit": 45.43, "metric_aspect_ratio": 1.108, "metric_area_km2": 90.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8552701, 48.7883888 ], [ 20.8585898, 48.8002231 ], [ 20.8477013, 48.806239 ], [ 20.8401395, 48.815448 ], [ 20.829458, 48.8348648 ], [ 20.8292585, 48.848791 ], [ 20.750706, 48.833254 ], [ 20.7493811, 48.8177832 ], [ 20.765967, 48.799428 ], [ 20.769544, 48.7912855 ], [ 20.7738725, 48.7857238 ], [ 20.7864371, 48.787271399999987 ], [ 20.7943168, 48.783425 ], [ 20.8029397, 48.786791699999988 ], [ 20.860775, 48.782604 ], [ 20.8552701, 48.7883888 ] ] ] } }
+]
+}

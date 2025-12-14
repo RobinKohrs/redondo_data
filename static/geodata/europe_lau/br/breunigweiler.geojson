@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "breunigweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Breunigweiler", "metric_roundness": 48.81, "metric_rectangularity": 67.77, "metric_mobile_fit": 83.19, "metric_aspect_ratio": 0.731, "metric_area_km2": 7.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9454136, 49.570219699999988 ], [ 7.94779, 49.565015 ], [ 7.9582675, 49.555447 ], [ 7.966667, 49.5571995 ], [ 7.972505, 49.567677 ], [ 7.9693013, 49.57455419999998 ], [ 7.9711075, 49.5794975 ], [ 7.9454136, 49.570219699999988 ] ] ] } }
+]
+}

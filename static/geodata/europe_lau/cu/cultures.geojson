@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cultures",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cultures", "metric_roundness": 44.5, "metric_rectangularity": 67.17, "metric_mobile_fit": 72.64, "metric_aspect_ratio": 0.836, "metric_area_km2": 7.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3947652, 44.4840811 ], [ 3.3878523, 44.4849041 ], [ 3.3948952, 44.4941222 ], [ 3.3886473, 44.5000606 ], [ 3.3680995, 44.501961499999979 ], [ 3.3703687, 44.4870032 ], [ 3.3886974, 44.477784199999988 ], [ 3.396437, 44.479918499999989 ], [ 3.3947652, 44.4840811 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "waldrohrbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Waldrohrbach", "metric_roundness": 53.53, "metric_rectangularity": 73.07, "metric_mobile_fit": 84.91, "metric_aspect_ratio": 0.713, "metric_area_km2": 14.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.97377, 49.157467499999974 ], [ 7.9798071, 49.165065199999987 ], [ 7.975091, 49.173121 ], [ 7.975097, 49.17902 ], [ 7.983289, 49.184373 ], [ 7.9775603, 49.18389089999998 ], [ 7.9671891, 49.188348 ], [ 7.956184, 49.185438 ], [ 7.9513616, 49.1781473 ], [ 7.9539915, 49.167145599999984 ], [ 7.948018, 49.163859 ], [ 7.9482412, 49.1595343 ], [ 7.953564, 49.156551 ], [ 7.960151, 49.156025499999984 ], [ 7.97377, 49.157467499999974 ] ] ] } }
+]
+}

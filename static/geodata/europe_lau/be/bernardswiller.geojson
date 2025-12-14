@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bernardswiller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bernardswiller", "metric_roundness": 54.13, "metric_rectangularity": 75.19, "metric_mobile_fit": 24.31, "metric_aspect_ratio": 1.319, "metric_area_km2": 11.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.436712, 48.453343499999981 ], [ 7.433013, 48.452206 ], [ 7.4288085, 48.449514 ], [ 7.4330615, 48.4420245 ], [ 7.4424352, 48.4422974 ], [ 7.4543367, 48.436723 ], [ 7.4730311, 48.4392547 ], [ 7.4725624, 48.448061099999975 ], [ 7.4686576, 48.4500995 ], [ 7.4660104, 48.4589557 ], [ 7.44092, 48.453432 ], [ 7.436712, 48.453343499999981 ] ] ] } }
+]
+}

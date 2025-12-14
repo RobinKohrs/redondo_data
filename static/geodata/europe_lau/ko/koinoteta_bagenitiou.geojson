@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_bagenitiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βαγενιτίου", "metric_roundness": 47.16, "metric_rectangularity": 63.79, "metric_mobile_fit": 32.44, "metric_aspect_ratio": 1.238, "metric_area_km2": 4.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.725812, 39.653394 ], [ 20.7216125, 39.655948 ], [ 20.7148078, 39.6503261 ], [ 20.69769, 39.6458955 ], [ 20.7043343, 39.637083499999974 ], [ 20.720632, 39.638812 ], [ 20.7211868, 39.6467246 ], [ 20.7280235, 39.6508975 ], [ 20.725812, 39.653394 ] ] ] } }
+]
+}

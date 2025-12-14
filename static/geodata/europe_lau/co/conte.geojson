@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "conte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Conte", "metric_roundness": 63.02, "metric_rectangularity": 69.22, "metric_mobile_fit": 48.8, "metric_aspect_ratio": 1.075, "metric_area_km2": 6.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.996427, 46.757606499999987 ], [ 5.9953344, 46.7424197 ], [ 6.006974, 46.738675 ], [ 6.0103525, 46.741522099999983 ], [ 6.01541, 46.745784 ], [ 6.0241725, 46.7474035 ], [ 6.0252215, 46.7481155 ], [ 6.017106, 46.757212499999987 ], [ 6.0103525, 46.757397399999988 ], [ 5.998073, 46.7577335 ], [ 5.996427, 46.757606499999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_troncq",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Troncq", "metric_roundness": 45.89, "metric_rectangularity": 66.39, "metric_mobile_fit": -1.72, "metric_aspect_ratio": 1.58, "metric_area_km2": 10.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8892065, 49.190685499999987 ], [ 0.895993, 49.186274 ], [ 0.909411, 49.1838671 ], [ 0.9204112, 49.186980599999984 ], [ 0.9372865, 49.186296 ], [ 0.9357685, 49.191669499999989 ], [ 0.9385165, 49.1914775 ], [ 0.934774, 49.1999795 ], [ 0.9294896, 49.2042665 ], [ 0.9118245, 49.198756499999973 ], [ 0.8933365, 49.192541499999983 ], [ 0.8892065, 49.190685499999987 ] ] ] } }
+]
+}

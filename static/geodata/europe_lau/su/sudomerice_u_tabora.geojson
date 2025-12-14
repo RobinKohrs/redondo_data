@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sudomerice_u_tabora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sudoměřice u Tábora", "metric_roundness": 37.66, "metric_rectangularity": 62.67, "metric_mobile_fit": 99.03, "metric_aspect_ratio": 0.572, "metric_area_km2": 8.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6643676, 49.495537199999987 ], [ 14.6656876, 49.5007733 ], [ 14.6720495, 49.501754 ], [ 14.6729319, 49.5059708 ], [ 14.668568, 49.509202499999979 ], [ 14.6671467, 49.519601 ], [ 14.6552165, 49.519615 ], [ 14.6509615, 49.518108399999981 ], [ 14.6548108, 49.514035399999976 ], [ 14.6525915, 49.505726 ], [ 14.6480082, 49.497023 ], [ 14.648254, 49.491331 ], [ 14.6643676, 49.495537199999987 ] ] ] } }
+]
+}

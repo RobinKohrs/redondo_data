@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eringes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Éringes", "metric_roundness": 45.29, "metric_rectangularity": 56.19, "metric_mobile_fit": 52.26, "metric_aspect_ratio": 1.04, "metric_area_km2": 13.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4518083, 47.5968931 ], [ 4.4404272, 47.5985389 ], [ 4.446103, 47.591256 ], [ 4.4644674, 47.5817276 ], [ 4.458791, 47.575908499999983 ], [ 4.4746635, 47.570534 ], [ 4.475665, 47.5739345 ], [ 4.481104, 47.578558 ], [ 4.4831855, 47.584008 ], [ 4.483328, 47.5875595 ], [ 4.4860475, 47.593943 ], [ 4.4868425, 47.597167499999983 ], [ 4.4692895, 47.60064 ], [ 4.4518083, 47.5968931 ] ] ] } }
+]
+}

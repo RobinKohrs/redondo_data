@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jakubcovice_nad_odrou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jakubčovice nad Odrou", "metric_roundness": 45.86, "metric_rectangularity": 66.06, "metric_mobile_fit": 83.87, "metric_aspect_ratio": 0.724, "metric_area_km2": 8.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.765586, 49.6920765 ], [ 17.7718026, 49.68793669999998 ], [ 17.7704407, 49.6817396 ], [ 17.7768882, 49.6770448 ], [ 17.7967515, 49.6923278 ], [ 17.795859, 49.6961905 ], [ 17.7808557, 49.6999286 ], [ 17.778594, 49.7049005 ], [ 17.7721941, 49.702615 ], [ 17.7724594, 49.697169099999989 ], [ 17.7690445, 49.693367 ], [ 17.765586, 49.6920765 ] ] ] } }
+]
+}

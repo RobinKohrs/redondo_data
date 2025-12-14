@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kleitoros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κλείτορος", "metric_roundness": 63.41, "metric_rectangularity": 72.43, "metric_mobile_fit": 36.52, "metric_aspect_ratio": 1.197, "metric_area_km2": 12.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0382595, 37.869431499999983 ], [ 22.0473144, 37.873633299999987 ], [ 22.0591555, 37.870578 ], [ 22.0639279, 37.885029199999977 ], [ 22.0548861, 37.8938813 ], [ 22.0477894, 37.8962557 ], [ 22.0252975, 37.893519 ], [ 22.0282722, 37.8876933 ], [ 22.0232355, 37.878570499999988 ], [ 22.0382595, 37.869431499999983 ] ] ] } }
+]
+}

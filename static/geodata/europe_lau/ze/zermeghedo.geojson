@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zermeghedo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zermeghedo", "metric_roundness": 54.67, "metric_rectangularity": 83.37, "metric_mobile_fit": 18.22, "metric_aspect_ratio": 1.38, "metric_area_km2": 6.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3891085, 45.4852925 ], [ 11.3594615, 45.4799145 ], [ 11.3594187, 45.47377 ], [ 11.3656176, 45.4682998 ], [ 11.3782018, 45.4703255 ], [ 11.3928695, 45.478390499999989 ], [ 11.3891085, 45.4852925 ] ] ] } }
+]
+}

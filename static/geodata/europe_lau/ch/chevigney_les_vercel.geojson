@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chevigney_les_vercel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chevigney-lès-Vercel", "metric_roundness": 34.46, "metric_rectangularity": 71.2, "metric_mobile_fit": 97.68, "metric_aspect_ratio": 0.586, "metric_area_km2": 11.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3842952, 47.161372799999988 ], [ 6.380971, 47.1670795 ], [ 6.3583205, 47.182849799999985 ], [ 6.3526185, 47.183519499999989 ], [ 6.3545718, 47.162729399999989 ], [ 6.3762685, 47.1467515 ], [ 6.3815075, 47.151432 ], [ 6.3842952, 47.161372799999988 ] ] ] } }
+]
+}

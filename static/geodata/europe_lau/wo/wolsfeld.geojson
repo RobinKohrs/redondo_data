@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wolsfeld",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wolsfeld", "metric_roundness": 37.68, "metric_rectangularity": 65.08, "metric_mobile_fit": -43.71, "metric_aspect_ratio": 2.0, "metric_area_km2": 21.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5054335, 49.9142915 ], [ 6.4979522, 49.9107075 ], [ 6.471148, 49.916777 ], [ 6.4665501, 49.91404129999998 ], [ 6.4573431, 49.917546699999988 ], [ 6.4435156, 49.9095929 ], [ 6.430886, 49.906442 ], [ 6.431607, 49.90498 ], [ 6.435186, 49.8972762 ], [ 6.4414495, 49.892834 ], [ 6.4525072, 49.8970649 ], [ 6.4925985, 49.898005499999975 ], [ 6.4966641, 49.9024779 ], [ 6.507612, 49.905322 ], [ 6.5054335, 49.9142915 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osadka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Osádka", "metric_roundness": 67.51, "metric_rectangularity": 79.03, "metric_mobile_fit": 30.42, "metric_aspect_ratio": 1.258, "metric_area_km2": 9.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.384508, 49.191994499999979 ], [ 19.379652, 49.190884499999989 ], [ 19.3777165, 49.184615199999989 ], [ 19.3849255, 49.1754005 ], [ 19.3920156, 49.1729646 ], [ 19.409119, 49.175197 ], [ 19.4143493, 49.182247699999984 ], [ 19.413495, 49.187353499999986 ], [ 19.384508, 49.191994499999979 ] ] ] } }
+]
+}

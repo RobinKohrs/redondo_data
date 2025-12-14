@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_cabanasse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Cabanasse", "metric_roundness": 21.74, "metric_rectangularity": 43.21, "metric_mobile_fit": 5.77, "metric_aspect_ratio": 1.505, "metric_area_km2": 5.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1055601, 42.499949199999982 ], [ 2.1162831, 42.499747 ], [ 2.1314655, 42.504201 ], [ 2.1237215, 42.510983 ], [ 2.1239301, 42.5081133 ], [ 2.1206914, 42.506771 ], [ 2.1160567, 42.509394 ], [ 2.116112, 42.512716 ], [ 2.109474, 42.5142835 ], [ 2.1088484, 42.50800659999998 ], [ 2.0808505, 42.4935225 ], [ 2.0823262, 42.489486199999988 ], [ 2.089072, 42.4915575 ], [ 2.1055601, 42.499949199999982 ] ] ] } }
+]
+}

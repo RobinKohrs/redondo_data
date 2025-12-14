@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "verceia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Verceia", "metric_roundness": 30.31, "metric_rectangularity": 58.66, "metric_mobile_fit": -19.58, "metric_aspect_ratio": 1.758, "metric_area_km2": 23.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4248975, 46.189902499999988 ], [ 9.4646035, 46.18011 ], [ 9.4764855, 46.1928035 ], [ 9.4915985, 46.1952351 ], [ 9.5043386, 46.2015141 ], [ 9.5075751, 46.2126585 ], [ 9.4587369, 46.206175599999987 ], [ 9.4288065, 46.195688499999982 ], [ 9.4248975, 46.189902499999988 ] ] ] } }
+]
+}

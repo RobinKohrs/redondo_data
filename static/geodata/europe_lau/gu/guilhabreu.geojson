@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guilhabreu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guilhabreu", "metric_roundness": 54.09, "metric_rectangularity": 69.95, "metric_mobile_fit": 62.09, "metric_aspect_ratio": 0.942, "metric_area_km2": 11.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6354145, 41.2792475 ], [ -8.6256092, 41.284843099999989 ], [ -8.621777, 41.295369 ], [ -8.630931, 41.3120775 ], [ -8.6361869, 41.3068685 ], [ -8.662923, 41.2938145 ], [ -8.6354145, 41.2792475 ] ] ] } }
+]
+}

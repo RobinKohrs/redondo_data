@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orsanco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orsanco", "metric_roundness": 45.78, "metric_rectangularity": 68.28, "metric_mobile_fit": 36.19, "metric_aspect_ratio": 1.201, "metric_area_km2": 18.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.091181, 43.27539 ], [ -1.0759798, 43.2728889 ], [ -1.0614983, 43.281406599999983 ], [ -1.0478875, 43.2828685 ], [ -1.0443637, 43.28504 ], [ -1.0374425, 43.2999435 ], [ -1.0432233, 43.3051611 ], [ -1.060785, 43.305864 ], [ -1.0740379, 43.2995484 ], [ -1.0772804, 43.2936179 ], [ -1.084493, 43.2919528 ], [ -1.09183, 43.2759535 ], [ -1.091181, 43.27539 ] ] ] } }
+]
+}

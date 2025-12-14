@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marfa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Márfa", "metric_roundness": 26.82, "metric_rectangularity": 68.26, "metric_mobile_fit": 93.1, "metric_aspect_ratio": 0.631, "metric_area_km2": 7.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.1976018, 45.8697253 ], [ 18.2021288, 45.872747499999988 ], [ 18.203343, 45.882749499999989 ], [ 18.1933332, 45.8814497 ], [ 18.191152, 45.87611 ], [ 18.1738915, 45.8566065 ], [ 18.1748655, 45.850273 ], [ 18.188705, 45.850508 ], [ 18.1976018, 45.8697253 ] ] ] } }
+]
+}

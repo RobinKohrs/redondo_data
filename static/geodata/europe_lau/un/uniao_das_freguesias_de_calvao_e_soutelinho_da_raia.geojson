@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_calvao_e_soutelinho_da_raia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Calvão e Soutelinho da Raia", "metric_roundness": 45.63, "metric_rectangularity": 58.13, "metric_mobile_fit": 46.89, "metric_aspect_ratio": 1.094, "metric_area_km2": 50.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.516567, 41.79484 ], [ -7.5278198, 41.8012684 ], [ -7.5425181, 41.820302 ], [ -7.5413825, 41.8370895 ], [ -7.5738023, 41.8304411 ], [ -7.5985561, 41.8328668 ], [ -7.611815, 41.8294755 ], [ -7.6053194, 41.824436399999982 ], [ -7.5938744, 41.8242374 ], [ -7.5810393, 41.8123761 ], [ -7.5804199, 41.8050606 ], [ -7.58756, 41.797651699999989 ], [ -7.590681, 41.786891499999975 ], [ -7.58689, 41.7839485 ], [ -7.5648221, 41.783064599999989 ], [ -7.5417399, 41.7721666 ], [ -7.537154, 41.7746965 ], [ -7.516567, 41.79484 ] ] ] } }
+]
+}

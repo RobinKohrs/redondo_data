@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_lophon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λόφων", "metric_roundness": 39.06, "metric_rectangularity": 70.85, "metric_mobile_fit": -22.61, "metric_aspect_ratio": 1.789, "metric_area_km2": 35.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6146663, 40.8032972 ], [ 21.5640362, 40.8171363 ], [ 21.5476165, 40.8190585 ], [ 21.55114, 40.8086184 ], [ 21.5457955, 40.804142 ], [ 21.5689896, 40.7904618 ], [ 21.5746675, 40.782778 ], [ 21.6251027, 40.778909 ], [ 21.635669, 40.791501 ], [ 21.6406599, 40.7983802 ], [ 21.6314735, 40.8064335 ], [ 21.6146663, 40.8032972 ] ] ] } }
+]
+}

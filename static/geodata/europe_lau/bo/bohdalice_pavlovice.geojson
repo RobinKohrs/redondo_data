@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bohdalice_pavlovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bohdalice-Pavlovice", "metric_roundness": 36.32, "metric_rectangularity": 58.03, "metric_mobile_fit": 67.27, "metric_aspect_ratio": 0.89, "metric_area_km2": 11.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.0413005, 49.227866499999983 ], [ 17.029553, 49.2375165 ], [ 17.0291624, 49.2323354 ], [ 17.0235474, 49.2312355 ], [ 17.0252366, 49.2248729 ], [ 17.0220886, 49.21665 ], [ 17.0122828, 49.209854 ], [ 17.009399, 49.204589 ], [ 17.0244733, 49.2062599 ], [ 17.0436066, 49.2130715 ], [ 17.0542575, 49.227290499999981 ], [ 17.0413005, 49.227866499999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sceaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sceaux", "metric_roundness": 64.21, "metric_rectangularity": 76.71, "metric_mobile_fit": 38.43, "metric_aspect_ratio": 1.178, "metric_area_km2": 8.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.279543, 48.775303 ], [ 2.2858475, 48.7733207 ], [ 2.290255, 48.7666 ], [ 2.3054675, 48.769133799999985 ], [ 2.312438, 48.7721635 ], [ 2.3131528, 48.7763949 ], [ 2.3077901, 48.7785713 ], [ 2.309698, 48.7848975 ], [ 2.303309, 48.785399499999968 ], [ 2.292698, 48.784094 ], [ 2.287471, 48.782549 ], [ 2.2819845, 48.783164 ], [ 2.279578, 48.782487499999981 ], [ 2.279543, 48.775303 ] ] ] } }
+]
+}

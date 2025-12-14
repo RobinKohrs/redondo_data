@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "avressieux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Avressieux", "metric_roundness": 51.11, "metric_rectangularity": 73.22, "metric_mobile_fit": 24.83, "metric_aspect_ratio": 1.314, "metric_area_km2": 15.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6699129, 45.5700223 ], [ 5.6844275, 45.5603804 ], [ 5.711679, 45.559016 ], [ 5.7251295, 45.5656715 ], [ 5.7078533, 45.5730711 ], [ 5.691644, 45.588427 ], [ 5.68693, 45.587893 ], [ 5.683047, 45.586253 ], [ 5.6813605, 45.5848625 ], [ 5.681391, 45.582205499999986 ], [ 5.679091, 45.579167499999983 ], [ 5.676725, 45.578203 ], [ 5.672269, 45.578741499999985 ], [ 5.6699129, 45.5700223 ] ] ] } }
+]
+}

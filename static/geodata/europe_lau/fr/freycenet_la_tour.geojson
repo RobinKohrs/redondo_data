@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "freycenet_la_tour",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Freycenet-la-Tour", "metric_roundness": 54.62, "metric_rectangularity": 67.07, "metric_mobile_fit": 37.44, "metric_aspect_ratio": 1.188, "metric_area_km2": 16.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1005639, 44.939171799999983 ], [ 4.085611, 44.941828 ], [ 4.0668028, 44.9463705 ], [ 4.0599911, 44.953394799999984 ], [ 4.0583053, 44.947202299999987 ], [ 4.0494395, 44.946639499999989 ], [ 4.0470393, 44.943700699999987 ], [ 4.0480319, 44.9309636 ], [ 4.0593784, 44.9243801 ], [ 4.072736, 44.922534 ], [ 4.0889045, 44.9208485 ], [ 4.0819504, 44.9282447 ], [ 4.101666, 44.9343395 ], [ 4.1005639, 44.939171799999983 ] ] ] } }
+]
+}

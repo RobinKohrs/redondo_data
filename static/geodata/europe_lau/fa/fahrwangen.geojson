@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fahrwangen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fahrwangen", "metric_roundness": 35.28, "metric_rectangularity": 51.35, "metric_mobile_fit": 97.24, "metric_aspect_ratio": 0.59, "metric_area_km2": 9.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2328705, 47.2738935 ], [ 8.23464, 47.272919 ], [ 8.2423885, 47.2723075 ], [ 8.2422885, 47.277496299999981 ], [ 8.2497046, 47.2850124 ], [ 8.2585955, 47.287197 ], [ 8.254659, 47.297776 ], [ 8.2348225, 47.307323499999988 ], [ 8.2322238, 47.305009 ], [ 8.2354956, 47.2986504 ], [ 8.2370625, 47.2822404 ], [ 8.228132, 47.277893 ], [ 8.2281925, 47.273053 ], [ 8.2328705, 47.2738935 ] ] ] } }
+]
+}

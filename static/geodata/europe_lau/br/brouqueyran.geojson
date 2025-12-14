@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brouqueyran",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brouqueyran", "metric_roundness": 41.19, "metric_rectangularity": 58.37, "metric_mobile_fit": 69.74, "metric_aspect_ratio": 0.865, "metric_area_km2": 11.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.15727, 44.489199 ], [ -0.1768363, 44.491555299999987 ], [ -0.1799761, 44.503323 ], [ -0.188275, 44.508149 ], [ -0.1909535, 44.4959296 ], [ -0.1957215, 44.488399 ], [ -0.1917299, 44.4814077 ], [ -0.1727815, 44.4754025 ], [ -0.1596605, 44.475954 ], [ -0.1583875, 44.479807 ], [ -0.158716, 44.481833 ], [ -0.156009, 44.484584499999983 ], [ -0.15727, 44.489199 ] ] ] } }
+]
+}

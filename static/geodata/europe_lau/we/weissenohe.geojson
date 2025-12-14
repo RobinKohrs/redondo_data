@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "weissenohe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Weißenohe", "metric_roundness": 25.47, "metric_rectangularity": 53.68, "metric_mobile_fit": -36.69, "metric_aspect_ratio": 1.929, "metric_area_km2": 11.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.259232, 49.6201653 ], [ 11.2725888, 49.6173777 ], [ 11.287601, 49.618646 ], [ 11.292655, 49.616118499999985 ], [ 11.2989339, 49.621248599999987 ], [ 11.2972735, 49.627368 ], [ 11.2800211, 49.6264539 ], [ 11.2771596, 49.6336499 ], [ 11.2646795, 49.630279799999983 ], [ 11.2552942, 49.6366706 ], [ 11.2468778, 49.633637 ], [ 11.2360015, 49.6372475 ], [ 11.259232, 49.6201653 ] ] ] } }
+]
+}

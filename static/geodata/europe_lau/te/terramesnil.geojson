@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "terramesnil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Terramesnil", "metric_roundness": 56.74, "metric_rectangularity": 62.17, "metric_mobile_fit": 61.52, "metric_aspect_ratio": 0.947, "metric_area_km2": 5.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.395577, 50.107802 ], [ 2.3948825, 50.1101895 ], [ 2.3903743, 50.106968199999983 ], [ 2.3754525, 50.109255 ], [ 2.3790078, 50.103810399999986 ], [ 2.372014, 50.101832499999979 ], [ 2.3692205, 50.0988715 ], [ 2.3851967, 50.0911153 ], [ 2.394228, 50.0960566 ], [ 2.39739, 50.1064995 ], [ 2.395577, 50.107802 ] ] ] } }
+]
+}

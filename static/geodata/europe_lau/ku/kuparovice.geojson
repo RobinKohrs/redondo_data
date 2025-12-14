@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kuparovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kupařovice", "metric_roundness": 28.92, "metric_rectangularity": 58.28, "metric_mobile_fit": 27.31, "metric_aspect_ratio": 1.289, "metric_area_km2": 7.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4575904, 49.0324373 ], [ 16.45322, 49.029089 ], [ 16.4633075, 49.0247205 ], [ 16.4735394, 49.036166399999985 ], [ 16.501404, 49.042211 ], [ 16.4976213, 49.0473113 ], [ 16.4914365, 49.049218 ], [ 16.480287, 49.0485432 ], [ 16.4752683, 49.043427699999981 ], [ 16.4712095, 49.044759499999984 ], [ 16.4638069, 49.0356304 ], [ 16.456645, 49.0379165 ], [ 16.4575904, 49.0324373 ] ] ] } }
+]
+}

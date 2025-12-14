@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vade_sao_tome",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vade (São Tomé)", "metric_roundness": 46.45, "metric_rectangularity": 70.59, "metric_mobile_fit": -10.28, "metric_aspect_ratio": 1.665, "metric_area_km2": 2.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.398917, 41.7870145 ], [ -8.414376, 41.7889185 ], [ -8.4166295, 41.7836295 ], [ -8.4087652, 41.7786091 ], [ -8.393605, 41.780048499999985 ], [ -8.398917, 41.7870145 ] ] ] } }
+]
+}

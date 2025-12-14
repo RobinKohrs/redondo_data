@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_nogueiro_e_tenoes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Nogueiró e Tenões", "metric_roundness": 46.34, "metric_rectangularity": 62.94, "metric_mobile_fit": 81.21, "metric_aspect_ratio": 0.75, "metric_area_km2": 7.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.3731754, 41.542901099999987 ], [ -8.3704365, 41.5521295 ], [ -8.3755585, 41.55846949999998 ], [ -8.379145, 41.560102 ], [ -8.3814305, 41.5641075 ], [ -8.3950225, 41.5570525 ], [ -8.4016665, 41.551278 ], [ -8.3994838, 41.548386699999988 ], [ -8.3882611, 41.546671 ], [ -8.3772695, 41.5329605 ], [ -8.374379, 41.534357 ], [ -8.3714425, 41.5352415 ], [ -8.3731754, 41.542901099999987 ] ] ] } }
+]
+}

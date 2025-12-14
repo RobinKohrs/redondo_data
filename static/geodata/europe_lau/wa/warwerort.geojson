@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "warwerort",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Warwerort", "metric_roundness": 39.49, "metric_rectangularity": 55.11, "metric_mobile_fit": 72.83, "metric_aspect_ratio": 0.834, "metric_area_km2": 12.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9245346, 54.132485 ], [ 8.932191, 54.1237705 ], [ 8.9484044, 54.1274981 ], [ 8.9519856, 54.1310107 ], [ 8.951209, 54.135050499999984 ], [ 8.9308447, 54.141708799999975 ], [ 8.9214866, 54.151440299999983 ], [ 8.921516, 54.1568755 ], [ 8.9160511, 54.1498978 ], [ 8.9118475, 54.149007 ], [ 8.9120318, 54.1418945 ], [ 8.9048458, 54.137712 ], [ 8.908022, 54.135111 ], [ 8.9245346, 54.132485 ] ] ] } }
+]
+}

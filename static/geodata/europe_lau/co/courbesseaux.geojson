@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courbesseaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courbesseaux", "metric_roundness": 44.9, "metric_rectangularity": 72.69, "metric_mobile_fit": -4.9, "metric_aspect_ratio": 1.611, "metric_area_km2": 14.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.371307, 48.6873875 ], [ 6.3829359, 48.682747099999986 ], [ 6.392214, 48.6828585 ], [ 6.4018859, 48.6816335 ], [ 6.4242505, 48.686304 ], [ 6.4290548, 48.689406399999989 ], [ 6.425573, 48.694134 ], [ 6.414797, 48.705288 ], [ 6.3978648, 48.6978742 ], [ 6.3782445, 48.694404299999981 ], [ 6.3719865, 48.688264 ], [ 6.371307, 48.6873875 ] ] ] } }
+]
+}

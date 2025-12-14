@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_de_freguesias_de_freitas_e_vila_cova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União de freguesias de Freitas e Vila Cova", "metric_roundness": 45.23, "metric_rectangularity": 56.19, "metric_mobile_fit": 36.84, "metric_aspect_ratio": 1.194, "metric_area_km2": 20.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.2350645, 41.5166837 ], [ -8.235311, 41.503471 ], [ -8.2227615, 41.498402 ], [ -8.2153386, 41.5037217 ], [ -8.1998374, 41.501562299999982 ], [ -8.173474, 41.511887 ], [ -8.1821495, 41.5241885 ], [ -8.1948581, 41.5246822 ], [ -8.2035551, 41.5194119 ], [ -8.2098779, 41.519822 ], [ -8.2289805, 41.537175499999982 ], [ -8.2302645, 41.5294185 ], [ -8.2350645, 41.5166837 ] ] ] } }
+]
+}

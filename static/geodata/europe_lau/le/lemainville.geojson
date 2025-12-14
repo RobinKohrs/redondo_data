@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lemainville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lemainville", "metric_roundness": 38.7, "metric_rectangularity": 50.96, "metric_mobile_fit": 24.71, "metric_aspect_ratio": 1.315, "metric_area_km2": 10.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1710108, 48.499116699999988 ], [ 6.1861708, 48.496066899999988 ], [ 6.1957002, 48.5001608 ], [ 6.2058512, 48.497003399999983 ], [ 6.2121575, 48.498156 ], [ 6.212237, 48.500999699999987 ], [ 6.1966873, 48.5088489 ], [ 6.1943035, 48.521368 ], [ 6.1779757, 48.509645399999982 ], [ 6.1710108, 48.506851399999981 ], [ 6.162002, 48.5032375 ], [ 6.164261, 48.501715 ], [ 6.166774, 48.499969 ], [ 6.1710108, 48.499116699999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "abaucourt_hautecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Abaucourt-Hautecourt", "metric_roundness": 37.78, "metric_rectangularity": 57.86, "metric_mobile_fit": -21.52, "metric_aspect_ratio": 1.778, "metric_area_km2": 22.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5749654, 49.2015781 ], [ 5.561627, 49.213712 ], [ 5.5482697, 49.2068961 ], [ 5.5467218, 49.2031067 ], [ 5.5289275, 49.204139 ], [ 5.5278774, 49.200548 ], [ 5.5152301, 49.201624799999976 ], [ 5.5084965, 49.19728 ], [ 5.5124633, 49.189383899999982 ], [ 5.519456, 49.185012499999985 ], [ 5.5242101, 49.1881081 ], [ 5.5384063, 49.1872493 ], [ 5.5442578, 49.1913627 ], [ 5.5683855, 49.186931 ], [ 5.5783142, 49.1878284 ], [ 5.586577, 49.1962675 ], [ 5.5749654, 49.2015781 ] ] ] } }
+]
+}

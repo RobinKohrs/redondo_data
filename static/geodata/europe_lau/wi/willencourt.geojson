@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "willencourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Willencourt", "metric_roundness": 59.0, "metric_rectangularity": 74.15, "metric_mobile_fit": 46.44, "metric_aspect_ratio": 1.098, "metric_area_km2": 5.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.0753723, 50.232671599999975 ], [ 2.0913901, 50.238236 ], [ 2.08478, 50.2446525 ], [ 2.0778175, 50.2487315 ], [ 2.0663484, 50.241161399999989 ], [ 2.0652208, 50.2398184 ], [ 2.0638155, 50.234449499999975 ], [ 2.0679505, 50.232977499999983 ], [ 2.0753723, 50.232671599999975 ] ] ] } }
+]
+}

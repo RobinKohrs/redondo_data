@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aujargues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aujargues", "metric_roundness": 58.81, "metric_rectangularity": 73.32, "metric_mobile_fit": 49.08, "metric_aspect_ratio": 1.072, "metric_area_km2": 13.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1141576, 43.7981942 ], [ 4.1118026, 43.7883445 ], [ 4.1064368, 43.786887599999986 ], [ 4.1072375, 43.7838143 ], [ 4.1144525, 43.7798562 ], [ 4.137105, 43.7780295 ], [ 4.1470765, 43.793455 ], [ 4.1455815, 43.8054025 ], [ 4.1199545, 43.802976 ], [ 4.1141576, 43.7981942 ] ] ] } }
+]
+}

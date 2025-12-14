@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_sao_joao_da_ribeira_e_ribeira_de_sao_joao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de São João da Ribeira e Ribeira de São João", "metric_roundness": 53.66, "metric_rectangularity": 61.13, "metric_mobile_fit": 36.78, "metric_aspect_ratio": 1.195, "metric_area_km2": 33.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.8363096, 39.273711 ], [ -8.8321435, 39.269575499999988 ], [ -8.8303533, 39.2757037 ], [ -8.8323975, 39.2818756 ], [ -8.8403615, 39.2882648 ], [ -8.8514525, 39.30861 ], [ -8.859947, 39.3171778 ], [ -8.8696901, 39.315193899999983 ], [ -8.8797755, 39.31713 ], [ -8.8770782, 39.3093194 ], [ -8.8897363, 39.296646 ], [ -8.8996225, 39.2975427 ], [ -8.903835, 39.2836315 ], [ -8.8824155, 39.2710785 ], [ -8.8363096, 39.273711 ] ] ] } }
+]
+}

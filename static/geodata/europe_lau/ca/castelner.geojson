@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castelner",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castelner", "metric_roundness": 36.06, "metric_rectangularity": 63.53, "metric_mobile_fit": 43.16, "metric_aspect_ratio": 1.131, "metric_area_km2": 10.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.5927104, 43.5596156 ], [ -0.6017571, 43.5544908 ], [ -0.6014583, 43.5481021 ], [ -0.6148955, 43.544723 ], [ -0.614372, 43.5377135 ], [ -0.5973697, 43.538721799999983 ], [ -0.5935381, 43.5433963 ], [ -0.5739116, 43.5517451 ], [ -0.5670755, 43.5582155 ], [ -0.5816405, 43.5661245 ], [ -0.585203, 43.566622 ], [ -0.5894365, 43.56836 ], [ -0.5927104, 43.5596156 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santo_stefano_in_aspromonte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santo Stefano in Aspromonte", "metric_roundness": 26.61, "metric_rectangularity": 69.42, "metric_mobile_fit": -51.29, "metric_aspect_ratio": 2.075, "metric_area_km2": 28.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.843125, 38.1796572 ], [ 15.834141, 38.1830468 ], [ 15.8200702, 38.1783147 ], [ 15.8114785, 38.1836048 ], [ 15.7837845, 38.1912045 ], [ 15.7804222, 38.1848835 ], [ 15.772442, 38.1853615 ], [ 15.7733811, 38.1757284 ], [ 15.7695395, 38.167822 ], [ 15.8014508, 38.1628098 ], [ 15.8206658, 38.166497799999988 ], [ 15.843125, 38.1599357 ], [ 15.8523742, 38.1544436 ], [ 15.864399, 38.152724499999984 ], [ 15.8711215, 38.156831 ], [ 15.848897, 38.1774795 ], [ 15.843125, 38.1796572 ] ] ] } }
+]
+}

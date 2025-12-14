@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hochstatten",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hochstätten", "metric_roundness": 33.06, "metric_rectangularity": 62.33, "metric_mobile_fit": -53.43, "metric_aspect_ratio": 2.097, "metric_area_km2": 13.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.81992, 49.7709635 ], [ 7.795127, 49.7579065 ], [ 7.8230515, 49.7523719 ], [ 7.8386145, 49.756315 ], [ 7.8419499, 49.761232199999988 ], [ 7.8599075, 49.765752 ], [ 7.8550945, 49.7723285 ], [ 7.81992, 49.7709635 ] ] ] } }
+]
+}

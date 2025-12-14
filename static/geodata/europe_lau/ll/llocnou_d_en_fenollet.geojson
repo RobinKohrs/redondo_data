@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "llocnou_d_en_fenollet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Llocnou d'En Fenollet", "metric_roundness": 49.39, "metric_rectangularity": 80.77, "metric_mobile_fit": 66.73, "metric_aspect_ratio": 0.895, "metric_area_km2": 2.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.4659725, 39.0031882 ], [ -0.459638, 39.0044325 ], [ -0.4694195, 39.018955 ], [ -0.4778027, 39.0149249 ], [ -0.473913, 39.0059885 ], [ -0.4659725, 39.0031882 ] ] ] } }
+]
+}

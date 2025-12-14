@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "looze",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Looze", "metric_roundness": 34.51, "metric_rectangularity": 56.31, "metric_mobile_fit": 96.6, "metric_aspect_ratio": 0.597, "metric_area_km2": 14.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4424881, 48.0124071 ], [ 3.4427, 48.0175288 ], [ 3.4515945, 48.024148499999988 ], [ 3.4382371, 48.017330099999981 ], [ 3.4231688, 48.0009729 ], [ 3.4276405, 47.989791599999982 ], [ 3.434285, 47.982125299999986 ], [ 3.439112, 47.9817275 ], [ 3.446774, 47.9830495 ], [ 3.4609875, 47.986825499999981 ], [ 3.4424881, 48.0124071 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vahl_les_benestroff",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vahl-lès-Bénestroff", "metric_roundness": 43.53, "metric_rectangularity": 58.94, "metric_mobile_fit": 86.44, "metric_aspect_ratio": 0.698, "metric_area_km2": 21.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7675485, 48.928958 ], [ 6.7632918, 48.9257534 ], [ 6.7732043, 48.91254 ], [ 6.777642, 48.8951865 ], [ 6.793606, 48.8995235 ], [ 6.7929289, 48.905855599999988 ], [ 6.8121435, 48.924744 ], [ 6.8045173, 48.928966199999984 ], [ 6.8039915, 48.932854 ], [ 6.7893505, 48.9411695 ], [ 6.784977, 48.937336499999979 ], [ 6.7797195, 48.9313225 ], [ 6.7754045, 48.928972 ], [ 6.7737455, 48.927142499999988 ], [ 6.7706225, 48.9297435 ], [ 6.7675485, 48.928958 ] ] ] } }
+]
+}

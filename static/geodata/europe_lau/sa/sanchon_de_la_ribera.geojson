@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sanchon_de_la_ribera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sanchón de la Ribera", "metric_roundness": 50.17, "metric_rectangularity": 62.81, "metric_mobile_fit": 77.58, "metric_aspect_ratio": 0.787, "metric_area_km2": 53.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.4374428, 41.080645699999977 ], [ -6.4109225, 41.0665135 ], [ -6.4045145, 41.064976 ], [ -6.3980135, 41.063987499999989 ], [ -6.394359, 41.064632499999981 ], [ -6.3823747, 41.086849 ], [ -6.366042, 41.087574 ], [ -6.36422, 41.128448599999984 ], [ -6.368061, 41.137066 ], [ -6.401966, 41.1408235 ], [ -6.4051115, 41.101764700000011 ], [ -6.4288695, 41.097428699999988 ], [ -6.444435, 41.0886535 ], [ -6.4374428, 41.080645699999977 ] ] ] } }
+]
+}

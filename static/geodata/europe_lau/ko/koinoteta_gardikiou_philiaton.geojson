@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_gardikiou_philiaton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαρδικίου Φιλιατών", "metric_roundness": 36.99, "metric_rectangularity": 58.19, "metric_mobile_fit": 98.46, "metric_aspect_ratio": 0.547, "metric_area_km2": 11.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.436852, 39.720213 ], [ 20.4438039, 39.7095779 ], [ 20.4403024, 39.7014804 ], [ 20.4399295, 39.680976499999986 ], [ 20.4580305, 39.6932676 ], [ 20.4601626, 39.7000898 ], [ 20.4649025, 39.702406 ], [ 20.4595632, 39.711440499999988 ], [ 20.465321, 39.718353 ], [ 20.4523579, 39.7237203 ], [ 20.434928, 39.721416 ], [ 20.436852, 39.720213 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "andrate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Andrate", "metric_roundness": 23.25, "metric_rectangularity": 49.9, "metric_mobile_fit": 81.31, "metric_aspect_ratio": 0.376, "metric_area_km2": 19.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8826517, 45.570595 ], [ 7.8807916, 45.557275399999988 ], [ 7.8746555, 45.5504355 ], [ 7.869046, 45.533953 ], [ 7.8679215, 45.525123299999983 ], [ 7.8841175, 45.5201945 ], [ 7.8973394, 45.517897699999985 ], [ 7.9024275, 45.526637 ], [ 7.8825365, 45.5339033 ], [ 7.9015993, 45.5590548 ], [ 7.8952785, 45.5712238 ], [ 7.89398, 45.582232 ], [ 7.8826517, 45.570595 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_de_freguesias_de_rochoso_e_monte_margarida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União de freguesias de Rochoso e Monte Margarida", "metric_roundness": 56.69, "metric_rectangularity": 70.74, "metric_mobile_fit": 57.53, "metric_aspect_ratio": 0.987, "metric_area_km2": 40.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.1153565, 40.497979 ], [ -7.107322, 40.498095799999987 ], [ -7.0986974, 40.489622299999986 ], [ -7.0830209, 40.4917948 ], [ -7.0600735, 40.487416499999988 ], [ -7.0650149, 40.4967543 ], [ -7.0628666, 40.5216063 ], [ -7.0770925, 40.5401165 ], [ -7.0814353, 40.5356641 ], [ -7.0949705, 40.53697649999998 ], [ -7.110655, 40.537501299999988 ], [ -7.1196607, 40.5344845 ], [ -7.1237497, 40.529675 ], [ -7.123157, 40.5213363 ], [ -7.1285082, 40.5140289 ], [ -7.1209255, 40.508973 ], [ -7.115431, 40.4993915 ], [ -7.1153565, 40.497979 ] ] ] } }
+]
+}

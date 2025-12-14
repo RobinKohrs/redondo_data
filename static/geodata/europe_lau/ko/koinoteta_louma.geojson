@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_louma",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λούμα", "metric_roundness": 32.81, "metric_rectangularity": 67.59, "metric_mobile_fit": 84.58, "metric_aspect_ratio": 0.717, "metric_area_km2": 9.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.717038, 35.339127499999989 ], [ 25.7100905, 35.3271671 ], [ 25.6975304, 35.314789399999981 ], [ 25.697954, 35.302248499999983 ], [ 25.7145265, 35.304423 ], [ 25.7161337, 35.310677399999989 ], [ 25.7223537, 35.3148777 ], [ 25.729923, 35.339073 ], [ 25.717038, 35.339127499999989 ] ] ] } }
+]
+}

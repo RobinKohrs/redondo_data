@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dornheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dornheim", "metric_roundness": 60.67, "metric_rectangularity": 72.18, "metric_mobile_fit": 71.78, "metric_aspect_ratio": 0.845, "metric_area_km2": 20.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.0070995, 50.859008499999987 ], [ 11.0000325, 50.856354 ], [ 10.9965635, 50.849710199999983 ], [ 10.977611, 50.8471507 ], [ 10.9706882, 50.8347098 ], [ 10.9878878, 50.8258559 ], [ 10.9977383, 50.8240054 ], [ 11.008749, 50.826542599999975 ], [ 11.0175095, 50.8458125 ], [ 11.0170195, 50.849415 ], [ 11.0163135, 50.852005 ], [ 11.015886, 50.855827 ], [ 11.0145435, 50.8571735 ], [ 11.0070995, 50.859008499999987 ] ] ] } }
+]
+}

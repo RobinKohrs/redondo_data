@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lestiny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Leštiny", "metric_roundness": 38.91, "metric_rectangularity": 56.36, "metric_mobile_fit": 73.45, "metric_aspect_ratio": 0.828, "metric_area_km2": 15.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.3718605, 49.1762606 ], [ 19.3849255, 49.1754005 ], [ 19.3777165, 49.184615199999989 ], [ 19.379652, 49.190884499999989 ], [ 19.3645317, 49.192189499999984 ], [ 19.3491627, 49.198804399999986 ], [ 19.3457746, 49.208613 ], [ 19.3407105, 49.205842599999983 ], [ 19.3367945, 49.1975575 ], [ 19.3502119, 49.174334199999983 ], [ 19.3578075, 49.170623 ], [ 19.3718605, 49.1762606 ] ] ] } }
+]
+}

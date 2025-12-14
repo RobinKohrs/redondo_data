@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "artes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Artés", "metric_roundness": 23.05, "metric_rectangularity": 57.18, "metric_mobile_fit": -51.98, "metric_aspect_ratio": 2.082, "metric_area_km2": 32.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9539229, 41.7820603 ], [ 1.9792103, 41.7925473 ], [ 2.018813, 41.801548 ], [ 2.005815, 41.807516 ], [ 1.990977, 41.8053338 ], [ 1.9811976, 41.812291 ], [ 1.9744736, 41.8115535 ], [ 1.9651275, 41.8150821 ], [ 1.958548, 41.8129955 ], [ 1.9351986, 41.8074174 ], [ 1.9338398, 41.7981424 ], [ 1.9076783, 41.7816444 ], [ 1.903797, 41.773903 ], [ 1.9051925, 41.774143 ], [ 1.9539229, 41.7820603 ] ] ] } }
+]
+}

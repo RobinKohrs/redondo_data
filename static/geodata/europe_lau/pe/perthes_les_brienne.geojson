@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "perthes_les_brienne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Perthes-lès-Brienne", "metric_roundness": 51.14, "metric_rectangularity": 64.36, "metric_mobile_fit": 48.38, "metric_aspect_ratio": 1.079, "metric_area_km2": 8.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5441765, 48.441968 ], [ 4.5416135, 48.443439 ], [ 4.5350535, 48.439617499999983 ], [ 4.5334395, 48.442176499999981 ], [ 4.5312715, 48.4407785 ], [ 4.5288435, 48.440913 ], [ 4.521459, 48.437237 ], [ 4.5281875, 48.4320215 ], [ 4.5262495, 48.430933499999988 ], [ 4.5276845, 48.429692 ], [ 4.5318039, 48.4310001 ], [ 4.5502745, 48.420933499999983 ], [ 4.558049, 48.43918 ], [ 4.5441765, 48.441968 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jonzier_epagny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jonzier-Épagny", "metric_roundness": 55.69, "metric_rectangularity": 69.89, "metric_mobile_fit": 17.21, "metric_aspect_ratio": 1.39, "metric_area_km2": 14.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9656123, 46.074863299999983 ], [ 5.9731095, 46.065177 ], [ 5.9924504, 46.063812899999988 ], [ 6.0093543, 46.076049399999988 ], [ 6.0151565, 46.084573 ], [ 6.0103525, 46.086126099999987 ], [ 6.0073445, 46.087098499999989 ], [ 6.00208, 46.0872155 ], [ 5.9875455, 46.088531 ], [ 5.9857579, 46.084961299999989 ], [ 5.9779544, 46.0823687 ], [ 5.9716615, 46.086107 ], [ 5.9656123, 46.074863299999983 ] ] ] } }
+]
+}

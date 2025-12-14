@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monsampietro_morico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monsampietro Morico", "metric_roundness": 42.67, "metric_rectangularity": 67.3, "metric_mobile_fit": 99.44, "metric_aspect_ratio": 0.557, "metric_area_km2": 18.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.5689778, 43.049379 ], [ 13.562843, 43.0563724 ], [ 13.5719742, 43.0703833 ], [ 13.5699367, 43.0761067 ], [ 13.564137, 43.079691 ], [ 13.555899, 43.0801991 ], [ 13.539529, 43.0740365 ], [ 13.5395375, 43.0689726 ], [ 13.5466813, 43.0613245 ], [ 13.5492687, 43.053561699999989 ], [ 13.544163, 43.044849 ], [ 13.5444978, 43.0402564 ], [ 13.559919, 43.031513 ], [ 13.5681272, 43.0380733 ], [ 13.5756544, 43.039512 ], [ 13.576638, 43.048499 ], [ 13.5689778, 43.049379 ] ] ] } }
+]
+}

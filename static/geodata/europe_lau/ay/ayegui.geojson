@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ayegui",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ayegui", "metric_roundness": 58.64, "metric_rectangularity": 81.23, "metric_mobile_fit": 76.77, "metric_aspect_ratio": 0.795, "metric_area_km2": 17.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.070472, 42.6575895 ], [ -2.0665695, 42.655834 ], [ -2.065048, 42.6514855 ], [ -2.0624765, 42.646412 ], [ -2.061291, 42.645008 ], [ -2.053327, 42.6287155 ], [ -2.0483735, 42.628025 ], [ -2.045231, 42.629402 ], [ -2.036556, 42.632023 ], [ -2.0267398, 42.642914299999987 ], [ -2.0308872, 42.6467777 ], [ -2.0302845, 42.655472599999982 ], [ -2.043497, 42.6684955 ], [ -2.070472, 42.6575895 ] ] ] } }
+]
+}

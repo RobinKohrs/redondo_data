@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gamlen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gamlen", "metric_roundness": 53.52, "metric_rectangularity": 71.35, "metric_mobile_fit": 81.13, "metric_aspect_ratio": 0.751, "metric_area_km2": 13.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2063739, 50.246548399999988 ], [ 7.212344, 50.258035 ], [ 7.1985026, 50.263469099999988 ], [ 7.191213, 50.261858 ], [ 7.1914201, 50.256206399999989 ], [ 7.1814405, 50.250002 ], [ 7.184791, 50.235923 ], [ 7.187748, 50.2336125 ], [ 7.2165165, 50.234648 ], [ 7.2063739, 50.246548399999988 ] ] ] } }
+]
+}

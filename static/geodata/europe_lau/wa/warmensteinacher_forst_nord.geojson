@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "warmensteinacher_forst_nord",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Warmensteinacher Forst-Nord", "metric_roundness": 18.07, "metric_rectangularity": 57.05, "metric_mobile_fit": -10.15, "metric_aspect_ratio": 1.664, "metric_area_km2": 0.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.808327, 50.030427599999989 ], [ 11.7984395, 50.031828499999982 ], [ 11.8008265, 50.030071 ], [ 11.803497, 50.028681 ], [ 11.8065255, 50.0275535 ], [ 11.8090595, 50.027214 ], [ 11.8127165, 50.025416 ], [ 11.81505, 50.025646 ], [ 11.808327, 50.030427599999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_sauveur_de_pierrepont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Sauveur-de-Pierrepont", "metric_roundness": 45.78, "metric_rectangularity": 67.43, "metric_mobile_fit": 20.71, "metric_aspect_ratio": 1.355, "metric_area_km2": 19.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.590583, 49.333279 ], [ -1.577447, 49.345661499999984 ], [ -1.582122, 49.3455905 ], [ -1.585041, 49.3466555 ], [ -1.5918139, 49.348023 ], [ -1.6059128, 49.34268549999998 ], [ -1.611255, 49.3504475 ], [ -1.628679, 49.341470799999975 ], [ -1.6392495, 49.331831499999979 ], [ -1.6322955, 49.323426499999989 ], [ -1.6204205, 49.324344499999988 ], [ -1.607209, 49.3207355 ], [ -1.590583, 49.333279 ] ] ] } }
+]
+}

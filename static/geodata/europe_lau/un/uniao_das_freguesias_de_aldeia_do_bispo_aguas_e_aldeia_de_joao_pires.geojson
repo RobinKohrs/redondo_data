@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_aldeia_do_bispo_aguas_e_aldeia_de_joao_pires",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Aldeia do Bispo, Águas e Aldeia de João Pires", "metric_roundness": 56.49, "metric_rectangularity": 68.47, "metric_mobile_fit": 30.09, "metric_aspect_ratio": 1.262, "metric_area_km2": 56.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.1746026, 40.0916336 ], [ -7.1653375, 40.087930299999989 ], [ -7.15552, 40.0764975 ], [ -7.1437887, 40.0791574 ], [ -7.1280435, 40.090537 ], [ -7.1297829, 40.0927675 ], [ -7.127747, 40.0986155 ], [ -7.1347, 40.1034604 ], [ -7.1368314, 40.111509500000011 ], [ -7.143335, 40.11683 ], [ -7.1630596, 40.131101699999988 ], [ -7.181348, 40.1237014 ], [ -7.190137, 40.128080099999977 ], [ -7.205523, 40.134079299999989 ], [ -7.2116586, 40.133137399999988 ], [ -7.2211529, 40.1217727 ], [ -7.222727, 40.107628 ], [ -7.2147137, 40.0924646 ], [ -7.190137, 40.0865905 ], [ -7.1864295, 40.083374 ], [ -7.1746026, 40.0916336 ] ] ] } }
+]
+}

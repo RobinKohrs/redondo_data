@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mirova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mírová", "metric_roundness": 49.12, "metric_rectangularity": 69.29, "metric_mobile_fit": 89.98, "metric_aspect_ratio": 0.663, "metric_area_km2": 9.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.785909, 50.242575 ], [ 12.7750935, 50.2461305 ], [ 12.769521, 50.250347499999982 ], [ 12.7605756, 50.2439683 ], [ 12.757836, 50.2346261 ], [ 12.7641045, 50.223147499999975 ], [ 12.7708605, 50.222248 ], [ 12.7702235, 50.225145499999975 ], [ 12.7696695, 50.227857 ], [ 12.781929, 50.2315052 ], [ 12.7869495, 50.238229499999981 ], [ 12.785909, 50.242575 ] ] ] } }
+]
+}

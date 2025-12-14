@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "joigny_sur_meuse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Joigny-sur-Meuse", "metric_roundness": 46.63, "metric_rectangularity": 67.32, "metric_mobile_fit": 4.01, "metric_aspect_ratio": 1.522, "metric_area_km2": 9.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7736913, 49.8320186 ], [ 4.7680882, 49.84004359999998 ], [ 4.7570896, 49.841894 ], [ 4.7432222, 49.8356091 ], [ 4.748057, 49.832311499999982 ], [ 4.7557096, 49.8252192 ], [ 4.7764818, 49.822994699999988 ], [ 4.7815707, 49.8246675 ], [ 4.787828, 49.835118 ], [ 4.7736913, 49.8320186 ] ] ] } }
+]
+}

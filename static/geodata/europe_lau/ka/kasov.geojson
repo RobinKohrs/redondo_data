@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kasov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kašov", "metric_roundness": 46.76, "metric_rectangularity": 69.81, "metric_mobile_fit": 74.16, "metric_aspect_ratio": 0.821, "metric_area_km2": 19.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7094345, 48.472364499999983 ], [ 21.7454122, 48.475048 ], [ 21.7486726, 48.476641099999988 ], [ 21.748292, 48.48007 ], [ 21.7538947, 48.493611699999981 ], [ 21.7507535, 48.499658299999986 ], [ 21.751318, 48.506328 ], [ 21.7306725, 48.5082575 ], [ 21.7288054, 48.500975899999986 ], [ 21.7104385, 48.482804 ], [ 21.7094345, 48.472364499999983 ] ] ] } }
+]
+}

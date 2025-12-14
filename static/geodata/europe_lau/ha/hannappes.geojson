@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hannappes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hannappes", "metric_roundness": 46.59, "metric_rectangularity": 65.46, "metric_mobile_fit": 90.0, "metric_aspect_ratio": 0.662, "metric_area_km2": 19.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2482244, 49.832452 ], [ 4.2389702, 49.8311798 ], [ 4.229791, 49.836024 ], [ 4.2241917, 49.8338207 ], [ 4.2189693, 49.81359759999998 ], [ 4.2142725, 49.806112499999983 ], [ 4.22037, 49.80444319999998 ], [ 4.2203059, 49.799461 ], [ 4.226847, 49.793615499999987 ], [ 4.228835, 49.794277499999978 ], [ 4.2578139, 49.820324799999987 ], [ 4.255757, 49.825274 ], [ 4.2482244, 49.832452 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_bourboule",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Bourboule", "metric_roundness": 44.29, "metric_rectangularity": 61.71, "metric_mobile_fit": 19.9, "metric_aspect_ratio": 1.364, "metric_area_km2": 25.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7513768, 45.5653392 ], [ 2.7554187, 45.561322 ], [ 2.7684536, 45.5649459 ], [ 2.778402, 45.563319499999984 ], [ 2.7806625, 45.573641599999988 ], [ 2.7657705, 45.594137 ], [ 2.7328268, 45.591397899999976 ], [ 2.7182275, 45.5963595 ], [ 2.7124067, 45.5875954 ], [ 2.7212274, 45.586014699999986 ], [ 2.72165, 45.577102 ], [ 2.7276995, 45.574618 ], [ 2.7513768, 45.5653392 ] ] ] } }
+]
+}

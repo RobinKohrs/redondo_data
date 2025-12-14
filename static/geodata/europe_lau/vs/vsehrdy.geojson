@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vsehrdy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Všehrdy", "metric_roundness": 39.58, "metric_rectangularity": 61.29, "metric_mobile_fit": 99.29, "metric_aspect_ratio": 0.57, "metric_area_km2": 9.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.460826, 50.4268035 ], [ 13.4546652, 50.4226919 ], [ 13.4554922, 50.415993199999981 ], [ 13.4523055, 50.412507099999985 ], [ 13.4556245, 50.4089228 ], [ 13.4507185, 50.4027165 ], [ 13.4702885, 50.3981095 ], [ 13.4755199, 50.3968486 ], [ 13.477491, 50.3993245 ], [ 13.4711817, 50.4033107 ], [ 13.4738918, 50.4107607 ], [ 13.471458, 50.423227 ], [ 13.460826, 50.4268035 ] ] ] } }
+]
+}

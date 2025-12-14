@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourg_madame",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourg-Madame", "metric_roundness": 70.74, "metric_rectangularity": 78.17, "metric_mobile_fit": 60.2, "metric_aspect_ratio": 0.961, "metric_area_km2": 14.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9623575, 42.4231645 ], [ 1.9768475, 42.427488 ], [ 1.977761, 42.436577 ], [ 1.9776833, 42.443101 ], [ 1.9808705, 42.4477425 ], [ 1.960055, 42.453464499999988 ], [ 1.942858, 42.444435 ], [ 1.9414339, 42.4305796 ], [ 1.958085, 42.4236565 ], [ 1.9623575, 42.4231645 ] ] ] } }
+]
+}

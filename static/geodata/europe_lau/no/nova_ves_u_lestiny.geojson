@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nova_ves_u_lestiny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nová Ves u Leštiny", "metric_roundness": 42.28, "metric_rectangularity": 63.37, "metric_mobile_fit": 12.84, "metric_aspect_ratio": 1.434, "metric_area_km2": 11.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3863756, 49.7815218 ], [ 15.4010105, 49.783370399999981 ], [ 15.412007, 49.777798499999989 ], [ 15.423267, 49.777775499999983 ], [ 15.4166703, 49.7852931 ], [ 15.4236376, 49.788310899999978 ], [ 15.4238565, 49.792423499999984 ], [ 15.3981407, 49.7960394 ], [ 15.3921934, 49.79359419999998 ], [ 15.3886775, 49.800035 ], [ 15.374412, 49.790837499999988 ], [ 15.3863756, 49.7815218 ] ] ] } }
+]
+}

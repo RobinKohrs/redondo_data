@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cornalba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cornalba", "metric_roundness": 48.36, "metric_rectangularity": 70.96, "metric_mobile_fit": 57.11, "metric_aspect_ratio": 0.991, "metric_area_km2": 18.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7709195, 45.8475043 ], [ 9.7802395, 45.858135499999989 ], [ 9.778677, 45.872592 ], [ 9.776697, 45.8728935 ], [ 9.772741, 45.872866499999986 ], [ 9.7493476, 45.8660875 ], [ 9.7407044, 45.8598723 ], [ 9.7338475, 45.8423995 ], [ 9.770467, 45.8403045 ], [ 9.7709195, 45.8475043 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brezova_olesko",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Březová-Oleško", "metric_roundness": 45.96, "metric_rectangularity": 52.64, "metric_mobile_fit": 50.76, "metric_aspect_ratio": 1.055, "metric_area_km2": 15.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4233245, 49.918232599999989 ], [ 14.4178364, 49.9221926 ], [ 14.399043, 49.9229285 ], [ 14.381549, 49.915416 ], [ 14.3956837, 49.9076861 ], [ 14.400661, 49.9019415 ], [ 14.4039693, 49.893867899999989 ], [ 14.408702, 49.8925835 ], [ 14.4236395, 49.8962955 ], [ 14.4213088, 49.9027652 ], [ 14.4277251, 49.9184209 ], [ 14.4335215, 49.924311 ], [ 14.4233245, 49.918232599999989 ] ] ] } }
+]
+}

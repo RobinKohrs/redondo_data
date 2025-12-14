@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_aphras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άφρας", "metric_roundness": 25.93, "metric_rectangularity": 76.29, "metric_mobile_fit": 23.9, "metric_aspect_ratio": 1.323, "metric_area_km2": 5.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.874, 39.611135499999975 ], [ 19.8719345, 39.6127315 ], [ 19.8699335, 39.615571499999987 ], [ 19.8457029, 39.6316957 ], [ 19.8408312, 39.631711799999984 ], [ 19.8372085, 39.627256 ], [ 19.862171, 39.608059 ], [ 19.8640465, 39.608896 ], [ 19.8671425, 39.609363499999986 ], [ 19.877848, 39.610219 ], [ 19.874, 39.611135499999975 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ludgerovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ludgeřovice", "metric_roundness": 45.36, "metric_rectangularity": 72.86, "metric_mobile_fit": 83.44, "metric_aspect_ratio": 0.728, "metric_area_km2": 25.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.2664158, 49.8938824 ], [ 18.2637948, 49.896333199999987 ], [ 18.2587993, 49.89426109999998 ], [ 18.2560345, 49.8970115 ], [ 18.254535, 49.909375 ], [ 18.2217905, 49.891804 ], [ 18.2145115, 49.8786002 ], [ 18.2160165, 49.869091499999989 ], [ 18.2271465, 49.8634467 ], [ 18.2379508, 49.866011 ], [ 18.2566372, 49.8774558 ], [ 18.260805, 49.883260499999977 ], [ 18.2664158, 49.8938824 ] ] ] } }
+]
+}

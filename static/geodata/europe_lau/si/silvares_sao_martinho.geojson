@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "silvares_sao_martinho",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Silvares (São Martinho)", "metric_roundness": 43.72, "metric_rectangularity": 57.37, "metric_mobile_fit": 6.41, "metric_aspect_ratio": 1.498, "metric_area_km2": 10.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.183169, 41.406452099999989 ], [ -8.1794415, 41.3974865 ], [ -8.165832, 41.4002835 ], [ -8.1540185, 41.4041516 ], [ -8.1476893, 41.409908 ], [ -8.138319, 41.410925 ], [ -8.1371695, 41.411816 ], [ -8.1401533, 41.4150772 ], [ -8.149612, 41.415993 ], [ -8.161101, 41.415854 ], [ -8.1653115, 41.421726 ], [ -8.178322, 41.422869 ], [ -8.1834169, 41.4117451 ], [ -8.1878805, 41.4098495 ], [ -8.183169, 41.406452099999989 ] ] ] } }
+]
+}

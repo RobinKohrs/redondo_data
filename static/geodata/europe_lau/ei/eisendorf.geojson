@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eisendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eisendorf", "metric_roundness": 48.82, "metric_rectangularity": 60.83, "metric_mobile_fit": 52.78, "metric_aspect_ratio": 1.035, "metric_area_km2": 14.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.897521, 54.1967485 ], [ 9.877824, 54.20009589999998 ], [ 9.8687918, 54.2053018 ], [ 9.8565105, 54.207734 ], [ 9.8537459, 54.2017997 ], [ 9.8544439, 54.1881431 ], [ 9.8491825, 54.182722 ], [ 9.8565315, 54.18069449999998 ], [ 9.8623752, 54.1804028 ], [ 9.8840837, 54.1899745 ], [ 9.893513, 54.1907545 ], [ 9.897521, 54.1967485 ] ] ] } }
+]
+}

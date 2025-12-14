@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seligney",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Séligney", "metric_roundness": 57.75, "metric_rectangularity": 62.8, "metric_mobile_fit": 65.4, "metric_aspect_ratio": 0.909, "metric_area_km2": 9.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.557106, 46.940459499999982 ], [ 5.559275, 46.942649499999987 ], [ 5.5550325, 46.947541 ], [ 5.554098, 46.949503 ], [ 5.554324, 46.952198 ], [ 5.5508675, 46.952654499999987 ], [ 5.5409515, 46.950636 ], [ 5.5319495, 46.9573695 ], [ 5.5262511, 46.955513599999989 ], [ 5.5319291, 46.949147299999986 ], [ 5.5249235, 46.941989 ], [ 5.5323445, 46.9341295 ], [ 5.53745, 46.9315565 ], [ 5.557106, 46.940459499999982 ] ] ] } }
+]
+}

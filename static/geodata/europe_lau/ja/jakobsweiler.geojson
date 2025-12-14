@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jakobsweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jakobsweiler", "metric_roundness": 50.78, "metric_rectangularity": 75.03, "metric_mobile_fit": 31.74, "metric_aspect_ratio": 1.245, "metric_area_km2": 5.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9512175, 49.607157 ], [ 7.9671872, 49.610899299999986 ], [ 7.978205, 49.6190395 ], [ 7.9738695, 49.619011399999984 ], [ 7.970009, 49.623205499999976 ], [ 7.9501186, 49.619218199999985 ], [ 7.9473638, 49.614677399999984 ], [ 7.948535, 49.6091395 ], [ 7.9512175, 49.607157 ] ] ] } }
+]
+}

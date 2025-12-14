@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zemliare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Žemliare", "metric_roundness": 41.88, "metric_rectangularity": 74.84, "metric_mobile_fit": 75.22, "metric_aspect_ratio": 0.81, "metric_area_km2": 9.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.5926241, 48.1409884 ], [ 18.6005805, 48.134907 ], [ 18.6029278, 48.1388581 ], [ 18.6196655, 48.147354 ], [ 18.6261509, 48.153038899999977 ], [ 18.6209125, 48.1577134 ], [ 18.6195167, 48.1645602 ], [ 18.6118425, 48.163717 ], [ 18.5967645, 48.1505404 ], [ 18.5901385, 48.14924 ], [ 18.5926241, 48.1409884 ] ] ] } }
+]
+}

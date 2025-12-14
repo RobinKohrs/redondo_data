@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cressin_rochefort",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cressin-Rochefort", "metric_roundness": 52.7, "metric_rectangularity": 66.1, "metric_mobile_fit": 82.74, "metric_aspect_ratio": 0.735, "metric_area_km2": 16.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7813805, 45.7808425 ], [ 5.7834085, 45.785463499999985 ], [ 5.7845965, 45.7972235 ], [ 5.7733929, 45.7946252 ], [ 5.7689257, 45.8002415 ], [ 5.7587575, 45.801977 ], [ 5.7586113, 45.790699699999983 ], [ 5.7489405, 45.7863653 ], [ 5.745808, 45.7810735 ], [ 5.7477285, 45.768453 ], [ 5.7526905, 45.76518 ], [ 5.7689311, 45.7713919 ], [ 5.783043, 45.7724615 ], [ 5.7813805, 45.7808425 ] ] ] } }
+]
+}

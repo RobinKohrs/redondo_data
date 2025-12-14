@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pocaply",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Počaply", "metric_roundness": 59.15, "metric_rectangularity": 74.62, "metric_mobile_fit": 57.44, "metric_aspect_ratio": 0.988, "metric_area_km2": 19.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0099968, 49.53752 ], [ 14.0139053, 49.5394833 ], [ 14.010204, 49.551236 ], [ 13.9980745, 49.553608 ], [ 13.9694451, 49.5431941 ], [ 13.9624175, 49.5309735 ], [ 13.981923, 49.52442 ], [ 13.9879829, 49.5268346 ], [ 13.9981631, 49.5197935 ], [ 14.0021612, 49.523961899999989 ], [ 13.9992642, 49.5302795 ], [ 14.0075925, 49.530183499999978 ], [ 14.0099968, 49.53752 ] ] ] } }
+]
+}

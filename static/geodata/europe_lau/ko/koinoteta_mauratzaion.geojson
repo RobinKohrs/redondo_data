@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_mauratzaion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μαυρατζαίων", "metric_roundness": 34.47, "metric_rectangularity": 55.12, "metric_mobile_fit": 99.38, "metric_aspect_ratio": 0.569, "metric_area_km2": 12.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.860937, 37.728697 ], [ 26.8568195, 37.71742 ], [ 26.855883, 37.713317499999988 ], [ 26.855729, 37.711498 ], [ 26.87796, 37.7003 ], [ 26.8883649, 37.7029434 ], [ 26.8858315, 37.7169135 ], [ 26.8718071, 37.7307273 ], [ 26.865193, 37.7456945 ], [ 26.8599725, 37.74492 ], [ 26.860899, 37.7307515 ], [ 26.860937, 37.728697 ] ] ] } }
+]
+}

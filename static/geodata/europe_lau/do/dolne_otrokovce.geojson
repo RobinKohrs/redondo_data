@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolne_otrokovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolné Otrokovce", "metric_roundness": 46.99, "metric_rectangularity": 68.59, "metric_mobile_fit": 63.68, "metric_aspect_ratio": 0.926, "metric_area_km2": 21.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.890072, 48.4806296 ], [ 17.8890212, 48.475181 ], [ 17.8826145, 48.469778 ], [ 17.9070015, 48.459807499999982 ], [ 17.9095149, 48.4576594 ], [ 17.9078638, 48.4544821 ], [ 17.9109646, 48.4526834 ], [ 17.9337656, 48.445971199999988 ], [ 17.940274, 48.449382 ], [ 17.9323821, 48.455877099999988 ], [ 17.9381743, 48.459409099999981 ], [ 17.9247781, 48.4732723 ], [ 17.9253195, 48.4759215 ], [ 17.908653, 48.4872715 ], [ 17.890072, 48.4806296 ] ] ] } }
+]
+}

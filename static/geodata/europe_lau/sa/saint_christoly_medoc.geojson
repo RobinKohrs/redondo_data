@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_christoly_medoc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Christoly-Médoc", "metric_roundness": 45.25, "metric_rectangularity": 78.35, "metric_mobile_fit": 59.02, "metric_aspect_ratio": 0.972, "metric_area_km2": 14.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.8526004, 45.370411 ], [ -0.8596205, 45.360790499999986 ], [ -0.8404475, 45.3530811 ], [ -0.8355048, 45.3451876 ], [ -0.828323, 45.345609499999988 ], [ -0.822746, 45.340126 ], [ -0.8164883, 45.340855499999975 ], [ -0.810135, 45.3486 ], [ -0.8221407, 45.360919899999985 ], [ -0.8436185, 45.375889 ], [ -0.8526004, 45.370411 ] ] ] } }
+]
+}

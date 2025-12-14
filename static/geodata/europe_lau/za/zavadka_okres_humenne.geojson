@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zavadka_okres_humenne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Závadka (okres Humenné)", "metric_roundness": 51.3, "metric_rectangularity": 58.76, "metric_mobile_fit": 61.05, "metric_aspect_ratio": 0.952, "metric_area_km2": 12.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.8286165, 48.936065 ], [ 21.824148, 48.930147799999986 ], [ 21.8249055, 48.9154665 ], [ 21.8392425, 48.9199006 ], [ 21.859047, 48.91884 ], [ 21.8651591, 48.9226585 ], [ 21.8647845, 48.931306 ], [ 21.8513441, 48.930558399999988 ], [ 21.8448029, 48.9377426 ], [ 21.833638, 48.9437695 ], [ 21.8286165, 48.936065 ] ] ] } }
+]
+}

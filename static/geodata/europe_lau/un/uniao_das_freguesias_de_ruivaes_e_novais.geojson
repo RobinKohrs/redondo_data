@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_ruivaes_e_novais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Ruivães e Novais", "metric_roundness": 53.22, "metric_rectangularity": 66.09, "metric_mobile_fit": 53.91, "metric_aspect_ratio": 1.023, "metric_area_km2": 7.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.453819, 41.406533 ], [ -8.45252, 41.3996061 ], [ -8.447022, 41.3939715 ], [ -8.439409, 41.389687 ], [ -8.4378668, 41.3854739 ], [ -8.4283525, 41.38506 ], [ -8.4219822, 41.390827399999985 ], [ -8.4249983, 41.3983024 ], [ -8.4225865, 41.401047 ], [ -8.4288115, 41.403005 ], [ -8.4457875, 41.408395499999976 ], [ -8.453819, 41.406533 ] ] ] } }
+]
+}

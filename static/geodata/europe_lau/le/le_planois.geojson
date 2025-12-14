@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_planois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Planois", "metric_roundness": 22.74, "metric_rectangularity": 43.31, "metric_mobile_fit": 89.07, "metric_aspect_ratio": 0.672, "metric_area_km2": 9.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3331483, 46.7966311 ], [ 5.328583, 46.81291 ], [ 5.3217196, 46.806468 ], [ 5.3207645, 46.798394 ], [ 5.3156884, 46.7826589 ], [ 5.3046095, 46.7778151 ], [ 5.3001775, 46.772056 ], [ 5.3168847, 46.770790399999981 ], [ 5.322428, 46.7815425 ], [ 5.3415085, 46.790694 ], [ 5.3331483, 46.7966311 ] ] ] } }
+]
+}

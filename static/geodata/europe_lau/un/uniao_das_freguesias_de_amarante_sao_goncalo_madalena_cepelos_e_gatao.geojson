@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_amarante_sao_goncalo_madalena_cepelos_e_gatao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão", "metric_roundness": 37.02, "metric_rectangularity": 58.68, "metric_mobile_fit": 85.71, "metric_aspect_ratio": 0.705, "metric_area_km2": 27.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.046632, 41.296243 ], [ -8.0499642, 41.302084099999988 ], [ -8.04661, 41.30777 ], [ -8.0630094, 41.3077979 ], [ -8.0778905, 41.3015995 ], [ -8.0837666, 41.2833041 ], [ -8.1009245, 41.2771835 ], [ -8.098901, 41.2634769 ], [ -8.0930208, 41.259937499999978 ], [ -8.0969515, 41.25451 ], [ -8.081165, 41.249934499999981 ], [ -8.0716901, 41.255285799999989 ], [ -8.0629315, 41.255281499999981 ], [ -8.061686, 41.2606555 ], [ -8.0602737, 41.2726095 ], [ -8.06802, 41.2804924 ], [ -8.0537005, 41.293204 ], [ -8.046632, 41.296243 ] ] ] } }
+]
+}

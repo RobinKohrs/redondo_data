@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dommartin_les_vallois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dommartin-lès-Vallois", "metric_roundness": 49.33, "metric_rectangularity": 71.73, "metric_mobile_fit": 91.8, "metric_aspect_ratio": 0.644, "metric_area_km2": 11.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0996165, 48.139982 ], [ 6.0965243, 48.16187129999998 ], [ 6.085851, 48.17139 ], [ 6.0850555, 48.17155 ], [ 6.0835615, 48.1685375 ], [ 6.08204, 48.167010499999989 ], [ 6.081279, 48.163884 ], [ 6.0719255, 48.164812 ], [ 6.073844, 48.160565 ], [ 6.0691195, 48.160355 ], [ 6.069571, 48.1572355 ], [ 6.0768555, 48.14143 ], [ 6.0996165, 48.139982 ] ] ] } }
+]
+}

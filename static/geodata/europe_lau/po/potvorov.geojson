@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "potvorov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Potvorov", "metric_roundness": 59.58, "metric_rectangularity": 65.71, "metric_mobile_fit": 64.16, "metric_aspect_ratio": 0.921, "metric_area_km2": 15.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.3795273, 50.0228508 ], [ 13.3847923, 50.0202373 ], [ 13.3869246, 50.0156461 ], [ 13.3818706, 50.0107141 ], [ 13.373101, 50.010021 ], [ 13.3694015, 50.0031115 ], [ 13.3851525, 49.9991023 ], [ 13.4053955, 50.002083 ], [ 13.41363, 50.0088695 ], [ 13.4115564, 50.014676299999977 ], [ 13.4067388, 50.0178319 ], [ 13.4048156, 50.025661799999988 ], [ 13.391314, 50.029964 ], [ 13.3795273, 50.0228508 ] ] ] } }
+]
+}

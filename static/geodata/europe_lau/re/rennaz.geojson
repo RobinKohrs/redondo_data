@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rennaz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rennaz", "metric_roundness": 35.7, "metric_rectangularity": 60.64, "metric_mobile_fit": 83.11, "metric_aspect_ratio": 0.731, "metric_area_km2": 4.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.925395, 46.371479499999985 ], [ 6.9285075, 46.3804175 ], [ 6.9285695, 46.384916 ], [ 6.9201905, 46.384293 ], [ 6.9135315, 46.380664 ], [ 6.9146775, 46.379059 ], [ 6.9072945, 46.376442499999989 ], [ 6.908498, 46.372985 ], [ 6.906815, 46.364395 ], [ 6.925395, 46.371479499999985 ] ] ] } }
+]
+}

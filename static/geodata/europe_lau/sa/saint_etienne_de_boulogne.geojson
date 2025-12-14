@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_etienne_de_boulogne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Étienne-de-Boulogne", "metric_roundness": 72.95, "metric_rectangularity": 76.45, "metric_mobile_fit": 62.58, "metric_aspect_ratio": 0.937, "metric_area_km2": 29.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4927375, 44.718113 ], [ 4.4823612, 44.7219082 ], [ 4.4755878, 44.7196117 ], [ 4.4711703, 44.721817599999987 ], [ 4.4530345, 44.7113335 ], [ 4.4437467, 44.6910511 ], [ 4.4498735, 44.684744499999987 ], [ 4.469984, 44.680947499999988 ], [ 4.478993, 44.68617 ], [ 4.4885916, 44.6817317 ], [ 4.4977292, 44.6852957 ], [ 4.4967265, 44.7099825 ], [ 4.4927375, 44.718113 ] ] ] } }
+]
+}

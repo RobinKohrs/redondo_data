@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_felix_de_bourdeilles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Félix-de-Bourdeilles", "metric_roundness": 48.66, "metric_rectangularity": 63.73, "metric_mobile_fit": 84.12, "metric_aspect_ratio": 0.721, "metric_area_km2": 12.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5661229, 45.421843599999988 ], [ 0.5488231, 45.4124245 ], [ 0.5486723, 45.4060714 ], [ 0.5560876, 45.398722299999982 ], [ 0.5541961, 45.394955 ], [ 0.56261, 45.392138 ], [ 0.5715868, 45.397611399999988 ], [ 0.578445, 45.394734899999989 ], [ 0.5850849, 45.403950699999982 ], [ 0.5831805, 45.4071935 ], [ 0.5733339, 45.410674799999988 ], [ 0.5751282, 45.4232069 ], [ 0.5702525, 45.427576 ], [ 0.5661229, 45.421843599999988 ] ] ] } }
+]
+}

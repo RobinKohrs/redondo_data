@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "francavilla_d_ete",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Francavilla d'Ete", "metric_roundness": 51.56, "metric_rectangularity": 70.58, "metric_mobile_fit": 86.15, "metric_aspect_ratio": 0.701, "metric_area_km2": 19.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.5459015, 43.180447 ], [ 13.5527545, 43.1954362 ], [ 13.5577739, 43.1992287 ], [ 13.5506315, 43.212467 ], [ 13.5418215, 43.212381499999985 ], [ 13.539068, 43.212221 ], [ 13.5369355, 43.212346 ], [ 13.528311, 43.212027 ], [ 13.5217988, 43.2082882 ], [ 13.5256793, 43.1995098 ], [ 13.5231632, 43.1954362 ], [ 13.5249618, 43.1921738 ], [ 13.5170039, 43.1817895 ], [ 13.5183155, 43.1738085 ], [ 13.53739, 43.170063 ], [ 13.5459015, 43.180447 ] ] ] } }
+]
+}

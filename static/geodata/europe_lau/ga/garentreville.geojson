@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "garentreville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Garentreville", "metric_roundness": 47.41, "metric_rectangularity": 66.41, "metric_mobile_fit": -12.11, "metric_aspect_ratio": 1.684, "metric_area_km2": 14.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5865875, 48.232335 ], [ 2.572729, 48.244336 ], [ 2.5571881, 48.245197599999983 ], [ 2.5467305, 48.2426205 ], [ 2.5309631, 48.229742699999989 ], [ 2.5422895, 48.223191 ], [ 2.5590405, 48.228328 ], [ 2.5850425, 48.226234499999983 ], [ 2.5865875, 48.232335 ] ] ] } }
+]
+}

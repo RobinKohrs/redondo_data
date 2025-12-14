@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stammham",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stammham", "metric_roundness": 41.65, "metric_rectangularity": 61.24, "metric_mobile_fit": 4.37, "metric_aspect_ratio": 1.519, "metric_area_km2": 11.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.876691, 48.2475282 ], [ 12.8877211, 48.2383448 ], [ 12.8918525, 48.2365025 ], [ 12.8940755, 48.2389191 ], [ 12.8938395, 48.240795 ], [ 12.8949789, 48.245534 ], [ 12.9018743, 48.2492272 ], [ 12.898263, 48.255000499999987 ], [ 12.8890993, 48.2556698 ], [ 12.8867085, 48.259465899999988 ], [ 12.8775229, 48.257146099999986 ], [ 12.85641, 48.2600069 ], [ 12.8482665, 48.245743499999982 ], [ 12.876691, 48.2475282 ] ] ] } }
+]
+}

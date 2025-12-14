@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "recany_nad_labem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Řečany nad Labem", "metric_roundness": 38.14, "metric_rectangularity": 64.89, "metric_mobile_fit": -27.07, "metric_aspect_ratio": 1.833, "metric_area_km2": 13.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4604935, 50.047304 ], [ 15.4619489, 50.0369336 ], [ 15.4737585, 50.0321465 ], [ 15.480305, 50.0286475 ], [ 15.5006715, 50.0300733 ], [ 15.50335, 50.026488 ], [ 15.5103839, 50.0336 ], [ 15.5195692, 50.03684149999998 ], [ 15.5199045, 50.040212 ], [ 15.515741, 50.0428045 ], [ 15.5102411, 50.0371649 ], [ 15.5056453, 50.040086899999984 ], [ 15.4995326, 50.0395921 ], [ 15.494407, 50.045821 ], [ 15.4604935, 50.047304 ] ] ] } }
+]
+}

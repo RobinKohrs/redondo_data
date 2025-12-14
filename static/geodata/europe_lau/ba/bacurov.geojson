@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bacurov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bacúrov", "metric_roundness": 47.47, "metric_rectangularity": 63.2, "metric_mobile_fit": 4.95, "metric_aspect_ratio": 1.513, "metric_area_km2": 22.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.0747353, 48.50635 ], [ 19.0750285, 48.517593599999984 ], [ 19.0788895, 48.522303 ], [ 19.0706782, 48.5314543 ], [ 19.0302849, 48.529270699999984 ], [ 19.013421, 48.523246 ], [ 19.0107165, 48.518247 ], [ 19.0258582, 48.5132804 ], [ 19.0498865, 48.512337599999988 ], [ 19.0644951, 48.5027639 ], [ 19.0706545, 48.501607 ], [ 19.0747353, 48.50635 ] ] ] } }
+]
+}

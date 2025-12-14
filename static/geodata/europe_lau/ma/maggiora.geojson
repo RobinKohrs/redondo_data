@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maggiora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maggiora", "metric_roundness": 32.67, "metric_rectangularity": 81.28, "metric_mobile_fit": 56.64, "metric_aspect_ratio": 0.996, "metric_area_km2": 21.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4092259, 45.688859199999989 ], [ 8.434389, 45.6746155 ], [ 8.4387468, 45.6791598 ], [ 8.4467325, 45.6806265 ], [ 8.4435252, 45.68744 ], [ 8.4332806, 45.692210499999987 ], [ 8.4245473, 45.7042443 ], [ 8.4041375, 45.7199495 ], [ 8.386956, 45.720408 ], [ 8.3814275, 45.710417399999983 ], [ 8.392018, 45.7034775 ], [ 8.4092259, 45.688859199999989 ] ] ] } }
+]
+}

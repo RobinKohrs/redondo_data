@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ginoles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ginoles", "metric_roundness": 60.37, "metric_rectangularity": 68.31, "metric_mobile_fit": 32.41, "metric_aspect_ratio": 1.238, "metric_area_km2": 11.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1682498, 42.8538565 ], [ 2.1765211, 42.8667689 ], [ 2.1729496, 42.8735517 ], [ 2.1509935, 42.876283499999985 ], [ 2.1326205, 42.867543 ], [ 2.1507946, 42.857180199999988 ], [ 2.153228, 42.8502995 ], [ 2.1682498, 42.8538565 ] ] ] } }
+]
+}

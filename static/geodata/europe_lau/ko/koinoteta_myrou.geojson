@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_myrou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μύρου", "metric_roundness": 43.14, "metric_rectangularity": 56.98, "metric_mobile_fit": 89.52, "metric_aspect_ratio": 0.667, "metric_area_km2": 17.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.742922, 37.2803595 ], [ 21.732784, 37.267718 ], [ 21.7367326, 37.2606945 ], [ 21.7534532, 37.258017699999982 ], [ 21.7529046, 37.249650799999984 ], [ 21.7465194, 37.244274399999988 ], [ 21.7441995, 37.230844 ], [ 21.7643645, 37.2316875 ], [ 21.7660691, 37.252642 ], [ 21.7742975, 37.263317199999989 ], [ 21.772472, 37.2730695 ], [ 21.742922, 37.2803595 ] ] ] } }
+]
+}

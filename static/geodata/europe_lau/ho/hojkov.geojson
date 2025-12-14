@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hojkov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hojkov", "metric_roundness": 71.17, "metric_rectangularity": 74.29, "metric_mobile_fit": 55.92, "metric_aspect_ratio": 1.003, "metric_area_km2": 15.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3995975, 49.377342 ], [ 15.4150615, 49.372103 ], [ 15.4409415, 49.3808455 ], [ 15.4411755, 49.387808499999984 ], [ 15.4314545, 49.3900051 ], [ 15.4201225, 49.4016235 ], [ 15.4137787, 49.3973052 ], [ 15.4046186, 49.396110299999989 ], [ 15.3956765, 49.388224 ], [ 15.3995975, 49.377342 ] ] ] } }
+]
+}

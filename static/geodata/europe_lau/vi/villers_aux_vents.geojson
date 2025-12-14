@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villers_aux_vents",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villers-aux-Vents", "metric_roundness": 61.53, "metric_rectangularity": 65.61, "metric_mobile_fit": 57.44, "metric_aspect_ratio": 0.988, "metric_area_km2": 14.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.020022, 48.875032 ], [ 5.0176137, 48.869581799999985 ], [ 5.00114, 48.8649445 ], [ 5.0035582, 48.8613305 ], [ 5.0012167, 48.850751699999989 ], [ 5.010657, 48.8467725 ], [ 5.0184521, 48.8453489 ], [ 5.022989, 48.850468 ], [ 5.045721, 48.857058 ], [ 5.0415393, 48.8580495 ], [ 5.0392471, 48.864014499999982 ], [ 5.0306931, 48.870137099999987 ], [ 5.0365885, 48.872211499999985 ], [ 5.020022, 48.875032 ] ] ] } }
+]
+}

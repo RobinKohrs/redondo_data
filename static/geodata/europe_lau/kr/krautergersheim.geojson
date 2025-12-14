@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krautergersheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Krautergersheim", "metric_roundness": 47.3, "metric_rectangularity": 72.26, "metric_mobile_fit": -3.73, "metric_aspect_ratio": 1.6, "metric_area_km2": 14.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.545009, 48.4731555 ], [ 7.5512605, 48.4714549 ], [ 7.5525715, 48.4663259 ], [ 7.561609, 48.4641649 ], [ 7.5769538, 48.4644073 ], [ 7.587484, 48.469411099999988 ], [ 7.5917555, 48.468425499999988 ], [ 7.5933065, 48.4690325 ], [ 7.5723727, 48.486545299999989 ], [ 7.5484062, 48.4861447 ], [ 7.539298, 48.480698499999988 ], [ 7.545009, 48.4731555 ] ] ] } }
+]
+}

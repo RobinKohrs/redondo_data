@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laifour",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laifour", "metric_roundness": 50.22, "metric_rectangularity": 63.14, "metric_mobile_fit": 75.59, "metric_aspect_ratio": 0.807, "metric_area_km2": 7.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.695865, 49.8905935 ], [ 4.700511, 49.8917815 ], [ 4.7035025, 49.891559 ], [ 4.7061345, 49.9011815 ], [ 4.7032786, 49.9104304 ], [ 4.6984709, 49.914108399999982 ], [ 4.691364, 49.9127525 ], [ 4.6859429, 49.903677699999989 ], [ 4.676686, 49.908547 ], [ 4.6790983, 49.9021804 ], [ 4.6879142, 49.900023799999985 ], [ 4.6919155, 49.89085 ], [ 4.695865, 49.8905935 ] ] ] } }
+]
+}

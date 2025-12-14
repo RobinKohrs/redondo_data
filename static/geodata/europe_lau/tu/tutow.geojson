@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tutow",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tutow", "metric_roundness": 41.85, "metric_rectangularity": 66.83, "metric_mobile_fit": 15.61, "metric_aspect_ratio": 1.406, "metric_area_km2": 16.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.193213, 53.931273 ], [ 13.2054015, 53.917347 ], [ 13.2187074, 53.909685699999983 ], [ 13.2280747, 53.908489499999988 ], [ 13.2352041, 53.913886 ], [ 13.2530935, 53.918395 ], [ 13.2335718, 53.9254581 ], [ 13.2212744, 53.9335636 ], [ 13.1987315, 53.932816499999987 ], [ 13.193213, 53.931273 ] ] ] } }
+]
+}

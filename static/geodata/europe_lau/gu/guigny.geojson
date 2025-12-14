@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guigny", "metric_roundness": 26.43, "metric_rectangularity": 72.9, "metric_mobile_fit": 29.39, "metric_aspect_ratio": 1.269, "metric_area_km2": 9.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.97902, 50.327411 ], [ 1.970646, 50.320413 ], [ 1.9734845, 50.3173615 ], [ 1.9717415, 50.3161895 ], [ 1.9775745, 50.313784 ], [ 1.9819369, 50.318883 ], [ 2.006419, 50.3261865 ], [ 2.0220135, 50.3362955 ], [ 2.011518, 50.339633499999984 ], [ 1.97902, 50.327411 ] ] ] } }
+]
+}

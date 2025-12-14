@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valletot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valletot", "metric_roundness": 52.8, "metric_rectangularity": 71.65, "metric_mobile_fit": 30.91, "metric_aspect_ratio": 1.253, "metric_area_km2": 13.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.604155, 49.353510499999985 ], [ 0.6101817, 49.358471499999986 ], [ 0.6368815, 49.358812 ], [ 0.6321225, 49.366651499999989 ], [ 0.6251645, 49.374783 ], [ 0.608059, 49.377675 ], [ 0.5931627, 49.375083599999982 ], [ 0.5903716, 49.3676895 ], [ 0.5952445, 49.363923499999984 ], [ 0.604155, 49.353510499999985 ] ] ] } }
+]
+}

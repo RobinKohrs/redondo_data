@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_kozmalovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Veľké Kozmálovce", "metric_roundness": 60.06, "metric_rectangularity": 70.35, "metric_mobile_fit": 66.71, "metric_aspect_ratio": 0.895, "metric_area_km2": 13.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.5244025, 48.2540555 ], [ 18.5331439, 48.2568736 ], [ 18.5397951, 48.253461799999982 ], [ 18.548468, 48.2546053 ], [ 18.5572636, 48.259297599999982 ], [ 18.561174, 48.265357 ], [ 18.55676, 48.269696 ], [ 18.5489, 48.281677 ], [ 18.5257105, 48.277035 ], [ 18.5242043, 48.272147599999983 ], [ 18.5300232, 48.2645592 ], [ 18.5232195, 48.2566135 ], [ 18.5244025, 48.2540555 ] ] ] } }
+]
+}

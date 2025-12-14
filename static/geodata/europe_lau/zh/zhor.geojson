@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zhor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zhoř", "metric_roundness": 65.0, "metric_rectangularity": 74.37, "metric_mobile_fit": 38.32, "metric_aspect_ratio": 1.179, "metric_area_km2": 4.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4720816, 49.4241421 ], [ 16.4667444, 49.4188203 ], [ 16.4666025, 49.411954 ], [ 16.4776365, 49.4110156 ], [ 16.491235, 49.4171245 ], [ 16.483074, 49.424604 ], [ 16.4720816, 49.4241421 ] ] ] } }
+]
+}

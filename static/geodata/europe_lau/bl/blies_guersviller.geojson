@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blies_guersviller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Blies-Guersviller", "metric_roundness": 58.13, "metric_rectangularity": 62.96, "metric_mobile_fit": 77.33, "metric_aspect_ratio": 0.789, "metric_area_km2": 8.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0825417, 49.1513096 ], [ 7.0833089, 49.140940199999974 ], [ 7.090204, 49.131696 ], [ 7.093377, 49.132294 ], [ 7.0972765, 49.1315895 ], [ 7.0999305, 49.1367435 ], [ 7.104055, 49.135355 ], [ 7.1063545, 49.137828499999983 ], [ 7.1040575, 49.13839 ], [ 7.1039838, 49.1451343 ], [ 7.1119895, 49.1516595 ], [ 7.101069, 49.155998 ], [ 7.0825417, 49.1513096 ] ] ] } }
+]
+}

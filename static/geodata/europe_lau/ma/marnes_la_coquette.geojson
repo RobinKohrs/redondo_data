@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marnes_la_coquette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marnes-la-Coquette", "metric_roundness": 38.95, "metric_rectangularity": 62.89, "metric_mobile_fit": 29.21, "metric_aspect_ratio": 1.27, "metric_area_km2": 8.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1853025, 48.8339 ], [ 2.1872155, 48.83773 ], [ 2.166624, 48.837742 ], [ 2.155996, 48.837635 ], [ 2.151631, 48.829502499999982 ], [ 2.15101, 48.823378499999983 ], [ 2.1514695, 48.821406 ], [ 2.1507475, 48.818844 ], [ 2.172653, 48.824392 ], [ 2.1807965, 48.830624499999985 ], [ 2.1853025, 48.8339 ] ] ] } }
+]
+}

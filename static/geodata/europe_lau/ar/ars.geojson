@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ars",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ars", "metric_roundness": 54.81, "metric_rectangularity": 79.25, "metric_mobile_fit": 53.53, "metric_aspect_ratio": 1.027, "metric_area_km2": 24.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3873655, 45.6266805 ], [ -0.374093, 45.6475787 ], [ -0.381293, 45.655371499999987 ], [ -0.382387, 45.655435 ], [ -0.3878905, 45.655121 ], [ -0.397638, 45.652362499999988 ], [ -0.405829, 45.6544585 ], [ -0.408932, 45.6561825 ], [ -0.4319205, 45.62447 ], [ -0.4145121, 45.616821 ], [ -0.405746, 45.619262499999984 ], [ -0.3873655, 45.6266805 ] ] ] } }
+]
+}

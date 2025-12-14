@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_anabatou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ανάβατου", "metric_roundness": 61.02, "metric_rectangularity": 69.56, "metric_mobile_fit": 77.06, "metric_aspect_ratio": 0.792, "metric_area_km2": 44.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.0586641, 38.40306 ], [ 26.0543611, 38.4114107 ], [ 26.059415, 38.417025 ], [ 26.0524585, 38.4391525 ], [ 26.0286209, 38.442532199999988 ], [ 26.0081788, 38.4394879 ], [ 26.0006825, 38.4348205 ], [ 25.9938105, 38.411798 ], [ 26.0424475, 38.377618499999983 ], [ 26.0586641, 38.40306 ] ] ] } }
+]
+}

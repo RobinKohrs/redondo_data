@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tourcelles_chaumont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tourcelles-Chaumont", "metric_roundness": 32.34, "metric_rectangularity": 62.53, "metric_mobile_fit": 19.94, "metric_aspect_ratio": 1.363, "metric_area_km2": 11.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.613923, 49.4116 ], [ 4.6140695, 49.408721 ], [ 4.604277, 49.4059045 ], [ 4.594939, 49.402126 ], [ 4.5919935, 49.39935 ], [ 4.5744535, 49.3940245 ], [ 4.5714775, 49.3945925 ], [ 4.5743358, 49.3911483 ], [ 4.5822027, 49.3913583 ], [ 4.582804, 49.3854035 ], [ 4.6112756, 49.391626599999988 ], [ 4.6124241, 49.395924199999989 ], [ 4.6184155, 49.399913 ], [ 4.628106, 49.406917499999984 ], [ 4.617059, 49.412439 ], [ 4.613923, 49.4116 ] ] ] } }
+]
+}

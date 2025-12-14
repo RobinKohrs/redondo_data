@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mila_el",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Milà, El", "metric_roundness": 58.93, "metric_rectangularity": 63.94, "metric_mobile_fit": 63.4, "metric_aspect_ratio": 0.929, "metric_area_km2": 7.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2185213, 41.2608477 ], [ 1.212848, 41.260459 ], [ 1.1972264, 41.2596909 ], [ 1.1943977, 41.2580443 ], [ 1.1911299, 41.250293 ], [ 1.1934688, 41.246707699999988 ], [ 1.1972264, 41.2449066 ], [ 1.210403, 41.235718499999983 ], [ 1.2102877, 41.2390529 ], [ 1.2150969, 41.2477929 ], [ 1.222163, 41.248759499999984 ], [ 1.2185213, 41.2608477 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baudoncourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baudoncourt", "metric_roundness": 48.65, "metric_rectangularity": 68.34, "metric_mobile_fit": 72.45, "metric_aspect_ratio": 0.838, "metric_area_km2": 16.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.358527, 47.792803 ], [ 6.3501923, 47.788869 ], [ 6.3409851, 47.788497899999989 ], [ 6.3244005, 47.7802645 ], [ 6.3286495, 47.776382 ], [ 6.3277335, 47.773982 ], [ 6.324871, 47.769667 ], [ 6.3252735, 47.7670415 ], [ 6.324012, 47.764473 ], [ 6.325013, 47.760027 ], [ 6.3365933, 47.7573258 ], [ 6.355741, 47.7689665 ], [ 6.3682485, 47.787626 ], [ 6.358527, 47.792803 ] ] ] } }
+]
+}

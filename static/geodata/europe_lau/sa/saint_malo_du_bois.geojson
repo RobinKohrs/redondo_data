@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_malo_du_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Malô-du-Bois", "metric_roundness": 46.7, "metric_rectangularity": 58.22, "metric_mobile_fit": 39.38, "metric_aspect_ratio": 1.169, "metric_area_km2": 29.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9214962, 46.9045163 ], [ -0.8921286, 46.9173508 ], [ -0.8745935, 46.919538499999987 ], [ -0.8719278, 46.927833499999984 ], [ -0.8673145, 46.928611 ], [ -0.895559, 46.931123899999974 ], [ -0.898686, 46.938216299999979 ], [ -0.9051483, 46.9381973 ], [ -0.9101892, 46.9346435 ], [ -0.9320115, 46.9427272 ], [ -0.937608, 46.94873 ], [ -0.9417073, 46.942593099999982 ], [ -0.9429795, 46.916071 ], [ -0.9214962, 46.9045163 ] ] ] } }
+]
+}

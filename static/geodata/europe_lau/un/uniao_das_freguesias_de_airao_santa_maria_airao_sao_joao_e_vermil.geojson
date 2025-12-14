@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_airao_santa_maria_airao_sao_joao_e_vermil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Airão Santa Maria, Airão São João e Vermil", "metric_roundness": 42.16, "metric_rectangularity": 57.1, "metric_mobile_fit": 38.9, "metric_aspect_ratio": 1.174, "metric_area_km2": 13.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.3911022, 41.4414671 ], [ -8.380734, 41.4506375 ], [ -8.381177, 41.461327499999989 ], [ -8.3970963, 41.4557029 ], [ -8.411354, 41.461711799999982 ], [ -8.4162795, 41.474454 ], [ -8.435329, 41.4637305 ], [ -8.4322655, 41.460992 ], [ -8.4104366, 41.4441418 ], [ -8.4018678, 41.4432338 ], [ -8.398377, 41.439588499999985 ], [ -8.3911022, 41.4414671 ] ] ] } }
+]
+}

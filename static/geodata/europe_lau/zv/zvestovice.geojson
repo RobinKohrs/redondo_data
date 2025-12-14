@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zvestovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zvěstovice", "metric_roundness": 41.65, "metric_rectangularity": 62.38, "metric_mobile_fit": 70.26, "metric_aspect_ratio": 0.86, "metric_area_km2": 6.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4953715, 49.858366499999988 ], [ 15.498663, 49.851918799999986 ], [ 15.495308, 49.8480327 ], [ 15.5002611, 49.8461165 ], [ 15.504751, 49.8391005 ], [ 15.5104525, 49.8393385 ], [ 15.5102181, 49.8427433 ], [ 15.5193493, 49.8387174 ], [ 15.525271, 49.8482 ], [ 15.496953, 49.861184499999986 ], [ 15.4953715, 49.858366499999988 ] ] ] } }
+]
+}

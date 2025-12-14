@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mont_de_marrast",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mont-de-Marrast", "metric_roundness": 31.31, "metric_rectangularity": 60.95, "metric_mobile_fit": -4.4, "metric_aspect_ratio": 1.607, "metric_area_km2": 13.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3432105, 43.381084 ], [ 0.3434215, 43.3768095 ], [ 0.3752709, 43.375560199999988 ], [ 0.385482, 43.383305499999985 ], [ 0.3863133, 43.389865 ], [ 0.4018295, 43.400653 ], [ 0.395494, 43.402076 ], [ 0.392117, 43.401296 ], [ 0.385744, 43.401639 ], [ 0.383563, 43.4005205 ], [ 0.381661, 43.4002615 ], [ 0.3718735, 43.400947 ], [ 0.3690115, 43.399905 ], [ 0.3618026, 43.391089899999976 ], [ 0.348662, 43.384151499999987 ], [ 0.3432105, 43.381084 ] ] ] } }
+]
+}

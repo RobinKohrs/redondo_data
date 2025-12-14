@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "herink",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Herink", "metric_roundness": 44.43, "metric_rectangularity": 70.79, "metric_mobile_fit": 92.08, "metric_aspect_ratio": 0.642, "metric_area_km2": 6.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5645175, 49.959886499999989 ], [ 14.584662, 49.953422499999974 ], [ 14.586022, 49.964237 ], [ 14.58023, 49.9705285 ], [ 14.5719061, 49.9749798 ], [ 14.565224, 49.97428 ], [ 14.5645175, 49.959886499999989 ] ] ] } }
+]
+}

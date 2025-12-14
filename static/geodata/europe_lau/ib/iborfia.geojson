@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "iborfia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Iborfia", "metric_roundness": 40.89, "metric_rectangularity": 67.31, "metric_mobile_fit": 92.83, "metric_aspect_ratio": 0.491, "metric_area_km2": 5.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.7587436, 46.736279 ], [ 16.7528605, 46.7425475 ], [ 16.7503515, 46.7435795 ], [ 16.747086, 46.7418775 ], [ 16.7412383, 46.734858699999982 ], [ 16.7444381, 46.7273819 ], [ 16.7502869, 46.7237071 ], [ 16.7493495, 46.719134499999974 ], [ 16.7575515, 46.720013 ], [ 16.7587436, 46.736279 ] ] ] } }
+]
+}

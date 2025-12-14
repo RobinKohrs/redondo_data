@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_altomiron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αλτομιρών", "metric_roundness": 53.67, "metric_rectangularity": 66.32, "metric_mobile_fit": 35.88, "metric_aspect_ratio": 1.204, "metric_area_km2": 23.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2522863, 36.9639168 ], [ 22.256998, 36.9745505 ], [ 22.2289605, 36.9869977 ], [ 22.224027, 36.998920499999983 ], [ 22.2092312, 36.9969189 ], [ 22.193888, 36.9898915 ], [ 22.202328, 36.983191399999988 ], [ 22.2031473, 36.9669986 ], [ 22.2086925, 36.9570365 ], [ 22.2522863, 36.9639168 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "frassilongo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frassilongo", "metric_roundness": 63.98, "metric_rectangularity": 79.91, "metric_mobile_fit": 57.63, "metric_aspect_ratio": 0.986, "metric_area_km2": 35.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3312113, 46.0926091 ], [ 11.3050557, 46.097919199999978 ], [ 11.298569, 46.0946565 ], [ 11.2919393, 46.092265299999987 ], [ 11.285268, 46.084664499999988 ], [ 11.2832308, 46.0811864 ], [ 11.2863597, 46.0767148 ], [ 11.2835305, 46.071897 ], [ 11.3020475, 46.0611065 ], [ 11.3128431, 46.0609018 ], [ 11.334508, 46.050032 ], [ 11.3412045, 46.060556 ], [ 11.3430923, 46.0700014 ], [ 11.3513085, 46.076094 ], [ 11.3312113, 46.0926091 ] ] ] } }
+]
+}

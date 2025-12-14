@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carrazeda_de_ansiaes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carrazeda de Ansiães", "metric_roundness": 49.95, "metric_rectangularity": 59.89, "metric_mobile_fit": 86.36, "metric_aspect_ratio": 0.699, "metric_area_km2": 15.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.3013224, 41.2668246 ], [ -7.3190985, 41.24153 ], [ -7.3139173, 41.2323117 ], [ -7.2993325, 41.2254855 ], [ -7.2823715, 41.228633 ], [ -7.28195, 41.233620499999986 ], [ -7.2936442, 41.2373988 ], [ -7.2915249, 41.2505594 ], [ -7.2862991, 41.259368699999982 ], [ -7.2806708, 41.2606588 ], [ -7.287286, 41.266809 ], [ -7.3013224, 41.2668246 ] ] ] } }
+]
+}

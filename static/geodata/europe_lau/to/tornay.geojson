@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tornay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tornay", "metric_roundness": 44.45, "metric_rectangularity": 55.92, "metric_mobile_fit": 69.2, "metric_aspect_ratio": 0.87, "metric_area_km2": 16.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.608669, 47.708558499999981 ], [ 5.5772085, 47.707475499999987 ], [ 5.5710315, 47.706792 ], [ 5.5840787, 47.7007273 ], [ 5.5852818, 47.690659499999988 ], [ 5.5968105, 47.6716415 ], [ 5.606093, 47.675206499999987 ], [ 5.6073473, 47.6827328 ], [ 5.612122, 47.6883722 ], [ 5.6129392, 47.6947807 ], [ 5.6181945, 47.6996583 ], [ 5.618772, 47.703759499999975 ], [ 5.608669, 47.708558499999981 ] ] ] } }
+]
+}

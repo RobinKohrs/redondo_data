@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lickovadamos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lickóvadamos", "metric_roundness": 41.79, "metric_rectangularity": 63.26, "metric_mobile_fit": 83.92, "metric_aspect_ratio": 0.723, "metric_area_km2": 14.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.7852733, 46.7510659 ], [ 16.7683635, 46.759076 ], [ 16.7670481, 46.7546581 ], [ 16.7528605, 46.7425475 ], [ 16.7587436, 46.736279 ], [ 16.7575515, 46.720013 ], [ 16.7641442, 46.722065199999989 ], [ 16.7705729, 46.729930699999983 ], [ 16.781193, 46.7316789 ], [ 16.7891035, 46.74045 ], [ 16.7899815, 46.7434155 ], [ 16.7940905, 46.7501505 ], [ 16.7852733, 46.7510659 ] ] ] } }
+]
+}

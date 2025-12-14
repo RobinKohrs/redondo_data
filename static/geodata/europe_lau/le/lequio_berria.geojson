@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lequio_berria",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lequio Berria", "metric_roundness": 45.99, "metric_rectangularity": 68.97, "metric_mobile_fit": -0.83, "metric_aspect_ratio": 1.571, "metric_area_km2": 22.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.125773, 44.6011743 ], [ 8.133991, 44.610263 ], [ 8.1175442, 44.616221 ], [ 8.1165655, 44.6204785 ], [ 8.0927179, 44.6175772 ], [ 8.080203, 44.622342 ], [ 8.0766878, 44.6129756 ], [ 8.063361, 44.6077935 ], [ 8.083879, 44.597798 ], [ 8.122636, 44.59033 ], [ 8.1265995, 44.5905135 ], [ 8.125773, 44.6011743 ] ] ] } }
+]
+}

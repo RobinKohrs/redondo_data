@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hencse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hencse", "metric_roundness": 53.75, "metric_rectangularity": 68.34, "metric_mobile_fit": 64.88, "metric_aspect_ratio": 0.914, "metric_area_km2": 14.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5937745, 46.207008 ], [ 17.590256, 46.197387 ], [ 17.6031027, 46.1931334 ], [ 17.6064095, 46.181757 ], [ 17.614614, 46.183138 ], [ 17.6246332, 46.1939648 ], [ 17.6345249, 46.196539 ], [ 17.6303853, 46.2004326 ], [ 17.6266915, 46.215291 ], [ 17.5937745, 46.207008 ] ] ] } }
+]
+}

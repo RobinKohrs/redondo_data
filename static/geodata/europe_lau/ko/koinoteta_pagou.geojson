@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pagou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πάγου", "metric_roundness": 64.01, "metric_rectangularity": 75.45, "metric_mobile_fit": 70.53, "metric_aspect_ratio": 0.857, "metric_area_km2": 7.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.917321, 37.428223 ], [ 24.9149215, 37.4288 ], [ 24.9129325, 37.429687 ], [ 24.909144, 37.4320805 ], [ 24.8928415, 37.410459 ], [ 24.8976885, 37.409031 ], [ 24.903804, 37.405925499999988 ], [ 24.908876, 37.404559 ], [ 24.9148955, 37.406646 ], [ 24.9191935, 37.4090025 ], [ 24.922546, 37.411294 ], [ 24.919802, 37.4282045 ], [ 24.917321, 37.428223 ] ] ] } }
+]
+}

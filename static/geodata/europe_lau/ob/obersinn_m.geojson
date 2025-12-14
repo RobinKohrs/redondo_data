@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "obersinn_m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Obersinn, M", "metric_roundness": 50.73, "metric_rectangularity": 75.27, "metric_mobile_fit": 3.89, "metric_aspect_ratio": 1.524, "metric_area_km2": 27.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5814188, 50.21834819999998 ], [ 9.5884276, 50.2109261 ], [ 9.58835, 50.207263 ], [ 9.6229389, 50.199175 ], [ 9.646746, 50.20334 ], [ 9.6529173, 50.205403 ], [ 9.6455965, 50.2257905 ], [ 9.6292915, 50.229204 ], [ 9.623151, 50.22904 ], [ 9.6204015, 50.2275255 ], [ 9.6222811, 50.2254101 ], [ 9.6200568, 50.223485099999976 ], [ 9.596173, 50.222658 ], [ 9.5814188, 50.21834819999998 ] ] ] } }
+]
+}

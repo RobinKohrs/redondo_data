@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pialeias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πιαλείας", "metric_roundness": 44.62, "metric_rectangularity": 67.0, "metric_mobile_fit": -6.43, "metric_aspect_ratio": 1.627, "metric_area_km2": 31.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.632435, 39.5127905 ], [ 21.615628, 39.5259202 ], [ 21.599937, 39.526079 ], [ 21.5508505, 39.5183075 ], [ 21.5485636, 39.5108128 ], [ 21.5534521, 39.5028671 ], [ 21.5664077, 39.4946564 ], [ 21.5806532, 39.4933848 ], [ 21.577563, 39.485711 ], [ 21.5980031, 39.5003594 ], [ 21.6155682, 39.50058 ], [ 21.6336795, 39.507895499999982 ], [ 21.632435, 39.5127905 ] ] ] } }
+]
+}

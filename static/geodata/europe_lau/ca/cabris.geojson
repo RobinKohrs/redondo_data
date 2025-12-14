@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cabris",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cabris", "metric_roundness": 57.15, "metric_rectangularity": 70.61, "metric_mobile_fit": 65.78, "metric_aspect_ratio": 0.905, "metric_area_km2": 10.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8947648, 43.6574667 ], [ 6.8871242, 43.6673341 ], [ 6.888588, 43.672199 ], [ 6.8807736, 43.6734955 ], [ 6.8607545, 43.667055499999989 ], [ 6.8659053, 43.6596168 ], [ 6.8642551, 43.6540031 ], [ 6.8690825, 43.6523694 ], [ 6.868989, 43.6463 ], [ 6.8845244, 43.6511764 ], [ 6.8935695, 43.647167 ], [ 6.8947648, 43.6574667 ] ] ] } }
+]
+}

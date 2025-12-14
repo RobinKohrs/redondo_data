@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stakendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stakendorf", "metric_roundness": 53.43, "metric_rectangularity": 72.16, "metric_mobile_fit": 93.67, "metric_aspect_ratio": 0.626, "metric_area_km2": 24.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.444865, 54.403197 ], [ 10.4212025, 54.411706 ], [ 10.4144382, 54.411027499999989 ], [ 10.402458, 54.397421499999986 ], [ 10.406898, 54.391171799999988 ], [ 10.407379, 54.3839628 ], [ 10.4141443, 54.3781114 ], [ 10.415562, 54.372252499999981 ], [ 10.4354415, 54.3747515 ], [ 10.444865, 54.403197 ] ] ] } }
+]
+}

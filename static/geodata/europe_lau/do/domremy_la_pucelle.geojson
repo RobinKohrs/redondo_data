@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "domremy_la_pucelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Domrémy-la-Pucelle", "metric_roundness": 51.83, "metric_rectangularity": 62.76, "metric_mobile_fit": 24.42, "metric_aspect_ratio": 1.318, "metric_area_km2": 19.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.630931, 48.446059 ], [ 5.634923, 48.439874 ], [ 5.6359555, 48.4339415 ], [ 5.638442, 48.430723 ], [ 5.6375365, 48.428364 ], [ 5.6582335, 48.429114 ], [ 5.6736839, 48.425766 ], [ 5.6759283, 48.434516 ], [ 5.6861685, 48.435533499999984 ], [ 5.6825955, 48.440763499999989 ], [ 5.6836765, 48.443702 ], [ 5.6634851, 48.448878 ], [ 5.6576948, 48.4555495 ], [ 5.6495845, 48.455037 ], [ 5.6269835, 48.4488775 ], [ 5.630931, 48.446059 ] ] ] } }
+]
+}

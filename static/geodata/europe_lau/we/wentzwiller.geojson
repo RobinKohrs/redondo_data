@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wentzwiller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wentzwiller", "metric_roundness": 60.64, "metric_rectangularity": 85.4, "metric_mobile_fit": 40.65, "metric_aspect_ratio": 1.156, "metric_area_km2": 10.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4544785, 47.549464 ], [ 7.456806, 47.548054 ], [ 7.460105, 47.54223 ], [ 7.462818, 47.539992 ], [ 7.4658965, 47.536025 ], [ 7.4684225, 47.536003 ], [ 7.476452, 47.537529499999984 ], [ 7.4812115, 47.539158499999985 ], [ 7.4857975, 47.54208449999998 ], [ 7.493679, 47.544572 ], [ 7.4830195, 47.559603 ], [ 7.4596695, 47.554282499999985 ], [ 7.453259, 47.5533935 ], [ 7.4544785, 47.549464 ] ] ] } }
+]
+}

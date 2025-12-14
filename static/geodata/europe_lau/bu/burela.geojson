@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "burela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Burela", "metric_roundness": 48.86, "metric_rectangularity": 71.08, "metric_mobile_fit": 70.1, "metric_aspect_ratio": 0.861, "metric_area_km2": 14.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.371756, 43.644676499999989 ], [ -7.3649945, 43.6413495 ], [ -7.3598925, 43.6409075 ], [ -7.351741, 43.6406515 ], [ -7.343285, 43.6423495 ], [ -7.3421359, 43.6446641 ], [ -7.3539866, 43.6554205 ], [ -7.3572869, 43.6706058 ], [ -7.3684521, 43.676004899999988 ], [ -7.375932, 43.6750525 ], [ -7.3842329, 43.659364 ], [ -7.3772948, 43.6528676 ], [ -7.3750835, 43.644577 ], [ -7.371756, 43.644676499999989 ] ] ] } }
+]
+}

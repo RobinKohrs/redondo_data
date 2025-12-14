@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_andre_en_barrois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-André-en-Barrois", "metric_roundness": 62.04, "metric_rectangularity": 67.54, "metric_mobile_fit": 72.18, "metric_aspect_ratio": 0.841, "metric_area_km2": 21.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2097456, 49.011106699999971 ], [ 5.2157061, 49.0078166 ], [ 5.222998, 48.9920665 ], [ 5.2318803, 48.9950113 ], [ 5.2506415, 48.9910895 ], [ 5.2492, 49.0013708 ], [ 5.25679, 49.015507 ], [ 5.2481639, 49.019299499999981 ], [ 5.2458812, 49.023938099999981 ], [ 5.231927, 49.027793 ], [ 5.2175523, 49.022898399999988 ], [ 5.2098215, 49.017095499999982 ], [ 5.2097456, 49.011106699999971 ] ] ] } }
+]
+}

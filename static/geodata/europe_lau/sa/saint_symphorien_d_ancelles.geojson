@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_symphorien_d_ancelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Symphorien-d'Ancelles", "metric_roundness": 44.06, "metric_rectangularity": 54.11, "metric_mobile_fit": 56.31, "metric_aspect_ratio": 0.999, "metric_area_km2": 13.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.773899, 46.207280399999988 ], [ 4.7663305, 46.203328499999984 ], [ 4.7491145, 46.2061025 ], [ 4.7572275, 46.188894399999988 ], [ 4.7678048, 46.1862683 ], [ 4.7687377, 46.181935299999985 ], [ 4.775497, 46.177093 ], [ 4.7802085, 46.176676 ], [ 4.780243, 46.189052499999988 ], [ 4.7931995, 46.201913499999982 ], [ 4.793623, 46.20411 ], [ 4.792739, 46.2075045 ], [ 4.773899, 46.207280399999988 ] ] ] } }
+]
+}

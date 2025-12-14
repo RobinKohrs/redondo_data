@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "serrieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Serrières", "metric_roundness": 29.16, "metric_rectangularity": 41.02, "metric_mobile_fit": 95.69, "metric_aspect_ratio": 0.606, "metric_area_km2": 8.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7699315, 45.316014 ], [ 4.763354, 45.3219545 ], [ 4.7618515, 45.3240565 ], [ 4.7605325, 45.3274605 ], [ 4.760835, 45.336409 ], [ 4.757204, 45.336569 ], [ 4.753715, 45.33408 ], [ 4.7535796, 45.325663 ], [ 4.7596702, 45.319163599999989 ], [ 4.7524186, 45.3136748 ], [ 4.753609, 45.3085374 ], [ 4.748934, 45.298714 ], [ 4.755312, 45.3002045 ], [ 4.7704836, 45.3031114 ], [ 4.781537, 45.309874 ], [ 4.7699315, 45.316014 ] ] ] } }
+]
+}

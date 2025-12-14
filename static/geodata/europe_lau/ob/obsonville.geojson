@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "obsonville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Obsonville", "metric_roundness": 55.57, "metric_rectangularity": 73.93, "metric_mobile_fit": 36.77, "metric_aspect_ratio": 1.195, "metric_area_km2": 15.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.54102, 48.2217675 ], [ 2.5552775, 48.213543499999986 ], [ 2.554127, 48.211703 ], [ 2.5624565, 48.20907949999998 ], [ 2.564509, 48.199659 ], [ 2.5924229, 48.211711 ], [ 2.5904333, 48.22002 ], [ 2.5850425, 48.226234499999983 ], [ 2.5590405, 48.228328 ], [ 2.5422895, 48.223191 ], [ 2.54102, 48.2217675 ] ] ] } }
+]
+}

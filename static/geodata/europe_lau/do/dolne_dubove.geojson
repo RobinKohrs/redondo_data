@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolne_dubove",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolné Dubové", "metric_roundness": 52.18, "metric_rectangularity": 84.13, "metric_mobile_fit": 71.15, "metric_aspect_ratio": 0.851, "metric_area_km2": 23.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6206563, 48.4923168 ], [ 17.6140395, 48.499494 ], [ 17.584832, 48.516219 ], [ 17.5641415, 48.4999865 ], [ 17.5974135, 48.472208 ], [ 17.602588, 48.477071 ], [ 17.6206563, 48.4923168 ] ] ] } }
+]
+}

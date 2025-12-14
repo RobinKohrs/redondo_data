@@ -1,0 +1,375 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Pustá Kamenice,pusta_kamenice,pu,56.05,63.63,68.77
+europe_lau,Pustá Rybná,pusta_rybna,pu,37.92,48.84,46.92
+europe_lau,Pustiměř,pustimer,pu,71.37,72.34,53.66
+europe_lau,Pustina,pustina,pu,36.51,64.89,97.35
+europe_lau,Puklice,puklice,pu,54.91,70.58,17.6
+europe_lau,Pucking,pucking,pu,56.46,62.74,37.58
+europe_lau,Pucov,pucov,pu,54.01,71.08,14.65
+europe_lau,Putimov,putimov,pu,68.06,77.99,56.27
+europe_lau,Putzleinsdorf,putzleinsdorf,pu,36.9,51.72,93
+europe_lau,Puls,puls,pu,40.7,61.73,18.4
+europe_lau,Puchkirchen am Trattberg,puchkirchen_am_trattberg,pu,39.79,74.81,98.48
+europe_lau,Pühret,puhret,pu,48.34,65,-2.49
+europe_lau,Puchenau,puchenau,pu,51.3,60.68,58.84
+europe_lau,Puch bei Hallein,puch_bei_hallein,pu,39.4,62.86,39.37
+europe_lau,"Pulheim, Stadt",pulheim_stadt,pu,42.62,57.49,91.63
+europe_lau,Pünderich,punderich,pu,48.44,59.01,75.19
+europe_lau,Puderbach,puderbach,pu,54.88,76.29,45
+europe_lau,Pusterwald,pusterwald,pu,39.63,70.26,14.05
+europe_lau,PUKË,puke,pu,56.17,59.35,56.93
+europe_lau,Puch bei Weiz,puch_bei_weiz,pu,62.57,69.89,52.79
+europe_lau,"Puchheim, St",puchheim_st,pu,38.98,71.67,79.71
+europe_lau,Pürgen,purgen,pu,35.03,58.24,48.46
+europe_lau,Pupplinger Au,pupplinger_au,pu,12.35,43.1,88.12
+europe_lau,Püchersreuth,puchersreuth,pu,46.63,59.12,50.01
+europe_lau,Pullach i.Isartal,pullach_i_isartal,pu,29.42,66.19,77.11
+europe_lau,Putzbrunn,putzbrunn,pu,62.03,73.87,75.74
+europe_lau,"Püttlingen, Stadt",puttlingen_stadt,pu,55.07,72.51,82.12
+europe_lau,Puschendorf,puschendorf,pu,54.72,68.11,62.09
+europe_lau,Pulpí,pulpi,pu,36.65,75.34,23.97
+europe_lau,Purchena,purchena,pu,51.4,58.34,63.23
+europe_lau,Pueblonuevo del Guadiana,pueblonuevo_del_guadiana,pu,54.27,65.93,49.56
+europe_lau,Puigpunyent,puigpunyent,pu,54.02,63.1,54.45
+europe_lau,Pueblonuevo de Miramontes,pueblonuevo_de_miramontes,pu,51.24,63.37,82.49
+europe_lau,"Puerto de Santa María, El",puerto_de_santa_maria_el,pu,40.62,59.89,78.93
+europe_lau,Puerto Real,puerto_real,pu,41.17,54.35,2.11
+europe_lau,Puerto Serrano,puerto_serrano,pu,26.02,44.82,90.52
+europe_lau,"Puebla de Arganzón, La",puebla_de_arganzon_la,pu,45.98,64.59,36.14
+europe_lau,Puentedura,puentedura,pu,43.25,54.52,78.95
+europe_lau,Puerto Castilla,puerto_castilla,pu,38.58,51.64,74.15
+europe_lau,Pujalt,pujalt,pu,55.22,61.79,42.31
+europe_lau,Puebla de Almenara,puebla_de_almenara,pu,70.68,74.04,53.68
+europe_lau,Puebla del Salvador,puebla_del_salvador,pu,65.29,73.6,43.71
+europe_lau,Puebla de Arenoso,puebla_de_arenoso,pu,54.26,62.3,40.76
+europe_lau,Puigdàlber,puigdalber,pu,59.01,70.68,64.19
+europe_lau,Puig-reig,puig_reig,pu,43.61,54.46,78.74
+europe_lau,Puebla de Don Rodrigo,puebla_de_don_rodrigo,pu,36.49,69.22,-5.52
+europe_lau,Puebla del Príncipe,puebla_del_principe,pu,60.22,74.35,77.9
+europe_lau,Puerto Lápice,puerto_lapice,pu,38.84,56.48,94.24
+europe_lau,Puertollano,puertollano,pu,33.51,59.6,-31.78
+europe_lau,Puebla de Alcocer,puebla_de_alcocer,pu,21.83,32.39,93.81
+europe_lau,Puebla de la Calzada,puebla_de_la_calzada,pu,56.75,65.44,75.03
+europe_lau,Puebla de la Reina,puebla_de_la_reina,pu,33.91,59.09,-29.04
+europe_lau,Puebla del Maestre,puebla_del_maestre,pu,42.44,64.32,42.03
+europe_lau,Puebla del Prior,puebla_del_prior,pu,57.08,69.86,70.4
+europe_lau,Puebla de Obando,puebla_de_obando,pu,33.14,73.15,-51.63
+europe_lau,Puebla de Sancho Pérez,puebla_de_sancho_perez,pu,57.92,71.75,31.93
+europe_lau,Puebla de Don Fadrique,puebla_de_don_fadrique,pu,56.98,66.03,44.5
+europe_lau,Pulianas,pulianas,pu,50.1,61.69,73.67
+europe_lau,Purullena,purullena,pu,37.98,44.15,69.69
+europe_lau,Puigcerdà,puigcerda,pu,18.4,35.52,87.64
+europe_lau,Puerto de Santa Cruz,puerto_de_santa_cruz,pu,50.98,64.91,66.28
+europe_lau,Puente Genil,puente_genil,pu,68.82,71.22,67.19
+europe_lau,Putte,putte,pu,47.78,55.67,44.39
+europe_lau,Puurs-Sint-Amands,puurs_sint_amands,pu,36.99,51.26,11.42
+europe_lau,"Putlitz, Stadt",putlitz_stadt,pu,56.1,60.51,66.84
+europe_lau,"Putbus, Stadt",putbus_stadt,pu,37.65,61.1,14.97
+europe_lau,Putgarten,putgarten,pu,49.49,59.96,57.7
+europe_lau,Pudagla,pudagla,pu,58.87,66.04,62.28
+europe_lau,"Pulsnitz, Stadt",pulsnitz_stadt,pu,42.37,68.2,72.52
+europe_lau,Puschwitz / Bóšicy,puschwitz_bosicy,pu,64.64,67.1,60.91
+europe_lau,Pullenreuth,pullenreuth,pu,40.62,63.14,94.27
+europe_lau,Pully,pully,pu,21.26,50.53,49.03
+europe_lau,Pura,pura,pu,66.19,75.24,67.28
+europe_lau,Puyloubier,puyloubier,pu,54.73,61.12,51.94
+europe_lau,Puchay,puchay,pu,45.95,62.9,77.6
+europe_lau,Pullay,pullay,pu,45.27,71.42,49.19
+europe_lau,Puidoux,puidoux,pu,39.48,58.31,87.87
+europe_lau,Puebla de Albortón,puebla_de_alborton,pu,47.84,71.15,76.88
+europe_lau,"Puebla de Alfindén, La",puebla_de_alfinden_la,pu,39.48,55.74,66.53
+europe_lau,Puendeluna,puendeluna,pu,36.62,50.93,8.64
+europe_lau,Purujosa,purujosa,pu,55.88,71.53,57.32
+europe_lau,Puimichel,puimichel,pu,52.32,70.14,51.57
+europe_lau,Puimoisson,puimoisson,pu,54.95,72.01,40.84
+europe_lau,Puits,puits,pu,49.04,71.27,79.27
+europe_lau,Puligny-Montrachet,puligny_montrachet,pu,39.39,74.57,10.1
+europe_lau,Puilboreau,puilboreau,pu,73.9,76.35,57.04
+europe_lau,Puy-Saint-André,puy_saint_andre,pu,35.36,59.36,23.75
+europe_lau,Puy-Saint-Eusèbe,puy_saint_eusebe,pu,43.72,69.44,95.99
+europe_lau,Puy-Saint-Pierre,puy_saint_pierre,pu,64.51,81.48,57.8
+europe_lau,Puy-Saint-Vincent,puy_saint_vincent,pu,34.63,65.95,-27.82
+europe_lau,Puy-Sanières,puy_sanieres,pu,42.17,57.62,84.86
+europe_lau,Puy-du-Lac,puy_du_lac,pu,40.05,63.46,65.03
+europe_lau,Puyravault,puyravault,pu,39.47,66.57,52.74
+europe_lau,Puyrolland,puyrolland,pu,71.93,70.26,59.93
+europe_lau,Pudasjärvi,pudasjarvi,pu,61.16,70.05,60.84
+europe_lau,Pukkila,pukkila,pu,48.68,60.83,41.9
+europe_lau,Punkalaidun,punkalaidun,pu,56.09,61.58,60.41
+europe_lau,Puolanka,puolanka,pu,46.67,60.88,86.88
+europe_lau,Puumala,puumala,pu,40.78,55.74,7.98
+europe_lau,Puginier,puginier,pu,41.55,65.28,81.96
+europe_lau,Puichéric,puicheric,pu,41.46,56.54,38.11
+europe_lau,Puilaurens,puilaurens,pu,38.01,59.73,39.02
+europe_lau,Puivert,puivert,pu,58.66,63.04,52.05
+europe_lau,Puycapel,puycapel,pu,37.07,55.51,51.8
+europe_lau,Puessans,puessans,pu,46.36,62.32,62.54
+europe_lau,Pugey,pugey,pu,45.79,62.3,90.89
+europe_lau,Puget-Rostang,puget_rostang,pu,31.9,41.08,82.75
+europe_lau,Puget-Théniers,puget_theniers,pu,30.07,55.32,-59.02
+europe_lau,Putot-en-Auge,putot_en_auge,pu,66.51,79.34,51.82
+europe_lau,"Puebla de Híjar, La",puebla_de_hijar_la,pu,39.67,45.39,70.95
+europe_lau,"Puebla de Valverde, La",puebla_de_valverde_la,pu,33.08,50.48,98.1
+europe_lau,Puertomingalvo,puertomingalvo,pu,62.47,70.61,75.93
+europe_lau,"Puebla de Castro, La",puebla_de_castro_la,pu,39.65,58.98,96.99
+europe_lau,Puente de Montañana,puente_de_montanana,pu,48.48,54.89,72.97
+europe_lau,Puértolas,puertolas,pu,24.42,59.98,84.53
+europe_lau,Puebla de Pedraza,puebla_de_pedraza,pu,37.97,60.07,16.94
+europe_lau,Puebla de San Miguel,puebla_de_san_miguel,pu,55.9,65.06,69.06
+europe_lau,"Puig de Santa Maria, el",puig_de_santa_maria_el,pu,29.49,59.83,29.36
+europe_lau,Puçol,pucol,pu,32.94,71.12,-18.69
+europe_lau,Puilly-et-Charbeaux,puilly_et_charbeaux,pu,32.97,52.03,15.48
+europe_lau,Pure,pure,pu,61.76,76.28,67.35
+europe_lau,Puebla de Azaba,puebla_de_azaba,pu,40.08,62.09,41.24
+europe_lau,Puebla de San Medel,puebla_de_san_medel,pu,29.27,61.85,74.53
+europe_lau,Puebla de Yeltes,puebla_de_yeltes,pu,53.12,67.27,69.64
+europe_lau,Puente del Congosto,puente_del_congosto,pu,41.81,67.48,79.81
+europe_lau,Puertas,puertas,pu,57.67,70.42,27.22
+europe_lau,Puerto de Béjar,puerto_de_bejar,pu,39.73,47.63,65.75
+europe_lau,Puerto Seguro,puerto_seguro,pu,29.59,46.65,66.95
+europe_lau,"Pueyo de Araguás, El",pueyo_de_araguas_el,pu,62.51,70.12,54.21
+europe_lau,Pueyo de Santa Cruz,pueyo_de_santa_cruz,pu,46.12,62.33,53.98
+europe_lau,"Puebla de Valdavia, La",puebla_de_valdavia_la,pu,29.26,51.35,20.02
+europe_lau,Puebla de Beleña,puebla_de_belena,pu,46.05,62.58,31.45
+europe_lau,Puebla de Valles,puebla_de_valles,pu,48.14,58.94,54.61
+europe_lau,Puente la Reina de Jaca,puente_la_reina_de_jaca,pu,44,73.48,23.45
+europe_lau,Puente la Reina,puente_la_reina,pu,33.99,68.61,87.15
+europe_lau,Pueyo,pueyo,pu,47.85,60.39,41.83
+europe_lau,Puiggròs,puiggros,pu,39.18,62.74,87.42
+europe_lau,Puigverd d'Agramunt,puigverd_d_agramunt,pu,11.56,40.37,52.07
+europe_lau,Puigverd de Lleida,puigverd_de_lleida,pu,49.3,76.41,70.81
+europe_lau,Puebla de la Sierra,puebla_de_la_sierra,pu,67.84,69.26,68.75
+europe_lau,"Puebla de Almoradiel, La",puebla_de_almoradiel_la,pu,40.96,56.86,85.6
+europe_lau,"Puebla de Montalbán, La",puebla_de_montalban_la,pu,44.47,59.97,55.92
+europe_lau,"Pueblanueva, La",pueblanueva_la,pu,58.67,72.46,51.09
+europe_lau,"Puente del Arzobispo, El",puente_del_arzobispo_el,pu,60.79,81.56,18.61
+europe_lau,Puigpelat,puigpelat,pu,46.45,70.4,-21.34
+europe_lau,Puebla de Sanabria,puebla_de_sanabria,pu,49.88,56.2,62.69
+europe_lau,Pueblica de Valverde,pueblica_de_valverde,pu,48.15,55.59,46.56
+europe_lau,Puerto del Rosario,puerto_del_rosario,pu,50.02,73.93,8.7
+europe_lau,Puente de Génave,puente_de_genave,pu,38.85,54.43,66.66
+europe_lau,"Puerta de Segura, La",puerta_de_segura_la,pu,43.3,59.98,68.84
+europe_lau,"Puebla de Cazalla, La",puebla_de_cazalla_la,pu,45.68,65.77,93.17
+europe_lau,"Puebla de los Infantes, La",puebla_de_los_infantes_la,pu,63.47,73.4,31.66
+europe_lau,"Puebla del Río, La",puebla_del_rio_la,pu,21.69,43.81,94.71
+europe_lau,Puras,puras,pu,32.09,47.96,-19.34
+europe_lau,Puentes Viejas,puentes_viejas,pu,36.47,47.57,75.7
+europe_lau,Puerto de San Vicente,puerto_de_san_vicente,pu,33.12,78.5,40.21
+europe_lau,Pulgar,pulgar,pu,42.08,61.63,90.74
+europe_lau,Puerto de la Cruz,puerto_de_la_cruz,pu,48.81,69.96,-5.28
+europe_lau,Puntagorda,puntagorda,pu,28.7,46.98,-26.63
+europe_lau,Puntallana,puntallana,pu,36.58,46.22,27.81
+europe_lau,Puiseux-en-Retz,puiseux_en_retz,pu,63.13,71.7,31.39
+europe_lau,Puisieux-et-Clanlieu,puisieux_et_clanlieu,pu,41.56,58.57,-17.81
+europe_lau,Puits-et-Nuisement,puits_et_nuisement,pu,53.42,63.36,32.73
+europe_lau,Puebla de Guzmán,puebla_de_guzman,pu,35.35,58.59,-30.98
+europe_lau,Puerto Moral,puerto_moral,pu,52.26,71.26,79.63
+europe_lau,Punxín,punxin,pu,42.47,59.65,80.2
+europe_lau,Pujerra,pujerra,pu,36.91,70.33,89.19
+europe_lau,Puente Viesgo,puente_viesgo,pu,43.87,60,95.13
+europe_lau,Punta Umbría,punta_umbria,pu,21.23,51.07,38.44
+europe_lau,Puebla de Lillo,puebla_de_lillo,pu,50.19,67.45,26.45
+europe_lau,Puente de Domingo Flórez,puente_de_domingo_florez,pu,58.24,75.45,41.97
+europe_lau,Puerto Lumbreras,puerto_lumbreras,pu,45.36,65.56,39.11
+europe_lau,Pulligny,pulligny,pu,68,79.12,62.43
+europe_lau,Pulney,pulney,pu,49.05,64.31,94.29
+europe_lau,Pulnoy,pulnoy,pu,49.63,74.27,17.75
+europe_lau,Puxe,puxe,pu,34.79,70.45,-19.27
+europe_lau,Puxieux,puxieux,pu,61.52,76.94,32.7
+europe_lau,Puiseux-en-Bray,puiseux_en_bray,pu,49.91,61.44,25.61
+europe_lau,Puiseux-le-Hauberger,puiseux_le_hauberger,pu,65.39,67.15,77.01
+europe_lau,Puits-la-Vallée,puits_la_vallee,pu,53.2,69.66,81.85
+europe_lau,Pujo-le-Plan,pujo_le_plan,pu,51.47,59.64,37.33
+europe_lau,Puyol-Cazalet,puyol_cazalet,pu,69.72,76.71,58.74
+europe_lau,Puybrun,puybrun,pu,58.19,71.86,83.39
+europe_lau,Puyjourdes,puyjourdes,pu,40.47,55.32,62.14
+europe_lau,Puy-l'Évêque,puy_l_eveque,pu,47.47,64.98,89.22
+europe_lau,Pulkau,pulkau,pu,55.33,62.84,61.43
+europe_lau,Puiseaux,puiseaux,pu,69.36,71.36,50.04
+europe_lau,Puch-d'Agenais,puch_d_agenais,pu,65.45,67.5,49.27
+europe_lau,Pujols,pujols,pu,54.12,64.38,45.6
+europe_lau,Puymiclan,puymiclan,pu,55.6,69.3,43.34
+europe_lau,Puymirol,puymirol,pu,43.33,51.36,25.99
+europe_lau,Puysserampion,puysserampion,pu,56.55,64.21,67.35
+europe_lau,Puceul,puceul,pu,37.85,58.09,53.26
+europe_lau,Putanges-le-Lac,putanges_le_lac,pu,35.62,53.52,43.54
+europe_lau,Pulvérières,pulverieres,pu,44.42,58.06,56.44
+europe_lau,Puy-Guillaume,puy_guillaume,pu,44.3,61.69,32.03
+europe_lau,Puy-Saint-Gulmier,puy_saint_gulmier,pu,50.4,58.5,30.18
+europe_lau,Puiseux,puiseux,pu,72.59,79.54,46.69
+europe_lau,PUSTEC,pustec,pu,44.19,63.76,95.58
+europe_lau,Puisieulx,puisieulx,pu,25.92,62.11,92.58
+europe_lau,Pugnac,pugnac,pu,57.7,71.18,46.47
+europe_lau,Puisseguin,puisseguin,pu,60.89,71.98,56.56
+europe_lau,Pujols-sur-Ciron,pujols_sur_ciron,pu,42.67,66.42,76.05
+europe_lau,Pujols,pujols,pu,61.59,72.53,61.07
+europe_lau,Puybarban,puybarban,pu,25,45.56,99.91
+europe_lau,Puynormand,puynormand,pu,47.34,63.72,88.32
+europe_lau,Puy-Malsignat,puy_malsignat,pu,41.81,57.81,94.16
+europe_lau,Puéchabon,puechabon,pu,55.33,67.02,25.33
+europe_lau,Puilacher,puilacher,pu,49.83,73.51,35.25
+europe_lau,Puimisson,puimisson,pu,42.32,72.79,66.04
+europe_lau,Puissalicon,puissalicon,pu,52,74.09,65.25
+europe_lau,Puisserguier,puisserguier,pu,43.99,55.17,23.17
+europe_lau,Puechredon,puechredon,pu,50.31,76.09,97.07
+europe_lau,Pujaut,pujaut,pu,52.31,69.08,35.41
+europe_lau,Pujaudran,pujaudran,pu,59.1,65.42,47.2
+europe_lau,Puycasquier,puycasquier,pu,43.88,61.36,44.67
+europe_lau,Puylausic,puylausic,pu,42.96,64.81,91.31
+europe_lau,Puységur,puysegur,pu,35.16,66.7,0.28
+europe_lau,Puy-d'Arnac,puy_d_arnac,pu,70.82,73,53
+europe_lau,Publy,publy,pu,63.49,67.66,71.98
+europe_lau,Pupillin,pupillin,pu,51.05,67.49,78.48
+europe_lau,Puydaniel,puydaniel,pu,30.38,77.18,26.59
+europe_lau,Puymaurin,puymaurin,pu,42.35,61.32,24.26
+europe_lau,Puysségur,puyssegur,pu,48.11,63.89,57.71
+europe_lau,Puymoyen,puymoyen,pu,48.85,59.78,63.93
+europe_lau,Puyréaux,puyreaux,pu,45.5,63.4,20.24
+europe_lau,Puygiron,puygiron,pu,45.29,75.03,-13.44
+europe_lau,Puy-Saint-Martin,puy_saint_martin,pu,49.39,67.13,78.98
+europe_lau,Pussigny,pussigny,pu,45.08,65.27,6.76
+europe_lau,Puplinge,puplinge,pu,57.43,73.67,36.47
+europe_lau,Puéchoursi,puechoursi,pu,53.39,83.27,53.28
+europe_lau,Puybegon,puybegon,pu,52.9,63.31,64.8
+europe_lau,Puycalvel,puycalvel,pu,39.37,66.1,30.94
+europe_lau,Puycelsi,puycelsi,pu,38.11,46.88,33.09
+europe_lau,Puygouzon,puygouzon,pu,37.85,66.53,52.91
+europe_lau,Puylaurens,puylaurens,pu,44.72,53.02,45.01
+europe_lau,Puchevillers,puchevillers,pu,49.76,65.33,34.25
+europe_lau,Punchy,punchy,pu,50.86,66.39,83.7
+europe_lau,Puzeaux,puzeaux,pu,61.13,72.43,78.74
+europe_lau,Punerot,punerot,pu,55.96,62.82,74.08
+europe_lau,Puzieux,puzieux,pu,31.1,47.91,82.41
+europe_lau,Pučišća,pucisca,pu,57.16,82.57,32.13
+europe_lau,Pula - Pola,pula_pola,pu,56.63,56.57,47.3
+europe_lau,Punat,punat,pu,32.16,49.75,81.11
+europe_lau,Punitovci,punitovci,pu,29.3,46.21,-41.84
+europe_lau,Pušća,pusca,pu,39.21,57.53,98
+europe_lau,Pusignan,pusignan,pu,50.37,55.61,73.75
+europe_lau,Pulversheim,pulversheim,pu,49.36,68.04,48.43
+europe_lau,Puget-sur-Argens,puget_sur_argens,pu,38.9,65.83,92.22
+europe_lau,Puget-Ville,puget_ville,pu,25.5,43.81,-53.74
+europe_lau,Puycornet,puycornet,pu,43.13,65.86,1.04
+europe_lau,Puygaillard-de-Quercy,puygaillard_de_quercy,pu,23.39,42.94,96.55
+europe_lau,Puygaillard-de-Lomagne,puygaillard_de_lomagne,pu,29.56,39,44.86
+europe_lau,Puylagarde,puylagarde,pu,42.32,65.14,76.76
+europe_lau,Puylaroque,puylaroque,pu,38.42,43.59,60.68
+europe_lau,Puget,puget,pu,44.69,75.2,84.17
+europe_lau,Puyméras,puymeras,pu,24.9,39.95,21.94
+europe_lau,Puyvert,puyvert,pu,23.04,56.57,78.51
+europe_lau,Pujo,pujo,pu,67.01,77.68,50.88
+europe_lau,Puntous,puntous,pu,47.45,54.82,47.32
+europe_lau,Puydarrieux,puydarrieux,pu,53.59,73.8,23.1
+europe_lau,Puiseux-en-France,puiseux_en_france,pu,38.45,61.76,94.82
+europe_lau,Puiseux-Pontoise,puiseux_pontoise,pu,55.09,62,42.59
+europe_lau,Pusey,pusey,pu,57.44,69.75,37.31
+europe_lau,Pusy-et-Épenoux,pusy_et_epenoux,pu,48.87,58.09,70.38
+europe_lau,Pustá Polom,pusta_polom,pu,50.78,66.37,90.85
+europe_lau,Pugny-Chatenod,pugny_chatenod,pu,39.71,72.11,6.98
+europe_lau,Puygros,puygros,pu,42.99,67.2,11.89
+europe_lau,Puisenval,puisenval,pu,60.86,83,75.42
+europe_lau,Puberg,puberg,pu,47.99,59.14,67.86
+europe_lau,Puyvalador,puyvalador,pu,21.1,38.16,-54.13
+europe_lau,Puttelange-aux-Lacs,puttelange_aux_lacs,pu,40.43,71.83,-50
+europe_lau,Puttelange-lès-Thionville,puttelange_les_thionville,pu,43.27,64.11,6.19
+europe_lau,Puttigny,puttigny,pu,40.69,58.89,72.63
+europe_lau,Puzieux,puzieux,pu,59.87,78.65,81.51
+europe_lau,Puisieux,puisieux,pu,51.38,54.34,68.07
+europe_lau,Puyoô,puyoo,pu,40.02,62.33,23.11
+europe_lau,Publier,publier,pu,35.04,66.15,-22.49
+europe_lau,Purgerot,purgerot,pu,33.69,43.62,63.06
+europe_lau,Putscheid,putscheid,pu,46.18,52,47.12
+europe_lau,Putignano,putignano,pu,38.35,56.47,-21.26
+europe_lau,Pumenengo,pumenengo,pu,52.61,61.46,42.07
+europe_lau,Pulfero,pulfero,pu,51.67,60.9,76.7
+europe_lau,Pulsano,pulsano,pu,33.6,55.86,98.1
+europe_lau,Puńsk,punsk,pu,60.03,67.76,43.26
+europe_lau,Puclice,puclice,pu,64.59,69.55,39.56
+europe_lau,Puławy,pulawy,pu,37.08,60.82,98.35
+europe_lau,Puławy,pulawy,pu,44.32,47.32,62.04
+europe_lau,Purkersdorf,purkersdorf,pu,64.98,74.43,32.8
+europe_lau,Puegnago del Garda,puegnago_del_garda,pu,55.41,76.52,19.66
+europe_lau,Puck,puck,pu,56.15,68.52,40.88
+europe_lau,Puck,puck,pu,51.43,60.21,70.84
+europe_lau,Pułtusk,pultusk,pu,53.83,61.85,72.79
+europe_lau,Puszczykowo,puszczykowo,pu,46.39,55.88,70.75
+europe_lau,Pustověty,pustovety,pu,40.33,58.79,47.03
+europe_lau,Puiselet-le-Marais,puiselet_le_marais,pu,49.62,58.89,77.71
+europe_lau,Pussay,pussay,pu,47.06,63.28,64.39
+europe_lau,Pusztaszentlászló,pusztaszentlaszlo,pu,54,59.3,65.72
+europe_lau,Püspökhatvan,puspokhatvan,pu,47.33,68.92,24.07
+europe_lau,Puihardy,puihardy,pu,31.79,52.88,25.61
+europe_lau,Pusztaapáti,pusztaapati,pu,51.45,75.46,74.8
+europe_lau,Pusztafalu,pusztafalu,pu,68.36,74.78,67.12
+europe_lau,Pusztacsalád,pusztacsalad,pu,19.48,40.52,-8.37
+europe_lau,Püski,puski,pu,30.88,66.65,21.12
+europe_lau,Puteaux,puteaux,pu,45.61,59.85,80.17
+europe_lau,Puy-de-Serre,puy_de_serre,pu,39.75,46.62,45.06
+europe_lau,Puyravault,puyravault,pu,14.55,43.43,87.23
+europe_lau,Putnok,putnok,pu,36.4,63.33,53.62
+europe_lau,Pusztaederics,pusztaederics,pu,47.02,75.01,97.04
+europe_lau,Pusztavacs,pusztavacs,pu,54.89,68.15,51
+europe_lau,Pusztaszemes,pusztaszemes,pu,55.49,74.52,73.21
+europe_lau,Püspökszilágy,puspokszilagy,pu,29.53,60.91,48.1
+europe_lau,Pusztavám,pusztavam,pu,25.08,57.66,59
+europe_lau,Pusztaberki,pusztaberki,pu,51.26,58.51,57.42
+europe_lau,Puisieux,puisieux,pu,45.14,56.92,86.42
+europe_lau,Pusztadobos,pusztadobos,pu,54.91,79.17,87.05
+europe_lau,Purbach am Neusiedler See,purbach_am_neusiedler_see,pu,32.65,63.67,-5.71
+europe_lau,Pusztaszer,pusztaszer,pu,62.85,75.62,57.69
+europe_lau,Pusiano,pusiano,pu,21.85,45.12,82.63
+europe_lau,Pusztaföldvár,pusztafoldvar,pu,42.63,61.16,88.63
+europe_lau,Puchenstuben,puchenstuben,pu,67.71,72.05,44.56
+europe_lau,Pusztakovácsi,pusztakovacsi,pu,28.6,44.21,91.54
+europe_lau,Putim,putim,pu,56.47,65.99,32.26
+europe_lau,Püspökladány,puspokladany,pu,47.39,63.52,60.79
+europe_lau,Pusztacsó,pusztacso,pu,25.57,49.78,86.37
+europe_lau,Pusztamiske,pusztamiske,pu,68.49,80.96,32.48
+europe_lau,Pusztaszabolcs,pusztaszabolcs,pu,42.47,62.14,33.38
+europe_lau,Puchberg am Schneeberg,puchberg_am_schneeberg,pu,56.35,66.63,38.02
+europe_lau,Pusztamérges,pusztamerges,pu,60.23,73.88,49.01
+europe_lau,Pusztamagyaród,pusztamagyarod,pu,40.67,56.02,54.75
+europe_lau,Pusztaottlaka,pusztaottlaka,pu,24.72,62.41,-94.5
+europe_lau,Puglianello,puglianello,pu,49.46,66.97,64.57
+europe_lau,Purgstall an der Erlauf,purgstall_an_der_erlauf,pu,51.06,68.95,75.37
+europe_lau,Pusztamonostor,pusztamonostor,pu,73.35,79.74,63.76
+europe_lau,Pusztaradvány,pusztaradvany,pu,44.88,74.32,84.82
+europe_lau,Pusztazámor,pusztazamor,pu,40.33,76.32,81.82
+europe_lau,Pusztahencse,pusztahencse,pu,60.06,72.45,65.22
+europe_lau,Pulečný,pulecny,pu,44.48,71.63,99.14
+europe_lau,Pula,pula,pu,36.3,52.14,90.8
+europe_lau,Puchlovice,puchlovice,pu,42.56,69.19,69.22
+europe_lau,Pusté Pole,puste_pole,pu,53.45,64.01,30.55
+europe_lau,Pupping,pupping,pu,30.92,54.4,39.95
+europe_lau,Púchov,puchov,pu,28.06,36.55,83.97
+europe_lau,Pusté Sady,puste_sady,pu,44.16,58.69,12.92
+europe_lau,Pusté Úľany,puste_ulany,pu,45.17,63.03,33.93
+europe_lau,Pucov,pucov,pu,42.89,57.34,47.93
+europe_lau,Puszcza Mariańska,puszcza_marianska,pu,47.15,56.98,45.01
+europe_lau,Pusté Čemerné,puste_cemerne,pu,41.18,54.97,68.43
+europe_lau,Pui,pui,pu,28.65,41.33,52.53
+europe_lau,Puchenii Mari,puchenii_mari,pu,47.85,64.09,8.18
+europe_lau,Pucheni,pucheni,pu,42.52,59.8,85.52
+europe_lau,Pušovce,pusovce,pu,46.21,59,40.79
+europe_lau,Puieşti,puiesti,pu,47.57,52.71,56.85
+europe_lau,Pukanec,pukanec,pu,74.58,79.08,58.03
+europe_lau,Pustějov,pustejov,pu,47.8,57.21,31.92
+europe_lau,Puconci,puconci,pu,54.05,62.93,74.98
+europe_lau,Pufeşti,pufesti,pu,38.72,62.21,94.26
+europe_lau,Purmerend,purmerend,pu,50.79,71.62,49.09
+europe_lau,Pussos São Pedro,pussos_sao_pedro,pu,38.15,53.79,79.34
+europe_lau,Putna,putna,pu,63.53,69.59,72.08
+europe_lau,Purda,purda,pu,34.54,49.44,64.14
+europe_lau,Punghina,punghina,pu,52.59,73.8,24.11
+europe_lau,Puchaczów,puchaczow,pu,47.4,56.34,84.26
+europe_lau,Putineiu,putineiu,pu,44.94,59.5,70.89
+europe_lau,Purani,purani,pu,48.7,65.39,15.2
+europe_lau,Putifigari,putifigari,pu,52.36,64.25,72.33
+europe_lau,Pula,pula,pu,44.3,52.8,67.46
+europe_lau,Putten,putten,pu,52.13,67.68,15.14
+europe_lau,Puieşti,puiesti,pu,41.45,68.15,86.97
+europe_lau,Pungeşti,pungesti,pu,55.42,55.17,54.45
+europe_lau,Puşcasi,puscasi,pu,36.13,47.05,23.23
+europe_lau,Putineiu,putineiu,pu,45.33,66.95,57.23
+europe_lau,Püspökmolnári,puspokmolnari,pu,51.71,65.06,26.99
+europe_lau,Puiseux,puiseux,pu,61.62,71.06,54.51

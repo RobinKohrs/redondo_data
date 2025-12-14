@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luche_sur_brioux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Luché-sur-Brioux", "metric_roundness": 60.0, "metric_rectangularity": 75.59, "metric_mobile_fit": 51.81, "metric_aspect_ratio": 1.044, "metric_area_km2": 11.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.154715, 46.121779499999981 ], [ -0.1452012, 46.1263578 ], [ -0.1395802, 46.126069399999984 ], [ -0.1306215, 46.1386455 ], [ -0.1446345, 46.149231499999985 ], [ -0.1498885, 46.1473021 ], [ -0.1522033, 46.141342099999989 ], [ -0.1583768, 46.142449 ], [ -0.163432, 46.139733899999989 ], [ -0.1719965, 46.128824 ], [ -0.154715, 46.121779499999981 ] ] ] } }
+]
+}

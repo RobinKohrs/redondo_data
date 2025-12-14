@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "radimovice_u_zelce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Radimovice u Želče", "metric_roundness": 47.66, "metric_rectangularity": 72.47, "metric_mobile_fit": 27.24, "metric_aspect_ratio": 1.29, "metric_area_km2": 10.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6753606, 49.3785692 ], [ 14.6730787, 49.3854009 ], [ 14.676108, 49.388778499999987 ], [ 14.6388405, 49.382352 ], [ 14.6346499, 49.3778368 ], [ 14.639288, 49.370185 ], [ 14.6534345, 49.367855499999983 ], [ 14.6659365, 49.373406 ], [ 14.6753606, 49.3785692 ] ] ] } }
+]
+}

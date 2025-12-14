@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lettweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lettweiler", "metric_roundness": 51.02, "metric_rectangularity": 63.84, "metric_mobile_fit": 37.77, "metric_aspect_ratio": 1.185, "metric_area_km2": 15.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7440293, 49.7458402 ], [ 7.7211988, 49.748326599999977 ], [ 7.7183442, 49.746755 ], [ 7.7193019, 49.7422068 ], [ 7.7142515, 49.740734 ], [ 7.7179232, 49.7356455 ], [ 7.7167802, 49.728679799999981 ], [ 7.7244065, 49.720708499999986 ], [ 7.7392885, 49.727543499999982 ], [ 7.76488, 49.742956 ], [ 7.761183, 49.745244 ], [ 7.7587385, 49.745473 ], [ 7.751272, 49.7482275 ], [ 7.7440293, 49.7458402 ] ] ] } }
+]
+}

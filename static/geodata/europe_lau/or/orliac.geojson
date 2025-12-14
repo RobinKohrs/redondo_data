@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orliac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orliac", "metric_roundness": 39.69, "metric_rectangularity": 64.16, "metric_mobile_fit": 63.31, "metric_aspect_ratio": 0.929, "metric_area_km2": 21.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0362595, 44.706507 ], [ 1.041475, 44.705121 ], [ 1.045137, 44.704939 ], [ 1.046628, 44.703202 ], [ 1.0674733, 44.703524 ], [ 1.0809733, 44.693059499999983 ], [ 1.090008, 44.689948 ], [ 1.0835039, 44.6995579 ], [ 1.0899954, 44.7056118 ], [ 1.0849342, 44.7182858 ], [ 1.047706, 44.734176 ], [ 1.0430081, 44.7220323 ], [ 1.0339969, 44.7151005 ], [ 1.0321655, 44.706278499999982 ], [ 1.0362595, 44.706507 ] ] ] } }
+]
+}

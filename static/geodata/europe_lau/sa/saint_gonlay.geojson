@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_gonlay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Gonlay", "metric_roundness": 50.84, "metric_rectangularity": 66.57, "metric_mobile_fit": 23.33, "metric_aspect_ratio": 1.329, "metric_area_km2": 20.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0449474, 48.108268599999974 ], [ -2.0435694, 48.1121746 ], [ -2.0627121, 48.122436099999987 ], [ -2.076721, 48.123572 ], [ -2.082343, 48.127222799999977 ], [ -2.0898433, 48.124741699999987 ], [ -2.0978501, 48.1271991 ], [ -2.1049375, 48.123993 ], [ -2.1013185, 48.1127481 ], [ -2.105822, 48.1073875 ], [ -2.0825219, 48.10669 ], [ -2.0699675, 48.0959515 ], [ -2.0449474, 48.108268599999974 ] ] ] } }
+]
+}

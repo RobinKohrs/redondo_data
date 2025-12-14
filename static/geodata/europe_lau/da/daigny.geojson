@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "daigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Daigny", "metric_roundness": 42.82, "metric_rectangularity": 63.15, "metric_mobile_fit": 63.5, "metric_aspect_ratio": 0.927, "metric_area_km2": 6.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.0161094, 49.707823399999981 ], [ 5.0095285, 49.7144015 ], [ 4.9912229, 49.709473599999988 ], [ 4.988726, 49.702908 ], [ 4.988891, 49.701018 ], [ 4.987769, 49.699425 ], [ 4.9875425, 49.696411 ], [ 4.986513, 49.693764 ], [ 4.9983789, 49.698771799999989 ], [ 5.006668, 49.697452499999976 ], [ 5.0161094, 49.707823399999981 ] ] ] } }
+]
+}

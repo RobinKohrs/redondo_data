@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jilove_u_drzkova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jílové u Držkova", "metric_roundness": 30.24, "metric_rectangularity": 54.91, "metric_mobile_fit": 97.64, "metric_aspect_ratio": 0.539, "metric_area_km2": 8.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.284458, 50.667212 ], [ 15.2948412, 50.6617359 ], [ 15.307002, 50.6493425 ], [ 15.3090133, 50.654781799999988 ], [ 15.303966, 50.662225399999983 ], [ 15.312465, 50.676118 ], [ 15.288473, 50.682286 ], [ 15.284458, 50.667212 ] ] ] } }
+]
+}

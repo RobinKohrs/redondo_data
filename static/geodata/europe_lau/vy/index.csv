@@ -1,0 +1,114 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Vysoká,vysoka,vy,50.55,63.91,17.71
+europe_lau,Vysoká Srbská,vysoka_srbska,vy,50.46,69.18,18.8
+europe_lau,Vysokov,vysokov,vy,48.28,68.08,45.61
+europe_lau,Vysočany,vysocany,vy,46.95,60.5,12.96
+europe_lau,Vysoké Chvojno,vysoke_chvojno,vy,49.77,70.16,95.16
+europe_lau,Vyšehněvice,vysehnevice,vy,60.1,80.56,82.43
+europe_lau,Vyskeř,vysker,vy,43.48,63.85,52.43
+europe_lau,Vysoké nad Jizerou,vysoke_nad_jizerou,vy,31.97,39.97,89.01
+europe_lau,Vysoká Pec,vysoka_pec,vy,64.61,67.51,53.49
+europe_lau,Vyškovec,vyskovec,vy,35.95,54.57,0.61
+europe_lau,Vyškov,vyskov,vy,27.59,48.01,45.35
+europe_lau,Vysoké Popovice,vysoke_popovice,vy,49.22,68.02,38.15
+europe_lau,Vysoké Pole,vysoke_pole,vy,34.86,62.41,93
+europe_lau,Výprachtice,vyprachtice,vy,64.91,67.68,37.54
+europe_lau,Vysoké Mýto,vysoke_myto,vy,45.3,58.94,44.74
+europe_lau,Vyskytná nad Jihlavou,vyskytna_nad_jihlavou,vy,52.27,74.56,60.68
+europe_lau,Vysoké Studnice,vysoke_studnice,vy,61.85,69.08,36.37
+europe_lau,Vystrčenovice,vystrcenovice,vy,63.88,75.9,50.86
+europe_lau,Vysoké,vysoke,vy,40.05,71.35,37.41
+europe_lau,Výčapy,vycapy,vy,46.13,56.92,84.36
+europe_lau,Výšovice,vysovice,vy,33.83,57.06,71.87
+europe_lau,Vysoká,vysoka,vy,54.43,63.78,63.89
+europe_lau,Výrovice,vyrovice,vy,41.89,61.32,47.59
+europe_lau,Vysočany,vysocany,vy,43.17,69.56,61.88
+europe_lau,Vysoká Libyně,vysoka_libyne,vy,42.3,58.91,-2.92
+europe_lau,Vysoký Újezd,vysoky_ujezd,vy,49.87,65.7,10.78
+europe_lau,Vyt-lès-Belvoir,vyt_les_belvoir,vy,54.04,69.35,26.62
+europe_lau,Vyžlovka,vyzlovka,vy,30.81,46.28,82.81
+europe_lau,Vyans-le-Val,vyans_le_val,vy,50,76.85,86.08
+europe_lau,Vy-le-Ferroux,vy_le_ferroux,vy,42.91,68.1,-10.54
+europe_lau,Vy-lès-Lure,vy_les_lure,vy,56.12,74.54,59
+europe_lau,Vy-lès-Rupt,vy_les_rupt,vy,62.56,76.87,62.13
+europe_lau,Vy-lès-Filain,vy_les_filain,vy,31.61,51.19,96.82
+europe_lau,Vysoká,vysoka,vy,60.24,69.78,51.14
+europe_lau,Vyšehořovice,vysehorovice,vy,54.56,64.95,75.76
+europe_lau,Vysoká u Příbramě,vysoka_u_pribrame,vy,53.2,63.25,29.36
+europe_lau,Vysoká,vysoka,vy,56.89,74.4,2.76
+europe_lau,Vysoký Újezd,vysoky_ujezd,vy,23.49,60.96,16.1
+europe_lau,Vysoká Lhota,vysoka_lhota,vy,39.45,69.92,96.08
+europe_lau,Vystrkov,vystrkov,vy,48.56,65.11,6.74
+europe_lau,Vyšní Lhoty,vysni_lhoty,vy,48.97,64.68,52.51
+europe_lau,Vykáň,vykan,vy,43.55,52.1,14.38
+europe_lau,Vysoký Újezd,vysoky_ujezd,vy,45.33,64.32,90.46
+europe_lau,Vyžice,vyzice,vy,29.62,64.73,-108.32
+europe_lau,Vyšší Brod,vyssi_brod,vy,31.29,51.41,66.77
+europe_lau,Vysoký Chlumec,vysoky_chlumec,vy,46.27,50.79,41.3
+europe_lau,Výkleky,vykleky,vy,65.54,73.02,52.31
+europe_lau,Vyškovce nad Ipľom,vyskovce_nad_iplom,vy,52.7,66.87,76
+europe_lau,Vyšné nad Hronom,vysne_nad_hronom,vy,56.19,68.49,75.62
+europe_lau,Vyšné Repaše,vysne_repase,vy,48.08,62.43,66.72
+europe_lau,Vyšný Slavkov,vysny_slavkov,vy,76.03,83.41,59.81
+europe_lau,Vyšné Ružbachy,vysne_ruzbachy,vy,49.75,72.67,55.83
+europe_lau,Vysoké Veselí,vysoke_veseli,vy,60.12,64.8,39.54
+europe_lau,Vysoká nad Kysucou,vysoka_nad_kysucou,vy,46.74,56.65,55.59
+europe_lau,Vyšná Hutka,vysna_hutka,vy,52.77,78.31,10.17
+europe_lau,Vyšná Kamenica,vysna_kamenica,vy,39.33,74.93,-0.05
+europe_lau,Vyšná Myšľa,vysna_mysla,vy,36.93,61.36,95.5
+europe_lau,Vyšný Čaj,vysny_caj,vy,46.02,65.75,64.71
+europe_lau,Vyšný Klátov,vysny_klatov,vy,39.57,53.52,20.48
+europe_lau,Vydrná,vydrna,vy,49.11,66.04,88.42
+europe_lau,Vyšné Valice,vysne_valice,vy,39.54,57.17,94.35
+europe_lau,Vyšný Hrabovec,vysny_hrabovec,vy,61.41,70.21,50.99
+europe_lau,Vysoké Tatry,vysoke_tatry,vy,35.42,50.52,-1.23
+europe_lau,Vyšný Medzev,vysny_medzev,vy,33.52,50.28,83.67
+europe_lau,Vysočina,vysocina,vy,38.3,44.19,40.74
+europe_lau,Výrava,vyrava,vy,50.97,62.22,70.76
+europe_lau,Vysoká nad Labem,vysoka_nad_labem,vy,45.53,58.53,34.42
+europe_lau,Výsluní,vysluni,vy,58.29,66.49,72.48
+europe_lau,Vyšný Kubín,vysny_kubin,vy,49.4,67.18,64.91
+europe_lau,Vyškovce,vyskovce,vy,61.19,64.9,45.97
+europe_lau,Vyšná Jedľová,vysna_jedlova,vy,48.18,64.33,89.2
+europe_lau,Vysoká nad Uhom,vysoka_nad_uhom,vy,45.29,68.69,80.23
+europe_lau,Vyšná Rybnica,vysna_rybnica,vy,25.56,48.71,93.67
+europe_lau,Vyšné Nemecké,vysne_nemecke,vy,20.7,37.01,82.54
+europe_lau,Vyšné Remety,vysne_remety,vy,33.98,68.13,97.32
+europe_lau,Vysoká Pec,vysoka_pec,vy,51.8,66.57,53.16
+europe_lau,Vyšná Olšava,vysna_olsava,vy,62.18,77.89,67.09
+europe_lau,Vyšná Pisaná,vysna_pisana,vy,32.09,70.48,79.86
+europe_lau,Vyšný Komárnik,vysny_komarnik,vy,65.99,75.73,46.1
+europe_lau,Vyšný Mirošov,vysny_mirosov,vy,58.58,64.66,67.79
+europe_lau,Vyšný Orlík,vysny_orlik,vy,43.2,67.35,70.81
+europe_lau,Východná,vychodna,vy,30.09,45.26,94.47
+europe_lau,Vyšná Boca,vysna_boca,vy,40.84,66.24,-7.75
+europe_lau,Výčapy-Opatovce,vycapy_opatovce,vy,52.02,82.07,42.96
+europe_lau,Výborná,vyborna,vy,27.52,65.33,99.42
+europe_lau,Vydrník,vydrnik,vy,54.65,66.52,82.53
+europe_lau,Vysočany,vysocany,vy,56.19,76.62,34.98
+europe_lau,Vyšný Kazimír,vysny_kazimir,vy,33.09,53.16,69.11
+europe_lau,Vyšná Sitnica,vysna_sitnica,vy,49.15,65.82,21
+europe_lau,Vyšný Žipov,vysny_zipov,vy,50.31,66.84,94.55
+europe_lau,Vyšná Polianka,vysna_polianka,vy,63.49,84.65,70
+europe_lau,Vyšná Voľa,vysna_vola,vy,52.69,69.52,48.64
+europe_lau,Vyšný Kručov,vysny_krucov,vy,32.62,67.48,69.68
+europe_lau,Vyšný Tvarožec,vysny_tvarozec,vy,54.15,66.83,47.09
+europe_lau,Vyšný Skálnik,vysny_skalnik,vy,39.92,67.77,95.84
+europe_lau,Vysoká (okres Sabinov),vysoka_okres_sabinov,vy,50.23,71.84,95.42
+europe_lau,Vyšná Šebastová,vysna_sebastova,vy,55.26,68.09,68.69
+europe_lau,Výrava,vyrava,vy,35.86,52.81,98.51
+europe_lau,Vyšná Jablonka,vysna_jablonka,vy,55.99,79.27,79.97
+europe_lau,Vyšné Ladičkovce,vysne_ladickovce,vy,52.48,69.29,90.84
+europe_lau,Vyšný Hrušov,vysny_hrusov,vy,39.03,47.09,61.21
+europe_lau,Vydrany,vydrany,vy,19.65,71.53,72.77
+europe_lau,Vyšehoří,vysehori,vy,33.25,51.43,30.92
+europe_lau,Vyšná Slaná,vysna_slana,vy,39.2,61.76,42.3
+europe_lau,Výškov,vyskov,vy,36.37,55.3,48.59
+europe_lau,Výrov,vyrov,vy,50.33,69.52,41.43
+europe_lau,Vysoká pri Morave,vysoka_pri_morave,vy,29.6,54.45,91.58
+europe_lau,Vyhne,vyhne,vy,60.53,65.9,42.68
+europe_lau,Vysoká (okres Banská Štiavnica),vysoka_okres_banska_stiavnica,vy,40.93,50.38,28.8
+europe_lau,Výžerky,vyzerky,vy,37.43,52.94,87.97
+europe_lau,Vyklantice,vyklantice,vy,41.23,58.2,11.35
+europe_lau,Vyskytná,vyskytna,vy,57.07,68.79,71.95
+europe_lau,Vydří,vydri,vy,58.56,76.36,71.63

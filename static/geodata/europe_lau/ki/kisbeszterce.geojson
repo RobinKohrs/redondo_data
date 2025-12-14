@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kisbeszterce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kisbeszterce", "metric_roundness": 53.43, "metric_rectangularity": 74.91, "metric_mobile_fit": 76.33, "metric_aspect_ratio": 0.799, "metric_area_km2": 15.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0157545, 46.188597799999989 ], [ 18.032102, 46.186250199999989 ], [ 18.040259, 46.192740499999985 ], [ 18.044774, 46.201069 ], [ 18.0455742, 46.207877 ], [ 18.0404126, 46.2163925 ], [ 18.027921, 46.219629499999989 ], [ 18.011262, 46.201910299999987 ], [ 18.0070295, 46.1868625 ], [ 18.0157545, 46.188597799999989 ] ] ] } }
+]
+}

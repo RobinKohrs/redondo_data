@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dingsheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dingsheim", "metric_roundness": 55.54, "metric_rectangularity": 74.3, "metric_mobile_fit": 24.49, "metric_aspect_ratio": 1.318, "metric_area_km2": 11.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6542905, 48.6103725 ], [ 7.66593, 48.612165499999982 ], [ 7.6774535, 48.6201106 ], [ 7.682962, 48.6197935 ], [ 7.6742196, 48.631736299999986 ], [ 7.6403775, 48.631034 ], [ 7.649246, 48.612860499999982 ], [ 7.6542905, 48.6103725 ] ] ] } }
+]
+}

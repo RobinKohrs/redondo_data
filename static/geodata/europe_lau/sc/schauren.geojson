@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schauren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schauren", "metric_roundness": 35.39, "metric_rectangularity": 58.93, "metric_mobile_fit": -7.02, "metric_aspect_ratio": 1.633, "metric_area_km2": 16.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2576085, 49.8031335 ], [ 7.2430845, 49.818296 ], [ 7.2406003, 49.8106533 ], [ 7.2238713, 49.814965799999989 ], [ 7.2220594, 49.822637899999989 ], [ 7.205681, 49.8239805 ], [ 7.200356, 49.819872499999988 ], [ 7.1948655, 49.816164499999985 ], [ 7.1891605, 49.81254 ], [ 7.2065095, 49.8033681 ], [ 7.2196781, 49.8050004 ], [ 7.2366839, 49.8008614 ], [ 7.2387045, 49.796926499999977 ], [ 7.2576085, 49.8031335 ] ] ] } }
+]
+}

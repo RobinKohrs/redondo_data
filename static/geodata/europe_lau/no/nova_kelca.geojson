@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nova_kelca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nová Kelča", "metric_roundness": 49.85, "metric_rectangularity": 61.32, "metric_mobile_fit": 71.25, "metric_aspect_ratio": 0.85, "metric_area_km2": 27.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7214202, 49.052954899999982 ], [ 21.723924, 49.0565735 ], [ 21.7276899, 49.062721299999986 ], [ 21.719367, 49.0755583 ], [ 21.7181635, 49.0873405 ], [ 21.7040375, 49.078733299999989 ], [ 21.6902015, 49.074261 ], [ 21.6663765, 49.065417 ], [ 21.675524, 49.058131 ], [ 21.6864231, 49.0551666 ], [ 21.7072765, 49.0400765 ], [ 21.7224605, 49.043615499999987 ], [ 21.7214202, 49.052954899999982 ] ] ] } }
+]
+}

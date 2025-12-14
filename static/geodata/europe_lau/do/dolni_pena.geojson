@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolni_pena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolní Pěna", "metric_roundness": 62.78, "metric_rectangularity": 72.31, "metric_mobile_fit": 51.35, "metric_aspect_ratio": 1.049, "metric_area_km2": 11.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.0182311, 49.1272779 ], [ 15.0133222, 49.122803799999986 ], [ 15.0045401, 49.12119269999998 ], [ 15.0023408, 49.1149962 ], [ 15.0060078, 49.111567399999984 ], [ 15.0050575, 49.105138 ], [ 15.0216296, 49.1013361 ], [ 15.043915, 49.118252 ], [ 15.0182311, 49.1272779 ] ] ] } }
+]
+}

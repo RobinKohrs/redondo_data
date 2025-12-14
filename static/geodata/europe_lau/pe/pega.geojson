@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pega", "metric_roundness": 50.19, "metric_rectangularity": 70.46, "metric_mobile_fit": 19.23, "metric_aspect_ratio": 1.37, "metric_area_km2": 17.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.1643663, 40.4274847 ], [ -7.1697997, 40.420882499999983 ], [ -7.1629391, 40.4201228 ], [ -7.1563921, 40.4150376 ], [ -7.139783, 40.4142985 ], [ -7.1217605, 40.424536499999988 ], [ -7.1373786, 40.434931899999988 ], [ -7.147838, 40.446819 ], [ -7.1651945, 40.444833299999985 ], [ -7.1778956, 40.439638499999987 ], [ -7.180299, 40.435745499999982 ], [ -7.1643663, 40.4274847 ] ] ] } }
+]
+}

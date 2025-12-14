@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "smrdaky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Smrdáky", "metric_roundness": 56.81, "metric_rectangularity": 84.44, "metric_mobile_fit": 80.23, "metric_aspect_ratio": 0.76, "metric_area_km2": 11.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.3184915, 48.7108935 ], [ 17.3204596, 48.7134547 ], [ 17.3186183, 48.72496349999998 ], [ 17.3129905, 48.736530499999979 ], [ 17.291533, 48.734944 ], [ 17.2906245, 48.734499 ], [ 17.2942631, 48.7225985 ], [ 17.2922128, 48.715921399999985 ], [ 17.3042715, 48.710639499999985 ], [ 17.3184915, 48.7108935 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sor", "metric_roundness": 47.38, "metric_rectangularity": 71.05, "metric_mobile_fit": 46.75, "metric_aspect_ratio": 1.095, "metric_area_km2": 1.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0167962, 42.924242 ], [ 1.0103385, 42.924711 ], [ 1.0066365, 42.923587499999989 ], [ 1.0058, 42.9195335 ], [ 1.0035835, 42.917610499999988 ], [ 1.002557, 42.91387 ], [ 1.0187675, 42.917476 ], [ 1.0167962, 42.924242 ] ] ] } }
+]
+}

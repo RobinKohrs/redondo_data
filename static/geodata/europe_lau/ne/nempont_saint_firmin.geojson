@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nempont_saint_firmin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nempont-Saint-Firmin", "metric_roundness": 43.67, "metric_rectangularity": 50.1, "metric_mobile_fit": 51.39, "metric_aspect_ratio": 1.049, "metric_area_km2": 10.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7251572, 50.3515735 ], [ 1.7300495, 50.347826 ], [ 1.7396328, 50.3545502 ], [ 1.7565817, 50.3573242 ], [ 1.761853, 50.361609499999986 ], [ 1.7649744, 50.3655608 ], [ 1.7519295, 50.3676125 ], [ 1.7442567, 50.358180399999974 ], [ 1.7356321, 50.373957 ], [ 1.7220225, 50.3712965 ], [ 1.7251572, 50.3515735 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "panyok",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pányok", "metric_roundness": 48.06, "metric_rectangularity": 67.34, "metric_mobile_fit": -12.96, "metric_aspect_ratio": 1.692, "metric_area_km2": 19.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3949585, 48.528658499999985 ], [ 21.3865747, 48.5315005 ], [ 21.3707481, 48.530634899999988 ], [ 21.3567762, 48.536825699999987 ], [ 21.3424, 48.538372 ], [ 21.3318168, 48.533273799999982 ], [ 21.3305043, 48.530103 ], [ 21.3310596, 48.524482099999986 ], [ 21.3409135, 48.5131455 ], [ 21.3935095, 48.520703 ], [ 21.3949585, 48.528658499999985 ] ] ] } }
+]
+}

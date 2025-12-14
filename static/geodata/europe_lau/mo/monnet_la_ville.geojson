@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monnet_la_ville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monnet-la-Ville", "metric_roundness": 21.95, "metric_rectangularity": 47.24, "metric_mobile_fit": -53.08, "metric_aspect_ratio": 2.093, "metric_area_km2": 13.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.8369513, 46.7276164 ], [ 5.8467001, 46.72853929999998 ], [ 5.8596385, 46.734842499999985 ], [ 5.8550365, 46.7355695 ], [ 5.8419909, 46.731649899999979 ], [ 5.8364031, 46.732665 ], [ 5.835714, 46.735532 ], [ 5.8162865, 46.729897799999989 ], [ 5.8051359, 46.734134 ], [ 5.7907045, 46.7234849 ], [ 5.7857005, 46.7153505 ], [ 5.8082936, 46.711356099999989 ], [ 5.8120465, 46.7181887 ], [ 5.817611, 46.716814 ], [ 5.8369513, 46.7276164 ] ] ] } }
+]
+}

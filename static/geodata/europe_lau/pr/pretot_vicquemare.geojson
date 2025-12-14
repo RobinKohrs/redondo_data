@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pretot_vicquemare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Prétot-Vicquemare", "metric_roundness": 36.59, "metric_rectangularity": 64.75, "metric_mobile_fit": 90.04, "metric_aspect_ratio": 0.463, "metric_area_km2": 10.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8543088, 49.7364412 ], [ 0.8568704, 49.741604499999987 ], [ 0.8524705, 49.748535499999974 ], [ 0.845609, 49.752353 ], [ 0.8411959, 49.7451946 ], [ 0.836054, 49.7426065 ], [ 0.8370428, 49.736767399999977 ], [ 0.8340868, 49.7313094 ], [ 0.8397274, 49.7267583 ], [ 0.8377915, 49.722168 ], [ 0.852741, 49.716927 ], [ 0.859458, 49.7248814 ], [ 0.858022, 49.727778499999985 ], [ 0.8584665, 49.7334515 ], [ 0.8543088, 49.7364412 ] ] ] } }
+]
+}

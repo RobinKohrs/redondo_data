@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_areias_sequeiro_lama_e_palmeira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Areias, Sequeiró, Lama e Palmeira", "metric_roundness": 32.09, "metric_rectangularity": 63.17, "metric_mobile_fit": -73.17, "metric_aspect_ratio": 2.294, "metric_area_km2": 18.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5005527, 41.3678684 ], [ -8.512708, 41.358481 ], [ -8.515684, 41.3524715 ], [ -8.5027196, 41.3523372 ], [ -8.4922728, 41.3557907 ], [ -8.4641601, 41.350692899999984 ], [ -8.4618454, 41.355996399999981 ], [ -8.4545545, 41.354775599999982 ], [ -8.448534, 41.358185499999983 ], [ -8.4409145, 41.3629275 ], [ -8.440636, 41.363498 ], [ -8.4482924, 41.3698483 ], [ -8.44934, 41.373957 ], [ -8.4563636, 41.375244699999989 ], [ -8.478136, 41.3706445 ], [ -8.4925725, 41.3697065 ], [ -8.5005527, 41.3678684 ] ] ] } }
+]
+}

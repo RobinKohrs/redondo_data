@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "athesans_etroitefontaine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Athesans-Étroitefontaine", "metric_roundness": 45.94, "metric_rectangularity": 62.79, "metric_mobile_fit": 43.92, "metric_aspect_ratio": 1.123, "metric_area_km2": 28.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5218005, 47.586285699999983 ], [ 6.531615, 47.581053 ], [ 6.5367372, 47.5836686 ], [ 6.5519275, 47.603016 ], [ 6.53528, 47.610599 ], [ 6.5229412, 47.605499899999984 ], [ 6.5026245, 47.612856 ], [ 6.5026803, 47.6073841 ], [ 6.493947, 47.603999 ], [ 6.4881655, 47.5965755 ], [ 6.4919509, 47.584037599999981 ], [ 6.4834871, 47.5755588 ], [ 6.4968085, 47.571767 ], [ 6.5218005, 47.586285699999983 ] ] ] } }
+]
+}

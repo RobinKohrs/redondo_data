@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nizna_kamenica",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nižná Kamenica", "metric_roundness": 34.16, "metric_rectangularity": 68.49, "metric_mobile_fit": -4.07, "metric_aspect_ratio": 1.603, "metric_area_km2": 30.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.519895, 48.7569953 ], [ 21.5377045, 48.7671715 ], [ 21.5451818, 48.774958 ], [ 21.5405147, 48.7809737 ], [ 21.540075, 48.7878635 ], [ 21.5194644, 48.782746099999983 ], [ 21.4891544, 48.770519799999981 ], [ 21.4683285, 48.7730175 ], [ 21.4558675, 48.756849 ], [ 21.4615175, 48.751146 ], [ 21.4717042, 48.7555443 ], [ 21.4928965, 48.7537375 ], [ 21.519895, 48.7569953 ] ] ] } }
+]
+}

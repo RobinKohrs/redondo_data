@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "renate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Renate", "metric_roundness": 65.87, "metric_rectangularity": 73.57, "metric_mobile_fit": 69.95, "metric_aspect_ratio": 0.863, "metric_area_km2": 5.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2722713, 45.7142928 ], [ 9.2842425, 45.712549 ], [ 9.2871472, 45.7148071 ], [ 9.2853382, 45.720493799999986 ], [ 9.291349, 45.7205535 ], [ 9.2863445, 45.730144399999986 ], [ 9.279409, 45.733180499999989 ], [ 9.2687975, 45.7261135 ], [ 9.2658455, 45.71883 ], [ 9.2722713, 45.7142928 ] ] ] } }
+]
+}

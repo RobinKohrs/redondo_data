@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martincek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martinček", "metric_roundness": 16.66, "metric_rectangularity": 43.43, "metric_mobile_fit": 79.48, "metric_aspect_ratio": 0.357, "metric_area_km2": 5.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.34234, 49.092588399999983 ], [ 19.3364974, 49.0982948 ], [ 19.3323937, 49.112468899999989 ], [ 19.338326, 49.122171 ], [ 19.3271019, 49.1196951 ], [ 19.3220037, 49.110525699999982 ], [ 19.3230561, 49.1046512 ], [ 19.3305173, 49.103000799999982 ], [ 19.3348375, 49.0977277 ], [ 19.3329126, 49.0923114 ], [ 19.3255607, 49.0883124 ], [ 19.329787, 49.084908 ], [ 19.34234, 49.092588399999983 ] ] ] } }
+]
+}

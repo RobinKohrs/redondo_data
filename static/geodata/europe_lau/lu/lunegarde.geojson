@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lunegarde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lunegarde", "metric_roundness": 59.09, "metric_rectangularity": 70.18, "metric_mobile_fit": 68.46, "metric_aspect_ratio": 0.878, "metric_area_km2": 20.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7150445, 44.6768315 ], [ 1.7123123, 44.6888078 ], [ 1.7136235, 44.696548899999989 ], [ 1.7025921, 44.7008852 ], [ 1.697711, 44.705586 ], [ 1.6879557, 44.7004167 ], [ 1.6652205, 44.6721045 ], [ 1.6714602, 44.667761 ], [ 1.6815923, 44.6656027 ], [ 1.6835135, 44.6652355 ], [ 1.6973275, 44.670758499999984 ], [ 1.7058165, 44.673451 ], [ 1.7150445, 44.6768315 ] ] ] } }
+]
+}

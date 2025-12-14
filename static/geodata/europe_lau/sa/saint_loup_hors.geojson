@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_loup_hors",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Loup-Hors", "metric_roundness": 46.12, "metric_rectangularity": 55.48, "metric_mobile_fit": 53.72, "metric_aspect_ratio": 1.025, "metric_area_km2": 12.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7421055, 49.247293 ], [ -0.7340345, 49.245756 ], [ -0.7200228, 49.2581949 ], [ -0.7047635, 49.265877 ], [ -0.7127488, 49.2667453 ], [ -0.7147408, 49.2720844 ], [ -0.725701, 49.269782 ], [ -0.7311067, 49.268576199999984 ], [ -0.7447335, 49.274723099999989 ], [ -0.742861, 49.267052 ], [ -0.7408602, 49.2634056 ], [ -0.7472757, 49.259670299999989 ], [ -0.7502715, 49.250401499999988 ], [ -0.7421055, 49.247293 ] ] ] } }
+]
+}

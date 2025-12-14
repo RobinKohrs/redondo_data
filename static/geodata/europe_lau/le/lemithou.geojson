@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lemithou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Λεμίθου", "metric_roundness": 67.46, "metric_rectangularity": 75.43, "metric_mobile_fit": 53.41, "metric_aspect_ratio": 1.028, "metric_area_km2": 9.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.7951014, 34.9525326 ], [ 32.787833, 34.951728 ], [ 32.790928, 34.9453571 ], [ 32.8007506, 34.9418596 ], [ 32.8094575, 34.934428 ], [ 32.820111499999989, 34.941577 ], [ 32.8234705, 34.9560405 ], [ 32.8088282, 34.9628314 ], [ 32.798257, 34.9622055 ], [ 32.7951014, 34.9525326 ] ] ] } }
+]
+}

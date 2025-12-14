@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mittelfischbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mittelfischbach", "metric_roundness": 40.66, "metric_rectangularity": 60.44, "metric_mobile_fit": 14.23, "metric_aspect_ratio": 1.42, "metric_area_km2": 4.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.964394, 50.259298 ], [ 7.9456755, 50.2567757 ], [ 7.9420835, 50.2536895 ], [ 7.954362, 50.2512974 ], [ 7.9675465, 50.2444415 ], [ 7.973606, 50.24742 ], [ 7.975081, 50.248461 ], [ 7.964394, 50.259298 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lafitole",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lafitole", "metric_roundness": 62.1, "metric_rectangularity": 65.28, "metric_mobile_fit": 64.15, "metric_aspect_ratio": 0.921, "metric_area_km2": 16.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0979364, 43.4504647 ], [ 0.0925913, 43.456826099999986 ], [ 0.0984305, 43.4617205 ], [ 0.0834615, 43.4669655 ], [ 0.0743511, 43.4588241 ], [ 0.0609662, 43.4589226 ], [ 0.0565236, 43.455650399999989 ], [ 0.0550603, 43.4466302 ], [ 0.061604, 43.4346295 ], [ 0.0791635, 43.431887 ], [ 0.0804706, 43.4401716 ], [ 0.0919258, 43.4430723 ], [ 0.099562, 43.441308 ], [ 0.0979364, 43.4504647 ] ] ] } }
+]
+}

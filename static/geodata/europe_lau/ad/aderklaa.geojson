@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aderklaa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aderklaa", "metric_roundness": 73.02, "metric_rectangularity": 76.83, "metric_mobile_fit": 65.26, "metric_aspect_ratio": 0.91, "metric_area_km2": 19.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5494315, 48.268525 ], [ 16.55133, 48.281769 ], [ 16.5477129, 48.2896557 ], [ 16.5404925, 48.293907899999986 ], [ 16.5250088, 48.294171 ], [ 16.5211904, 48.287001799999985 ], [ 16.514538, 48.285484 ], [ 16.5081883, 48.274545199999977 ], [ 16.5140594, 48.2680789 ], [ 16.5301567, 48.262617599999984 ], [ 16.546824, 48.2630805 ], [ 16.5494315, 48.268525 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "melegnano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Melegnano", "metric_roundness": 51.44, "metric_rectangularity": 63.93, "metric_mobile_fit": 40.48, "metric_aspect_ratio": 1.158, "metric_area_km2": 10.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3204253, 45.3513264 ], [ 9.3301447, 45.3459417 ], [ 9.3327903, 45.348875 ], [ 9.336059, 45.346695 ], [ 9.3391313, 45.35787269999998 ], [ 9.334001, 45.3679175 ], [ 9.3331075, 45.368028 ], [ 9.319895, 45.366886099999981 ], [ 9.312152, 45.359108299999974 ], [ 9.2972715, 45.3529555 ], [ 9.2982886, 45.3476592 ], [ 9.3042987, 45.3447635 ], [ 9.307195, 45.34262 ], [ 9.3204253, 45.3513264 ] ] ] } }
+]
+}

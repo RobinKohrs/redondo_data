@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_thomas_en_royans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Thomas-en-Royans", "metric_roundness": 51.06, "metric_rectangularity": 61.21, "metric_mobile_fit": 87.56, "metric_aspect_ratio": 0.687, "metric_area_km2": 10.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3010639, 45.0484783 ], [ 5.3057975, 45.055384 ], [ 5.3045494, 45.060989599999985 ], [ 5.291619, 45.0638905 ], [ 5.2883046, 45.060175799999982 ], [ 5.2792716, 45.060309 ], [ 5.2746815, 45.0569535 ], [ 5.2776575, 45.051544299999989 ], [ 5.2852583, 45.0471754 ], [ 5.2861408, 45.0402316 ], [ 5.2809825, 45.0354415 ], [ 5.2941206, 45.0318855 ], [ 5.3000495, 45.037076 ], [ 5.3010639, 45.0484783 ] ] ] } }
+]
+}

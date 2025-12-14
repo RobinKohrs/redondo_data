@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "torremejia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Torremejía", "metric_roundness": 72.46, "metric_rectangularity": 81.13, "metric_mobile_fit": 54.25, "metric_aspect_ratio": 1.02, "metric_area_km2": 38.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.3571345, 38.7781305 ], [ -6.34345, 38.789898 ], [ -6.338763, 38.7942925 ], [ -6.336659, 38.795159 ], [ -6.3446253, 38.8052059 ], [ -6.3830406, 38.819353 ], [ -6.3863401, 38.8184895 ], [ -6.408742, 38.7900038 ], [ -6.3990808, 38.7712086 ], [ -6.3795108, 38.7642701 ], [ -6.370907, 38.765402 ], [ -6.3571345, 38.7781305 ] ] ] } }
+]
+}

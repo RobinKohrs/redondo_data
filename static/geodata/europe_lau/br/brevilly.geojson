@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brevilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brévilly", "metric_roundness": 65.03, "metric_rectangularity": 70.35, "metric_mobile_fit": 55.91, "metric_aspect_ratio": 1.003, "metric_area_km2": 16.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.0986462, 49.6494643 ], [ 5.1034147, 49.6569452 ], [ 5.103341, 49.6618115 ], [ 5.0796609, 49.6690464 ], [ 5.0742803, 49.673940099999989 ], [ 5.0625835, 49.6728995 ], [ 5.05911, 49.6621911 ], [ 5.0675437, 49.6476245 ], [ 5.0727187, 49.645358 ], [ 5.0898725, 49.6466975 ], [ 5.0986462, 49.6494643 ] ] ] } }
+]
+}

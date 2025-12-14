@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_galiphas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαλίφας", "metric_roundness": 52.83, "metric_rectangularity": 58.0, "metric_mobile_fit": 64.59, "metric_aspect_ratio": 0.917, "metric_area_km2": 12.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.2878575, 35.24004 ], [ 25.299051, 35.2623765 ], [ 25.2936758, 35.274619799999989 ], [ 25.287345, 35.276129 ], [ 25.2873787, 35.2704279 ], [ 25.283719, 35.2685271 ], [ 25.2726145, 35.2725626 ], [ 25.2653963, 35.2635359 ], [ 25.257811, 35.2672155 ], [ 25.2588899, 35.258940499999987 ], [ 25.2686802, 35.2577752 ], [ 25.2770495, 35.244064500000015 ], [ 25.280837, 35.2393885 ], [ 25.2878575, 35.24004 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ceran",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Céran", "metric_roundness": 35.83, "metric_rectangularity": 60.74, "metric_mobile_fit": 73.8, "metric_aspect_ratio": 0.825, "metric_area_km2": 20.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7253955, 43.792099499999985 ], [ 0.7242907, 43.797340899999988 ], [ 0.7118323, 43.803369399999987 ], [ 0.7225199, 43.8187901 ], [ 0.7120765, 43.822111 ], [ 0.6882735, 43.8400045 ], [ 0.685945, 43.826567799999985 ], [ 0.6736529, 43.8281949 ], [ 0.670655, 43.822733 ], [ 0.6779453, 43.812455 ], [ 0.6888543, 43.8081683 ], [ 0.696032, 43.799733499999988 ], [ 0.7253955, 43.792099499999985 ] ] ] } }
+]
+}

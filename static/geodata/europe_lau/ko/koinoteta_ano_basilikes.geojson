@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_basilikes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Βασιλικής", "metric_roundness": 55.77, "metric_rectangularity": 68.5, "metric_mobile_fit": 71.32, "metric_aspect_ratio": 0.849, "metric_area_km2": 12.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.5857905, 38.3973305 ], [ 21.582187, 38.391273399999989 ], [ 21.588822, 38.370470499999989 ], [ 21.591823, 38.366311 ], [ 21.5935535, 38.36329 ], [ 21.6062623, 38.3642502 ], [ 21.6092105, 38.371344 ], [ 21.6221555, 38.3772705 ], [ 21.6086249, 38.385987 ], [ 21.594388, 38.400182499999985 ], [ 21.5857905, 38.3973305 ] ] ] } }
+]
+}

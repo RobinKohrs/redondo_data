@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "raucourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Raucourt", "metric_roundness": 54.41, "metric_rectangularity": 68.49, "metric_mobile_fit": 84.49, "metric_aspect_ratio": 0.718, "metric_area_km2": 11.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.205902, 48.9376945 ], [ 6.2085512, 48.922444 ], [ 6.205594, 48.9109175 ], [ 6.2136095, 48.9122225 ], [ 6.22107, 48.912331 ], [ 6.2224535, 48.9107475 ], [ 6.226466, 48.912371 ], [ 6.2358599, 48.9189727 ], [ 6.2370915, 48.924926499999984 ], [ 6.2343434, 48.9285954 ], [ 6.2247878, 48.9279905 ], [ 6.2230557, 48.938442299999977 ], [ 6.2057715, 48.93958749999998 ], [ 6.205902, 48.9376945 ] ] ] } }
+]
+}

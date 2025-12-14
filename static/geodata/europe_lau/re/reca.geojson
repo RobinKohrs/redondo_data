@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reca", "metric_roundness": 48.45, "metric_rectangularity": 66.89, "metric_mobile_fit": 61.59, "metric_aspect_ratio": 0.947, "metric_area_km2": 21.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.4641235, 48.2114498 ], [ 17.4714395, 48.209293 ], [ 17.4759606, 48.2170986 ], [ 17.472987, 48.221530099999988 ], [ 17.486253, 48.230652 ], [ 17.4745786, 48.2351039 ], [ 17.478442, 48.243573 ], [ 17.4683956, 48.2427442 ], [ 17.4538995, 48.246082 ], [ 17.4494162, 48.239038699999988 ], [ 17.443899, 48.238304 ], [ 17.4420396, 48.2253384 ], [ 17.4338815, 48.209226 ], [ 17.4641235, 48.2114498 ] ] ] } }
+]
+}

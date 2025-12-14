@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gallegos_del_pan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gallegos del Pan", "metric_roundness": 43.62, "metric_rectangularity": 57.8, "metric_mobile_fit": 39.34, "metric_aspect_ratio": 1.169, "metric_area_km2": 26.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.5876364, 41.613285499999982 ], [ -5.6033667, 41.6117723 ], [ -5.628462, 41.6038705 ], [ -5.619851, 41.592716 ], [ -5.6091856, 41.5955423 ], [ -5.5960686, 41.5873699 ], [ -5.5713322, 41.58248 ], [ -5.559487, 41.5763875 ], [ -5.5579616, 41.5889868 ], [ -5.5616692, 41.6061814 ], [ -5.587642, 41.621481 ], [ -5.5876364, 41.613285499999982 ] ] ] } }
+]
+}

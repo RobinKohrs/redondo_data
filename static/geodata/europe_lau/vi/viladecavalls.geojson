@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "viladecavalls",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Viladecavalls", "metric_roundness": 64.22, "metric_rectangularity": 73.66, "metric_mobile_fit": 60.55, "metric_aspect_ratio": 0.957, "metric_area_km2": 35.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9213312, 41.5570855 ], [ 1.928973, 41.5476763 ], [ 1.9322435, 41.53669 ], [ 1.9387825, 41.528516 ], [ 1.9590685, 41.53868 ], [ 1.9807567, 41.5529722 ], [ 1.9870933, 41.561056799999982 ], [ 1.982082, 41.571708799999989 ], [ 1.9673174, 41.572906799999984 ], [ 1.9608165, 41.5791805 ], [ 1.9430265, 41.5805535 ], [ 1.9272619, 41.571437499999988 ], [ 1.920542, 41.5714495 ], [ 1.9213312, 41.5570855 ] ] ] } }
+]
+}

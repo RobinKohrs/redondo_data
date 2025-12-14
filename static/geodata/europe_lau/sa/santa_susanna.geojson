@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_susanna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Susanna", "metric_roundness": 38.07, "metric_rectangularity": 73.73, "metric_mobile_fit": 48.08, "metric_aspect_ratio": 1.082, "metric_area_km2": 22.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.715177, 41.651661 ], [ 2.7044453, 41.658335 ], [ 2.694129, 41.670872 ], [ 2.6878774, 41.671754 ], [ 2.6598036, 41.6637929 ], [ 2.6634782, 41.6587202 ], [ 2.6819985, 41.6494555 ], [ 2.6956879, 41.6373252 ], [ 2.7030195, 41.624683499999989 ], [ 2.727942, 41.635109 ], [ 2.715177, 41.651661 ] ] ] } }
+]
+}

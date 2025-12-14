@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martorelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martorelles", "metric_roundness": 57.38, "metric_rectangularity": 95.4, "metric_mobile_fit": 42.35, "metric_aspect_ratio": 1.139, "metric_area_km2": 5.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2304895, 41.54111 ], [ 2.2207725, 41.5312 ], [ 2.242536, 41.520822 ], [ 2.2530885, 41.531737 ], [ 2.232743, 41.542061 ], [ 2.2304895, 41.54111 ] ] ] } }
+]
+}

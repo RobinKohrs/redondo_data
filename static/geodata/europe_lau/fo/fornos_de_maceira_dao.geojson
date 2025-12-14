@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fornos_de_maceira_dao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fornos de Maceira Dão", "metric_roundness": 43.65, "metric_rectangularity": 57.11, "metric_mobile_fit": 52.82, "metric_aspect_ratio": 1.034, "metric_area_km2": 28.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7998947, 40.599829199999981 ], [ -7.8002097, 40.607780299999988 ], [ -7.7950077, 40.6163129 ], [ -7.7985909, 40.6216122 ], [ -7.7808366, 40.6339575 ], [ -7.778317, 40.6393025 ], [ -7.7919558, 40.6337562 ], [ -7.8102489, 40.6358403 ], [ -7.8252435, 40.6334085 ], [ -7.8342379, 40.6207041 ], [ -7.8415637, 40.6151143 ], [ -7.847372, 40.615098 ], [ -7.831518, 40.592279 ], [ -7.810898, 40.588622499999985 ], [ -7.7998947, 40.599829199999981 ] ] ] } }
+]
+}

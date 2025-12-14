@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bohumilice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bohumilice", "metric_roundness": 71.19, "metric_rectangularity": 70.29, "metric_mobile_fit": 49.71, "metric_aspect_ratio": 1.065, "metric_area_km2": 7.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.821464, 49.105051599999989 ], [ 13.8221569, 49.1093937 ], [ 13.8155915, 49.109685899999988 ], [ 13.8040378, 49.1045106 ], [ 13.80107, 49.099163499999989 ], [ 13.8047409, 49.096776799999986 ], [ 13.80507, 49.0911075 ], [ 13.827518, 49.0902805 ], [ 13.8326452, 49.0951855 ], [ 13.8308495, 49.099148 ], [ 13.821464, 49.105051599999989 ] ] ] } }
+]
+}

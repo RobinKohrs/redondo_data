@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dobrovitov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dobrovítov", "metric_roundness": 68.65, "metric_rectangularity": 76.26, "metric_mobile_fit": 56.87, "metric_aspect_ratio": 0.994, "metric_area_km2": 21.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3007215, 49.773048499999987 ], [ 15.304599, 49.766538 ], [ 15.3151077, 49.766225 ], [ 15.338487, 49.7744335 ], [ 15.3408112, 49.7843598 ], [ 15.345861, 49.7860825 ], [ 15.3337745, 49.796128 ], [ 15.3269261, 49.80032 ], [ 15.322109, 49.79814 ], [ 15.319564, 49.7954714 ], [ 15.3005381, 49.792989199999987 ], [ 15.2944121, 49.7843247 ], [ 15.2956739, 49.7792369 ], [ 15.293383, 49.776713 ], [ 15.3007215, 49.773048499999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chueca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chueca", "metric_roundness": 51.32, "metric_rectangularity": 62.26, "metric_mobile_fit": 25.82, "metric_aspect_ratio": 1.304, "metric_area_km2": 18.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.9233226, 39.7320681 ], [ -3.9362241, 39.7426734 ], [ -3.9524555, 39.7465555 ], [ -3.9616225, 39.7359016 ], [ -3.9638664, 39.7242895 ], [ -3.9594981, 39.7139982 ], [ -3.949742, 39.714599499999984 ], [ -3.9391688, 39.7130994 ], [ -3.9233226, 39.717419799999981 ], [ -3.9071245, 39.7164995 ], [ -3.9142905, 39.7246435 ], [ -3.9233226, 39.7320681 ] ] ] } }
+]
+}

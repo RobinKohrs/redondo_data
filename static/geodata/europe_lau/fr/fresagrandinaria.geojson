@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fresagrandinaria",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fresagrandinaria", "metric_roundness": 47.8, "metric_rectangularity": 68.98, "metric_mobile_fit": 66.41, "metric_aspect_ratio": 0.898, "metric_area_km2": 46.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6368286, 41.989021 ], [ 14.6394393, 41.982192099999985 ], [ 14.634883, 41.9724225 ], [ 14.6466326, 41.9623561 ], [ 14.672479, 41.949701 ], [ 14.6912638, 41.968009099999982 ], [ 14.6999639, 41.972713800000015 ], [ 14.701173, 41.976771 ], [ 14.6674909, 41.991926299999989 ], [ 14.6572343, 42.0096802 ], [ 14.661845, 42.016133 ], [ 14.651739, 42.020931 ], [ 14.6396625, 42.019524 ], [ 14.6185455, 42.00408 ], [ 14.615081, 41.998052 ], [ 14.6368286, 41.989021 ] ] ] } }
+]
+}

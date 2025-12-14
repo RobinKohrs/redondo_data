@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gelenberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gelenberg", "metric_roundness": 52.59, "metric_rectangularity": 68.21, "metric_mobile_fit": 24.97, "metric_aspect_ratio": 1.313, "metric_area_km2": 9.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8800615, 50.283441499999981 ], [ 6.8874717, 50.2972898 ], [ 6.8686855, 50.302422499999984 ], [ 6.8565136, 50.3001818 ], [ 6.848469, 50.302123499999986 ], [ 6.8554155, 50.294335499999981 ], [ 6.857504, 50.293519 ], [ 6.8545555, 50.2881915 ], [ 6.8569705, 50.284241499999986 ], [ 6.8800615, 50.283441499999981 ] ] ] } }
+]
+}

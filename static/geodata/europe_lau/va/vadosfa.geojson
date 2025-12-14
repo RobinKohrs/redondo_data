@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vadosfa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vadosfa", "metric_roundness": 37.96, "metric_rectangularity": 59.89, "metric_mobile_fit": -11.25, "metric_aspect_ratio": 1.675, "metric_area_km2": 8.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.1013958, 47.489603099999989 ], [ 17.1393535, 47.4915525 ], [ 17.13906, 47.4952251 ], [ 17.1474493, 47.50121069999998 ], [ 17.141435, 47.506926 ], [ 17.1374852, 47.5089298 ], [ 17.1271282, 47.5064315 ], [ 17.1174474, 47.499034799999983 ], [ 17.099532, 47.4943015 ], [ 17.1013958, 47.489603099999989 ] ] ] } }
+]
+}

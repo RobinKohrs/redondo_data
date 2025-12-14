@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montearagon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montearagón", "metric_roundness": 60.74, "metric_rectangularity": 72.69, "metric_mobile_fit": 20.31, "metric_aspect_ratio": 1.359, "metric_area_km2": 19.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.6081445, 39.964105 ], [ -4.6177478, 39.969614299999989 ], [ -4.6319248, 39.9702853 ], [ -4.6467862, 39.9664297 ], [ -4.6562846, 39.9688415 ], [ -4.659142, 39.966777 ], [ -4.6594755, 39.961665499999988 ], [ -4.6564443, 39.959049 ], [ -4.6589089, 39.948071 ], [ -4.6538584, 39.941195 ], [ -4.6371369, 39.9458805 ], [ -4.6175795, 39.939104 ], [ -4.6106993, 39.9537688 ], [ -4.6041775, 39.9570925 ], [ -4.6081445, 39.964105 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martaize",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martaizé", "metric_roundness": 65.61, "metric_rectangularity": 74.76, "metric_mobile_fit": 79.9, "metric_aspect_ratio": 0.763, "metric_area_km2": 42.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0823908, 46.9268483 ], [ 0.0812355, 46.936471 ], [ 0.0643294, 46.9448277 ], [ 0.051471, 46.946994 ], [ 0.0266, 46.9339855 ], [ 0.021816, 46.9071473 ], [ 0.0310061, 46.8954087 ], [ 0.037489, 46.892803 ], [ 0.050566, 46.89716 ], [ 0.062221, 46.896312 ], [ 0.062938, 46.8979905 ], [ 0.065131, 46.897359 ], [ 0.067887, 46.897414 ], [ 0.0692021, 46.9112928 ], [ 0.078157, 46.920207499999989 ], [ 0.0823908, 46.9268483 ] ] ] } }
+]
+}

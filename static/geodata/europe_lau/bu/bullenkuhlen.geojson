@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bullenkuhlen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bullenkuhlen", "metric_roundness": 47.91, "metric_rectangularity": 76.67, "metric_mobile_fit": 21.07, "metric_aspect_ratio": 1.352, "metric_area_km2": 11.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7633066, 53.7701545 ], [ 9.7618624, 53.773335499999988 ], [ 9.7521975, 53.777547299999988 ], [ 9.7345135, 53.77248 ], [ 9.728684, 53.769050499999985 ], [ 9.7251198, 53.7663718 ], [ 9.7260609, 53.7586808 ], [ 9.7290985, 53.757092 ], [ 9.771901, 53.766919 ], [ 9.7704775, 53.77041449999998 ], [ 9.7633066, 53.7701545 ] ] ] } }
+]
+}

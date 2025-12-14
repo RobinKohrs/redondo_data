@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_sao_bartolomeu_dos_galegos_e_moledo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de São Bartolomeu dos Galegos e Moledo", "metric_roundness": 53.34, "metric_rectangularity": 64.7, "metric_mobile_fit": 54.05, "metric_aspect_ratio": 1.022, "metric_area_km2": 34.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.2689255, 39.311020499999984 ], [ -9.2758374, 39.3074798 ], [ -9.27879, 39.3011833 ], [ -9.2871371, 39.2975554 ], [ -9.2969385, 39.2834585 ], [ -9.2851012, 39.2724577 ], [ -9.2708464, 39.2719271 ], [ -9.2618145, 39.2659849 ], [ -9.2518385, 39.265603 ], [ -9.227168, 39.2647095 ], [ -9.246684, 39.306013 ], [ -9.2564315, 39.3175465 ], [ -9.2689255, 39.311020499999984 ] ] ] } }
+]
+}

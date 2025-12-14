@@ -1,0 +1,390 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Weitersfelden,weitersfelden,we,53.74,70.37,74.54
+europe_lau,Weibern,weibern,we,61.61,66.07,59.19
+europe_lau,Wendling,wendling,we,57.93,60.7,34.81
+europe_lau,Weilbach,weilbach,we,52.23,74.67,75.81
+europe_lau,Weddingstedt,weddingstedt,we,48.6,63.98,83.07
+europe_lau,Welmbüttel,welmbuttel,we,24.27,53.94,8.36
+europe_lau,Wennbüttel,wennbuttel,we,40.77,71.05,20.57
+europe_lau,"Wesselburen, Stadt",wesselburen_stadt,we,47.03,63.94,92.24
+europe_lau,Wesselburener Deichhausen,wesselburener_deichhausen,we,45.76,65.62,95.41
+europe_lau,Wesselburenerkoog,wesselburenerkoog,we,33.66,58.18,78.76
+europe_lau,Wesseln,wesseln,we,39.94,59.98,38.45
+europe_lau,Westerborstel,westerborstel,we,69.72,73.98,36.24
+europe_lau,Westerdeichstrich,westerdeichstrich,we,37,58.19,3.94
+europe_lau,Weddelbrook,weddelbrook,we,42.35,58.91,10.92
+europe_lau,Weede,weede,we,24.57,44.36,-43.82
+europe_lau,Wensin,wensin,we,50.39,68.85,66.67
+europe_lau,Westerrade,westerrade,we,61.43,75.52,49.48
+europe_lau,Wentorf bei Hamburg,wentorf_bei_hamburg,we,63.65,67.8,53.51
+europe_lau,Wentorf (Amt Sandesneben),wentorf_amt_sandesneben,we,55.4,59.03,74.08
+europe_lau,Weichselbaum,weichselbaum,we,39.32,56.92,94.06
+europe_lau,Wendtorf,wendtorf,we,35.47,66.22,96.64
+europe_lau,Weyer,weyer,we,44.03,55.5,62.16
+europe_lau,Westensee,westensee,we,45.39,54.99,34.84
+europe_lau,Westerrönfeld,westerronfeld,we,43.12,63.76,55.28
+europe_lau,Welt,welt,we,29.76,67.56,1.59
+europe_lau,Wenningstedt-Braderup (Sylt),wenningstedt_braderup_sylt,we,55.57,74.2,34.91
+europe_lau,Westerhever,westerhever,we,44.6,66.97,-16.87
+europe_lau,Wester-Ohrstedt,wester_ohrstedt,we,20.56,50.15,-64.91
+europe_lau,Westre,westre,we,55.27,70.01,73.53
+europe_lau,Wernstein am Inn,wernstein_am_inn,we,51.2,54.81,61.05
+europe_lau,"Wedel, Stadt",wedel_stadt,we,52.53,66.24,32.7
+europe_lau,Westerhorn,westerhorn,we,54.42,75.8,81.48
+europe_lau,Wesendorf,wesendorf,we,60.79,78.04,52.21
+europe_lau,Weyhausen,weyhausen,we,48.61,61,64.83
+europe_lau,Wendeburg,wendeburg,we,40.04,56.95,68.7
+europe_lau,Wedemark,wedemark,we,51.36,62.51,54.29
+europe_lau,Wennigsen (Deister),wennigsen_deister,we,40.32,66.15,-23.96
+europe_lau,Wehrbleck,wehrbleck,we,29.87,39.76,69.76
+europe_lau,Wetschen,wetschen,we,16.72,34.32,85.74
+europe_lau,Weyhe,weyhe,we,58.21,65.77,44.43
+europe_lau,Weißenkirchen im Attergau,weissenkirchen_im_attergau,we,68.42,68.89,59.29
+europe_lau,Weyregg am Attersee,weyregg_am_attersee,we,51.28,73.75,34.2
+europe_lau,Wees,wees,we,57.14,77.54,37.57
+europe_lau,Weesby,weesby,we,63.15,84.34,85.86
+europe_lau,Westerholz,westerholz,we,41.76,67.74,20.04
+europe_lau,"Wenzen, gemfr. Gebiet",wenzen_gemfr_gebiet,we,30.78,49.46,-4.55
+europe_lau,Westertimke,westertimke,we,41.77,59.03,20.55
+europe_lau,Westerwalsede,westerwalsede,we,38.21,49.19,77.01
+europe_lau,Westermoor,westermoor,we,38.92,65.3,63.03
+europe_lau,Wewelsfleth,wewelsfleth,we,50.07,60.06,38.88
+europe_lau,Westerau,westerau,we,67.28,66.04,53.66
+europe_lau,Wesenberg,wesenberg,we,54.79,69.46,81.42
+europe_lau,Welver,welver,we,61.46,70.12,57.15
+europe_lau,"Werl, Stadt",werl_stadt,we,64.45,69.57,32.73
+europe_lau,"Werne, Stadt",werne_stadt,we,50.07,78.52,39.44
+europe_lau,"Weiterstadt, Stadt",weiterstadt_stadt,we,58.54,70.87,84.09
+europe_lau,Weste,weste,we,40.6,60.52,-4.18
+europe_lau,"Westerstede, Stadt",westerstede_stadt,we,51.48,62.62,71.33
+europe_lau,Welle,welle,we,31.26,50.2,97.21
+europe_lau,Wenzendorf,wenzendorf,we,53.77,73.75,-6.2
+europe_lau,Weißkirchen an der Traun,weisskirchen_an_der_traun,we,44.91,62.31,71.77
+europe_lau,Wendisch Evern,wendisch_evern,we,61.25,74.55,55.4
+europe_lau,Weeze,weeze,we,59.71,78.78,68.32
+europe_lau,"Wesel, Stadt",wesel_stadt,we,46.94,61.77,9.56
+europe_lau,"Wesseling, Stadt",wesseling_stadt,we,45.79,61.42,36.63
+europe_lau,Weilerswist,weilerswist,we,43.22,58.28,59.03
+europe_lau,"Wegberg, Stadt",wegberg_stadt,we,41.11,59.85,10.64
+europe_lau,"Wermelskirchen, Stadt",wermelskirchen_stadt,we,56.37,63.62,50.86
+europe_lau,Westerkappeln,westerkappeln,we,50.97,69.35,97.36
+europe_lau,"Werther (Westf.), Stadt",werther_westf_stadt,we,54.19,57.76,53.27
+europe_lau,Werfen,werfen,we,55.24,65.91,58.59
+europe_lau,Werfenweng,werfenweng,we,47.6,69.46,98.56
+europe_lau,"Wetter (Ruhr), Stadt",wetter_ruhr_stadt,we,54.1,68.4,46.55
+europe_lau,"Werdohl, Stadt",werdohl_stadt,we,56.93,62.81,47.29
+europe_lau,Werdum,werdum,we,65.16,65.05,56.15
+europe_lau,Westerholt,westerholt,we,21.44,50.05,92.19
+europe_lau,Weißpriach,weisspriach,we,43.32,63.17,76.67
+europe_lau,Wehrheim,wehrheim,we,31.11,61.34,72.5
+europe_lau,Weilrod,weilrod,we,58.36,69.15,71.15
+europe_lau,Wesertal,wesertal,we,30.72,51.33,22.75
+europe_lau,Wehretal,wehretal,we,29.19,43.73,-7.14
+europe_lau,Weißenborn,weissenborn,we,38.04,61.21,10.23
+europe_lau,Wettmannstätten,wettmannstatten,we,40.31,48.51,56.2
+europe_lau,Wershofen,wershofen,we,43.41,70.19,-17.33
+europe_lau,Wehr,wehr,we,42.69,57.66,-5.97
+europe_lau,Weibern,weibern,we,26.35,45.91,-21.62
+europe_lau,Wettenberg,wettenberg,we,40.83,66.11,97.84
+europe_lau,"Wetzlar, Stadt",wetzlar_stadt,we,44.48,50.48,68.59
+europe_lau,"Weilburg, Stadt",weilburg_stadt,we,36.63,65.25,-41.62
+europe_lau,"Weilmünster, Marktflecken",weilmunster_marktflecken,we,43.29,55.96,51.12
+europe_lau,Weinbach,weinbach,we,43.38,51.53,70.16
+europe_lau,Weimar (Lahn),weimar_lahn,we,36.23,51.18,63.5
+europe_lau,"Wetter (Hessen), Stadt",wetter_hessen_stadt,we,46.83,51.36,31.68
+europe_lau,Weißbach bei Lofer,weissbach_bei_lofer,we,45.5,57.51,35.07
+europe_lau,"Werlte, Stadt",werlte_stadt,we,33.78,50.25,74.07
+europe_lau,Werpeloh,werpeloh,we,39.8,67.88,50.72
+europe_lau,Wettrup,wettrup,we,44.86,61.08,47.18
+europe_lau,"Weener, Stadt",weener_stadt,we,47.05,70.72,79.51
+europe_lau,Westoverledingen,westoverledingen,we,56.34,76.73,89.36
+europe_lau,Weidenhahn,weidenhahn,we,48.45,67.32,21.59
+europe_lau,Welkenbach,welkenbach,we,52.4,68.95,79.81
+europe_lau,Weltersburg,weltersburg,we,22.98,40.05,-8.18
+europe_lau,"Westerburg, Stadt",westerburg_stadt,we,54.43,54.32,58.95
+europe_lau,Westernohe,westernohe,we,48.34,76.08,76.4
+europe_lau,Weiden,weiden,we,69.77,73.45,67.46
+europe_lau,Weitersbach,weitersbach,we,33.03,56.1,-20.71
+europe_lau,Weiler,weiler,we,58.3,75.25,10.89
+europe_lau,Weiler,weiler,we,73.31,82.79,48.47
+europe_lau,Welling,welling,we,58.15,72.76,22.75
+europe_lau,Welschenbach,welschenbach,we,21.55,65.65,25.43
+europe_lau,"Weißenthurm, Stadt",weissenthurm_stadt,we,38.34,63.2,29.08
+europe_lau,Weitersburg,weitersburg,we,33.6,61.84,22.75
+europe_lau,Weitefeld,weitefeld,we,55.02,75.3,53.93
+europe_lau,Werkhausen,werkhausen,we,53.06,59.84,74.88
+europe_lau,Weyerbusch,weyerbusch,we,50.81,73.21,87.59
+europe_lau,Weiler bei Monzingen,weiler_bei_monzingen,we,35.25,56.34,91.94
+europe_lau,Weinsheim,weinsheim,we,55.75,61.8,40.92
+europe_lau,Weitersborn,weitersborn,we,25.93,58.14,99.7
+europe_lau,Weinitzen,weinitzen,we,43.34,55.06,18.35
+europe_lau,Werndorf,werndorf,we,50.84,60.78,48.92
+europe_lau,Weidingen,weidingen,we,45.66,55.27,46.52
+europe_lau,Wettlingen,wettlingen,we,51.94,66.51,14.97
+europe_lau,Weidenthal,weidenthal,we,59.6,75.64,39.61
+europe_lau,Weisenheim am Berg,weisenheim_am_berg,we,17.68,52,20.24
+europe_lau,Weisenheim am Sand,weisenheim_am_sand,we,57.22,80.1,85.71
+europe_lau,Weitersweiler,weitersweiler,we,21.27,58.3,-111.7
+europe_lau,Weidenbach,weidenbach,we,48,73,0.24
+europe_lau,Weinähr,weinahr,we,25.15,42.28,61.5
+europe_lau,Weisel,weisel,we,55.54,71.42,58.23
+europe_lau,Welterod,welterod,we,39.31,48.13,74.26
+europe_lau,Weyer,weyer,we,41.17,61.03,54.79
+europe_lau,Weroth,weroth,we,51.11,73.5,91.17
+europe_lau,Weidenbach,weidenbach,we,31.27,67.33,3.7
+europe_lau,Welcherath,welcherath,we,39.8,54.28,58.15
+europe_lau,Wellen,wellen,we,44.25,66.24,25.56
+europe_lau,Welschbillig,welschbillig,we,58.44,67.41,57.96
+europe_lau,Weiden am See,weiden_am_see,we,17.84,56.61,62.21
+europe_lau,Wendelsheim,wendelsheim,we,33.58,76.85,62.88
+europe_lau,Westhofen,westhofen,we,58.45,83.07,23.56
+europe_lau,Weiz,weiz,we,48.31,54.9,51.7
+europe_lau,"Weilheim an der Teck, Stadt",weilheim_an_der_teck_stadt,we,56.38,66.21,46.14
+europe_lau,"Wendlingen am Neckar, Stadt",wendlingen_am_neckar_stadt,we,62.55,72.11,53.98
+europe_lau,"Wernau (Neckar), Stadt",wernau_neckar_stadt,we,61.85,69.72,54.71
+europe_lau,Wenigzell,wenigzell,we,42.01,59.55,88.15
+europe_lau,Weingarten (Pfalz),weingarten_pfalz,we,45.29,58.95,69.17
+europe_lau,Westheim (Pfalz),westheim_pfalz,we,24.46,49.54,98.79
+europe_lau,Weilerbach,weilerbach,we,44.23,59.8,83.43
+europe_lau,Weißkirchen in Steiermark,weisskirchen_in_steiermark,we,43.02,62.16,23.84
+europe_lau,Weinsheim,weinsheim,we,57.96,69.64,62.2
+europe_lau,Welchweiler,welchweiler,we,46.49,56.82,77.4
+europe_lau,Wernersberg,wernersberg,we,48.59,68.1,34.61
+europe_lau,Weyher in der Pfalz,weyher_in_der_pfalz,we,20.89,46.76,-19.88
+europe_lau,Weissach im Tal,weissach_im_tal,we,45.52,57.61,34.46
+europe_lau,"Welzheim, Stadt",welzheim_stadt,we,36.47,53.11,46.41
+europe_lau,"Weinstadt, Stadt",weinstadt_stadt,we,47.19,58,73.16
+europe_lau,"Weinsberg, Stadt",weinsberg_stadt,we,35.49,42.32,54.65
+europe_lau,Weiler bei Bingen,weiler_bei_bingen,we,19,38.23,-17.75
+europe_lau,Weinolsheim,weinolsheim,we,65.45,67.08,38.68
+europe_lau,Welgesheim,welgesheim,we,26.21,67.87,4.27
+europe_lau,Weselberg,weselberg,we,44.7,63.95,89.59
+europe_lau,"Weil der Stadt, Stadt",weil_der_stadt_stadt,we,47.3,57.35,53.21
+europe_lau,Weil im Schönbuch,weil_im_schonbuch,we,65.84,73.19,69.15
+europe_lau,Weissach,weissach,we,58.3,69.95,33.65
+europe_lau,Weisweil,weisweil,we,54.71,72.05,72.48
+europe_lau,Wellendingen,wellendingen,we,55,67.11,34.65
+europe_lau,Wenns,wenns,we,45.09,55.01,88.26
+europe_lau,Wehingen,wehingen,we,58.18,78.2,52.48
+europe_lau,"Weil am Rhein, Stadt",weil_am_rhein_stadt,we,45.19,55.66,58.12
+europe_lau,Wembach,wembach,we,44.21,66.83,74.6
+europe_lau,Weißbach,weissbach,we,50.79,62.82,89.88
+europe_lau,"Weikersheim, Stadt",weikersheim_stadt,we,41.54,55.39,78.7
+europe_lau,Werbach,werbach,we,32.2,47.92,-8.93
+europe_lau,"Wertheim, Stadt",wertheim_stadt,we,41.7,63.46,-30.23
+europe_lau,Westhausen,westhausen,we,35.32,59.07,19.69
+europe_lau,Weingarten (Baden),weingarten_baden,we,55.18,67.22,38.74
+europe_lau,"Wehr, Stadt",wehr_stadt,we,33.89,52.12,98.17
+europe_lau,Weilheim,weilheim,we,45.3,61.09,4.65
+europe_lau,Weilen unter den Rinnen,weilen_unter_den_rinnen,we,53.16,70.6,8.9
+europe_lau,Weisenbach,weisenbach,we,27.43,44.75,-26.31
+europe_lau,"Weinheim, Stadt",weinheim_stadt,we,30.97,54.61,48.93
+europe_lau,Weidenstetten,weidenstetten,we,48.13,60.12,67.34
+europe_lau,Westerheim,westerheim,we,62.57,70.15,53.8
+europe_lau,Westerstetten,westerstetten,we,55.21,61.89,53.76
+europe_lau,Weil,weil,we,49.59,59.7,44.51
+europe_lau,Weyarn,weyarn,we,34.63,52.84,99.87
+europe_lau,"Weingarten, Stadt",weingarten_stadt,we,58.02,71.19,39.49
+europe_lau,Weichs,weichs,we,55.45,62.16,66.47
+europe_lau,"Wellheim, M",wellheim_m,we,42.52,59.37,-6.47
+europe_lau,Wettstetten,wettstetten,we,41.94,58.96,71.27
+europe_lau,Weßling,wessling,we,59.7,65.08,73.67
+europe_lau,Westendorf,westendorf,we,34.01,63.3,87.26
+europe_lau,"Weilheim i.OB, St",weilheim_i_ob_st,we,29.92,64.69,21.27
+europe_lau,Wessobrunn,wessobrunn,we,57.05,67.5,88.7
+europe_lau,Weihmichl,weihmichl,we,51.39,65.54,18.92
+europe_lau,Weng,weng,we,45.41,65.44,64.23
+europe_lau,"Wegscheid, M",wegscheid_m,we,54.14,72.48,92.21
+europe_lau,Weichering,weichering,we,40.85,51.18,56.86
+europe_lau,Weitenhagen,weitenhagen,we,41.96,64.41,76.32
+europe_lau,Wendisch Baggendorf,wendisch_baggendorf,we,56.24,60.05,41.68
+europe_lau,Wendorf,wendorf,we,41.36,54.75,49.55
+europe_lau,Weiler,weiler,we,23.45,42.43,-22.65
+europe_lau,Wevelgem,wevelgem,we,58.08,66.22,51.21
+europe_lau,"Weißenberg / Wóspork, Stadt",weissenberg_wospork_stadt,we,49.37,53.44,38.7
+europe_lau,Weißkeißel / Wuskidź,weisskeissel_wuskidz,we,66.95,65.91,55.98
+europe_lau,"Weißwasser/O.L., Stadt / Běła Woda",weisswasser_o_l_stadt_bela_woda,we,32.75,45.03,35.59
+europe_lau,Wehringen,wehringen,we,46.72,75.93,15.55
+europe_lau,"Welden, M",welden_m,we,56.17,64.36,50.76
+europe_lau,Westendorf,westendorf,we,49.67,83.16,91.99
+europe_lau,"Wertingen, St",wertingen_st,we,39.85,56.81,40.85
+europe_lau,Wedendorfersee,wedendorfersee,we,36.86,57.26,63.84
+europe_lau,Weiden i.d.OPf.,weiden_i_d_o_pf,we,41.79,49.84,20.87
+europe_lau,Weigendorf,weigendorf,we,28.65,55.17,-29.27
+europe_lau,Weiding,weiding,we,30.91,60.87,63.98
+europe_lau,Wefensleben,wefensleben,we,55.69,69.33,31.1
+europe_lau,Westheide,westheide,we,27.04,33.05,77.35
+europe_lau,"Weißenfels, Stadt",weissenfels_stadt,we,49.06,58.21,52.19
+europe_lau,Wethau,wethau,we,29.03,51.59,-66.52
+europe_lau,Wetterzeube,wetterzeube,we,59.28,64.82,27.62
+europe_lau,Westerheim,westerheim,we,46.47,65.06,77.8
+europe_lau,Weinböhla,weinbohla,we,42.7,59.11,5.43
+europe_lau,"Weißenhorn, St",weissenhorn_st,we,48.43,63.99,57.23
+europe_lau,"Weiler-Simmerberg, M",weiler_simmerberg_m,we,38.93,57.72,58.62
+europe_lau,Weißensberg,weissensberg,we,39.44,66.02,91.26
+europe_lau,Westerlo,westerlo,we,58.21,71.05,53.47
+europe_lau,Wermsdorf,wermsdorf,we,71.82,70.61,56.29
+europe_lau,Westendorf,westendorf,we,53.07,71.31,77.96
+europe_lau,Weer,weer,we,48.94,66.56,40.12
+europe_lau,Weerberg,weerberg,we,38.62,65.71,96.88
+europe_lau,Wemmel,wemmel,we,54.92,66.64,51.03
+europe_lau,"Weißensee, Stadt",weissensee_stadt,we,50.48,63.84,13.26
+europe_lau,Werningshausen,werningshausen,we,54.4,72.13,20.14
+europe_lau,Wezembeek-Oppem,wezembeek_oppem,we,55.25,70.38,78.98
+europe_lau,Westhausen,westhausen,we,45.8,71.15,54.39
+europe_lau,"Werneuchen, Stadt",werneuchen_stadt,we,47.48,56.37,57.42
+europe_lau,Weißbach,weissbach,we,39.9,64.99,22.66
+europe_lau,Weißenborn,weissenborn,we,33.33,50.95,4.5
+europe_lau,"Wegeleben, Stadt",wegeleben_stadt,we,53.98,58.82,46.61
+europe_lau,"Wernigerode, Stadt",wernigerode_stadt,we,41.52,66.12,6.12
+europe_lau,"Wettin-Löbejün, Stadt",wettin_lobejun_stadt,we,44.92,48.89,49.64
+europe_lau,"Weitnau, M",weitnau_m,we,46.66,56.79,36.72
+europe_lau,"Wertach, M",wertach_m,we,46.71,57.66,74.72
+europe_lau,Weiskirchen,weiskirchen,we,49.57,66.18,83.37
+europe_lau,"Werben (Elbe), Hansestadt",werben_elbe_hansestadt,we,37.75,55.54,76.46
+europe_lau,"Weimar, Stadt",weimar_stadt,we,52.44,60.65,67.89
+europe_lau,Wechingen,wechingen,we,62.96,67.22,39.39
+europe_lau,"Wemding, St",wemding_st,we,57.76,65.86,26.9
+europe_lau,Weira,weira,we,49.88,77.34,64.81
+europe_lau,Wernburg,wernburg,we,40.85,67.06,91.71
+europe_lau,Wehnde,wehnde,we,35.8,73.31,-64.97
+europe_lau,Werther,werther,we,35.52,53.62,45.95
+europe_lau,Weilar,weilar,we,40.23,61.46,36.68
+europe_lau,"Weida, Stadt",weida_stadt,we,50.45,57.72,51.06
+europe_lau,Weißendorf,weissendorf,we,55.28,67.52,62.42
+europe_lau,Weiden bei Rechnitz,weiden_bei_rechnitz,we,46.42,64.35,98.07
+europe_lau,"Werra-Suhl-Tal, Stadt",werra_suhl_tal_stadt,we,37.28,55.13,-9.96
+europe_lau,Westgreußen,westgreussen,we,29.88,46.95,81.19
+europe_lau,Weiach,weiach,we,57.01,67.71,56.09
+europe_lau,Weißensee,weissensee,we,33.65,55.94,-20.48
+europe_lau,Wetzikon (ZH),wetzikon_zh,we,52.41,58.61,53.38
+europe_lau,Weitensfeld im Gurktal,weitensfeld_im_gurktal,we,51.6,66.67,85.85
+europe_lau,Wengi,wengi,we,45.81,65.65,-11.53
+europe_lau,Wettswil am Albis,wettswil_am_albis,we,40.92,62.59,74.02
+europe_lau,Weisslingen,weisslingen,we,60.48,66.15,70.08
+europe_lau,Weiningen (ZH),weiningen_zh,we,48.29,59.72,55.21
+europe_lau,Weppersdorf,weppersdorf,we,31.61,63.74,94.75
+europe_lau,"Weidenberg, M",weidenberg_m,we,47.89,59.5,32.31
+europe_lau,Weidhausen b.Coburg,weidhausen_b_coburg,we,25.73,45.79,-62.89
+europe_lau,Weitramsdorf,weitramsdorf,we,49.79,64.95,81.1
+europe_lau,Weißenbach am Lech,weissenbach_am_lech,we,27.59,50.92,-3.25
+europe_lau,"Werneck, M",werneck_m,we,56.32,59.96,74.34
+europe_lau,Wendisch Rietz,wendisch_rietz,we,34.81,54.8,17.38
+europe_lau,Wervik,wervik,we,58.84,63.38,75.59
+europe_lau,Weilersbach,weilersbach,we,55.8,70.53,64.9
+europe_lau,Weißenohe,weissenohe,we,25.47,53.68,-36.69
+europe_lau,Weißdorf,weissdorf,we,41.76,58.89,67.15
+europe_lau,Wechselburg,wechselburg,we,39.05,63.85,1.6
+europe_lau,Weißenborn/Erzgeb.,weissenborn_erzgeb,we,42.12,56.62,17.46
+europe_lau,Weißenbrunn,weissenbrunn,we,32.06,48.29,-2.84
+europe_lau,Wetteren,wetteren,we,53.87,62.89,72.57
+europe_lau,Weigenheim,weigenheim,we,47.29,65.72,35.81
+europe_lau,Weischlitz,weischlitz,we,62.31,65.81,51.81
+europe_lau,Werda,werda,we,70.42,73.25,44.36
+europe_lau,Weingraben,weingraben,we,30.35,62.54,42.53
+europe_lau,"Wendelstein, M",wendelstein_m,we,39.25,51.14,2.99
+europe_lau,"Weißenburg i.Bay., GKSt",weissenburg_i_bay_gk_st,we,41.6,60.66,35.4
+europe_lau,Westheim,westheim,we,38.37,50.37,93.63
+europe_lau,Wenzlow,wenzlow,we,42.56,62.32,38.47
+europe_lau,"Werder (Havel), Stadt",werder_havel_stadt,we,42.13,62.62,94.51
+europe_lau,Weisen,weisen,we,53.52,73.72,83.95
+europe_lau,"Weismain, St",weismain_st,we,56.11,60.44,64.51
+europe_lau,"Welzow/Wjelcej, Stadt",welzow_wjelcej_stadt,we,43.82,69.67,24.23
+europe_lau,Werben/Wjerbno,werben_wjerbno,we,47.82,60.43,61.37
+europe_lau,"Weißenstadt, St",weissenstadt_st,we,55.42,64.03,30.92
+europe_lau,Weißenstadter Forst-Nord,weissenstadter_forst_nord,we,15.17,42.21,8.96
+europe_lau,Weißenstadter Forst-Süd,weissenstadter_forst_sud,we,28.95,44.41,65.28
+europe_lau,Weitenhagen,weitenhagen,we,28.55,62.85,-89.08
+europe_lau,"Werdau, Stadt",werdau_stadt,we,44.11,55.32,29.94
+europe_lau,Wellen,wellen,we,58.55,74.4,32.93
+europe_lau,Weibersbrunn,weibersbrunn,we,19.85,47.19,-61.31
+europe_lau,Westerngrund,westerngrund,we,51.18,60.8,74.08
+europe_lau,Weiherhammer,weiherhammer,we,25.73,48.58,-19.87
+europe_lau,"Weidenbach, M",weidenbach_m,we,67.09,73.32,65.62
+europe_lau,Weihenzell,weihenzell,we,63.7,74.55,61.03
+europe_lau,"Weiltingen, M",weiltingen_m,we,70.11,67.47,63.35
+europe_lau,Wettringen,wettringen,we,48.84,62.19,18.75
+europe_lau,"Weisendorf, M",weisendorf_m,we,55.56,71.04,49.09
+europe_lau,Wenzenbach,wenzenbach,we,60.59,63.9,48.91
+europe_lau,"Wernberg-Köblitz, M",wernberg_koblitz_m,we,37.58,72.07,53.72
+europe_lau,Weigler,weigler,we,43.35,53.67,82.47
+europe_lau,Wezet,wezet,we,15.12,37,77.37
+europe_lau,Weismes,weismes,we,24.47,47.31,87.6
+europe_lau,Welkenraedt,welkenraedt,we,35.82,48.05,54.8
+europe_lau,Weitendorf,weitendorf,we,37.31,60.08,94.86
+europe_lau,Werder,werder,we,45.11,64.44,91.82
+europe_lau,Weiding,weiding,we,47.43,66.66,14.47
+europe_lau,"Weilbach, M",weilbach_m,we,21.65,45.43,-46.59
+europe_lau,Wellin,wellin,we,50,59.36,54.97
+europe_lau,Werder,werder,we,32.06,54.28,97.03
+europe_lau,"Wesenberg, Stadt",wesenberg_stadt,we,39.41,43.92,60.68
+europe_lau,Weinfelden,weinfelden,we,52.9,66.65,25.36
+europe_lau,Welschenrohr,welschenrohr,we,51.07,75.43,28.74
+europe_lau,Weesen,weesen,we,35.9,56.83,70.23
+europe_lau,Wegenstetten,wegenstetten,we,55.61,71.73,48.29
+europe_lau,Wettingen,wettingen,we,47.55,58.75,36.08
+europe_lau,Weggis,weggis,we,38.29,62.16,-40.87
+europe_lau,Werthenstein,werthenstein,we,43.67,59.37,39.09
+europe_lau,Weißenstein,weissenstein,we,35.51,54.55,31.89
+europe_lau,Wernberg,wernberg,we,55.65,67.77,72.74
+europe_lau,Weistrach,weistrach,we,47.19,62.2,70.75
+europe_lau,Wenslingen,wenslingen,we,36.13,58.56,97.48
+europe_lau,Weitersfeld,weitersfeld,we,52.61,61.4,25.94
+europe_lau,Weissenbach an der Triesting,weissenbach_an_der_triesting,we,35.96,47.74,63.51
+europe_lau,Weikendorf,weikendorf,we,49.36,71.21,81.38
+europe_lau,Weitra,weitra,we,33.25,39.74,25.18
+europe_lau,Weiden an der March,weiden_an_der_march,we,68.27,75.01,59.11
+europe_lau,Weckolsheim,weckolsheim,we,42.89,65.55,-4.67
+europe_lau,Wegscheid,wegscheid,we,48.31,73.1,49.8
+europe_lau,Wentzwiller,wentzwiller,we,60.64,85.4,40.65
+europe_lau,Werentzhouse,werentzhouse,we,47.6,81.43,51.01
+europe_lau,Westhalten,westhalten,we,25.08,40.07,96.67
+europe_lau,Wettolsheim,wettolsheim,we,20.81,47.21,-121.98
+europe_lau,Weiten,weiten,we,51.42,60.12,72.56
+europe_lau,Westrehem,westrehem,we,66.08,86.83,43.7
+europe_lau,Welles-Pérennes,welles_perennes,we,37.72,49.4,52.07
+europe_lau,Weinbourg,weinbourg,we,40.41,67.13,-5.81
+europe_lau,Wemaers-Cappel,wemaers_cappel,we,51.96,60.27,43.16
+europe_lau,Wervicq-Sud,wervicq_sud,we,29.29,62.98,87.11
+europe_lau,West-Cappel,west_cappel,we,39.53,62.76,98.57
+europe_lau,Weislingen,weislingen,we,43.26,72.64,-14.28
+europe_lau,Weitbruch,weitbruch,we,55.33,67.3,63.49
+europe_lau,Weiterswiller,weiterswiller,we,50.11,67.42,-14.09
+europe_lau,Westhoffen,westhoffen,we,42.14,66.78,-13.92
+europe_lau,Westhouse,westhouse,we,68.96,72.53,63.84
+europe_lau,Westhouse-Marmoutier,westhouse_marmoutier,we,21.68,57.97,-71.06
+europe_lau,Weyer,weyer,we,61.86,65.48,36.32
+europe_lau,Weyersheim,weyersheim,we,38.91,52.91,32.47
+europe_lau,Weinzierl am Walde,weinzierl_am_walde,we,33.27,60.84,64.21
+europe_lau,Weißenkirchen in der Wachau,weissenkirchen_in_der_wachau,we,55.48,73.89,65.04
+europe_lau,Weiswampach,weiswampach,we,39.32,64.49,60.38
+europe_lau,Węgorzewo,wegorzewo,we,48.34,55.17,74.98
+europe_lau,Węgorzyno,wegorzyno,we,45.54,61.33,8.04
+europe_lau,Węgliniec,wegliniec,we,55.94,62.26,66.62
+europe_lau,Wejherowo,wejherowo,we,41.89,57.55,6.99
+europe_lau,Wejherowo,wejherowo,we,32.3,54.21,64.73
+europe_lau,Weiler-la-Tour,weiler_la_tour,we,36.94,56.89,71.68
+europe_lau,Weinburg,weinburg,we,43.82,69.66,-16.43
+europe_lau,Westport,westport,we,39.12,56.57,77.64
+europe_lau,Wexford,wexford,we,45.62,62.98,-0.96
+europe_lau,Weng im Innkreis,weng_im_innkreis,we,51.36,67.57,5.4
+europe_lau,Węgrów,wegrow,we,57.67,60.85,65.66
+europe_lau,Wels,wels,we,49.43,65.03,54.23
+europe_lau,Weesp,weesp,we,48.24,68.82,52.44
+europe_lau,Westvoorne,westvoorne,we,52.3,62.39,45.75
+europe_lau,West Maas en Waal,west_maas_en_waal,we,51.93,68.72,4.27
+europe_lau,Werbkowice,werbkowice,we,62.87,61.59,61.06
+europe_lau,Weert,weert,we,53.78,71.62,27.17
+europe_lau,Westerveld,westerveld,we,59.56,67.41,46.53
+europe_lau,Westland,westland,we,63.22,72.14,56.83
+europe_lau,Weikersdorf am Steinfelde,weikersdorf_am_steinfelde,we,29.91,57.86,71.02
+europe_lau,Westerwolde,westerwolde,we,27.44,57.95,81.49
+europe_lau,West Betuwe,west_betuwe,we,34.88,55.79,-40.77
+europe_lau,Westerkwartier,westerkwartier,we,54.12,74.61,77.24
+europe_lau,Węgierska Górka,wegierska_gorka,we,45.65,64.95,47.46
+europe_lau,Weststellingwerf,weststellingwerf,we,30.28,57.98,-27.23
+europe_lau,Westervoort,westervoort,we,32.86,51.39,79.15
+europe_lau,Westergellersen,westergellersen,we,46.39,61.57,91.48
+europe_lau,Wettringen,wettringen,we,37.48,58.99,47.1
+europe_lau,Wenden,wenden,we,64.15,74.43,24.01
+europe_lau,Welschneudorf,welschneudorf,we,36.92,57.31,32.85

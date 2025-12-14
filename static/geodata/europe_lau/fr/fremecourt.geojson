@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fremecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frémécourt", "metric_roundness": 56.41, "metric_rectangularity": 65.91, "metric_mobile_fit": 71.14, "metric_aspect_ratio": 0.851, "metric_area_km2": 10.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9911405, 49.1080605 ], [ 2.0041973, 49.1160962 ], [ 2.0047796, 49.124434799999975 ], [ 2.0113295, 49.131722499999974 ], [ 2.0002665, 49.135735 ], [ 1.9950312, 49.132108699999982 ], [ 1.9820745, 49.130821499999982 ], [ 1.97534, 49.1246015 ], [ 1.9890125, 49.1091775 ], [ 1.9911405, 49.1080605 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ondratice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ondratice", "metric_roundness": 36.08, "metric_rectangularity": 68.59, "metric_mobile_fit": -76.26, "metric_aspect_ratio": 2.325, "metric_area_km2": 7.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.0456256, 49.3599792 ], [ 17.035455, 49.359776499999981 ], [ 17.0461041, 49.354467299999989 ], [ 17.061203, 49.3521345 ], [ 17.065279, 49.352532 ], [ 17.070391, 49.35369 ], [ 17.0764835, 49.355353 ], [ 17.07876, 49.355567 ], [ 17.0815823, 49.3626382 ], [ 17.0797503, 49.3641679 ], [ 17.050804, 49.365056 ], [ 17.0456256, 49.3599792 ] ] ] } }
+]
+}

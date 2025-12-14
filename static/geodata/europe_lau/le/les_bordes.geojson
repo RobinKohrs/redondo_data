@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_bordes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Bordes", "metric_roundness": 53.56, "metric_rectangularity": 79.02, "metric_mobile_fit": 41.77, "metric_aspect_ratio": 1.145, "metric_area_km2": 53.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4158631, 47.8009268 ], [ 2.4257499, 47.7954727 ], [ 2.4318105, 47.7877265 ], [ 2.4481828, 47.7916112 ], [ 2.4844945, 47.8246575 ], [ 2.442066, 47.844647 ], [ 2.4245582, 47.8326553 ], [ 2.4156005, 47.831566099999982 ], [ 2.4123099, 47.8274891 ], [ 2.3949606, 47.8196691 ], [ 2.387455, 47.805651499999989 ], [ 2.4158631, 47.8009268 ] ] ] } }
+]
+}

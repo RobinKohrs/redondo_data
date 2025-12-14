@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_spartochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σπαρτοχωρίου", "metric_roundness": 28.62, "metric_rectangularity": 51.5, "metric_mobile_fit": 93.77, "metric_aspect_ratio": 0.5, "metric_area_km2": 18.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7724535, 38.611088 ], [ 20.7545101, 38.626930099999988 ], [ 20.7598666, 38.6406053 ], [ 20.768984, 38.645954 ], [ 20.7723826, 38.6555213 ], [ 20.7705725, 38.666015 ], [ 20.7647691, 38.666200599999989 ], [ 20.7622783, 38.6596067 ], [ 20.7576231, 38.6635205 ], [ 20.741234, 38.6675774 ], [ 20.7347071, 38.640785799999982 ], [ 20.7394959, 38.6316875 ], [ 20.770038, 38.6086295 ], [ 20.7724535, 38.611088 ] ] ] } }
+]
+}

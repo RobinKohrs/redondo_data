@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vuiteboeuf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vuiteboeuf", "metric_roundness": 49.78, "metric_rectangularity": 63.37, "metric_mobile_fit": 45.57, "metric_aspect_ratio": 1.107, "metric_area_km2": 10.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5639923, 46.796515799999987 ], [ 6.5718333, 46.795792399999989 ], [ 6.5710365, 46.803477 ], [ 6.5725975, 46.804982499999987 ], [ 6.57137, 46.8079865 ], [ 6.56372, 46.8143335 ], [ 6.558286, 46.819698 ], [ 6.5563785, 46.819350499999985 ], [ 6.5534749, 46.812682 ], [ 6.5478699, 46.8096074 ], [ 6.5286595, 46.807078 ], [ 6.550885, 46.792527 ], [ 6.5639923, 46.796515799999987 ] ] ] } }
+]
+}

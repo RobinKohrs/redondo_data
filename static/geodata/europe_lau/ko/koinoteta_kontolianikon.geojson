@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kontolianikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κοντολιανίκων", "metric_roundness": 13.18, "metric_rectangularity": 51.97, "metric_mobile_fit": -165.96, "metric_aspect_ratio": 3.222, "metric_area_km2": 6.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.0179702, 36.2041138 ], [ 23.0045265, 36.1980783 ], [ 22.9846834, 36.200664499999988 ], [ 22.977942, 36.195282 ], [ 22.9795775, 36.19193 ], [ 22.981168, 36.190354 ], [ 22.9869903, 36.1889818 ], [ 22.9963011, 36.1958699 ], [ 23.0475555, 36.198843499999981 ], [ 23.04988, 36.206999 ], [ 23.0179702, 36.2041138 ] ] ] } }
+]
+}

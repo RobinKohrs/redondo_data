@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "riviere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rivière", "metric_roundness": 30.42, "metric_rectangularity": 44.55, "metric_mobile_fit": 1.85, "metric_aspect_ratio": 1.544, "metric_area_km2": 7.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.289671, 47.140295 ], [ 0.2887465, 47.142034 ], [ 0.29006, 47.145657 ], [ 0.282762, 47.1467865 ], [ 0.2591883, 47.1533276 ], [ 0.2497391, 47.151963599999988 ], [ 0.2422485, 47.132108 ], [ 0.2475455, 47.134904499999976 ], [ 0.252939, 47.140356499999989 ], [ 0.2554095, 47.1446755 ], [ 0.290417, 47.136304 ], [ 0.289671, 47.140295 ] ] ] } }
+]
+}

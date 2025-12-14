@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "harkingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Härkingen", "metric_roundness": 43.88, "metric_rectangularity": 92.07, "metric_mobile_fit": 81.41, "metric_aspect_ratio": 0.748, "metric_area_km2": 12.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.800714, 47.31568 ], [ 7.8019985, 47.313958 ], [ 7.8037188, 47.3105876 ], [ 7.8083697, 47.307596699999976 ], [ 7.8099783, 47.3025755 ], [ 7.8143887, 47.300391 ], [ 7.822457, 47.286152499999986 ], [ 7.8405635, 47.294483 ], [ 7.8194225, 47.322258 ], [ 7.800714, 47.31568 ] ] ] } }
+]
+}

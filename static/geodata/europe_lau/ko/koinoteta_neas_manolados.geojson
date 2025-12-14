@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neas_manolados",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νέας Μανολάδος", "metric_roundness": 27.19, "metric_rectangularity": 70.24, "metric_mobile_fit": 36.64, "metric_aspect_ratio": 1.196, "metric_area_km2": 9.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3613095, 38.076099 ], [ 21.35416, 38.0771605 ], [ 21.3537727, 38.0626731 ], [ 21.3668089, 38.0613801 ], [ 21.3788255, 38.0508285 ], [ 21.395574, 38.0434944 ], [ 21.404916, 38.049877499999987 ], [ 21.403603, 38.0514105 ], [ 21.396071, 38.0599164 ], [ 21.3816205, 38.0619685 ], [ 21.3613095, 38.076099 ] ] ] } }
+]
+}

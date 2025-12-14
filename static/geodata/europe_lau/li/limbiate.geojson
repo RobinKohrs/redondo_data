@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "limbiate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Limbiate", "metric_roundness": 58.19, "metric_rectangularity": 67.81, "metric_mobile_fit": 65.37, "metric_aspect_ratio": 0.909, "metric_area_km2": 24.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.104177, 45.6082861 ], [ 9.0987411, 45.608719299999983 ], [ 9.094657, 45.604557 ], [ 9.0987727, 45.6017635 ], [ 9.0998931, 45.596203499999987 ], [ 9.095606, 45.587938 ], [ 9.1448905, 45.5837125 ], [ 9.1467845, 45.587784499999984 ], [ 9.1441695, 45.5988975 ], [ 9.140952, 45.601113899999987 ], [ 9.1361368, 45.6146783 ], [ 9.1186255, 45.623841099999979 ], [ 9.109411, 45.620885 ], [ 9.104177, 45.6082861 ] ] ] } }
+]
+}

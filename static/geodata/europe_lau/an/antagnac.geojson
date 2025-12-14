@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "antagnac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Antagnac", "metric_roundness": 57.35, "metric_rectangularity": 71.38, "metric_mobile_fit": 38.64, "metric_aspect_ratio": 1.176, "metric_area_km2": 18.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0066596, 44.372273599999986 ], [ -0.0132063, 44.3707868 ], [ -0.0288165, 44.3601855 ], [ -0.0185841, 44.353030699999984 ], [ -0.013883, 44.345944799999984 ], [ -0.0011109, 44.339959799999988 ], [ 0.024337, 44.345022 ], [ 0.023584, 44.3501267 ], [ 0.0146288, 44.3594712 ], [ 0.0147195, 44.3666145 ], [ -0.0066596, 44.372273599999986 ] ] ] } }
+]
+}

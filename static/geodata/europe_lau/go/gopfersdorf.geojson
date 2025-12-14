@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gopfersdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Göpfersdorf", "metric_roundness": 60.06, "metric_rectangularity": 72.42, "metric_mobile_fit": 66.55, "metric_aspect_ratio": 0.897, "metric_area_km2": 14.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.614887, 50.905808799999981 ], [ 12.6200615, 50.9093815 ], [ 12.617751, 50.9145604 ], [ 12.620424, 50.9228758 ], [ 12.6140609, 50.92896039999998 ], [ 12.5909499, 50.930906699999987 ], [ 12.5897399, 50.92815 ], [ 12.5938882, 50.920811799999989 ], [ 12.5821717, 50.9052858 ], [ 12.5847355, 50.904021 ], [ 12.614887, 50.905808799999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maly_saris",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malý Šariš", "metric_roundness": 43.18, "metric_rectangularity": 65.75, "metric_mobile_fit": 70.8, "metric_aspect_ratio": 0.855, "metric_area_km2": 20.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.19867, 49.0178409 ], [ 21.1671805, 49.036368 ], [ 21.152721, 49.03503749999998 ], [ 21.1549854, 49.027241599999982 ], [ 21.1646293, 49.017831099999988 ], [ 21.1707314, 49.006210699999976 ], [ 21.1697085, 49.001931 ], [ 21.1885235, 48.9961212 ], [ 21.20516, 49.010335499999989 ], [ 21.19867, 49.0178409 ] ] ] } }
+]
+}

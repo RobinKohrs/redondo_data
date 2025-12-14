@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jolivet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jolivet", "metric_roundness": 58.59, "metric_rectangularity": 90.43, "metric_mobile_fit": 11.96, "metric_aspect_ratio": 1.443, "metric_area_km2": 15.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4928905, 48.6127868 ], [ 6.4992327, 48.600259499999986 ], [ 6.514685, 48.6007435 ], [ 6.5419905, 48.605772 ], [ 6.5365655, 48.6211415 ], [ 6.5356775, 48.622758 ], [ 6.5239245, 48.621148 ], [ 6.5233935, 48.621089 ], [ 6.4935755, 48.618040499999985 ], [ 6.4928905, 48.6127868 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kolibabovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kolibabovce", "metric_roundness": 64.1, "metric_rectangularity": 79.66, "metric_mobile_fit": 54.24, "metric_aspect_ratio": 1.02, "metric_area_km2": 8.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2479805, 48.727383 ], [ 22.2370565, 48.72158 ], [ 22.236474, 48.7182725 ], [ 22.2325935, 48.7112451 ], [ 22.2492569, 48.709686899999987 ], [ 22.2565595, 48.705961499999987 ], [ 22.2639046, 48.709787599999984 ], [ 22.2657145, 48.722411 ], [ 22.2479805, 48.727383 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mello", "metric_roundness": 39.22, "metric_rectangularity": 56.81, "metric_mobile_fit": 85.82, "metric_aspect_ratio": 0.704, "metric_area_km2": 7.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3729588, 49.2665412 ], [ 2.3911096, 49.283132499999979 ], [ 2.3922715, 49.29013 ], [ 2.3804562, 49.2854673 ], [ 2.3794655, 49.289640499999983 ], [ 2.3648385, 49.2837965 ], [ 2.3618403, 49.2730415 ], [ 2.369154, 49.2662135 ], [ 2.378088, 49.261942499999989 ], [ 2.3729588, 49.2665412 ] ] ] } }
+]
+}

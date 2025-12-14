@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spinete",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spinete", "metric_roundness": 69.27, "metric_rectangularity": 80.56, "metric_mobile_fit": 64.45, "metric_aspect_ratio": 0.918, "metric_area_km2": 30.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4784999, 41.5255526 ], [ 14.4986645, 41.5228185 ], [ 14.5028855, 41.5298917 ], [ 14.5278985, 41.542343499999987 ], [ 14.529299, 41.546973 ], [ 14.5287185, 41.5486105 ], [ 14.4934465, 41.572339499999984 ], [ 14.4707682, 41.5568368 ], [ 14.4685533, 41.551538799999975 ], [ 14.4695925, 41.539666499999989 ], [ 14.4784999, 41.5255526 ] ] ] } }
+]
+}

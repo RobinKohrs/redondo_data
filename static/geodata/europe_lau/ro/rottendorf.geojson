@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rottendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rottendorf", "metric_roundness": 43.91, "metric_rectangularity": 54.03, "metric_mobile_fit": 76.11, "metric_aspect_ratio": 0.801, "metric_area_km2": 35.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9998995, 49.787557 ], [ 10.0325355, 49.7768455 ], [ 10.0539875, 49.7726695 ], [ 10.0642375, 49.7770435 ], [ 10.0613564, 49.7790161 ], [ 10.0601627, 49.794336199999982 ], [ 10.0571978, 49.798716 ], [ 10.0653105, 49.825352 ], [ 10.049445, 49.823635 ], [ 10.0495753, 49.818807899999982 ], [ 10.03985, 49.809346599999984 ], [ 10.0132775, 49.80425 ], [ 9.9998995, 49.787557 ] ] ] } }
+]
+}

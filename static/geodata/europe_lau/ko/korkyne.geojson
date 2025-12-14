@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "korkyne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Korkyně", "metric_roundness": 67.17, "metric_rectangularity": 74.18, "metric_mobile_fit": 25.5, "metric_aspect_ratio": 1.307, "metric_area_km2": 13.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.339122, 49.795848 ], [ 14.3364575, 49.7904903 ], [ 14.3286635, 49.79029 ], [ 14.331639, 49.7864465 ], [ 14.3266605, 49.780089 ], [ 14.3420337, 49.7736696 ], [ 14.369092, 49.775789 ], [ 14.3715714, 49.783108 ], [ 14.3677995, 49.785814 ], [ 14.361778, 49.7949915 ], [ 14.339122, 49.795848 ] ] ] } }
+]
+}

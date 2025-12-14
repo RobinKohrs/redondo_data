@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nizny_klatov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nižný Klátov", "metric_roundness": 42.83, "metric_rectangularity": 64.87, "metric_mobile_fit": 20.2, "metric_aspect_ratio": 1.361, "metric_area_km2": 13.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.1689207, 48.7326815 ], [ 21.146526, 48.750153 ], [ 21.1275842, 48.736844599999984 ], [ 21.1197415, 48.7361325 ], [ 21.125025, 48.733943499999988 ], [ 21.1444646, 48.725009199999981 ], [ 21.169303, 48.7227405 ], [ 21.1699655, 48.723446 ], [ 21.171476, 48.729124899999988 ], [ 21.1762915, 48.731192499999985 ], [ 21.1689207, 48.7326815 ] ] ] } }
+]
+}

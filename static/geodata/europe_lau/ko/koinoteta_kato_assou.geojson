@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kato_assou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κάτω Άσσου", "metric_roundness": 46.52, "metric_rectangularity": 67.54, "metric_mobile_fit": 75.47, "metric_aspect_ratio": 0.808, "metric_area_km2": 2.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.8387455, 37.9490315 ], [ 22.8338189, 37.952797799999985 ], [ 22.8254415, 37.9547155 ], [ 22.822629, 37.9505665 ], [ 22.833185, 37.938983 ], [ 22.8387455, 37.9490315 ] ] ] } }
+]
+}

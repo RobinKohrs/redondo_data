@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberstinzel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberstinzel", "metric_roundness": 33.29, "metric_rectangularity": 64.61, "metric_mobile_fit": -21.38, "metric_aspect_ratio": 1.776, "metric_area_km2": 12.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.013905, 48.781959 ], [ 7.037468, 48.782022499999982 ], [ 7.051616, 48.788827 ], [ 7.0582275, 48.796794499999983 ], [ 7.061923, 48.798313499999985 ], [ 7.067194, 48.799480499999987 ], [ 7.0616345, 48.79963 ], [ 7.0578895, 48.800418499999985 ], [ 7.050388, 48.802616499999985 ], [ 7.0491705, 48.804069 ], [ 7.0173017, 48.791703399999989 ], [ 7.0075785, 48.7911335 ], [ 7.013905, 48.781959 ] ] ] } }
+]
+}

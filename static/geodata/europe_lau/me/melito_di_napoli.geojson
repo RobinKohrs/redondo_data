@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "melito_di_napoli",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Melito di Napoli", "metric_roundness": 45.45, "metric_rectangularity": 60.37, "metric_mobile_fit": 77.51, "metric_aspect_ratio": 0.787, "metric_area_km2": 6.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2362927, 40.905446499999989 ], [ 14.2383364, 40.9116296 ], [ 14.2428165, 40.9131875 ], [ 14.2374505, 40.92853 ], [ 14.2268122, 40.9288323 ], [ 14.2232205, 40.932513 ], [ 14.2196365, 40.9251552 ], [ 14.2146121, 40.9236507 ], [ 14.2208135, 40.91815 ], [ 14.2243319, 40.9168277 ], [ 14.225965, 40.909219 ], [ 14.2362927, 40.905446499999989 ] ] ] } }
+]
+}

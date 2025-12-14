@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "redondelo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Redondelo", "metric_roundness": 49.22, "metric_rectangularity": 70.46, "metric_mobile_fit": 83.96, "metric_aspect_ratio": 0.723, "metric_area_km2": 33.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5524905, 41.7507908 ], [ -7.562725, 41.7447345 ], [ -7.5649893, 41.7349977 ], [ -7.5922675, 41.7147255 ], [ -7.5903144, 41.709273299999978 ], [ -7.55807, 41.688139 ], [ -7.5367585, 41.701052499999982 ], [ -7.541078, 41.7101165 ], [ -7.5414514, 41.7231939 ], [ -7.5315925, 41.7368585 ], [ -7.5524905, 41.7507908 ] ] ] } }
+]
+}

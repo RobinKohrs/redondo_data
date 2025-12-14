@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "barrosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Barrosa", "metric_roundness": 51.25, "metric_rectangularity": 75.26, "metric_mobile_fit": 52.02, "metric_aspect_ratio": 1.042, "metric_area_km2": 11.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.726248, 38.955857 ], [ -8.7324616, 38.9644325 ], [ -8.7484897, 38.9683372 ], [ -8.7572209, 38.9764774 ], [ -8.7601757, 38.974214599999982 ], [ -8.7661799, 38.9641178 ], [ -8.765736, 38.961506099999987 ], [ -8.7683466, 38.9593879 ], [ -8.7572209, 38.9508204 ], [ -8.753929, 38.949509 ], [ -8.7433745, 38.947014 ], [ -8.736498, 38.9455125 ], [ -8.729521, 38.945072 ], [ -8.726248, 38.955857 ] ] ] } }
+]
+}

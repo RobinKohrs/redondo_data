@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "collegien",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Collégien", "metric_roundness": 31.47, "metric_rectangularity": 56.14, "metric_mobile_fit": 80.92, "metric_aspect_ratio": 0.753, "metric_area_km2": 7.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6810407, 48.827884399999988 ], [ 2.6899625, 48.830630499999984 ], [ 2.6757422, 48.8394322 ], [ 2.6683835, 48.8409095 ], [ 2.6583135, 48.8385645 ], [ 2.6656265, 48.832342499999989 ], [ 2.6748537, 48.8258967 ], [ 2.6810685, 48.810395499999984 ], [ 2.69323, 48.815617499999988 ], [ 2.6810407, 48.827884399999988 ] ] ] } }
+]
+}

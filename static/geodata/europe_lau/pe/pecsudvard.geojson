@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pecsudvard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pécsudvard", "metric_roundness": 44.76, "metric_rectangularity": 63.71, "metric_mobile_fit": 91.54, "metric_aspect_ratio": 0.647, "metric_area_km2": 17.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.2831992, 45.9873721 ], [ 18.2913868, 45.9961907 ], [ 18.2951715, 46.006839 ], [ 18.2932742, 46.013737199999987 ], [ 18.2868407, 46.018516199999986 ], [ 18.2733335, 46.0210065 ], [ 18.2692711, 46.0217834 ], [ 18.255436, 46.0136405 ], [ 18.264243, 45.998006299999986 ], [ 18.279027, 45.9802605 ], [ 18.2858215, 45.9791275 ], [ 18.2831992, 45.9873721 ] ] ] } }
+]
+}

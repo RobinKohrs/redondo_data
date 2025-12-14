@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "picarreau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Picarreau", "metric_roundness": 58.27, "metric_rectangularity": 68.72, "metric_mobile_fit": 32.03, "metric_aspect_ratio": 1.242, "metric_area_km2": 19.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7458052, 46.740488499999984 ], [ 5.7526067, 46.739539199999989 ], [ 5.7865275, 46.7529225 ], [ 5.7885525, 46.754888 ], [ 5.7883755, 46.757234 ], [ 5.768348, 46.765807 ], [ 5.747996, 46.771413 ], [ 5.7469857, 46.7650296 ], [ 5.7458052, 46.763411299999987 ], [ 5.730761, 46.762021 ], [ 5.7351557, 46.7463969 ], [ 5.7424055, 46.740963 ], [ 5.7458052, 46.740488499999984 ] ] ] } }
+]
+}

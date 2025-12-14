@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pilisjaszfalu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pilisjászfalu", "metric_roundness": 38.73, "metric_rectangularity": 59.62, "metric_mobile_fit": 9.05, "metric_aspect_ratio": 1.472, "metric_area_km2": 15.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.7787292, 47.6621546 ], [ 18.77164, 47.660215 ], [ 18.747727, 47.661143 ], [ 18.773631, 47.648277 ], [ 18.7833413, 47.6495124 ], [ 18.7954655, 47.641687 ], [ 18.8069858, 47.6478014 ], [ 18.8116325, 47.657181 ], [ 18.8013235, 47.664092 ], [ 18.799312, 47.664939499999981 ], [ 18.7937975, 47.667776499999988 ], [ 18.790832, 47.668559 ], [ 18.780024, 47.67093 ], [ 18.7787292, 47.6621546 ] ] ] } }
+]
+}

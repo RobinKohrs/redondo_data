@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vsevily",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vševily", "metric_roundness": 29.22, "metric_rectangularity": 55.28, "metric_mobile_fit": -50.91, "metric_aspect_ratio": 2.072, "metric_area_km2": 14.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.891776, 49.570139 ], [ 13.856169, 49.573369 ], [ 13.8403645, 49.574208 ], [ 13.843829, 49.5717285 ], [ 13.847333, 49.567784499999988 ], [ 13.8544155, 49.5625075 ], [ 13.857624, 49.559974 ], [ 13.861128, 49.558148499999987 ], [ 13.8688276, 49.560741199999988 ], [ 13.9047545, 49.5558075 ], [ 13.9009035, 49.563161599999987 ], [ 13.905746, 49.5725025 ], [ 13.901086, 49.5762765 ], [ 13.891776, 49.570139 ] ] ] } }
+]
+}

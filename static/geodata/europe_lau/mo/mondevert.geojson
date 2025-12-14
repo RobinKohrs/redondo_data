@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mondevert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mondevert", "metric_roundness": 64.6, "metric_rectangularity": 68.62, "metric_mobile_fit": 60.77, "metric_aspect_ratio": 0.955, "metric_area_km2": 11.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0765466, 48.0933254 ], [ -1.0872025, 48.0987005 ], [ -1.0925491, 48.0990738 ], [ -1.0940907, 48.090634799999989 ], [ -1.1033841, 48.0882389 ], [ -1.1122295, 48.07974 ], [ -1.1091768, 48.075993699999984 ], [ -1.096459, 48.0727325 ], [ -1.0889863, 48.0752895 ], [ -1.0794814, 48.0744243 ], [ -1.0745788, 48.077326 ], [ -1.0773807, 48.0810106 ], [ -1.0750025, 48.082539499999989 ], [ -1.0765466, 48.0933254 ] ] ] } }
+]
+}

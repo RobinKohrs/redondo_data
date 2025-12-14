@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courcelles_sous_chatenois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courcelles-sous-Châtenois", "metric_roundness": 61.11, "metric_rectangularity": 76.07, "metric_mobile_fit": 49.33, "metric_aspect_ratio": 1.069, "metric_area_km2": 4.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.824381, 48.33489549999998 ], [ 5.801847, 48.3321315 ], [ 5.8047386, 48.324261399999983 ], [ 5.8140601, 48.322964699999986 ], [ 5.8175381, 48.319006599999987 ], [ 5.827397, 48.323826499999988 ], [ 5.824381, 48.33489549999998 ] ] ] } }
+]
+}

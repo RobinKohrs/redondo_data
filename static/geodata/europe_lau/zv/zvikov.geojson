@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zvikov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zvíkov", "metric_roundness": 51.16, "metric_rectangularity": 65.82, "metric_mobile_fit": 20.1, "metric_aspect_ratio": 1.361, "metric_area_km2": 6.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4336127, 48.806193 ], [ 14.435165, 48.796223 ], [ 14.4448641, 48.795041099999985 ], [ 14.4578015, 48.8004914 ], [ 14.4624316, 48.798681099999982 ], [ 14.4670085, 48.8062935 ], [ 14.4577314, 48.808408899999989 ], [ 14.4444759, 48.8067703 ], [ 14.4428059, 48.811197099999987 ], [ 14.438404, 48.8108865 ], [ 14.4336127, 48.806193 ] ] ] } }
+]
+}

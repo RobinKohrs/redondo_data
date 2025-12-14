@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carpignano_sesia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carpignano Sesia", "metric_roundness": 56.22, "metric_rectangularity": 66.39, "metric_mobile_fit": 86.41, "metric_aspect_ratio": 0.698, "metric_area_km2": 29.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4486805, 45.5358595 ], [ 8.4479361, 45.5425751 ], [ 8.4368077, 45.5482155 ], [ 8.4312115, 45.559324499999981 ], [ 8.411939, 45.567080499999989 ], [ 8.399329, 45.560889499999981 ], [ 8.3998926, 45.5436043 ], [ 8.3978575, 45.540843499999987 ], [ 8.4029754, 45.5306347 ], [ 8.402993, 45.516327 ], [ 8.4144339, 45.5159267 ], [ 8.4276113, 45.521159 ], [ 8.4341954, 45.527959599999988 ], [ 8.4488665, 45.535288499999986 ], [ 8.4486805, 45.5358595 ] ] ] } }
+]
+}

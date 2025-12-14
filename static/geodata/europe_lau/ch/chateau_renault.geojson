@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chateau_renault",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Château-Renault", "metric_roundness": 47.03, "metric_rectangularity": 78.51, "metric_mobile_fit": 41.56, "metric_aspect_ratio": 1.147, "metric_area_km2": 7.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9034245, 47.5959865 ], [ 0.8885907, 47.592509699999987 ], [ 0.8913485, 47.586074 ], [ 0.9004935, 47.581421499999983 ], [ 0.9039263, 47.585234899999989 ], [ 0.9251275, 47.59 ], [ 0.9266979, 47.598031299999988 ], [ 0.9230315, 47.603828499999985 ], [ 0.9034245, 47.5959865 ] ] ] } }
+]
+}

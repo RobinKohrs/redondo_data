@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "joinville_le_pont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Joinville-le-Pont", "metric_roundness": 42.84, "metric_rectangularity": 57.44, "metric_mobile_fit": 72.7, "metric_aspect_ratio": 0.836, "metric_area_km2": 5.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4816132, 48.820078599999988 ], [ 2.475803, 48.830612 ], [ 2.4657305, 48.826226 ], [ 2.461205, 48.818355 ], [ 2.4616943, 48.8142378 ], [ 2.4546495, 48.813505 ], [ 2.4573455, 48.8109135 ], [ 2.460628, 48.809364 ], [ 2.4738015, 48.815086699999988 ], [ 2.48018, 48.8135215 ], [ 2.4816132, 48.820078599999988 ] ] ] } }
+]
+}

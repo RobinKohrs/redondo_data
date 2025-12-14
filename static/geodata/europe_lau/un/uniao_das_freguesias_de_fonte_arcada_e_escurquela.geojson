@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_fonte_arcada_e_escurquela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Fonte Arcada e Escurquela", "metric_roundness": 39.4, "metric_rectangularity": 73.17, "metric_mobile_fit": 92.59, "metric_aspect_ratio": 0.488, "metric_area_km2": 34.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5046099, 41.013575599999989 ], [ -7.5116674, 41.0143017 ], [ -7.513121, 41.0219795 ], [ -7.5208807, 41.019688 ], [ -7.5309865, 41.0057015 ], [ -7.5370355, 40.9971635 ], [ -7.5340642, 40.9917297 ], [ -7.5397915, 40.961612 ], [ -7.541326, 40.959265 ], [ -7.541806, 40.957393 ], [ -7.5413765, 40.955490499999989 ], [ -7.5406065, 40.953366 ], [ -7.512475, 40.952392499999988 ], [ -7.5056778, 40.9558248 ], [ -7.4998106, 40.9634577 ], [ -7.5000558, 40.9739772 ], [ -7.5075669, 40.988292 ], [ -7.4967815, 41.0061955 ], [ -7.5046099, 41.013575599999989 ] ] ] } }
+]
+}

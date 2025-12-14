@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vernioz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vernioz", "metric_roundness": 39.78, "metric_rectangularity": 61.46, "metric_mobile_fit": 13.52, "metric_aspect_ratio": 1.427, "metric_area_km2": 22.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.859294, 45.420404499999989 ], [ 4.9004869, 45.417483499999989 ], [ 4.929848, 45.423676 ], [ 4.9249725, 45.437802 ], [ 4.91989, 45.445346499999985 ], [ 4.918611, 45.4521715 ], [ 4.8958368, 45.4369401 ], [ 4.8646895, 45.432208499999987 ], [ 4.859294, 45.420404499999989 ] ] ] } }
+]
+}

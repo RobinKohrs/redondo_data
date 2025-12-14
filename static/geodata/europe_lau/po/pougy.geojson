@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pougy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pougy", "metric_roundness": 53.58, "metric_rectangularity": 77.99, "metric_mobile_fit": 41.45, "metric_aspect_ratio": 1.148, "metric_area_km2": 19.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3723514, 48.433821299999984 ], [ 4.3700379, 48.4379985 ], [ 4.377354, 48.445904 ], [ 4.362206, 48.4540515 ], [ 4.3347033, 48.4412154 ], [ 4.3199205, 48.439867 ], [ 4.3230745, 48.427215 ], [ 4.3349554, 48.4208589 ], [ 4.363872, 48.430091499999982 ], [ 4.3723514, 48.433821299999984 ] ] ] } }
+]
+}

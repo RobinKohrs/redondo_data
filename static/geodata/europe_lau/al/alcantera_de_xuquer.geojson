@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alcantera_de_xuquer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alcàntera de Xúquer", "metric_roundness": 16.38, "metric_rectangularity": 60.87, "metric_mobile_fit": 70.98, "metric_aspect_ratio": 0.272, "metric_area_km2": 5.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.548174, 39.048809 ], [ -0.5531926, 39.0506272 ], [ -0.5540204, 39.0553979 ], [ -0.5512925, 39.056877 ], [ -0.5531421, 39.069535699999989 ], [ -0.5577579, 39.0761967 ], [ -0.555438, 39.090137499999983 ], [ -0.563711, 39.0835935 ], [ -0.5641415, 39.0676052 ], [ -0.556793, 39.0446175 ], [ -0.553167, 39.045456499999986 ], [ -0.550472, 39.047165 ], [ -0.548729, 39.046333 ], [ -0.548174, 39.048809 ] ] ] } }
+]
+}

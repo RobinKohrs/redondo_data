@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alby_sur_cheran",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alby-sur-Chéran", "metric_roundness": 43.53, "metric_rectangularity": 62.64, "metric_mobile_fit": 17.18, "metric_aspect_ratio": 1.391, "metric_area_km2": 13.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0147115, 45.826581 ], [ 6.0103525, 45.8248254 ], [ 5.9948535, 45.818583 ], [ 5.9954845, 45.803881 ], [ 6.0103525, 45.8026316 ], [ 6.0244645, 45.804915 ], [ 6.0239255, 45.8129667 ], [ 6.0322128, 45.8119933 ], [ 6.0367117, 45.81880289999998 ], [ 6.0451805, 45.8237325 ], [ 6.042372, 45.826978 ], [ 6.0311679, 45.8241903 ], [ 6.021173, 45.827854499999987 ], [ 6.0147115, 45.826581 ] ] ] } }
+]
+}

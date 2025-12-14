@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soltyska",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Šoltýska", "metric_roundness": 40.58, "metric_rectangularity": 48.68, "metric_mobile_fit": 77.41, "metric_aspect_ratio": 0.788, "metric_area_km2": 9.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.7397001, 48.5707464 ], [ 19.7488151, 48.568545699999987 ], [ 19.7596755, 48.5704035 ], [ 19.765295, 48.574929099999984 ], [ 19.7533703, 48.587917 ], [ 19.7313645, 48.592022 ], [ 19.7344792, 48.585376499999981 ], [ 19.7400645, 48.5817648 ], [ 19.7289617, 48.566673499999986 ], [ 19.7302085, 48.56153 ], [ 19.7397001, 48.5707464 ] ] ] } }
+]
+}

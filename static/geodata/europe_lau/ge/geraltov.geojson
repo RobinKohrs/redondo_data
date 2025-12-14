@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geraltov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Geraltov", "metric_roundness": 26.93, "metric_rectangularity": 56.14, "metric_mobile_fit": 15.5, "metric_aspect_ratio": 1.407, "metric_area_km2": 24.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.277803, 49.125882499999975 ], [ 21.2948765, 49.127153 ], [ 21.2940896, 49.143333 ], [ 21.2821305, 49.1496195 ], [ 21.2679301, 49.1546436 ], [ 21.2607719, 49.151684299999985 ], [ 21.2397813, 49.1545991 ], [ 21.214594, 49.1631955 ], [ 21.2363, 49.1405315 ], [ 21.2451424, 49.140895 ], [ 21.250254, 49.136126599999983 ], [ 21.2654767, 49.1324861 ], [ 21.268637, 49.126735 ], [ 21.277803, 49.125882499999975 ] ] ] } }
+]
+}

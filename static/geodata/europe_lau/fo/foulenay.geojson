@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "foulenay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Foulenay", "metric_roundness": 52.92, "metric_rectangularity": 78.54, "metric_mobile_fit": 1.28, "metric_aspect_ratio": 1.55, "metric_area_km2": 8.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4993791, 46.8656392 ], [ 5.4812295, 46.870528 ], [ 5.4745835, 46.867748 ], [ 5.466342, 46.856944 ], [ 5.4859815, 46.8527585 ], [ 5.4882445, 46.853282 ], [ 5.495854, 46.853252 ], [ 5.5023275, 46.8550995 ], [ 5.5043, 46.856260499999983 ], [ 5.506615, 46.859443 ], [ 5.4993791, 46.8656392 ] ] ] } }
+]
+}

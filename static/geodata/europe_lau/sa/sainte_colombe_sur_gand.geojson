@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_colombe_sur_gand",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Colombe-sur-Gand", "metric_roundness": 58.21, "metric_rectangularity": 68.28, "metric_mobile_fit": 50.45, "metric_aspect_ratio": 1.058, "metric_area_km2": 28.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2816255, 45.888817 ], [ 4.271659, 45.8894385 ], [ 4.2651272, 45.8822786 ], [ 4.263505, 45.876128899999983 ], [ 4.2470322, 45.869872099999988 ], [ 4.242589, 45.8632065 ], [ 4.2640665, 45.864553499999978 ], [ 4.2720834, 45.854913 ], [ 4.2916297, 45.849469799999987 ], [ 4.295301, 45.844076 ], [ 4.3080913, 45.8540949 ], [ 4.3115145, 45.8664003 ], [ 4.304428, 45.8759777 ], [ 4.3055405, 45.878276 ], [ 4.2866127, 45.8823783 ], [ 4.2862875, 45.887656 ], [ 4.2816255, 45.888817 ] ] ] } }
+]
+}

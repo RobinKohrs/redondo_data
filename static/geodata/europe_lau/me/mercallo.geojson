@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mercallo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mercallo", "metric_roundness": 53.51, "metric_rectangularity": 73.46, "metric_mobile_fit": 73.45, "metric_aspect_ratio": 0.828, "metric_area_km2": 11.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.655659, 45.7563508 ], [ 8.6541545, 45.7473896 ], [ 8.6639471, 45.7379427 ], [ 8.6725685, 45.736201499999979 ], [ 8.6774095, 45.7388919 ], [ 8.6786568, 45.7473783 ], [ 8.691392, 45.761617499999986 ], [ 8.6792884, 45.7604037 ], [ 8.662153, 45.767583 ], [ 8.655659, 45.7563508 ] ] ] } }
+]
+}

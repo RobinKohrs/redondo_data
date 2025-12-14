@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mesquitela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mesquitela", "metric_roundness": 55.94, "metric_rectangularity": 80.8, "metric_mobile_fit": 42.3, "metric_aspect_ratio": 1.139, "metric_area_km2": 28.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.4461165, 40.5652835 ], [ -7.4431578, 40.5882838 ], [ -7.4468105, 40.601444 ], [ -7.455264, 40.601388 ], [ -7.4585915, 40.601102499999989 ], [ -7.467273, 40.5999 ], [ -7.4754935, 40.5998195 ], [ -7.4822176, 40.5984944 ], [ -7.4960893, 40.604999299999989 ], [ -7.498668, 40.602832 ], [ -7.5024254, 40.5968901 ], [ -7.5027486, 40.586834499999981 ], [ -7.4967345, 40.5717145 ], [ -7.4681885, 40.570816 ], [ -7.4461165, 40.5652835 ] ] ] } }
+]
+}

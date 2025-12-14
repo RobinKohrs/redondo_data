@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kasdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kasdorf", "metric_roundness": 38.43, "metric_rectangularity": 70.62, "metric_mobile_fit": 44.68, "metric_aspect_ratio": 1.116, "metric_area_km2": 10.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.750355, 50.191501 ], [ 7.7600627, 50.1917848 ], [ 7.7646875, 50.188603 ], [ 7.774551, 50.188766 ], [ 7.7782047, 50.1934905 ], [ 7.7909463, 50.197764799999987 ], [ 7.7932284, 50.203848399999984 ], [ 7.7905505, 50.213212499999983 ], [ 7.7831269, 50.2131165 ], [ 7.750335, 50.19232 ], [ 7.750355, 50.191501 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "echenon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Échenon", "metric_roundness": 55.67, "metric_rectangularity": 70.92, "metric_mobile_fit": 78.94, "metric_aspect_ratio": 0.773, "metric_area_km2": 22.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.295137, 47.136789 ], [ 5.2899552, 47.1399203 ], [ 5.2834642, 47.1393883 ], [ 5.2786618, 47.143520199999983 ], [ 5.2741928, 47.1312237 ], [ 5.2666325, 47.1305865 ], [ 5.2662242, 47.1139265 ], [ 5.280894, 47.102046 ], [ 5.285412, 47.102695 ], [ 5.2975735, 47.102067499999983 ], [ 5.303885, 47.106542 ], [ 5.312679, 47.1082055 ], [ 5.313348, 47.108368 ], [ 5.295137, 47.136789 ] ] ] } }
+]
+}

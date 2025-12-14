@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_bagunte_ferreiro_outeiro_maior_e_parada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada", "metric_roundness": 48.72, "metric_rectangularity": 57.98, "metric_mobile_fit": 43.51, "metric_aspect_ratio": 1.127, "metric_area_km2": 39.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6216768, 41.337234599999988 ], [ -8.616927, 41.3381655 ], [ -8.6106235, 41.3411115 ], [ -8.6161662, 41.3664919 ], [ -8.6233215, 41.3827355 ], [ -8.6384225, 41.392711 ], [ -8.6409707, 41.387439 ], [ -8.6556619, 41.3866783 ], [ -8.659612, 41.383629 ], [ -8.6708001, 41.3663166 ], [ -8.6867064, 41.3684907 ], [ -8.6939595, 41.365202 ], [ -8.6860805, 41.354963 ], [ -8.6778552, 41.3504744 ], [ -8.6485925, 41.347964499999989 ], [ -8.6385193, 41.3501684 ], [ -8.6321886, 41.3431313 ], [ -8.6219885, 41.342496 ], [ -8.6216768, 41.337234599999988 ] ] ] } }
+]
+}

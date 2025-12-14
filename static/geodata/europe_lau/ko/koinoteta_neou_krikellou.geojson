@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neou_krikellou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νέου Κρικέλλου", "metric_roundness": 63.31, "metric_rectangularity": 74.49, "metric_mobile_fit": 54.15, "metric_aspect_ratio": 1.021, "metric_area_km2": 6.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.4263239, 38.8157245 ], [ 22.4383135, 38.817282 ], [ 22.4376935, 38.8358105 ], [ 22.4358845, 38.83558 ], [ 22.4269345, 38.835284 ], [ 22.423289, 38.83449 ], [ 22.4168965, 38.830434499999988 ], [ 22.413868, 38.828872 ], [ 22.4124075, 38.827144499999989 ], [ 22.411989, 38.824936 ], [ 22.4263239, 38.8157245 ] ] ] } }
+]
+}

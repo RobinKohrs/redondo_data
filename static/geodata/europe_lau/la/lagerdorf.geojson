@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lagerdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lägerdorf", "metric_roundness": 51.38, "metric_rectangularity": 71.94, "metric_mobile_fit": 10.09, "metric_aspect_ratio": 1.462, "metric_area_km2": 18.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6021065, 53.882214 ], [ 9.5961409, 53.890825199999981 ], [ 9.5620815, 53.893004499999989 ], [ 9.5552095, 53.888513199999984 ], [ 9.5447035, 53.887204 ], [ 9.5482524, 53.8785946 ], [ 9.5443545, 53.871956 ], [ 9.5602888, 53.8697133 ], [ 9.57458, 53.873891 ], [ 9.6021065, 53.882214 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rovensko",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rovensko", "metric_roundness": 52.94, "metric_rectangularity": 75.28, "metric_mobile_fit": 50.79, "metric_aspect_ratio": 1.055, "metric_area_km2": 17.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.888856, 49.9020155 ], [ 16.88867, 49.904132 ], [ 16.8888215, 49.907832499999984 ], [ 16.8897095, 49.9104555 ], [ 16.8904195, 49.915542499999987 ], [ 16.849991, 49.927635 ], [ 16.8553427, 49.9228343 ], [ 16.8529864, 49.917019 ], [ 16.8459843, 49.909861599999978 ], [ 16.838008, 49.907778 ], [ 16.8392542, 49.904795 ], [ 16.8817664, 49.89562979999998 ], [ 16.8889045, 49.899692 ], [ 16.888856, 49.9020155 ] ] ] } }
+]
+}

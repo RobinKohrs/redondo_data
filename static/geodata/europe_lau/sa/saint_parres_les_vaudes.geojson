@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_parres_les_vaudes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Parres-lès-Vaudes", "metric_roundness": 41.75, "metric_rectangularity": 55.73, "metric_mobile_fit": 67.51, "metric_aspect_ratio": 0.887, "metric_area_km2": 6.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2301278, 48.163441 ], [ 4.22903, 48.1661355 ], [ 4.2332061, 48.168049799999984 ], [ 4.2325588, 48.1702967 ], [ 4.2254106, 48.171068 ], [ 4.2238636, 48.1799229 ], [ 4.2151124, 48.188263899999988 ], [ 4.2119985, 48.188085 ], [ 4.2136394, 48.185552 ], [ 4.210145, 48.181369 ], [ 4.200172, 48.169385 ], [ 4.2056493, 48.1675415 ], [ 4.211565, 48.168359199999976 ], [ 4.225259, 48.164093 ], [ 4.2301278, 48.163441 ] ] ] } }
+]
+}

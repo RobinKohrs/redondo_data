@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mascaras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mascaras", "metric_roundness": 49.36, "metric_rectangularity": 63.21, "metric_mobile_fit": 74.45, "metric_aspect_ratio": 0.818, "metric_area_km2": 11.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.213343, 43.569377 ], [ 0.2132761, 43.5569638 ], [ 0.202865, 43.547305 ], [ 0.227279, 43.5379035 ], [ 0.2411666, 43.5467444 ], [ 0.238778, 43.557418299999988 ], [ 0.2337923, 43.5615348 ], [ 0.2241129, 43.5615665 ], [ 0.2208288, 43.5694797 ], [ 0.21215, 43.571836 ], [ 0.213343, 43.569377 ] ] ] } }
+]
+}

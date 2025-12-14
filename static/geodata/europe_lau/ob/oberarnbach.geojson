@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberarnbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberarnbach", "metric_roundness": 44.56, "metric_rectangularity": 65.03, "metric_mobile_fit": 75.09, "metric_aspect_ratio": 0.812, "metric_area_km2": 11.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5742515, 49.390719 ], [ 7.575471, 49.386975 ], [ 7.5649847, 49.373561599999988 ], [ 7.5706805, 49.369212 ], [ 7.5760371, 49.372995099999983 ], [ 7.6013825, 49.376296499999981 ], [ 7.6025873, 49.384767899999986 ], [ 7.595491, 49.3993715 ], [ 7.5742515, 49.390719 ] ] ] } }
+]
+}

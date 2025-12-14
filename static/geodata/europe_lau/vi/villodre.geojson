@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villodre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villodre", "metric_roundness": 55.6, "metric_rectangularity": 66.91, "metric_mobile_fit": 39.64, "metric_aspect_ratio": 1.166, "metric_area_km2": 15.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.2736396, 42.2107114 ], [ -4.2662662, 42.208471 ], [ -4.2556657, 42.2000764 ], [ -4.252368, 42.2000357 ], [ -4.2401357, 42.1998847 ], [ -4.2314625, 42.208423499999988 ], [ -4.2312852, 42.2186361 ], [ -4.226951, 42.229538 ], [ -4.252368, 42.223612 ], [ -4.271303, 42.2252615 ], [ -4.2736396, 42.2107114 ] ] ] } }
+]
+}

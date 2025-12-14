@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_biagio_della_cima",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Biagio della Cima", "metric_roundness": 23.87, "metric_rectangularity": 46.77, "metric_mobile_fit": 90.64, "metric_aspect_ratio": 0.469, "metric_area_km2": 8.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.661095, 43.823953 ], [ 7.6450399, 43.8290795 ], [ 7.648625, 43.84419 ], [ 7.6473545, 43.8459175 ], [ 7.633226, 43.8404325 ], [ 7.6384057, 43.8326659 ], [ 7.6383779, 43.8139057 ], [ 7.642955, 43.803036 ], [ 7.6455317, 43.8119247 ], [ 7.657335, 43.8153295 ], [ 7.661095, 43.823953 ] ] ] } }
+]
+}

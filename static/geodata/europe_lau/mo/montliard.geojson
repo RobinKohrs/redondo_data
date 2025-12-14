@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montliard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montliard", "metric_roundness": 65.56, "metric_rectangularity": 71.81, "metric_mobile_fit": 49.05, "metric_aspect_ratio": 1.072, "metric_area_km2": 19.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4250784, 48.0189306 ], [ 2.417028, 48.027809 ], [ 2.409626, 48.029658299999987 ], [ 2.4008279, 48.027563099999981 ], [ 2.393909, 48.0324535 ], [ 2.3783429, 48.0315084 ], [ 2.3755684, 48.026644899999987 ], [ 2.3768015, 48.016319499999987 ], [ 2.400909, 48.001560499999989 ], [ 2.4201419, 48.007020499999989 ], [ 2.4243755, 48.012066499999989 ], [ 2.4250784, 48.0189306 ] ] ] } }
+]
+}

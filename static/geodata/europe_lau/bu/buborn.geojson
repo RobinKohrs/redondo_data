@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "buborn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Buborn", "metric_roundness": 48.92, "metric_rectangularity": 64.19, "metric_mobile_fit": 28.59, "metric_aspect_ratio": 1.277, "metric_area_km2": 6.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.545183, 49.6333376 ], [ 7.5610365, 49.6404195 ], [ 7.5514972, 49.641524499999974 ], [ 7.546427, 49.647326499999984 ], [ 7.545797, 49.648303 ], [ 7.526719, 49.6400365 ], [ 7.5257255, 49.6383185 ], [ 7.5240425, 49.637099 ], [ 7.525749, 49.636206 ], [ 7.524074, 49.634707 ], [ 7.5289615, 49.630740499999987 ], [ 7.54865, 49.629536 ], [ 7.545183, 49.6333376 ] ] ] } }
+]
+}

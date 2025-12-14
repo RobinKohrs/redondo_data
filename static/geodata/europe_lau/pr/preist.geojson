@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "preist",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Preist", "metric_roundness": 49.08, "metric_rectangularity": 57.18, "metric_mobile_fit": 19.55, "metric_aspect_ratio": 1.367, "metric_area_km2": 15.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6627712, 49.920147899999982 ], [ 6.637008, 49.918107699999986 ], [ 6.621404, 49.923584 ], [ 6.6148385, 49.921792499999988 ], [ 6.6106398, 49.913935599999988 ], [ 6.6152332, 49.9086386 ], [ 6.6143705, 49.90519 ], [ 6.6285365, 49.897218 ], [ 6.6416022, 49.8992304 ], [ 6.6480746, 49.910132499999989 ], [ 6.666608, 49.917314 ], [ 6.6627712, 49.920147899999982 ] ] ] } }
+]
+}

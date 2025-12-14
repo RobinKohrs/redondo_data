@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_monospiton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μονοσπίτων", "metric_roundness": 60.14, "metric_rectangularity": 70.8, "metric_mobile_fit": 61.54, "metric_aspect_ratio": 0.947, "metric_area_km2": 22.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1564289, 40.626129699999986 ], [ 22.138071, 40.624063 ], [ 22.1525305, 40.611414 ], [ 22.1593885, 40.608056 ], [ 22.165622, 40.60448 ], [ 22.1706705, 40.600745 ], [ 22.1759055, 40.596342 ], [ 22.1879951, 40.6045875 ], [ 22.1910426, 40.610769 ], [ 22.192938, 40.6310937 ], [ 22.1862455, 40.6378615 ], [ 22.1749355, 40.6403146 ], [ 22.1620835, 40.635620499999987 ], [ 22.1564289, 40.626129699999986 ] ] ] } }
+]
+}

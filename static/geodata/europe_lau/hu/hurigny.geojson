@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hurigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hurigny", "metric_roundness": 44.49, "metric_rectangularity": 74.27, "metric_mobile_fit": 94.75, "metric_aspect_ratio": 0.51, "metric_area_km2": 18.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8084747, 46.3273489 ], [ 4.810205, 46.338275499999988 ], [ 4.814214, 46.3407085 ], [ 4.812498, 46.347271 ], [ 4.8056143, 46.3553945 ], [ 4.8118045, 46.360608 ], [ 4.78988, 46.367430499999983 ], [ 4.782425, 46.345702499999987 ], [ 4.781007, 46.3236835 ], [ 4.7907731, 46.3255197 ], [ 4.801497, 46.322487 ], [ 4.8084747, 46.3273489 ] ] ] } }
+]
+}

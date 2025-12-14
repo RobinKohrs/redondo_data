@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_roussospitiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ρουσσοσπιτίου", "metric_roundness": 23.1, "metric_rectangularity": 44.52, "metric_mobile_fit": 88.01, "metric_aspect_ratio": 0.443, "metric_area_km2": 10.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.4948295, 35.3013695 ], [ 24.5095705, 35.3003235 ], [ 24.4932965, 35.3173451 ], [ 24.5035759, 35.3361843 ], [ 24.499252, 35.3550865 ], [ 24.4938909, 35.350494 ], [ 24.4900303, 35.330805 ], [ 24.483332, 35.323380499999985 ], [ 24.480957, 35.3193495 ], [ 24.48003, 35.31606 ], [ 24.4798605, 35.314218 ], [ 24.4801095, 35.30998 ], [ 24.479884, 35.301743 ], [ 24.4948295, 35.3013695 ] ] ] } }
+]
+}

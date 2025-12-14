@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vaclavovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Václavovice", "metric_roundness": 54.26, "metric_rectangularity": 67.11, "metric_mobile_fit": 33.36, "metric_aspect_ratio": 1.229, "metric_area_km2": 13.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.3825107, 49.761299799999982 ], [ 18.37726, 49.7660115 ], [ 18.3644745, 49.7654665 ], [ 18.3531685, 49.7602689 ], [ 18.3527987, 49.754414199999971 ], [ 18.3613678, 49.7503244 ], [ 18.357477, 49.74129 ], [ 18.3698805, 49.743565 ], [ 18.3879792, 49.7463942 ], [ 18.3998215, 49.757677 ], [ 18.3979545, 49.75787 ], [ 18.3825107, 49.761299799999982 ] ] ] } }
+]
+}

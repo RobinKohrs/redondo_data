@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_patrice_de_claids",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Patrice-de-Claids", "metric_roundness": 57.35, "metric_rectangularity": 73.7, "metric_mobile_fit": 79.73, "metric_aspect_ratio": 0.765, "metric_area_km2": 13.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.43913, 49.2411071 ], [ -1.458328, 49.232500499999979 ], [ -1.4563383, 49.2227526 ], [ -1.459147, 49.219018499999976 ], [ -1.4484877, 49.2161644 ], [ -1.4386154, 49.2181357 ], [ -1.4276825, 49.2138845 ], [ -1.4262595, 49.213209499999984 ], [ -1.425275, 49.234486499999981 ], [ -1.4249495, 49.240172 ], [ -1.4269405, 49.2401545 ], [ -1.429728, 49.2423965 ], [ -1.43913, 49.2411071 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cirie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ciriè", "metric_roundness": 57.88, "metric_rectangularity": 82.99, "metric_mobile_fit": 63.13, "metric_aspect_ratio": 0.931, "metric_area_km2": 36.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5926915, 45.191941 ], [ 7.5986549, 45.1993235 ], [ 7.6149528, 45.210016 ], [ 7.621327, 45.223375499999982 ], [ 7.627459, 45.228159 ], [ 7.6080248, 45.239255299999989 ], [ 7.584079, 45.248288 ], [ 7.5811956, 45.2386786 ], [ 7.5646913, 45.2154943 ], [ 7.55297, 45.209979 ], [ 7.5926915, 45.191941 ] ] ] } }
+]
+}

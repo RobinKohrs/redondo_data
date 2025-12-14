@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "costa_volpino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Costa Volpino", "metric_roundness": 41.77, "metric_rectangularity": 79.72, "metric_mobile_fit": 90.16, "metric_aspect_ratio": 0.661, "metric_area_km2": 38.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.0624489, 45.8506864 ], [ 10.0615505, 45.8444475 ], [ 10.0955445, 45.806801 ], [ 10.1078286, 45.8147963 ], [ 10.120131, 45.8298225 ], [ 10.121419, 45.835955 ], [ 10.0989578, 45.8546889 ], [ 10.0825405, 45.8741505 ], [ 10.0775443, 45.867927399999978 ], [ 10.057525, 45.861703 ], [ 10.0624489, 45.8506864 ] ] ] } }
+]
+}

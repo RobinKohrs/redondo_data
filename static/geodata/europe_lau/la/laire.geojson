@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laire", "metric_roundness": 36.93, "metric_rectangularity": 59.33, "metric_mobile_fit": 15.45, "metric_aspect_ratio": 1.408, "metric_area_km2": 7.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7188245, 47.5547675 ], [ 6.719505, 47.5525345 ], [ 6.722134, 47.5456795 ], [ 6.7248335, 47.5445405 ], [ 6.73921, 47.543816 ], [ 6.741986, 47.5428095 ], [ 6.758114, 47.541565 ], [ 6.752888, 47.5435215 ], [ 6.748856, 47.548629 ], [ 6.7397372, 47.556627 ], [ 6.7259435, 47.560398499999984 ], [ 6.7222715, 47.559457 ], [ 6.7188245, 47.5547675 ] ] ] } }
+]
+}

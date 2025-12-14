@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dielsdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dielsdorf", "metric_roundness": 40.41, "metric_rectangularity": 62.04, "metric_mobile_fit": 35.93, "metric_aspect_ratio": 1.203, "metric_area_km2": 13.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4511149, 47.4673165 ], [ 8.4621165, 47.461819 ], [ 8.4706488, 47.474742 ], [ 8.4758655, 47.489436499999975 ], [ 8.4567413, 47.488723 ], [ 8.447011, 47.484303499999989 ], [ 8.426701, 47.468846 ], [ 8.4511149, 47.4673165 ] ] ] } }
+]
+}

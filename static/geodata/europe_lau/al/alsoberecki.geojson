@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alsoberecki",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alsóberecki", "metric_roundness": 71.31, "metric_rectangularity": 77.68, "metric_mobile_fit": 69.3, "metric_aspect_ratio": 0.87, "metric_area_km2": 15.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6893642, 48.326664099999981 ], [ 21.6894725, 48.323322 ], [ 21.717201, 48.328687499999987 ], [ 21.7190132, 48.331049199999981 ], [ 21.7159108, 48.3386051 ], [ 21.7182985, 48.3465395 ], [ 21.7022387, 48.3536572 ], [ 21.694723, 48.3497455 ], [ 21.6793316, 48.3475703 ], [ 21.68202, 48.332766 ], [ 21.6893642, 48.326664099999981 ] ] ] } }
+]
+}

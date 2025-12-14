@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ribeira_brava",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ribeira Brava", "metric_roundness": 36.48, "metric_rectangularity": 58.0, "metric_mobile_fit": 59.3, "metric_aspect_ratio": 0.969, "metric_area_km2": 25.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -17.0649836, 32.6691427 ], [ -17.049458, 32.664805 ], [ -17.0402243, 32.678655 ], [ -17.0233876, 32.688245 ], [ -17.0187683, 32.6977669 ], [ -17.002459, 32.7158825 ], [ -17.0171557, 32.7203146 ], [ -17.029459, 32.709089299999981 ], [ -17.0378734, 32.7057263 ], [ -17.0429727, 32.710422 ], [ -17.0430768, 32.7249297 ], [ -17.049347, 32.7263695 ], [ -17.0528378, 32.703575299999983 ], [ -17.0733835, 32.675826 ], [ -17.0649836, 32.6691427 ] ] ] } }
+]
+}

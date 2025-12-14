@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "usobrno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Úsobrno", "metric_roundness": 42.24, "metric_rectangularity": 58.73, "metric_mobile_fit": 52.44, "metric_aspect_ratio": 1.038, "metric_area_km2": 18.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.7614081, 49.578811199999983 ], [ 16.7650986, 49.582209 ], [ 16.7833017, 49.5731251 ], [ 16.793416, 49.574032 ], [ 16.801485, 49.577893199999977 ], [ 16.7892112, 49.590620299999983 ], [ 16.8042, 49.598813 ], [ 16.7811378, 49.5964495 ], [ 16.750735, 49.60655 ], [ 16.7541696, 49.5991195 ], [ 16.7506752, 49.5934586 ], [ 16.7543822, 49.5869206 ], [ 16.753259, 49.5816355 ], [ 16.7614081, 49.578811199999983 ] ] ] } }
+]
+}

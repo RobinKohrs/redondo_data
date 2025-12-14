@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rosnay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rosnay", "metric_roundness": 35.67, "metric_rectangularity": 57.43, "metric_mobile_fit": -9.59, "metric_aspect_ratio": 1.658, "metric_area_km2": 14.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8863805, 49.262538 ], [ 3.8821339, 49.2651361 ], [ 3.8763141, 49.2636251 ], [ 3.8637667, 49.2660903 ], [ 3.8581845, 49.270141499999987 ], [ 3.8423266, 49.2557614 ], [ 3.8258025, 49.2582015 ], [ 3.824037, 49.252238499999983 ], [ 3.843487, 49.245606499999987 ], [ 3.878884, 49.252912 ], [ 3.88304, 49.2564535 ], [ 3.8863805, 49.262538 ] ] ] } }
+]
+}

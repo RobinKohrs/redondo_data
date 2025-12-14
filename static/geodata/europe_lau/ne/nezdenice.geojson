@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nezdenice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nezdenice", "metric_roundness": 34.26, "metric_rectangularity": 59.85, "metric_mobile_fit": 93.83, "metric_aspect_ratio": 0.501, "metric_area_km2": 19.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.7729315, 48.9904495 ], [ 17.774786, 48.993839 ], [ 17.7653854, 49.003771599999986 ], [ 17.7588856, 49.01616929999998 ], [ 17.7627961, 49.0288035 ], [ 17.7570191, 49.030609 ], [ 17.7528805, 49.036514 ], [ 17.7387738, 49.0144764 ], [ 17.7365075, 49.003666499999987 ], [ 17.7369198, 48.998438299999989 ], [ 17.75109, 48.986384 ], [ 17.7729315, 48.9904495 ] ] ] } }
+]
+}

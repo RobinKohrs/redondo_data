@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "potte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Potte", "metric_roundness": 43.57, "metric_rectangularity": 65.03, "metric_mobile_fit": 81.31, "metric_aspect_ratio": 0.749, "metric_area_km2": 7.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8919375, 49.789637 ], [ 2.9135035, 49.787013 ], [ 2.9144558, 49.792241099999984 ], [ 2.9072947, 49.79383259999998 ], [ 2.90426, 49.810125499999984 ], [ 2.8976475, 49.809437 ], [ 2.8924565, 49.8106285 ], [ 2.8870396, 49.800740399999974 ], [ 2.8878565, 49.7970725 ], [ 2.8919375, 49.789637 ] ] ] } }
+]
+}

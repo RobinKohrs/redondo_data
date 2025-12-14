@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roeux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rœux", "metric_roundness": 59.67, "metric_rectangularity": 81.17, "metric_mobile_fit": 76.19, "metric_aspect_ratio": 0.801, "metric_area_km2": 11.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9173617, 50.2986835 ], [ 2.9149285, 50.304842 ], [ 2.896101, 50.3163305 ], [ 2.890801, 50.313609 ], [ 2.8822439, 50.3028584 ], [ 2.8893802, 50.29290839999998 ], [ 2.898157, 50.288313 ], [ 2.9022565, 50.290403 ], [ 2.906776, 50.291268 ], [ 2.9056105, 50.294766499999987 ], [ 2.912437, 50.2952345 ], [ 2.9173617, 50.2986835 ] ] ] } }
+]
+}

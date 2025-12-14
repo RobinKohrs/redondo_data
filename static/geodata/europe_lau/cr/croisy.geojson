@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "croisy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Croisy", "metric_roundness": 43.7, "metric_rectangularity": 72.55, "metric_mobile_fit": 50.55, "metric_aspect_ratio": 1.057, "metric_area_km2": 29.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8367818, 46.939827199999989 ], [ 2.8342712, 46.9470092 ], [ 2.826599, 46.947656 ], [ 2.7937185, 46.9509845 ], [ 2.7962877, 46.940928 ], [ 2.8281294, 46.911709 ], [ 2.8383, 46.9063565 ], [ 2.8583546, 46.915736099999982 ], [ 2.8627962, 46.923978499999976 ], [ 2.8589254, 46.929714799999985 ], [ 2.850949, 46.930082799999987 ], [ 2.850449, 46.9345515 ], [ 2.8367818, 46.939827199999989 ] ] ] } }
+]
+}

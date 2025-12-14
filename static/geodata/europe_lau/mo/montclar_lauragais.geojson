@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montclar_lauragais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montclar-Lauragais", "metric_roundness": 48.57, "metric_rectangularity": 69.54, "metric_mobile_fit": 50.79, "metric_aspect_ratio": 1.055, "metric_area_km2": 7.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7168345, 43.3494665 ], [ 1.730088, 43.3629945 ], [ 1.728904, 43.3642915 ], [ 1.7137202, 43.373857 ], [ 1.7075007, 43.3695595 ], [ 1.694709, 43.371128 ], [ 1.697911, 43.365657 ], [ 1.701661, 43.361896 ], [ 1.7168345, 43.3494665 ] ] ] } }
+]
+}

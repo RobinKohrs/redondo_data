@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sklene_teplice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sklené Teplice", "metric_roundness": 38.68, "metric_rectangularity": 58.54, "metric_mobile_fit": -10.04, "metric_aspect_ratio": 1.663, "metric_area_km2": 24.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.8918043, 48.5146065 ], [ 18.8997694, 48.5242851 ], [ 18.902545, 48.53679 ], [ 18.8918043, 48.5369143 ], [ 18.8599176, 48.5371862 ], [ 18.851407, 48.5397575 ], [ 18.834337, 48.543051399999982 ], [ 18.8242245, 48.539865 ], [ 18.8484861, 48.5298285 ], [ 18.862769, 48.511989 ], [ 18.8839845, 48.511859 ], [ 18.8918043, 48.5146065 ] ] ] } }
+]
+}

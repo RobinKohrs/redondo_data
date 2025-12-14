@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "racrange",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Racrange", "metric_roundness": 69.26, "metric_rectangularity": 73.05, "metric_mobile_fit": 46.96, "metric_aspect_ratio": 1.093, "metric_area_km2": 16.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6914498, 48.9186365 ], [ 6.703164, 48.9204975 ], [ 6.7055263, 48.9237743 ], [ 6.700315, 48.9256514 ], [ 6.692185, 48.937892499999982 ], [ 6.6867, 48.935769199999989 ], [ 6.675198, 48.938314 ], [ 6.661947, 48.9352102 ], [ 6.65795, 48.9266748 ], [ 6.660902, 48.914329099999989 ], [ 6.6677425, 48.9132395 ], [ 6.6706745, 48.909711599999987 ], [ 6.680917, 48.9115715 ], [ 6.6914498, 48.9186365 ] ] ] } }
+]
+}

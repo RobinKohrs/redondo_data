@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "riethnordhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riethnordhausen", "metric_roundness": 48.74, "metric_rectangularity": 71.28, "metric_mobile_fit": 35.48, "metric_aspect_ratio": 1.208, "metric_area_km2": 31.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.9994089, 51.0713953 ], [ 11.0012256, 51.076186199999981 ], [ 11.0303895, 51.084633 ], [ 11.0367755, 51.0986335 ], [ 11.0273426, 51.1031868 ], [ 10.980872, 51.097675 ], [ 10.9692205, 51.087243 ], [ 10.9631115, 51.086365 ], [ 10.9759625, 51.064872 ], [ 10.9905935, 51.06843749999998 ], [ 10.9994089, 51.0713953 ] ] ] } }
+]
+}

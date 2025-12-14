@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balkova_lhota",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balkova Lhota", "metric_roundness": 51.27, "metric_rectangularity": 70.74, "metric_mobile_fit": 62.13, "metric_aspect_ratio": 0.941, "metric_area_km2": 8.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6058408, 49.459918 ], [ 14.583245, 49.458602499999984 ], [ 14.5830605, 49.4536775 ], [ 14.588625, 49.4471415 ], [ 14.5912102, 49.4439936 ], [ 14.607875, 49.439071 ], [ 14.6117825, 49.439306 ], [ 14.6119017, 49.4439445 ], [ 14.6080026, 49.4482826 ], [ 14.6122803, 49.450088599999987 ], [ 14.613243, 49.454575 ], [ 14.6058408, 49.459918 ] ] ] } }
+]
+}

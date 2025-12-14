@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niedermuhlern",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niedermuhlern", "metric_roundness": 47.95, "metric_rectangularity": 66.2, "metric_mobile_fit": -5.47, "metric_aspect_ratio": 1.617, "metric_area_km2": 15.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4847616, 46.8523688 ], [ 7.482703, 46.867958499999986 ], [ 7.4694462, 46.871091199999981 ], [ 7.4596312, 46.8665932 ], [ 7.4481436, 46.866614699999985 ], [ 7.4427236, 46.859423899999982 ], [ 7.4298485, 46.8547705 ], [ 7.4282885, 46.8542755 ], [ 7.4414804, 46.847941699999986 ], [ 7.4697604, 46.8472127 ], [ 7.4777583, 46.8513786 ], [ 7.480616, 46.848502499999988 ], [ 7.4847616, 46.8523688 ] ] ] } }
+]
+}

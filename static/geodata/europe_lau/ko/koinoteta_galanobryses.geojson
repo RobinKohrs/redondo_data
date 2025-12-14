@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_galanobryses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαλανόβρυσης", "metric_roundness": 39.38, "metric_rectangularity": 59.69, "metric_mobile_fit": 89.45, "metric_aspect_ratio": 0.668, "metric_area_km2": 23.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1421775, 39.829875 ], [ 22.1551435, 39.8370218 ], [ 22.1739403, 39.8403205 ], [ 22.1776981, 39.8492928 ], [ 22.173977, 39.865911499999989 ], [ 22.1673181, 39.871624 ], [ 22.1485047, 39.876315899999987 ], [ 22.1351775, 39.888572599999989 ], [ 22.1279787, 39.8871365 ], [ 22.1266206, 39.8810209 ], [ 22.1383752, 39.862736599999984 ], [ 22.1475535, 39.8403695 ], [ 22.1421775, 39.829875 ] ] ] } }
+]
+}

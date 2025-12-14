@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "amfreville_les_champs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Amfreville-les-Champs", "metric_roundness": 68.62, "metric_rectangularity": 70.76, "metric_mobile_fit": 64.86, "metric_aspect_ratio": 0.914, "metric_area_km2": 15.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.300868, 49.3181265 ], [ 1.3048788, 49.3117736 ], [ 1.3033575, 49.3016435 ], [ 1.3242665, 49.297598 ], [ 1.3303843, 49.304638199999985 ], [ 1.3420813, 49.3062113 ], [ 1.3440785, 49.310998 ], [ 1.3343141, 49.319694699999985 ], [ 1.336819, 49.323210499999988 ], [ 1.3332815, 49.324169499999975 ], [ 1.329517, 49.326834 ], [ 1.32605, 49.3284215 ], [ 1.300868, 49.3181265 ] ] ] } }
+]
+}

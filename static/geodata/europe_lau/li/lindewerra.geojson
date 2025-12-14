@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lindewerra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lindewerra", "metric_roundness": 54.11, "metric_rectangularity": 67.55, "metric_mobile_fit": 82.29, "metric_aspect_ratio": 0.74, "metric_area_km2": 10.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9477664, 51.3167991 ], [ 9.9409194, 51.306944 ], [ 9.9479489, 51.3033925 ], [ 9.9597435, 51.304912 ], [ 9.9736152, 51.3132042 ], [ 9.9727597, 51.31832559999998 ], [ 9.9684665, 51.322182 ], [ 9.9617575, 51.323717 ], [ 9.9598146, 51.328494199999987 ], [ 9.9547992, 51.331021 ], [ 9.947567, 51.326395 ], [ 9.9468725, 51.3208315 ], [ 9.9477664, 51.3167991 ] ] ] } }
+]
+}

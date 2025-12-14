@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reitnau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reitnau", "metric_roundness": 64.95, "metric_rectangularity": 78.04, "metric_mobile_fit": 40.79, "metric_aspect_ratio": 1.155, "metric_area_km2": 17.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0278599, 47.241170599999975 ], [ 8.0610351, 47.246310699999981 ], [ 8.0562895, 47.255554499999988 ], [ 8.0503915, 47.2674845 ], [ 8.0285875, 47.26894 ], [ 8.0217316, 47.263312299999981 ], [ 8.013798, 47.262011 ], [ 8.016478, 47.255993199999978 ], [ 8.015053, 47.244200499999984 ], [ 8.0278599, 47.241170599999975 ] ] ] } }
+]
+}

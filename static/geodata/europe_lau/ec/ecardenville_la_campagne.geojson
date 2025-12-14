@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ecardenville_la_campagne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Écardenville-la-Campagne", "metric_roundness": 58.57, "metric_rectangularity": 83.41, "metric_mobile_fit": 28.13, "metric_aspect_ratio": 1.281, "metric_area_km2": 17.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.85805, 49.117351 ], [ 0.8506545, 49.137849 ], [ 0.8441125, 49.136733499999984 ], [ 0.8261135, 49.1335245 ], [ 0.8131889, 49.1327363 ], [ 0.8068797, 49.129313 ], [ 0.8074831, 49.126417499999988 ], [ 0.8124514, 49.1251363 ], [ 0.8158095, 49.115402 ], [ 0.8178105, 49.115966499999978 ], [ 0.822536, 49.111712 ], [ 0.828461, 49.112740499999987 ], [ 0.831959, 49.112514499999989 ], [ 0.85705, 49.114499 ], [ 0.85805, 49.117351 ] ] ] } }
+]
+}

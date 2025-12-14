@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "narysov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Narysov", "metric_roundness": 48.83, "metric_rectangularity": 59.28, "metric_mobile_fit": 75.67, "metric_aspect_ratio": 0.806, "metric_area_km2": 8.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9686939, 49.651254699999981 ], [ 13.9577642, 49.6500176 ], [ 13.9535895, 49.6422745 ], [ 13.9673693, 49.6391147 ], [ 13.9683335, 49.632213499999978 ], [ 13.9792625, 49.63003 ], [ 13.9804104, 49.6331473 ], [ 13.9772689, 49.6383625 ], [ 13.9872914, 49.6508153 ], [ 13.9742645, 49.657113 ], [ 13.9686939, 49.651254699999981 ] ] ] } }
+]
+}

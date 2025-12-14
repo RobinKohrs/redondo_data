@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villalvernia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villalvernia", "metric_roundness": 45.6, "metric_rectangularity": 73.88, "metric_mobile_fit": 81.32, "metric_aspect_ratio": 0.749, "metric_area_km2": 9.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.842481, 44.822396 ], [ 8.8442975, 44.8178705 ], [ 8.85196, 44.8008845 ], [ 8.853333, 44.797119 ], [ 8.8682625, 44.79618 ], [ 8.8701685, 44.8089105 ], [ 8.8673885, 44.820668499999989 ], [ 8.842481, 44.822396 ] ] ] } }
+]
+}

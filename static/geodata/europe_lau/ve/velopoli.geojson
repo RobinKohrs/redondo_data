@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velopoli",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vělopolí", "metric_roundness": 51.71, "metric_rectangularity": 71.57, "metric_mobile_fit": -11.14, "metric_aspect_ratio": 1.674, "metric_area_km2": 6.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.5864315, 49.7025695 ], [ 18.5703852, 49.7102624 ], [ 18.5609377, 49.710214799999989 ], [ 18.552943, 49.705292 ], [ 18.5527145, 49.69900449999998 ], [ 18.5529405, 49.697513 ], [ 18.5612405, 49.69738 ], [ 18.569579, 49.696621 ], [ 18.5727345, 49.6969225 ], [ 18.575088, 49.6973795 ], [ 18.5786165, 49.698065 ], [ 18.5880215, 49.7000985 ], [ 18.5864315, 49.7025695 ] ] ] } }
+]
+}

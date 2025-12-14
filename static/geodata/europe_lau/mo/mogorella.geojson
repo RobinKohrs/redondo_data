@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mogorella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mogorella", "metric_roundness": 46.19, "metric_rectangularity": 71.25, "metric_mobile_fit": 93.87, "metric_aspect_ratio": 0.624, "metric_area_km2": 29.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8822263, 39.861103 ], [ 8.8788866, 39.86812339999998 ], [ 8.8797415, 39.8796155 ], [ 8.8515657, 39.8993375 ], [ 8.8466605, 39.9001095 ], [ 8.8422218, 39.896263599999983 ], [ 8.83457, 39.8587025 ], [ 8.8475096, 39.8543409 ], [ 8.8547433, 39.846391 ], [ 8.8727355, 39.841857 ], [ 8.873135, 39.841479 ], [ 8.8822263, 39.861103 ] ] ] } }
+]
+}

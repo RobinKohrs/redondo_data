@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_pierre_lafeuille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Pierre-Lafeuille", "metric_roundness": 54.39, "metric_rectangularity": 72.45, "metric_mobile_fit": 50.58, "metric_aspect_ratio": 1.057, "metric_area_km2": 17.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4342449, 44.5204873 ], [ 1.4371655, 44.508674 ], [ 1.443932, 44.505941 ], [ 1.445414, 44.5036595 ], [ 1.4498195, 44.502805 ], [ 1.451481, 44.5016325 ], [ 1.4709868, 44.5061722 ], [ 1.479951, 44.5113135 ], [ 1.4784961, 44.5166724 ], [ 1.4645892, 44.526282899999984 ], [ 1.47202, 44.5370685 ], [ 1.4606321, 44.5337167 ], [ 1.4522901, 44.526333 ], [ 1.4413482, 44.5293043 ], [ 1.427435, 44.5274535 ], [ 1.4342449, 44.5204873 ] ] ] } }
+]
+}

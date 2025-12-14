@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pousa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pousa", "metric_roundness": 62.98, "metric_rectangularity": 78.54, "metric_mobile_fit": 57.62, "metric_aspect_ratio": 0.986, "metric_area_km2": 11.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5135783, 41.5408091 ], [ -8.495969, 41.551588 ], [ -8.509831, 41.5654645 ], [ -8.5166785, 41.5677216 ], [ -8.5252805, 41.5627315 ], [ -8.5291975, 41.559927 ], [ -8.5333845, 41.550874 ], [ -8.531212, 41.5393335 ], [ -8.5135783, 41.5408091 ] ] ] } }
+]
+}

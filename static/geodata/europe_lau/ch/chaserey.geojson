@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chaserey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chaserey", "metric_roundness": 48.47, "metric_rectangularity": 67.93, "metric_mobile_fit": 3.19, "metric_aspect_ratio": 1.531, "metric_area_km2": 14.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1017443, 47.946364 ], [ 4.0963645, 47.954307 ], [ 4.08975, 47.956541 ], [ 4.0854708, 47.962631199999983 ], [ 4.0729805, 47.965462 ], [ 4.064084, 47.964233 ], [ 4.0599554, 47.9601532 ], [ 4.0511263, 47.9577816 ], [ 4.046464, 47.9522835 ], [ 4.0609325, 47.945704 ], [ 4.0750384, 47.9431369 ], [ 4.0879008, 47.9448796 ], [ 4.092717, 47.9412735 ], [ 4.1017443, 47.946364 ] ] ] } }
+]
+}

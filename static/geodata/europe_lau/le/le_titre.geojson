@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_titre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Titre", "metric_roundness": 69.92, "metric_rectangularity": 74.59, "metric_mobile_fit": 70.64, "metric_aspect_ratio": 0.856, "metric_area_km2": 10.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8127411, 50.183736799999984 ], [ 1.81681, 50.197606499999985 ], [ 1.8018155, 50.19992329999998 ], [ 1.7924276, 50.1983041 ], [ 1.788702, 50.194064 ], [ 1.7846466, 50.1830316 ], [ 1.800179, 50.175868 ], [ 1.8016955, 50.177804 ], [ 1.805045, 50.1782225 ], [ 1.807037, 50.176301 ], [ 1.8161685, 50.17985 ], [ 1.8127411, 50.183736799999984 ] ] ] } }
+]
+}

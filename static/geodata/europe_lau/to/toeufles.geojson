@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "toeufles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tœufles", "metric_roundness": 50.66, "metric_rectangularity": 66.99, "metric_mobile_fit": 83.86, "metric_aspect_ratio": 0.724, "metric_area_km2": 21.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7197561, 50.050929499999981 ], [ 1.7350835, 50.0509725 ], [ 1.733381, 50.053396 ], [ 1.737958, 50.055438499999987 ], [ 1.73448, 50.0606375 ], [ 1.73381, 50.0642335 ], [ 1.715342, 50.078260199999988 ], [ 1.699208, 50.082209 ], [ 1.6917096, 50.0703482 ], [ 1.691068, 50.058656 ], [ 1.7009387, 50.054029 ], [ 1.704639, 50.040626 ], [ 1.7197561, 50.050929499999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "loches_sur_ource",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Loches-sur-Ource", "metric_roundness": 33.76, "metric_rectangularity": 71.21, "metric_mobile_fit": 97.26, "metric_aspect_ratio": 0.59, "metric_area_km2": 30.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5013622, 48.050848 ], [ 4.5215508, 48.0626632 ], [ 4.527892, 48.081465 ], [ 4.5249702, 48.0872182 ], [ 4.5284224, 48.097678199999976 ], [ 4.52397, 48.100159 ], [ 4.513873, 48.097324799999988 ], [ 4.494006, 48.0835195 ], [ 4.475802, 48.0467145 ], [ 4.482735, 48.0423595 ], [ 4.4923885, 48.040563499999983 ], [ 4.4927225, 48.040557499999984 ], [ 4.5013622, 48.050848 ] ] ] } }
+]
+}

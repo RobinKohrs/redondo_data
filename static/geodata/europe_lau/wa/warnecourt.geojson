@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "warnecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Warnécourt", "metric_roundness": 53.54, "metric_rectangularity": 75.56, "metric_mobile_fit": 84.49, "metric_aspect_ratio": 0.718, "metric_area_km2": 12.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6545845, 49.74446949999998 ], [ 4.652977, 49.742658 ], [ 4.6464475, 49.74113 ], [ 4.6436605, 49.733762 ], [ 4.638197, 49.7281975 ], [ 4.6393895, 49.725435 ], [ 4.643117, 49.720548 ], [ 4.653144, 49.718596 ], [ 4.6632683, 49.718992 ], [ 4.672685, 49.741319 ], [ 4.6627525, 49.749658 ], [ 4.6609745, 49.748973 ], [ 4.6545845, 49.74446949999998 ] ] ] } }
+]
+}

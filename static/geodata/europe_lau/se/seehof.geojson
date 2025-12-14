@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seehof",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Seehof", "metric_roundness": 53.7, "metric_rectangularity": 76.13, "metric_mobile_fit": 93.45, "metric_aspect_ratio": 0.628, "metric_area_km2": 12.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.4405197, 53.6982718 ], [ 11.4360131, 53.705619399999989 ], [ 11.426686, 53.7123918 ], [ 11.412887, 53.706318 ], [ 11.4142644, 53.6963061 ], [ 11.4117295, 53.686813499999985 ], [ 11.4361785, 53.6852515 ], [ 11.4405197, 53.6982718 ] ] ] } }
+]
+}

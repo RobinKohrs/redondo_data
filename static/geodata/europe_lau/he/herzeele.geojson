@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "herzeele",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Herzeele", "metric_roundness": 51.02, "metric_rectangularity": 67.66, "metric_mobile_fit": 69.88, "metric_aspect_ratio": 0.864, "metric_area_km2": 42.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5084898, 50.897913699999989 ], [ 2.5061306, 50.8897619 ], [ 2.493371, 50.8787203 ], [ 2.4974228, 50.8722483 ], [ 2.519562, 50.86368 ], [ 2.530992, 50.8481145 ], [ 2.5404874, 50.8558375 ], [ 2.541451, 50.8650136 ], [ 2.5502025, 50.871944 ], [ 2.5704055, 50.8975725 ], [ 2.5469504, 50.897873399999987 ], [ 2.521341, 50.9043955 ], [ 2.5084898, 50.897913699999989 ] ] ] } }
+]
+}

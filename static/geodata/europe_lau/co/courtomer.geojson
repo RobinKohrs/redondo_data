@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courtomer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courtomer", "metric_roundness": 48.48, "metric_rectangularity": 69.13, "metric_mobile_fit": 85.89, "metric_aspect_ratio": 0.704, "metric_area_km2": 10.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8929808, 48.6731085 ], [ 2.8911959, 48.6652944 ], [ 2.8857419, 48.6633103 ], [ 2.8822025, 48.657943 ], [ 2.8823171, 48.650490699999985 ], [ 2.8883, 48.6444315 ], [ 2.8938635, 48.644620499999981 ], [ 2.8996455, 48.6462115 ], [ 2.902718, 48.64804 ], [ 2.914244, 48.652434 ], [ 2.9017688, 48.667053799999984 ], [ 2.8989475, 48.674513 ], [ 2.8929808, 48.6731085 ] ] ] } }
+]
+}

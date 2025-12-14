@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bakonykoppany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bakonykoppány", "metric_roundness": 41.15, "metric_rectangularity": 55.56, "metric_mobile_fit": 39.71, "metric_aspect_ratio": 1.165, "metric_area_km2": 15.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6663113, 47.3352191 ], [ 17.6653119, 47.3300742 ], [ 17.67013, 47.3228953 ], [ 17.6822409, 47.3145274 ], [ 17.6889785, 47.315015499999973 ], [ 17.7049394, 47.3227921 ], [ 17.7084599, 47.3341353 ], [ 17.67013, 47.339429199999984 ], [ 17.6556595, 47.3476715 ], [ 17.6514675, 47.342827499999984 ], [ 17.6663113, 47.3352191 ] ] ] } }
+]
+}

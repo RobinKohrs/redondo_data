@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lignairolles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lignairolles", "metric_roundness": 41.84, "metric_rectangularity": 65.57, "metric_mobile_fit": 47.85, "metric_aspect_ratio": 1.084, "metric_area_km2": 14.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.990703, 43.0822137 ], [ 1.9952956, 43.0851508 ], [ 1.9970881, 43.091667699999988 ], [ 2.0010552, 43.09224589999998 ], [ 2.0095678, 43.0817991 ], [ 2.02285, 43.078718 ], [ 2.0229988, 43.0868999 ], [ 2.0265134, 43.091184 ], [ 2.0231918, 43.0966623 ], [ 2.0098283, 43.100631499999984 ], [ 1.9990385, 43.1084324 ], [ 1.9825215, 43.110086 ], [ 1.9840347, 43.1001711 ], [ 1.979949, 43.088179499999981 ], [ 1.990703, 43.0822137 ] ] ] } }
+]
+}

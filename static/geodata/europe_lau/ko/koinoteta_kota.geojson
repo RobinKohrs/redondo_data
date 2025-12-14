@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kota",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κώτα", "metric_roundness": 65.54, "metric_rectangularity": 77.51, "metric_mobile_fit": 18.43, "metric_aspect_ratio": 1.378, "metric_area_km2": 27.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.2199795, 40.702784 ], [ 21.2065646, 40.7080473 ], [ 21.1857316, 40.708613699999987 ], [ 21.169431, 40.712292 ], [ 21.1562519, 40.7008004 ], [ 21.1590875, 40.68549 ], [ 21.1725403, 40.6772344 ], [ 21.1981706, 40.678962499999983 ], [ 21.215698, 40.685984499999989 ], [ 21.2199795, 40.702784 ] ] ] } }
+]
+}

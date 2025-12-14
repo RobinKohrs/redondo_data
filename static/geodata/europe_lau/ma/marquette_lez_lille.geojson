@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marquette_lez_lille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marquette-lez-Lille", "metric_roundness": 30.04, "metric_rectangularity": 55.01, "metric_mobile_fit": 0.7, "metric_aspect_ratio": 1.556, "metric_area_km2": 11.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0416117, 50.6726103 ], [ 3.0234145, 50.671592 ], [ 3.0417015, 50.662530699999984 ], [ 3.0544317, 50.6693345 ], [ 3.0603743, 50.6686793 ], [ 3.0616695, 50.6640285 ], [ 3.0689835, 50.666484 ], [ 3.0844365, 50.682431 ], [ 3.073907, 50.687391 ], [ 3.0416117, 50.6726103 ] ] ] } }
+]
+}

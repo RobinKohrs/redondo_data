@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chexbres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chexbres", "metric_roundness": 60.8, "metric_rectangularity": 70.09, "metric_mobile_fit": 68.2, "metric_aspect_ratio": 0.881, "metric_area_km2": 4.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7760712, 46.4925462 ], [ 6.7689762, 46.488829599999981 ], [ 6.7673378, 46.484163 ], [ 6.775894, 46.4792655 ], [ 6.7775758, 46.4797845 ], [ 6.7795044, 46.4792166 ], [ 6.7857785, 46.4748965 ], [ 6.7899078, 46.4773612 ], [ 6.788023, 46.489663 ], [ 6.7760712, 46.4925462 ] ] ] } }
+]
+}

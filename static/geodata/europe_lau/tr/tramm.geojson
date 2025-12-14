@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tramm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tramm", "metric_roundness": 60.38, "metric_rectangularity": 72.76, "metric_mobile_fit": 64.08, "metric_aspect_ratio": 0.922, "metric_area_km2": 19.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.6281305, 53.569903499999988 ], [ 10.5999673, 53.5763815 ], [ 10.5876395, 53.5751055 ], [ 10.5863545, 53.558815499999973 ], [ 10.5922165, 53.554740499999973 ], [ 10.6111728, 53.552555399999989 ], [ 10.6180792, 53.546932699999985 ], [ 10.6320515, 53.553617 ], [ 10.6320195, 53.558065 ], [ 10.6281305, 53.569903499999988 ] ] ] } }
+]
+}

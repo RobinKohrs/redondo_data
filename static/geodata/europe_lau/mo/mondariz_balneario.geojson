@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mondariz_balneario",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mondariz-Balneario", "metric_roundness": 49.4, "metric_rectangularity": 58.29, "metric_mobile_fit": 39.13, "metric_aspect_ratio": 1.171, "metric_area_km2": 4.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4590021, 42.2231048 ], [ -8.4606692, 42.227224 ], [ -8.4852235, 42.227154 ], [ -8.483994, 42.2244035 ], [ -8.478842, 42.219032 ], [ -8.474742, 42.215473 ], [ -8.472952, 42.215389 ], [ -8.4722975, 42.2136995 ], [ -8.468995, 42.210644 ], [ -8.4590021, 42.2231048 ] ] ] } }
+]
+}

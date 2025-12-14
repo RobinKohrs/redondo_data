@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villadin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villadin", "metric_roundness": 49.15, "metric_rectangularity": 61.51, "metric_mobile_fit": 60.37, "metric_aspect_ratio": 0.959, "metric_area_km2": 28.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6853555, 48.335971 ], [ 3.679038, 48.334155 ], [ 3.668874, 48.322469399999989 ], [ 3.6612365, 48.29363 ], [ 3.6756095, 48.297479899999985 ], [ 3.6959541, 48.308079399999983 ], [ 3.7137258, 48.304024599999984 ], [ 3.724069, 48.306184 ], [ 3.7251514, 48.309562299999989 ], [ 3.7107433, 48.3130355 ], [ 3.7202889, 48.3234729 ], [ 3.6959395, 48.337962499999989 ], [ 3.6853555, 48.335971 ] ] ] } }
+]
+}

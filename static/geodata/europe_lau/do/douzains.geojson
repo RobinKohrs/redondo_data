@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "douzains",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Douzains", "metric_roundness": 44.32, "metric_rectangularity": 72.81, "metric_mobile_fit": -24.86, "metric_aspect_ratio": 1.811, "metric_area_km2": 24.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5419629, 44.6423631 ], [ 0.5288671, 44.642348799999986 ], [ 0.5216248, 44.649733199999986 ], [ 0.511862, 44.6466115 ], [ 0.515517, 44.6384315 ], [ 0.5227823, 44.6345828 ], [ 0.5328418, 44.6228237 ], [ 0.5553143, 44.6243213 ], [ 0.5632335, 44.622073 ], [ 0.5807567, 44.6253241 ], [ 0.5799845, 44.635017499999982 ], [ 0.5822635, 44.649546 ], [ 0.551675, 44.649666499999981 ], [ 0.5419629, 44.6423631 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pseles_bryses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ψηλής Βρύσης", "metric_roundness": 52.66, "metric_rectangularity": 70.76, "metric_mobile_fit": 85.78, "metric_aspect_ratio": 0.705, "metric_area_km2": 12.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.4484515, 37.4261391 ], [ 22.4451444, 37.4176608 ], [ 22.44121, 37.4151995 ], [ 22.4577069, 37.396185099999983 ], [ 22.468028, 37.396074 ], [ 22.4760885, 37.4215555 ], [ 22.460161, 37.435384499999984 ], [ 22.4484515, 37.4261391 ] ] ] } }
+]
+}

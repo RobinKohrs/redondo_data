@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "edde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Edde", "metric_roundness": 60.49, "metric_rectangularity": 82.42, "metric_mobile_fit": 83.96, "metric_aspect_ratio": 0.723, "metric_area_km2": 17.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.702188, 46.511129 ], [ 17.7111553, 46.513265599999983 ], [ 17.736784, 46.5069845 ], [ 17.7386025, 46.532869 ], [ 17.730454, 46.541641 ], [ 17.7251457, 46.5395663 ], [ 17.7197332, 46.541513 ], [ 17.703936, 46.5361895 ], [ 17.702188, 46.511129 ] ] ] } }
+]
+}

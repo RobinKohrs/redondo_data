@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monleale",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monleale", "metric_roundness": 48.07, "metric_rectangularity": 59.12, "metric_mobile_fit": 81.17, "metric_aspect_ratio": 0.751, "metric_area_km2": 19.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9660149, 44.8859454 ], [ 8.960811, 44.8843595 ], [ 8.9636203, 44.8747987 ], [ 8.9615685, 44.8665148 ], [ 8.9533205, 44.864288 ], [ 8.9516893, 44.8592924 ], [ 8.9572725, 44.850428 ], [ 8.9678786, 44.8543356 ], [ 8.9758495, 44.853519 ], [ 8.982624, 44.8606416 ], [ 8.998807, 44.8655805 ], [ 8.9968002, 44.8744131 ], [ 8.9892819, 44.883314799999987 ], [ 8.97065, 44.894904 ], [ 8.9660149, 44.8859454 ] ] ] } }
+]
+}

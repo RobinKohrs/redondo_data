@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pegarinhos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pegarinhos", "metric_roundness": 56.14, "metric_rectangularity": 72.97, "metric_mobile_fit": 75.6, "metric_aspect_ratio": 0.806, "metric_area_km2": 33.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.4329855, 41.332753499999988 ], [ -7.4219341, 41.3573721 ], [ -7.410389, 41.362703 ], [ -7.4115105, 41.3717815 ], [ -7.4352247, 41.3721971 ], [ -7.4457675, 41.386607 ], [ -7.4498585, 41.3895515 ], [ -7.451865, 41.388399 ], [ -7.4577026, 41.3817784 ], [ -7.4587772, 41.3709083 ], [ -7.469013, 41.3548425 ], [ -7.4733306, 41.3479495 ], [ -7.4707921, 41.3392419 ], [ -7.452638, 41.3309745 ], [ -7.4329855, 41.332753499999988 ] ] ] } }
+]
+}

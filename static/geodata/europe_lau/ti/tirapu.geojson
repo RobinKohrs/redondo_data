@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tirapu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tirapu", "metric_roundness": 29.09, "metric_rectangularity": 65.55, "metric_mobile_fit": 90.04, "metric_aspect_ratio": 0.463, "metric_area_km2": 9.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.680662, 42.629158 ], [ -1.685633, 42.6447135 ], [ -1.6848498, 42.6562517 ], [ -1.6997325, 42.666153 ], [ -1.7072925, 42.6640435 ], [ -1.706931, 42.6559776 ], [ -1.6975793, 42.6378315 ], [ -1.6859335, 42.623833 ], [ -1.680662, 42.629158 ] ] ] } }
+]
+}

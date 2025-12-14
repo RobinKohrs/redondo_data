@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_theras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Θήρας", "metric_roundness": 42.14, "metric_rectangularity": 53.66, "metric_mobile_fit": 58.92, "metric_aspect_ratio": 0.973, "metric_area_km2": 10.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4379792, 36.41335 ], [ 25.4648285, 36.424274 ], [ 25.4570825, 36.4341545 ], [ 25.4437479, 36.42896 ], [ 25.429075, 36.4289375 ], [ 25.423483, 36.427200499999984 ], [ 25.4286459, 36.4116332 ], [ 25.4267618, 36.403098099999987 ], [ 25.4311045, 36.399971 ], [ 25.4405801, 36.4045078 ], [ 25.446865, 36.404120500000012 ], [ 25.4379792, 36.41335 ] ] ] } }
+]
+}

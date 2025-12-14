@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nestrasovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nestrašovice", "metric_roundness": 44.69, "metric_rectangularity": 61.13, "metric_mobile_fit": 14.86, "metric_aspect_ratio": 1.414, "metric_area_km2": 7.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.038521, 49.5597335 ], [ 14.030112, 49.5670825 ], [ 14.0237826, 49.5675017 ], [ 14.0176946, 49.5636088 ], [ 14.0112445, 49.566036 ], [ 14.008196, 49.563391 ], [ 14.0123457, 49.559156299999984 ], [ 14.011616, 49.55653759999997 ], [ 13.9980745, 49.553608 ], [ 14.010204, 49.551236 ], [ 14.0242905, 49.548945499999981 ], [ 14.038521, 49.5597335 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zitovlice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Žitovlice", "metric_roundness": 54.9, "metric_rectangularity": 70.72, "metric_mobile_fit": 77.47, "metric_aspect_ratio": 0.788, "metric_area_km2": 16.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.1580451, 50.2965047 ], [ 15.1517939, 50.302094199999985 ], [ 15.1532232, 50.305889499999978 ], [ 15.146619, 50.306596 ], [ 15.1451255, 50.312180499999982 ], [ 15.133864, 50.3062161 ], [ 15.1150145, 50.296233 ], [ 15.1220708, 50.2887926 ], [ 15.1198415, 50.282139199999989 ], [ 15.133864, 50.277287699999988 ], [ 15.142651, 50.279077 ], [ 15.1580451, 50.2965047 ] ] ] } }
+]
+}

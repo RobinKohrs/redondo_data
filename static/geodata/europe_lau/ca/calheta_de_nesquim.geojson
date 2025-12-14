@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "calheta_de_nesquim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Calheta de Nesquim", "metric_roundness": 36.02, "metric_rectangularity": 58.9, "metric_mobile_fit": 35.86, "metric_aspect_ratio": 1.204, "metric_area_km2": 23.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -28.1280015, 38.44203 ], [ -28.122794, 38.4060785 ], [ -28.0923882, 38.399971799999989 ], [ -28.0619035, 38.405280499999989 ], [ -28.0767555, 38.4123181 ], [ -28.0818425, 38.4220895 ], [ -28.124746, 38.442985 ], [ -28.1280015, 38.44203 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kamenny_privoz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kamenný Přívoz", "metric_roundness": 49.99, "metric_rectangularity": 78.94, "metric_mobile_fit": -7.82, "metric_aspect_ratio": 1.641, "metric_area_km2": 15.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5061903, 49.870501399999981 ], [ 14.4971832, 49.8722976 ], [ 14.4851605, 49.870230299999982 ], [ 14.4751955, 49.866188 ], [ 14.4795372, 49.8537911 ], [ 14.491372, 49.8515885 ], [ 14.501937, 49.8528361 ], [ 14.5078551, 49.8579139 ], [ 14.5157863, 49.8558486 ], [ 14.530611, 49.858228 ], [ 14.5305155, 49.8624598 ], [ 14.5258525, 49.8670585 ], [ 14.5106705, 49.873361499999987 ], [ 14.5061903, 49.870501399999981 ] ] ] } }
+]
+}

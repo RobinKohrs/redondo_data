@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "peseux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Péseux", "metric_roundness": 57.08, "metric_rectangularity": 68.48, "metric_mobile_fit": 61.35, "metric_aspect_ratio": 0.949, "metric_area_km2": 14.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.708571, 47.3171139 ], [ 6.705081, 47.330021499999987 ], [ 6.6769535, 47.332028 ], [ 6.674037, 47.32957 ], [ 6.6711856, 47.3262937 ], [ 6.6707946, 47.3104502 ], [ 6.666894, 47.307431799999989 ], [ 6.6732765, 47.302256 ], [ 6.6892503, 47.3068692 ], [ 6.699855, 47.313912 ], [ 6.708571, 47.3171139 ] ] ] } }
+]
+}

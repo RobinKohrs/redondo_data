@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "holoubkov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Holoubkov", "metric_roundness": 49.63, "metric_rectangularity": 73.51, "metric_mobile_fit": 55.76, "metric_aspect_ratio": 1.005, "metric_area_km2": 9.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.6726615, 49.779084499999989 ], [ 13.686042, 49.765445 ], [ 13.692101, 49.76792 ], [ 13.6977029, 49.772160499999984 ], [ 13.7036767, 49.772021299999984 ], [ 13.711437, 49.781364499999988 ], [ 13.707324, 49.790831 ], [ 13.6898324, 49.7839465 ], [ 13.6719315, 49.7808745 ], [ 13.6726615, 49.779084499999989 ] ] ] } }
+]
+}

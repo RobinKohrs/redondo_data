@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hontanas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hontanas", "metric_roundness": 55.4, "metric_rectangularity": 63.52, "metric_mobile_fit": 28.41, "metric_aspect_ratio": 1.278, "metric_area_km2": 18.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.069976, 42.32296 ], [ -4.069231, 42.314827 ], [ -4.072677, 42.309669499999984 ], [ -4.072382, 42.3038175 ], [ -4.059338, 42.2936635 ], [ -4.0565055, 42.291832 ], [ -4.0471514, 42.294184199999989 ], [ -4.038242, 42.3015229 ], [ -4.0193124, 42.3032437 ], [ -4.015928, 42.315056 ], [ -4.0258344, 42.3141226 ], [ -4.054198, 42.324276 ], [ -4.0601485, 42.3213418 ], [ -4.069277, 42.3246615 ], [ -4.069976, 42.32296 ] ] ] } }
+]
+}

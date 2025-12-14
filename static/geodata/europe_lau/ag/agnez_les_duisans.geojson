@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "agnez_les_duisans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Agnez-lès-Duisans", "metric_roundness": 41.5, "metric_rectangularity": 61.85, "metric_mobile_fit": 68.54, "metric_aspect_ratio": 0.877, "metric_area_km2": 18.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.662846, 50.2900515 ], [ 2.6665585, 50.290221 ], [ 2.6712704, 50.296807899999983 ], [ 2.6665035, 50.3024925 ], [ 2.6696036, 50.3053453 ], [ 2.6653489, 50.3110691 ], [ 2.6683475, 50.3153435 ], [ 2.667946, 50.3181805 ], [ 2.660381, 50.320856 ], [ 2.6435589, 50.325178099999988 ], [ 2.6204425, 50.322346 ], [ 2.6268505, 50.312801 ], [ 2.6395195, 50.308185 ], [ 2.6484973, 50.2978866 ], [ 2.6623425, 50.288168 ], [ 2.662846, 50.2900515 ] ] ] } }
+]
+}

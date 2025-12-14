@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roth", "metric_roundness": 35.2, "metric_rectangularity": 62.85, "metric_mobile_fit": 91.48, "metric_aspect_ratio": 0.648, "metric_area_km2": 9.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4711283, 50.0826614 ], [ 7.4686425, 50.0893095 ], [ 7.4527045, 50.0955946 ], [ 7.4466515, 50.093842 ], [ 7.4461325, 50.084958 ], [ 7.4519627, 50.078403099999989 ], [ 7.4579759, 50.077885699999982 ], [ 7.4738135, 50.065317 ], [ 7.476692, 50.0704938 ], [ 7.4758575, 50.0808325 ], [ 7.4711283, 50.0826614 ] ] ] } }
+]
+}

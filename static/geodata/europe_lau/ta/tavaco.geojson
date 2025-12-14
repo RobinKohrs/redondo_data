@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tavaco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tavaco", "metric_roundness": 52.82, "metric_rectangularity": 65.74, "metric_mobile_fit": 86.45, "metric_aspect_ratio": 0.698, "metric_area_km2": 19.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8698286, 42.0400402 ], [ 8.8654337, 42.031138299999988 ], [ 8.869496, 42.0213177 ], [ 8.866879, 42.015022 ], [ 8.880184, 42.0143917 ], [ 8.8853238, 42.01073 ], [ 8.892963, 42.01665 ], [ 8.906111, 42.0260955 ], [ 8.9077467, 42.0378082 ], [ 8.8982751, 42.039690399999984 ], [ 8.8769405, 42.055757 ], [ 8.8758725, 42.0530225 ], [ 8.8693975, 42.048922 ], [ 8.8698286, 42.0400402 ] ] ] } }
+]
+}

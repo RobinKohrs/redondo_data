@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mihailesti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mihăileşti", "metric_roundness": 42.31, "metric_rectangularity": 62.24, "metric_mobile_fit": 2.8, "metric_aspect_ratio": 1.535, "metric_area_km2": 56.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.6657255, 44.9006074 ], [ 26.702817, 44.9056765 ], [ 26.7389681, 44.9130482 ], [ 26.738432, 44.927982 ], [ 26.6943415, 44.9276143 ], [ 26.6960915, 44.9390946 ], [ 26.6771509, 44.9396455 ], [ 26.6774349, 44.9472265 ], [ 26.6528604, 44.9473726 ], [ 26.646969, 44.950624499999989 ], [ 26.6305632, 44.945379899999985 ], [ 26.6399624, 44.9136797 ], [ 26.643001, 44.910561499999986 ], [ 26.6657255, 44.9006074 ] ] ] } }
+]
+}

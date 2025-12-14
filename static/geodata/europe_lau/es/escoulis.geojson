@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "escoulis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Escoulis", "metric_roundness": 50.36, "metric_rectangularity": 63.26, "metric_mobile_fit": 15.14, "metric_aspect_ratio": 1.411, "metric_area_km2": 8.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.009506, 43.113479 ], [ 1.0269876, 43.10102879999998 ], [ 1.038234, 43.100308 ], [ 1.0405045, 43.103444 ], [ 1.0413455, 43.1069685 ], [ 1.044183, 43.1094735 ], [ 1.0462135, 43.1151675 ], [ 1.050844, 43.119815 ], [ 1.039716, 43.1216945 ], [ 1.0183795, 43.118037 ], [ 1.009506, 43.113479 ] ] ] } }
+]
+}

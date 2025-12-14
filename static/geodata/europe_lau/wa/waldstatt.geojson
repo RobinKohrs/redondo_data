@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "waldstatt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Waldstatt", "metric_roundness": 49.02, "metric_rectangularity": 69.9, "metric_mobile_fit": 49.12, "metric_aspect_ratio": 1.071, "metric_area_km2": 14.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2960455, 47.3721666 ], [ 9.262032, 47.359607 ], [ 9.2662158, 47.3548723 ], [ 9.269267, 47.3428215 ], [ 9.2805747, 47.3428969 ], [ 9.295733, 47.3479405 ], [ 9.2980167, 47.3591768 ], [ 9.3048737, 47.362437 ], [ 9.3084395, 47.368653 ], [ 9.2960455, 47.3721666 ] ] ] } }
+]
+}

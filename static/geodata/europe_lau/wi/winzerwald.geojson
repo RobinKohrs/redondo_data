@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "winzerwald",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Winzerwald", "metric_roundness": 38.39, "metric_rectangularity": 61.32, "metric_mobile_fit": 40.36, "metric_aspect_ratio": 1.159, "metric_area_km2": 2.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.4394033, 48.211869099999987 ], [ 10.4327021, 48.220842499999982 ], [ 10.4197085, 48.220037 ], [ 10.4186855, 48.2186375 ], [ 10.4270064, 48.2149319 ], [ 10.4325789, 48.2087271 ], [ 10.4397575, 48.210043 ], [ 10.4394033, 48.211869099999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "duesaigues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Duesaigües", "metric_roundness": 58.8, "metric_rectangularity": 71.31, "metric_mobile_fit": 72.58, "metric_aspect_ratio": 0.837, "metric_area_km2": 24.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9191772, 41.1460047 ], [ 0.925329, 41.139324 ], [ 0.9297176, 41.1358765 ], [ 0.9432196, 41.1417632 ], [ 0.953319, 41.159206499999982 ], [ 0.938633, 41.1659497 ], [ 0.9310646, 41.1779201 ], [ 0.921844, 41.1844955 ], [ 0.911684, 41.1789774 ], [ 0.906587, 41.179466 ], [ 0.9017003, 41.174377899999989 ], [ 0.9055878, 41.1652282 ], [ 0.899288, 41.153943 ], [ 0.9191772, 41.1460047 ] ] ] } }
+]
+}

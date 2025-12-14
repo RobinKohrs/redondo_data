@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_adoufe_e_vilarinho_de_samarda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Adoufe e Vilarinho de Samardã", "metric_roundness": 38.23, "metric_rectangularity": 72.33, "metric_mobile_fit": 98.2, "metric_aspect_ratio": 0.581, "metric_area_km2": 67.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7148009, 41.3253127 ], [ -7.712714, 41.347111 ], [ -7.7135391, 41.3571526 ], [ -7.7070976, 41.3722417 ], [ -7.6866969, 41.3931304 ], [ -7.683975, 41.408096499999985 ], [ -7.734401, 41.421525 ], [ -7.739477, 41.413747 ], [ -7.7468942, 41.383740599999989 ], [ -7.7620307, 41.3641322 ], [ -7.7544521, 41.3612217 ], [ -7.7525289, 41.3514839 ], [ -7.7426234, 41.3319335 ], [ -7.736249, 41.3309334 ], [ -7.7229275, 41.320622499999985 ], [ -7.7148009, 41.3253127 ] ] ] } }
+]
+}

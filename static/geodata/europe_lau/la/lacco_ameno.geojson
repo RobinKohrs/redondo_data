@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lacco_ameno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lacco Ameno", "metric_roundness": 38.7, "metric_rectangularity": 55.1, "metric_mobile_fit": 85.54, "metric_aspect_ratio": 0.707, "metric_area_km2": 3.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.8856917, 40.738329 ], [ 13.892033, 40.737002 ], [ 13.8915399, 40.7419101 ], [ 13.8976005, 40.751164 ], [ 13.8873746, 40.7539251 ], [ 13.8824511, 40.758980199999989 ], [ 13.877088, 40.756823 ], [ 13.8856917, 40.738329 ] ] ] } }
+]
+}

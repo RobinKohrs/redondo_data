@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tokodaltaro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tokodaltáró", "metric_roundness": 46.91, "metric_rectangularity": 61.05, "metric_mobile_fit": 87.69, "metric_aspect_ratio": 0.686, "metric_area_km2": 11.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.679775, 47.74279 ], [ 18.6835095, 47.737301799999983 ], [ 18.672955, 47.7298355 ], [ 18.6819789, 47.7261196 ], [ 18.679657, 47.709847 ], [ 18.6874378, 47.708924699999983 ], [ 18.700015, 47.713714 ], [ 18.7012798, 47.7206043 ], [ 18.707472, 47.728567 ], [ 18.7035634, 47.7306032 ], [ 18.705027, 47.7370332 ], [ 18.6907912, 47.737104199999983 ], [ 18.682352, 47.742756 ], [ 18.679775, 47.74279 ] ] ] } }
+]
+}

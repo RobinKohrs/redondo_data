@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lint",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lint", "metric_roundness": 42.41, "metric_rectangularity": 54.03, "metric_mobile_fit": 24.97, "metric_aspect_ratio": 1.313, "metric_area_km2": 14.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5273165, 51.129627 ], [ 4.5191377, 51.1341867 ], [ 4.510015, 51.134903 ], [ 4.4977704, 51.130821099999984 ], [ 4.4866797, 51.1397349 ], [ 4.472369, 51.1418455 ], [ 4.4852125, 51.1191635 ], [ 4.4867335, 51.1155775 ], [ 4.506928, 51.116958499999988 ], [ 4.5273165, 51.129627 ] ] ] } }
+]
+}

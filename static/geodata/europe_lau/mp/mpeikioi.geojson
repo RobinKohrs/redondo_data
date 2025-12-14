@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mpeikioi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Μπέϊκιοϊ", "metric_roundness": 27.37, "metric_rectangularity": 54.4, "metric_mobile_fit": 96.9, "metric_aspect_ratio": 0.532, "metric_area_km2": 3.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.5017084, 35.2354963 ], [ 33.5039325, 35.233 ], [ 33.5049968, 35.2371389 ], [ 33.5149464, 35.245058899999989 ], [ 33.5113765, 35.259727 ], [ 33.5067, 35.258325899999988 ], [ 33.5045346, 35.2447124 ], [ 33.4996248, 35.243022 ], [ 33.4975515, 35.234404499999989 ], [ 33.5017084, 35.2354963 ] ] ] } }
+]
+}

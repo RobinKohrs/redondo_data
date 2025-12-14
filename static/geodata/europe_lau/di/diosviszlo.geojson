@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "diosviszlo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Diósviszló", "metric_roundness": 61.12, "metric_rectangularity": 71.5, "metric_mobile_fit": 57.61, "metric_aspect_ratio": 0.986, "metric_area_km2": 32.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.1826682, 45.8785538 ], [ 18.1723405, 45.893393499999988 ], [ 18.1588925, 45.905100499999989 ], [ 18.1391003, 45.8948392 ], [ 18.126702, 45.895091 ], [ 18.1224385, 45.880698 ], [ 18.1441643, 45.875596499999986 ], [ 18.138502, 45.8656591 ], [ 18.1513695, 45.8608255 ], [ 18.154566, 45.85682 ], [ 18.1637089, 45.859331 ], [ 18.1738915, 45.8566065 ], [ 18.191152, 45.87611 ], [ 18.1826682, 45.8785538 ] ] ] } }
+]
+}

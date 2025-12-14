@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "coulobres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Coulobres", "metric_roundness": 67.67, "metric_rectangularity": 75.58, "metric_mobile_fit": 72.3, "metric_aspect_ratio": 0.84, "metric_area_km2": 5.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.268037, 43.458416 ], [ 3.2613105, 43.450421 ], [ 3.2646709, 43.4451627 ], [ 3.2741069, 43.4435097 ], [ 3.279428, 43.439605 ], [ 3.2820295, 43.440347 ], [ 3.2850075, 43.444374 ], [ 3.2860461, 43.4547533 ], [ 3.2774235, 43.4609945 ], [ 3.268037, 43.458416 ] ] ] } }
+]
+}

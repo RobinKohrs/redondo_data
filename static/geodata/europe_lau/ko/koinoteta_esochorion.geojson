@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_esochorion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Εσωχωρίων", "metric_roundness": 39.34, "metric_rectangularity": 69.43, "metric_mobile_fit": 90.72, "metric_aspect_ratio": 0.47, "metric_area_km2": 13.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6292667, 38.771390899999986 ], [ 21.6321973, 38.7800212 ], [ 21.627073, 38.78992 ], [ 21.6243575, 38.7912815 ], [ 21.619532, 38.7932595 ], [ 21.6152415, 38.794543 ], [ 21.6117566, 38.7786833 ], [ 21.607592, 38.773448 ], [ 21.6098112, 38.764840199999988 ], [ 21.6082265, 38.7489525 ], [ 21.6204256, 38.7524989 ], [ 21.6322791, 38.7514554 ], [ 21.635059, 38.763265 ], [ 21.6292667, 38.771390899999986 ] ] ] } }
+]
+}

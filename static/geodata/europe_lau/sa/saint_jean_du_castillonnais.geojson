@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_du_castillonnais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-du-Castillonnais", "metric_roundness": 36.11, "metric_rectangularity": 57.08, "metric_mobile_fit": 99.53, "metric_aspect_ratio": 0.558, "metric_area_km2": 8.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9214405, 42.962517 ], [ 0.9126365, 42.9593905 ], [ 0.920073, 42.952304 ], [ 0.9267685, 42.9312055 ], [ 0.9270455, 42.9298615 ], [ 0.9357035, 42.9368181 ], [ 0.9361609, 42.953032699999987 ], [ 0.940701, 42.9567245 ], [ 0.9404645, 42.9589315 ], [ 0.938099, 42.965647499999982 ], [ 0.933369, 42.966493 ], [ 0.9296315, 42.966219 ], [ 0.927663, 42.966687499999978 ], [ 0.9214405, 42.962517 ] ] ] } }
+]
+}

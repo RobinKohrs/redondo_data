@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wargemoulin_hurlus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wargemoulin-Hurlus", "metric_roundness": 28.99, "metric_rectangularity": 48.98, "metric_mobile_fit": -31.77, "metric_aspect_ratio": 1.88, "metric_area_km2": 34.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6265988, 49.1672035 ], [ 4.6125086, 49.161566299999983 ], [ 4.6114055, 49.1577675 ], [ 4.6181127, 49.1508951 ], [ 4.626902, 49.1530625 ], [ 4.6344111, 49.1545691 ], [ 4.6939984, 49.149276799999988 ], [ 4.7029652, 49.144667599999984 ], [ 4.7206225, 49.148218 ], [ 4.7094512, 49.1625889 ], [ 4.6614254, 49.16873469999998 ], [ 4.6446045, 49.182652 ], [ 4.6265988, 49.1672035 ] ] ] } }
+]
+}

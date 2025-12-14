@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vier_bordes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vier-Bordes", "metric_roundness": 38.7, "metric_rectangularity": 62.26, "metric_mobile_fit": 10.13, "metric_aspect_ratio": 1.461, "metric_area_km2": 17.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0110029, 42.9814557 ], [ -0.000066, 42.978822 ], [ -0.017849, 43.003938 ], [ -0.032353, 43.0061525 ], [ -0.03901, 43.005465 ], [ -0.0496385, 43.007493499999988 ], [ -0.05503, 43.0058005 ], [ -0.058333, 43.0054215 ], [ -0.0572384, 42.9953096 ], [ -0.0491475, 42.9888195 ], [ -0.0269735, 42.978327 ], [ -0.0110029, 42.9814557 ] ] ] } }
+]
+}

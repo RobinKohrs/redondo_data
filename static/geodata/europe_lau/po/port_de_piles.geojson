@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "port_de_piles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Port-de-Piles", "metric_roundness": 38.1, "metric_rectangularity": 74.74, "metric_mobile_fit": -69.15, "metric_aspect_ratio": 2.254, "metric_area_km2": 12.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.57445, 46.99289 ], [ 0.5980923, 46.9947956 ], [ 0.6028315, 46.990170099999986 ], [ 0.623984, 46.993683 ], [ 0.621894, 46.999411 ], [ 0.6228402, 47.004077099999982 ], [ 0.6178135, 47.0074292 ], [ 0.590551, 47.006722499999981 ], [ 0.583139, 47.006069499999988 ], [ 0.574905, 47.004459 ], [ 0.567741, 47.006284 ], [ 0.5669435, 47.002537 ], [ 0.57445, 46.99289 ] ] ] } }
+]
+}

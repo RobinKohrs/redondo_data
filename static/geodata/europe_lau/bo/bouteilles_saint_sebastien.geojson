@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bouteilles_saint_sebastien",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bouteilles-Saint-Sébastien", "metric_roundness": 61.83, "metric_rectangularity": 62.61, "metric_mobile_fit": 39.64, "metric_aspect_ratio": 1.166, "metric_area_km2": 28.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2649095, 45.334529499999981 ], [ 0.2880748, 45.336579799999981 ], [ 0.30247, 45.3297415 ], [ 0.3045409, 45.3342927 ], [ 0.3146091, 45.3341862 ], [ 0.324428, 45.3440705 ], [ 0.3149468, 45.35088039999998 ], [ 0.3109603, 45.3588125 ], [ 0.311385, 45.366124499999984 ], [ 0.2959596, 45.3585815 ], [ 0.2817839, 45.3703987 ], [ 0.2569675, 45.353064 ], [ 0.264583, 45.334748499999982 ], [ 0.2649095, 45.334529499999981 ] ] ] } }
+]
+}

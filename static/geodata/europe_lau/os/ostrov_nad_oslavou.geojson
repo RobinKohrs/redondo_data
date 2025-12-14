@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ostrov_nad_oslavou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ostrov nad Oslavou", "metric_roundness": 38.72, "metric_rectangularity": 59.63, "metric_mobile_fit": 18.9, "metric_aspect_ratio": 1.373, "metric_area_km2": 22.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.9757471, 49.501062699999984 ], [ 15.9712725, 49.495139 ], [ 15.9725092, 49.4913282 ], [ 15.9699217, 49.4884747 ], [ 15.9501425, 49.49028 ], [ 15.9561735, 49.4854372 ], [ 15.990533, 49.4744515 ], [ 16.014144, 49.4683305 ], [ 16.0233615, 49.4753525 ], [ 16.0215506, 49.4788137 ], [ 16.02338, 49.4818965 ], [ 16.0124489, 49.4848753 ], [ 16.0052998, 49.492793099999979 ], [ 15.9980836, 49.4935408 ], [ 15.990966, 49.502971 ], [ 15.9757471, 49.501062699999984 ] ] ] } }
+]
+}

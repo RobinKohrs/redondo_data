@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberwaltersdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberwaltersdorf", "metric_roundness": 31.2, "metric_rectangularity": 53.07, "metric_mobile_fit": 58.7, "metric_aspect_ratio": 0.976, "metric_area_km2": 28.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.3038344, 47.970828 ], [ 16.3163868, 47.967248 ], [ 16.3537367, 47.9515461 ], [ 16.369293, 47.94186 ], [ 16.3721345, 47.943225499999983 ], [ 16.3679319, 47.958579799999981 ], [ 16.3588707, 47.9648745 ], [ 16.3605425, 47.968238 ], [ 16.3352076, 47.9879898 ], [ 16.3238824, 47.99053 ], [ 16.3244265, 47.994088499999989 ], [ 16.3078107, 47.9924682 ], [ 16.3041455, 47.9743122 ], [ 16.2988745, 47.97117 ], [ 16.296036, 47.967467 ], [ 16.3038344, 47.970828 ] ] ] } }
+]
+}

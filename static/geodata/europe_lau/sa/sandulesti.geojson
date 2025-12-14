@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sandulesti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sănduleşti", "metric_roundness": 43.42, "metric_rectangularity": 68.46, "metric_mobile_fit": 45.86, "metric_aspect_ratio": 1.104, "metric_area_km2": 46.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.7516788, 46.5740585 ], [ 23.7461549, 46.5839389 ], [ 23.7544167, 46.5935199 ], [ 23.7598455, 46.611457499999986 ], [ 23.7311528, 46.6116749 ], [ 23.7255735, 46.61422 ], [ 23.704601, 46.600511 ], [ 23.6971483, 46.5882108 ], [ 23.6855265, 46.580875299999981 ], [ 23.6788225, 46.5662085 ], [ 23.7000882, 46.568627 ], [ 23.749339, 46.5637815 ], [ 23.7516788, 46.5740585 ] ] ] } }
+]
+}

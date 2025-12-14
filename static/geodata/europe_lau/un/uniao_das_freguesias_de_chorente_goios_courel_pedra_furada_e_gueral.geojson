@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_chorente_goios_courel_pedra_furada_e_gueral",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral", "metric_roundness": 39.21, "metric_rectangularity": 58.84, "metric_mobile_fit": 6.58, "metric_aspect_ratio": 1.497, "metric_area_km2": 29.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6464571, 41.4649838 ], [ -8.6584325, 41.457939 ], [ -8.6720385, 41.445736 ], [ -8.6603225, 41.439322 ], [ -8.6564851, 41.438379 ], [ -8.6372909, 41.449078699999987 ], [ -8.6245988, 41.4481563 ], [ -8.6144495, 41.4405235 ], [ -8.6069053, 41.4441169 ], [ -8.6055775, 41.450502 ], [ -8.5999505, 41.4556159 ], [ -8.5862585, 41.45772 ], [ -8.5928535, 41.461076 ], [ -8.594759, 41.462559 ], [ -8.601176, 41.46464 ], [ -8.6058835, 41.466867 ], [ -8.6074175, 41.4723345 ], [ -8.6108805, 41.472572 ], [ -8.618703, 41.4813305 ], [ -8.638987, 41.477167499999986 ], [ -8.6464571, 41.4649838 ] ] ] } }
+]
+}

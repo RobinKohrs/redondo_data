@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "slavhostice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Slavhostice", "metric_roundness": 47.16, "metric_rectangularity": 70.52, "metric_mobile_fit": 91.5, "metric_aspect_ratio": 0.647, "metric_area_km2": 14.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3505045, 50.297877499999984 ], [ 15.3536449, 50.3059097 ], [ 15.360845, 50.3082975 ], [ 15.3654304, 50.314354099999989 ], [ 15.3581751, 50.3188092 ], [ 15.3594385, 50.324662 ], [ 15.34125, 50.3295945 ], [ 15.3294685, 50.30515 ], [ 15.3331185, 50.294125 ], [ 15.3505045, 50.297877499999984 ] ] ] } }
+]
+}

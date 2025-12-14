@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_maria_de_palautordera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Maria de Palautordera", "metric_roundness": 53.96, "metric_rectangularity": 73.87, "metric_mobile_fit": 66.67, "metric_aspect_ratio": 0.896, "metric_area_km2": 31.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4306112, 41.682463899999981 ], [ 2.425639, 41.676481499999987 ], [ 2.4474088, 41.670701 ], [ 2.445355, 41.654195 ], [ 2.4798955, 41.671683499999986 ], [ 2.4849203, 41.6783511 ], [ 2.4787598, 41.6887444 ], [ 2.463108, 41.7038255 ], [ 2.453288, 41.7083685 ], [ 2.449186, 41.7094595 ], [ 2.4472515, 41.7116035 ], [ 2.445599, 41.709762499999982 ], [ 2.4470579, 41.7053947 ], [ 2.4439944, 41.701901 ], [ 2.4237131, 41.6954102 ], [ 2.416058, 41.696623 ], [ 2.4306112, 41.682463899999981 ] ] ] } }
+]
+}

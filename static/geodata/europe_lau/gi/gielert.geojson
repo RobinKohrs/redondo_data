@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gielert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gielert", "metric_roundness": 50.59, "metric_rectangularity": 55.02, "metric_mobile_fit": 53.46, "metric_aspect_ratio": 1.028, "metric_area_km2": 9.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.004524, 49.789565499999981 ], [ 6.9852925, 49.788371 ], [ 6.9819978, 49.7809628 ], [ 6.9729745, 49.776073 ], [ 6.9737765, 49.774260499999983 ], [ 6.9892378, 49.775837699999983 ], [ 7.0073445, 49.7643175 ], [ 7.013163, 49.767813 ], [ 7.0125815, 49.770056 ], [ 7.009472, 49.772068 ], [ 7.0115075, 49.7752195 ], [ 7.004524, 49.789565499999981 ] ] ] } }
+]
+}

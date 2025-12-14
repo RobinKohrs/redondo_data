@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_zeno_naviglio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Zeno Naviglio", "metric_roundness": 37.36, "metric_rectangularity": 64.18, "metric_mobile_fit": 69.42, "metric_aspect_ratio": 0.868, "metric_area_km2": 12.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.1987064, 45.4699713 ], [ 10.204528, 45.475214699999988 ], [ 10.2141135, 45.4741545 ], [ 10.2268146, 45.481045299999984 ], [ 10.2352741, 45.4939075 ], [ 10.234205, 45.499041 ], [ 10.2205862, 45.5037628 ], [ 10.2153248, 45.502289199999986 ], [ 10.2069641, 45.486885599999987 ], [ 10.1947975, 45.483377499999989 ], [ 10.192412, 45.4691535 ], [ 10.1987064, 45.4699713 ] ] ] } }
+]
+}

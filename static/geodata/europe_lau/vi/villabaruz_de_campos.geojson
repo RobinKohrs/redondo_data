@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villabaruz_de_campos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villabaruz de Campos", "metric_roundness": 49.48, "metric_rectangularity": 70.33, "metric_mobile_fit": 10.14, "metric_aspect_ratio": 1.461, "metric_area_km2": 30.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.0300025, 42.02095 ], [ -5.0258509, 42.0134859 ], [ -5.0277238, 42.0077078 ], [ -5.0233036, 42.0045133 ], [ -5.0133809, 42.004762 ], [ -5.0041863, 41.9997884 ], [ -4.9755165, 41.993534 ], [ -4.9648751, 42.006848699999985 ], [ -4.9510305, 42.0120545 ], [ -4.9635802, 42.0234587 ], [ -4.993039, 42.0285896 ], [ -4.999541, 42.0336915 ], [ -5.0300025, 42.02095 ] ] ] } }
+]
+}

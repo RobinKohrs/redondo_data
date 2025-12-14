@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_vincent_sur_oust",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Vincent-sur-Oust", "metric_roundness": 64.97, "metric_rectangularity": 73.68, "metric_mobile_fit": 67.89, "metric_aspect_ratio": 0.884, "metric_area_km2": 35.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.1519232, 47.7248536 ], [ -2.165945, 47.723388499999984 ], [ -2.17278, 47.713602099999989 ], [ -2.1719293, 47.70490759999997 ], [ -2.179574, 47.692185499999987 ], [ -2.153878, 47.683870099999986 ], [ -2.146977, 47.6790775 ], [ -2.1324543, 47.683996099999987 ], [ -2.1226675, 47.682670499999986 ], [ -2.1242059, 47.6919915 ], [ -2.1194703, 47.7090979 ], [ -2.129073, 47.717558 ], [ -2.1519232, 47.7248536 ] ] ] } }
+]
+}

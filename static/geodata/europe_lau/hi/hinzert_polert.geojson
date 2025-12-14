@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hinzert_polert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hinzert-Pölert", "metric_roundness": 38.71, "metric_rectangularity": 55.23, "metric_mobile_fit": 62.73, "metric_aspect_ratio": 0.935, "metric_area_km2": 10.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9174627, 49.703263799999988 ], [ 6.9220048, 49.708526299999988 ], [ 6.9206902, 49.713650899999983 ], [ 6.92449, 49.717652499999978 ], [ 6.9115121, 49.7106827 ], [ 6.8954947, 49.708230699999987 ], [ 6.8828935, 49.6965835 ], [ 6.9086685, 49.6888862 ], [ 6.9150575, 49.6908055 ], [ 6.9174627, 49.703263799999988 ] ] ] } }
+]
+}

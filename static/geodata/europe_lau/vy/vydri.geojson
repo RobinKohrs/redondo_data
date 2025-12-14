@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vydri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vydří", "metric_roundness": 58.56, "metric_rectangularity": 76.36, "metric_mobile_fit": 71.63, "metric_aspect_ratio": 0.846, "metric_area_km2": 13.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.9501906, 49.0849897 ], [ 14.960763, 49.0910435 ], [ 14.9687819, 49.0976358 ], [ 14.9626255, 49.1051515 ], [ 14.9497779, 49.1099573 ], [ 14.9439555, 49.106631 ], [ 14.933218, 49.100382499999974 ], [ 14.9293895, 49.0848419 ], [ 14.934502, 49.0794755 ], [ 14.9483115, 49.0810105 ], [ 14.9501906, 49.0849897 ] ] ] } }
+]
+}

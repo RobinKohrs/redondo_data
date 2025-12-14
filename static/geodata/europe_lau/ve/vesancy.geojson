@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vesancy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vesancy", "metric_roundness": 31.14, "metric_rectangularity": 59.55, "metric_mobile_fit": 93.27, "metric_aspect_ratio": 0.63, "metric_area_km2": 21.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0772327, 46.3575224 ], [ 6.0776415, 46.3407089 ], [ 6.0827856, 46.3360327 ], [ 6.0909345, 46.334766 ], [ 6.094329, 46.340598499999977 ], [ 6.0968745, 46.342630499999984 ], [ 6.101037, 46.3435735 ], [ 6.1111455, 46.347741499999984 ], [ 6.1062554, 46.357107 ], [ 6.0839679, 46.375667899999982 ], [ 6.0779455, 46.3879325 ], [ 6.0662586, 46.3909476 ], [ 6.059873, 46.3844285 ], [ 6.0772327, 46.3575224 ] ] ] } }
+]
+}

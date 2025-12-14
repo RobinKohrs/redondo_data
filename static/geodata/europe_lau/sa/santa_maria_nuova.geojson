@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_maria_nuova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Maria Nuova", "metric_roundness": 64.14, "metric_rectangularity": 71.47, "metric_mobile_fit": 66.67, "metric_aspect_ratio": 0.896, "metric_area_km2": 34.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.3390507, 43.4678355 ], [ 13.343586, 43.471141 ], [ 13.3435075, 43.4784064 ], [ 13.3598594, 43.4839828 ], [ 13.3461135, 43.4970802 ], [ 13.3495335, 43.5014795 ], [ 13.344393, 43.507651 ], [ 13.3330898, 43.5048433 ], [ 13.3223692, 43.514544799999989 ], [ 13.3064166, 43.5071431 ], [ 13.2962862, 43.489504399999987 ], [ 13.306736, 43.463057 ], [ 13.3390507, 43.4678355 ] ] ] } }
+]
+}

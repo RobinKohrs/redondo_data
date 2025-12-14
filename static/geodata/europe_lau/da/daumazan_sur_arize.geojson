@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "daumazan_sur_arize",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Daumazan-sur-Arize", "metric_roundness": 66.89, "metric_rectangularity": 77.07, "metric_mobile_fit": 53.6, "metric_aspect_ratio": 1.027, "metric_area_km2": 25.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.306322, 43.123752499999988 ], [ 1.3163805, 43.128575 ], [ 1.3197515, 43.132156 ], [ 1.3215935, 43.132757499999983 ], [ 1.3351685, 43.1443595 ], [ 1.3347735, 43.152954 ], [ 1.3105253, 43.1564881 ], [ 1.2931755, 43.1661615 ], [ 1.273875, 43.148388 ], [ 1.2759529, 43.1427156 ], [ 1.302712, 43.1225945 ], [ 1.306322, 43.123752499999988 ] ] ] } }
+]
+}

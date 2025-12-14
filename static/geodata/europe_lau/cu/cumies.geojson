@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cumies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cumiès", "metric_roundness": 33.71, "metric_rectangularity": 50.62, "metric_mobile_fit": 43.97, "metric_aspect_ratio": 1.123, "metric_area_km2": 7.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8361194, 43.302492 ], [ 1.821044, 43.3096815 ], [ 1.815361, 43.3112703 ], [ 1.809367, 43.304662 ], [ 1.8272005, 43.295789 ], [ 1.8297985, 43.2942645 ], [ 1.830925, 43.292024 ], [ 1.833532, 43.2893755 ], [ 1.8418605, 43.287797 ], [ 1.846266, 43.284708 ], [ 1.845082, 43.2983018 ], [ 1.8503454, 43.302056199999981 ], [ 1.84887, 43.3054235 ], [ 1.8361194, 43.302492 ] ] ] } }
+]
+}

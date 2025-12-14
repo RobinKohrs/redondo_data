@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_villedieu_en_fontenette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Villedieu-en-Fontenette", "metric_roundness": 40.38, "metric_rectangularity": 67.29, "metric_mobile_fit": 97.24, "metric_aspect_ratio": 0.59, "metric_area_km2": 21.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2230775, 47.750415 ], [ 6.225212, 47.7522547 ], [ 6.2212358, 47.767791099999982 ], [ 6.2128897, 47.780456299999983 ], [ 6.2143795, 47.7879931 ], [ 6.2118394, 47.793735 ], [ 6.2155635, 47.7964085 ], [ 6.214544, 47.798919 ], [ 6.2102585, 47.7987915 ], [ 6.2044345, 47.786383599999986 ], [ 6.1826234, 47.7870237 ], [ 6.1879999, 47.7759372 ], [ 6.1876222, 47.763999399999975 ], [ 6.192671, 47.754577 ], [ 6.2230775, 47.750415 ] ] ] } }
+]
+}

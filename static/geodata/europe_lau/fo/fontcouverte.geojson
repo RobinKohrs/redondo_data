@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontcouverte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontcouverte", "metric_roundness": 56.81, "metric_rectangularity": 67.48, "metric_mobile_fit": 29.35, "metric_aspect_ratio": 1.269, "metric_area_km2": 18.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.717842, 43.165196 ], [ 2.7126916, 43.1712493 ], [ 2.6943103, 43.176227599999983 ], [ 2.6844325, 43.183845 ], [ 2.678099, 43.184 ], [ 2.673625, 43.1852805 ], [ 2.6659374, 43.176747 ], [ 2.663289, 43.1669683 ], [ 2.6663115, 43.1539285 ], [ 2.7092535, 43.1582545 ], [ 2.717842, 43.165196 ] ] ] } }
+]
+}

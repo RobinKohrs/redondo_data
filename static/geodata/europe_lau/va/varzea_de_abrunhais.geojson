@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "varzea_de_abrunhais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Várzea de Abrunhais", "metric_roundness": 53.53, "metric_rectangularity": 64.06, "metric_mobile_fit": 81.07, "metric_aspect_ratio": 0.752, "metric_area_km2": 10.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7720642, 41.065116199999977 ], [ -7.765386, 41.0655925 ], [ -7.754898, 41.0684505 ], [ -7.7521281, 41.0718555 ], [ -7.755463, 41.080521499999989 ], [ -7.7577625, 41.092315499999984 ], [ -7.776554, 41.0977555 ], [ -7.7762911, 41.0871004 ], [ -7.7726971, 41.0801002 ], [ -7.7846815, 41.076027 ], [ -7.783432, 41.0723965 ], [ -7.7720642, 41.065116199999977 ] ] ] } }
+]
+}

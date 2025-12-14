@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mannweiler_colln",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mannweiler-Cölln", "metric_roundness": 39.7, "metric_rectangularity": 62.06, "metric_mobile_fit": 9.67, "metric_aspect_ratio": 1.466, "metric_area_km2": 11.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7769915, 49.682345 ], [ 7.7954725, 49.68149769999998 ], [ 7.8071807, 49.6875007 ], [ 7.8236008, 49.6884317 ], [ 7.8283898, 49.6947864 ], [ 7.8209895, 49.6981165 ], [ 7.798606, 49.704180500000014 ], [ 7.7769915, 49.682345 ] ] ] } }
+]
+}

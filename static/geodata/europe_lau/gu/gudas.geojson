@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gudas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gudas", "metric_roundness": 36.8, "metric_rectangularity": 70.81, "metric_mobile_fit": 94.33, "metric_aspect_ratio": 0.619, "metric_area_km2": 19.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6871343, 43.0156218 ], [ 1.6731036, 43.02129 ], [ 1.669365, 43.026131 ], [ 1.670217, 43.027628 ], [ 1.6575467, 43.0198659 ], [ 1.6586565, 43.007934499999983 ], [ 1.6648927, 43.0022568 ], [ 1.6657085, 42.9973515 ], [ 1.6783505, 42.990900499999988 ], [ 1.6780431, 42.980680299999989 ], [ 1.6964615, 42.9766985 ], [ 1.7006663, 42.996806799999987 ], [ 1.6918355, 43.007502 ], [ 1.6871343, 43.0156218 ] ] ] } }
+]
+}

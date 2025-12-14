@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_koukounaras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κουκουναράς", "metric_roundness": 52.09, "metric_rectangularity": 68.13, "metric_mobile_fit": 74.15, "metric_aspect_ratio": 0.821, "metric_area_km2": 6.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.687025, 35.457988 ], [ 23.68037, 35.467965 ], [ 23.6694176, 35.4674832 ], [ 23.666327, 35.4637625 ], [ 23.6623495, 35.442531 ], [ 23.6819625, 35.4485065 ], [ 23.6879845, 35.451798 ], [ 23.687025, 35.457988 ] ] ] } }
+]
+}

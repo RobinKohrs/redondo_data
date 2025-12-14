@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_de_moirans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-de-Moirans", "metric_roundness": 40.12, "metric_rectangularity": 56.27, "metric_mobile_fit": 73.22, "metric_aspect_ratio": 0.83, "metric_area_km2": 13.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5641263, 45.343722699999987 ], [ 5.5665677, 45.338286199999985 ], [ 5.5826331, 45.326559699999983 ], [ 5.5938562, 45.3229795 ], [ 5.604248, 45.3157435 ], [ 5.606372, 45.31605 ], [ 5.6003747, 45.3238743 ], [ 5.6032659, 45.3400886 ], [ 5.600802, 45.347357 ], [ 5.5924785, 45.351509 ], [ 5.573054, 45.3453762 ], [ 5.568516, 45.347668499999983 ], [ 5.5641263, 45.343722699999987 ] ] ] } }
+]
+}

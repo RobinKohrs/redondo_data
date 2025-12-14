@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kosice_mestska_cast_zapad",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Košice - mestská časť Západ", "metric_roundness": 52.11, "metric_rectangularity": 72.14, "metric_mobile_fit": 93.5, "metric_aspect_ratio": 0.627, "metric_area_km2": 12.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.233211, 48.6942295 ], [ 21.2453478, 48.707602599999987 ], [ 21.247545, 48.714858 ], [ 21.238905, 48.726341 ], [ 21.2200242, 48.725897299999978 ], [ 21.2170095, 48.7218325 ], [ 21.2202383, 48.713340899999984 ], [ 21.219547, 48.705697 ], [ 21.2216805, 48.699999499999983 ], [ 21.233211, 48.6942295 ] ] ] } }
+]
+}

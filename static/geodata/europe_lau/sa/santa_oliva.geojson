@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_oliva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Oliva", "metric_roundness": 45.83, "metric_rectangularity": 62.37, "metric_mobile_fit": 63.65, "metric_aspect_ratio": 0.926, "metric_area_km2": 12.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.549656, 41.233898 ], [ 1.553281, 41.238186 ], [ 1.564392, 41.24661649999998 ], [ 1.56696, 41.251823499999979 ], [ 1.567188, 41.255741 ], [ 1.566624, 41.257995 ], [ 1.5466092, 41.2552896 ], [ 1.5374745, 41.257158 ], [ 1.5298268, 41.253353299999986 ], [ 1.5308044, 41.2452863 ], [ 1.527759, 41.240569 ], [ 1.5327521, 41.2327193 ], [ 1.532487, 41.2267885 ], [ 1.53846, 41.2259777 ], [ 1.5441195, 41.229069 ], [ 1.549656, 41.233898 ] ] ] } }
+]
+}

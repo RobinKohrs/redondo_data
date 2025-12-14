@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ligardes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ligardes", "metric_roundness": 55.2, "metric_rectangularity": 66.97, "metric_mobile_fit": 36.97, "metric_aspect_ratio": 1.193, "metric_area_km2": 22.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.4822724, 44.026297299999989 ], [ 0.4945177, 44.0239218 ], [ 0.5079955, 44.0256445 ], [ 0.5037535, 44.03702089999998 ], [ 0.5047195, 44.050662 ], [ 0.5012491, 44.0571966 ], [ 0.485691, 44.0586855 ], [ 0.4836104, 44.0533147 ], [ 0.4597605, 44.055373499999988 ], [ 0.4506785, 44.0457175 ], [ 0.4503125, 44.0443735 ], [ 0.4822724, 44.026297299999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_orens_de_gameville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Orens-de-Gameville", "metric_roundness": 41.01, "metric_rectangularity": 59.27, "metric_mobile_fit": 75.22, "metric_aspect_ratio": 0.81, "metric_area_km2": 25.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5520199, 43.5398421 ], [ 1.557311, 43.551864 ], [ 1.5496065, 43.5576417 ], [ 1.5557253, 43.5605452 ], [ 1.5602625, 43.567416 ], [ 1.5370904, 43.578995299999981 ], [ 1.5129045, 43.577024 ], [ 1.5141388, 43.566164699999987 ], [ 1.5063035, 43.557545 ], [ 1.5158335, 43.5497357 ], [ 1.5320738, 43.547072899999989 ], [ 1.5464705, 43.534196 ], [ 1.5598725, 43.5307335 ], [ 1.5520199, 43.5398421 ] ] ] } }
+]
+}

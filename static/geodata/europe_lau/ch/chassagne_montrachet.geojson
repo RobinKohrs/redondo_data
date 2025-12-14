@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chassagne_montrachet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chassagne-Montrachet", "metric_roundness": 68.75, "metric_rectangularity": 71.79, "metric_mobile_fit": 46.2, "metric_aspect_ratio": 1.101, "metric_area_km2": 13.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7335705, 46.945720499999986 ], [ 4.71226, 46.9405337 ], [ 4.707615, 46.930823 ], [ 4.7072455, 46.9271911 ], [ 4.7185265, 46.9197855 ], [ 4.723143, 46.921878 ], [ 4.7281285, 46.919372 ], [ 4.733821, 46.921472 ], [ 4.7368235, 46.923531499999989 ], [ 4.740285, 46.920963 ], [ 4.744315, 46.9244345 ], [ 4.7410815, 46.929992 ], [ 4.744178, 46.9316375 ], [ 4.7497105, 46.937821499999984 ], [ 4.7335705, 46.945720499999986 ] ] ] } }
+]
+}

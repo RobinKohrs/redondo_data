@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourisp",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourisp", "metric_roundness": 53.08, "metric_rectangularity": 64.79, "metric_mobile_fit": 80.3, "metric_aspect_ratio": 0.76, "metric_area_km2": 3.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.347066, 42.8365205 ], [ 0.340275, 42.842606499999981 ], [ 0.3326611, 42.8293428 ], [ 0.333009, 42.8244915 ], [ 0.3406405, 42.824176499999986 ], [ 0.3456506, 42.8249779 ], [ 0.351749, 42.8295025 ], [ 0.347066, 42.8365205 ] ] ] } }
+]
+}

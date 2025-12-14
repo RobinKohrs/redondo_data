@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "venette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Venette", "metric_roundness": 53.48, "metric_rectangularity": 68.41, "metric_mobile_fit": 42.76, "metric_aspect_ratio": 1.135, "metric_area_km2": 20.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7926716, 49.431063 ], [ 2.773438, 49.437785 ], [ 2.767238, 49.4311955 ], [ 2.7664535, 49.4279105 ], [ 2.7634445, 49.422172 ], [ 2.7579365, 49.415535 ], [ 2.753992, 49.412944 ], [ 2.754319, 49.4108765 ], [ 2.7675268, 49.4127449 ], [ 2.7706692, 49.4090577 ], [ 2.7950435, 49.403165 ], [ 2.8001313, 49.4109868 ], [ 2.8143895, 49.4154945 ], [ 2.7926716, 49.431063 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chamarande",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chamarande", "metric_roundness": 50.2, "metric_rectangularity": 60.92, "metric_mobile_fit": 81.51, "metric_aspect_ratio": 0.747, "metric_area_km2": 13.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2018726, 48.507861899999988 ], [ 2.216637, 48.499306499999989 ], [ 2.2227245, 48.5049755 ], [ 2.2270633, 48.5116396 ], [ 2.240772, 48.5127675 ], [ 2.235409, 48.521672 ], [ 2.2337428, 48.524601 ], [ 2.2186758, 48.525890499999974 ], [ 2.220352, 48.531727 ], [ 2.2133775, 48.533337499999988 ], [ 2.208233, 48.533782 ], [ 2.203472, 48.516552 ], [ 2.2018726, 48.507861899999988 ] ] ] } }
+]
+}

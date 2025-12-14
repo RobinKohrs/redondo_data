@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cruz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cruz", "metric_roundness": 49.42, "metric_rectangularity": 72.69, "metric_mobile_fit": 89.56, "metric_aspect_ratio": 0.667, "metric_area_km2": 6.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.506054, 41.450016 ], [ -8.507266, 41.436078 ], [ -8.5013474, 41.434367199999983 ], [ -8.4960075, 41.425816499999989 ], [ -8.4821635, 41.43709 ], [ -8.4941425, 41.4540345 ], [ -8.506054, 41.450016 ] ] ] } }
+]
+}

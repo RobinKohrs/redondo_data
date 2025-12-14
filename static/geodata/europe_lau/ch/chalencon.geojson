@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chalencon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chalencon", "metric_roundness": 65.83, "metric_rectangularity": 75.12, "metric_mobile_fit": 45.31, "metric_aspect_ratio": 1.109, "metric_area_km2": 18.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5399804, 44.8737525 ], [ 4.5460668, 44.874129499999988 ], [ 4.5521781, 44.870319099999982 ], [ 4.552427, 44.8643045 ], [ 4.5543332, 44.8632352 ], [ 4.565813, 44.8636845 ], [ 4.5772141, 44.867549 ], [ 4.581144, 44.872076 ], [ 4.584765, 44.8836387 ], [ 4.561441, 44.890191499999986 ], [ 4.542907, 44.897182299999983 ], [ 4.532586, 44.8855225 ], [ 4.531615, 44.8814025 ], [ 4.5399804, 44.8737525 ] ] ] } }
+]
+}

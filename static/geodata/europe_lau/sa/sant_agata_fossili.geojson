@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_agata_fossili",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant'Agata Fossili", "metric_roundness": 56.33, "metric_rectangularity": 64.07, "metric_mobile_fit": 44.01, "metric_aspect_ratio": 1.122, "metric_area_km2": 15.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9117406, 44.7681189 ], [ 8.9150832, 44.7742096 ], [ 8.9210573, 44.7754377 ], [ 8.9300975, 44.788576 ], [ 8.925872, 44.789091 ], [ 8.9084495, 44.794207799999988 ], [ 8.905052, 44.79796 ], [ 8.8958779, 44.8003424 ], [ 8.8875122, 44.7942078 ], [ 8.8857448, 44.7913443 ], [ 8.877985, 44.791282 ], [ 8.881148, 44.7839883 ], [ 8.8874646, 44.7840993 ], [ 8.8939042, 44.7802021 ], [ 8.8987903, 44.76783 ], [ 8.902263, 44.767387 ], [ 8.9117406, 44.7681189 ] ] ] } }
+]
+}

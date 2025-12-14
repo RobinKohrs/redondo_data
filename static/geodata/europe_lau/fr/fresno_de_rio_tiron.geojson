@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fresno_de_rio_tiron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fresno de Río Tirón", "metric_roundness": 27.15, "metric_rectangularity": 53.26, "metric_mobile_fit": -43.68, "metric_aspect_ratio": 1.999, "metric_area_km2": 17.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.1460065, 42.450573 ], [ -3.1626604, 42.4652307 ], [ -3.164844, 42.4734465 ], [ -3.1828342, 42.4751171 ], [ -3.189115, 42.478508 ], [ -3.1946993, 42.473816899999989 ], [ -3.2210787, 42.4660799 ], [ -3.2251144, 42.4620757 ], [ -3.2039674, 42.4562005 ], [ -3.1873962, 42.4580074 ], [ -3.1701884, 42.4558244 ], [ -3.14841, 42.449318 ], [ -3.1460065, 42.450573 ] ] ] } }
+]
+}

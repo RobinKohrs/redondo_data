@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aldeanueva_de_santa_cruz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aldeanueva de Santa Cruz", "metric_roundness": 38.75, "metric_rectangularity": 53.18, "metric_mobile_fit": 59.27, "metric_aspect_ratio": 0.97, "metric_area_km2": 14.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.418281, 40.3903045 ], [ -5.4176665, 40.3932 ], [ -5.419428, 40.396343 ], [ -5.424364, 40.400249499999987 ], [ -5.4301977, 40.385110899999987 ], [ -5.4443135, 40.3710252 ], [ -5.4541159, 40.367907 ], [ -5.446568, 40.3564795 ], [ -5.4244082, 40.3627953 ], [ -5.4135888, 40.372164 ], [ -5.398391, 40.3742635 ], [ -5.4159375, 40.3877145 ], [ -5.418281, 40.3903045 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "flussio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Flussio", "metric_roundness": 37.77, "metric_rectangularity": 47.26, "metric_mobile_fit": 69.73, "metric_aspect_ratio": 0.865, "metric_area_km2": 12.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.5646917, 40.2425146 ], [ 8.5725205, 40.24665 ], [ 8.5669963, 40.2508724 ], [ 8.56542, 40.258813 ], [ 8.5480619, 40.2649215 ], [ 8.5386425, 40.2729985 ], [ 8.527138, 40.2698715 ], [ 8.532093, 40.2615113 ], [ 8.5446498, 40.2556742 ], [ 8.5549672, 40.2450627 ], [ 8.543595, 40.24277 ], [ 8.5380075, 40.2329685 ], [ 8.5484067, 40.234956199999985 ], [ 8.5582135, 40.233056 ], [ 8.5646917, 40.2425146 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "doksany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Doksany", "metric_roundness": 62.87, "metric_rectangularity": 64.95, "metric_mobile_fit": 63.0, "metric_aspect_ratio": 0.933, "metric_area_km2": 7.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.170208, 50.4533646 ], [ 14.1782969, 50.452791499999989 ], [ 14.1843155, 50.4569045 ], [ 14.1794103, 50.4585917 ], [ 14.181162, 50.4633175 ], [ 14.1612688, 50.468944399999977 ], [ 14.153922, 50.4646665 ], [ 14.157554, 50.459984099999986 ], [ 14.1556023, 50.4534124 ], [ 14.1592015, 50.448817899999987 ], [ 14.164444, 50.448195 ], [ 14.170208, 50.4533646 ] ] ] } }
+]
+}

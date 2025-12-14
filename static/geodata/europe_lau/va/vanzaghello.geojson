@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vanzaghello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vanzaghello", "metric_roundness": 33.3, "metric_rectangularity": 58.4, "metric_mobile_fit": 76.96, "metric_aspect_ratio": 0.793, "metric_area_km2": 11.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7864518, 45.5759296 ], [ 8.7942393, 45.583500799999989 ], [ 8.7992485, 45.60211349999998 ], [ 8.786168, 45.6024225 ], [ 8.7819869, 45.587459699999982 ], [ 8.7716545, 45.5872813 ], [ 8.7660038, 45.577071599999982 ], [ 8.7568095, 45.574425 ], [ 8.7578705, 45.5717056 ], [ 8.7666268, 45.571764099999989 ], [ 8.7720727, 45.564964 ], [ 8.7823845, 45.566295 ], [ 8.7864518, 45.5759296 ] ] ] } }
+]
+}

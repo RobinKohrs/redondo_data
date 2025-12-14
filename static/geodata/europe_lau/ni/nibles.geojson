@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nibles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nibles", "metric_roundness": 51.74, "metric_rectangularity": 73.6, "metric_mobile_fit": 70.16, "metric_aspect_ratio": 0.861, "metric_area_km2": 24.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0036275, 44.2683223 ], [ 6.0103525, 44.2719455 ], [ 6.0232206, 44.278878499999983 ], [ 6.035652, 44.303644 ], [ 6.0262658, 44.3084147 ], [ 6.0103525, 44.309272099999987 ], [ 6.005203, 44.3095495 ], [ 6.0031422, 44.3042588 ], [ 5.984969, 44.2872104 ], [ 5.983345, 44.2817275 ], [ 5.9880506, 44.275660599999988 ], [ 5.9895453, 44.266816 ], [ 5.9937685, 44.266057 ], [ 6.0036275, 44.2683223 ] ] ] } }
+]
+}

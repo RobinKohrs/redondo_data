@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kontaiikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κονταιίκων", "metric_roundness": 51.15, "metric_rectangularity": 77.37, "metric_mobile_fit": 71.08, "metric_aspect_ratio": 0.852, "metric_area_km2": 10.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.7541017, 37.761550399999983 ], [ 26.733894, 37.7757945 ], [ 26.720015, 37.7697752 ], [ 26.728185, 37.7562545 ], [ 26.7410415, 37.739571 ], [ 26.742757, 37.740845499999985 ], [ 26.744318, 37.742605499999989 ], [ 26.746181, 37.7460575 ], [ 26.74834, 37.748568 ], [ 26.752759, 37.7512585 ], [ 26.759037, 37.7536325 ], [ 26.7541017, 37.761550399999983 ] ] ] } }
+]
+}

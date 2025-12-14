@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "semondans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Semondans", "metric_roundness": 41.76, "metric_rectangularity": 67.24, "metric_mobile_fit": 34.74, "metric_aspect_ratio": 1.215, "metric_area_km2": 5.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6772884, 47.543551499999985 ], [ 6.688785, 47.5332425 ], [ 6.7039355, 47.532267 ], [ 6.7089575, 47.543203 ], [ 6.706769, 47.543286499999986 ], [ 6.7037885, 47.5450645 ], [ 6.6988925, 47.544574 ], [ 6.6888455, 47.5453565 ], [ 6.6765405, 47.550276 ], [ 6.6772884, 47.543551499999985 ] ] ] } }
+]
+}

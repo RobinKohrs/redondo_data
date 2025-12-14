@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "colleville_montgomery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Colleville-Montgomery", "metric_roundness": 40.91, "metric_rectangularity": 72.62, "metric_mobile_fit": 60.62, "metric_aspect_ratio": 0.956, "metric_area_km2": 18.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2874595, 49.2947285 ], [ -0.333812, 49.265639 ], [ -0.320803, 49.261621499999983 ], [ -0.3132745, 49.259450499999986 ], [ -0.3026775, 49.2574235 ], [ -0.285795, 49.271371 ], [ -0.2801546, 49.279637199999982 ], [ -0.279133, 49.2929655 ], [ -0.2874595, 49.2947285 ] ] ] } }
+]
+}

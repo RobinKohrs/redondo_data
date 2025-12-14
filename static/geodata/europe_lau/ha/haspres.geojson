@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "haspres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Haspres", "metric_roundness": 55.61, "metric_rectangularity": 67.2, "metric_mobile_fit": 88.97, "metric_aspect_ratio": 0.673, "metric_area_km2": 30.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4361305, 50.2587535 ], [ 3.4296974, 50.269444299999982 ], [ 3.4372065, 50.277086499999989 ], [ 3.4353255, 50.2781805 ], [ 3.4180025, 50.288425499999981 ], [ 3.396523, 50.2838895 ], [ 3.4001634, 50.2752724 ], [ 3.3901656, 50.2702423 ], [ 3.38759, 50.265989499999989 ], [ 3.3952045, 50.243170499999984 ], [ 3.4085585, 50.241283499999987 ], [ 3.4361305, 50.2587535 ] ] ] } }
+]
+}

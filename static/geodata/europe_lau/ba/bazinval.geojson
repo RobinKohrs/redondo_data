@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bazinval",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bazinval", "metric_roundness": 49.75, "metric_rectangularity": 60.82, "metric_mobile_fit": 79.45, "metric_aspect_ratio": 0.768, "metric_area_km2": 17.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5260506, 49.9535364 ], [ 1.5235607, 49.9472098 ], [ 1.555237, 49.928795 ], [ 1.5645701, 49.943669499999977 ], [ 1.5587436, 49.95362189999998 ], [ 1.5679826, 49.959762 ], [ 1.5623366, 49.9660144 ], [ 1.557443, 49.965314499999984 ], [ 1.5260506, 49.9535364 ] ] ] } }
+]
+}

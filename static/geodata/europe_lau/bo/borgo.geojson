@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borgo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Borgo", "metric_roundness": 42.7, "metric_rectangularity": 69.2, "metric_mobile_fit": -9.98, "metric_aspect_ratio": 1.662, "metric_area_km2": 88.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5135352, 42.586119 ], [ 9.4857645, 42.613319499999989 ], [ 9.4659348, 42.598087 ], [ 9.414849, 42.586525 ], [ 9.3908102, 42.5703467 ], [ 9.3834465, 42.5681708 ], [ 9.381938, 42.5600905 ], [ 9.3866455, 42.557993 ], [ 9.3918555, 42.550993 ], [ 9.395718, 42.5500775 ], [ 9.4103797, 42.5516698 ], [ 9.4364565, 42.5487584 ], [ 9.4692761, 42.5519166 ], [ 9.5276865, 42.5649985 ], [ 9.5135352, 42.586119 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ailertchen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ailertchen", "metric_roundness": 56.39, "metric_rectangularity": 69.27, "metric_mobile_fit": 39.76, "metric_aspect_ratio": 1.165, "metric_area_km2": 13.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9555839, 50.6086344 ], [ 7.9239915, 50.6082925 ], [ 7.9238165, 50.6017165 ], [ 7.9274072, 50.5923524 ], [ 7.9372995, 50.586963499999989 ], [ 7.944783, 50.590541499999986 ], [ 7.9705145, 50.601155499999969 ], [ 7.9655765, 50.612408499999987 ], [ 7.9555839, 50.6086344 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_mantasias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μαντασιάς", "metric_roundness": 56.34, "metric_rectangularity": 68.72, "metric_mobile_fit": 55.57, "metric_aspect_ratio": 1.007, "metric_area_km2": 28.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.468929, 39.139407 ], [ 22.4554544, 39.136155 ], [ 22.4465083, 39.1405939 ], [ 22.4442535, 39.1457665 ], [ 22.4345131, 39.140131499999981 ], [ 22.4102215, 39.139211499999981 ], [ 22.4039585, 39.120932 ], [ 22.415737, 39.1139552 ], [ 22.421419, 39.10472 ], [ 22.430511, 39.101389499999989 ], [ 22.4379775, 39.097013 ], [ 22.440944, 39.0957035 ], [ 22.468929, 39.139407 ] ] ] } }
+]
+}

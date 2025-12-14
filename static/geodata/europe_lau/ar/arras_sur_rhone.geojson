@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arras_sur_rhone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arras-sur-Rhône", "metric_roundness": 42.4, "metric_rectangularity": 62.36, "metric_mobile_fit": 29.1, "metric_aspect_ratio": 1.271, "metric_area_km2": 10.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.785179, 45.140487499999985 ], [ 4.786952, 45.134238499999988 ], [ 4.79009, 45.130164 ], [ 4.795326, 45.1306875 ], [ 4.7998555, 45.131037 ], [ 4.801423, 45.131992499999981 ], [ 4.804125, 45.131266499999988 ], [ 4.8048645, 45.133905 ], [ 4.8142645, 45.139419 ], [ 4.824432, 45.148380499999973 ], [ 4.8285735, 45.1542375 ], [ 4.8037078, 45.1533665 ], [ 4.7988102, 45.1492426 ], [ 4.7856715, 45.148051 ], [ 4.785179, 45.140487499999985 ] ] ] } }
+]
+}

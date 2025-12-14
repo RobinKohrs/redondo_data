@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "almaskamaras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Almáskamarás", "metric_roundness": 44.58, "metric_rectangularity": 54.28, "metric_mobile_fit": 18.51, "metric_aspect_ratio": 1.377, "metric_area_km2": 30.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.076061, 46.4750095 ], [ 21.063595, 46.47031 ], [ 21.029449, 46.47008 ], [ 21.080276, 46.443574499999983 ], [ 21.0980882, 46.4477333 ], [ 21.1113995, 46.4675767 ], [ 21.1063181, 46.472264899999978 ], [ 21.1083908, 46.483058199999988 ], [ 21.0994371, 46.481032799999987 ], [ 21.080154, 46.484555499999985 ], [ 21.076061, 46.4750095 ] ] ] } }
+]
+}

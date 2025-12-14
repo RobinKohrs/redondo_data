@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_koines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κοινής", "metric_roundness": 67.51, "metric_rectangularity": 68.7, "metric_mobile_fit": 35.71, "metric_aspect_ratio": 1.205, "metric_area_km2": 7.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.0440975, 38.2504325 ], [ 26.0517569, 38.251229099999989 ], [ 26.058722, 38.240794499999986 ], [ 26.0672885, 38.2410385 ], [ 26.078196, 38.251476 ], [ 26.0708054, 38.260118699999985 ], [ 26.0706635, 38.2630095 ], [ 26.050196, 38.262977 ], [ 26.0440975, 38.2504325 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ostermundigen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ostermundigen", "metric_roundness": 59.57, "metric_rectangularity": 74.97, "metric_mobile_fit": 80.72, "metric_aspect_ratio": 0.755, "metric_area_km2": 12.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.482786, 46.9713405 ], [ 7.4856402, 46.9657919 ], [ 7.4803469, 46.9620362 ], [ 7.4783315, 46.9542067 ], [ 7.4845172, 46.9454461 ], [ 7.494358, 46.9402305 ], [ 7.5041786, 46.944501899999985 ], [ 7.5102895, 46.950881 ], [ 7.512757, 46.9604624 ], [ 7.50801, 46.966066499999982 ], [ 7.5046462, 46.967908099999988 ], [ 7.4966975, 46.966011599999987 ], [ 7.4891325, 46.9704385 ], [ 7.482786, 46.9713405 ] ] ] } }
+]
+}

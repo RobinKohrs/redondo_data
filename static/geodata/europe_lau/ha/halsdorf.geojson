@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "halsdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Halsdorf", "metric_roundness": 70.49, "metric_rectangularity": 80.34, "metric_mobile_fit": 58.89, "metric_aspect_ratio": 0.974, "metric_area_km2": 7.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.366262, 49.943823 ], [ 6.3581585, 49.937004 ], [ 6.3615715, 49.934695499999975 ], [ 6.3597965, 49.933919 ], [ 6.3613475, 49.930542 ], [ 6.3690571, 49.924048399999982 ], [ 6.374031, 49.9235505 ], [ 6.388579, 49.937188 ], [ 6.3895563, 49.939478399999977 ], [ 6.3837615, 49.9423395 ], [ 6.374193, 49.944309 ], [ 6.366262, 49.943823 ] ] ] } }
+]
+}

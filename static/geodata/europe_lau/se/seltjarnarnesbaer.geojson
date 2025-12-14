@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seltjarnarnesbaer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Seltjarnarnesbær", "metric_roundness": 28.31, "metric_rectangularity": 43.82, "metric_mobile_fit": 15.53, "metric_aspect_ratio": 1.407, "metric_area_km2": 10.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -21.9890643, 64.1570261 ], [ -22.01166, 64.1624864 ], [ -22.0222556, 64.1559641 ], [ -22.0341383, 64.1532506 ], [ -22.0290822, 64.150583399999988 ], [ -22.0117504, 64.154588499999988 ], [ -21.977016, 64.144789 ], [ -21.980934, 64.150981499999986 ], [ -21.9890643, 64.1570261 ] ] ] } }
+]
+}

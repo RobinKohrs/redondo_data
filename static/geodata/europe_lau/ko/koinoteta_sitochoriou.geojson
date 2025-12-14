@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sitochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σιτοχωρίου", "metric_roundness": 57.24, "metric_rectangularity": 67.92, "metric_mobile_fit": 55.29, "metric_aspect_ratio": 1.01, "metric_area_km2": 16.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.6200236, 40.8730091 ], [ 23.626073, 40.875482 ], [ 23.6444416, 40.890787 ], [ 23.6395505, 40.9023375 ], [ 23.6316535, 40.9069055 ], [ 23.6211864, 40.897114 ], [ 23.6124129, 40.897555 ], [ 23.606703, 40.9021925 ], [ 23.601612, 40.9000135 ], [ 23.5991748, 40.8881233 ], [ 23.6042014, 40.8800079 ], [ 23.6015055, 40.873604 ], [ 23.6200236, 40.8730091 ] ] ] } }
+]
+}

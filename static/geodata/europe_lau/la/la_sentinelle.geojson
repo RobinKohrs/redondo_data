@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_sentinelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Sentinelle", "metric_roundness": 52.8, "metric_rectangularity": 57.29, "metric_mobile_fit": 59.96, "metric_aspect_ratio": 0.963, "metric_area_km2": 9.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4773885, 50.343705599999986 ], [ 3.484746, 50.3380901 ], [ 3.4892555, 50.341551 ], [ 3.4951832, 50.3462818 ], [ 3.4788042, 50.35635139999998 ], [ 3.4770875, 50.362171 ], [ 3.4740255, 50.3632315 ], [ 3.4711315, 50.3624955 ], [ 3.468209, 50.357892 ], [ 3.4636757, 50.3501893 ], [ 3.456728, 50.345056 ], [ 3.4578622, 50.3410501 ], [ 3.4626475, 50.341012899999988 ], [ 3.4638715, 50.337748 ], [ 3.4773885, 50.343705599999986 ] ] ] } }
+]
+}

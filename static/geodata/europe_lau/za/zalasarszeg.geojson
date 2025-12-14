@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zalasarszeg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zalasárszeg", "metric_roundness": 63.27, "metric_rectangularity": 68.94, "metric_mobile_fit": 60.66, "metric_aspect_ratio": 0.956, "metric_area_km2": 6.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.084259, 46.4880019 ], [ 17.099495, 46.4913495 ], [ 17.09455, 46.507079499999989 ], [ 17.0813135, 46.5073355 ], [ 17.0801516, 46.5016805 ], [ 17.0726475, 46.492244499999977 ], [ 17.084259, 46.4880019 ] ] ] } }
+]
+}

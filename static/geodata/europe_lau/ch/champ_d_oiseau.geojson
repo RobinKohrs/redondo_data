@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champ_d_oiseau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champ-d'Oiseau", "metric_roundness": 56.2, "metric_rectangularity": 71.45, "metric_mobile_fit": 28.74, "metric_aspect_ratio": 1.275, "metric_area_km2": 10.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.341004, 47.546904199999979 ], [ 4.3503885, 47.543379 ], [ 4.3621901, 47.5493297 ], [ 4.365653, 47.556109699999986 ], [ 4.3696595, 47.5573935 ], [ 4.367153, 47.561352 ], [ 4.3634665, 47.564024499999981 ], [ 4.3535834, 47.561857 ], [ 4.3309265, 47.563059 ], [ 4.3306525, 47.5451135 ], [ 4.341004, 47.546904199999979 ] ] ] } }
+]
+}

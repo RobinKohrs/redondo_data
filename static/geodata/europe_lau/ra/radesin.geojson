@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "radesin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Radešín", "metric_roundness": 51.33, "metric_rectangularity": 71.95, "metric_mobile_fit": 45.19, "metric_aspect_ratio": 1.111, "metric_area_km2": 8.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.076075, 49.4754895 ], [ 16.073935, 49.4662651 ], [ 16.0665672, 49.4602852 ], [ 16.0672235, 49.4570825 ], [ 16.0774288, 49.45801 ], [ 16.0874813, 49.4589236 ], [ 16.1001257, 49.465589099999981 ], [ 16.1007705, 49.468322 ], [ 16.0995131, 49.473818499999986 ], [ 16.0938575, 49.477096499999988 ], [ 16.076075, 49.4754895 ] ] ] } }
+]
+}

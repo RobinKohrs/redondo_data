@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bollen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Böllen", "metric_roundness": 38.18, "metric_rectangularity": 75.32, "metric_mobile_fit": 96.12, "metric_aspect_ratio": 0.524, "metric_area_km2": 12.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.842049, 47.781457799999977 ], [ 7.8469848, 47.781455599999987 ], [ 7.848429, 47.780056 ], [ 7.863323, 47.781226499999974 ], [ 7.8565706, 47.7855226 ], [ 7.855957, 47.793684699999986 ], [ 7.851777, 47.8011064 ], [ 7.8553687, 47.813782599999982 ], [ 7.8484771, 47.8176564 ], [ 7.8376235, 47.816314499999983 ], [ 7.8337204, 47.8026981 ], [ 7.8391495, 47.779686 ], [ 7.842049, 47.781457799999977 ] ] ] } }
+]
+}

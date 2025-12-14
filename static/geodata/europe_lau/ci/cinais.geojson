@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cinais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cinais", "metric_roundness": 67.44, "metric_rectangularity": 74.61, "metric_mobile_fit": 71.02, "metric_aspect_ratio": 0.852, "metric_area_km2": 19.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1639644, 47.143489 ], [ 0.1755159, 47.143816 ], [ 0.1823997, 47.140436199999989 ], [ 0.193384, 47.143853 ], [ 0.1972763, 47.1539887 ], [ 0.190414, 47.16697 ], [ 0.1901745, 47.1729505 ], [ 0.1865855, 47.1736035 ], [ 0.1712545, 47.1741715 ], [ 0.16703, 47.1758465 ], [ 0.158243, 47.1643029 ], [ 0.159948, 47.1606439 ], [ 0.152893, 47.155150499999984 ], [ 0.1639644, 47.143489 ] ] ] } }
+]
+}

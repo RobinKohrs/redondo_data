@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vilde_guingalan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vildé-Guingalan", "metric_roundness": 45.25, "metric_rectangularity": 61.69, "metric_mobile_fit": 63.27, "metric_aspect_ratio": 0.93, "metric_area_km2": 17.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.1605786, 48.448395 ], [ -2.1669355, 48.4515286 ], [ -2.178604, 48.447601 ], [ -2.1775926, 48.441763 ], [ -2.1620069, 48.435172699999988 ], [ -2.161694, 48.431209 ], [ -2.1572509, 48.4236899 ], [ -2.1371125, 48.416736 ], [ -2.138383, 48.4232598 ], [ -2.1282334, 48.428434 ], [ -2.130526, 48.440011 ], [ -2.1435842, 48.4391591 ], [ -2.14564, 48.448505499999989 ], [ -2.147525, 48.452677 ], [ -2.1535945, 48.4511215 ], [ -2.1605786, 48.448395 ] ] ] } }
+]
+}

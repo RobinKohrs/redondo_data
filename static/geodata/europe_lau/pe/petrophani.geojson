@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "petrophani",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Πετροφάνι", "metric_roundness": 37.59, "metric_rectangularity": 68.66, "metric_mobile_fit": 91.1, "metric_aspect_ratio": 0.473, "metric_area_km2": 10.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.5004522, 35.0326389 ], [ 33.5097313, 35.013343899999988 ], [ 33.519294, 35.009183 ], [ 33.5233645, 35.0149575 ], [ 33.5192176, 35.0312644 ], [ 33.516127, 35.0333803 ], [ 33.5221132, 35.0379439 ], [ 33.5215644, 35.0467597 ], [ 33.5097656, 35.0525332 ], [ 33.4982985, 35.045549499999986 ], [ 33.5004522, 35.0326389 ] ] ] } }
+]
+}

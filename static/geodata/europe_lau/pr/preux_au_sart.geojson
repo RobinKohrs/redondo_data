@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "preux_au_sart",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Preux-au-Sart", "metric_roundness": 41.92, "metric_rectangularity": 70.38, "metric_mobile_fit": -32.37, "metric_aspect_ratio": 1.886, "metric_area_km2": 13.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6712685, 50.2819233 ], [ 3.6745385, 50.279844 ], [ 3.6887355, 50.2803412 ], [ 3.7007521, 50.2857761 ], [ 3.7241415, 50.282012499999986 ], [ 3.726253, 50.2879595 ], [ 3.725009, 50.2901345 ], [ 3.72535, 50.292338499999985 ], [ 3.7219305, 50.293319499999981 ], [ 3.718716, 50.298705 ], [ 3.7147245, 50.298759499999989 ], [ 3.714374, 50.2987635 ], [ 3.670398, 50.290094499999988 ], [ 3.6712685, 50.2819233 ] ] ] } }
+]
+}

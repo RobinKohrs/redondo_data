@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lovere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lovere", "metric_roundness": 38.71, "metric_rectangularity": 63.62, "metric_mobile_fit": 87.21, "metric_aspect_ratio": 0.69, "metric_area_km2": 15.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.0567173, 45.8172888 ], [ 10.0529265, 45.8130345 ], [ 10.0564745, 45.811057499999976 ], [ 10.0652749, 45.805104799999981 ], [ 10.075304, 45.8055331 ], [ 10.07925, 45.80143 ], [ 10.086841, 45.803329 ], [ 10.092611, 45.805533 ], [ 10.0955445, 45.806801 ], [ 10.0615505, 45.8444475 ], [ 10.056034, 45.83279 ], [ 10.055973, 45.8219705 ], [ 10.0567173, 45.8172888 ] ] ] } }
+]
+}

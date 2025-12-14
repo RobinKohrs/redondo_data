@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guillaucourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guillaucourt", "metric_roundness": 51.3, "metric_rectangularity": 66.95, "metric_mobile_fit": 62.87, "metric_aspect_ratio": 0.934, "metric_area_km2": 16.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6297745, 49.8499538 ], [ 2.617208, 49.851501 ], [ 2.6234471, 49.847758199999987 ], [ 2.6142338, 49.833238 ], [ 2.613735, 49.825564 ], [ 2.621243, 49.8254575 ], [ 2.6409472, 49.8265228 ], [ 2.6487945, 49.8300585 ], [ 2.657865, 49.834209399999985 ], [ 2.6562954, 49.8387288 ], [ 2.6486173, 49.8425285 ], [ 2.6466435, 49.855935 ], [ 2.6297745, 49.8499538 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bratislava_mestska_cast_rusovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bratislava - mestská časť Rusovce", "metric_roundness": 42.5, "metric_rectangularity": 76.46, "metric_mobile_fit": 13.26, "metric_aspect_ratio": 1.43, "metric_area_km2": 58.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.1376895, 48.071888799999989 ], [ 17.075626, 48.0275505 ], [ 17.0903637, 48.020592699999987 ], [ 17.1107045, 48.0306074 ], [ 17.1263531, 48.0217733 ], [ 17.1346676, 48.0228529 ], [ 17.1438435, 48.020188 ], [ 17.1733318, 48.040366299999988 ], [ 17.187392, 48.0537935 ], [ 17.1739878, 48.0587788 ], [ 17.1577385, 48.072441499999989 ], [ 17.1376895, 48.071888799999989 ] ] ] } }
+]
+}

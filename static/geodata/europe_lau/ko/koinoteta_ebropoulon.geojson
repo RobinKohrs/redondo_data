@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ebropoulon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Εβροπούλων", "metric_roundness": 19.16, "metric_rectangularity": 46.0, "metric_mobile_fit": -18.12, "metric_aspect_ratio": 1.744, "metric_area_km2": 4.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.8308994, 39.626833199999986 ], [ 19.8372085, 39.627256 ], [ 19.8408312, 39.631711799999984 ], [ 19.8457029, 39.6316957 ], [ 19.8699335, 39.615571499999987 ], [ 19.8729515, 39.618821 ], [ 19.8684799, 39.62603 ], [ 19.8527626, 39.6331698 ], [ 19.839124, 39.6353642 ], [ 19.828143, 39.629587 ], [ 19.8308994, 39.626833199999986 ] ] ] } }
+]
+}

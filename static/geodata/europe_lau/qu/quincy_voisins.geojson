@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "quincy_voisins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Quincy-Voisins", "metric_roundness": 73.05, "metric_rectangularity": 73.8, "metric_mobile_fit": 44.2, "metric_aspect_ratio": 1.12, "metric_area_km2": 23.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8674985, 48.91479 ], [ 2.8503235, 48.906551 ], [ 2.8475265, 48.8977235 ], [ 2.8527954, 48.8969231 ], [ 2.8571399, 48.8911468 ], [ 2.8719724, 48.888017499999982 ], [ 2.8777778, 48.8820671 ], [ 2.8846625, 48.8814535 ], [ 2.8977738, 48.8858797 ], [ 2.9043226, 48.892946199999976 ], [ 2.904346, 48.898177 ], [ 2.902721, 48.899173 ], [ 2.8964425, 48.9101905 ], [ 2.8674985, 48.91479 ] ] ] } }
+]
+}

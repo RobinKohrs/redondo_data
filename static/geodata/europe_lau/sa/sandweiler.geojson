@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sandweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sandweiler", "metric_roundness": 62.73, "metric_rectangularity": 63.3, "metric_mobile_fit": 54.62, "metric_aspect_ratio": 1.016, "metric_area_km2": 18.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2161524, 49.6027675 ], [ 6.2330438, 49.6039466 ], [ 6.238775, 49.6096575 ], [ 6.2391454, 49.619993299999976 ], [ 6.231572, 49.624285 ], [ 6.2116339, 49.6255322 ], [ 6.2046714, 49.6314444 ], [ 6.1892035, 49.62569 ], [ 6.1920194, 49.618567399999982 ], [ 6.2017297, 49.6122886 ], [ 6.192044, 49.604877499999986 ], [ 6.2053245, 49.6056198 ], [ 6.209874, 49.599606499999986 ], [ 6.2161524, 49.6027675 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "samod",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sámod", "metric_roundness": 23.9, "metric_rectangularity": 65.3, "metric_mobile_fit": 88.49, "metric_aspect_ratio": 0.447, "metric_area_km2": 13.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0252667, 45.8556231 ], [ 18.0319852, 45.848591399999989 ], [ 18.0328665, 45.8355957 ], [ 18.0425896, 45.8242596 ], [ 18.051674, 45.8215605 ], [ 18.0495597, 45.827566 ], [ 18.051554, 45.831368499999989 ], [ 18.0522165, 45.8416039 ], [ 18.0491277, 45.852892799999978 ], [ 18.030329, 45.8689065 ], [ 18.021139, 45.869944 ], [ 18.0252667, 45.8556231 ] ] ] } }
+]
+}

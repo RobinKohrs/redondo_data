@@ -1,0 +1,766 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,BULQIZË,bulqize,bu,55.31,58,46.77
+europe_lau,Bukovina nad Labem,bukovina_nad_labem,bu,58.51,67.35,29.14
+europe_lau,Bukovina u Přelouče,bukovina_u_prelouce,bu,44.74,71.07,-0.45
+europe_lau,Bukovka,bukovka,bu,43.48,57.88,85.57
+europe_lau,Bukovina u Čisté,bukovina_u_ciste,bu,50.23,66.6,51.1
+europe_lau,Budislav,budislav,bu,36.75,57.47,87.48
+europe_lau,Bučovice,bucovice,bu,41.02,56.07,86.32
+europe_lau,Bulhary,bulhary,bu,63.45,65.7,71.88
+europe_lau,Bukovany,bukovany,bu,46.94,67.85,98.71
+europe_lau,Bučina,bucina,bu,75.33,75.5,61.24
+europe_lau,Bukovice,bukovice,bu,40.24,52.93,15.61
+europe_lau,Bukovina,bukovina,bu,58.87,68.15,68.28
+europe_lau,Bukovinka,bukovinka,bu,37.89,55.76,-3.53
+europe_lau,Budětsko,budetsko,bu,45.27,64.58,22.8
+europe_lau,Buková,bukova,bu,50.63,64.45,7.59
+europe_lau,Buchlovice,buchlovice,bu,53.61,57.17,46.62
+europe_lau,Budišov,budisov,bu,54.51,64.76,36.25
+europe_lau,Budkov,budkov,bu,35,49.73,-15.62
+europe_lau,Buchholz,buchholz,bu,43.16,58.24,57.1
+europe_lau,Büsum,busum,bu,55.78,62.11,47.25
+europe_lau,Büsumer Deichhausen,busumer_deichhausen,bu,53.2,68.29,48.3
+europe_lau,Bunsoh,bunsoh,bu,24.19,48.57,-87.49
+europe_lau,Burg (Dithmarschen),burg_dithmarschen,bu,54.74,68.53,82.8
+europe_lau,Busenwurth,busenwurth,bu,26.79,71.89,-111.77
+europe_lau,Buchholz,buchholz,bu,61.56,71.83,76.94
+europe_lau,Buchhorst,buchhorst,bu,58.48,75.06,92.67
+europe_lau,Büchen,buchen,bu,38.52,63.06,-7.46
+europe_lau,Büttel,buttel,bu,47.05,62.31,85.13
+europe_lau,Budeč,budec,bu,68.03,75.21,56.45
+europe_lau,Bukov,bukov,bu,46.53,58.71,80.8
+europe_lau,"Büdelsdorf, Stadt",budelsdorf_stadt,bu,44.36,69.26,-19.17
+europe_lau,Bünsdorf,bunsdorf,bu,51.8,59.58,31.39
+europe_lau,Busdorf,busdorf,bu,35.43,67.66,58.96
+europe_lau,Bullenkuhlen,bullenkuhlen,bu,47.91,76.67,21.07
+europe_lau,Burgdorf,burgdorf,bu,46.61,66.4,95.2
+europe_lau,Bühren,buhren,bu,58.06,62.85,61.69
+europe_lau,"Burgdorf, Stadt",burgdorf_stadt,bu,53.37,65.15,72.34
+europe_lau,"Burgwedel, Stadt",burgwedel_stadt,bu,65.93,75.7,67.38
+europe_lau,"Buchholz (Forstgutsbez.),gemfr. Gebiet",buchholz_forstgutsbez_gemfr_gebiet,bu,47.82,68.96,18.74
+europe_lau,Bühnsdorf,buhnsdorf,bu,19.03,48.49,-75.87
+europe_lau,"Bücken, Flecken",bucken_flecken,bu,40.62,60.98,-13.93
+europe_lau,Buchkirchen,buchkirchen,bu,51.02,65.15,17.71
+europe_lau,Buchholz,buchholz,bu,60.64,74.09,27.34
+europe_lau,"Bückeburg, Stadt",buckeburg_stadt,bu,49.48,62.8,88.16
+europe_lau,Bülkau,bulkau,bu,26.46,55.08,84.8
+europe_lau,Buchholz (Aller),buchholz_aller,bu,62.69,72.51,54.48
+europe_lau,Burbach,burbach,bu,62.35,63.05,67.38
+europe_lau,"Bürstadt, Stadt",burstadt_stadt,bu,59.62,69.08,48.23
+europe_lau,Büttelborn,buttelborn,bu,43.71,63.23,89.81
+europe_lau,Burweg,burweg,bu,54.59,69.28,32.12
+europe_lau,"Buxtehude, Hansestadt",buxtehude_hansestadt,bu,57.75,63.11,42.21
+europe_lau,Bürmoos,burmoos,bu,49.12,61.66,69.77
+europe_lau,"Buchholz in der Nordheide, Stadt",buchholz_in_der_nordheide_stadt,bu,36.86,51.69,89.55
+europe_lau,Bülstedt,bulstedt,bu,28.06,57.11,8.59
+europe_lau,"Burscheid, Stadt",burscheid_stadt,bu,48.25,65.8,33.96
+europe_lau,"Bünde, Stadt",bunde_stadt,bu,58.31,67.7,50.26
+europe_lau,"Büren, Stadt",buren_stadt,bu,58.56,65.7,65.96
+europe_lau,Butjadingen,butjadingen,bu,58.3,67.01,50.77
+europe_lau,"Büdingen, Stadt",budingen_stadt,bu,42.27,62.41,27.04
+europe_lau,"Butzbach, Friedrich-Ludwig-Weidig-Stadt",butzbach_friedrich_ludwig_weidig_stadt,bu,49.54,66.22,33.1
+europe_lau,Buseck,buseck,bu,48.85,55.25,52.54
+europe_lau,Bürdenbach,burdenbach,bu,31.96,54.64,65.87
+europe_lau,Burglahr,burglahr,bu,42.69,55.4,82.57
+europe_lau,Busenhausen,busenhausen,bu,26.36,67.7,76.98
+europe_lau,Burgwald,burgwald,bu,31.39,52.87,-16.67
+europe_lau,Burgbrohl,burgbrohl,bu,57.99,76.49,47.41
+europe_lau,"Burghaun, Marktgemeinde",burghaun_marktgemeinde,bu,61.37,63.77,33.31
+europe_lau,Buhlenberg,buhlenberg,bu,29.68,60.56,69.37
+europe_lau,Bundenbach,bundenbach,bu,50.15,61.97,86.71
+europe_lau,Bunde,bunde,bu,33.79,71.04,89.78
+europe_lau,Burg (Mosel),burg_mosel,bu,34.36,47.82,89.98
+europe_lau,Burgen,burgen,bu,46.37,66.09,82.7
+europe_lau,Burtscheid,burtscheid,bu,43.95,55.44,48.78
+europe_lau,Büchel,buchel,bu,49.77,58.84,66.04
+europe_lau,Bullay,bullay,bu,29.9,43.06,27.74
+europe_lau,Burgen,burgen,bu,32.94,51.38,49.92
+europe_lau,Buchholz (Westerwald),buchholz_westerwald,bu,57.88,63.81,34.91
+europe_lau,Bubach,bubach,bu,61.22,70.13,49.25
+europe_lau,Buch,buch,bu,60.02,73.19,39.73
+europe_lau,Budenbach,budenbach,bu,44.59,56.89,23.39
+europe_lau,Büchenbeuren,buchenbeuren,bu,45.56,65.76,-6.09
+europe_lau,Burgsponheim,burgsponheim,bu,28.37,65.43,-93.07
+europe_lau,Buch,buch,bu,44.15,68.27,-1.12
+europe_lau,Burgschwalbach,burgschwalbach,bu,53.28,62.54,74.42
+europe_lau,Bubenheim,bubenheim,bu,44.01,78.56,57.66
+europe_lau,Büdlich,budlich,bu,26.54,45.22,-44.91
+europe_lau,Burg,burg,bu,41.07,66.19,83.69
+europe_lau,Buborn,buborn,bu,48.92,64.19,28.59
+europe_lau,Buchet,buchet,bu,47.82,75.61,52.92
+europe_lau,Büdesheim,budesheim,bu,57.24,70.82,72.18
+europe_lau,Burbach,burbach,bu,35.32,50.11,67.3
+europe_lau,Burrweiler,burrweiler,bu,20.07,42.86,5.83
+europe_lau,Burgstetten,burgstetten,bu,48.54,63.52,7.13
+europe_lau,Bubenheim,bubenheim,bu,47.5,63.08,13.18
+europe_lau,Budenheim,budenheim,bu,62.59,74.84,29.3
+europe_lau,Buch-St. Magdalena,buch_st_magdalena,bu,40.38,55.47,25.05
+europe_lau,Burgau,burgau,bu,53.75,65.32,62.97
+europe_lau,Busenberg,busenberg,bu,41,61.3,96.94
+europe_lau,Bundenthal,bundenthal,bu,45.11,68.52,87.48
+europe_lau,Buchenbach,buchenbach,bu,47.31,56.97,69.22
+europe_lau,Buggingen,buggingen,bu,54.05,75.7,35.5
+europe_lau,Bubsheim,bubsheim,bu,49.05,69.58,37.89
+europe_lau,Buchheim,buchheim,bu,57.37,64.41,47.13
+europe_lau,Büsingen am Hochrhein,busingen_am_hochrhein,bu,42.11,56.03,23.76
+europe_lau,Bühlertann,buhlertann,bu,52.76,63.61,10.34
+europe_lau,Bühlerzell,buhlerzell,bu,40.46,59.91,-1.92
+europe_lau,"Burladingen, Stadt",burladingen_stadt,bu,62.82,66.06,49.13
+europe_lau,"Bühl, Stadt",buhl_stadt,bu,31.12,46.33,43.48
+europe_lau,Bühlertal,buhlertal,bu,47.24,65.47,79.39
+europe_lau,"Buchen (Odenwald), Stadt",buchen_odenwald_stadt,bu,55.75,62.51,62.69
+europe_lau,Burgrieden,burgrieden,bu,48.36,69.19,9.19
+europe_lau,"Burghausen, St",burghausen_st,bu,23.86,53.7,76.54
+europe_lau,Buxheim,buxheim,bu,36.22,64.16,85.18
+europe_lau,Buch a.Buchrain,buch_a_buchrain,bu,62.76,68.26,74.68
+europe_lau,Burggen,burggen,bu,56.33,59.57,43.86
+europe_lau,Buchhofen,buchhofen,bu,49.02,65.54,77.31
+europe_lau,Buch a.Erlbach,buch_a_erlbach,bu,37.06,51.56,24.31
+europe_lau,Büchlberg,buchlberg,bu,46.42,59.49,56.1
+europe_lau,"Buchbach, M",buchbach_m,bu,42.38,66.86,-15.52
+europe_lau,"Burgheim, M",burgheim_m,bu,49.31,69.39,63.67
+europe_lau,Buttenwiesen,buttenwiesen,bu,55.41,61.91,50.38
+europe_lau,Bugewitz,bugewitz,bu,45.47,50.65,36.41
+europe_lau,Buggenhagen,buggenhagen,bu,47.99,66.74,63.39
+europe_lau,Butzow,butzow,bu,36.76,50.71,96.05
+europe_lau,Buchdorf,buchdorf,bu,64.4,69.59,34.79
+europe_lau,Bubesheim,bubesheim,bu,45.52,58.69,39.62
+europe_lau,"Burgau, St",burgau_st,bu,53.12,57.72,39.83
+europe_lau,"Burtenbach, M",burtenbach_m,bu,41.18,72.56,-15.53
+europe_lau,"Buch, M",buch_m,bu,49.88,60.78,61.01
+europe_lau,Büchel,buchel,bu,60.12,81.73,41.97
+europe_lau,Bülstringen,bulstringen,bu,42.24,61.83,81.3
+europe_lau,"Buchloe, St",buchloe_st,bu,42.63,59.43,-4.68
+europe_lau,Buttstädt,buttstadt,bu,40.91,54.69,14.87
+europe_lau,Burgstall,burgstall,bu,46.08,59.83,20.84
+europe_lau,"Burg, Stadt",burg_stadt,bu,49.37,62.89,55.53
+europe_lau,Bürs,burs,bu,47.38,69.31,93.17
+europe_lau,Bürserberg,burserberg,bu,61.28,79.35,63.12
+europe_lau,Bucha,bucha,bu,50.19,62.94,6.82
+europe_lau,"Bürgel, Stadt",burgel_stadt,bu,44.23,51.4,34.48
+europe_lau,Büttstedt,buttstedt,bu,66.39,77.94,52.3
+europe_lau,Buhla,buhla,bu,47.23,62.69,82.61
+europe_lau,Burgwalde,burgwalde,bu,34.26,53.38,27
+europe_lau,"Buchenberg, M",buchenberg_m,bu,36.1,63.85,19.13
+europe_lau,Burgberg i.Allgäu,burgberg_i_allgau,bu,29.32,47.24,-41.88
+europe_lau,Buchfart,buchfart,bu,46.96,60.22,77.92
+europe_lau,Buckenhofer Forst,buckenhofer_forst,bu,43.27,65.42,-20.39
+europe_lau,Burgthann,burgthann,bu,61,63.95,41
+europe_lau,Buggenhout,buggenhout,bu,53.36,64.65,65.08
+europe_lau,Buttlar,buttlar,bu,42.31,56.97,1.34
+europe_lau,"Buckow (Märkische Schweiz), Stadt",buckow_markische_schweiz_stadt,bu,25.81,49.71,-64.96
+europe_lau,Buenavista de Valdavia,buenavista_de_valdavia,bu,41.66,52.17,63.02
+europe_lau,Bustillo de la Vega,bustillo_de_la_vega,bu,52.72,71.4,93.19
+europe_lau,Bustillo del Páramo de Carrión,bustillo_del_paramo_de_carrion,bu,38.49,54.41,79.56
+europe_lau,Búger,buger,bu,34.92,48.63,69.08
+europe_lau,Bunyola,bunyola,bu,33.82,51.48,63.91
+europe_lau,Buchholterberg,buchholterberg,bu,35.06,63.54,-30.04
+europe_lau,Busturia,busturia,bu,57.43,61.99,36.08
+europe_lau,Buciegas,buciegas,bu,42.74,56.59,6.2
+europe_lau,Buenache de Alarcón,buenache_de_alarcon,bu,49.86,73.18,70.99
+europe_lau,Buenache de la Sierra,buenache_de_la_sierra,bu,59.1,72.54,14.08
+europe_lau,Buendía,buendia,bu,54.87,70.13,85.86
+europe_lau,Bubikon,bubikon,bu,58.22,64.54,71.21
+europe_lau,Busswil bei Melchnau,busswil_bei_melchnau,bu,46.32,73.48,28.82
+europe_lau,Budia,budia,bu,39.57,59.88,96.2
+europe_lau,Bujalaro,bujalaro,bu,66.14,72.03,63.18
+europe_lau,Bustares,bustares,bu,53.96,66.49,83.57
+europe_lau,Bülach,bulach,bu,40.27,52.74,91.04
+europe_lau,Buchs (ZH),buchs_zh,bu,53.83,77.26,15.68
+europe_lau,Busot,busot,bu,45.37,69.3,92.87
+europe_lau,Burguillos del Cerro,burguillos_del_cerro,bu,66.01,69.08,67.01
+europe_lau,Büetigen,buetigen,bu,46.75,55.74,53.07
+europe_lau,Bubión,bubion,bu,14.32,29.22,95.75
+europe_lau,Busquístar,busquistar,bu,38.41,56.49,90.73
+europe_lau,Büren an der Aare,buren_an_der_aare,bu,59.72,61.45,39.64
+europe_lau,Bugedo,bugedo,bu,50.15,67.1,95.39
+europe_lau,Buniel,buniel,bu,51.56,64.24,23.02
+europe_lau,Burgos,burgos,bu,42.05,53.67,27.81
+europe_lau,Бургас,burgas,bu,34.53,45.83,91.09
+europe_lau,Bujalance,bujalance,bu,40.57,55.3,24.25
+europe_lau,Buch am Irchel,buch_am_irchel,bu,63.53,76.59,63.03
+europe_lau,Burgdorf,burgdorf,bu,33.45,45.38,71.31
+europe_lau,Bularros,bularros,bu,46.25,61.62,41.59
+europe_lau,Burgohondo,burgohondo,bu,42.29,61.19,84.08
+europe_lau,Büllingen,bullingen,bu,39.44,56.35,93.94
+europe_lau,"Burgstädt, Stadt",burgstadt_stadt,bu,49.07,54.41,65.73
+europe_lau,Burgjoß,burgjoss,bu,37.59,50.29,91.47
+europe_lau,Bütgenbach,butgenbach,bu,58.8,62.25,71.62
+europe_lau,"Burgbernheim, St",burgbernheim_st,bu,42.67,61.23,86.36
+europe_lau,"Burghaslach, M",burghaslach_m,bu,35.36,63.15,-64.44
+europe_lau,Buch,buch,bu,49.11,71.77,18.73
+europe_lau,Buckautal,buckautal,bu,31,62.03,51.02
+europe_lau,Bürgerwald,burgerwald,bu,20.62,41.42,-25.18
+europe_lau,Buch in Tirol,buch_in_tirol,bu,34.47,48.21,-8.53
+europe_lau,"Bütthard, M",butthard_m,bu,39.47,50.68,52.49
+europe_lau,Büchenbach,buchenbach,bu,55.21,65.64,50.62
+europe_lau,Burgsalach,burgsalach,bu,39.89,63.97,96.57
+europe_lau,Burg (Spreewald)/Bórkowy (Błota),burg_spreewald_borkowy_blota,bu,52.9,67.49,72.54
+europe_lau,Buschvitz,buschvitz,bu,41.73,55.94,-9.57
+europe_lau,"Burgkunstadt, St",burgkunstadt_st,bu,40.07,65.1,-7.76
+europe_lau,Buch a.Wald,buch_a_wald,bu,46.71,65.59,10.57
+europe_lau,Burgoberbach,burgoberbach,bu,49.56,77.13,94.57
+europe_lau,Burk,burk,bu,29.52,50.4,6.15
+europe_lau,Burkau,burkau,bu,38.61,60.09,12.83
+europe_lau,"Burkardroth, M",burkardroth_m,bu,40.82,50.89,68.79
+europe_lau,Buchholz,buchholz,bu,54.79,65.88,35.85
+europe_lau,"Burg Stargard, Stadt",burg_stargard_stadt,bu,43.75,58.04,49.21
+europe_lau,Burow,burow,bu,43.96,67.38,92.87
+europe_lau,Bütow,butow,bu,49.56,68.42,56.27
+europe_lau,Bubenreuth,bubenreuth,bu,48.84,65.88,68.64
+europe_lau,Buckenhof,buckenhof,bu,47.11,61.35,31.25
+europe_lau,Bülow,bulow,bu,41.14,57.4,-7.58
+europe_lau,"Burglengenfeld, St",burglengenfeld_st,bu,43.15,56.15,94
+europe_lau,Burglauer,burglauer,bu,25.74,56.85,-113.49
+europe_lau,Bundorfer Forst,bundorfer_forst,bu,45.94,58.29,48.48
+europe_lau,Burgwallbacher Forst,burgwallbacher_forst,bu,31.49,59.7,49.95
+europe_lau,Bundorf,bundorf,bu,45.67,66.57,30.41
+europe_lau,"Burgpreppach, M",burgpreppach_m,bu,55.5,61.29,44.78
+europe_lau,Buchbrunn,buchbrunn,bu,35.83,65.93,-25.57
+europe_lau,Burg-Reuland,burg_reuland,bu,45.84,62.27,69
+europe_lau,"Burgebrach, M",burgebrach_m,bu,47.59,56.56,19.43
+europe_lau,"Burgwindheim, M",burgwindheim_m,bu,48.69,57.15,58.24
+europe_lau,"Buttenheim, M",buttenheim_m,bu,48.28,62.77,69.82
+europe_lau,Burdinne,burdinne,bu,43.19,67.25,-12.68
+europe_lau,Burkhardtsdorf,burkhardtsdorf,bu,34.25,57.05,4.62
+europe_lau,"Bürgstadt, M",burgstadt_m,bu,42.61,62.08,-11.15
+europe_lau,"Burgsinn, M",burgsinn_m,bu,32.63,49.41,46.58
+europe_lau,"Bützow, Stadt",butzow_stadt,bu,44.78,63.83,98.61
+europe_lau,Bugeat,bugeat,bu,42.24,63.94,73.44
+europe_lau,Bünzen,bunzen,bu,54.01,65.98,65.83
+europe_lau,Buttwil,buttwil,bu,51.54,76.83,92.57
+europe_lau,Buffard,buffard,bu,48.41,69.3,96.83
+europe_lau,Bugny,bugny,bu,44.83,59.57,62.69
+europe_lau,Bulle,bulle,bu,44.64,76.67,34.31
+europe_lau,Burgille,burgille,bu,56.01,64.22,61.4
+europe_lau,Burnevillers,burnevillers,bu,26.64,64.79,-107.32
+europe_lau,Busy,busy,bu,64.31,68.64,47.28
+europe_lau,Bulat-Pestivien,bulat_pestivien,bu,62.77,64.75,65.15
+europe_lau,Bürglen (TG),burglen_tg,bu,40.59,50.49,43.11
+europe_lau,Buellas,buellas,bu,52.89,70,78.74
+europe_lau,Buseno,buseno,bu,29.47,47.19,62.36
+europe_lau,Bugarach,bugarach,bu,37.7,51.75,1.21
+europe_lau,Büttenhardt,buttenhardt,bu,45.34,63.89,83.75
+europe_lau,Burie,burie,bu,60.6,73.65,22.19
+europe_lau,Bussac-sur-Charente,bussac_sur_charente,bu,60.24,77.46,75.91
+europe_lau,Bussac-Forêt,bussac_foret,bu,35.94,56.22,94.52
+europe_lau,Bué,bue,bu,36.06,61.14,96.91
+europe_lau,Bussy,bussy,bu,38.44,63.94,96.75
+europe_lau,Büttikon,buttikon,bu,52.59,62.84,44.11
+europe_lau,Buchegg,buchegg,bu,43.22,61,-9.6
+europe_lau,Büren (SO),buren_so,bu,42,58.04,87.05
+europe_lau,Bubendorf,bubendorf,bu,52.76,66.91,82.42
+europe_lau,Buchillon,buchillon,bu,20.49,47.07,-39.72
+europe_lau,Bussigny,bussigny,bu,54.59,68.16,39.74
+europe_lau,Bussy-Chardonney,bussy_chardonney,bu,50.45,68.53,-5.87
+europe_lau,Busset,busset,bu,45.65,60.12,91.58
+europe_lau,Buxières-les-Mines,buxieres_les_mines,bu,55.52,62.39,35.36
+europe_lau,Bullet,bullet,bu,49.78,70.23,66.35
+europe_lau,Bueil,bueil,bu,58.41,72.65,72.57
+europe_lau,Burey,burey,bu,45.63,75.48,99.59
+europe_lau,Buchberg,buchberg,bu,36.05,59.98,95.44
+europe_lau,Bussac,bussac,bu,55.32,61.76,79.82
+europe_lau,Busserolles,busserolles,bu,53.5,65.54,64.54
+europe_lau,Bucey-en-Othe,bucey_en_othe,bu,32.57,62.94,54.82
+europe_lau,Buchères,bucheres,bu,54.88,64.8,34.86
+europe_lau,Buxeuil,buxeuil,bu,32.35,53.74,-23.39
+europe_lau,Buxières-sur-Arce,buxieres_sur_arce,bu,56,69.5,80.71
+europe_lau,Bucilly,bucilly,bu,22.07,49.15,87.63
+europe_lau,Buissard,buissard,bu,54.61,71.77,83.63
+europe_lau,Buckten,buckten,bu,54.63,67.87,60.92
+europe_lau,Buus,buus,bu,63.21,67.85,52.19
+europe_lau,Bussière-Badil,bussiere_badil,bu,56.54,61.55,76.69
+europe_lau,Buch (SH),buch_sh,bu,48.28,74.48,72.48
+europe_lau,Bucy-le-Long,bucy_le_long,bu,47.19,65.22,47.75
+europe_lau,Bucy-lès-Cerny,bucy_les_cerny,bu,30,67.27,-111.22
+europe_lau,Bucy-lès-Pierrepont,bucy_les_pierrepont,bu,48.23,60.74,44.32
+europe_lau,Buire,buire,bu,60.06,68.49,46.7
+europe_lau,Buironfosse,buironfosse,bu,62.81,66.24,58.21
+europe_lau,Burelles,burelles,bu,45.83,65.87,17.79
+europe_lau,Bussiares,bussiares,bu,53.7,79.37,97.42
+europe_lau,Buzancy,buzancy,bu,50.6,70.99,77.57
+europe_lau,Bulson,bulson,bu,53.4,67,72.81
+europe_lau,Buzancy,buzancy,bu,44.87,58.52,38.73
+europe_lau,Bühler,buhler,bu,38.15,68.88,6.77
+europe_lau,Burg im Leimental,burg_im_leimental,bu,50.22,69.77,30.12
+europe_lau,Büsserach,busserach,bu,44.59,71.47,-37.66
+europe_lau,Bubierca,bubierca,bu,31.3,57.77,56.38
+europe_lau,Bujaraloz,bujaraloz,bu,41.27,68.88,81.89
+europe_lau,Bulbuente,bulbuente,bu,63.43,71.75,46.61
+europe_lau,Bureta,bureta,bu,33.26,64.77,86.4
+europe_lau,"Burgo de Ebro, El",burgo_de_ebro_el,bu,21.84,61.31,7.47
+europe_lau,"Buste, El",buste_el,bu,48.45,68.41,18.78
+europe_lau,Buñuel,bunuel,bu,37.56,53.19,-13.58
+europe_lau,Burgui,burgui,bu,64.13,70.64,39.09
+europe_lau,Burlada,burlada,bu,46.31,63.43,72.55
+europe_lau,"Busto, El",busto_el,bu,36.45,68.55,89.18
+europe_lau,Burzet,burzet,bu,54.7,67.44,39.04
+europe_lau,Bucéels,buceels,bu,53.4,72.97,86.73
+europe_lau,Buchs (AG),buchs_ag,bu,38.36,65.02,4.56
+europe_lau,Burganes de Valverde,burganes_de_valverde,bu,47.91,64.63,40.23
+europe_lau,Bustillo del Oro,bustillo_del_oro,bu,40.03,62.33,-15.52
+europe_lau,Burela,burela,bu,48.86,71.08,70.1
+europe_lau,Buitrago del Lozoya,buitrago_del_lozoya,bu,51.49,63.82,61.01
+europe_lau,Bustarviejo,bustarviejo,bu,66.61,69.22,51.8
+europe_lau,Buenaventura,buenaventura,bu,51.46,66.77,34.05
+europe_lau,Burguillos de Toledo,burguillos_de_toledo,bu,56.5,73.5,79.63
+europe_lau,Burujón,burujon,bu,38.36,49.81,88.92
+europe_lau,Bütschwil-Ganterschwil,butschwil_ganterschwil,bu,43.22,58.09,73.89
+europe_lau,Bulle,bulle,bu,37.27,47.2,58.78
+europe_lau,Büron,buron,bu,53.94,78.6,76.01
+europe_lau,Buttisholz,buttisholz,bu,55.61,75.82,62.14
+europe_lau,Burguillos,burguillos,bu,61.55,77.04,74.2
+europe_lau,Bühl,buhl,bu,65.71,76.9,74.15
+europe_lau,Bustillo de Chaves,bustillo_de_chaves,bu,54.74,72.31,-6.71
+europe_lau,Bürglen (UR),burglen_ur,bu,23.71,44.42,13.04
+europe_lau,Bueu,bueu,bu,45.42,55.97,11.49
+europe_lau,Burgistein,burgistein,bu,59.58,67.91,24.25
+europe_lau,Burret,burret,bu,35.31,54.03,97.76
+europe_lau,Buzan,buzan,bu,54.1,62.79,59.54
+europe_lau,Buenavista del Norte,buenavista_del_norte,bu,45.03,56.46,78.82
+europe_lau,Bueña,buena,bu,64.97,69.64,55.68
+europe_lau,Burbáguena,burbaguena,bu,34.42,63.75,60.1
+europe_lau,"Burgo Ranero, El",burgo_ranero_el,bu,50.25,60.33,82.4
+europe_lau,Burón,buron,bu,33.6,50.37,-26.93
+europe_lau,Bustillo del Páramo,bustillo_del_paramo,bu,58.96,65.59,54.73
+europe_lau,Buberos,buberos,bu,52.94,62.9,30.15
+europe_lau,Buitrago,buitrago,bu,54.7,75.19,39.23
+europe_lau,Burgo de Osma-Ciudad de Osma,burgo_de_osma_ciudad_de_osma,bu,44.15,48.9,53.42
+europe_lau,"Burgo, El",burgo_el,bu,52.02,61.28,73.29
+europe_lau,Buochs,buochs,bu,54.76,65.28,41.31
+europe_lau,Bufali,bufali,bu,23.18,67.17,95.52
+europe_lau,Bugarra,bugarra,bu,33.5,62.35,92.66
+europe_lau,Buñol,bunol,bu,32.35,50.29,-24.07
+europe_lau,Burjassot,burjassot,bu,60.3,85.23,47.64
+europe_lau,Buenamadre,buenamadre,bu,43.26,59.27,4.49
+europe_lau,Buenavista,buenavista,bu,39.43,65.13,65.11
+europe_lau,Buchrain,buchrain,bu,46.47,62.21,60.59
+europe_lau,Bullas,bullas,bu,41.77,65.98,92.05
+europe_lau,Bulligny,bulligny,bu,63.42,76.29,51.41
+europe_lau,Bures,bures,bu,66.09,74.46,32.36
+europe_lau,Buriville,buriville,bu,58.65,73.34,40.63
+europe_lau,Burthecourt-aux-Chênes,burthecourt_aux_chenes,bu,38.33,48.34,64.77
+europe_lau,Busloup,busloup,bu,50.41,66.2,91.49
+europe_lau,Buzet-sur-Baïse,buzet_sur_baise,bu,50.32,69.82,86.05
+europe_lau,Bulhon,bulhon,bu,51.39,63.02,30.59
+europe_lau,Busséol,busseol,bu,56.47,76.94,48.49
+europe_lau,Bussières,bussieres,bu,30.23,66.17,82.28
+europe_lau,Bussières-et-Pruns,bussieres_et_pruns,bu,65.19,67.27,44.31
+europe_lau,Buxières-sous-Montaigut,buxieres_sous_montaigut,bu,64.5,70.42,41.54
+europe_lau,Bû,bu,bu,57.7,63.47,37
+europe_lau,Bullainville,bullainville,bu,62.19,62.24,37.13
+europe_lau,Buchy,buchy,bu,42.98,60.96,49.8
+europe_lau,Bugnières,bugnieres,bu,33.15,49.64,98.55
+europe_lau,Busson,busson,bu,56.55,65.97,60.37
+europe_lau,Buxières-lès-Clefmont,buxieres_les_clefmont,bu,35.16,65.34,89.02
+europe_lau,Buxières-lès-Villiers,buxieres_les_villiers,bu,28.54,45.29,84.4
+europe_lau,Buding,buding,bu,52.26,70.28,70.35
+europe_lau,Budling,budling,bu,40.07,67.65,-14.9
+europe_lau,Buhl-Lorraine,buhl_lorraine,bu,41.39,62.02,76.83
+europe_lau,Burlioncourt,burlioncourt,bu,52.5,56.1,67.65
+europe_lau,Burtoncourt,burtoncourt,bu,59,71.54,12.5
+europe_lau,Bussy-sur-Moudon,bussy_sur_moudon,bu,55.55,84.74,34.37
+europe_lau,Buais-Les-Monts,buais_les_monts,bu,43.21,51.74,75.7
+europe_lau,Bussy-le-Château,bussy_le_chateau,bu,27.98,57.77,83.18
+europe_lau,Bussy-le-Repos,bussy_le_repos,bu,59.51,67.42,42.56
+europe_lau,Bussy-Lettrée,bussy_lettree,bu,35.27,62.62,17.68
+europe_lau,Bucy-le-Roi,bucy_le_roi,bu,40.59,50.46,83.38
+europe_lau,Bucy-Saint-Liphard,bucy_saint_liphard,bu,56.44,62.42,53.67
+europe_lau,Burgschleinitz-Kühnring,burgschleinitz_kuhnring,bu,62.07,63.69,52.09
+europe_lau,Bully,bully,bu,40.26,69.23,-40.97
+europe_lau,Burdignes,burdignes,bu,32.5,48.96,22.59
+europe_lau,Bussières,bussieres,bu,63.29,63.35,67.97
+europe_lau,Bussy-Albieux,bussy_albieux,bu,47.27,80.05,-24.03
+europe_lau,Bure,bure,bu,63.19,73.2,59.24
+europe_lau,Buissoncourt,buissoncourt,bu,30.95,52.72,91.77
+europe_lau,Burcin,burcin,bu,31.51,59.81,73.7
+europe_lau,Bürchen,burchen,bu,40.63,52.6,87.55
+europe_lau,Bunzac,bunzac,bu,59.83,77.45,36.46
+europe_lau,Buis-les-Baronnies,buis_les_baronnies,bu,45.22,55.21,79.57
+europe_lau,Buanes,buanes,bu,38.38,59.7,96.7
+europe_lau,Budos,budos,bu,45.44,66.77,-5.82
+europe_lau,Burg (AG),burg_ag,bu,45.67,73.51,87.91
+europe_lau,Burgalays,burgalays,bu,55.71,74.56,78.56
+europe_lau,Buvilly,buvilly,bu,61.21,76,69.47
+europe_lau,Buzignargues,buzignargues,bu,38.18,66.48,49.36
+europe_lau,Buzet-sur-Tarn,buzet_sur_tarn,bu,59.22,67.07,44.66
+europe_lau,Bueil-en-Touraine,bueil_en_touraine,bu,37.59,66.18,82.38
+europe_lau,Buffon,buffon,bu,36.9,60.98,76.27
+europe_lau,Buncey,buncey,bu,37.15,61.09,7.05
+europe_lau,Bure-les-Templiers,bure_les_templiers,bu,61.44,60.21,54.73
+europe_lau,Busseaut,busseaut,bu,36.36,59.11,70.47
+europe_lau,Busserotte-et-Montenaille,busserotte_et_montenaille,bu,38.15,53.1,89.74
+europe_lau,Bussières,bussieres,bu,26.91,53.71,90.51
+europe_lau,Bussy-la-Pesle,bussy_la_pesle,bu,28.8,60.38,93.2
+europe_lau,Bussy-le-Grand,bussy_le_grand,bu,62.95,67.07,63.87
+europe_lau,Buxerolles,buxerolles,bu,36.29,51.81,-6.25
+europe_lau,Budelière,budeliere,bu,48.5,55.61,65.31
+europe_lau,Bussière-Dunoise,bussiere_dunoise,bu,55.58,69.83,1.26
+europe_lau,Bussière-Nouvelle,bussiere_nouvelle,bu,33.64,62.69,57.71
+europe_lau,Bussière-Saint-Georges,bussiere_saint_georges,bu,57.44,62.03,51.65
+europe_lau,Bursinel,bursinel,bu,66.42,72.45,63.47
+europe_lau,Bursins,bursins,bu,28.38,76.71,91.74
+europe_lau,Burtigny,burtigny,bu,50.37,65.21,76.74
+europe_lau,Bustanico,bustanico,bu,40.93,67.23,-16.37
+europe_lau,Buxeuil,buxeuil,bu,34.17,54.87,62.69
+europe_lau,Buxières-d'Aillac,buxieres_d_aillac,bu,55.23,72.33,25.06
+europe_lau,Buzançais,buzancais,bu,42.96,67.23,97.27
+europe_lau,Buno-Bonnevaux,buno_bonnevaux,bu,50.91,60.78,81.8
+europe_lau,Bures-sur-Yvette,bures_sur_yvette,bu,45.59,59.52,83.56
+europe_lau,Buigny-l'Abbé,buigny_l_abbe,bu,60.1,68.12,56.65
+europe_lau,Buigny-lès-Gamaches,buigny_les_gamaches,bu,41.25,58.23,90.88
+europe_lau,Buigny-Saint-Maclou,buigny_saint_maclou,bu,49.4,58.9,27.84
+europe_lau,Buire-Courcelles,buire_courcelles,bu,29.23,57.09,72.28
+europe_lau,Buire-sur-l'Ancre,buire_sur_l_ancre,bu,55.12,79.64,92.15
+europe_lau,Bus-la-Mésière,bus_la_mesiere,bu,67.47,72.61,76.17
+europe_lau,Bus-lès-Artois,bus_les_artois,bu,47.58,67.14,93.12
+europe_lau,Bussu,bussu,bu,68.01,75.61,33.84
+europe_lau,Bussus-Bussuel,bussus_bussuel,bu,67.84,69.75,62.92
+europe_lau,Bussy-lès-Daours,bussy_les_daours,bu,57.66,84.07,38.19
+europe_lau,Bussy-lès-Poix,bussy_les_poix,bu,26.8,69.68,86.38
+europe_lau,Buverchy,buverchy,bu,26.35,57.85,93.38
+europe_lau,Buk,buk,bu,40.24,52.52,75.35
+europe_lau,Budiměřice,budimerice,bu,37.84,61.3,19.85
+europe_lau,Bugard,bugard,bu,44.2,70.78,90.86
+europe_lau,Bulan,bulan,bu,48.17,73.78,65.8
+europe_lau,Bun,bun,bu,36.7,52.12,83.48
+europe_lau,Burg,burg,bu,52.43,68.16,82.92
+europe_lau,Buzon,buzon,bu,44.96,58.24,75.59
+europe_lau,Bujaleuf,bujaleuf,bu,65.87,72.43,50.92
+europe_lau,Burgnac,burgnac,bu,34.42,53.33,55.53
+europe_lau,Bussière-Galant,bussiere_galant,bu,45.81,50.78,58.92
+europe_lau,Buchy,buchy,bu,34.19,45.25,-3.19
+europe_lau,Bully,bully,bu,42.21,66.05,18.65
+europe_lau,Bures-en-Bray,bures_en_bray,bu,49.16,63.74,25.59
+europe_lau,Butot,butot,bu,42.64,49.99,44.93
+europe_lau,Budinščina,budinscina,bu,45.1,56.57,89.47
+europe_lau,Buc,buc,bu,40.81,60.52,76.21
+europe_lau,Buchelay,buchelay,bu,50.07,61.89,37.05
+europe_lau,Bullion,bullion,bu,39.72,54.28,63.17
+europe_lau,Buffières,buffieres,bu,54.6,60.7,76.31
+europe_lau,Burgy,burgy,bu,41.16,72.24,75.49
+europe_lau,Burnand,burnand,bu,66.26,76.18,59
+europe_lau,Burzy,burzy,bu,48.14,75.24,1.2
+europe_lau,Bussières,bussieres,bu,63.14,77.73,44.51
+europe_lau,Buxy,buxy,bu,25.23,52.35,-105.48
+europe_lau,Buje - Buie,buje_buie,bu,28.89,35.86,29.49
+europe_lau,Buzet,buzet,bu,56.92,68.36,25.82
+europe_lau,Buhy,buhy,bu,62.68,76.45,52.19
+europe_lau,Butry-sur-Oise,butry_sur_oise,bu,50,59.02,30.44
+europe_lau,Buisson,buisson,bu,55.74,72.83,40.23
+europe_lau,Buoux,buoux,bu,40.26,61,69.44
+europe_lau,Buxerolles,buxerolles,bu,53.9,68.24,50.74
+europe_lau,Buxeuil,buxeuil,bu,50.42,70.49,38.12
+europe_lau,Burlats,burlats,bu,39.84,53.85,9.69
+europe_lau,Busque,busque,bu,58.32,71.67,10.01
+europe_lau,Bully,bully,bu,67.5,71.13,60.88
+europe_lau,Buc,buc,bu,51.32,68.26,92.29
+europe_lau,Bušín,busin,bu,44.54,51.26,66.16
+europe_lau,Buková u Příbramě,bukova_u_pribrame,bu,31.68,53.03,92.31
+europe_lau,Bussières,bussieres,bu,43.06,61.03,16.7
+europe_lau,Bussy-en-Othe,bussy_en_othe,bu,49.94,61.32,73.61
+europe_lau,Bussy-le-Repos,bussy_le_repos,bu,35.87,64.74,25.44
+europe_lau,Butteaux,butteaux,bu,35.02,60.79,68
+europe_lau,Buš,bus,bu,51.6,61.64,47.18
+europe_lau,Bulgnéville,bulgneville,bu,33.33,54.75,97.89
+europe_lau,Bult,bult,bu,42.16,59.58,44.66
+europe_lau,Bussang,bussang,bu,43.49,61.52,25.77
+europe_lau,Bukovany,bukovany,bu,55.65,75.99,36.43
+europe_lau,Bucamps,bucamps,bu,32.58,51.39,-13.46
+europe_lau,Buicourt,buicourt,bu,60.32,70.06,60.83
+europe_lau,Bulles,bulles,bu,48.86,64.51,60.59
+europe_lau,Bury,bury,bu,49.27,66.11,77.5
+europe_lau,Bussy,bussy,bu,66.86,80.88,61.65
+europe_lau,Bucey-lès-Gy,bucey_les_gy,bu,48.24,61.56,47.27
+europe_lau,Bucey-lès-Traves,bucey_les_traves,bu,53.41,67.26,43.62
+europe_lau,Buffignécourt,buffignecourt,bu,61.63,68.65,48.12
+europe_lau,Bussières,bussieres,bu,46.4,67.91,81.57
+europe_lau,Buthiers,buthiers,bu,45.38,68.26,81.53
+europe_lau,Bure,bure,bu,41.71,63.06,76.91
+europe_lau,Burey-en-Vaux,burey_en_vaux,bu,38.12,47.79,7.74
+europe_lau,Burey-la-Côte,burey_la_cote,bu,41.84,66.32,-19.82
+europe_lau,Buxières-sous-les-Côtes,buxieres_sous_les_cotes,bu,46.47,60.87,15.71
+europe_lau,Buzy-Darmont,buzy_darmont,bu,28.11,54.04,67.88
+europe_lau,Bukovno,bukovno,bu,51.27,61.79,51.34
+europe_lau,Bucquoy,bucquoy,bu,56.57,63.52,38.93
+europe_lau,Buire-au-Bois,buire_au_bois,bu,61.62,69.62,59.04
+europe_lau,Buire-le-Sec,buire_le_sec,bu,48.59,67.11,21.59
+europe_lau,Buissy,buissy,bu,47.41,58,78.6
+europe_lau,Bullecourt,bullecourt,bu,59.29,76.75,60.86
+europe_lau,Bully-les-Mines,bully_les_mines,bu,58.18,70.92,59.95
+europe_lau,Buneville,buneville,bu,52.96,71.7,26.76
+europe_lau,Burbure,burbure,bu,68.05,75.92,57.43
+europe_lau,Bus,bus,bu,40.92,62.3,66.95
+europe_lau,Busnes,busnes,bu,43.95,57.54,63.58
+europe_lau,Bukovec,bukovec,bu,26.75,48.4,92.38
+europe_lau,Bugnein,bugnein,bu,32.84,54.89,28.1
+europe_lau,Bunus,bunus,bu,58.56,64.24,44.87
+europe_lau,Burgaronne,burgaronne,bu,51.55,69.25,84.1
+europe_lau,Buros,buros,bu,55.88,69.87,43.29
+europe_lau,Burosse-Mendousse,burosse_mendousse,bu,49.14,74.42,77.65
+europe_lau,Bussunarits-Sarrasquette,bussunarits_sarrasquette,bu,36.12,67.48,-51.27
+europe_lau,Bustince-Iriberry,bustince_iriberry,bu,32.61,55.46,94.92
+europe_lau,Buziet,buziet,bu,29.84,72.02,69.38
+europe_lau,Buzy,buzy,bu,28.83,60.41,42.93
+europe_lau,Bubry,bubry,bu,41.42,63.61,94.5
+europe_lau,Buléon,buleon,bu,56.64,71.82,88.02
+europe_lau,Buré,bure,bu,64.74,73.16,74.91
+europe_lau,Bures,bures,bu,38.45,67.57,-8.23
+europe_lau,Bursard,bursard,bu,70.02,70.01,55.03
+europe_lau,Burdignin,burdignin,bu,39.45,65.21,96.75
+europe_lau,Buzice,buzice,bu,47.3,70.53,2.4
+europe_lau,Buswiller,buswiller,bu,51.26,70.04,10.43
+europe_lau,Buhl,buhl,bu,64.57,76.7,46.23
+europe_lau,Burbach,burbach,bu,50.72,74.06,85.81
+europe_lau,Bust,bust,bu,44.5,67.74,54.49
+europe_lau,Butten,butten,bu,37.35,65.92,-49.13
+europe_lau,Bubovice,bubovice,bu,34.16,54.6,6.87
+europe_lau,Buk,buk,bu,45.13,67,87.26
+europe_lau,Butot-Vénesville,butot_venesville,bu,47.85,73.37,51.85
+europe_lau,Budišov nad Budišovkou,budisov_nad_budisovkou,bu,39.65,50.16,70.26
+europe_lau,Bukovník,bukovnik,bu,56.23,74.88,90.81
+europe_lau,Buethwiller,buethwiller,bu,35.68,51.5,36
+europe_lau,Buhl,buhl,bu,46.1,62.57,30.15
+europe_lau,Burnhaupt-le-Bas,burnhaupt_le_bas,bu,41.44,54.44,23.68
+europe_lau,Burnhaupt-le-Haut,burnhaupt_le_haut,bu,61.61,71.86,15.73
+europe_lau,Buschwiller,buschwiller,bu,48.97,60.17,79.86
+europe_lau,Bugnicourt,bugnicourt,bu,54.05,64.03,69.27
+europe_lau,Busigny,busigny,bu,55.19,66.09,44.49
+europe_lau,Buysscheure,buysscheure,bu,54.22,73.32,49.51
+europe_lau,Burcy,burcy,bu,48.48,64.67,82.41
+europe_lau,Bussières,bussieres,bu,42.28,64.78,63.24
+europe_lau,Bussy-Saint-Georges,bussy_saint_georges,bu,35.86,46.68,57.21
+europe_lau,Bussy-Saint-Martin,bussy_saint_martin,bu,29.85,56.44,-12.59
+europe_lau,Buthiers,buthiers,bu,54.97,63.51,36.99
+europe_lau,Bulcy,bulcy,bu,40.13,75.06,91.76
+europe_lau,Bussy-la-Pesle,bussy_la_pesle,bu,36.11,62.04,91.89
+europe_lau,Buštěhrad,bustehrad,bu,46.48,72.16,-5.89
+europe_lau,Bublava,bublava,bu,33.14,65.34,92.91
+europe_lau,Buja,buja,bu,57.92,79.84,68.39
+europe_lau,Buttrio,buttrio,bu,62.13,75.8,88.28
+europe_lau,Budětice,budetice,bu,43.25,65.9,17.93
+europe_lau,Bukovec,bukovec,bu,43.85,57.7,24.5
+europe_lau,Burago di Molgora,burago_di_molgora,bu,63.68,75.94,53.22
+europe_lau,Bukovany,bukovany,bu,48.09,67.65,13.34
+europe_lau,Budry,budry,bu,45.77,64.71,26.59
+europe_lau,Budkov,budkov,bu,55.75,77.23,36.12
+europe_lau,Bussi sul Tirino,bussi_sul_tirino,bu,54.83,65.75,66.33
+europe_lau,Burgio,burgio,bu,42.88,58.99,55.42
+europe_lau,Butera,butera,bu,47.56,67.12,21.8
+europe_lau,Buggiano,buggiano,bu,20.62,51.14,90.27
+europe_lau,Busnago,busnago,bu,52.15,66.22,59.36
+europe_lau,Butoves,butoves,bu,47.59,66.13,-4.82
+europe_lau,Burgauberg-Neudauberg,burgauberg_neudauberg,bu,32.13,66.82,95.2
+europe_lau,Bucchianico,bucchianico,bu,51.89,62.52,65.69
+europe_lau,Budyně,budyne,bu,30.69,44.62,36.17
+europe_lau,Buccino,buccino,bu,36.5,49.65,88.87
+europe_lau,Buonabitacolo,buonabitacolo,bu,41.22,75.97,97.29
+europe_lau,Buti,buti,bu,70.91,73.44,38.14
+europe_lau,Bucine,bucine,bu,54.13,66.63,87.65
+europe_lau,Buggerru,buggerru,bu,55.56,60.91,52.51
+europe_lau,Burcei,burcei,bu,62.16,68.65,65.87
+europe_lau,Buseto Palizzolo,buseto_palizzolo,bu,42.38,70.05,40.24
+europe_lau,Bukowiec,bukowiec,bu,74.05,69.63,57.79
+europe_lau,Bušanovice,busanovice,bu,51.61,66.64,56.67
+europe_lau,Bussolengo,bussolengo,bu,29.13,48.31,-1.69
+europe_lau,Buttapietra,buttapietra,bu,53.07,64.6,69.03
+europe_lau,Busso,busso,bu,47.81,65.03,34.88
+europe_lau,Buglio in Monte,buglio_in_monte,bu,20.9,42.13,98.39
+europe_lau,Bujesily,bujesily,bu,48.13,56.66,59.02
+europe_lau,Bušovice,busovice,bu,58.78,64.17,65.26
+europe_lau,Bukovany,bukovany,bu,64.26,81.04,30.27
+europe_lau,Bučí,buci,bu,66.31,76.6,41.69
+europe_lau,Bukowsko,bukowsko,bu,58.54,63.24,73.75
+europe_lau,Budzyń,budzyn,bu,49.55,61.67,14.66
+europe_lau,Bubbiano,bubbiano,bu,50.6,59.07,63.47
+europe_lau,Buscate,buscate,bu,45.16,71.57,81.62
+europe_lau,Bussero,bussero,bu,66.86,72.29,65.84
+europe_lau,Busto Garolfo,busto_garolfo,bu,50.22,70.69,20.08
+europe_lau,Budčeves,budceves,bu,52.66,64.87,66.1
+europe_lau,Bugnara,bugnara,bu,39.05,54.74,94.45
+europe_lau,Buk,buk,bu,39.07,54.3,83.47
+europe_lau,Búcsúszentlászló,bucsuszentlaszlo,bu,32.33,58.94,98.73
+europe_lau,Buguggiate,buguggiate,bu,27.15,45.53,83.82
+europe_lau,Busto Arsizio,busto_arsizio,bu,56.7,68.66,86.66
+europe_lau,Buncrana,buncrana,bu,42.58,50.06,74.92
+europe_lau,Bükkszék,bukkszek,bu,47.47,55.7,54.4
+europe_lau,Budakeszi,budakeszi,bu,57.8,72.65,75.97
+europe_lau,Busca,busca,bu,36.84,47.3,-3.39
+europe_lau,Bürüs,burus,bu,60.13,65.76,51.32
+europe_lau,Bucsuta,bucsuta,bu,27.23,49.24,94.1
+europe_lau,Bükkszentkereszt,bukkszentkereszt,bu,38.34,68.79,-61.54
+europe_lau,Buchbach,buchbach,bu,49.84,63.11,57.12
+europe_lau,Budajenő,budajeno,bu,49.42,89.04,34.85
+europe_lau,Bugyi,bugyi,bu,25.4,55.62,92.36
+europe_lau,Buzsák,buzsak,bu,43.44,73.31,90.58
+europe_lau,Bukovice,bukovice,bu,44.7,56.83,85.46
+europe_lau,Büssü,bussu,bu,48.85,65.56,90.79
+europe_lau,Bükkszentmárton,bukkszentmarton,bu,35.31,60.91,98.29
+europe_lau,Busseto,busseto,bu,41.25,53.13,66.03
+europe_lau,Bükkösd,bukkosd,bu,45.59,66.4,70.24
+europe_lau,Budaörs,budaors,bu,34.51,50.23,33.21
+europe_lau,Budakalász,budakalasz,bu,26.06,54.05,-74.99
+europe_lau,Bulgarograsso,bulgarograsso,bu,44.81,57.85,38.76
+europe_lau,Buková,bukova,bu,48.11,60.57,0.24
+europe_lau,Bucsa,bucsa,bu,50.87,70.73,10.67
+europe_lau,Budapest,budapest,bu,58.95,60.42,52.38
+europe_lau,Bükkábrány,bukkabrany,bu,56.5,76.86,35.49
+europe_lau,Buonconvento,buonconvento,bu,50.35,59.56,46.57
+europe_lau,Bugac,bugac,bu,42.71,54.92,33.28
+europe_lau,Buják,bujak,bu,41.52,65.27,90.25
+europe_lau,Bürg-Vöstenhof,burg_vostenhof,bu,19.8,55.19,-98.83
+europe_lau,Buronzo,buronzo,bu,41.02,68.55,48.96
+europe_lau,Bubbio,bubbio,bu,40.68,61.26,97.2
+europe_lau,Buttigliera d'Asti,buttigliera_d_asti,bu,57.03,71.31,32.86
+europe_lau,Bükkaranyos,bukkaranyos,bu,44.98,78.76,80.7
+europe_lau,Büttös,buttos,bu,61.2,73.21,37.63
+europe_lau,Budrio,budrio,bu,41.54,58.44,81.76
+europe_lau,Buonvicino,buonvicino,bu,40.23,68.22,-45.73
+europe_lau,Bükkzsérc,bukkzserc,bu,25.85,53.99,92.7
+europe_lau,Bucsu,bucsu,bu,55.75,67.39,57.66
+europe_lau,Bugacpusztaháza,bugacpusztahaza,bu,60.93,68.46,46.75
+europe_lau,Bükkszenterzsébet,bukkszenterzsebet,bu,25.38,46.81,97
+europe_lau,Bucciano,bucciano,bu,56.15,64.95,42.15
+europe_lau,Buonalbergo,buonalbergo,bu,30.51,52.24,93.31
+europe_lau,Busalla,busalla,bu,26.84,56.01,53.77
+europe_lau,Bujanov,bujanov,bu,46.23,52.71,56.57
+europe_lau,Bukovlje,bukovlje,bu,41.93,55.64,80.96
+europe_lau,Bükkmogyorósd,bukkmogyorosd,bu,54.54,60.2,70.11
+europe_lau,Buj,buj,bu,54.68,70.11,64.8
+europe_lau,Budislav,budislav,bu,47.82,60.27,84.85
+europe_lau,Budíkov,budikov,bu,64.91,80.93,53.14
+europe_lau,Budeč,budec,bu,42.96,62.62,99.61
+europe_lau,Budíškovice,budiskovice,bu,56.37,63.19,44.71
+europe_lau,Buriasco,buriasco,bu,49.9,69.6,-6.63
+europe_lau,Busano,busano,bu,25.6,62.23,77.2
+europe_lau,Bussoleno,bussoleno,bu,24.34,52.85,84.8
+europe_lau,Buttigliera Alta,buttigliera_alta,bu,61.1,78.8,67.37
+europe_lau,Bük,buk,bu,54.51,61.43,69.82
+europe_lau,Bukvice,bukvice,bu,41.98,58.97,79.57
+europe_lau,Bukovce,bukovce,bu,58.27,65.89,52.22
+europe_lau,Budacu de Jos,budacu_de_jos,bu,43.14,62.04,42.46
+europe_lau,Budeşti,budesti,bu,38.72,51.51,90.1
+europe_lau,Buza,buza,bu,38.11,58.13,-24.77
+europe_lau,Bujanovac,bujanovac,bu,36.9,48.83,86.2
+europe_lau,Bulhary,bulhary,bu,57.46,75.02,54.82
+europe_lau,Budince,budince,bu,56.67,70.17,53.65
+europe_lau,Bumbeşti-Piţic,bumbesti_pitic,bu,38.42,54.09,32.33
+europe_lau,Bustuchin,bustuchin,bu,52.33,69.57,84.97
+europe_lau,Budča,budca,bu,41.43,59.11,-4.58
+europe_lau,Budkovce,budkovce,bu,46.5,64.33,29.92
+europe_lau,Bunkovce,bunkovce,bu,60.33,71.54,61.63
+europe_lau,Bukovec (okres Myjava),bukovec_okres_myjava,bu,43.03,63.14,92.68
+europe_lau,Bucium,bucium,bu,60.64,68.59,49.11
+europe_lau,Bukovina,bukovina,bu,48.45,61.68,28.91
+europe_lau,Bugalhos,bugalhos,bu,47.13,63.87,87.45
+europe_lau,Budikovany,budikovany,bu,33.39,58.86,83.08
+europe_lau,Bušovce,busovce,bu,32.22,55.96,21.64
+europe_lau,Buclovany,buclovany,bu,41.46,48.53,55
+europe_lau,Budila,budila,bu,47.35,67.2,44.78
+europe_lau,Buneşti,bunesti,bu,50.06,68.26,14.01
+europe_lau,Bucov,bucov,bu,59.13,70.84,37.89
+europe_lau,Budiná,budina,bu,33.3,54.35,65.39
+europe_lau,Buzitka,buzitka,bu,31.5,39.6,79.89
+europe_lau,Buciumeni,buciumeni,bu,39.68,54.27,48.22
+europe_lau,Bucşani,bucsani,bu,47.41,54.47,54.04
+europe_lau,Bueşti,buesti,bu,43.32,70.3,98.23
+europe_lau,Buceş,buces,bu,35.3,57.88,3.27
+europe_lau,Bucureşci,bucuresci,bu,54.04,66.97,71.07
+europe_lau,Bulzeştii de Sus,bulzestii_de_sus,bu,47.37,53.67,60.3
+europe_lau,Bunila,bunila,bu,20.68,46.06,-118.46
+europe_lau,Burjuc,burjuc,bu,45.75,62.38,54.03
+europe_lau,Bucerdea Grânoasă,bucerdea_granoasa,bu,37.82,56.4,27.63
+europe_lau,Búč,buc,bu,44.5,57.51,12.6
+europe_lau,Bucelas,bucelas,bu,45.16,60,7.23
+europe_lau,Budiš,budis,bu,39.77,64.91,58.66
+europe_lau,Bucovăţ,bucovat,bu,42.74,56.61,12.29
+europe_lau,Bulzeşti,bulzesti,bu,30.16,62.03,91.92
+europe_lau,Bughea de Sus,bughea_de_sus,bu,27.04,59.12,79.76
+europe_lau,Buhoci,buhoci,bu,40.07,57.55,92.39
+europe_lau,Buda,buda,bu,59.66,67.59,46.58
+europe_lau,Burlöv,burlov,bu,48.58,55.2,68.1
+europe_lau,Budišovice,budisovice,bu,49.3,67.88,78.42
+europe_lau,Bušince,busince,bu,30.95,59.15,85.2
+europe_lau,Bucu,bucu,bu,39.76,60.04,83.06
+europe_lau,Burgkirchen,burgkirchen,bu,49.05,60.07,70.46
+europe_lau,Bučany,bucany,bu,50.83,70.22,13.22
+europe_lau,Buková,bukova,bu,53.42,66.37,24.65
+europe_lau,Budmerice,budmerice,bu,44.33,62.34,8.96
+europe_lau,Bulkowo,bulkowo,bu,46.63,62.49,7.96
+europe_lau,Buciumi,buciumi,bu,32.73,52.65,98.56
+europe_lau,Budureasa,budureasa,bu,35.97,45.13,37.29
+europe_lau,Buduslău,buduslau,bu,51.18,65.18,37.49
+europe_lau,Bulz,bulz,bu,36.54,56.4,58.38
+europe_lau,Bunteşti,buntesti,bu,37.68,43.21,40.03
+europe_lau,Buchin,buchin,bu,28.62,49.49,20.33
+europe_lau,Bucoşniţa,bucosnita,bu,34.63,61.74,-17.44
+europe_lau,Buciumeni,buciumeni,bu,32.4,57.01,97.98
+europe_lau,Butea,butea,bu,56.7,63.24,64.78
+europe_lau,Budimír,budimir,bu,42.2,55.59,89.38
+europe_lau,Bukovec (okres Košice - okolie),bukovec_okres_kosice_okolie,bu,53.39,65.1,51.09
+europe_lau,Bunetice,bunetice,bu,45.07,62.59,98.59
+europe_lau,Buzica,buzica,bu,30.98,54.52,76.64
+europe_lau,Buglovce,buglovce,bu,53.38,76.13,14.38
+europe_lau,Buneşti,bunesti,bu,44.11,63.79,56.23
+europe_lau,Busachi,busachi,bu,52.23,64.93,36.46
+europe_lau,Budeasa,budeasa,bu,26.34,66.02,83.41
+europe_lau,Bughea de Jos,bughea_de_jos,bu,71.85,70.28,51.47
+europe_lau,Buzoeşti,buzoesti,bu,56.24,62.19,59.48
+europe_lau,Budeşti,budesti,bu,55,60.45,54.26
+europe_lau,Buneşti-Avereşti,bunesti_averesti,bu,35.34,64.05,93.9
+europe_lau,Bunheiro,bunheiro,bu,47.51,62.65,19.61
+europe_lau,Burla,burla,bu,64.16,78.34,63.68
+europe_lau,Bujoreni,bujoreni,bu,49.81,52.13,57.09
+europe_lau,Bujoru,bujoru,bu,42.57,51.08,20.6
+europe_lau,Buzescu,buzescu,bu,27.18,55.77,65.66
+europe_lau,Bustelo,bustelo,bu,55.89,64,38.8
+europe_lau,Budens,budens,bu,39.47,52.5,82.38
+europe_lau,Burila Mare,burila_mare,bu,45.12,62.49,68.11
+europe_lau,Butoieşti,butoiesti,bu,59.05,64.1,23.8
+europe_lau,Buccheri,buccheri,bu,30.2,46.64,72.25
+europe_lau,Buscemi,buscemi,bu,43.72,50.96,43.22
+europe_lau,Buddusò,budduso,bu,52.7,59.51,53.87
+europe_lau,Bultei,bultei,bu,49.03,57.33,60.8
+europe_lau,Bulzi,bulzi,bu,65.45,68.94,57.75
+europe_lau,Burgos,burgos,bu,15.61,50.27,22.8
+europe_lau,Bulciago,bulciago,bu,60.83,78.68,11.35
+europe_lau,Burtnieku novads,burtnieku_novads,bu,47.78,60.12,34.77
+europe_lau,Budziszewice,budziszewice,bu,28.98,35.65,23.5
+europe_lau,Buczek,buczek,bu,58.34,70.79,28.21
+europe_lau,Bukowno,bukowno,bu,45.23,66.53,-9.39
+europe_lau,Buřenice,burenice,bu,49.76,62.76,80.85
+europe_lau,Бутел,butel,bu,26.57,54.04,90.76
+europe_lau,Burzenin,burzenin,bu,38.7,61.28,77.16
+europe_lau,Buciumi,buciumi,bu,48.08,56.71,31.66
+europe_lau,Bucovăţ,bucovat,bu,47.14,65.15,58.63
+europe_lau,Budzów,budzow,bu,49.3,60.44,23.6
+europe_lau,Bukowina Tatrzańska,bukowina_tatrzanska,bu,22.15,40.81,91.58
+europe_lau,Buczkowice,buczkowice,bu,61.53,74.02,31.35
+europe_lau,Budyně nad Ohří,budyne_nad_ohri,bu,36.11,52.75,-12.79
+europe_lau,Budoia,budoia,bu,32.03,66.18,74.05
+europe_lau,Buarcos e São Julião,buarcos_e_sao_juliao,bu,37.93,53.85,44.48
+europe_lau,Bucşani,bucsani,bu,42.92,65.1,29.18
+europe_lau,Bulbucata,bulbucata,bu,41.12,53.93,64.87
+europe_lau,Butimanu,butimanu,bu,52.78,59.97,32.06
+europe_lau,Buturugeni,buturugeni,bu,44.93,53.28,44.26
+europe_lau,Bustelo,bustelo,bu,47.68,60.39,62.89
+europe_lau,Buren,buren,bu,33.03,57.24,-33.13
+europe_lau,Busko-Zdrój,busko_zdroj,bu,53.05,54.74,59.43
+europe_lau,Budeşti,budesti,bu,38.51,66.62,39.87
+europe_lau,Bujoreni,bujoreni,bu,45.68,53.02,81.06
+europe_lau,Buneşti,bunesti,bu,43.45,58.21,74.11
+europe_lau,Bukovany,bukovany,bu,50.91,69.97,72.65
+europe_lau,Bucos,bucos,bu,33.79,66.52,68.13
+europe_lau,Bucinişu,bucinisu,bu,52.39,75.54,15.06
+europe_lau,Bulovka,bulovka,bu,30.85,62.85,64.37
+europe_lau,Bunnik,bunnik,bu,34.54,60.28,58.61
+europe_lau,Bunschoten,bunschoten,bu,47.08,68.84,86.71
+europe_lau,Buteni,buteni,bu,45.93,60.06,13.5
+europe_lau,Burolo,burolo,bu,39.03,63.56,97.5
+europe_lau,Budoni,budoni,bu,33.94,44.12,23.75
+europe_lau,Burgkirchen a.d.Alz,burgkirchen_a_d_alz,bu,39.8,48.9,46.54
+europe_lau,Buxheim,buxheim,bu,33.65,62.26,92.43
+europe_lau,Busto de Bureba,busto_de_bureba,bu,50.95,58.81,48.86
+europe_lau,Bussnang,bussnang,bu,41.08,56.12,38.39
+europe_lau,Buchs (SG),buchs_sg,bu,22.16,31.88,47.31
+europe_lau,Buccinasco,buccinasco,bu,35.45,54.37,96.54

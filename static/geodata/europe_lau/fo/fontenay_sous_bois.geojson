@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontenay_sous_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontenay-sous-Bois", "metric_roundness": 47.81, "metric_rectangularity": 68.89, "metric_mobile_fit": 1.23, "metric_aspect_ratio": 1.55, "metric_area_km2": 13.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.481538, 48.861405499999989 ], [ 2.4694618, 48.8603119 ], [ 2.4661317, 48.8568983 ], [ 2.4533562, 48.855110099999983 ], [ 2.447109, 48.8511515 ], [ 2.4527871, 48.8484221 ], [ 2.447848, 48.8448045 ], [ 2.4618985, 48.842642 ], [ 2.464903, 48.841406 ], [ 2.4672475, 48.839073 ], [ 2.4841119, 48.8430119 ], [ 2.491522, 48.847633499999986 ], [ 2.499719, 48.855675 ], [ 2.496395, 48.859904 ], [ 2.481538, 48.861405499999989 ] ] ] } }
+]
+}

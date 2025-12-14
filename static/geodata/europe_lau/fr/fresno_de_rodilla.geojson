@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fresno_de_rodilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fresno de Rodilla", "metric_roundness": 68.56, "metric_rectangularity": 79.18, "metric_mobile_fit": 45.58, "metric_aspect_ratio": 1.107, "metric_area_km2": 22.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.45271, 42.425979399999989 ], [ -3.4708225, 42.4388925 ], [ -3.4865893, 42.436416199999982 ], [ -3.5028395, 42.4300385 ], [ -3.5076774, 42.4239214 ], [ -3.4991407, 42.4085386 ], [ -3.501924, 42.405235 ], [ -3.4972433, 42.4019695 ], [ -3.4898085, 42.40366 ], [ -3.4743, 42.4080925 ], [ -3.466556, 42.4110415 ], [ -3.4605125, 42.4137385 ], [ -3.4572425, 42.416942 ], [ -3.4523265, 42.423218499999983 ], [ -3.45271, 42.425979399999989 ] ] ] } }
+]
+}

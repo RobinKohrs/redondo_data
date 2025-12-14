@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marest_sur_matz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marest-sur-Matz", "metric_roundness": 59.85, "metric_rectangularity": 70.26, "metric_mobile_fit": 69.44, "metric_aspect_ratio": 0.868, "metric_area_km2": 7.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8308994, 49.5083848 ], [ 2.8297865, 49.51471 ], [ 2.8165045, 49.512159 ], [ 2.809499, 49.501937499999976 ], [ 2.8206893, 49.4926514 ], [ 2.8261, 49.491344 ], [ 2.828968, 49.495608 ], [ 2.832669, 49.498961 ], [ 2.8371425, 49.498134 ], [ 2.840734, 49.5017065 ], [ 2.8308994, 49.5083848 ] ] ] } }
+]
+}

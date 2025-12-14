@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tubach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tübach", "metric_roundness": 44.06, "metric_rectangularity": 67.01, "metric_mobile_fit": 89.2, "metric_aspect_ratio": 0.671, "metric_area_km2": 4.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.464183, 47.484418 ], [ 9.4639165, 47.488062 ], [ 9.449627, 47.4922385 ], [ 9.447775, 47.488186 ], [ 9.4434165, 47.4852475 ], [ 9.4509685, 47.479133099999984 ], [ 9.4484653, 47.47372 ], [ 9.4529095, 47.471308499999985 ], [ 9.464183, 47.484418 ] ] ] } }
+]
+}

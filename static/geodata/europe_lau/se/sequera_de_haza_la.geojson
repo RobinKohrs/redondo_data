@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sequera_de_haza_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sequera de Haza, La", "metric_roundness": 57.22, "metric_rectangularity": 64.22, "metric_mobile_fit": 67.43, "metric_aspect_ratio": 0.888, "metric_area_km2": 11.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.8036101, 41.576385199999983 ], [ -3.8212293, 41.578568699999984 ], [ -3.825263, 41.5817375 ], [ -3.8277925, 41.58062 ], [ -3.8321561, 41.5722477 ], [ -3.8265126, 41.5643689 ], [ -3.8288757, 41.5571221 ], [ -3.8251571, 41.5526907 ], [ -3.8219742, 41.5553245 ], [ -3.809664, 41.549729 ], [ -3.8096365, 41.552387 ], [ -3.804054, 41.55957 ], [ -3.799245, 41.5624925 ], [ -3.7941595, 41.564277499999989 ], [ -3.8036101, 41.576385199999983 ] ] ] } }
+]
+}

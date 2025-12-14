@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "doudelainville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Doudelainville", "metric_roundness": 62.79, "metric_rectangularity": 71.14, "metric_mobile_fit": 34.77, "metric_aspect_ratio": 1.215, "metric_area_km2": 12.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.785642, 50.006854 ], [ 1.7834855, 50.00662 ], [ 1.782838, 50.008591499999987 ], [ 1.7812185, 50.0101555 ], [ 1.7447445, 50.009211499999978 ], [ 1.748284, 49.993545 ], [ 1.752766, 49.9913575 ], [ 1.757111, 49.9900315 ], [ 1.760477, 49.987938499999977 ], [ 1.7617755, 49.990054 ], [ 1.7678555, 49.9892745 ], [ 1.786732, 50.003932 ], [ 1.785642, 50.006854 ] ] ] } }
+]
+}

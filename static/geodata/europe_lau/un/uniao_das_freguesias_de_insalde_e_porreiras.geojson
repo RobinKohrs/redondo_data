@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_insalde_e_porreiras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Insalde e Porreiras", "metric_roundness": 54.29, "metric_rectangularity": 73.08, "metric_mobile_fit": 50.99, "metric_aspect_ratio": 1.053, "metric_area_km2": 31.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5361165, 41.9741265 ], [ -8.556322, 41.9820875 ], [ -8.5588535, 41.9806205 ], [ -8.5588255, 41.942333 ], [ -8.5478448, 41.9449327 ], [ -8.5450736, 41.9470907 ], [ -8.5337362, 41.941602599999982 ], [ -8.5286569, 41.936588799999974 ], [ -8.5077615, 41.937924 ], [ -8.5034068, 41.9543976 ], [ -8.4944505, 41.966033 ], [ -8.5361165, 41.9741265 ] ] ] } }
+]
+}

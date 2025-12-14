@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mire_de_tibaes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mire de Tibães", "metric_roundness": 32.26, "metric_rectangularity": 63.31, "metric_mobile_fit": 89.42, "metric_aspect_ratio": 0.457, "metric_area_km2": 7.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4806635, 41.548005 ], [ -8.467258, 41.552679499999989 ], [ -8.4738228, 41.5628909 ], [ -8.4700447, 41.569380699999982 ], [ -8.4728067, 41.5764485 ], [ -8.4710772, 41.5814829 ], [ -8.4814315, 41.5846195 ], [ -8.4874848, 41.5801349 ], [ -8.4896095, 41.572655499999982 ], [ -8.4805297, 41.5690272 ], [ -8.4815238, 41.5608697 ], [ -8.4870785, 41.553269499999985 ], [ -8.4806635, 41.548005 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lalandusse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lalandusse", "metric_roundness": 48.32, "metric_rectangularity": 67.87, "metric_mobile_fit": 46.23, "metric_aspect_ratio": 1.1, "metric_area_km2": 18.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.521652, 44.678583499999988 ], [ 0.5122853, 44.678281399999982 ], [ 0.495626, 44.669802499999975 ], [ 0.5073475, 44.662458399999984 ], [ 0.511862, 44.6466115 ], [ 0.5216248, 44.649733199999986 ], [ 0.5288671, 44.642348799999986 ], [ 0.5419629, 44.6423631 ], [ 0.551675, 44.649666499999981 ], [ 0.5363037, 44.6571109 ], [ 0.5344015, 44.674600499999983 ], [ 0.521652, 44.678583499999988 ] ] ] } }
+]
+}

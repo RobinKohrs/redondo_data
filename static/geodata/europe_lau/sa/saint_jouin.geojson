@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jouin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jouin", "metric_roundness": 37.43, "metric_rectangularity": 61.37, "metric_mobile_fit": 24.81, "metric_aspect_ratio": 1.314, "metric_area_km2": 11.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0305195, 49.208578 ], [ -0.0236645, 49.2086675 ], [ -0.018941, 49.207376 ], [ 0.0042705, 49.2139004 ], [ 0.0121587, 49.2229823 ], [ 0.0119885, 49.2300015 ], [ 0.008512, 49.231013 ], [ -0.0007005, 49.2216521 ], [ -0.0086441, 49.224378 ], [ -0.0135702, 49.222293099999987 ], [ -0.032861, 49.224270499999989 ], [ -0.0354075, 49.210134499999981 ], [ -0.0305195, 49.208578 ] ] ] } }
+]
+}

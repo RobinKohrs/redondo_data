@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gonnelieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gonnelieu", "metric_roundness": 50.19, "metric_rectangularity": 69.33, "metric_mobile_fit": 42.84, "metric_aspect_ratio": 1.134, "metric_area_km2": 11.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1539515, 50.069454 ], [ 3.1513718, 50.0647662 ], [ 3.1418627, 50.060618 ], [ 3.1365995, 50.049595 ], [ 3.1417656, 50.0518418 ], [ 3.1524243, 50.049173599999982 ], [ 3.1766575, 50.052533499999981 ], [ 3.175071, 50.069406199999989 ], [ 3.167552, 50.07185 ], [ 3.1539515, 50.069454 ] ] ] } }
+]
+}

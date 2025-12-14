@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courtenot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courtenot", "metric_roundness": 42.6, "metric_rectangularity": 59.54, "metric_mobile_fit": 4.22, "metric_aspect_ratio": 1.52, "metric_area_km2": 19.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3147809, 48.148250899999987 ], [ 4.335267, 48.141934499999977 ], [ 4.3438508, 48.151523199999986 ], [ 4.342383, 48.161151499999988 ], [ 4.3209306, 48.164170099999986 ], [ 4.304668, 48.169974499999988 ], [ 4.3002283, 48.163737399999988 ], [ 4.2845356, 48.152729299999983 ], [ 4.2799495, 48.1433125 ], [ 4.3147809, 48.148250899999987 ] ] ] } }
+]
+}

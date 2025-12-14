@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_vila_cova_da_lixa_e_borba_de_godim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Vila Cova da Lixa e Borba de Godim", "metric_roundness": 47.25, "metric_rectangularity": 69.99, "metric_mobile_fit": 10.34, "metric_aspect_ratio": 1.459, "metric_area_km2": 24.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.1438777, 41.3165596 ], [ -8.1309405, 41.3151275 ], [ -8.1229382, 41.318784799999989 ], [ -8.1198749, 41.3250589 ], [ -8.1121945, 41.3302427 ], [ -8.1130862, 41.3389598 ], [ -8.118752, 41.3437935 ], [ -8.129905, 41.3485175 ], [ -8.1304678, 41.345606599999989 ], [ -8.1397811, 41.343147200000011 ], [ -8.1482061, 41.3341456 ], [ -8.1567211, 41.3375595 ], [ -8.173742, 41.331633499999974 ], [ -8.174414, 41.3313655 ], [ -8.1745713, 41.3287464 ], [ -8.1806988, 41.3258939 ], [ -8.182435, 41.322540499999988 ], [ -8.1664855, 41.3131555 ], [ -8.1489685, 41.3123685 ], [ -8.1438777, 41.3165596 ] ] ] } }
+]
+}

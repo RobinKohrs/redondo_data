@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pokojov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pokojov", "metric_roundness": 48.04, "metric_rectangularity": 61.25, "metric_mobile_fit": 6.13, "metric_aspect_ratio": 1.501, "metric_area_km2": 7.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.9086764, 49.479109599999987 ], [ 15.9209945, 49.484856499999985 ], [ 15.926443, 49.4882356 ], [ 15.923445, 49.491668499999989 ], [ 15.9053225, 49.492727499999987 ], [ 15.889463, 49.4887375 ], [ 15.8877883, 49.4829274 ], [ 15.8900022, 49.4795892 ], [ 15.9028612, 49.48003869999998 ], [ 15.9074885, 49.475999 ], [ 15.9086764, 49.479109599999987 ] ] ] } }
+]
+}

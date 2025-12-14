@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vorderhornbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vorderhornbach", "metric_roundness": 25.51, "metric_rectangularity": 51.34, "metric_mobile_fit": -93.7, "metric_aspect_ratio": 2.499, "metric_area_km2": 37.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.5509789, 47.379789399999986 ], [ 10.5617015, 47.389693 ], [ 10.5304263, 47.3984538 ], [ 10.4940645, 47.380281 ], [ 10.4677162, 47.386508799999987 ], [ 10.4533144, 47.386201 ], [ 10.438942, 47.380073499999988 ], [ 10.4575908, 47.3791955 ], [ 10.4893965, 47.3651985 ], [ 10.5239838, 47.365552199999975 ], [ 10.5356383, 47.3684027 ], [ 10.5488716, 47.3660835 ], [ 10.5523025, 47.3709695 ], [ 10.5509789, 47.379789399999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "l_hospitalet_pres_l_andorre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "L'Hospitalet-près-l'Andorre", "metric_roundness": 49.96, "metric_rectangularity": 73.92, "metric_mobile_fit": -3.18, "metric_aspect_ratio": 1.594, "metric_area_km2": 49.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8215918, 42.5948242 ], [ 1.8155914, 42.6043855 ], [ 1.8045982, 42.6094611 ], [ 1.7809989, 42.6173548 ], [ 1.769847, 42.612671299999988 ], [ 1.7543545, 42.6153079 ], [ 1.7378815, 42.6115225 ], [ 1.7267697, 42.5997747 ], [ 1.7272765, 42.589594399999989 ], [ 1.7595444, 42.5812297 ], [ 1.7806416, 42.581978899999989 ], [ 1.7860985, 42.573658 ], [ 1.7993238, 42.5721213 ], [ 1.8247335, 42.5812345 ], [ 1.8215918, 42.5948242 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oldsum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oldsum", "metric_roundness": 50.56, "metric_rectangularity": 65.08, "metric_mobile_fit": 28.41, "metric_aspect_ratio": 1.278, "metric_area_km2": 35.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.448791, 54.7255629 ], [ 8.4597145, 54.717455 ], [ 8.4788765, 54.721843 ], [ 8.4851508, 54.7307053 ], [ 8.503762, 54.744468 ], [ 8.5048945, 54.7518135 ], [ 8.4857154, 54.7498549 ], [ 8.4718219, 54.7521968 ], [ 8.436914, 54.7482295 ], [ 8.427968, 54.730228 ], [ 8.448791, 54.7255629 ] ] ] } }
+]
+}

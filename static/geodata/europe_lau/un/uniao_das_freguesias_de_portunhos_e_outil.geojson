@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_portunhos_e_outil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Portunhos e Outil", "metric_roundness": 54.5, "metric_rectangularity": 61.45, "metric_mobile_fit": 27.53, "metric_aspect_ratio": 1.287, "metric_area_km2": 53.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.553304, 40.328596 ], [ -8.5591472, 40.317442 ], [ -8.5780132, 40.3164009 ], [ -8.5904109, 40.3298589 ], [ -8.6077473, 40.3212865 ], [ -8.623031, 40.3082935 ], [ -8.6107018, 40.3006061 ], [ -8.603786, 40.279305199999989 ], [ -8.6001735, 40.2756185 ], [ -8.588435, 40.282444 ], [ -8.5712475, 40.2911211 ], [ -8.5644941, 40.291374 ], [ -8.56053, 40.2716935 ], [ -8.524861, 40.291433 ], [ -8.5298665, 40.315551 ], [ -8.553304, 40.328596 ] ] ] } }
+]
+}

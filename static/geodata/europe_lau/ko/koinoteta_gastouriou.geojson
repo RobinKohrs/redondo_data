@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_gastouriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαστουρίου", "metric_roundness": 23.41, "metric_rectangularity": 50.85, "metric_mobile_fit": 82.66, "metric_aspect_ratio": 0.389, "metric_area_km2": 8.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.896142, 39.5542163 ], [ 19.9039945, 39.5465195 ], [ 19.9054705, 39.545313 ], [ 19.9070989, 39.5533414 ], [ 19.9122145, 39.5560615 ], [ 19.9097615, 39.5683059 ], [ 19.9144168, 39.5827053 ], [ 19.910609, 39.592322 ], [ 19.9019576, 39.5848535 ], [ 19.905761, 39.5752655 ], [ 19.8940969, 39.5706096 ], [ 19.890688, 39.563874499999983 ], [ 19.896142, 39.5542163 ] ] ] } }
+]
+}

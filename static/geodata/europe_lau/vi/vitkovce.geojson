@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vitkovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vítkovce", "metric_roundness": 36.61, "metric_rectangularity": 59.19, "metric_mobile_fit": 99.93, "metric_aspect_ratio": 0.562, "metric_area_km2": 11.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7074616, 48.9208728 ], [ 20.7193831, 48.909801099999989 ], [ 20.716719, 48.902457 ], [ 20.7236825, 48.905115 ], [ 20.7264017, 48.9122932 ], [ 20.7386814, 48.92183 ], [ 20.736419, 48.9332776 ], [ 20.732269, 48.938970499999968 ], [ 20.7147705, 48.935524 ], [ 20.712573, 48.929740699999989 ], [ 20.7135225, 48.9268127 ], [ 20.7117915, 48.925604 ], [ 20.7074616, 48.9208728 ] ] ] } }
+]
+}

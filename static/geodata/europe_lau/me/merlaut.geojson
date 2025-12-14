@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merlaut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merlaut", "metric_roundness": 67.32, "metric_rectangularity": 71.26, "metric_mobile_fit": 71.99, "metric_aspect_ratio": 0.843, "metric_area_km2": 11.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6752785, 48.753682499999975 ], [ 4.6707421, 48.755533699999987 ], [ 4.6745058, 48.7628782 ], [ 4.6711045, 48.769113499999989 ], [ 4.6688875, 48.768812499999989 ], [ 4.6586915, 48.772917 ], [ 4.654204, 48.775390499999986 ], [ 4.6401145, 48.7672185 ], [ 4.6457541, 48.753145299999986 ], [ 4.662006, 48.747882 ], [ 4.6752785, 48.753682499999975 ] ] ] } }
+]
+}

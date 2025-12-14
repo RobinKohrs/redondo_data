@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_christo_en_jarez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Christo-en-Jarez", "metric_roundness": 50.74, "metric_rectangularity": 68.45, "metric_mobile_fit": 81.84, "metric_aspect_ratio": 0.744, "metric_area_km2": 44.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4965945, 45.56283 ], [ 4.4912765, 45.5586239 ], [ 4.4715874, 45.558606 ], [ 4.454468, 45.5668305 ], [ 4.4437995, 45.554207 ], [ 4.4481218, 45.5413253 ], [ 4.440589, 45.533838 ], [ 4.436254, 45.5225345 ], [ 4.454497, 45.505811 ], [ 4.4642433, 45.502396599999983 ], [ 4.4659344, 45.507812799999989 ], [ 4.4717447, 45.512711699999983 ], [ 4.4799002, 45.5123533 ], [ 4.4900745, 45.5162915 ], [ 4.4870791, 45.5342512 ], [ 4.504696, 45.558714 ], [ 4.4965945, 45.56283 ] ] ] } }
+]
+}

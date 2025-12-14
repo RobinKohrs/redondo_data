@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blaise_sous_arzillieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Blaise-sous-Arzillières", "metric_roundness": 62.64, "metric_rectangularity": 75.16, "metric_mobile_fit": 60.62, "metric_aspect_ratio": 0.956, "metric_area_km2": 16.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.565176, 48.675509 ], [ 4.5723757, 48.6674625 ], [ 4.5750015, 48.6583555 ], [ 4.5767485, 48.656380399999982 ], [ 4.6006607, 48.658588 ], [ 4.605914, 48.661877499999989 ], [ 4.6066445, 48.6722135 ], [ 4.588419, 48.6832795 ], [ 4.5822045, 48.687183 ], [ 4.5620385, 48.679929 ], [ 4.565176, 48.675509 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saelices_de_la_sal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saelices de la Sal", "metric_roundness": 51.33, "metric_rectangularity": 70.72, "metric_mobile_fit": 62.47, "metric_aspect_ratio": 0.938, "metric_area_km2": 33.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.322321, 40.930149 ], [ -2.3359135, 40.9321555 ], [ -2.3443598, 40.923793 ], [ -2.3604375, 40.914322 ], [ -2.3687463, 40.9031287 ], [ -2.3679512, 40.8915503 ], [ -2.3706705, 40.8843915 ], [ -2.3428645, 40.882702 ], [ -2.3370132, 40.8881885 ], [ -2.3161912, 40.8969793 ], [ -2.312868, 40.9009699 ], [ -2.3083406, 40.910935099999989 ], [ -2.3090505, 40.919423199999983 ], [ -2.319466, 40.932934 ], [ -2.322321, 40.930149 ] ] ] } }
+]
+}

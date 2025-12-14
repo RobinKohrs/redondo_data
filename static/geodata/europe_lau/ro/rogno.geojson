@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rogno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rogno", "metric_roundness": 58.53, "metric_rectangularity": 78.26, "metric_mobile_fit": 62.06, "metric_aspect_ratio": 0.942, "metric_area_km2": 32.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.0825405, 45.8741505 ], [ 10.0989578, 45.8546889 ], [ 10.121419, 45.835955 ], [ 10.145837, 45.851951 ], [ 10.149827, 45.8630995 ], [ 10.143409, 45.868549499999986 ], [ 10.1295284, 45.8731494 ], [ 10.10907, 45.885705 ], [ 10.088044, 45.882163 ], [ 10.0825405, 45.8741505 ] ] ] } }
+]
+}

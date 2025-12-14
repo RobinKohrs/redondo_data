@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oppershausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oppershausen", "metric_roundness": 37.15, "metric_rectangularity": 74.43, "metric_mobile_fit": -8.67, "metric_aspect_ratio": 1.649, "metric_area_km2": 11.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.3949449, 51.1401475 ], [ 10.3576996, 51.128260199999978 ], [ 10.3551695, 51.124064499999982 ], [ 10.3643961, 51.123764099999974 ], [ 10.370267, 51.1190165 ], [ 10.382016, 51.1198172 ], [ 10.410701, 51.131805 ], [ 10.3949449, 51.1401475 ] ] ] } }
+]
+}

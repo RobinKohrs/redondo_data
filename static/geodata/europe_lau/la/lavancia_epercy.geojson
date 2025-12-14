@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lavancia_epercy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lavancia-Epercy", "metric_roundness": 38.61, "metric_rectangularity": 57.51, "metric_mobile_fit": 40.47, "metric_aspect_ratio": 1.158, "metric_area_km2": 22.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6894179, 46.3193555 ], [ 5.6962193, 46.330331 ], [ 5.71497, 46.3452365 ], [ 5.713817, 46.347612 ], [ 5.713894, 46.350942 ], [ 5.706786, 46.356916 ], [ 5.6821545, 46.350801 ], [ 5.6647743, 46.3335922 ], [ 5.6588395, 46.33117619999998 ], [ 5.6536155, 46.332774 ], [ 5.6498015, 46.334190499999984 ], [ 5.6461401, 46.3246871 ], [ 5.6669922, 46.3243516 ], [ 5.6833215, 46.315872 ], [ 5.6894179, 46.3193555 ] ] ] } }
+]
+}

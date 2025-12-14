@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merboltice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merboltice", "metric_roundness": 52.83, "metric_rectangularity": 74.89, "metric_mobile_fit": 65.56, "metric_aspect_ratio": 0.907, "metric_area_km2": 20.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.3561655, 50.703883499999975 ], [ 14.3462317, 50.7035063 ], [ 14.3376723, 50.697229799999981 ], [ 14.3253145, 50.679568 ], [ 14.343548, 50.667924 ], [ 14.3512787, 50.6768984 ], [ 14.3773474, 50.6901419 ], [ 14.3765791, 50.693458799999988 ], [ 14.3682211, 50.6984401 ], [ 14.368229, 50.7042765 ], [ 14.3561655, 50.703883499999975 ] ] ] } }
+]
+}

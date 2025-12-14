@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parigny_la_rose",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Parigny-la-Rose", "metric_roundness": 61.04, "metric_rectangularity": 78.97, "metric_mobile_fit": 7.03, "metric_aspect_ratio": 1.492, "metric_area_km2": 19.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4298654, 47.3255452 ], [ 3.436363, 47.319675 ], [ 3.4705085, 47.3185873 ], [ 3.475028, 47.321279499999989 ], [ 3.485773, 47.334892499999974 ], [ 3.4805483, 47.334253399999987 ], [ 3.476807, 47.3395695 ], [ 3.4431545, 47.344214 ], [ 3.4359062, 47.341745599999989 ], [ 3.429352, 47.332651 ], [ 3.4298654, 47.3255452 ] ] ] } }
+]
+}

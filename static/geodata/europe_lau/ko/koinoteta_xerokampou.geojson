@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_xerokampou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ξηροκάμπου", "metric_roundness": 53.08, "metric_rectangularity": 83.96, "metric_mobile_fit": 11.8, "metric_aspect_ratio": 1.445, "metric_area_km2": 17.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.809323, 37.679231499999979 ], [ 21.7845987, 37.6852236 ], [ 21.7715773, 37.6853381 ], [ 21.7652873, 37.681226099999982 ], [ 21.753893, 37.663937499999989 ], [ 21.7573776, 37.6621263 ], [ 21.7721179, 37.6627127 ], [ 21.7857427, 37.6563931 ], [ 21.801117, 37.654965 ], [ 21.809323, 37.679231499999979 ] ] ] } }
+]
+}

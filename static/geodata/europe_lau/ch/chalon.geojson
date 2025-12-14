@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chalon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chalon", "metric_roundness": 46.58, "metric_rectangularity": 76.1, "metric_mobile_fit": 33.64, "metric_aspect_ratio": 1.226, "metric_area_km2": 10.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.9602665, 45.452776 ], [ 4.9596973, 45.453272399999982 ], [ 4.9547073, 45.4577695 ], [ 4.95864, 45.4616355 ], [ 4.9409755, 45.461588399999982 ], [ 4.920681, 45.455409 ], [ 4.918611, 45.4521715 ], [ 4.91989, 45.445346499999985 ], [ 4.9249725, 45.437802 ], [ 4.9596973, 45.452555599999982 ], [ 4.9602665, 45.452776 ] ] ] } }
+]
+}

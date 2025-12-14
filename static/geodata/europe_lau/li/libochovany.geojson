@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "libochovany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Libochovany", "metric_roundness": 45.26, "metric_rectangularity": 60.94, "metric_mobile_fit": 97.12, "metric_aspect_ratio": 0.591, "metric_area_km2": 19.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0514823, 50.550514399999983 ], [ 14.064436, 50.555517 ], [ 14.0747573, 50.575567 ], [ 14.0627906, 50.5780202 ], [ 14.0593855, 50.58173 ], [ 14.0595586, 50.585664099999988 ], [ 14.0559791, 50.5876573 ], [ 14.0350065, 50.581519499999985 ], [ 14.0384337, 50.574274099999982 ], [ 14.0361069, 50.5588711 ], [ 14.045168, 50.546042 ], [ 14.0481895, 50.545401 ], [ 14.051824, 50.544953 ], [ 14.0514823, 50.550514399999983 ] ] ] } }
+]
+}

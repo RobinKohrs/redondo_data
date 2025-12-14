@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koestlach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kœstlach", "metric_roundness": 50.33, "metric_rectangularity": 66.91, "metric_mobile_fit": 63.31, "metric_aspect_ratio": 0.929, "metric_area_km2": 17.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2696665, 47.4917285 ], [ 7.2869565, 47.496759 ], [ 7.291114, 47.5103868 ], [ 7.2901415, 47.5181175 ], [ 7.2860765, 47.520905 ], [ 7.285462, 47.5228685 ], [ 7.28221, 47.522962 ], [ 7.2737425, 47.5270635 ], [ 7.242496, 47.5243765 ], [ 7.2590406, 47.510742 ], [ 7.2665624, 47.499389699999988 ], [ 7.267688, 47.491902 ], [ 7.2696665, 47.4917285 ] ] ] } }
+]
+}

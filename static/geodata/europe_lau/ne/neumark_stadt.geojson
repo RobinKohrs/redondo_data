@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neumark_stadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neumark, Stadt", "metric_roundness": 71.63, "metric_rectangularity": 74.48, "metric_mobile_fit": 68.32, "metric_aspect_ratio": 0.879, "metric_area_km2": 21.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.2276485, 51.0893504 ], [ 11.2305225, 51.080472199999981 ], [ 11.2442907, 51.0726091 ], [ 11.2566803, 51.0790425 ], [ 11.2658308, 51.079276899999982 ], [ 11.2750815, 51.0872944 ], [ 11.266974, 51.100924 ], [ 11.2572035, 51.101176499999987 ], [ 11.256819, 51.1030145 ], [ 11.2536845, 51.102738 ], [ 11.251902, 51.106492499999973 ], [ 11.2305515, 51.103704499999985 ], [ 11.2276485, 51.0893504 ] ] ] } }
+]
+}

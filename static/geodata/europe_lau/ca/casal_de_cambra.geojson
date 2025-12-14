@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "casal_de_cambra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Casal de Cambra", "metric_roundness": 67.13, "metric_rectangularity": 80.1, "metric_mobile_fit": 52.12, "metric_aspect_ratio": 1.041, "metric_area_km2": 4.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.2218233, 38.7981157 ], [ -9.2223275, 38.8028165 ], [ -9.2248707, 38.8062112 ], [ -9.2385415, 38.8106705 ], [ -9.2422045, 38.80666 ], [ -9.2428785, 38.796023 ], [ -9.2246945, 38.794913 ], [ -9.2218233, 38.7981157 ] ] ] } }
+]
+}

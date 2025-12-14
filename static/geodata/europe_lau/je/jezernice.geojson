@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jezernice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jezernice", "metric_roundness": 45.49, "metric_rectangularity": 72.52, "metric_mobile_fit": 90.11, "metric_aspect_ratio": 0.661, "metric_area_km2": 21.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6461541, 49.5600951 ], [ 17.6459615, 49.564768 ], [ 17.6409266, 49.5638468 ], [ 17.6115568, 49.553228499999975 ], [ 17.6106034, 49.5423335 ], [ 17.6180235, 49.522991 ], [ 17.6262892, 49.5237198 ], [ 17.6289667, 49.5278476 ], [ 17.6326509, 49.524806 ], [ 17.638092, 49.529354 ], [ 17.6490702, 49.5299387 ], [ 17.6531862, 49.5342193 ], [ 17.6418506, 49.5433101 ], [ 17.649025, 49.5572275 ], [ 17.6461541, 49.5600951 ] ] ] } }
+]
+}

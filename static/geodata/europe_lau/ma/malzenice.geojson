@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "malzenice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malženice", "metric_roundness": 40.81, "metric_rectangularity": 63.56, "metric_mobile_fit": 89.25, "metric_aspect_ratio": 0.67, "metric_area_km2": 33.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.634484, 48.4401017 ], [ 17.642768, 48.422198 ], [ 17.6515605, 48.425833399999973 ], [ 17.6595125, 48.425207 ], [ 17.689612, 48.432633499999987 ], [ 17.6843366, 48.44309579999998 ], [ 17.6897115, 48.455144499999982 ], [ 17.685297, 48.470602 ], [ 17.6847555, 48.476873 ], [ 17.6656056, 48.4688933 ], [ 17.6636834, 48.463243 ], [ 17.6409266, 48.449402099999986 ], [ 17.634965, 48.445561 ], [ 17.634484, 48.4401017 ] ] ] } }
+]
+}

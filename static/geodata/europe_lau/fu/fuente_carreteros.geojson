@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fuente_carreteros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fuente Carreteros", "metric_roundness": 30.24, "metric_rectangularity": 47.99, "metric_mobile_fit": -23.38, "metric_aspect_ratio": 1.796, "metric_area_km2": 14.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.176816, 37.6806185 ], [ -5.1620008, 37.6728015 ], [ -5.1495851, 37.6618406 ], [ -5.1354243, 37.668188699999988 ], [ -5.1099352, 37.6642498 ], [ -5.112482, 37.679953 ], [ -5.1180724, 37.678588499999989 ], [ -5.120661, 37.6836664 ], [ -5.1417106, 37.6789073 ], [ -5.1524019, 37.6810982 ], [ -5.1510435, 37.691308499999984 ], [ -5.176816, 37.6806185 ] ] ] } }
+]
+}

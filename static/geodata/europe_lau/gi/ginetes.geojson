@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ginetes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ginetes", "metric_roundness": 57.93, "metric_rectangularity": 74.33, "metric_mobile_fit": 71.04, "metric_aspect_ratio": 0.852, "metric_area_km2": 19.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -25.8443467, 37.872958499999989 ], [ -25.8465586, 37.8659014 ], [ -25.8535184, 37.8602204 ], [ -25.8410185, 37.829014 ], [ -25.8050345, 37.844294 ], [ -25.8124366, 37.850325 ], [ -25.81608, 37.863977 ], [ -25.8387195, 37.873944 ], [ -25.8443467, 37.872958499999989 ] ] ] } }
+]
+}

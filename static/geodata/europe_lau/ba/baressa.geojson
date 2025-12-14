@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baressa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baressa", "metric_roundness": 52.23, "metric_rectangularity": 72.36, "metric_mobile_fit": 85.48, "metric_aspect_ratio": 0.708, "metric_area_km2": 20.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.876611, 39.6922715 ], [ 8.8818694, 39.704270699999981 ], [ 8.8936595, 39.7091725 ], [ 8.8824183, 39.7279931 ], [ 8.8748325, 39.734598 ], [ 8.8654125, 39.736047 ], [ 8.85232, 39.7223325 ], [ 8.8489235, 39.714124 ], [ 8.8596361, 39.695024699999983 ], [ 8.868732, 39.687418 ], [ 8.876611, 39.6922715 ] ] ] } }
+]
+}

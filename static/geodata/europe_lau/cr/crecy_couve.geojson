@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "crecy_couve",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Crécy-Couvé", "metric_roundness": 46.81, "metric_rectangularity": 65.26, "metric_mobile_fit": 81.57, "metric_aspect_ratio": 0.747, "metric_area_km2": 15.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2918426, 48.6712371 ], [ 1.306621, 48.675677 ], [ 1.2925894, 48.6892552 ], [ 1.2921295, 48.692945 ], [ 1.2868407, 48.6961151 ], [ 1.2746995, 48.694723 ], [ 1.2645438, 48.685586199999982 ], [ 1.2634682, 48.67694119999998 ], [ 1.2746431, 48.6717844 ], [ 1.2825783, 48.6618495 ], [ 1.2824785, 48.657962 ], [ 1.2918426, 48.6712371 ] ] ] } }
+]
+}

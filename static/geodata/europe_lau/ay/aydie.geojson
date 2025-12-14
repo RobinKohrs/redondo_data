@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aydie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aydie", "metric_roundness": 55.68, "metric_rectangularity": 67.84, "metric_mobile_fit": 38.82, "metric_aspect_ratio": 1.174, "metric_area_km2": 14.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.134409, 43.5624052 ], [ -0.1188504, 43.556288699999989 ], [ -0.0935545, 43.563702 ], [ -0.0916625, 43.5695834 ], [ -0.096788, 43.582405 ], [ -0.1060824, 43.581809899999989 ], [ -0.120693, 43.5862288 ], [ -0.128918, 43.5812245 ], [ -0.1231239, 43.5802205 ], [ -0.122686, 43.574375 ], [ -0.1323886, 43.571747299999984 ], [ -0.138191, 43.5650355 ], [ -0.1401915, 43.560979 ], [ -0.134409, 43.5624052 ] ] ] } }
+]
+}

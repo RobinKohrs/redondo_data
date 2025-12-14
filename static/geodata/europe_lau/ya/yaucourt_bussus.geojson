@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "yaucourt_bussus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Yaucourt-Bussus", "metric_roundness": 54.84, "metric_rectangularity": 72.27, "metric_mobile_fit": 78.42, "metric_aspect_ratio": 0.778, "metric_area_km2": 17.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.976947, 50.1252445 ], [ 1.9656771, 50.119884599999978 ], [ 1.9584975, 50.107345 ], [ 1.9618839, 50.0958393 ], [ 1.9680195, 50.090896 ], [ 1.981322, 50.0914236 ], [ 1.9885187, 50.0953344 ], [ 2.000179, 50.0939845 ], [ 1.9929524, 50.1067942 ], [ 1.9832834, 50.1126982 ], [ 1.9883145, 50.1209695 ], [ 1.976947, 50.1252445 ] ] ] } }
+]
+}

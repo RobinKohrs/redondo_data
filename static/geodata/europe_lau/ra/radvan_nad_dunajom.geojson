@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "radvan_nad_dunajom",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Radvaň nad Dunajom", "metric_roundness": 57.89, "metric_rectangularity": 67.45, "metric_mobile_fit": 64.16, "metric_aspect_ratio": 0.921, "metric_area_km2": 33.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.3395325, 47.7383715 ], [ 18.3915665, 47.751066499999986 ], [ 18.3736335, 47.776449 ], [ 18.3691528, 47.778143899999989 ], [ 18.3608082, 47.773484199999984 ], [ 18.342613, 47.784847 ], [ 18.326839, 47.7750885 ], [ 18.3316186, 47.7665929 ], [ 18.3324899, 47.7567205 ], [ 18.3364841, 47.7535981 ], [ 18.3274595, 47.744482499999982 ], [ 18.335489, 47.737597499999985 ], [ 18.3395325, 47.7383715 ] ] ] } }
+]
+}

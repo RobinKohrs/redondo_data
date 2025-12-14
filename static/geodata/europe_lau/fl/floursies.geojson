@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "floursies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Floursies", "metric_roundness": 51.22, "metric_rectangularity": 62.96, "metric_mobile_fit": 73.73, "metric_aspect_ratio": 0.825, "metric_area_km2": 12.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9859191, 50.181586 ], [ 3.9810469, 50.1854368 ], [ 3.9872505, 50.1912905 ], [ 3.9838775, 50.1929075 ], [ 3.981694, 50.192846499999987 ], [ 3.979987, 50.196245 ], [ 3.976753, 50.1978685 ], [ 3.975622, 50.199634 ], [ 3.961242, 50.1991165 ], [ 3.9596183, 50.194948299999979 ], [ 3.9512575, 50.1922225 ], [ 3.9591703, 50.1892863 ], [ 3.9594517, 50.176494199999986 ], [ 3.985604, 50.171706499999985 ], [ 3.9859191, 50.181586 ] ] ] } }
+]
+}

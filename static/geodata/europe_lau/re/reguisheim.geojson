@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reguisheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Réguisheim", "metric_roundness": 42.76, "metric_rectangularity": 77.05, "metric_mobile_fit": -29.28, "metric_aspect_ratio": 1.855, "metric_area_km2": 52.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3425078, 47.908229 ], [ 7.3283175, 47.9113835 ], [ 7.3206457, 47.908883799999984 ], [ 7.3168185, 47.9010165 ], [ 7.3297415, 47.892996299999986 ], [ 7.3298515, 47.877301 ], [ 7.3638722, 47.87906 ], [ 7.3700412, 47.8737592 ], [ 7.3898482, 47.8775462 ], [ 7.4079245, 47.8728975 ], [ 7.419607, 47.8732 ], [ 7.4233035, 47.88516 ], [ 7.4132233, 47.8937374 ], [ 7.416294, 47.90421 ], [ 7.3425078, 47.908229 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chavroches",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chavroches", "metric_roundness": 46.93, "metric_rectangularity": 65.49, "metric_mobile_fit": 2.84, "metric_aspect_ratio": 1.534, "metric_area_km2": 21.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.5762788, 46.3566175 ], [ 3.565061, 46.353945 ], [ 3.5655344, 46.3491188 ], [ 3.5722365, 46.343699 ], [ 3.5893978, 46.3389566 ], [ 3.6240425, 46.348323799999989 ], [ 3.631642, 46.3460495 ], [ 3.6291315, 46.3510896 ], [ 3.6202323, 46.355799299999987 ], [ 3.6233085, 46.368912 ], [ 3.618361, 46.368517499999989 ], [ 3.6122626, 46.3651234 ], [ 3.5931881, 46.3636102 ], [ 3.579578, 46.366519499999981 ], [ 3.5762788, 46.3566175 ] ] ] } }
+]
+}

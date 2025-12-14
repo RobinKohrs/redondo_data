@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "varisella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Varisella", "metric_roundness": 53.75, "metric_rectangularity": 73.62, "metric_mobile_fit": 8.02, "metric_aspect_ratio": 1.482, "metric_area_km2": 44.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4477274, 45.2131575 ], [ 7.4319736, 45.199146299999981 ], [ 7.4304705, 45.1934805 ], [ 7.4428128, 45.1824011 ], [ 7.461096, 45.1762275 ], [ 7.4809555, 45.1809265 ], [ 7.4895462, 45.1883651 ], [ 7.521701, 45.201211 ], [ 7.5170712, 45.2114306 ], [ 7.507044, 45.216586 ], [ 7.4718342, 45.216545599999982 ], [ 7.4604635, 45.219598 ], [ 7.4477274, 45.2131575 ] ] ] } }
+]
+}

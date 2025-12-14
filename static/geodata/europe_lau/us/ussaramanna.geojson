@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ussaramanna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ussaramanna", "metric_roundness": 36.13, "metric_rectangularity": 61.47, "metric_mobile_fit": 8.28, "metric_aspect_ratio": 1.48, "metric_area_km2": 15.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9146523, 39.6762653 ], [ 8.9181739, 39.6799663 ], [ 8.93076, 39.676576 ], [ 8.939893, 39.6782285 ], [ 8.8936595, 39.7091725 ], [ 8.8818694, 39.704270699999981 ], [ 8.876611, 39.6922715 ], [ 8.8798447, 39.6861808 ], [ 8.8900381, 39.685692 ], [ 8.908328, 39.6783255 ], [ 8.9146523, 39.6762653 ] ] ] } }
+]
+}

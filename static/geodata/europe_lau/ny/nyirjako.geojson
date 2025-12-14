@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nyirjako",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nyírjákó", "metric_roundness": 46.32, "metric_rectangularity": 80.28, "metric_mobile_fit": -37.91, "metric_aspect_ratio": 1.942, "metric_area_km2": 23.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0483553, 48.0380457 ], [ 22.047234, 48.0332535 ], [ 22.055372, 48.024703 ], [ 22.0818391, 48.0194148 ], [ 22.1164195, 48.021771 ], [ 22.111321, 48.037926499999983 ], [ 22.0883931, 48.0432434 ], [ 22.05434, 48.0414425 ], [ 22.0483553, 48.0380457 ] ] ] } }
+]
+}

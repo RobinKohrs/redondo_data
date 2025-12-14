@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brtnicka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brtnička", "metric_roundness": 47.79, "metric_rectangularity": 63.57, "metric_mobile_fit": 44.72, "metric_aspect_ratio": 1.115, "metric_area_km2": 7.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.6145242, 49.237174099999983 ], [ 15.622966, 49.234309 ], [ 15.6310176, 49.23452529999998 ], [ 15.6419888, 49.2392635 ], [ 15.6345414, 49.2435852 ], [ 15.634554, 49.248404 ], [ 15.609562, 49.2532895 ], [ 15.6145242, 49.237174099999983 ] ] ] } }
+]
+}

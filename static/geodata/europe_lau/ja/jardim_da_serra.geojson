@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jardim_da_serra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jardim da Serra", "metric_roundness": 52.25, "metric_rectangularity": 65.68, "metric_mobile_fit": 89.47, "metric_aspect_ratio": 0.668, "metric_area_km2": 10.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -16.9807378, 32.697072399999982 ], [ -16.9895025, 32.7160765 ], [ -16.996853, 32.714973 ], [ -17.0035734, 32.695976099999982 ], [ -17.0046115, 32.6844035 ], [ -16.999268, 32.678322499999986 ], [ -16.9828525, 32.680544200000014 ], [ -16.9757212, 32.6890642 ], [ -16.974654, 32.694732 ], [ -16.9807378, 32.697072399999982 ] ] ] } }
+]
+}

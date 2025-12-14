@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mousoulita",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Μουσουλίτα", "metric_roundness": 31.18, "metric_rectangularity": 52.95, "metric_mobile_fit": -6.71, "metric_aspect_ratio": 1.63, "metric_area_km2": 5.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.6641265, 35.18696 ], [ 33.655957, 35.1881212 ], [ 33.6555825, 35.193074399999986 ], [ 33.6459038, 35.197239799999984 ], [ 33.6426263, 35.202164 ], [ 33.6363669, 35.1972406 ], [ 33.6250147, 35.197982399999979 ], [ 33.629384, 35.1889355 ], [ 33.6374341, 35.189506899999984 ], [ 33.6393515, 35.1834435 ], [ 33.6643745, 35.182426 ], [ 33.6641265, 35.18696 ] ] ] } }
+]
+}

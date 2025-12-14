@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "favara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Favara", "metric_roundness": 51.42, "metric_rectangularity": 75.46, "metric_mobile_fit": 41.19, "metric_aspect_ratio": 1.151, "metric_area_km2": 15.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2977083, 39.1022158 ], [ -0.2862377, 39.1165887 ], [ -0.2727085, 39.122581499999981 ], [ -0.2731834, 39.1286741 ], [ -0.295618, 39.1341515 ], [ -0.3170927, 39.1230982 ], [ -0.3246625, 39.111904 ], [ -0.3046455, 39.0991175 ], [ -0.2977083, 39.1022158 ] ] ] } }
+]
+}

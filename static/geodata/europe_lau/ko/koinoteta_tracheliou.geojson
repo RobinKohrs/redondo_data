@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_tracheliou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Τραχηλίου", "metric_roundness": 36.86, "metric_rectangularity": 53.7, "metric_mobile_fit": 54.84, "metric_aspect_ratio": 1.014, "metric_area_km2": 12.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.0150979, 38.499895099999989 ], [ 24.028053, 38.4919002 ], [ 24.0422735, 38.49088 ], [ 24.0353937, 38.5031165 ], [ 24.0230497, 38.511038 ], [ 24.013101, 38.5242281 ], [ 24.005331, 38.5268425 ], [ 23.9977542, 38.516351399999984 ], [ 23.9987516, 38.5058144 ], [ 23.9956693, 38.499705799999987 ], [ 24.006576, 38.4990735 ], [ 24.0150979, 38.499895099999989 ] ] ] } }
+]
+}

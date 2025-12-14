@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hem_lenglet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hem-Lenglet", "metric_roundness": 51.39, "metric_rectangularity": 63.29, "metric_mobile_fit": 23.78, "metric_aspect_ratio": 1.325, "metric_area_km2": 12.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2318065, 50.263779 ], [ 3.210356, 50.258899 ], [ 3.2094955, 50.254616599999977 ], [ 3.2029527, 50.251933799999989 ], [ 3.203746, 50.246587 ], [ 3.2246282, 50.246963799999975 ], [ 3.2328915, 50.241428 ], [ 3.2342701, 50.2439958 ], [ 3.249258, 50.243223 ], [ 3.2411511, 50.2559372 ], [ 3.244822, 50.261152499999987 ], [ 3.2318065, 50.263779 ] ] ] } }
+]
+}

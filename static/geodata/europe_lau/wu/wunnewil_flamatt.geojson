@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wunnewil_flamatt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wünnewil-Flamatt", "metric_roundness": 26.36, "metric_rectangularity": 45.43, "metric_mobile_fit": -19.87, "metric_aspect_ratio": 1.761, "metric_area_km2": 28.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3007064, 46.8723711 ], [ 7.3009058, 46.878976299999984 ], [ 7.3129124, 46.8865972 ], [ 7.349411, 46.88907 ], [ 7.3247685, 46.8938002 ], [ 7.290805, 46.8936927 ], [ 7.28101, 46.8895535 ], [ 7.2594484, 46.884560799999988 ], [ 7.258667, 46.875167 ], [ 7.2524853, 46.8719055 ], [ 7.2498755, 46.866676 ], [ 7.270187, 46.8616775 ], [ 7.2830255, 46.855167 ], [ 7.2881775, 46.855723 ], [ 7.3007064, 46.8723711 ] ] ] } }
+]
+}

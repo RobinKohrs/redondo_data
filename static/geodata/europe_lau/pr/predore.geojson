@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "predore",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Predore", "metric_roundness": 47.18, "metric_rectangularity": 65.69, "metric_mobile_fit": -7.75, "metric_aspect_ratio": 1.64, "metric_area_km2": 21.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9951605, 45.7006025 ], [ 9.9948291, 45.692298099999981 ], [ 9.98919, 45.686208 ], [ 9.999855, 45.67211 ], [ 10.0061555, 45.67264 ], [ 10.0443945, 45.674943 ], [ 10.046738, 45.6752995 ], [ 10.0494335, 45.675941 ], [ 10.0560775, 45.678535 ], [ 10.040781, 45.69037119999998 ], [ 10.0145445, 45.699217 ], [ 9.9951605, 45.7006025 ] ] ] } }
+]
+}

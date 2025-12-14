@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "doroske",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Döröske", "metric_roundness": 38.79, "metric_rectangularity": 55.34, "metric_mobile_fit": 80.86, "metric_aspect_ratio": 0.754, "metric_area_km2": 9.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.682829, 47.014223 ], [ 16.6920995, 46.993343499999988 ], [ 16.6964223, 46.9951058 ], [ 16.6996756, 47.002061599999983 ], [ 16.7087616, 47.0020532 ], [ 16.7042835, 47.007591799999986 ], [ 16.7159815, 47.0190503 ], [ 16.7145743, 47.0233285 ], [ 16.7006415, 47.02302 ], [ 16.6950602, 47.017936399999989 ], [ 16.6859775, 47.0153715 ], [ 16.682829, 47.014223 ] ] ] } }
+]
+}

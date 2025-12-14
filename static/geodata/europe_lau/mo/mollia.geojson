@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mollia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mollia", "metric_roundness": 42.95, "metric_rectangularity": 62.62, "metric_mobile_fit": 42.08, "metric_aspect_ratio": 1.142, "metric_area_km2": 28.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0556606, 45.8145823 ], [ 8.0491238, 45.826100499999988 ], [ 8.0301875, 45.8388445 ], [ 8.0040376, 45.846145099999987 ], [ 7.990276, 45.842832 ], [ 7.999201, 45.8285388 ], [ 7.9934872, 45.817342 ], [ 7.9932915, 45.807364499999984 ], [ 8.0186055, 45.815464 ], [ 8.0304751, 45.812989299999984 ], [ 8.0417775, 45.8062362 ], [ 8.0552825, 45.806561 ], [ 8.0556606, 45.8145823 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neyruz_fr",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neyruz (FR)", "metric_roundness": 47.86, "metric_rectangularity": 72.88, "metric_mobile_fit": 20.34, "metric_aspect_ratio": 1.359, "metric_area_km2": 11.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.043547, 46.7661265 ], [ 7.046459, 46.758665699999987 ], [ 7.0537219, 46.754077 ], [ 7.0600035, 46.7548485 ], [ 7.0658932, 46.761811799999982 ], [ 7.0843573, 46.7679178 ], [ 7.0914485, 46.774109 ], [ 7.0856687, 46.7779799 ], [ 7.0697515, 46.778124499999983 ], [ 7.062772, 46.778219 ], [ 7.0583675, 46.777017 ], [ 7.043547, 46.7661265 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "samper_del_salz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Samper del Salz", "metric_roundness": 30.17, "metric_rectangularity": 71.96, "metric_mobile_fit": 79.43, "metric_aspect_ratio": 0.357, "metric_area_km2": 19.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.8305745, 41.243416 ], [ -0.837319, 41.242588 ], [ -0.8455522, 41.2280683 ], [ -0.8424642, 41.2187696 ], [ -0.8441262, 41.2037592 ], [ -0.8348955, 41.186962 ], [ -0.8291477, 41.1841176 ], [ -0.8213, 41.182743 ], [ -0.8167789, 41.1976615 ], [ -0.8250068, 41.2071364 ], [ -0.8197585, 41.2335871 ], [ -0.826662, 41.243351 ], [ -0.8305745, 41.243416 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_slemence",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Veľké Slemence", "metric_roundness": 35.98, "metric_rectangularity": 54.42, "metric_mobile_fit": 80.06, "metric_aspect_ratio": 0.762, "metric_area_km2": 22.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1577395, 48.524832 ], [ 22.151053, 48.5251569 ], [ 22.1422952, 48.517043099999981 ], [ 22.1214464, 48.5110829 ], [ 22.106207, 48.502308 ], [ 22.1134065, 48.4803415 ], [ 22.1228377, 48.4855033 ], [ 22.1290277, 48.485102699999985 ], [ 22.1320006, 48.4907247 ], [ 22.1433306, 48.493805699999982 ], [ 22.1458226, 48.4921201 ], [ 22.1455393, 48.485724599999983 ], [ 22.1487895, 48.4836275 ], [ 22.1577395, 48.524832 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reipeldingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reipeldingen", "metric_roundness": 46.43, "metric_rectangularity": 61.18, "metric_mobile_fit": 86.15, "metric_aspect_ratio": 0.701, "metric_area_km2": 10.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1992575, 50.089603499999981 ], [ 6.1762195, 50.1043885 ], [ 6.1734754, 50.096362799999973 ], [ 6.1710108, 50.094892 ], [ 6.1658536, 50.0918144 ], [ 6.1698888, 50.0840944 ], [ 6.1663018, 50.0795878 ], [ 6.1672635, 50.074613 ], [ 6.1798752, 50.073813799999982 ], [ 6.187557, 50.0845462 ], [ 6.1959995, 50.0864615 ], [ 6.1992575, 50.089603499999981 ] ] ] } }
+]
+}

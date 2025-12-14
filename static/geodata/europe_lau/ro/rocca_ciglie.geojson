@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rocca_ciglie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rocca Cigliè", "metric_roundness": 34.96, "metric_rectangularity": 70.13, "metric_mobile_fit": 91.52, "metric_aspect_ratio": 0.478, "metric_area_km2": 14.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9617298, 44.432233799999977 ], [ 7.966424, 44.435723 ], [ 7.9630882, 44.4465929 ], [ 7.9557116, 44.4517575 ], [ 7.9498455, 44.4644185 ], [ 7.9366044, 44.466225 ], [ 7.936362, 44.4598405 ], [ 7.9362794, 44.44906109999998 ], [ 7.9413462, 44.442810799999982 ], [ 7.9440645, 44.430436 ], [ 7.9446605, 44.424494799999984 ], [ 7.9496017, 44.4211733 ], [ 7.96292, 44.427928 ], [ 7.9617298, 44.432233799999977 ] ] ] } }
+]
+}

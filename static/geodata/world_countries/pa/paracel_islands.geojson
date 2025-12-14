@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "paracel_islands",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Paracel Islands", "metric_roundness": 60.14, "metric_rectangularity": 76.59, "metric_mobile_fit": 38.75, "metric_aspect_ratio": 1.175, "metric_area_km2": 2.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 112.329593799999984, 16.8351476 ], [ 112.3378367, 16.825520699999988 ], [ 112.341184199999987, 16.828812 ], [ 112.3473162, 16.832628 ], [ 112.348728, 16.8360012 ], [ 112.3472374, 16.837750499999981 ], [ 112.3395675, 16.840751 ], [ 112.335465299999981, 16.841244 ], [ 112.3294255, 16.838466 ], [ 112.329593799999984, 16.8351476 ] ] ] } }
+]
+}

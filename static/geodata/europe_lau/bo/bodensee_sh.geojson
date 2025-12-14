@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bodensee_sh",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bodensee (SH)", "metric_roundness": 26.52, "metric_rectangularity": 60.89, "metric_mobile_fit": -41.34, "metric_aspect_ratio": 1.976, "metric_area_km2": 0.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8632577, 47.658041099999977 ], [ 8.8630315, 47.655022 ], [ 8.865296, 47.6560645 ], [ 8.8669865, 47.6560525 ], [ 8.872455, 47.6539615 ], [ 8.874888, 47.65467 ], [ 8.8749985, 47.655973499999988 ], [ 8.8632577, 47.658041099999977 ] ] ] } }
+]
+}

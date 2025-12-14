@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "loruns",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lorüns", "metric_roundness": 35.49, "metric_rectangularity": 56.39, "metric_mobile_fit": -2.38, "metric_aspect_ratio": 1.586, "metric_area_km2": 17.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.8585058, 47.122458199999983 ], [ 9.8839715, 47.1273895 ], [ 9.871165, 47.134599 ], [ 9.8559799, 47.133423699999987 ], [ 9.839083, 47.135643 ], [ 9.831977, 47.137219 ], [ 9.8262684, 47.1364823 ], [ 9.8170087, 47.1197166 ], [ 9.8157215, 47.1148727 ], [ 9.818296, 47.1079435 ], [ 9.8288833, 47.113816 ], [ 9.85516, 47.118648499999985 ], [ 9.8585058, 47.122458199999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hrkovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hrkovce", "metric_roundness": 49.52, "metric_rectangularity": 65.64, "metric_mobile_fit": 59.93, "metric_aspect_ratio": 0.963, "metric_area_km2": 17.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.885033, 48.089478 ], [ 18.884837, 48.086001 ], [ 18.9127763, 48.077038699999989 ], [ 18.9182067, 48.0722023 ], [ 18.926381, 48.096711499999977 ], [ 18.925992, 48.1040935 ], [ 18.880395, 48.102401 ], [ 18.885033, 48.089478 ] ] ] } }
+]
+}

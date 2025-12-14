@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pselobrachou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ψηλοβράχου", "metric_roundness": 39.73, "metric_rectangularity": 74.6, "metric_mobile_fit": 97.13, "metric_aspect_ratio": 0.591, "metric_area_km2": 11.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.59423, 38.8497035 ], [ 21.6005416, 38.8602396 ], [ 21.5993758, 38.8687121 ], [ 21.603682, 38.883035 ], [ 21.580718, 38.886584499999977 ], [ 21.5839637, 38.8649328 ], [ 21.5741795, 38.848512499999977 ], [ 21.5913515, 38.8477295 ], [ 21.59423, 38.8497035 ] ] ] } }
+]
+}

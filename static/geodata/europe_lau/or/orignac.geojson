@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orignac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orignac", "metric_roundness": 58.59, "metric_rectangularity": 79.19, "metric_mobile_fit": 72.19, "metric_aspect_ratio": 0.841, "metric_area_km2": 19.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.151576, 43.119559 ], [ 0.1599505, 43.1122515 ], [ 0.1737175, 43.1036855 ], [ 0.181606, 43.113156 ], [ 0.19157, 43.1286063 ], [ 0.1924705, 43.134351 ], [ 0.1875415, 43.1361935 ], [ 0.18304, 43.136777 ], [ 0.1726645, 43.141485499999987 ], [ 0.1647335, 43.141559 ], [ 0.1548975, 43.143300499999988 ], [ 0.148912, 43.133474 ], [ 0.1503515, 43.13054349999998 ], [ 0.1468465, 43.126176 ], [ 0.151576, 43.119559 ] ] ] } }
+]
+}

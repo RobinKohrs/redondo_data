@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tierz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tierz", "metric_roundness": 64.61, "metric_rectangularity": 88.35, "metric_mobile_fit": 37.54, "metric_aspect_ratio": 1.187, "metric_area_km2": 11.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.371851, 42.1254838 ], [ -0.3690748, 42.1188964 ], [ -0.3408455, 42.116802499999984 ], [ -0.334404, 42.137389 ], [ -0.3545195, 42.140198 ], [ -0.3645776, 42.1384989 ], [ -0.3697055, 42.134075 ], [ -0.371851, 42.1254838 ] ] ] } }
+]
+}

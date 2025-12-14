@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pyrgakiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πυργακίου", "metric_roundness": 51.3, "metric_rectangularity": 69.18, "metric_mobile_fit": 87.22, "metric_aspect_ratio": 0.69, "metric_area_km2": 31.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1832507, 37.642458499999989 ], [ 22.1620815, 37.654195 ], [ 22.1388094, 37.6463631 ], [ 22.140233, 37.632818 ], [ 22.1565148, 37.625216099999982 ], [ 22.1559895, 37.6114972 ], [ 22.1649838, 37.6008021 ], [ 22.1626095, 37.5918655 ], [ 22.1868445, 37.597039 ], [ 22.1900793, 37.6252667 ], [ 22.1931305, 37.630759499999982 ], [ 22.1832507, 37.642458499999989 ] ] ] } }
+]
+}

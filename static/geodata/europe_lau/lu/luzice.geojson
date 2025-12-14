@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luzice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lužice", "metric_roundness": 57.83, "metric_rectangularity": 77.87, "metric_mobile_fit": 67.96, "metric_aspect_ratio": 0.883, "metric_area_km2": 17.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.0886375, 48.835251 ], [ 17.0888652, 48.843395 ], [ 17.0684149, 48.852337 ], [ 17.0636525, 48.857681 ], [ 17.0545796, 48.8570328 ], [ 17.0527861, 48.85401659999998 ], [ 17.0553742, 48.846537799999979 ], [ 17.041626, 48.838637499999976 ], [ 17.058747, 48.8279649 ], [ 17.0634622, 48.8277411 ], [ 17.0656385, 48.824108699999982 ], [ 17.0732015, 48.822468 ], [ 17.0886375, 48.835251 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "salerm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Salerm", "metric_roundness": 54.68, "metric_rectangularity": 74.15, "metric_mobile_fit": 35.1, "metric_aspect_ratio": 1.211, "metric_area_km2": 11.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8045465, 43.3040235 ], [ 0.8098689, 43.2972604 ], [ 0.8211395, 43.294076 ], [ 0.8412691, 43.3044114 ], [ 0.8453805, 43.302997499999989 ], [ 0.8475595, 43.3043765 ], [ 0.848572, 43.3061425 ], [ 0.850506, 43.307472 ], [ 0.8221085, 43.321681499999983 ], [ 0.80922, 43.309671499999986 ], [ 0.8045465, 43.3040235 ] ] ] } }
+]
+}

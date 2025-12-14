@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "preixan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Preixan", "metric_roundness": 44.8, "metric_rectangularity": 66.15, "metric_mobile_fit": -12.35, "metric_aspect_ratio": 1.686, "metric_area_km2": 15.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2602429, 43.1432943 ], [ 2.2664645, 43.1358025 ], [ 2.2926196, 43.1309095 ], [ 2.302485, 43.132801499999985 ], [ 2.3059055, 43.1399646 ], [ 2.2922431, 43.154620199999989 ], [ 2.2748705, 43.1555645 ], [ 2.2489365, 43.1501015 ], [ 2.2602429, 43.1432943 ] ] ] } }
+]
+}

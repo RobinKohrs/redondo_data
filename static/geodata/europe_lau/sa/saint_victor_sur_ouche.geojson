@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_victor_sur_ouche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Victor-sur-Ouche", "metric_roundness": 32.9, "metric_rectangularity": 52.76, "metric_mobile_fit": -33.51, "metric_aspect_ratio": 1.898, "metric_area_km2": 27.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7415581, 47.226200499999983 ], [ 4.7491833, 47.228673499999985 ], [ 4.7682087, 47.222370799999986 ], [ 4.794921, 47.2242415 ], [ 4.7937904, 47.2280551 ], [ 4.7975425, 47.236741 ], [ 4.779377, 47.236811499999988 ], [ 4.7555212, 47.2401104 ], [ 4.7423052, 47.2463889 ], [ 4.7262376, 47.247111699999984 ], [ 4.7218185, 47.2408772 ], [ 4.707166, 47.242862499999987 ], [ 4.7143746, 47.2274037 ], [ 4.733925, 47.2147705 ], [ 4.7415581, 47.226200499999983 ] ] ] } }
+]
+}

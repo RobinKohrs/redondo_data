@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mojzesovo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mojzesovo", "metric_roundness": 70.32, "metric_rectangularity": 73.12, "metric_mobile_fit": 71.97, "metric_aspect_ratio": 0.843, "metric_area_km2": 16.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.2445051, 48.1531534 ], [ 18.213418, 48.142023499999986 ], [ 18.2144675, 48.140421 ], [ 18.2151245, 48.1386595 ], [ 18.2156235, 48.136892 ], [ 18.216053, 48.1326825 ], [ 18.215127, 48.130355 ], [ 18.2150985, 48.128159499999988 ], [ 18.21711, 48.126899499999986 ], [ 18.218608, 48.125643 ], [ 18.2373294, 48.121714 ], [ 18.249046, 48.12717 ], [ 18.2531209, 48.1339538 ], [ 18.252612, 48.1493465 ], [ 18.2445051, 48.1531534 ] ] ] } }
+]
+}

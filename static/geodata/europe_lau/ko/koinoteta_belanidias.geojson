@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_belanidias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βελανιδιάς", "metric_roundness": 47.11, "metric_rectangularity": 61.73, "metric_mobile_fit": 3.05, "metric_aspect_ratio": 1.532, "metric_area_km2": 12.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0674664, 37.1470843 ], [ 22.089751, 37.1415905 ], [ 22.1004543, 37.144662099999984 ], [ 22.104055, 37.1535125 ], [ 22.0952562, 37.1564077 ], [ 22.0928701, 37.1633165 ], [ 22.0822749, 37.1683217 ], [ 22.0688584, 37.1639899 ], [ 22.0598413, 37.1574691 ], [ 22.0531215, 37.145238 ], [ 22.052671, 37.142454 ], [ 22.0674664, 37.1470843 ] ] ] } }
+]
+}

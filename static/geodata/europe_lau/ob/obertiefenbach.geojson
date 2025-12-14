@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "obertiefenbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Obertiefenbach", "metric_roundness": 59.66, "metric_rectangularity": 75.8, "metric_mobile_fit": 41.45, "metric_aspect_ratio": 1.148, "metric_area_km2": 14.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.891121, 50.2289165 ], [ 7.9024867, 50.2351305 ], [ 7.907711, 50.23375 ], [ 7.914449, 50.23988 ], [ 7.9191915, 50.241909099999987 ], [ 7.9179003, 50.2522696 ], [ 7.9113145, 50.253755 ], [ 7.8872832, 50.251664899999987 ], [ 7.8796, 50.2485865 ], [ 7.8741975, 50.245762 ], [ 7.8765265, 50.244024 ], [ 7.8874145, 50.228688 ], [ 7.891121, 50.2289165 ] ] ] } }
+]
+}

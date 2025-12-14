@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cauverville_en_roumois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cauverville-en-Roumois", "metric_roundness": 49.33, "metric_rectangularity": 70.6, "metric_mobile_fit": 77.31, "metric_aspect_ratio": 0.789, "metric_area_km2": 7.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.6483233, 49.3449671 ], [ 0.6508531, 49.348932799999986 ], [ 0.658362, 49.346399499999976 ], [ 0.660431, 49.348678 ], [ 0.6599056, 49.360891099999989 ], [ 0.6398679, 49.367058499999985 ], [ 0.6321225, 49.366651499999989 ], [ 0.6368815, 49.358812 ], [ 0.639408, 49.351470499999984 ], [ 0.6402835, 49.34370149999998 ], [ 0.6483233, 49.3449671 ] ] ] } }
+]
+}

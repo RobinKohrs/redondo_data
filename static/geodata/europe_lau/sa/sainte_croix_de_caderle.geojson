@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_croix_de_caderle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Croix-de-Caderle", "metric_roundness": 42.62, "metric_rectangularity": 68.38, "metric_mobile_fit": 18.73, "metric_aspect_ratio": 1.375, "metric_area_km2": 15.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8885719, 44.073440399999981 ], [ 3.8857172, 44.077576 ], [ 3.8418125, 44.0806265 ], [ 3.8418578, 44.0754814 ], [ 3.8560435, 44.0632895 ], [ 3.8658917, 44.055428499999984 ], [ 3.8753902, 44.057801399999988 ], [ 3.884927, 44.053270499999982 ], [ 3.8937321, 44.0569367 ], [ 3.8896152, 44.0665482 ], [ 3.8941685, 44.072409499999985 ], [ 3.8885719, 44.073440399999981 ] ] ] } }
+]
+}

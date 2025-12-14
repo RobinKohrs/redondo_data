@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_michel_sous_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Michel-sous-Bois", "metric_roundness": 35.02, "metric_rectangularity": 53.05, "metric_mobile_fit": -8.28, "metric_aspect_ratio": 1.645, "metric_area_km2": 13.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9631732, 50.5255851 ], [ 1.956422, 50.529613499999989 ], [ 1.9518145, 50.5289405 ], [ 1.9294255, 50.518314899999986 ], [ 1.9135975, 50.5259535 ], [ 1.904198, 50.520708 ], [ 1.9013995, 50.518733499999975 ], [ 1.9072288, 50.518539699999984 ], [ 1.929735, 50.505741 ], [ 1.9391696, 50.5107655 ], [ 1.9556598, 50.5143047 ], [ 1.962993, 50.511104 ], [ 1.962991, 50.5207215 ], [ 1.9631732, 50.5255851 ] ] ] } }
+]
+}

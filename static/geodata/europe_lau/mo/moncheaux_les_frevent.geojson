@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moncheaux_les_frevent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moncheaux-lès-Frévent", "metric_roundness": 53.89, "metric_rectangularity": 72.23, "metric_mobile_fit": 56.6, "metric_aspect_ratio": 0.996, "metric_area_km2": 9.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.347993, 50.3132595 ], [ 2.345059, 50.310047 ], [ 2.3480665, 50.308198 ], [ 2.3461455, 50.3068105 ], [ 2.353498, 50.303359 ], [ 2.3553755, 50.304982499999987 ], [ 2.357144, 50.303524499999973 ], [ 2.3659648, 50.3085137 ], [ 2.380647, 50.311482499999983 ], [ 2.3830468, 50.3159369 ], [ 2.3752479, 50.3195467 ], [ 2.3720765, 50.327240499999988 ], [ 2.371117, 50.3277025 ], [ 2.3454555, 50.314204 ], [ 2.347993, 50.3132595 ] ] ] } }
+]
+}

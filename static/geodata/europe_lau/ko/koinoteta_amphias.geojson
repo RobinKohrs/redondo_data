@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_amphias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αμφίας", "metric_roundness": 63.1, "metric_rectangularity": 74.76, "metric_mobile_fit": 63.89, "metric_aspect_ratio": 0.924, "metric_area_km2": 8.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.631115, 41.0767905 ], [ 25.6296769, 41.088905799999985 ], [ 25.6175968, 41.0958736 ], [ 25.6045782, 41.0966852 ], [ 25.605061, 41.090241399999982 ], [ 25.6004385, 41.0844935 ], [ 25.606824, 41.071651 ], [ 25.631115, 41.0767905 ] ] ] } }
+]
+}

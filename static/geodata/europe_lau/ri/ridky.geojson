@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ridky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Řídký", "metric_roundness": 67.6, "metric_rectangularity": 78.38, "metric_mobile_fit": 46.12, "metric_aspect_ratio": 1.101, "metric_area_km2": 3.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2524251, 49.897005 ], [ 16.2401345, 49.903603 ], [ 16.2304987, 49.897437499999981 ], [ 16.2374625, 49.890778499999989 ], [ 16.249722, 49.892763 ], [ 16.2524251, 49.897005 ] ] ] } }
+]
+}

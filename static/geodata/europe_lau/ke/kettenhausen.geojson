@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kettenhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kettenhausen", "metric_roundness": 42.56, "metric_rectangularity": 59.52, "metric_mobile_fit": 59.81, "metric_aspect_ratio": 0.964, "metric_area_km2": 3.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.611288, 50.713487 ], [ 7.6157175, 50.708366 ], [ 7.611967, 50.707102 ], [ 7.6337955, 50.700558 ], [ 7.634575, 50.7054125 ], [ 7.6244455, 50.71585 ], [ 7.611288, 50.713487 ] ] ] } }
+]
+}

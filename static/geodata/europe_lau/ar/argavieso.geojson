@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "argavieso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Argavieso", "metric_roundness": 26.83, "metric_rectangularity": 54.84, "metric_mobile_fit": -74.51, "metric_aspect_ratio": 2.308, "metric_area_km2": 16.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3108255, 42.055504 ], [ -0.300142, 42.0413925 ], [ -0.2763024, 42.0439578 ], [ -0.255997, 42.039618 ], [ -0.2356965, 42.0402565 ], [ -0.239128, 42.0419505 ], [ -0.2633275, 42.0506716 ], [ -0.2681101, 42.0587215 ], [ -0.2769734, 42.0639366 ], [ -0.2965007, 42.063209199999989 ], [ -0.3112705, 42.058441 ], [ -0.3108255, 42.055504 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mérens", "metric_roundness": 43.63, "metric_rectangularity": 63.75, "metric_mobile_fit": -5.57, "metric_aspect_ratio": 1.618, "metric_area_km2": 8.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5426025, 43.743175 ], [ 0.5458425, 43.7411075 ], [ 0.5525675, 43.742567 ], [ 0.556182, 43.743975 ], [ 0.5592155, 43.7441505 ], [ 0.5680195, 43.749015 ], [ 0.569759, 43.750895 ], [ 0.5738525, 43.7533 ], [ 0.568422, 43.754425 ], [ 0.5499356, 43.7600324 ], [ 0.5454926, 43.756543799999982 ], [ 0.5315627, 43.753988599999985 ], [ 0.5314565, 43.7465955 ], [ 0.5426025, 43.743175 ] ] ] } }
+]
+}

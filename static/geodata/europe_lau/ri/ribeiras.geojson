@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ribeiras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ribeiras", "metric_roundness": 44.25, "metric_rectangularity": 59.21, "metric_mobile_fit": 14.36, "metric_aspect_ratio": 1.419, "metric_area_km2": 57.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -28.21637, 38.44663 ], [ -28.2135776, 38.4324769 ], [ -28.2260489, 38.4215258 ], [ -28.2291863, 38.4127546 ], [ -28.2274786, 38.4004211 ], [ -28.219984, 38.38788 ], [ -28.1978394, 38.395054599999987 ], [ -28.1793528, 38.408933099999977 ], [ -28.122794, 38.4060785 ], [ -28.1280015, 38.44203 ], [ -28.1670153, 38.433033699999974 ], [ -28.190106, 38.4397215 ], [ -28.21637, 38.44663 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cardenosa_de_volpejera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cardeñosa de Volpejera", "metric_roundness": 53.58, "metric_rectangularity": 72.12, "metric_mobile_fit": 71.1, "metric_aspect_ratio": 0.852, "metric_area_km2": 24.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.7200723, 42.2289768 ], [ -4.7165341, 42.219075 ], [ -4.7250805, 42.2150415 ], [ -4.723562, 42.2108155 ], [ -4.71595, 42.2030755 ], [ -4.7031576, 42.2071947 ], [ -4.6962774, 42.217381499999988 ], [ -4.6781855, 42.220592499999988 ], [ -4.6726517, 42.2385898 ], [ -4.6743225, 42.2436753 ], [ -4.6977566, 42.2486672 ], [ -4.713238, 42.247486 ], [ -4.7200723, 42.2289768 ] ] ] } }
+]
+}

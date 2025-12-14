@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "capodrise",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Capodrise", "metric_roundness": 28.01, "metric_rectangularity": 72.79, "metric_mobile_fit": -124.42, "metric_aspect_ratio": 2.807, "metric_area_km2": 6.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2840754, 41.0493727 ], [ 14.281819, 41.0441049 ], [ 14.278236, 41.0433545 ], [ 14.287125, 41.0394305 ], [ 14.2960947, 41.0415606 ], [ 14.3104039, 41.0373251 ], [ 14.3246835, 41.0374345 ], [ 14.323799, 41.043106199999983 ], [ 14.3164919, 41.0439313 ], [ 14.314391, 41.0477955 ], [ 14.2913915, 41.0498065 ], [ 14.2840754, 41.0493727 ] ] ] } }
+]
+}

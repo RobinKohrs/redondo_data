@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aingeville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aingeville", "metric_roundness": 46.19, "metric_rectangularity": 68.93, "metric_mobile_fit": -8.99, "metric_aspect_ratio": 1.652, "metric_area_km2": 12.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.762402, 48.195805 ], [ 5.7907015, 48.199341 ], [ 5.7910515, 48.2097715 ], [ 5.781423, 48.212844 ], [ 5.764593, 48.216335699999988 ], [ 5.7562405, 48.212815 ], [ 5.7527605, 48.210035499999982 ], [ 5.751198, 48.206705499999984 ], [ 5.7484315, 48.204536499999982 ], [ 5.7458052, 48.2032004 ], [ 5.7401475, 48.200322 ], [ 5.7458052, 48.1991737 ], [ 5.762402, 48.195805 ] ] ] } }
+]
+}

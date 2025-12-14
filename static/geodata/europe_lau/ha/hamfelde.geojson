@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hamfelde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hamfelde", "metric_roundness": 35.55, "metric_rectangularity": 58.47, "metric_mobile_fit": -50.82, "metric_aspect_ratio": 2.071, "metric_area_km2": 10.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.4310762, 53.5923822 ], [ 10.4356613, 53.590161099999989 ], [ 10.450726, 53.5928781 ], [ 10.455507, 53.591087 ], [ 10.467499, 53.5905965 ], [ 10.4725095, 53.5961685 ], [ 10.470425, 53.596761 ], [ 10.4472431, 53.5998217 ], [ 10.4354295, 53.6054545 ], [ 10.4197332, 53.6020475 ], [ 10.4181615, 53.5972135 ], [ 10.4214059, 53.5957742 ], [ 10.4220592, 53.591487 ], [ 10.4278255, 53.5898785 ], [ 10.4310762, 53.5923822 ] ] ] } }
+]
+}

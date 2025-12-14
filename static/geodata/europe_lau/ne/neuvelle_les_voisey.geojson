@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neuvelle_les_voisey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neuvelle-lès-Voisey", "metric_roundness": 43.79, "metric_rectangularity": 63.32, "metric_mobile_fit": -19.21, "metric_aspect_ratio": 1.755, "metric_area_km2": 12.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.8116952, 47.857555699999985 ], [ 5.807088, 47.865153 ], [ 5.7904865, 47.875876399999989 ], [ 5.7752986, 47.871507099999981 ], [ 5.7578042, 47.8612161 ], [ 5.761197, 47.859338 ], [ 5.7644875, 47.858522 ], [ 5.767311, 47.8556485 ], [ 5.774755, 47.85804 ], [ 5.780446, 47.8560715 ], [ 5.784674, 47.8552715 ], [ 5.79888, 47.855706 ], [ 5.8116952, 47.857555699999985 ] ] ] } }
+]
+}

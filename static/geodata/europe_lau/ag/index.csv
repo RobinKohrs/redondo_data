@@ -1,0 +1,201 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Agethorst,agethorst,ag,43.78,66.1,61.66
+europe_lau,Agathenburg,agathenburg,ag,49.08,60.61,19.98
+europe_lau,Aglasterhausen,aglasterhausen,ag,42.39,55.01,41.56
+europe_lau,Aguilar de Segarra,aguilar_de_segarra,ag,54.88,64.14,42.64
+europe_lau,Agurain,agurain,ag,51.42,65.19,61.68
+europe_lau,Àger,ager,ag,44.15,58.36,30.37
+europe_lau,Agramunt,agramunt,ag,30.06,57.88,66.8
+europe_lau,Agost,agost,ag,52.37,63.58,68.85
+europe_lau,Agres,agres,ag,61.65,65.88,50
+europe_lau,Aguas Cándidas,aguas_candidas,ag,45.67,63.39,87.03
+europe_lau,Aguilar de Bureba,aguilar_de_bureba,ag,59.85,78.13,79.55
+europe_lau,Agullana,agullana,ag,41.91,61.47,30.65
+europe_lau,Agudo,agudo,ag,51.61,71.76,4.98
+europe_lau,Agrón,agron,ag,31.94,65.57,-7.38
+europe_lau,Aguilar de la Frontera,aguilar_de_la_frontera,ag,35.95,41.71,81.46
+europe_lau,Agen-d'Aveyron,agen_d_aveyron,ag,55.48,73.99,26.51
+europe_lau,Aguessac,aguessac,ag,37.49,58.49,51.76
+europe_lau,Agnicourt-et-Séchelles,agnicourt_et_sechelles,ag,38.36,57.52,69.79
+europe_lau,Aguilcourt,aguilcourt,ag,64.6,79.17,41.91
+europe_lau,Agonges,agonges,ag,40.12,54.34,14.74
+europe_lau,Agonac,agonac,ag,60.15,66.95,50.51
+europe_lau,Agy,agy,ag,40.76,65.2,-27.77
+europe_lau,Aguilar de Codés,aguilar_de_codes,ag,60.62,64.72,59.55
+europe_lau,Aguadulce,aguadulce,ag,59.26,70.11,41.77
+europe_lau,Aguasal,aguasal,ag,39.48,53.62,67.58
+europe_lau,Aguilar de Campos,aguilar_de_campos,ag,60.01,70.91,17.22
+europe_lau,Agaete,agaete,ag,47.89,54.88,61.06
+europe_lau,Agüimes,aguimes,ag,28.43,61.24,20.53
+europe_lau,Agolada,agolada,ag,49.94,57.52,61.7
+europe_lau,Ágreda,agreda,ag,40.31,57.68,93.84
+europe_lau,Agoncillo,agoncillo,ag,50.07,62.68,41.09
+europe_lau,Aguilar del Río Alhama,aguilar_del_rio_alhama,ag,45.24,67.05,7.86
+europe_lau,Agullent,agullent,ag,34.69,71.44,97.11
+europe_lau,Agulo,agulo,ag,29.22,44.93,84.97
+europe_lau,Aguatón,aguaton,ag,35.48,65.11,80.84
+europe_lau,Aguaviva,aguaviva,ag,39.32,54.33,47.72
+europe_lau,Aguilar del Alfambra,aguilar_del_alfambra,ag,34.71,60.6,-49.67
+europe_lau,Agallas,agallas,ag,40.43,49.42,86.93
+europe_lau,Águilas,aguilas,ag,62.57,71.36,58.11
+europe_lau,Aguilafuente,aguilafuente,ag,72.68,71.3,58.62
+europe_lau,Agón,agon,ag,18.45,54.72,20.08
+europe_lau,Aguarón,aguaron,ag,36.55,62.68,61.48
+europe_lau,Aguilón,aguilon,ag,52.09,63.32,17.34
+europe_lau,Agüero,aguero,ag,34.6,65.23,86.08
+europe_lau,Aguilar de Campoo,aguilar_de_campoo,ag,38.81,46.52,53.17
+europe_lau,Άγιος Θεόδωρος Λεμεσού,agios_theodoros_lemesou,ag,44.93,62.01,71.06
+europe_lau,Άγιος Ιωάννης Λεμεσού,agios_ioannes_lemesou,ag,30.1,53.92,29.86
+europe_lau,Αγρός,agros,ag,57.49,69.17,46.94
+europe_lau,Άγιος Αμβρόσιος Λεμεσού,agios_ambrosios_lemesou,ag,27.01,71.14,93.71
+europe_lau,Άγιος Ηλίας,agios_elias,ag,56.62,62.68,54.66
+europe_lau,Άγιοι Βαβατσινιάς,agioi_babatsinias,ag,55.76,69.1,70.56
+europe_lau,Άγιος Ιωάννης Σελέμανη,agios_ioannes_selemane,ag,22.88,57.72,87.92
+europe_lau,Άγιοι Τριμιθιάς,agioi_trimithias,ag,33.45,59.03,36.21
+europe_lau,Αγία Μαρίνα Σκυλλούρας,agia_marina_skyllouras,ag,40.14,62.41,67.11
+europe_lau,Άγιος Αμβρόσιος Κερύνειας,agios_ambrosios_keryneias,ag,22.84,40.85,-20.6
+europe_lau,Άγιος Γεώργιος Αμμοχώστου,agios_georgios_ammochostou,ag,24.68,49.7,-94.42
+europe_lau,Agnez-lès-Duisans,agnez_les_duisans,ag,41.5,61.85,68.54
+europe_lau,Agnières,agnieres,ag,30.96,57.83,96.18
+europe_lau,Agny,agny,ag,65.05,74.54,79.86
+europe_lau,Άγιος Επίκτητος,agios_epiktetos,ag,46.06,54.22,31.05
+europe_lau,Άγιος Γεώργιος Λεμεσού,agios_georgios_lemesou,ag,19.47,65.92,67.04
+europe_lau,Agincourt,agincourt,ag,61.44,80.74,76.9
+europe_lau,Αγρίδια,agridia,ag,44.21,60.8,81.44
+europe_lau,Αγία Μαρινούδα,agia_marinouda,ag,47.71,72.24,67.84
+europe_lau,Άγιος Γεώργιος Πάφου,agios_georgios_paphou,ag,55.29,74.14,11.89
+europe_lau,Άγιος Μάμας,agios_mamas,ag,54.52,58.59,73.38
+europe_lau,Άγιος Θεόδωρος Αμμοχώστου,agios_theodoros_ammochostou,ag,61.55,73.18,69.5
+europe_lau,Άγιος Ευστάθιος,agios_eustathios,ag,62.57,81.85,68.96
+europe_lau,Άγιος Βασίλειος,agios_basileios,ag,47.78,64.7,25.13
+europe_lau,Αγία Ειρήνη Λευκωσίας,agia_eirene_leukosias,ag,41.97,57.43,95.06
+europe_lau,Agen,agen,ag,51.65,59.81,69.37
+europe_lau,Agmé,agme,ag,45.96,72.1,57.22
+europe_lau,Agnac,agnac,ag,48.99,68.74,30.82
+europe_lau,Άγιος Θεόδωρος Σολέας,agios_theodoros_soleas,ag,35.96,67.8,86.62
+europe_lau,Άγιος Θεόδωρος Τιλλιρίας,agios_theodoros_tillirias,ag,15.13,45.21,87.31
+europe_lau,Άγιος Παύλος,agios_paulos,ag,44.93,67.54,65.84
+europe_lau,Άγιος Κωνσταντίνος,agios_konstantinos,ag,62.93,74.64,80.4
+europe_lau,Ageville,ageville,ag,27.91,52.51,-66.85
+europe_lau,Άγιος Νικόλαος Πάφου,agios_nikolaos_paphou,ag,62.42,71.17,62.72
+europe_lau,Άγιος Ιωάννης Πάφου,agios_ioannes_paphou,ag,47.69,70.77,73.98
+europe_lau,Αγία Μαρίνα Κελοκεδάρων,agia_marina_kelokedaron,ag,47.4,73.74,68.62
+europe_lau,Αγία Βαρβάρα Πάφου,agia_barbara_paphou,ag,36.24,56.95,14.49
+europe_lau,Αγία Άννα,agia_anna,ag,70.25,72.4,60.25
+europe_lau,Άγιος Επιφάνιος Σολέας,agios_epiphanios_soleas,ag,53.24,71.18,57.05
+europe_lau,Agnat,agnat,ag,61.97,66.21,42.17
+europe_lau,Άγιος Γεώργιος Κερύνειας,agios_georgios_keryneias,ag,34.03,66.32,-3.75
+europe_lau,Αγριδάκι,agridaki,ag,29.14,53.64,97.58
+europe_lau,Άγιος Χαρίτων,agios_chariton,ag,63.8,78.73,53.88
+europe_lau,Άγιος Νικόλαος Αμμοχώστου,agios_nikolaos_ammochostou,ag,40.89,62.12,98.75
+europe_lau,Άγιος Δημήτριος,agios_demetrios,ag,43.01,56.27,4.71
+europe_lau,Άγιος Ανδρόνικος Καρπασίας,agios_andronikos_karpasias,ag,14.02,32.04,-97.97
+europe_lau,Άγιος Συμεών,agios_symeon,ag,49.07,68.55,4.85
+europe_lau,Agneaux,agneaux,ag,54.55,62.2,37.72
+europe_lau,Agon-Coutainville,agon_coutainville,ag,28.5,51.44,92.73
+europe_lau,Αγία Τριάς,agia_trias,ag,37.52,51.13,-0.34
+europe_lau,Άγιος Γεώργιος Καυκάλλου,agios_georgios_kaukallou,ag,39.66,64.84,74.5
+europe_lau,Αγία Μαρίνα Ξυλιάτου,agia_marina_xyliatou,ag,26.09,46.79,88.39
+europe_lau,Άγιος Θεόδωρος Λάρνακας,agios_theodoros_larnakas,ag,54.27,66.84,42.19
+europe_lau,Άγιος Νικόλαος Σολέας,agios_nikolaos_soleas,ag,43.19,64.85,52.19
+europe_lau,Αγίρδα,agirda,ag,59.54,65.46,55.81
+europe_lau,Άγιος Ερμόλαος,agios_ermolaos,ag,50.68,70.64,15.1
+europe_lau,Αγία Νάπα,agia_napa,ag,19.64,48.58,-65.17
+europe_lau,Άγιος Γεώργιος Σολέας,agios_georgios_soleas,ag,29.47,68.78,80.51
+europe_lau,Άγιος Θωμάς,agios_thomas,ag,40.22,70.03,89.46
+europe_lau,Άγιος Ιάκωβος,agios_iakobos,ag,67.97,65.8,52.88
+europe_lau,Άγιος Ανδρόνικος Tρικώμου (Τοπσούκιογιου ή Άγιο Ανδρονικούδι),agios_andronikos_trikomou_top_soukiogiou_e_agio_andronikoudi,ag,54.26,67.08,77.57
+europe_lau,Αγία Ειρήνη Κερύνειας,agia_eirene_keryneias,ag,55.92,74.66,65.83
+europe_lau,Άγιος Σέργιος,agios_sergios,ag,38.33,60.35,99.18
+europe_lau,Άγιος Τύχων,agios_tychon,ag,48.83,60.96,58.11
+europe_lau,Agudelle,agudelle,ag,39.4,84.47,89.45
+europe_lau,Agnin,agnin,ag,57.97,74.36,86.53
+europe_lau,Agris,agris,ag,36.44,63.77,33.69
+europe_lau,Agassac,agassac,ag,44.96,63.74,9.77
+europe_lau,Άγιος Επιφάνιος Ορεινής,agios_epiphanios_oreines,ag,54.11,59.54,33.53
+europe_lau,Άγιος Δομέτιος,agios_dometios,ag,47.88,56.11,52.52
+europe_lau,Agencourt,agencourt,ag,43.98,67.94,17.26
+europe_lau,Agey,agey,ag,52.24,72.62,61.71
+europe_lau,Αγλαντζιά ή Αγλαγγιά,aglantzia_e_aglangia,ag,47.16,69.66,-7.92
+europe_lau,Agde,agde,ag,70,69.93,56.46
+europe_lau,Agel,agel,ag,52.13,71.46,96.25
+europe_lau,Agonès,agones,ag,35,70.02,88.6
+europe_lau,Aghione,aghione,ag,46.14,60.13,47.21
+europe_lau,Αγία Βαρβάρα Λευκωσίας,agia_barbara_leukosias,ag,26.28,38.68,92.91
+europe_lau,Agarn,agarn,ag,16.47,56.88,88.62
+europe_lau,Άγιος Ιωάννης Μαλούντας,agios_ioannes_malountas,ag,47.91,57.25,26.42
+europe_lau,Αγροκηπιά,agrokepia,ag,41.9,71.81,95.88
+europe_lau,Agno,agno,ag,34.99,69.51,88.32
+europe_lau,'Αγιος Σωζόμενος,agios_sozomenos,ag,42.91,62.46,81.59
+europe_lau,Αγιά (Aγιά Κεπίρ),agia_agia_kepir,ag,55.11,64.55,20.89
+europe_lau,Aguts,aguts,ag,40.08,56.01,14.33
+europe_lau,Agenville,agenville,ag,48.55,68.34,89.75
+europe_lau,Agenvillers,agenvillers,ag,55.68,65.45,71.85
+europe_lau,Aggsbach,aggsbach,ag,47.63,73.22,99.44
+europe_lau,Άγιος Δημητριανός,agios_demetrianos,ag,61.23,76.16,74.92
+europe_lau,Agnetz,agnetz,ag,38.36,60.72,94.33
+europe_lau,Agnos,agnos,ag,35.41,53.28,21.52
+europe_lau,Αγία Μαρίνα Χρυσοχούς,agia_marina_chrysochous,ag,38.4,64.31,-14.57
+europe_lau,Άγιος Ισίδωρος,agios_isidoros,ag,31.82,57.29,45.84
+europe_lau,Agos-Vidalos,agos_vidalos,ag,49.49,61.85,54.03
+europe_lau,Agordo,agordo,ag,34.97,61.94,80.58
+europe_lau,Agrate Brianza,agrate_brianza,ag,33.44,54.76,-29.76
+europe_lau,Agnana Calabra,agnana_calabra,ag,55.69,74.18,83.85
+europe_lau,Agrigento,agrigento,ag,21.96,52.6,43.38
+europe_lau,Agira,agira,ag,42.28,55,48.86
+europe_lau,Agliana,agliana,ag,43.22,68.37,92.37
+europe_lau,Agnosine,agnosine,ag,64.03,68.83,68.06
+europe_lau,Agnadello,agnadello,ag,50.77,60.3,53.19
+europe_lau,Agazzano,agazzano,ag,53.53,75.67,77.63
+europe_lau,Agropoli,agropoli,ag,45.14,54.88,60.56
+europe_lau,Agna,agna,ag,32.87,55.15,34.54
+europe_lau,Agugliano,agugliano,ag,54.39,70.53,15.87
+europe_lau,Agugliaro,agugliaro,ag,48.42,59.97,77.14
+europe_lau,Agra,agra,ag,59.77,69.22,39.83
+europe_lau,Agosta,agosta,ag,33.22,53.85,92.24
+europe_lau,Ágasegyháza,agasegyhaza,ag,45.49,66.73,30.17
+europe_lau,Agliano Terme,agliano_terme,ag,67.18,75.94,72.06
+europe_lau,Aggtelek,aggtelek,ag,33.99,49.21,65.62
+europe_lau,Ágfalva,agfalva,ag,53.07,69.27,63.59
+europe_lau,Agrate Conturbia,agrate_conturbia,ag,50.13,66.09,87.54
+europe_lau,Agyagosszergény,agyagosszergeny,ag,50.12,69.7,86.37
+europe_lau,Agliè,aglie,ag,59.25,73.19,72.7
+europe_lau,Agerola,agerola,ag,63.78,73.74,39.9
+europe_lau,Ág,ag,ag,23.08,55.02,60.96
+europe_lau,Agigea,agigea,ag,42.95,59.67,22.71
+europe_lau,Aguda,aguda,ag,37.39,59.41,80.31
+europe_lau,Aguada de Cima,aguada_de_cima,ag,37.43,59.13,3.77
+europe_lau,Águas Belas,aguas_belas,ag,41.93,58.32,-13.28
+europe_lau,Agriş,agris,ag,33.32,53.5,93.45
+europe_lau,Agăş,agas,ag,35.92,55.01,13.62
+europe_lau,Aguiã,aguia,ag,56.44,65.34,53.47
+europe_lau,Aghireşu,aghiresu,ag,35.06,48.77,80.89
+europe_lau,Agrela,agrela,ag,63.44,70.08,66.04
+europe_lau,Água Longa,agua_longa,ag,41.29,62.99,96.85
+europe_lau,Agilde,agilde,ag,60.2,69.56,71.46
+europe_lau,Aglonas novads,aglonas_novads,ag,56.07,65.33,45.88
+europe_lau,Agrochão,agrochao,ag,67.8,79.4,67.56
+europe_lau,Água de Pena,agua_de_pena,ag,30.79,70.82,-13.55
+europe_lau,Aguiar,aguiar,ag,36.64,55.68,-14.45
+europe_lau,Águas Frias,aguas_frias,ag,34.86,70.96,44.95
+europe_lau,Aggius,aggius,ag,35.44,44.98,85.85
+europe_lau,Água de Pau,agua_de_pau,ag,48.04,60.69,78.52
+europe_lau,Água Retorta,agua_retorta,ag,41.03,47.4,53.71
+europe_lau,Água de Alto,agua_de_alto,ag,50.23,67.48,78.46
+europe_lau,Aglientu,aglientu,ag,38.43,50.7,61.24
+europe_lau,Água Revés e Crasto,agua_reves_e_crasto,ag,56.83,73.31,38.48
+europe_lau,Agualva,agualva,ag,54.28,63.96,68.65
+europe_lau,Águas Santas,aguas_santas,ag,36.56,44.17,79.08
+europe_lau,Águas Livres,aguas_livres,ag,42.92,77.15,-36.51
+europe_lau,Agrij,agrij,ag,23.52,39.74,34.31
+europe_lau,Agregação das freguesias Sul de Pinhel,agregacao_das_freguesias_sul_de_pinhel,ag,40.59,60.4,84.95
+europe_lau,Agapia,agapia,ag,33.72,58.36,-37.04
+europe_lau,Aguiar de Sousa,aguiar_de_sousa,ag,53.19,62.58,71.44
+europe_lau,Águas Belas,aguas_belas,ag,39.1,46.62,35.04
+europe_lau,Agnone,agnone,ag,39.92,58.47,78.57
+europe_lau,Agualonga,agualonga,ag,57.98,61.7,60.34
+europe_lau,Aguieiras,aguieiras,ag,32.6,66.2,90.67
+europe_lau,Άγιος Αθανάσιος,agios_athanasios,ag,33.27,59.39,97.2
+europe_lau,Άγιος Θεράπων,agios_therapon,ag,27.34,50.41,40.37
+europe_lau,Άγιοι Ηλιόφωτοι,agioi_eliophotoi,ag,41.1,79.33,97.31
+europe_lau,Agiez,agiez,ag,50.34,66.44,45.38

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ebes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ebes", "metric_roundness": 53.31, "metric_rectangularity": 79.55, "metric_mobile_fit": 70.25, "metric_aspect_ratio": 0.86, "metric_area_km2": 168.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.437745, 47.5059025 ], [ 21.4493749, 47.484523199999984 ], [ 21.4416828, 47.4744512 ], [ 21.4573007, 47.438891399999974 ], [ 21.527169, 47.430375899999987 ], [ 21.5501635, 47.4329125 ], [ 21.5568905, 47.4333695 ], [ 21.5600849, 47.4797682 ], [ 21.5463183, 47.483133299999984 ], [ 21.5368326, 47.4926723 ], [ 21.538205, 47.5192756 ], [ 21.440506, 47.526524 ], [ 21.437745, 47.5059025 ] ] ] } }
+]
+}

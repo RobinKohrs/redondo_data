@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "munster_sarmsheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Münster-Sarmsheim", "metric_roundness": 48.09, "metric_rectangularity": 61.11, "metric_mobile_fit": 18.02, "metric_aspect_ratio": 1.382, "metric_area_km2": 17.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8774271, 49.9357965 ], [ 7.8905355, 49.9301345 ], [ 7.8982415, 49.930499499999982 ], [ 7.902247, 49.9398358 ], [ 7.8983025, 49.953939299999981 ], [ 7.8953548, 49.956919699999979 ], [ 7.888476, 49.95615 ], [ 7.8733327, 49.9534343 ], [ 7.8693673, 49.947182399999988 ], [ 7.849187, 49.9490575 ], [ 7.8447124, 49.9451812 ], [ 7.846411, 49.942808 ], [ 7.8688925, 49.935128 ], [ 7.8774271, 49.9357965 ] ] ] } }
+]
+}

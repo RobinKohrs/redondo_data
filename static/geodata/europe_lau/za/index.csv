@@ -1,0 +1,378 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Zahrádka,zahradka,za,51.07,62.72,74.07
+europe_lau,Zábrodí,zabrodi,za,46.8,62.62,72.88
+europe_lau,Zaloňov,zalonov,za,47.83,57.01,46.26
+europe_lau,Žáravice,zaravice,za,66.35,72.7,64.18
+europe_lau,Záměl,zamel,za,32.42,49.82,-11.45
+europe_lau,Záhoří,zahori,za,50.45,64.41,35.98
+europe_lau,Záhorovice,zahorovice,za,34.71,65.21,93.11
+europe_lau,Zakřany,zakrany,za,53.35,58.05,56.42
+europe_lau,Zálesná Zhoř,zalesna_zhor,za,33.33,40.16,31.08
+europe_lau,Zastávka,zastavka,za,60.68,79.02,63.27
+europe_lau,Žabčice,zabcice,za,40.04,60.15,45.18
+europe_lau,Žatčany,zatcany,za,42.61,61.24,37.18
+europe_lau,Zaječí,zajeci,za,37.47,57.83,84.36
+europe_lau,Zádveřice-Raková,zadverice_rakova,za,35.03,63.35,94.84
+europe_lau,Závist,zavist,za,35.85,63.36,98.52
+europe_lau,Žádovice,zadovice,za,38.16,64.84,71.42
+europe_lau,Žarošice,zarosice,za,34.23,51.43,93.54
+europe_lau,Zadní Vydří,zadni_vydri,za,42.75,63.22,38.2
+europe_lau,Zástřizly,zastrizly,za,34.49,45.72,8.31
+europe_lau,Žacléř,zacler,za,43.45,52.06,38.71
+europe_lau,Zádolí,zadoli,za,45.32,68.04,40.29
+europe_lau,Záchlumí,zachlumi,za,40.95,46.94,35.49
+europe_lau,Zálší,zalsi,za,62.07,68.6,34.33
+europe_lau,Zámrsk,zamrsk,za,55.92,68.95,36.57
+europe_lau,Zářecká Lhota,zarecka_lhota,za,56.1,65.2,59.69
+europe_lau,Žamberk,zamberk,za,49.61,58.75,47.67
+europe_lau,Žampach,zampach,za,39.46,59.91,7.31
+europe_lau,Záborná,zaborna,za,46.54,63.33,93.67
+europe_lau,Žatec,zatec,za,55.66,66.84,74.76
+europe_lau,Zahnašovice,zahnasovice,za,46.65,71.51,82.11
+europe_lau,Záříčí,zarici,za,45.11,71,69.62
+europe_lau,Žalkovice,zalkovice,za,40.81,66.39,-3.73
+europe_lau,Zahrádka,zahradka,za,37.26,50.98,92.67
+europe_lau,Zárubice,zarubice,za,49.96,67.82,87.13
+europe_lau,Zašovice,zasovice,za,27.24,48.22,61.97
+europe_lau,Záblatí,zablati,za,48.74,72.54,69.14
+europe_lau,Zadní Zhořec,zadni_zhorec,za,25.77,66.28,-120.92
+europe_lau,Zátor,zator,za,56.02,71.33,88.05
+europe_lau,Záhoří,zahori,za,52.03,72.26,-12.6
+europe_lau,Závraty,zavraty,za,71.49,82.73,57.94
+europe_lau,Zálesí,zalesi,za,35.68,46.12,46.46
+europe_lau,Zarpen,zarpen,za,46.3,62.74,33.18
+europe_lau,Zaberfeld,zaberfeld,za,54.15,72.47,46.97
+europe_lau,Zaisenhausen,zaisenhausen,za,59.76,68.25,73.11
+europe_lau,Zachenberg,zachenberg,za,63.54,66.35,63.92
+europe_lau,Zangberg,zangberg,za,53.49,65.74,27.82
+europe_lau,Zarrendorf,zarrendorf,za,33.69,71.72,-96.41
+europe_lau,Zandt,zandt,za,47.09,67.71,91.87
+europe_lau,Zaventem,zaventem,za,46.22,54.65,49.38
+europe_lau,"Zahna-Elster, Stadt",zahna_elster_stadt,za,56.04,65.36,78.19
+europe_lau,Zarza-Capilla,zarza_capilla,za,43.07,58.12,70.25
+europe_lau,"Zarza, La",zarza_la,za,35.79,63.15,-28.52
+europe_lau,Zarza de Granadilla,zarza_de_granadilla,za,41.45,55.85,94.64
+europe_lau,Zarza de Montánchez,zarza_de_montanchez,za,51.22,61.69,75.04
+europe_lau,Zarza la Mayor,zarza_la_mayor,za,51.39,61.68,75.15
+europe_lau,Zahara,zahara,za,46.51,76.77,-37.87
+europe_lau,Zalduondo,zalduondo,za,28.62,57.84,95.19
+europe_lau,Zambrana,zambrana,za,29.11,56.22,-67.34
+europe_lau,Zapardiel de la Cañada,zapardiel_de_la_canada,za,61.27,68.73,59.59
+europe_lau,Zapardiel de la Ribera,zapardiel_de_la_ribera,za,27.61,56.69,97.16
+europe_lau,Завет,zavet,za,61.04,70.38,66
+europe_lau,Zafra de Záncara,zafra_de_zancara,za,45.94,71.29,20.98
+europe_lau,Zafrilla,zafrilla,za,28.02,76.67,59.27
+europe_lau,Zarza de Tajo,zarza_de_tajo,za,55.09,77.06,83.01
+europe_lau,Zarzuela,zarzuela,za,57.69,71.13,88.17
+europe_lau,Zael,zael,za,50.05,58.11,79.29
+europe_lau,Zarzosa de Río Pisuerga,zarzosa_de_rio_pisuerga,za,43.95,62.9,92.83
+europe_lau,Zazuar,zazuar,za,42.21,75.85,96.66
+europe_lau,Zafra,zafra,za,34.7,59.17,72.55
+europe_lau,Zahínos,zahinos,za,46.14,51.75,51.55
+europe_lau,Zalamea de la Serena,zalamea_de_la_serena,za,50.24,57.91,55.34
+europe_lau,Zafarraya,zafarraya,za,50.37,72.5,15.59
+europe_lau,Zagra,zagra,za,59.89,72.43,78.18
+europe_lau,Zas,zas,za,34.8,49.26,99.97
+europe_lau,Zams,zams,za,42.25,58.65,-3.11
+europe_lau,Zarnewanz,zarnewanz,za,49.55,69.23,39.25
+europe_lau,Zandhoven,zandhoven,za,43.98,66.52,53.32
+europe_lau,Zapel,zapel,za,64.01,77.03,57.12
+europe_lau,"Zarrentin am Schaalsee, Stadt",zarrentin_am_schaalsee_stadt,za,51.07,52.94,62.87
+europe_lau,"Zapfendorf, M",zapfendorf_m,za,62.45,67.42,64.19
+europe_lau,"Zaida, La",zaida_la,za,34.14,54.6,-26.27
+europe_lau,Zaragoza,zaragoza,za,40.95,50,79.43
+europe_lau,Zarratón,zarraton,za,39.29,61.09,29.79
+europe_lau,Zarzosa,zarzosa,za,34.74,47.39,60.64
+europe_lau,Zaldibar,zaldibar,za,44.49,64.63,-21.99
+europe_lau,Zalla,zalla,za,60.33,72.93,70.88
+europe_lau,Zaratamo,zaratamo,za,48.62,70.45,94.66
+europe_lau,Zamudio,zamudio,za,48.24,61.28,53.03
+europe_lau,Zaidín,zaidin,za,65.01,72.62,44.84
+europe_lau,Zarzuela del Monte,zarzuela_del_monte,za,46.18,70.21,84.98
+europe_lau,Zarzuela del Pinar,zarzuela_del_pinar,za,34.47,69.04,-55.24
+europe_lau,Zarra,zarra,za,26.99,60.49,-103.66
+europe_lau,Zäziwil,zaziwil,za,47.9,62.09,68.4
+europe_lau,Zamarra,zamarra,za,38.35,55.45,79.09
+europe_lau,Zamayón,zamayon,za,50.53,68.94,90.52
+europe_lau,Zarapicos,zarapicos,za,31.21,50.21,83.65
+europe_lau,"Zarza de Pumareda, La",zarza_de_pumareda_la,za,48.69,64.35,80.35
+europe_lau,Zaorejas,zaorejas,za,46.05,58.65,41.55
+europe_lau,Zarzuela de Jadraque,zarzuela_de_jadraque,za,49.88,65.03,66.19
+europe_lau,Zarzalejo,zarzalejo,za,45.58,63.33,68.91
+europe_lau,Zabalza,zabalza,za,59.89,65.68,64.84
+europe_lau,Zaldibia,zaldibia,za,33.54,52.56,94.53
+europe_lau,Zarautz,zarautz,za,42.38,58.28,78.98
+europe_lau,Zaratán,zaratan,za,63.74,71.32,39.12
+europe_lau,"Zarza, La",zarza_la,za,60.61,70.39,66.18
+europe_lau,Zamora,zamora,za,23.44,45.75,-64.49
+europe_lau,Zalamea la Real,zalamea_la_real,za,43.43,66.16,25.5
+europe_lau,"Zarza-Perrunal, La",zarza_perrunal_la,za,29.87,51.15,-22.34
+europe_lau,Zámrsky,zamrsky,za,63.06,72.07,66.76
+europe_lau,Žákovice,zakovice,za,46.43,54.91,26.5
+europe_lau,Zalana,zalana,za,61.85,65.19,60.6
+europe_lau,Zásmuky,zasmuky,za,58.61,67.03,81.39
+europe_lau,Zákolany,zakolany,za,52.6,67.46,51.68
+europe_lau,Zábrdí,zabrdi,za,55.85,73.28,91.71
+europe_lau,Zaessingue,zaessingue,za,61.48,76.51,66
+europe_lau,Zábřeh,zabreh,za,37.71,64.53,25.94
+europe_lau,Zadní Chodov,zadni_chodov,za,40.28,57.52,22
+europe_lau,Zahorčice,zahorcice,za,43.08,54.24,64.04
+europe_lau,Zálezlice,zalezlice,za,51.1,61.6,17.39
+europe_lau,Záryby,zaryby,za,38.94,46.51,74.95
+europe_lau,Zádub-Závišín,zadub_zavisin,za,29.44,50.65,93.48
+europe_lau,Žáky,zaky,za,34.41,61.84,92.42
+europe_lau,Ζαχαριά,zacharia,za,26.66,49.78,39.11
+europe_lau,Zalešany,zalesany,za,51.88,64.91,56.93
+europe_lau,Žabonosy,zabonosy,za,35.83,57.7,26.28
+europe_lau,Zahájí,zahaji,za,64.41,69.37,44.77
+europe_lau,Zálužice,zaluzice,za,44.5,63.28,43.69
+europe_lau,Žárovná,zarovna,za,49.54,72.16,76.2
+europe_lau,Záhoří,zahori,za,52.74,66.32,29.71
+europe_lau,Zadní Třebaň,zadni_treban,za,51.76,69.52,81.28
+europe_lau,Zaječov,zajecov,za,37.36,66.5,89.45
+europe_lau,Záluží,zaluzi,za,51.12,77.28,86.39
+europe_lau,Záhornice,zahornice,za,54.5,68.98,6.98
+europe_lau,Zápy,zapy,za,62.85,77.01,54.87
+europe_lau,Záboří nad Labem,zabori_nad_labem,za,26.09,47.02,71.76
+europe_lau,Záblatí,zablati,za,53.8,69.18,34.87
+europe_lau,Zarbeling,zarbeling,za,53.42,66.2,67.03
+europe_lau,Žákava,zakava,za,46.75,58.53,41.53
+europe_lau,Zaccanopoli,zaccanopoli,za,33.79,49.76,4.17
+europe_lau,Zambrone,zambrone,za,36.87,61.09,66.49
+europe_lau,Żarów,zarow,za,50.66,57.61,40.37
+europe_lau,Ząbkowice Śląskie,zabkowice_slaskie,za,61.72,67.52,68.33
+europe_lau,Zawonia,zawonia,za,40.65,63.15,41.31
+europe_lau,Zanè,zane,za,69.94,75.73,59.96
+europe_lau,Záblatí,zablati,za,54.11,65.01,34.7
+europe_lau,Zálezly,zalezly,za,68.15,73.31,45.22
+europe_lau,Zaklików,zaklikow,za,69.45,67.38,60.94
+europe_lau,Zaleszany,zaleszany,za,48.93,68.87,55.79
+europe_lau,Zapponeta,zapponeta,za,18.22,31.94,-46.75
+europe_lau,Zachotín,zachotin,za,48.65,67.1,93.59
+europe_lau,Závada,zavada,za,46.69,55.82,34.12
+europe_lau,Zalewo,zalewo,za,52.87,72.42,72.12
+europe_lau,Zámostí-Blata,zamosti_blata,za,62.13,73.69,26.9
+europe_lau,Zabłudów,zabludow,za,58.62,66.21,79.73
+europe_lau,Zawady,zawady,za,58.31,65.09,58.63
+europe_lau,Záhoří,zahori,za,37.29,53.03,12.4
+europe_lau,Zagarise,zagarise,za,26.27,50.8,95.96
+europe_lau,Zahořany,zahorany,za,44.42,55.22,36.19
+europe_lau,Zawadzkie,zawadzkie,za,33.15,52.25,4.83
+europe_lau,Zandobbio,zandobbio,za,37.13,74.48,-60.65
+europe_lau,Zanica,zanica,za,51.72,58.39,46.73
+europe_lau,Zavattarello,zavattarello,za,44.62,64.25,71.17
+europe_lau,Zambrów,zambrow,za,43.28,53.18,74.98
+europe_lau,Zambrów,zambrow,za,39.45,53.52,75.79
+europe_lau,Zawidów,zawidow,za,62.49,67.49,28.74
+europe_lau,Zagrodno,zagrodno,za,64.73,70.45,39.06
+europe_lau,Zakrzewo,zakrzewo,za,33.8,50.58,-28.96
+europe_lau,Zagarolo,zagarolo,za,23.43,58.33,48.47
+europe_lau,Ząbki,zabki,za,61.8,82.63,62
+europe_lau,Żabia Wola,zabia_wola,za,48.5,56.28,81.92
+europe_lau,Zakroczym,zakroczym,za,39.49,49.95,58.24
+europe_lau,Zakrzówek,zakrzowek,za,61.53,70.42,72.71
+europe_lau,Zagórów,zagorow,za,53.41,65,23.24
+europe_lau,Zábřezí-Řečice,zabrezi_recice,za,46.99,86.57,39.13
+europe_lau,Zarasų rajono savivaldybė,zarasu_rajono_savivaldybe,za,45.56,61.23,30.5
+europe_lau,Załuski,zaluski,za,53.89,60.46,82.59
+europe_lau,Zatory,zatory,za,50.75,62.55,60.54
+europe_lau,Zálší,zalsi,za,36.11,51.59,98.46
+europe_lau,Zagórz,zagorz,za,28.82,49.27,94.99
+europe_lau,Zarszyn,zarszyn,za,48.55,60.47,81.15
+europe_lau,Zarzecze,zarzecze,za,48.74,62.28,78.84
+europe_lau,Zaręby Kościelne,zareby_koscielne,za,54.52,62,48.85
+europe_lau,Zabrodzie,zabrodzie,za,33.89,58.08,-57.56
+europe_lau,Zakrzewo,zakrzewo,za,50.3,57.27,53.96
+europe_lau,Zaniemyśl,zaniemysl,za,63.78,64.5,66.77
+europe_lau,Zafferana Etnea,zafferana_etnea,za,41.9,62.13,60.28
+europe_lau,Zánka,zanka,za,37.72,45.9,34.62
+europe_lau,Žabeň,zaben,za,41.18,68.11,93.41
+europe_lau,Zalaszentiván,zalaszentivan,za,38.24,47.23,81.71
+europe_lau,Zalasárszeg,zalasarszeg,za,63.27,68.94,60.66
+europe_lau,Zádorfalva,zadorfalva,za,37.87,61.38,90.57
+europe_lau,Záhony,zahony,za,58.52,70.39,78.31
+europe_lau,Zalakaros,zalakaros,za,52.3,69.66,59.84
+europe_lau,Zalabaksa,zalabaksa,za,44.33,52.53,31.14
+europe_lau,Zalaistvánd,zalaistvand,za,39.85,55.11,94.87
+europe_lau,Zabar,zabar,za,51.53,64.84,27.24
+europe_lau,Zagyvaszántó,zagyvaszanto,za,45.59,70.5,30.11
+europe_lau,Zalaigrice,zalaigrice,za,49.68,57.73,76
+europe_lau,Zalavég,zalaveg,za,48.75,75.49,89.65
+europe_lau,Zalamerenye,zalamerenye,za,40.35,62.49,91.58
+europe_lau,Zalahaláp,zalahalap,za,39.62,57.66,72.84
+europe_lau,Zalaszentmárton,zalaszentmarton,za,52.87,63.84,86.22
+europe_lau,Zalaapáti,zalaapati,za,63.09,72.32,79.58
+europe_lau,Zalaszentlőrinc,zalaszentlorinc,za,52.28,65.46,59.02
+europe_lau,Zalagyömörő,zalagyomoro,za,46.69,73.74,59.85
+europe_lau,Zalaszombatfa,zalaszombatfa,za,34.46,61.89,96.39
+europe_lau,Zalacsány,zalacsany,za,45.8,55.76,81.95
+europe_lau,Zalaszabar,zalaszabar,za,48.57,65.6,2.15
+europe_lau,Zašová,zasova,za,35.88,65.36,94.42
+europe_lau,Zaránk,zarank,za,57.62,74.93,28.84
+europe_lau,Zádor,zador,za,28.71,56.97,95.55
+europe_lau,Zalaszentjakab,zalaszentjakab,za,43.65,60.87,48.93
+europe_lau,Zalaegerszeg,zalaegerszeg,za,58.13,71.91,72.45
+europe_lau,Zalaszentgrót,zalaszentgrot,za,54.13,66.13,76.97
+europe_lau,Zalavár,zalavar,za,53.62,62.16,55.05
+europe_lau,Zalaszentmihály,zalaszentmihaly,za,41.04,60.52,97.31
+europe_lau,Zájezdec,zajezdec,za,71.23,82.66,68.06
+europe_lau,Záboří,zabori,za,57.26,64.35,70.43
+europe_lau,Zalaújlak,zalaujlak,za,25.78,52.23,98.1
+europe_lau,Záluží,zaluzi,za,44.15,54.17,69.92
+europe_lau,Zalaszegvár,zalaszegvar,za,53.15,63.03,54.37
+europe_lau,Zalaboldogfa,zalaboldogfa,za,52.65,62.57,81.12
+europe_lau,Zalaháshágy,zalahashagy,za,59.42,73.71,53.97
+europe_lau,Záboří,zabori,za,59.41,66.9,30.29
+europe_lau,Zalabér,zalaber,za,35.69,55.9,85.33
+europe_lau,Žabovřesky,zabovresky,za,47.23,68.34,27.45
+europe_lau,Žár,zar,za,44.87,65.37,40.31
+europe_lau,Zalužany,zaluzany,za,47.72,71.03,15.16
+europe_lau,Zákányszék,zakanyszek,za,50.81,69.84,-2.19
+europe_lau,Zalaszentbalázs,zalaszentbalazs,za,39.69,56.74,64.66
+europe_lau,Zalaköveskút,zalakoveskut,za,41.88,50.76,63.82
+europe_lau,Zalameggyes,zalameggyes,za,34.73,56.7,93.46
+europe_lau,Zalaszentgyörgy,zalaszentgyorgy,za,51.22,62.91,45.99
+europe_lau,Zalaszántó,zalaszanto,za,45.64,61.95,33.79
+europe_lau,Zabok,zabok,za,45.45,52.34,34.25
+europe_lau,Zagorska Sela,zagorska_sela,za,31.91,60.89,99.82
+europe_lau,Zagvozd,zagvozd,za,48.81,74.45,45.57
+europe_lau,Zažablje,zazablje,za,58.26,74.5,31.58
+europe_lau,Žakanje,zakanje,za,32.72,47.41,79.04
+europe_lau,Zaprešić,zapresic,za,30.16,44.96,98.54
+europe_lau,Záchlumí,zachlumi,za,48.67,62.36,78.87
+europe_lau,Závod,zavod,za,50.88,67.55,55.47
+europe_lau,Zákány,zakany,za,41.02,47.42,35.93
+europe_lau,Zagyvarékas,zagyvarekas,za,41.49,50.87,47.45
+europe_lau,Zalakomár,zalakomar,za,20.13,48.22,78.97
+europe_lau,Zavidov,zavidov,za,38.78,56.16,75.89
+europe_lau,Zahrádky,zahradky,za,64.39,70.45,69.06
+europe_lau,Zajk,zajk,za,38.04,64.58,88.31
+europe_lau,Zaláta,zalata,za,26.59,66.61,98.22
+europe_lau,Zamárdi,zamardi,za,41.24,68.17,90.98
+europe_lau,Zajta,zajta,za,34.39,70.61,4.9
+europe_lau,Zadvarje,zadvarje,za,36.52,49.79,79.64
+europe_lau,Zalkod,zalkod,za,41.85,48.41,28.2
+europe_lau,Zákányfalu,zakanyfalu,za,30.4,50.34,90.23
+europe_lau,Zala,zala,za,35.58,66.91,99.16
+europe_lau,Zábeštní Lhota,zabestni_lhota,za,73.12,78.61,52.51
+europe_lau,Zalatárnok,zalatarnok,za,47.76,61.9,60.24
+europe_lau,Zalaerdőd,zalaerdod,za,47.65,68.19,0.99
+europe_lau,Zámoly,zamoly,za,44.91,64.7,87.56
+europe_lau,Zalalövő,zalalovo,za,38.85,61.79,89.25
+europe_lau,Zalacséb,zalacseb,za,63.37,66.04,57.54
+europe_lau,Zalaszentlászló,zalaszentlaszlo,za,50.86,77.21,71.71
+europe_lau,Zalaba,zalaba,za,69.68,75.79,65.88
+europe_lau,Závadka (okres Gelnica),zavadka_okres_gelnica,za,56.7,72.79,42.73
+europe_lau,Žakarovce,zakarovce,za,37.72,73.3,-64.79
+europe_lau,Závadka nad Hronom,zavadka_nad_hronom,za,24.56,58.63,86.45
+europe_lau,Zatín,zatin,za,62.66,70.78,53.39
+europe_lau,Zálesie (okres Senec),zalesie_okres_senec,za,45.93,62,84.19
+europe_lau,Zákopčie,zakopcie,za,39.42,58.92,-4.8
+europe_lau,Zawidz,zawidz,za,57.52,68.19,75.42
+europe_lau,Žabari,zabari,za,40.98,61.97,98.15
+europe_lau,Žagubica,zagubica,za,63.78,74.12,33.95
+europe_lau,Zaječar,zajecar,za,41.4,64.02,85.94
+europe_lau,Žarnov,zarnov,za,61.8,67.52,78.36
+europe_lau,Zamarovce,zamarovce,za,38.87,60.95,71.03
+europe_lau,Zacharovce,zacharovce,za,42.98,74.42,88.72
+europe_lau,Zabrušany,zabrusany,za,57.21,77.94,75.78
+europe_lau,Záborie,zaborie,za,16.61,58.65,-60.46
+europe_lau,Žabokreky,zabokreky,za,47.53,63.85,46.05
+europe_lau,Záriečie,zariecie,za,41.15,65.57,37.91
+europe_lau,Záskalie,zaskalie,za,44.43,70.37,99.67
+europe_lau,Závišice,zavisice,za,66.52,79.87,43.84
+europe_lau,Zádiel,zadiel,za,36.44,66.25,22.19
+europe_lau,Zagorje ob Savi,zagorje_ob_savi,za,51.9,62.88,28.05
+europe_lau,Zavrč,zavrc,za,60.46,74.49,83.08
+europe_lau,Žalec,zalec,za,47.26,71.12,99.12
+europe_lau,Zagra,zagra,za,22.69,52.15,79.93
+europe_lau,Zăbrani,zabrani,za,56.86,61.99,50.21
+europe_lau,Zărand,zarand,za,36.32,67.9,73.41
+europe_lau,Zădăreni,zadareni,za,62.55,73.84,68.83
+europe_lau,Zábiedovo,zabiedovo,za,23.41,48.54,76.52
+europe_lau,Zákamenné,zakamenne,za,34.45,58.42,-53.09
+europe_lau,Zázrivá,zazriva,za,47.36,63.18,62.05
+europe_lau,Žaškov,zaskov,za,34.84,50.07,2.87
+europe_lau,Žalany,zalany,za,43.05,65.55,93.87
+europe_lau,Zajíčkov,zajickov,za,61.42,72.67,58.2
+europe_lau,Žabalj,zabalj,za,54.18,66.87,54.69
+europe_lau,Zachrašťany,zachrastany,za,24.9,54.56,8.36
+europe_lau,Zalužice,zaluzice,za,50.69,57.67,64.99
+europe_lau,Záhor,zahor,za,35.31,42.72,22.09
+europe_lau,Závadka (okres Michalovce),zavadka_okres_michalovce,za,43.5,54.66,25.49
+europe_lau,Zájezd,zajezd,za,42.26,56.72,32.78
+europe_lau,Závod,zavod,za,26.04,62.2,-141.98
+europe_lau,Záhorie (vojenský obvod),zahorie_vojensky_obvod,za,19.72,41.53,79.38
+europe_lau,Závažná Poruba,zavazna_poruba,za,23.64,48.92,85.82
+europe_lau,Zagon,zagon,za,36.01,61.25,64.2
+europe_lau,Zăbala,zabala,za,25.24,53.51,-31.83
+europe_lau,Zálesie (okres Kežmarok),zalesie_okres_kezmarok,za,47.87,75.72,85.42
+europe_lau,Žakovce,zakovce,za,51.13,74.08,86.63
+europe_lau,Závada (okres Topoľčany),zavada_okres_topolcany,za,54.54,61.42,28
+europe_lau,Žabokreky nad Nitrou,zabokreky_nad_nitrou,za,64.71,71.02,59.9
+europe_lau,Zámutov,zamutov,za,44.71,54.13,62.54
+europe_lau,Závada (okres Humenné),zavada_okres_humenne,za,59.59,72.09,84.72
+europe_lau,Žalobín,zalobin,za,54.28,56.6,54.55
+europe_lau,Zahořany,zahorany,za,48.15,62.61,11.01
+europe_lau,Zăvoaia,zavoaia,za,54.16,58.85,51.68
+europe_lau,Zádor,zador,za,48.64,79.52,50.84
+europe_lau,Zam,zam,za,39.13,51.5,71.12
+europe_lau,Záborské,zaborske,za,38.61,61.62,45.59
+europe_lau,Záhradné,zahradne,za,67.98,69.45,63.06
+europe_lau,Záhorce,zahorce,za,50.03,68.67,74.64
+europe_lau,Závada (okres Veľký Krtíš),zavada_okres_velky_krtis,za,32.22,68.57,95.97
+europe_lau,Závadka (okres Humenné),zavadka_okres_humenne,za,51.3,58.76,61.05
+europe_lau,Zavar,zavar,za,42.32,68.24,51.33
+europe_lau,Zărneşti,zarnesti,za,37.13,54.53,27.41
+europe_lau,Zakrzew,zakrzew,za,55.53,64.26,24.03
+europe_lau,Žatec,zatec,za,38.51,45.93,74.45
+europe_lau,Záhorská Ves,zahorska_ves,za,58.78,67.57,48.55
+europe_lau,Zăvoi,zavoi,za,26.62,55.32,94.96
+europe_lau,Žarnovica,zarnovica,za,40.44,46.77,60.95
+europe_lau,Zandvoort,zandvoort,za,44.85,93.68,88.68
+europe_lau,Zaanstad,zaanstad,za,53.69,62.09,45.49
+europe_lau,Zawichost,zawichost,za,52.65,58.99,66.77
+europe_lau,Zalesie,zalesie,za,42.47,61.46,55.07
+europe_lau,Zawiercie,zawiercie,za,43.6,59.11,9.51
+europe_lau,Żarnowiec,zarnowiec,za,44.85,56.06,35.6
+europe_lau,Zamostea,zamostea,za,53.71,70.67,36.82
+europe_lau,Zabierzów,zabierzow,za,59.73,61.56,48.39
+europe_lau,Zabór,zabor,za,54.5,65.2,53.61
+europe_lau,Żagań,zagan,za,48.7,63.56,67.62
+europe_lau,Żagań,zagan,za,22.92,36.34,94.2
+europe_lau,Żary,zary,za,54.02,64.31,58.59
+europe_lau,Żary,zary,za,41.44,53.61,71.44
+europe_lau,Zamość,zamosc,za,48.53,63.05,64.75
+europe_lau,Zamość,zamosc,za,59.89,69.92,42.93
+europe_lau,Zătreni,zatreni,za,55.23,62.12,62.58
+europe_lau,Żarnów,zarnow,za,37.41,59.25,20.87
+europe_lau,Zakrzew,zakrzew,za,41.76,50.69,43.7
+europe_lau,Zâmbreasca,zambreasca,za,55.19,63.43,29.31
+europe_lau,Zator,zator,za,46.05,57.17,81.82
+europe_lau,Zagersdorf,zagersdorf,za,37.21,70.36,81.65
+europe_lau,Zakliczyn,zakliczyn,za,50.14,67.52,72.86
+europe_lau,Żabno,zabno,za,25.87,50.5,76.08
+europe_lau,Zavlekov,zavlekov,za,53,68.45,42.75
+europe_lau,Zadzim,zadzim,za,44.16,54.11,16.68
+europe_lau,Zapolice,zapolice,za,48.59,53.18,49.77
+europe_lau,Žabovřesky nad Ohří,zabovresky_nad_ohri,za,58.24,76.13,85.98
+europe_lau,Žalhostice,zalhostice,za,50.42,60.56,49.84
+europe_lau,Zahrádky,zahradky,za,39.17,45.5,57.23
+europe_lau,Zawoja,zawoja,za,54.54,69.43,48.85
+europe_lau,Zakopane,zakopane,za,59.86,67.56,76.93
+europe_lau,Zalha,zalha,za,61.14,71.2,70.7
+europe_lau,Zagăr,zagar,za,38.25,50.61,93.49
+europe_lau,Zau de Câmpie,zau_de_campie,za,43.66,57.1,69.73
+europe_lau,Zásada,zasada,za,61.35,68.13,34.79
+europe_lau,Zambujal,zambujal,za,54.72,62.97,51.84
+europe_lau,Zadní Střítež,zadni_stritez,za,53.32,73.18,89.07
+europe_lau,Zákupy,zakupy,za,35.09,52.73,88.2
+europe_lau,Žandov,zandov,za,33.66,52.87,75.11
+europe_lau,Zagnańsk,zagnansk,za,50.83,64.79,41.28
+europe_lau,Zăpodeni,zapodeni,za,32.08,61.62,80.33
+europe_lau,Żarki,zarki,za,39.39,59.37,19.19
+europe_lau,Zabrze,zabrze,za,44.22,59.03,94.77
+europe_lau,Zăneşti,zanesti,za,53.26,66.78,58.97
+europe_lau,Zadar,zadar,za,28.97,63.15,42.74
+europe_lau,Zaltbommel,zaltbommel,za,28.87,45.86,-41.02
+europe_lau,Zaječice,zajecice,za,34.82,58.68,99.3

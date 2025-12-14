@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cecelovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Čečelovice", "metric_roundness": 47.79, "metric_rectangularity": 59.38, "metric_mobile_fit": 66.78, "metric_aspect_ratio": 0.895, "metric_area_km2": 15.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.7911085, 49.384127 ], [ 13.7755775, 49.379150499999987 ], [ 13.7709475, 49.3781355 ], [ 13.7893255, 49.3706387 ], [ 13.7886092, 49.3648196 ], [ 13.779649, 49.3562691 ], [ 13.785529, 49.351844 ], [ 13.8071363, 49.3600174 ], [ 13.809932, 49.364109 ], [ 13.815303, 49.3660875 ], [ 13.8121511, 49.37352869999998 ], [ 13.8149838, 49.3832588 ], [ 13.8041935, 49.38372 ], [ 13.7911085, 49.384127 ] ] ] } }
+]
+}

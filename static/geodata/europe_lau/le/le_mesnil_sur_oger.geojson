@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_mesnil_sur_oger",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Mesnil-sur-Oger", "metric_roundness": 48.69, "metric_rectangularity": 66.45, "metric_mobile_fit": 14.89, "metric_aspect_ratio": 1.414, "metric_area_km2": 18.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0411365, 48.9483165 ], [ 4.0468869, 48.951534099999982 ], [ 4.0444435, 48.954078199999984 ], [ 4.0145178, 48.9486535 ], [ 4.0054975, 48.942083599999982 ], [ 3.9952851, 48.946920599999977 ], [ 3.9891325, 48.946211399999989 ], [ 3.9885257, 48.943027699999988 ], [ 3.994028, 48.9398078 ], [ 3.9968471, 48.9306013 ], [ 4.0210715, 48.926113 ], [ 4.0299747, 48.9285268 ], [ 4.035244, 48.9367192 ], [ 4.04871, 48.936048 ], [ 4.0411365, 48.9483165 ] ] ] } }
+]
+}

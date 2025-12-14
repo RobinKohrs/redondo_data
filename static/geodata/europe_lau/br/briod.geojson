@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "briod",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Briod", "metric_roundness": 41.16, "metric_rectangularity": 52.23, "metric_mobile_fit": 47.7, "metric_aspect_ratio": 1.086, "metric_area_km2": 9.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6205895, 46.6748335 ], [ 5.600936, 46.6649975 ], [ 5.6021254, 46.661689699999982 ], [ 5.6085852, 46.6651477 ], [ 5.6136282, 46.664525 ], [ 5.624111, 46.6534481 ], [ 5.641135, 46.648577 ], [ 5.643036, 46.6497375 ], [ 5.6310795, 46.6745765 ], [ 5.6299405, 46.675194499999989 ], [ 5.6205895, 46.6748335 ] ] ] } }
+]
+}

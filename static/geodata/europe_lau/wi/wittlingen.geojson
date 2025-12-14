@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wittlingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wittlingen", "metric_roundness": 53.96, "metric_rectangularity": 74.56, "metric_mobile_fit": 13.47, "metric_aspect_ratio": 1.428, "metric_area_km2": 8.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6622556, 47.6666038 ], [ 7.63799, 47.663632 ], [ 7.6376, 47.661638799999984 ], [ 7.6393806, 47.6568098 ], [ 7.638023, 47.651052 ], [ 7.6490926, 47.649195699999986 ], [ 7.6616118, 47.6512938 ], [ 7.6745005, 47.660873 ], [ 7.6622556, 47.6666038 ] ] ] } }
+]
+}

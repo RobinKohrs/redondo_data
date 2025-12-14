@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ferrals_les_corbieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ferrals-les-Corbières", "metric_roundness": 50.93, "metric_rectangularity": 69.75, "metric_mobile_fit": 55.97, "metric_aspect_ratio": 1.003, "metric_area_km2": 29.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7092535, 43.1582545 ], [ 2.7162507, 43.1434097 ], [ 2.7089071, 43.1381238 ], [ 2.714312, 43.1323801 ], [ 2.7351305, 43.1253574 ], [ 2.753264, 43.1260103 ], [ 2.762784, 43.121157 ], [ 2.769434, 43.123071 ], [ 2.7617671, 43.1455059 ], [ 2.763699, 43.155402 ], [ 2.7442527, 43.1603937 ], [ 2.734701, 43.1579408 ], [ 2.7247215, 43.1643185 ], [ 2.7208415, 43.164197 ], [ 2.717842, 43.165196 ], [ 2.7092535, 43.1582545 ] ] ] } }
+]
+}

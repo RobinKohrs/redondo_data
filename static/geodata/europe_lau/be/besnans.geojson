@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "besnans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Besnans", "metric_roundness": 49.48, "metric_rectangularity": 57.81, "metric_mobile_fit": 80.68, "metric_aspect_ratio": 0.756, "metric_area_km2": 6.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2593178, 47.458659599999983 ], [ 6.2559846, 47.4609198 ], [ 6.2439134, 47.456645399999985 ], [ 6.237106, 47.450427 ], [ 6.2381816, 47.445074099999985 ], [ 6.2572663, 47.4430456 ], [ 6.2619035, 47.437386 ], [ 6.2624425, 47.439304 ], [ 6.2621185, 47.443007 ], [ 6.263406, 47.446071 ], [ 6.2593178, 47.458659599999983 ] ] ] } }
+]
+}

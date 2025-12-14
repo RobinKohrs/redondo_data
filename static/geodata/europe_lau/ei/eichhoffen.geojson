@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eichhoffen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eichhoffen", "metric_roundness": 43.88, "metric_rectangularity": 62.51, "metric_mobile_fit": 55.42, "metric_aspect_ratio": 1.008, "metric_area_km2": 5.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4316124, 48.381191199999982 ], [ 7.42774, 48.3717385 ], [ 7.4259585, 48.3688425 ], [ 7.4323385, 48.372431499999983 ], [ 7.4366395, 48.372867 ], [ 7.435662, 48.3711525 ], [ 7.43743, 48.371256 ], [ 7.453247, 48.3750845 ], [ 7.4491565, 48.385963499999988 ], [ 7.4380005, 48.386818 ], [ 7.4316124, 48.381191199999982 ] ] ] } }
+]
+}

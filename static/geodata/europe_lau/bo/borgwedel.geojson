@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borgwedel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Borgwedel", "metric_roundness": 52.3, "metric_rectangularity": 60.63, "metric_mobile_fit": 79.37, "metric_aspect_ratio": 0.769, "metric_area_km2": 22.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6634473, 54.5071716 ], [ 9.6434236, 54.510473699999984 ], [ 9.6356707, 54.5089943 ], [ 9.628766, 54.5121435 ], [ 9.6264844, 54.497215299999986 ], [ 9.6315146, 54.4928198 ], [ 9.6300642, 54.482093399999989 ], [ 9.633381, 54.478169 ], [ 9.635421, 54.477141499999988 ], [ 9.6364585, 54.475398 ], [ 9.6453445, 54.4818743 ], [ 9.6724732, 54.4922525 ], [ 9.6751245, 54.496073499999987 ], [ 9.6634473, 54.5071716 ] ] ] } }
+]
+}

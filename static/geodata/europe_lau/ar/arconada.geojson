@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arconada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arconada", "metric_roundness": 61.18, "metric_rectangularity": 68.02, "metric_mobile_fit": 49.2, "metric_aspect_ratio": 1.07, "metric_area_km2": 35.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.514271, 42.35865 ], [ -4.51577, 42.355831 ], [ -4.517334, 42.34972 ], [ -4.5127057, 42.3411539 ], [ -4.5096015, 42.3249075 ], [ -4.5024165, 42.3146705 ], [ -4.4838739, 42.3166965 ], [ -4.4689983, 42.3274289 ], [ -4.4582136, 42.329041499999988 ], [ -4.44807, 42.341198 ], [ -4.4663787, 42.3544663 ], [ -4.50439, 42.362499 ], [ -4.5143835, 42.3613435 ], [ -4.514271, 42.35865 ] ] ] } }
+]
+}

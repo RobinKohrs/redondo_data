@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kekidiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κηκιδίου", "metric_roundness": 42.5, "metric_rectangularity": 71.52, "metric_mobile_fit": 55.27, "metric_aspect_ratio": 1.01, "metric_area_km2": 5.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.459727, 41.1179245 ], [ 25.4520735, 41.1200535 ], [ 25.450126, 41.120337 ], [ 25.4493275, 41.1203195 ], [ 25.4425785, 41.114631599999981 ], [ 25.4320609, 41.1118173 ], [ 25.4282875, 41.1052895 ], [ 25.439357, 41.096878499999988 ], [ 25.459727, 41.1179245 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_colle_sur_loup",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Colle-sur-Loup", "metric_roundness": 47.17, "metric_rectangularity": 66.82, "metric_mobile_fit": 55.04, "metric_aspect_ratio": 1.012, "metric_area_km2": 18.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.072686, 43.68891450000001 ], [ 7.078181, 43.6811842 ], [ 7.0873572, 43.6813539 ], [ 7.095085, 43.6753965 ], [ 7.1107, 43.668785899999989 ], [ 7.120598, 43.6705795 ], [ 7.123741, 43.673286 ], [ 7.1138344, 43.687178499999987 ], [ 7.1131266, 43.693545299999975 ], [ 7.09567, 43.704748 ], [ 7.0878339, 43.7023298 ], [ 7.079569, 43.705262499999989 ], [ 7.072686, 43.68891450000001 ] ] ] } }
+]
+}

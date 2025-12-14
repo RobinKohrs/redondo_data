@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stare_jesencany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Staré Jesenčany", "metric_roundness": 44.04, "metric_rectangularity": 71.67, "metric_mobile_fit": 97.4, "metric_aspect_ratio": 0.536, "metric_area_km2": 8.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.7637437, 50.0075121 ], [ 15.7562641, 50.011524599999973 ], [ 15.7547304, 50.0183445 ], [ 15.7513768, 50.017611 ], [ 15.7396195, 50.0150395 ], [ 15.7440702, 49.9965867 ], [ 15.749412, 49.990989 ], [ 15.7513768, 49.990281399999979 ], [ 15.753705, 49.989443 ], [ 15.7619015, 49.996484 ], [ 15.7637437, 50.0075121 ] ] ] } }
+]
+}

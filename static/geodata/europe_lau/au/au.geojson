@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "au",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Au", "metric_roundness": 40.47, "metric_rectangularity": 62.15, "metric_mobile_fit": -7.57, "metric_aspect_ratio": 1.638, "metric_area_km2": 9.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8355215, 47.943413 ], [ 7.8486409, 47.949964 ], [ 7.855584, 47.950205 ], [ 7.854008, 47.952137 ], [ 7.8541005, 47.954986 ], [ 7.8493125, 47.956813 ], [ 7.8484445, 47.9584195 ], [ 7.8488705, 47.96079049999998 ], [ 7.846881, 47.9624035 ], [ 7.8364615, 47.960219499999987 ], [ 7.8237015, 47.9591825 ], [ 7.809132, 47.958966 ], [ 7.809463, 47.954612 ], [ 7.8355215, 47.943413 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_germain_sur_bresle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Germain-sur-Bresle", "metric_roundness": 45.69, "metric_rectangularity": 68.06, "metric_mobile_fit": 99.14, "metric_aspect_ratio": 0.571, "metric_area_km2": 21.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7258696, 49.832324099999987 ], [ 1.7338555, 49.8134985 ], [ 1.744393, 49.8035745 ], [ 1.752705, 49.8057695 ], [ 1.759462, 49.808986199999985 ], [ 1.7597214, 49.8133341 ], [ 1.7554901, 49.8169153 ], [ 1.763018, 49.8324335 ], [ 1.7642367, 49.843248699999982 ], [ 1.7622155, 49.846914 ], [ 1.7397173, 49.8406836 ], [ 1.7321557, 49.842838799999981 ], [ 1.726224, 49.839940499999976 ], [ 1.7258696, 49.832324099999987 ] ] ] } }
+]
+}

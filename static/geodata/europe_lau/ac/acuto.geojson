@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "acuto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Acuto", "metric_roundness": 42.14, "metric_rectangularity": 56.09, "metric_mobile_fit": 16.17, "metric_aspect_ratio": 1.401, "metric_area_km2": 24.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.2087069, 41.7744 ], [ 13.2126025, 41.7784565 ], [ 13.1959164, 41.7911802 ], [ 13.1838251, 41.8076388 ], [ 13.1743835, 41.812108 ], [ 13.1658153, 41.8137627 ], [ 13.1576882, 41.8097402 ], [ 13.1531708, 41.7993634 ], [ 13.1367145, 41.782628499999987 ], [ 13.1752024, 41.7813459 ], [ 13.1902936, 41.777673 ], [ 13.19626, 41.773374 ], [ 13.2087069, 41.7744 ] ] ] } }
+]
+}

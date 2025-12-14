@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kapince",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kapince", "metric_roundness": 40.62, "metric_rectangularity": 71.44, "metric_mobile_fit": -35.99, "metric_aspect_ratio": 1.922, "metric_area_km2": 13.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9714606, 48.456847400000015 ], [ 17.9621475, 48.459892499999981 ], [ 17.9563556, 48.460406 ], [ 17.9450665, 48.4491525 ], [ 17.947016, 48.4467515 ], [ 17.9536358, 48.447465099999981 ], [ 17.955566, 48.4431465 ], [ 17.9716653, 48.440166 ], [ 18.000172, 48.4463095 ], [ 18.003729, 48.4556535 ], [ 17.9714606, 48.456847400000015 ] ] ] } }
+]
+}

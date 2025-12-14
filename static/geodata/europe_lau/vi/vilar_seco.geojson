@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vilar_seco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vilar Seco", "metric_roundness": 61.82, "metric_rectangularity": 71.72, "metric_mobile_fit": 70.44, "metric_aspect_ratio": 0.858, "metric_area_km2": 41.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.3857849, 41.4922124 ], [ -6.3667465, 41.51143949999998 ], [ -6.369725, 41.523373 ], [ -6.374945, 41.5321987 ], [ -6.3963258, 41.5350179 ], [ -6.4008428, 41.543281699999987 ], [ -6.412222, 41.55119 ], [ -6.4266723, 41.5456414 ], [ -6.434654, 41.535953 ], [ -6.4348372, 41.5297971 ], [ -6.4209714, 41.5105097 ], [ -6.4170985, 41.4973246 ], [ -6.3904165, 41.4917825 ], [ -6.3857849, 41.4922124 ] ] ] } }
+]
+}

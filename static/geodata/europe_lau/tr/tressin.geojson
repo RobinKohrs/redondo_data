@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tressin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tressin", "metric_roundness": 35.32, "metric_rectangularity": 57.72, "metric_mobile_fit": 67.98, "metric_aspect_ratio": 0.883, "metric_area_km2": 4.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.189424, 50.6113345 ], [ 3.195572, 50.611427 ], [ 3.1976333, 50.623435199999989 ], [ 3.2039265, 50.623977 ], [ 3.2008296, 50.6286401 ], [ 3.1771164, 50.617029599999981 ], [ 3.1770061, 50.6105677 ], [ 3.1802105, 50.609289499999988 ], [ 3.189424, 50.6113345 ] ] ] } }
+]
+}

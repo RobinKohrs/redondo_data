@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rohovladova_bela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rohovládova Bělá", "metric_roundness": 53.61, "metric_rectangularity": 63.27, "metric_mobile_fit": 64.71, "metric_aspect_ratio": 0.915, "metric_area_km2": 10.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.597454, 50.09135449999998 ], [ 15.606225, 50.0904575 ], [ 15.6086054, 50.095996 ], [ 15.6159451, 50.099056199999985 ], [ 15.6152508, 50.104811899999987 ], [ 15.6225804, 50.106943499999986 ], [ 15.6250718, 50.1105741 ], [ 15.623422, 50.1124885 ], [ 15.5902555, 50.115958499999977 ], [ 15.588679, 50.113136499999989 ], [ 15.597454, 50.09135449999998 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "higueres_souye",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Higuères-Souye", "metric_roundness": 64.28, "metric_rectangularity": 83.23, "metric_mobile_fit": 41.87, "metric_aspect_ratio": 1.144, "metric_area_km2": 14.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2569411, 43.3652681 ], [ -0.2477116, 43.3646833 ], [ -0.2421447, 43.370127 ], [ -0.23491, 43.3675815 ], [ -0.2313615, 43.371182 ], [ -0.231258, 43.372983 ], [ -0.229397, 43.374376 ], [ -0.2272485, 43.3745625 ], [ -0.229616, 43.377886 ], [ -0.238178, 43.3860165 ], [ -0.2457955, 43.393899499999989 ], [ -0.2564299, 43.3929033 ], [ -0.2732245, 43.38404 ], [ -0.268503, 43.37483 ], [ -0.2569411, 43.3652681 ] ] ] } }
+]
+}

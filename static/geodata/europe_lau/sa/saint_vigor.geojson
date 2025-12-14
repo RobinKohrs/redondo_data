@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_vigor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Vigor", "metric_roundness": 62.94, "metric_rectangularity": 68.25, "metric_mobile_fit": 45.05, "metric_aspect_ratio": 1.112, "metric_area_km2": 15.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2339604, 49.073746 ], [ 1.2376074, 49.067799799999982 ], [ 1.2446189, 49.068135099999985 ], [ 1.2490835, 49.062367 ], [ 1.2707441, 49.066766699999981 ], [ 1.2799902, 49.0659066 ], [ 1.281294, 49.068676799999984 ], [ 1.2771578, 49.072537699999984 ], [ 1.280614, 49.079873 ], [ 1.263876, 49.090251 ], [ 1.260231, 49.087872499999982 ], [ 1.247747, 49.082943 ], [ 1.2339604, 49.073746 ] ] ] } }
+]
+}

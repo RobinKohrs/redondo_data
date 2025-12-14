@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_amygdales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αμυγδαλής", "metric_roundness": 65.18, "metric_rectangularity": 69.85, "metric_mobile_fit": 55.49, "metric_aspect_ratio": 1.008, "metric_area_km2": 8.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7154687, 39.3847894 ], [ 21.708692, 39.388545 ], [ 21.695917, 39.3840541 ], [ 21.7008203, 39.3757233 ], [ 21.6938095, 39.3674605 ], [ 21.698068, 39.365891 ], [ 21.7023205, 39.363599 ], [ 21.705395, 39.3623375 ], [ 21.7084795, 39.362116 ], [ 21.7137015, 39.362993 ], [ 21.7185325, 39.3644645 ], [ 21.7212335, 39.365675 ], [ 21.7249215, 39.3680075 ], [ 21.7282605, 39.370481 ], [ 21.7154687, 39.3847894 ] ] ] } }
+]
+}

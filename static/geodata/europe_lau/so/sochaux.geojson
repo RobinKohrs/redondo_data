@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sochaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sochaux", "metric_roundness": 69.42, "metric_rectangularity": 72.68, "metric_mobile_fit": 26.61, "metric_aspect_ratio": 1.296, "metric_area_km2": 4.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8291245, 47.5198295 ], [ 6.8231295, 47.518657499999989 ], [ 6.822253, 47.521226 ], [ 6.8187255, 47.519132 ], [ 6.817288, 47.5145395 ], [ 6.820068, 47.5094555 ], [ 6.824226, 47.508414499999986 ], [ 6.8298975, 47.507874 ], [ 6.8340045, 47.508376 ], [ 6.840823, 47.511174 ], [ 6.843274, 47.513421 ], [ 6.8399719, 47.5187186 ], [ 6.832814, 47.5214125 ], [ 6.8291245, 47.5198295 ] ] ] } }
+]
+}

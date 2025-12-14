@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eppenrod",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eppenrod", "metric_roundness": 58.56, "metric_rectangularity": 76.27, "metric_mobile_fit": 36.99, "metric_aspect_ratio": 1.193, "metric_area_km2": 16.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9394905, 50.41073249999998 ], [ 7.938762, 50.412463 ], [ 7.937439, 50.414601499999989 ], [ 7.9343205, 50.414784499999982 ], [ 7.931764, 50.414511 ], [ 7.926927, 50.4137475 ], [ 7.9252935, 50.412958 ], [ 7.9184375, 50.411578 ], [ 7.9148565, 50.410857 ], [ 7.895128, 50.396448 ], [ 7.917128, 50.38723 ], [ 7.9384115, 50.394089 ], [ 7.946682, 50.396907 ], [ 7.9394905, 50.41073249999998 ] ] ] } }
+]
+}

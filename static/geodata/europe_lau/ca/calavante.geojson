@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "calavante",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Calavanté", "metric_roundness": 28.85, "metric_rectangularity": 68.4, "metric_mobile_fit": -98.55, "metric_aspect_ratio": 2.548, "metric_area_km2": 3.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1614376, 43.198999699999987 ], [ 0.1712963, 43.2007628 ], [ 0.1837045, 43.209227 ], [ 0.157733, 43.2083106 ], [ 0.1492215, 43.206363499999988 ], [ 0.149445, 43.203707 ], [ 0.1479535, 43.200621 ], [ 0.1614376, 43.198999699999987 ] ] ] } }
+]
+}

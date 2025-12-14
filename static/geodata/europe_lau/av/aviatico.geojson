@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aviatico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aviatico", "metric_roundness": 41.86, "metric_rectangularity": 56.19, "metric_mobile_fit": 12.21, "metric_aspect_ratio": 1.44, "metric_area_km2": 17.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.759505, 45.798908 ], [ 9.764225, 45.7912528 ], [ 9.76279, 45.783153 ], [ 9.7722822, 45.7756821 ], [ 9.7961742, 45.7855305 ], [ 9.80401, 45.7845625 ], [ 9.8140672, 45.7891947 ], [ 9.822706, 45.788839499999973 ], [ 9.8082615, 45.7965972 ], [ 9.7961247, 45.7971806 ], [ 9.7806332, 45.805904 ], [ 9.7706085, 45.806277 ], [ 9.768414, 45.802052499999988 ], [ 9.759505, 45.798908 ] ] ] } }
+]
+}

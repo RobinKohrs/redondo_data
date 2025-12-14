@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "norddorf_auf_amrum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Norddorf auf Amrum", "metric_roundness": 24.33, "metric_rectangularity": 47.14, "metric_mobile_fit": 74.14, "metric_aspect_ratio": 0.821, "metric_area_km2": 24.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.3412368, 54.6863471 ], [ 8.341075, 54.696069 ], [ 8.3586079, 54.7108428 ], [ 8.3487131, 54.708345 ], [ 8.3080472, 54.683002 ], [ 8.2957019, 54.6726693 ], [ 8.294351, 54.6656055 ], [ 8.3420089, 54.66923019999998 ], [ 8.3435904, 54.674247399999985 ], [ 8.3498545, 54.675365 ], [ 8.3412368, 54.6863471 ] ] ] } }
+]
+}

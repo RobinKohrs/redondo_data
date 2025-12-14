@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kublov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kublov", "metric_roundness": 55.35, "metric_rectangularity": 72.16, "metric_mobile_fit": 60.45, "metric_aspect_ratio": 0.958, "metric_area_km2": 14.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.8875765, 49.957398499999989 ], [ 13.875987, 49.957684 ], [ 13.8730853, 49.951803 ], [ 13.8561235, 49.9482973 ], [ 13.8594401, 49.938446799999987 ], [ 13.8575329, 49.9328006 ], [ 13.8619722, 49.929775399999983 ], [ 13.8710614, 49.9292993 ], [ 13.8954606, 49.942724199999986 ], [ 13.8983773, 49.948640899999987 ], [ 13.8949555, 49.956278 ], [ 13.8875765, 49.957398499999989 ] ] ] } }
+]
+}

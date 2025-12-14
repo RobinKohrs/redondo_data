@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Belina", "metric_roundness": 53.61, "metric_rectangularity": 64.96, "metric_mobile_fit": 87.51, "metric_aspect_ratio": 0.687, "metric_area_km2": 14.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.8616925, 48.253537 ], [ 19.85083, 48.250804 ], [ 19.8383004, 48.2404413 ], [ 19.8331113, 48.2315165 ], [ 19.8380219, 48.228806699999978 ], [ 19.836106, 48.2270035 ], [ 19.8492187, 48.219471599999984 ], [ 19.8680875, 48.222307 ], [ 19.8620724, 48.231039399999986 ], [ 19.8624742, 48.236023 ], [ 19.8682695, 48.243170599999985 ], [ 19.865277, 48.250884 ], [ 19.8616925, 48.253537 ] ] ] } }
+]
+}

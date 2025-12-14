@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "strane_pod_tatrami",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stráne pod Tatrami", "metric_roundness": 62.84, "metric_rectangularity": 87.9, "metric_mobile_fit": 45.53, "metric_aspect_ratio": 1.107, "metric_area_km2": 9.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3612298, 49.173036599999989 ], [ 20.3517705, 49.166356 ], [ 20.3504695, 49.16248 ], [ 20.3614074, 49.1557946 ], [ 20.3796425, 49.149945 ], [ 20.38594, 49.159443599999967 ], [ 20.3886035, 49.1596745 ], [ 20.3895685, 49.1639912 ], [ 20.3764686, 49.1682235 ], [ 20.3612298, 49.173036599999989 ] ] ] } }
+]
+}

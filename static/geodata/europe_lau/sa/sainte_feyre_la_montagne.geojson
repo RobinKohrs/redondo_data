@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_feyre_la_montagne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Feyre-la-Montagne", "metric_roundness": 60.71, "metric_rectangularity": 68.64, "metric_mobile_fit": 74.44, "metric_aspect_ratio": 0.818, "metric_area_km2": 14.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2502365, 45.900280099999989 ], [ 2.2433125, 45.901802299999986 ], [ 2.2416626, 45.9085894 ], [ 2.2357425, 45.913213 ], [ 2.2304742, 45.9123634 ], [ 2.2255568, 45.902581599999984 ], [ 2.2183378, 45.900233899999989 ], [ 2.2112515, 45.885747499999987 ], [ 2.2312284, 45.8798477 ], [ 2.2504745, 45.888934 ], [ 2.2502365, 45.900280099999989 ] ] ] } }
+]
+}

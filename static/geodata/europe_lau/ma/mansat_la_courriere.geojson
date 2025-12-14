@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mansat_la_courriere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mansat-la-Courrière", "metric_roundness": 34.21, "metric_rectangularity": 49.14, "metric_mobile_fit": 74.58, "metric_aspect_ratio": 0.817, "metric_area_km2": 19.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8051435, 45.9516322 ], [ 1.8148936, 45.9556231 ], [ 1.8218038, 45.9675534 ], [ 1.8099795, 45.976532 ], [ 1.8048588, 45.9733843 ], [ 1.7954697, 45.9733932 ], [ 1.7764939, 45.9870066 ], [ 1.769601, 45.987897499999981 ], [ 1.7669385, 45.977042499999982 ], [ 1.784562, 45.9689824 ], [ 1.7819434, 45.963025099999982 ], [ 1.785341, 45.95653 ], [ 1.7913496, 45.9530323 ], [ 1.7942991, 45.9414351 ], [ 1.806192, 45.9412005 ], [ 1.8051435, 45.9516322 ] ] ] } }
+]
+}

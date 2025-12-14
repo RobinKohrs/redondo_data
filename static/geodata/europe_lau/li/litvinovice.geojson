@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "litvinovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Litvínovice", "metric_roundness": 35.26, "metric_rectangularity": 63.64, "metric_mobile_fit": -1.2, "metric_aspect_ratio": 1.574, "metric_area_km2": 12.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4197284, 48.9729971 ], [ 14.41169, 48.971153499999986 ], [ 14.4087655, 48.960831 ], [ 14.418264, 48.9552675 ], [ 14.4531034, 48.9557979 ], [ 14.463351, 48.949702 ], [ 14.4646276, 48.9525688 ], [ 14.458585, 48.9575665 ], [ 14.4584796, 48.962556199999987 ], [ 14.4496598, 48.9678711 ], [ 14.4373313, 48.9662467 ], [ 14.42967, 48.9728195 ], [ 14.4197284, 48.9729971 ] ] ] } }
+]
+}

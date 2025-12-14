@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "miagliano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Miagliano", "metric_roundness": 26.74, "metric_rectangularity": 64.24, "metric_mobile_fit": 80.87, "metric_aspect_ratio": 0.371, "metric_area_km2": 0.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0472195, 45.6130355 ], [ 8.0430814, 45.620109 ], [ 8.041387, 45.6204869 ], [ 8.0412439, 45.611286499999984 ], [ 8.0473305, 45.609016 ], [ 8.0472195, 45.6130355 ] ] ] } }
+]
+}

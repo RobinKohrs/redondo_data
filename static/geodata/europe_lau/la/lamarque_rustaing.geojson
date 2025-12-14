@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lamarque_rustaing",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lamarque-Rustaing", "metric_roundness": 52.06, "metric_rectangularity": 66.28, "metric_mobile_fit": 53.4, "metric_aspect_ratio": 1.029, "metric_area_km2": 5.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.302965, 43.268086499999981 ], [ 0.3015015, 43.269452 ], [ 0.3085805, 43.284256 ], [ 0.2835845, 43.2837635 ], [ 0.2826965, 43.280726 ], [ 0.281185, 43.2782705 ], [ 0.282717, 43.2729425 ], [ 0.2828105, 43.270729 ], [ 0.2972409, 43.269656899999987 ], [ 0.302842, 43.264863 ], [ 0.302965, 43.268086499999981 ] ] ] } }
+]
+}

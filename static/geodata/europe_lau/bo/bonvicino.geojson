@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonvicino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonvicino", "metric_roundness": 53.41, "metric_rectangularity": 78.44, "metric_mobile_fit": 15.42, "metric_aspect_ratio": 1.408, "metric_area_km2": 13.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.033138, 44.515458 ], [ 8.0217475, 44.517236 ], [ 8.0072081, 44.5110357 ], [ 7.998071, 44.51219949999998 ], [ 7.990504, 44.512284 ], [ 7.9961363, 44.500639799999988 ], [ 7.9943825, 44.4986945 ], [ 8.0020648, 44.492185899999988 ], [ 8.0262032, 44.4989233 ], [ 8.0356938, 44.4978267 ], [ 8.039969, 44.5038615 ], [ 8.033138, 44.515458 ] ] ] } }
+]
+}

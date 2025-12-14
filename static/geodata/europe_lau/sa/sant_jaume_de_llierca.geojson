@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_jaume_de_llierca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant Jaume de Llierca", "metric_roundness": 42.92, "metric_rectangularity": 61.53, "metric_mobile_fit": 99.66, "metric_aspect_ratio": 0.566, "metric_area_km2": 12.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.591997, 42.194463 ], [ 2.5951473, 42.1900513 ], [ 2.6045285, 42.193934 ], [ 2.6022831, 42.2051759 ], [ 2.6112175, 42.212059699999976 ], [ 2.6045487, 42.218529899999986 ], [ 2.6060355, 42.221815 ], [ 2.5966749, 42.225003699999988 ], [ 2.5920767, 42.229969299999986 ], [ 2.5850322, 42.2270403 ], [ 2.5807193, 42.2205356 ], [ 2.587441, 42.2039365 ], [ 2.5817263, 42.1975097 ], [ 2.5825845, 42.190432 ], [ 2.591997, 42.194463 ] ] ] } }
+]
+}

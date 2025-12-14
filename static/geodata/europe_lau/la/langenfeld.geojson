@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "langenfeld",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Langenfeld", "metric_roundness": 52.72, "metric_rectangularity": 72.77, "metric_mobile_fit": 68.29, "metric_aspect_ratio": 0.88, "metric_area_km2": 11.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.09585, 50.356396499999988 ], [ 7.097687, 50.356883499999981 ], [ 7.1078702, 50.3605413 ], [ 7.1206425, 50.360317 ], [ 7.1130935, 50.375785 ], [ 7.1099794, 50.374978399999989 ], [ 7.091605, 50.383481499999981 ], [ 7.084208, 50.3778845 ], [ 7.083292, 50.374819 ], [ 7.0912499, 50.363003799999987 ], [ 7.089642, 50.3616255 ], [ 7.09585, 50.356396499999988 ] ] ] } }
+]
+}

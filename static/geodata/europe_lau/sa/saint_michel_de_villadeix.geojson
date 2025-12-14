@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_michel_de_villadeix",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Michel-de-Villadeix", "metric_roundness": 47.28, "metric_rectangularity": 65.99, "metric_mobile_fit": 95.06, "metric_aspect_ratio": 0.612, "metric_area_km2": 28.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7569977, 44.987892 ], [ 0.7502594, 44.993613 ], [ 0.7468275, 45.0036275 ], [ 0.7436905, 45.0143231 ], [ 0.732948, 45.021439 ], [ 0.7298277, 45.0131449 ], [ 0.711793, 45.011548 ], [ 0.7137844, 44.9909712 ], [ 0.7109628, 44.985787 ], [ 0.7137776, 44.9751787 ], [ 0.7099944, 44.970784699999982 ], [ 0.715165, 44.967119499999988 ], [ 0.7497445, 44.975546 ], [ 0.7569977, 44.987892 ] ] ] } }
+]
+}

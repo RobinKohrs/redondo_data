@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_drapetsonas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Δραπετσώνας", "metric_roundness": 53.69, "metric_rectangularity": 73.23, "metric_mobile_fit": 0.45, "metric_aspect_ratio": 1.558, "metric_area_km2": 2.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.635096, 37.94898 ], [ 23.6284125, 37.951145 ], [ 23.6159225, 37.948019 ], [ 23.6171432, 37.942120299999985 ], [ 23.630663, 37.9414405 ], [ 23.635096, 37.94898 ] ] ] } }
+]
+}

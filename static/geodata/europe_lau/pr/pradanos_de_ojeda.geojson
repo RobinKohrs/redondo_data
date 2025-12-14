@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pradanos_de_ojeda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Prádanos de Ojeda", "metric_roundness": 39.87, "metric_rectangularity": 66.97, "metric_mobile_fit": 96.32, "metric_aspect_ratio": 0.526, "metric_area_km2": 32.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.347562, 42.6454847 ], [ -4.345295, 42.6461563 ], [ -4.3422045, 42.647072 ], [ -4.3388966, 42.6553269 ], [ -4.3274237, 42.6680138 ], [ -4.326872, 42.6833343 ], [ -4.3225575, 42.6948182 ], [ -4.3270226, 42.7033462 ], [ -4.3460135, 42.712284 ], [ -4.3556694, 42.6979841 ], [ -4.3652982, 42.6935348 ], [ -4.370325, 42.6705665 ], [ -4.3521532, 42.656916299999985 ], [ -4.3496905, 42.648613 ], [ -4.347562, 42.6454847 ] ] ] } }
+]
+}

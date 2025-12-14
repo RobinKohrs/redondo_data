@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "charlieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Charlieu", "metric_roundness": 41.48, "metric_rectangularity": 51.57, "metric_mobile_fit": 37.51, "metric_aspect_ratio": 1.187, "metric_area_km2": 14.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1871414, 46.1753589 ], [ 4.1766053, 46.1735515 ], [ 4.143326, 46.1759935 ], [ 4.1511, 46.1720113 ], [ 4.1627775, 46.1533175 ], [ 4.166688, 46.1483055 ], [ 4.1750047, 46.154757199999985 ], [ 4.1849022, 46.1574555 ], [ 4.1911125, 46.167886499999987 ], [ 4.1990486, 46.1689351 ], [ 4.1981689, 46.177623299999979 ], [ 4.1936468, 46.180808799999987 ], [ 4.1848475, 46.1798675 ], [ 4.1871414, 46.1753589 ] ] ] } }
+]
+}

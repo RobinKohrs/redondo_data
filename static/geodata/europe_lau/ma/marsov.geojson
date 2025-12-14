@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marsov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maršov", "metric_roundness": 66.06, "metric_rectangularity": 68.93, "metric_mobile_fit": 56.81, "metric_aspect_ratio": 0.994, "metric_area_km2": 17.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.331554, 49.2759255 ], [ 16.3330805, 49.274034 ], [ 16.3399429, 49.267519 ], [ 16.3474111, 49.265229499999982 ], [ 16.3528045, 49.267146399999987 ], [ 16.3581038, 49.2629318 ], [ 16.36187, 49.264347 ], [ 16.3690509, 49.278539199999976 ], [ 16.3770268, 49.2846851 ], [ 16.37365, 49.2920115 ], [ 16.3570091, 49.293065099999986 ], [ 16.331097, 49.285991 ], [ 16.331554, 49.2759255 ] ] ] } }
+]
+}

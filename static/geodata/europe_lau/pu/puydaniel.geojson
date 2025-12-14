@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "puydaniel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Puydaniel", "metric_roundness": 30.38, "metric_rectangularity": 77.18, "metric_mobile_fit": 26.59, "metric_aspect_ratio": 1.297, "metric_area_km2": 13.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4110393, 43.33438 ], [ 1.3890445, 43.318069 ], [ 1.3951321, 43.314131 ], [ 1.4037171, 43.3191808 ], [ 1.414858, 43.318599 ], [ 1.4171226, 43.3225246 ], [ 1.4357494, 43.3278024 ], [ 1.4516895, 43.337339 ], [ 1.449165, 43.3413265 ], [ 1.4410375, 43.3492755 ], [ 1.4110393, 43.33438 ] ] ] } }
+]
+}

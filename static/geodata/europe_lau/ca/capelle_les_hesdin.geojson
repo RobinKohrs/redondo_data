@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "capelle_les_hesdin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Capelle-lès-Hesdin", "metric_roundness": 41.99, "metric_rectangularity": 51.6, "metric_mobile_fit": 80.37, "metric_aspect_ratio": 0.759, "metric_area_km2": 13.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.981584, 50.3613015 ], [ 1.972301, 50.362899 ], [ 1.9693227, 50.3539405 ], [ 1.9809765, 50.348863599999987 ], [ 1.9850851, 50.343353899999983 ], [ 1.9847779, 50.3345151 ], [ 1.97902, 50.327411 ], [ 2.011518, 50.339633499999984 ], [ 2.006441, 50.345737699999987 ], [ 2.0107894, 50.3490445 ], [ 2.010104, 50.3524435 ], [ 2.0043796, 50.352260199999989 ], [ 1.9965815, 50.356768 ], [ 1.981584, 50.3613015 ] ] ] } }
+]
+}

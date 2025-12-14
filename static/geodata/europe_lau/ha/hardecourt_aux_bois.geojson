@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hardecourt_aux_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hardecourt-aux-Bois", "metric_roundness": 58.43, "metric_rectangularity": 70.18, "metric_mobile_fit": 76.15, "metric_aspect_ratio": 0.801, "metric_area_km2": 12.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.825725, 49.980602 ], [ 2.8313215, 49.996227 ], [ 2.8108045, 50.0092635 ], [ 2.8079915, 50.006392 ], [ 2.7956075, 49.9955675 ], [ 2.8060005, 49.981002499999981 ], [ 2.825725, 49.980602 ] ] ] } }
+]
+}

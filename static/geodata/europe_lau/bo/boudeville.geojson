@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boudeville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boudeville", "metric_roundness": 68.82, "metric_rectangularity": 72.3, "metric_mobile_fit": 42.65, "metric_aspect_ratio": 1.136, "metric_area_km2": 11.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.858022, 49.727778499999985 ], [ 0.859458, 49.7248814 ], [ 0.852741, 49.716927 ], [ 0.8558797, 49.7148159 ], [ 0.8672376, 49.716260599999984 ], [ 0.867249, 49.709056499999988 ], [ 0.8779725, 49.7099045 ], [ 0.8867295, 49.7117255 ], [ 0.886813, 49.713702499999982 ], [ 0.8922625, 49.716082499999978 ], [ 0.8912773, 49.726448799999979 ], [ 0.8834315, 49.731549499999986 ], [ 0.858022, 49.727778499999985 ] ] ] } }
+]
+}

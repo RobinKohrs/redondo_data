@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_elikes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ελίκης", "metric_roundness": 48.95, "metric_rectangularity": 69.36, "metric_mobile_fit": -5.17, "metric_aspect_ratio": 1.614, "metric_area_km2": 6.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.134018, 38.221475 ], [ 22.123466, 38.224538 ], [ 22.106286, 38.227302 ], [ 22.101325, 38.226288 ], [ 22.1050914, 38.217355 ], [ 22.104601, 38.2103145 ], [ 22.126757, 38.211097 ], [ 22.136227, 38.220518 ], [ 22.134018, 38.221475 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grosslangheim_m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Großlangheim, M", "metric_roundness": 51.72, "metric_rectangularity": 64.14, "metric_mobile_fit": 57.72, "metric_aspect_ratio": 0.985, "metric_area_km2": 35.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.2630439, 49.756681799999988 ], [ 10.2512778, 49.774321899999975 ], [ 10.234509, 49.776984499999983 ], [ 10.2304215, 49.775086 ], [ 10.2097958, 49.7609143 ], [ 10.2187125, 49.741805499999977 ], [ 10.2292499, 49.742975199999989 ], [ 10.2762505, 49.731075 ], [ 10.2798078, 49.7376673 ], [ 10.2760265, 49.7491935 ], [ 10.2630439, 49.756681799999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niedersayn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niedersayn", "metric_roundness": 47.07, "metric_rectangularity": 59.88, "metric_mobile_fit": 66.89, "metric_aspect_ratio": 0.894, "metric_area_km2": 7.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8482115, 50.539934 ], [ 7.8351015, 50.538921 ], [ 7.8344479, 50.5307275 ], [ 7.821875, 50.522037 ], [ 7.8321485, 50.517595 ], [ 7.835926, 50.521406299999981 ], [ 7.8487145, 50.52374649999998 ], [ 7.853278, 50.527275 ], [ 7.8482115, 50.539934 ] ] ] } }
+]
+}

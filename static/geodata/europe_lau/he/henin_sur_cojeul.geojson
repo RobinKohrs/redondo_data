@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "henin_sur_cojeul",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hénin-sur-Cojeul", "metric_roundness": 42.9, "metric_rectangularity": 78.08, "metric_mobile_fit": 75.63, "metric_aspect_ratio": 0.806, "metric_area_km2": 17.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.846897, 50.1976035 ], [ 2.853721, 50.200456 ], [ 2.8622875, 50.213233 ], [ 2.833799, 50.236453499999989 ], [ 2.8167017, 50.233916799999975 ], [ 2.81334, 50.230955 ], [ 2.8330149, 50.2116313 ], [ 2.8333475, 50.20814679999998 ], [ 2.8418896, 50.205739599999987 ], [ 2.8409945, 50.2019369 ], [ 2.8450025, 50.1982935 ], [ 2.846897, 50.1976035 ] ] ] } }
+]
+}

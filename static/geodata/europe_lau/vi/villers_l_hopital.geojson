@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villers_l_hopital",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villers-l'Hôpital", "metric_roundness": 65.95, "metric_rectangularity": 71.9, "metric_mobile_fit": 44.08, "metric_aspect_ratio": 1.122, "metric_area_km2": 20.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2041723, 50.2440471 ], [ 2.2018543, 50.2387429 ], [ 2.1963641, 50.238004299999979 ], [ 2.1911518, 50.2319053 ], [ 2.184524, 50.230176 ], [ 2.1849726, 50.219729199999989 ], [ 2.199901, 50.2151745 ], [ 2.224414, 50.217363 ], [ 2.2359338, 50.2306062 ], [ 2.2337511, 50.235312399999984 ], [ 2.2270023, 50.239198499999986 ], [ 2.228905, 50.242945 ], [ 2.207811, 50.244494499999988 ], [ 2.2041723, 50.2440471 ] ] ] } }
+]
+}

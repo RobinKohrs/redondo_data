@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_da_se_e_sao_lourenco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias da Sé e São Lourenço", "metric_roundness": 73.07, "metric_rectangularity": 74.76, "metric_mobile_fit": 60.64, "metric_aspect_ratio": 0.956, "metric_area_km2": 39.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.4535732, 39.3138977 ], [ -7.4532532, 39.309319 ], [ -7.460007, 39.3066283 ], [ -7.4595323, 39.3012325 ], [ -7.4645478, 39.296715 ], [ -7.4647676, 39.290861799999988 ], [ -7.4510609, 39.270919899999988 ], [ -7.444908, 39.2691325 ], [ -7.444325, 39.2636955 ], [ -7.4237734, 39.2644149 ], [ -7.4163817, 39.269096299999987 ], [ -7.4101573, 39.2813264 ], [ -7.4009015, 39.2801265 ], [ -7.402186, 39.3082535 ], [ -7.4092806, 39.312638299999982 ], [ -7.4419273, 39.311524299999981 ], [ -7.4472475, 39.315393 ], [ -7.4535732, 39.3138977 ] ] ] } }
+]
+}

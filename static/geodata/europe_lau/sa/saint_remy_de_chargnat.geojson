@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_remy_de_chargnat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Rémy-de-Chargnat", "metric_roundness": 41.82, "metric_rectangularity": 64.72, "metric_mobile_fit": 43.75, "metric_aspect_ratio": 1.125, "metric_area_km2": 12.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3469125, 45.498048 ], [ 3.3487354, 45.5007302 ], [ 3.3427735, 45.513110499999982 ], [ 3.3351115, 45.5133793 ], [ 3.3271455, 45.519413 ], [ 3.306129, 45.52513 ], [ 3.305511, 45.5227515 ], [ 3.3052589, 45.5165727 ], [ 3.311347, 45.5052915 ], [ 3.3137034, 45.500061699999989 ], [ 3.324799, 45.4990555 ], [ 3.3469125, 45.498048 ] ] ] } }
+]
+}

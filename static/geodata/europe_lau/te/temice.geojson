@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "temice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Těmice", "metric_roundness": 67.9, "metric_rectangularity": 78.13, "metric_mobile_fit": 68.02, "metric_aspect_ratio": 0.882, "metric_area_km2": 9.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.2567775, 49.010866 ], [ 17.253361, 49.010020499999975 ], [ 17.2513985, 49.0084575 ], [ 17.243839, 49.003355 ], [ 17.25304, 48.987049 ], [ 17.2643334, 48.9921786 ], [ 17.271304, 48.9919225 ], [ 17.2758696, 49.0008121 ], [ 17.268739, 49.008752 ], [ 17.2587645, 49.0101535 ], [ 17.2567775, 49.010866 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pelarrodriguez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pelarrodríguez", "metric_roundness": 51.47, "metric_rectangularity": 71.66, "metric_mobile_fit": 31.18, "metric_aspect_ratio": 1.251, "metric_area_km2": 13.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.2267977, 40.880859 ], [ -6.2135212, 40.8795535 ], [ -6.2019408, 40.8723119 ], [ -6.1925255, 40.881176 ], [ -6.2024748, 40.8905243 ], [ -6.2037621, 40.8952998 ], [ -6.2119549, 40.9009449 ], [ -6.2349905, 40.9022675 ], [ -6.2420815, 40.891651 ], [ -6.2267977, 40.880859 ] ] ] } }
+]
+}

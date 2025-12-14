@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arrouede",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arrouède", "metric_roundness": 64.93, "metric_rectangularity": 73.21, "metric_mobile_fit": 39.75, "metric_aspect_ratio": 1.165, "metric_area_km2": 12.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5698065, 43.353300499999982 ], [ 0.575833, 43.351592499999981 ], [ 0.58481, 43.3464275 ], [ 0.593672, 43.347011 ], [ 0.5934781, 43.3543428 ], [ 0.6043123, 43.3574208 ], [ 0.5989659, 43.3618646 ], [ 0.60337, 43.3680035 ], [ 0.5912765, 43.3722755 ], [ 0.5764916, 43.372239799999988 ], [ 0.567437, 43.3665925 ], [ 0.5628966, 43.356980799999981 ], [ 0.5640815, 43.3533735 ], [ 0.5698065, 43.353300499999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sessenhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sessenhausen", "metric_roundness": 35.72, "metric_rectangularity": 61.83, "metric_mobile_fit": -18.23, "metric_aspect_ratio": 1.745, "metric_area_km2": 13.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6735775, 50.513285 ], [ 7.6848605, 50.5165639 ], [ 7.6918907, 50.5142891 ], [ 7.6974325, 50.5182472 ], [ 7.704434, 50.5172505 ], [ 7.709342, 50.5203567 ], [ 7.728894, 50.523245 ], [ 7.7278862, 50.5291036 ], [ 7.7170689, 50.5317186 ], [ 7.714748, 50.535368 ], [ 7.6978075, 50.534811 ], [ 7.6935847, 50.5268307 ], [ 7.6787792, 50.525295599999986 ], [ 7.668289, 50.5187735 ], [ 7.6735775, 50.513285 ] ] ] } }
+]
+}

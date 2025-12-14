@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castell_umberto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castell'Umberto", "metric_roundness": 30.39, "metric_rectangularity": 78.66, "metric_mobile_fit": 23.9, "metric_aspect_ratio": 1.323, "metric_area_km2": 17.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8019325, 38.093499 ], [ 14.7937759, 38.0952721 ], [ 14.7803055, 38.087097 ], [ 14.7903817, 38.077101 ], [ 14.8049544, 38.071043599999982 ], [ 14.8135365, 38.058178 ], [ 14.8220595, 38.054652799999985 ], [ 14.8403598, 38.0551649 ], [ 14.8485965, 38.058332 ], [ 14.8019325, 38.093499 ] ] ] } }
+]
+}

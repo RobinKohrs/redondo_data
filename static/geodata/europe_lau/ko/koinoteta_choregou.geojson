@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_choregou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Χορηγού", "metric_roundness": 68.43, "metric_rectangularity": 74.13, "metric_mobile_fit": 56.77, "metric_aspect_ratio": 0.995, "metric_area_km2": 13.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3205332, 40.3118872 ], [ 21.34038, 40.308454499999982 ], [ 21.3451226, 40.316583 ], [ 21.3446811, 40.329602799999989 ], [ 21.3508415, 40.332801 ], [ 21.3445485, 40.3341735 ], [ 21.338797, 40.338819 ], [ 21.3356905, 40.33945 ], [ 21.329377, 40.3398945 ], [ 21.3173995, 40.3376675 ], [ 21.3156375, 40.337115499999989 ], [ 21.309817, 40.3301695 ], [ 21.3205332, 40.3118872 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bottenwil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bottenwil", "metric_roundness": 52.37, "metric_rectangularity": 59.07, "metric_mobile_fit": 54.83, "metric_aspect_ratio": 1.014, "metric_area_km2": 11.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0093385, 47.2706285 ], [ 8.0174045, 47.2710655 ], [ 8.0200335, 47.269793 ], [ 8.0154416, 47.285031899999986 ], [ 8.019805, 47.2913365 ], [ 8.0122663, 47.2945497 ], [ 7.9984028, 47.2961831 ], [ 7.985934, 47.291259 ], [ 7.9805811, 47.284241 ], [ 7.9869843, 47.2819743 ], [ 7.9959331, 47.283222899999984 ], [ 7.997672, 47.2797255 ], [ 8.004756, 47.270948 ], [ 8.0093385, 47.2706285 ] ] ] } }
+]
+}

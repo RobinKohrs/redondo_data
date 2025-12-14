@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kokkora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κοκκορά", "metric_roundness": 25.12, "metric_rectangularity": 45.81, "metric_mobile_fit": 73.9, "metric_aspect_ratio": 0.823, "metric_area_km2": 6.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9294246, 37.5839437 ], [ 21.9305631, 37.5709065 ], [ 21.9257964, 37.566820899999989 ], [ 21.9111225, 37.563123499999975 ], [ 21.913096, 37.5534515 ], [ 21.9185375, 37.555386 ], [ 21.948522, 37.574924 ], [ 21.9361992, 37.582836199999988 ], [ 21.933209, 37.589449 ], [ 21.9294246, 37.5839437 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alsogagy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alsógagy", "metric_roundness": 50.7, "metric_rectangularity": 61.52, "metric_mobile_fit": 72.48, "metric_aspect_ratio": 0.838, "metric_area_km2": 14.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.0151154, 48.388049799999983 ], [ 21.0321045, 48.3909193 ], [ 21.0403975, 48.397817 ], [ 21.0383568, 48.399766499999984 ], [ 21.034723, 48.4066839 ], [ 21.036137, 48.408695 ], [ 21.0309395, 48.422373 ], [ 21.0268519, 48.416549 ], [ 21.010444, 48.412325499999987 ], [ 21.0106041, 48.4070399 ], [ 21.001715, 48.399766499999984 ], [ 20.997088, 48.396107499999985 ], [ 21.0151154, 48.388049799999983 ] ] ] } }
+]
+}

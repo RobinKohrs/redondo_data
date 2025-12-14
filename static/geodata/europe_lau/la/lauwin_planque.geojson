@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lauwin_planque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lauwin-Planque", "metric_roundness": 26.89, "metric_rectangularity": 56.35, "metric_mobile_fit": -64.98, "metric_aspect_ratio": 2.212, "metric_area_km2": 8.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0550725, 50.390973 ], [ 3.057703, 50.3933275 ], [ 3.0314609, 50.396079099999987 ], [ 3.0221487, 50.400119 ], [ 3.002604, 50.3979885 ], [ 3.00916, 50.390284899999976 ], [ 3.0216409, 50.3909168 ], [ 3.0317925, 50.384241 ], [ 3.0550725, 50.390973 ] ] ] } }
+]
+}

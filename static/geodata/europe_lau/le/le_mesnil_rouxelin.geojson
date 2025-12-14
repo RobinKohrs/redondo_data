@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_mesnil_rouxelin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Mesnil-Rouxelin", "metric_roundness": 52.59, "metric_rectangularity": 60.32, "metric_mobile_fit": 73.9, "metric_aspect_ratio": 0.823, "metric_area_km2": 11.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0659015, 49.1458085 ], [ -1.0787905, 49.152672499999987 ], [ -1.0842975, 49.151966 ], [ -1.0855095, 49.15454 ], [ -1.0952845, 49.153081499999985 ], [ -1.0913337, 49.1351183 ], [ -1.0781232, 49.1353496 ], [ -1.0841765, 49.125375 ], [ -1.0794114, 49.1254231 ], [ -1.058574, 49.1390465 ], [ -1.0596655, 49.143971 ], [ -1.0659015, 49.1458085 ] ] ] } }
+]
+}

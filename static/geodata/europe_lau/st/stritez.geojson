@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stritez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Střítež", "metric_roundness": 54.9, "metric_rectangularity": 68.5, "metric_mobile_fit": 40.49, "metric_aspect_ratio": 1.158, "metric_area_km2": 17.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.6051878, 49.469897899999985 ], [ 15.6126097, 49.4625156 ], [ 15.6098041, 49.45925889999998 ], [ 15.621561, 49.448504699999987 ], [ 15.6333235, 49.4448995 ], [ 15.6516155, 49.454993 ], [ 15.6530185, 49.463626499999982 ], [ 15.6336658, 49.4691284 ], [ 15.6235305, 49.475010499999989 ], [ 15.6057514, 49.475034199999989 ], [ 15.599348, 49.4694765 ], [ 15.6051878, 49.469897899999985 ] ] ] } }
+]
+}

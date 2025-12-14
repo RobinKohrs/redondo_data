@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kottweiler_schwanden",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kottweiler-Schwanden", "metric_roundness": 51.89, "metric_rectangularity": 74.27, "metric_mobile_fit": 22.2, "metric_aspect_ratio": 1.341, "metric_area_km2": 17.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5465759, 49.485587199999983 ], [ 7.5370645, 49.4911889 ], [ 7.5198371, 49.4923072 ], [ 7.5069349, 49.4920465 ], [ 7.498742, 49.48503 ], [ 7.5389315, 49.4637645 ], [ 7.548485, 49.4700275 ], [ 7.5491727, 49.47525779999998 ], [ 7.557151, 49.479579 ], [ 7.557631, 49.484277 ], [ 7.5465759, 49.485587199999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chapelle_saint_martin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chapelle-Saint-Martin", "metric_roundness": 34.68, "metric_rectangularity": 59.18, "metric_mobile_fit": 93.21, "metric_aspect_ratio": 0.63, "metric_area_km2": 5.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7458052, 45.6392585 ], [ 5.7525465, 45.638903 ], [ 5.7647375, 45.648120499999976 ], [ 5.7604975, 45.6558505 ], [ 5.762684, 45.663627499999983 ], [ 5.7528565, 45.659425 ], [ 5.7468931, 45.6556814 ], [ 5.7468501, 45.647789499999988 ], [ 5.7458052, 45.645811 ], [ 5.7424385, 45.639436 ], [ 5.7458052, 45.6392585 ] ] ] } }
+]
+}

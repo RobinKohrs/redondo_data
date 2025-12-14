@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schachtebich",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schachtebich", "metric_roundness": 48.23, "metric_rectangularity": 68.26, "metric_mobile_fit": 6.57, "metric_aspect_ratio": 1.497, "metric_area_km2": 9.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.0592205, 51.413322799999989 ], [ 10.0410205, 51.4080175 ], [ 10.028503, 51.405198 ], [ 10.0379075, 51.4022795 ], [ 10.036756, 51.399495 ], [ 10.0387445, 51.399125 ], [ 10.0370785, 51.395969 ], [ 10.0401695, 51.397565 ], [ 10.0503295, 51.39549 ], [ 10.0624545, 51.396903499999986 ], [ 10.068702, 51.3993735 ], [ 10.070354, 51.402663499999989 ], [ 10.0682075, 51.404518 ], [ 10.071292, 51.4131125 ], [ 10.0592205, 51.413322799999989 ] ] ] } }
+]
+}

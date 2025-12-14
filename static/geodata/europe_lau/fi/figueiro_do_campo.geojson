@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "figueiro_do_campo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Figueiró do Campo", "metric_roundness": 42.41, "metric_rectangularity": 62.31, "metric_mobile_fit": 7.09, "metric_aspect_ratio": 1.492, "metric_area_km2": 18.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5812155, 40.153488 ], [ -8.618679, 40.165832 ], [ -8.6124512, 40.1581805 ], [ -8.6249655, 40.14432 ], [ -8.6146545, 40.1339835 ], [ -8.5992686, 40.1359141 ], [ -8.582237, 40.1327105 ], [ -8.5704755, 40.135976 ], [ -8.560331, 40.141257499999988 ], [ -8.5812155, 40.153488 ] ] ] } }
+]
+}

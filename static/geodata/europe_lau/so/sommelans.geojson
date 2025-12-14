@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sommelans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sommelans", "metric_roundness": 48.45, "metric_rectangularity": 69.69, "metric_mobile_fit": 32.14, "metric_aspect_ratio": 1.241, "metric_area_km2": 9.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2743859, 49.144861099999986 ], [ 3.268348, 49.1391075 ], [ 3.2808661, 49.1398226 ], [ 3.2864785, 49.12544 ], [ 3.2986865, 49.123788 ], [ 3.305301, 49.128946499999984 ], [ 3.3123305, 49.1314505 ], [ 3.2950225, 49.146975 ], [ 3.2743859, 49.144861099999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "covelo_do_geres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Covelo do Gerês", "metric_roundness": 40.49, "metric_rectangularity": 61.88, "metric_mobile_fit": 95.06, "metric_aspect_ratio": 0.612, "metric_area_km2": 19.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.9705027, 41.7312273 ], [ -7.9738982, 41.737809499999983 ], [ -7.974063, 41.7528971 ], [ -7.983869, 41.758483 ], [ -7.9861535, 41.7537063 ], [ -7.9843168, 41.7485247 ], [ -8.0004492, 41.729102 ], [ -7.999886, 41.717094 ], [ -7.9956229, 41.7079622 ], [ -7.9891299, 41.7063798 ], [ -7.9772621, 41.7086588 ], [ -7.9681635, 41.716791 ], [ -7.9577235, 41.732495 ], [ -7.9705027, 41.7312273 ] ] ] } }
+]
+}

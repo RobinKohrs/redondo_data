@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_francois_de_sales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-François-de-Sales", "metric_roundness": 37.75, "metric_rectangularity": 58.9, "metric_mobile_fit": 47.17, "metric_aspect_ratio": 1.091, "metric_area_km2": 29.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0518753, 45.675451199999983 ], [ 6.078192, 45.698477499999989 ], [ 6.0791465, 45.699386499999989 ], [ 6.0445517, 45.701080099999984 ], [ 6.0369009, 45.6975446 ], [ 6.029524, 45.699184699999989 ], [ 6.018515, 45.696941 ], [ 6.0165425, 45.68282 ], [ 6.0103525, 45.6787482 ], [ 6.003306, 45.674113 ], [ 6.0103525, 45.672530099999989 ], [ 6.014571, 45.671582499999985 ], [ 6.0196535, 45.6525015 ], [ 6.0518753, 45.675451199999983 ] ] ] } }
+]
+}

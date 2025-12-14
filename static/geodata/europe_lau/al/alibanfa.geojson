@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alibanfa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alibánfa", "metric_roundness": 62.68, "metric_rectangularity": 66.36, "metric_mobile_fit": 59.54, "metric_aspect_ratio": 0.967, "metric_area_km2": 12.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9464425, 46.8908415 ], [ 16.9331512, 46.897134499999986 ], [ 16.9253907, 46.90898929999998 ], [ 16.9186762, 46.908973299999978 ], [ 16.914737, 46.904725 ], [ 16.9085348, 46.8967665 ], [ 16.9110074, 46.887881699999973 ], [ 16.907626, 46.88705 ], [ 16.91524, 46.8817509 ], [ 16.9313095, 46.881561499999989 ], [ 16.938543, 46.88195 ], [ 16.940673, 46.882751 ], [ 16.9464425, 46.8908415 ] ] ] } }
+]
+}

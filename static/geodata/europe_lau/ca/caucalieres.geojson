@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caucalieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caucalières", "metric_roundness": 62.54, "metric_rectangularity": 75.81, "metric_mobile_fit": 74.55, "metric_aspect_ratio": 0.817, "metric_area_km2": 24.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3260075, 43.521616 ], [ 2.3360891, 43.5279755 ], [ 2.3395423, 43.534215 ], [ 2.3287926, 43.540389 ], [ 2.3235185, 43.5499715 ], [ 2.3065432, 43.5642254 ], [ 2.297091, 43.5610735 ], [ 2.288616, 43.556621 ], [ 2.292391, 43.5454766 ], [ 2.2896644, 43.537960899999987 ], [ 2.2945837, 43.5341448 ], [ 2.2939051, 43.5276856 ], [ 2.3005774, 43.5221859 ], [ 2.306498, 43.522436399999989 ], [ 2.306087, 43.5190425 ], [ 2.3260075, 43.521616 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montgaillard_lauragais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montgaillard-Lauragais", "metric_roundness": 45.76, "metric_rectangularity": 67.68, "metric_mobile_fit": 17.85, "metric_aspect_ratio": 1.384, "metric_area_km2": 21.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6998657, 43.4173463 ], [ 1.7311566, 43.418134 ], [ 1.7331375, 43.4277785 ], [ 1.7377385, 43.4299165 ], [ 1.721891, 43.4355786 ], [ 1.7133437, 43.4345534 ], [ 1.7028005, 43.445794 ], [ 1.6991505, 43.446806 ], [ 1.695317, 43.446603 ], [ 1.6896325, 43.4475665 ], [ 1.6873965, 43.4424665 ], [ 1.6795531, 43.4313927 ], [ 1.669074, 43.4239045 ], [ 1.682088, 43.420201 ], [ 1.6856395, 43.416933 ], [ 1.6939715, 43.411537 ], [ 1.6998657, 43.4173463 ] ] ] } }
+]
+}

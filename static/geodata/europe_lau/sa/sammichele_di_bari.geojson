@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sammichele_di_bari",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sammichele di Bari", "metric_roundness": 58.82, "metric_rectangularity": 62.22, "metric_mobile_fit": 33.44, "metric_aspect_ratio": 1.228, "metric_area_km2": 59.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9937289, 40.8625102 ], [ 16.998849, 40.8767837 ], [ 16.9613661, 40.8862848 ], [ 16.9645265, 40.909092 ], [ 16.9412211, 40.9096144 ], [ 16.9362468, 40.901797599999988 ], [ 16.9296782, 40.8989629 ], [ 16.9223476, 40.9001714 ], [ 16.9234146, 40.874543599999988 ], [ 16.9068217, 40.8761189 ], [ 16.8972605, 40.873187 ], [ 16.9006355, 40.861718 ], [ 16.95404, 40.847069 ], [ 16.9798925, 40.8473885 ], [ 16.9937289, 40.8625102 ] ] ] } }
+]
+}

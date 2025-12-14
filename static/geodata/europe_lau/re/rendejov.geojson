@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rendejov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Řendějov", "metric_roundness": 48.19, "metric_rectangularity": 76.78, "metric_mobile_fit": -14.81, "metric_aspect_ratio": 1.711, "metric_area_km2": 19.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.0584918, 49.7688 ], [ 15.0581585, 49.764367 ], [ 15.0619977, 49.7611521 ], [ 15.073961, 49.7598061 ], [ 15.0903185, 49.7615525 ], [ 15.0912891, 49.7650754 ], [ 15.0977726, 49.76177209999998 ], [ 15.1183935, 49.767416 ], [ 15.110574, 49.779454 ], [ 15.0938921, 49.7842067 ], [ 15.0824791, 49.7802175 ], [ 15.074417, 49.780863 ], [ 15.0537625, 49.771923499999986 ], [ 15.0584918, 49.7688 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "clohars_fouesnant",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Clohars-Fouesnant", "metric_roundness": 43.88, "metric_rectangularity": 56.77, "metric_mobile_fit": 16.46, "metric_aspect_ratio": 1.398, "metric_area_km2": 28.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.0441723, 47.900893 ], [ -4.0636046, 47.9030446 ], [ -4.0635647, 47.9114581 ], [ -4.075614, 47.9193645 ], [ -4.0952273, 47.916766899999985 ], [ -4.0902104, 47.9020276 ], [ -4.116145, 47.896711 ], [ -4.1241638, 47.8912753 ], [ -4.1240057, 47.88839 ], [ -4.1057045, 47.881001 ], [ -4.0860925, 47.8845587 ], [ -4.0763499, 47.890588799999989 ], [ -4.062029, 47.887579699999989 ], [ -4.0456625, 47.8901135 ], [ -4.0441723, 47.900893 ] ] ] } }
+]
+}

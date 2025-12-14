@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hlubyne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hlubyně", "metric_roundness": 67.17, "metric_rectangularity": 81.98, "metric_mobile_fit": 64.79, "metric_aspect_ratio": 0.915, "metric_area_km2": 12.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9107928, 49.5517234 ], [ 13.938141, 49.5559805 ], [ 13.9376759, 49.563641799999978 ], [ 13.9281978, 49.572296299999984 ], [ 13.9274575, 49.578131 ], [ 13.905746, 49.5725025 ], [ 13.9009035, 49.563161599999987 ], [ 13.9047545, 49.5558075 ], [ 13.9107928, 49.5517234 ] ] ] } }
+]
+}

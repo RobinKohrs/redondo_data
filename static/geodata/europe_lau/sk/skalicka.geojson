@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "skalicka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Skalička", "metric_roundness": 53.53, "metric_rectangularity": 71.43, "metric_mobile_fit": 70.3, "metric_aspect_ratio": 0.859, "metric_area_km2": 9.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.798382, 49.531868 ], [ 17.7927206, 49.5317105 ], [ 17.779229, 49.523323 ], [ 17.7778187, 49.518833299999983 ], [ 17.7802435, 49.517474 ], [ 17.7871019, 49.5142678 ], [ 17.79263, 49.5056715 ], [ 17.8125, 49.506806499999989 ], [ 17.7986895, 49.5311035 ], [ 17.798382, 49.531868 ] ] ] } }
+]
+}

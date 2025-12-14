@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_boissiere_du_dore",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Boissière-du-Doré", "metric_roundness": 71.16, "metric_rectangularity": 73.19, "metric_mobile_fit": 62.09, "metric_aspect_ratio": 0.942, "metric_area_km2": 20.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.227464, 47.237282099999987 ], [ -1.2241713, 47.2274744 ], [ -1.2144031, 47.222004099999978 ], [ -1.2013119, 47.2169168 ], [ -1.1884605, 47.22000449999998 ], [ -1.181111, 47.2408955 ], [ -1.192268, 47.246408099999989 ], [ -1.1958469, 47.2521199 ], [ -1.2050537, 47.2530839 ], [ -1.210906, 47.250858 ], [ -1.2149714, 47.245001599999988 ], [ -1.231268, 47.23958 ], [ -1.227464, 47.237282099999987 ] ] ] } }
+]
+}

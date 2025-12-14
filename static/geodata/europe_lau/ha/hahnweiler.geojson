@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hahnweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hahnweiler", "metric_roundness": 45.14, "metric_rectangularity": 62.25, "metric_mobile_fit": 30.32, "metric_aspect_ratio": 1.259, "metric_area_km2": 4.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2130556, 49.574162699999988 ], [ 7.210534, 49.568724499999981 ], [ 7.2236475, 49.565018 ], [ 7.2408295, 49.568974 ], [ 7.234438, 49.572544499999985 ], [ 7.228316, 49.576728499999987 ], [ 7.2259425, 49.576693499999983 ], [ 7.220496, 49.5771565 ], [ 7.2176415, 49.5779835 ], [ 7.2156915, 49.578755 ], [ 7.215558, 49.5808945 ], [ 7.2130905, 49.579121 ], [ 7.209999, 49.5771485 ], [ 7.2130556, 49.574162699999988 ] ] ] } }
+]
+}

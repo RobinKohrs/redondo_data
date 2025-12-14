@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_gabrolimnes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαβρολίμνης", "metric_roundness": 41.8, "metric_rectangularity": 78.07, "metric_mobile_fit": 61.8, "metric_aspect_ratio": 0.945, "metric_area_km2": 18.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.603286, 38.4036545 ], [ 21.594388, 38.400182499999985 ], [ 21.6086249, 38.385987 ], [ 21.6221555, 38.3772705 ], [ 21.6329191, 38.3747028 ], [ 21.6345427, 38.3700631 ], [ 21.6423535, 38.363927 ], [ 21.6491183, 38.3704505 ], [ 21.6524095, 38.381773 ], [ 21.6502476, 38.388211 ], [ 21.6356859, 38.3977152 ], [ 21.6194165, 38.4005151 ], [ 21.6150735, 38.4120765 ], [ 21.603286, 38.4036545 ] ] ] } }
+]
+}

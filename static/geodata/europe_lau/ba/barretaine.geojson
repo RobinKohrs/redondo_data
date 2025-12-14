@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "barretaine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Barretaine", "metric_roundness": 50.78, "metric_rectangularity": 61.75, "metric_mobile_fit": 62.73, "metric_aspect_ratio": 0.935, "metric_area_km2": 19.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7197162, 46.793707 ], [ 5.7369752, 46.8062604 ], [ 5.7458052, 46.809628899999986 ], [ 5.746428, 46.8098665 ], [ 5.7483114, 46.8164507 ], [ 5.7458052, 46.816807799999985 ], [ 5.738929, 46.81778749999998 ], [ 5.7303565, 46.8163639 ], [ 5.715479, 46.8256425 ], [ 5.7079182, 46.8288393 ], [ 5.691135, 46.814967 ], [ 5.7094856, 46.797719099999988 ], [ 5.7099625, 46.7898755 ], [ 5.7176475, 46.7869925 ], [ 5.7197162, 46.793707 ] ] ] } }
+]
+}

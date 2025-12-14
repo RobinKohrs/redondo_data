@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blanzy_les_fismes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Blanzy-lès-Fismes", "metric_roundness": 61.0, "metric_rectangularity": 67.96, "metric_mobile_fit": 56.97, "metric_aspect_ratio": 0.993, "metric_area_km2": 12.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6873885, 49.326989499999982 ], [ 3.6901545, 49.342851 ], [ 3.684376, 49.342736 ], [ 3.6833565, 49.344917499999987 ], [ 3.677821, 49.3423595 ], [ 3.67516, 49.345813 ], [ 3.668586, 49.3468295 ], [ 3.668877, 49.350069 ], [ 3.6598707, 49.350346599999988 ], [ 3.6612671, 49.3461058 ], [ 3.6511482, 49.340761799999989 ], [ 3.6572422, 49.3320395 ], [ 3.669155, 49.324746499999975 ], [ 3.6873885, 49.326989499999982 ] ] ] } }
+]
+}

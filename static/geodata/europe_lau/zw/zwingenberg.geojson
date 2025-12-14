@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zwingenberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zwingenberg", "metric_roundness": 56.4, "metric_rectangularity": 66.04, "metric_mobile_fit": 42.47, "metric_aspect_ratio": 1.138, "metric_area_km2": 11.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0526905, 49.425060699999982 ], [ 9.0441819, 49.4276535 ], [ 9.022328, 49.423208 ], [ 9.0152351, 49.415084 ], [ 9.011045, 49.414332 ], [ 9.0181087, 49.408349599999987 ], [ 9.0284492, 49.4102886 ], [ 9.0343205, 49.403840699999982 ], [ 9.042677, 49.404911 ], [ 9.0404081, 49.410354199999979 ], [ 9.0486852, 49.411827699999982 ], [ 9.051399, 49.4151455 ], [ 9.0526905, 49.425060699999982 ] ] ] } }
+]
+}

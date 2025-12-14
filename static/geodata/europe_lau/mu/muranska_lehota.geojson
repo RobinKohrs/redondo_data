@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "muranska_lehota",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Muránska Lehota", "metric_roundness": 34.82, "metric_rectangularity": 67.2, "metric_mobile_fit": 64.82, "metric_aspect_ratio": 0.914, "metric_area_km2": 17.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.025456, 48.6946655 ], [ 20.0376606, 48.702588699999986 ], [ 20.0435693, 48.7130571 ], [ 20.0581268, 48.719623899999988 ], [ 20.064266, 48.72576 ], [ 20.0447967, 48.7326676 ], [ 20.0312521, 48.7288922 ], [ 20.0162588, 48.7112972 ], [ 20.0199748, 48.7003313 ], [ 20.0114126, 48.697401899999981 ], [ 20.010877, 48.69414 ], [ 20.025456, 48.6946655 ] ] ] } }
+]
+}

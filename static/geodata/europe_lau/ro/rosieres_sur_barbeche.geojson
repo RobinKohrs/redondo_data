@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rosieres_sur_barbeche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rosières-sur-Barbèche", "metric_roundness": 51.89, "metric_rectangularity": 69.51, "metric_mobile_fit": 85.25, "metric_aspect_ratio": 0.71, "metric_area_km2": 11.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6732765, 47.302256 ], [ 6.666894, 47.307431799999989 ], [ 6.6707946, 47.3104502 ], [ 6.6711856, 47.3262937 ], [ 6.674037, 47.32957 ], [ 6.6632536, 47.329878799999982 ], [ 6.654367, 47.326477 ], [ 6.6436251, 47.3191692 ], [ 6.643454, 47.3150588 ], [ 6.6490325, 47.30956 ], [ 6.6537861, 47.300677 ], [ 6.668208, 47.301005 ], [ 6.669558, 47.3013145 ], [ 6.6732765, 47.302256 ] ] ] } }
+]
+}

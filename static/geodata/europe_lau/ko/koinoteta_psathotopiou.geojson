@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_psathotopiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ψαθοτοπίου", "metric_roundness": 44.44, "metric_rectangularity": 63.99, "metric_mobile_fit": 95.21, "metric_aspect_ratio": 0.61, "metric_area_km2": 8.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.960775, 39.0967535 ], [ 20.9580395, 39.0953265 ], [ 20.954105, 39.0938775 ], [ 20.9503905, 39.092780499999982 ], [ 20.9465105, 39.092024 ], [ 20.9442443, 39.0875961 ], [ 20.9457871, 39.082134599999982 ], [ 20.962678, 39.064845 ], [ 20.9705163, 39.086107699999985 ], [ 20.96599, 39.098254 ], [ 20.960775, 39.0967535 ] ] ] } }
+]
+}

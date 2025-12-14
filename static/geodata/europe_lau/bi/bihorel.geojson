@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bihorel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bihorel", "metric_roundness": 23.17, "metric_rectangularity": 67.99, "metric_mobile_fit": 48.32, "metric_aspect_ratio": 1.079, "metric_area_km2": 6.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1315694, 49.465919699999986 ], [ 1.1108695, 49.460208499999986 ], [ 1.105606, 49.454616 ], [ 1.1091809, 49.4558888 ], [ 1.1102898, 49.451682599999984 ], [ 1.1153681, 49.450508699999986 ], [ 1.1406815, 49.465058 ], [ 1.1503075, 49.4706942 ], [ 1.1450665, 49.4774265 ], [ 1.1315694, 49.465919699999986 ] ] ] } }
+]
+}

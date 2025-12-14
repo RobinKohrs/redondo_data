@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "altweidelbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Altweidelbach", "metric_roundness": 55.84, "metric_rectangularity": 60.22, "metric_mobile_fit": 58.16, "metric_aspect_ratio": 0.981, "metric_area_km2": 10.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5742898, 50.0076459 ], [ 7.5701708, 50.0109463 ], [ 7.5649229, 50.0067254 ], [ 7.553435, 50.004063 ], [ 7.553717, 50.0014878 ], [ 7.5462668, 49.9969056 ], [ 7.5524075, 49.990269 ], [ 7.5603658, 49.9906187 ], [ 7.5676321, 49.9867634 ], [ 7.575726, 49.988429 ], [ 7.5750029, 49.990570099999985 ], [ 7.58317, 49.9933025 ], [ 7.5779957, 49.996489 ], [ 7.5810755, 50.0108765 ], [ 7.5742898, 50.0076459 ] ] ] } }
+]
+}

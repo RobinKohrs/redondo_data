@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chamba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chamba", "metric_roundness": 32.05, "metric_rectangularity": 54.35, "metric_mobile_fit": -3.03, "metric_aspect_ratio": 1.593, "metric_area_km2": 10.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.730435, 45.760352499999982 ], [ 3.7396823, 45.755610299999987 ], [ 3.7483447, 45.7558764 ], [ 3.7556199, 45.7473319 ], [ 3.7654213, 45.7449131 ], [ 3.7742618, 45.74644 ], [ 3.7790795, 45.742687499999981 ], [ 3.783255, 45.745108 ], [ 3.7731635, 45.762633199999982 ], [ 3.7590435, 45.765825499999984 ], [ 3.740412, 45.759266 ], [ 3.7331105, 45.761939 ], [ 3.730435, 45.760352499999982 ] ] ] } }
+]
+}

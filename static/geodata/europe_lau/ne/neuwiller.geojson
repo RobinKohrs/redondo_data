@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neuwiller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neuwiller", "metric_roundness": 60.13, "metric_rectangularity": 72.22, "metric_mobile_fit": 37.08, "metric_aspect_ratio": 1.192, "metric_area_km2": 8.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.497817, 47.521233 ], [ 7.5048696, 47.514815 ], [ 7.5239, 47.515232 ], [ 7.531475, 47.5277175 ], [ 7.5273651, 47.5317558 ], [ 7.5161965, 47.532608 ], [ 7.5043201, 47.5286442 ], [ 7.499042, 47.5352405 ], [ 7.4981644, 47.5254915 ], [ 7.495427, 47.5228155 ], [ 7.497817, 47.521233 ] ] ] } }
+]
+}

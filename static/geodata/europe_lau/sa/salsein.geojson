@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "salsein",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Salsein", "metric_roundness": 40.76, "metric_rectangularity": 65.83, "metric_mobile_fit": 16.6, "metric_aspect_ratio": 1.396, "metric_area_km2": 10.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0072777, 42.8959781 ], [ 1.0153426, 42.9018029 ], [ 1.0229695, 42.912802 ], [ 1.021387, 42.915172 ], [ 1.0187675, 42.917476 ], [ 1.002557, 42.91387 ], [ 0.996356, 42.911986 ], [ 0.991392, 42.9120225 ], [ 0.9898455, 42.907592 ], [ 0.9844125, 42.901136 ], [ 0.980778, 42.8992475 ], [ 0.9750285, 42.898093499999987 ], [ 0.9817184, 42.8932865 ], [ 0.989934, 42.89233 ], [ 1.0072777, 42.8959781 ] ] ] } }
+]
+}

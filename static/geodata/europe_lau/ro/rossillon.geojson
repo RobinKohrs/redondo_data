@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rossillon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rossillon", "metric_roundness": 42.26, "metric_rectangularity": 63.29, "metric_mobile_fit": -16.9, "metric_aspect_ratio": 1.732, "metric_area_km2": 15.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.56805, 45.835314 ], [ 5.5940991, 45.8233819 ], [ 5.6088374, 45.829547799999986 ], [ 5.6299625, 45.830185 ], [ 5.6253615, 45.836172 ], [ 5.622062, 45.8423925 ], [ 5.6168915, 45.845334499999986 ], [ 5.615646, 45.848207499999987 ], [ 5.609594, 45.8482935 ], [ 5.5995665, 45.848004 ], [ 5.5857641, 45.839632699999989 ], [ 5.574556, 45.8451665 ], [ 5.56805, 45.835314 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geyer_stadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Geyer, Stadt", "metric_roundness": 69.76, "metric_rectangularity": 80.99, "metric_mobile_fit": 39.33, "metric_aspect_ratio": 1.169, "metric_area_km2": 46.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.8872027, 50.651524 ], [ 12.8731942, 50.645013199999987 ], [ 12.8621425, 50.629635499999985 ], [ 12.8717661, 50.6189205 ], [ 12.8897964, 50.615795099999985 ], [ 12.90712, 50.6067775 ], [ 12.939058, 50.6205154 ], [ 12.944617, 50.627236 ], [ 12.9377201, 50.6378816 ], [ 12.9234089, 50.644754699999979 ], [ 12.900268, 50.650801 ], [ 12.8872027, 50.651524 ] ] ] } }
+]
+}

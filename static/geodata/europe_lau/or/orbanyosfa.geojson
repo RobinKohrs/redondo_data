@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orbanyosfa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orbányosfa", "metric_roundness": 41.23, "metric_rectangularity": 72.62, "metric_mobile_fit": 99.28, "metric_aspect_ratio": 0.555, "metric_area_km2": 11.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9806349, 46.8498071 ], [ 16.9768818, 46.8470017 ], [ 16.9806572, 46.8409172 ], [ 16.9890517, 46.8409365 ], [ 16.9907005, 46.8463695 ], [ 16.9957823, 46.8474593 ], [ 16.9989765, 46.854916499999987 ], [ 16.9889277, 46.8673566 ], [ 16.987495, 46.875351 ], [ 16.9875765, 46.876076 ], [ 16.9727348, 46.8758053 ], [ 16.9704274, 46.8681321 ], [ 16.9762385, 46.8509265 ], [ 16.9806349, 46.8498071 ] ] ] } }
+]
+}

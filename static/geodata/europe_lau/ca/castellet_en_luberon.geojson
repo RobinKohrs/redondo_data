@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castellet_en_luberon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castellet-en-Luberon", "metric_roundness": 50.42, "metric_rectangularity": 62.41, "metric_mobile_fit": 60.23, "metric_aspect_ratio": 0.96, "metric_area_km2": 18.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4627507, 43.826360699999981 ], [ 5.4672395, 43.815313 ], [ 5.47729, 43.815529 ], [ 5.4801865, 43.817036 ], [ 5.484711, 43.818144 ], [ 5.4890815, 43.8182535 ], [ 5.4980759, 43.8408593 ], [ 5.5114074, 43.8416683 ], [ 5.506147, 43.849049599999987 ], [ 5.4941605, 43.848152 ], [ 5.4766315, 43.8518675 ], [ 5.464133, 43.841406 ], [ 5.4627507, 43.826360699999981 ] ] ] } }
+]
+}

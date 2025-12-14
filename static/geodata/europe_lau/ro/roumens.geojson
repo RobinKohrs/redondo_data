@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roumens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roumens", "metric_roundness": 32.23, "metric_rectangularity": 52.75, "metric_mobile_fit": -33.59, "metric_aspect_ratio": 1.898, "metric_area_km2": 6.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9215972, 43.460601599999983 ], [ 1.9343244, 43.4550389 ], [ 1.9608045, 43.469813 ], [ 1.9561886, 43.471832099999986 ], [ 1.9430465, 43.4670992 ], [ 1.9282197, 43.470959599999986 ], [ 1.916882, 43.4672685 ], [ 1.9215972, 43.460601599999983 ] ] ] } }
+]
+}

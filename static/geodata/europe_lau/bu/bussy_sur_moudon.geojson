@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bussy_sur_moudon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bussy-sur-Moudon", "metric_roundness": 55.55, "metric_rectangularity": 84.74, "metric_mobile_fit": 34.37, "metric_aspect_ratio": 1.219, "metric_area_km2": 6.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.824309, 46.6948715 ], [ 6.8113075, 46.700998499999983 ], [ 6.805118, 46.696952 ], [ 6.791865, 46.6867395 ], [ 6.793775, 46.686615499999988 ], [ 6.7969765, 46.683458 ], [ 6.801002, 46.683462499999983 ], [ 6.8030465, 46.6818995 ], [ 6.8110795, 46.682421 ], [ 6.8166735, 46.684718499999988 ], [ 6.825802, 46.6923425 ], [ 6.824309, 46.6948715 ] ] ] } }
+]
+}

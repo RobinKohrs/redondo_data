@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tobel_tagerschen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tobel-Tägerschen", "metric_roundness": 40.62, "metric_rectangularity": 55.23, "metric_mobile_fit": 12.01, "metric_aspect_ratio": 1.442, "metric_area_km2": 15.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0103728, 47.509630199999982 ], [ 9.010536, 47.5053955 ], [ 9.011158, 47.5017394 ], [ 9.0317803, 47.501769799999984 ], [ 9.039927, 47.4998155 ], [ 9.042031, 47.4958685 ], [ 9.042766, 47.496029499999985 ], [ 9.0465173, 47.5112 ], [ 9.0573392, 47.5140416 ], [ 9.0710087, 47.5116858 ], [ 9.0671825, 47.520499 ], [ 9.0443405, 47.524263299999987 ], [ 9.0303706, 47.521598799999985 ], [ 9.0155145, 47.51301 ], [ 9.0103728, 47.509630199999982 ] ] ] } }
+]
+}

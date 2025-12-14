@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krtomil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Křtomil", "metric_roundness": 45.19, "metric_rectangularity": 73.29, "metric_mobile_fit": 61.68, "metric_aspect_ratio": 0.946, "metric_area_km2": 9.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6409266, 49.4205836 ], [ 17.6343264, 49.4239458 ], [ 17.6286523, 49.421328699999989 ], [ 17.611167, 49.400188499999985 ], [ 17.6192745, 49.397317099999981 ], [ 17.6262173, 49.3985176 ], [ 17.6342572, 49.4064166 ], [ 17.6409266, 49.4087126 ], [ 17.6498739, 49.4150225 ], [ 17.6443655, 49.420479 ], [ 17.6409266, 49.4205836 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "daraboshegy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Daraboshegy", "metric_roundness": 31.2, "metric_rectangularity": 67.14, "metric_mobile_fit": 87.17, "metric_aspect_ratio": 0.434, "metric_area_km2": 10.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.557193, 46.9297275 ], [ 16.577234, 46.9287585 ], [ 16.579414, 46.966181 ], [ 16.5731309, 46.9662644 ], [ 16.5659995, 46.961867 ], [ 16.5647468, 46.941001 ], [ 16.555557, 46.939187 ], [ 16.557193, 46.9297275 ] ] ] } }
+]
+}

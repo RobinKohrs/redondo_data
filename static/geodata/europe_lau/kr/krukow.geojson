@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krukow",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Krukow", "metric_roundness": 53.84, "metric_rectangularity": 60.9, "metric_mobile_fit": 69.09, "metric_aspect_ratio": 0.872, "metric_area_km2": 23.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.4486925, 53.4227138 ], [ 10.466429, 53.4105575 ], [ 10.4750781, 53.4080575 ], [ 10.4776285, 53.3991731 ], [ 10.4862298, 53.3980937 ], [ 10.4993235, 53.4014585 ], [ 10.4941126, 53.4138131 ], [ 10.5007825, 53.4337125 ], [ 10.4666618, 53.4299489 ], [ 10.4620935, 53.432439499999987 ], [ 10.4510545, 53.4268455 ], [ 10.4486925, 53.4227138 ] ] ] } }
+]
+}

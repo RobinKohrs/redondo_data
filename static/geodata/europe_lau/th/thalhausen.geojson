@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thalhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thalhausen", "metric_roundness": 38.19, "metric_rectangularity": 63.95, "metric_mobile_fit": 92.8, "metric_aspect_ratio": 0.49, "metric_area_km2": 9.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5819125, 50.492667 ], [ 7.585373, 50.4929865 ], [ 7.5948221, 50.505431599999987 ], [ 7.5901323, 50.5130139 ], [ 7.593166, 50.521523 ], [ 7.590927, 50.523690499999987 ], [ 7.5824644, 50.51744429999998 ], [ 7.5749592, 50.5190585 ], [ 7.5710345, 50.5147225 ], [ 7.5708965, 50.5042735 ], [ 7.5819125, 50.492667 ] ] ] } }
+]
+}

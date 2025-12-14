@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cadrezzate_con_osmate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cadrezzate con Osmate", "metric_roundness": 48.18, "metric_rectangularity": 67.83, "metric_mobile_fit": 69.38, "metric_aspect_ratio": 0.869, "metric_area_km2": 17.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.6326135, 45.7895967 ], [ 8.6392461, 45.7800546 ], [ 8.64566, 45.7772355 ], [ 8.662763, 45.775388499999984 ], [ 8.6684835, 45.7766759 ], [ 8.669154, 45.784669 ], [ 8.673955, 45.7882645 ], [ 8.6540399, 45.7992057 ], [ 8.6449853, 45.8128527 ], [ 8.6402845, 45.813815 ], [ 8.6413262, 45.8092504 ], [ 8.6294357, 45.8027179 ], [ 8.6260795, 45.793707 ], [ 8.6326135, 45.7895967 ] ] ] } }
+]
+}

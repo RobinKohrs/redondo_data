@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boissy_lamberville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boissy-Lamberville", "metric_roundness": 38.04, "metric_rectangularity": 58.25, "metric_mobile_fit": 89.02, "metric_aspect_ratio": 0.672, "metric_area_km2": 19.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5708278, 49.1619478 ], [ 0.5688534, 49.1563915 ], [ 0.5625318, 49.1495745 ], [ 0.5617306, 49.1448788 ], [ 0.555343, 49.141418 ], [ 0.5619252, 49.1325323 ], [ 0.584718, 49.145163 ], [ 0.58798, 49.1481025 ], [ 0.5888555, 49.1496795 ], [ 0.594889, 49.1543165 ], [ 0.6022125, 49.1643185 ], [ 0.578538, 49.178128 ], [ 0.572265, 49.1771725 ], [ 0.568624, 49.1754115 ], [ 0.5685405, 49.1682565 ], [ 0.5701435, 49.165494 ], [ 0.568483, 49.163991 ], [ 0.5708278, 49.1619478 ] ] ] } }
+]
+}

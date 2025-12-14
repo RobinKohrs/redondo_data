@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_maria_de_valverde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa María de Valverde", "metric_roundness": 36.54, "metric_rectangularity": 76.6, "metric_mobile_fit": 94.09, "metric_aspect_ratio": 0.503, "metric_area_km2": 17.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.9346225, 41.961437499999981 ], [ -5.9370015, 41.961216 ], [ -5.93937, 41.9568405 ], [ -5.948873, 41.947872 ], [ -5.9435615, 41.930454 ], [ -5.936143, 41.908863 ], [ -5.932912, 41.910701499999988 ], [ -5.930477, 41.913597 ], [ -5.926819, 41.9156305 ], [ -5.9230935, 41.919586 ], [ -5.913298, 41.924266499999973 ], [ -5.914717, 41.927345 ], [ -5.919863, 41.942352 ], [ -5.923089, 41.953293 ], [ -5.9346225, 41.961437499999981 ] ] ] } }
+]
+}

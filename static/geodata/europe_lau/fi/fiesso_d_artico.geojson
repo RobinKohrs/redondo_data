@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fiesso_d_artico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fiesso d'Artico", "metric_roundness": 46.6, "metric_rectangularity": 62.87, "metric_mobile_fit": -5.95, "metric_aspect_ratio": 1.622, "metric_area_km2": 12.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.019425, 45.42958 ], [ 12.0183568, 45.424450199999988 ], [ 12.0134795, 45.424163 ], [ 12.009928, 45.416711899999989 ], [ 12.0114843, 45.411360199999983 ], [ 12.0331035, 45.415803299999979 ], [ 12.0521497, 45.4133288 ], [ 12.0629385, 45.41914 ], [ 12.0576087, 45.426471199999988 ], [ 12.0434925, 45.427125399999987 ], [ 12.0405439, 45.433534499999986 ], [ 12.0359775, 45.4342985 ], [ 12.019425, 45.42958 ] ] ] } }
+]
+}

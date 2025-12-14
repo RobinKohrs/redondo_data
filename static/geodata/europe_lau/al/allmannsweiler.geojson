@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "allmannsweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Allmannsweiler", "metric_roundness": 53.47, "metric_rectangularity": 66.38, "metric_mobile_fit": 25.47, "metric_aspect_ratio": 1.308, "metric_area_km2": 8.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.61832, 48.033181 ], [ 9.6016315, 48.037556699999982 ], [ 9.578483, 48.033267 ], [ 9.5809247, 48.0234143 ], [ 9.5903727, 48.021487599999986 ], [ 9.591093, 48.017184799999988 ], [ 9.596641, 48.017318 ], [ 9.61832, 48.033181 ] ] ] } }
+]
+}

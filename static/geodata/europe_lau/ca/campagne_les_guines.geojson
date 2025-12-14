@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "campagne_les_guines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Campagne-lès-Guines", "metric_roundness": 38.41, "metric_rectangularity": 55.91, "metric_mobile_fit": 87.56, "metric_aspect_ratio": 0.687, "metric_area_km2": 14.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8785363, 50.838198 ], [ 1.8883617, 50.8292691 ], [ 1.8809325, 50.817965 ], [ 1.8913522, 50.8277364 ], [ 1.9145415, 50.833721 ], [ 1.9203176, 50.843065499999987 ], [ 1.9187755, 50.8461405 ], [ 1.916237, 50.8447865 ], [ 1.9142405, 50.844779499999987 ], [ 1.9123895, 50.845894 ], [ 1.915203, 50.8480205 ], [ 1.9132165, 50.848462 ], [ 1.9093575, 50.850914499999988 ], [ 1.892834, 50.85638 ], [ 1.8785363, 50.838198 ] ] ] } }
+]
+}

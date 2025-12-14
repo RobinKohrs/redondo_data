@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fetigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fétigny", "metric_roundness": 43.12, "metric_rectangularity": 71.22, "metric_mobile_fit": 81.59, "metric_aspect_ratio": 0.747, "metric_area_km2": 8.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9301239, 46.8063832 ], [ 6.9194154, 46.8096892 ], [ 6.9122781, 46.804199499999989 ], [ 6.907342, 46.8049285 ], [ 6.897533, 46.794177499999989 ], [ 6.9026054, 46.7918175 ], [ 6.9064815, 46.783326 ], [ 6.910995, 46.7798025 ], [ 6.916608, 46.786998 ], [ 6.9301239, 46.8063832 ] ] ] } }
+]
+}

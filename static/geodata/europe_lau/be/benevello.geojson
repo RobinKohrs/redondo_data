@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "benevello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Benevello", "metric_roundness": 53.29, "metric_rectangularity": 67.48, "metric_mobile_fit": 53.96, "metric_aspect_ratio": 1.023, "metric_area_km2": 11.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0927179, 44.6175772 ], [ 8.1165655, 44.6204785 ], [ 8.1175176, 44.623075 ], [ 8.1112423, 44.634775199999979 ], [ 8.102652, 44.6377637 ], [ 8.094656, 44.6449585 ], [ 8.086046, 44.6387182 ], [ 8.0781605, 44.6401775 ], [ 8.081039, 44.635775 ], [ 8.0834704, 44.6305577 ], [ 8.080203, 44.622342 ], [ 8.0927179, 44.6175772 ] ] ] } }
+]
+}

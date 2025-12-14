@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bramevaque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bramevaque", "metric_roundness": 39.86, "metric_rectangularity": 59.85, "metric_mobile_fit": -24.9, "metric_aspect_ratio": 1.812, "metric_area_km2": 6.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5486805, 42.975148 ], [ 0.550566, 42.9735535 ], [ 0.5519345, 42.970836 ], [ 0.556413, 42.968475499999983 ], [ 0.560946, 42.970662 ], [ 0.5765192, 42.9728207 ], [ 0.5777075, 42.98236 ], [ 0.5752182, 42.9844679 ], [ 0.56871, 42.9840175 ], [ 0.5629029, 42.9810442 ], [ 0.5386299, 42.9847831 ], [ 0.5373295, 42.9816705 ], [ 0.5486805, 42.975148 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonloc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonloc", "metric_roundness": 53.79, "metric_rectangularity": 69.24, "metric_mobile_fit": 44.11, "metric_aspect_ratio": 1.121, "metric_area_km2": 1.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.2764325, 43.367443 ], [ -1.2688907, 43.3627781 ], [ -1.2609295, 43.3622685 ], [ -1.2599907, 43.3646991 ], [ -1.26552, 43.372927499999989 ], [ -1.2764325, 43.367443 ] ] ] } }
+]
+}

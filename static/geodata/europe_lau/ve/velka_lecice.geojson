@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velka_lecice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velká Lečice", "metric_roundness": 41.99, "metric_rectangularity": 57.97, "metric_mobile_fit": 68.93, "metric_aspect_ratio": 0.873, "metric_area_km2": 12.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.305802, 49.8102757 ], [ 14.3063597, 49.8059576 ], [ 14.311874, 49.803947 ], [ 14.3131514, 49.7995696 ], [ 14.320624, 49.7978035 ], [ 14.3255285, 49.799514299999984 ], [ 14.324785, 49.809784699999973 ], [ 14.333349, 49.819471 ], [ 14.3136695, 49.82587909999998 ], [ 14.2946605, 49.828033 ], [ 14.292366, 49.828090499999988 ], [ 14.2937585, 49.824276 ], [ 14.2950355, 49.820778 ], [ 14.305802, 49.8102757 ] ] ] } }
+]
+}

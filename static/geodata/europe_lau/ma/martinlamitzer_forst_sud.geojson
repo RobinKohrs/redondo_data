@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "martinlamitzer_forst_sud",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Martinlamitzer Forst-Süd", "metric_roundness": 29.95, "metric_rectangularity": 54.88, "metric_mobile_fit": 55.19, "metric_aspect_ratio": 1.011, "metric_area_km2": 20.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.0320918, 50.1632744 ], [ 12.0337706, 50.1697658 ], [ 12.0400668, 50.175318399999988 ], [ 12.061859, 50.1799225 ], [ 12.0472335, 50.197625 ], [ 12.0429756, 50.1939299 ], [ 12.02623, 50.191058 ], [ 12.0312964, 50.1838659 ], [ 11.999293, 50.170473 ], [ 12.0011855, 50.1665815 ], [ 11.9946758, 50.1562766 ], [ 11.9964505, 50.155049499999976 ], [ 12.0075758, 50.160349499999981 ], [ 12.0196615, 50.160332 ], [ 12.0320918, 50.1632744 ] ] ] } }
+]
+}

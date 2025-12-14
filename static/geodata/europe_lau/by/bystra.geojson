@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bystra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bystrá", "metric_roundness": 63.85, "metric_rectangularity": 71.84, "metric_mobile_fit": 37.19, "metric_aspect_ratio": 1.191, "metric_area_km2": 8.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3619378, 49.5018093 ], [ 15.3768731, 49.4995176 ], [ 15.379123, 49.494876799999986 ], [ 15.3816715, 49.496885 ], [ 15.3897245, 49.5047473 ], [ 15.3894513, 49.5088821 ], [ 15.3775088, 49.5145523 ], [ 15.3611155, 49.5154565 ], [ 15.351992, 49.506369599999978 ], [ 15.3555855, 49.5001685 ], [ 15.3619378, 49.5018093 ] ] ] } }
+]
+}

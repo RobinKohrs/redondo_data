@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mittelnkirchen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mittelnkirchen", "metric_roundness": 46.38, "metric_rectangularity": 69.19, "metric_mobile_fit": 62.84, "metric_aspect_ratio": 0.934, "metric_area_km2": 19.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6503665, 53.533906 ], [ 9.6561175, 53.5421968 ], [ 9.646392, 53.5460236 ], [ 9.6420885, 53.555252399999986 ], [ 9.6436107, 53.5615519 ], [ 9.612013, 53.5656275 ], [ 9.6062435, 53.555028 ], [ 9.6122752, 53.5445692 ], [ 9.62202, 53.540097 ], [ 9.6503665, 53.533906 ] ] ] } }
+]
+}

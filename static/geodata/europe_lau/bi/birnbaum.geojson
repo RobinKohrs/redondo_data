@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "birnbaum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Birnbaum", "metric_roundness": 38.18, "metric_rectangularity": 45.06, "metric_mobile_fit": 61.99, "metric_aspect_ratio": 0.943, "metric_area_km2": 16.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.4299657, 50.377595 ], [ 11.4342275, 50.3694487 ], [ 11.4268411, 50.3540015 ], [ 11.4314429, 50.3489146 ], [ 11.4161805, 50.345285499999989 ], [ 11.4367757, 50.345128199999984 ], [ 11.4417535, 50.3490385 ], [ 11.470617, 50.355567 ], [ 11.4546868, 50.366042799999981 ], [ 11.447658, 50.378240299999987 ], [ 11.435508, 50.381968 ], [ 11.4299657, 50.377595 ] ] ] } }
+]
+}

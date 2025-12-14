@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "acquafredda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Acquafredda", "metric_roundness": 56.68, "metric_rectangularity": 71.86, "metric_mobile_fit": 73.25, "metric_aspect_ratio": 0.83, "metric_area_km2": 19.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.3974765, 45.285819499999981 ], [ 10.409464, 45.2933938 ], [ 10.42512, 45.2965585 ], [ 10.4257502, 45.304659699999988 ], [ 10.4308241, 45.313013 ], [ 10.4284095, 45.320704 ], [ 10.401129, 45.323968 ], [ 10.3982612, 45.3184353 ], [ 10.3925457, 45.3175619 ], [ 10.392734, 45.312748 ], [ 10.3936855, 45.3080366 ], [ 10.385806, 45.296313 ], [ 10.3974765, 45.285819499999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dobrcice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dobrčice", "metric_roundness": 19.74, "metric_rectangularity": 56.13, "metric_mobile_fit": -96.63, "metric_aspect_ratio": 2.529, "metric_area_km2": 5.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.4709855, 49.397490599999983 ], [ 17.4886096, 49.4028412 ], [ 17.499505, 49.3984765 ], [ 17.5090425, 49.394161 ], [ 17.513078, 49.3985978 ], [ 17.504167, 49.4014205 ], [ 17.486943, 49.405178499999984 ], [ 17.4669053, 49.407473 ], [ 17.4623503, 49.4046893 ], [ 17.4613485, 49.3986285 ], [ 17.4709855, 49.397490599999983 ] ] ] } }
+]
+}

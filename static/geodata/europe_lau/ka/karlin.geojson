@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "karlin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Karlín", "metric_roundness": 56.22, "metric_rectangularity": 66.79, "metric_mobile_fit": 32.41, "metric_aspect_ratio": 1.238, "metric_area_km2": 4.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9857862, 48.975722399999988 ], [ 16.9896958, 48.979626099999976 ], [ 16.9763305, 48.982276 ], [ 16.9744414, 48.978441 ], [ 16.9636045, 48.9735645 ], [ 16.9668906, 48.968375699999989 ], [ 16.9898305, 48.9684355 ], [ 16.9857862, 48.975722399999988 ] ] ] } }
+]
+}

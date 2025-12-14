@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_freissinouse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Freissinouse", "metric_roundness": 41.69, "metric_rectangularity": 58.94, "metric_mobile_fit": 29.81, "metric_aspect_ratio": 1.264, "metric_area_km2": 15.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0103525, 44.5500928 ], [ 6.0056259, 44.5493027 ], [ 6.0029548, 44.5435472 ], [ 5.9913575, 44.544218499999985 ], [ 5.9950171, 44.5331592 ], [ 5.978804, 44.520481499999988 ], [ 6.0048764, 44.5204863 ], [ 6.0103525, 44.5233109 ], [ 6.017498, 44.526996499999981 ], [ 6.0325248, 44.5413277 ], [ 6.023286, 44.5507676 ], [ 6.01292, 44.550522 ], [ 6.0103525, 44.5500928 ] ] ] } }
+]
+}

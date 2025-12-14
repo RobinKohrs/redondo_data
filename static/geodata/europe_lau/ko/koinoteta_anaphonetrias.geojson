@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_anaphonetrias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αναφωνητρίας", "metric_roundness": 42.11, "metric_rectangularity": 56.66, "metric_mobile_fit": 17.82, "metric_aspect_ratio": 1.384, "metric_area_km2": 16.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6674267, 37.8537093 ], [ 20.6262165, 37.8528255 ], [ 20.6209883, 37.8486418 ], [ 20.6270206, 37.8436314 ], [ 20.6303255, 37.8334618 ], [ 20.6265961, 37.8202506 ], [ 20.632721, 37.8221115 ], [ 20.6506784, 37.835868499999989 ], [ 20.679013, 37.839036499999985 ], [ 20.679624, 37.840884 ], [ 20.679637, 37.843177499999989 ], [ 20.6787145, 37.8449995 ], [ 20.673533, 37.851223 ], [ 20.6674267, 37.8537093 ] ] ] } }
+]
+}

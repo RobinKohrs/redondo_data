@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pseudokoinoteta_kalamarias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ψευδοκοινοτητα Καλαμαριας", "metric_roundness": 55.04, "metric_rectangularity": 71.12, "metric_mobile_fit": 68.64, "metric_aspect_ratio": 0.876, "metric_area_km2": 12.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.9382012, 40.5869694 ], [ 22.9356013, 40.5789884 ], [ 22.9690225, 40.5602455 ], [ 22.973409, 40.5718525 ], [ 22.970878, 40.5880975 ], [ 22.948176, 40.593023499999987 ], [ 22.9382012, 40.5869694 ] ] ] } }
+]
+}

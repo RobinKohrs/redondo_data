@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "broye_les_loups_et_verfontaine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Broye-les-Loups-et-Verfontaine", "metric_roundness": 20.87, "metric_rectangularity": 52.63, "metric_mobile_fit": 92.03, "metric_aspect_ratio": 0.483, "metric_area_km2": 11.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4309556, 47.4887829 ], [ 5.4206615, 47.477245499999988 ], [ 5.427016, 47.470055 ], [ 5.4187235, 47.46555 ], [ 5.4176675, 47.463373 ], [ 5.4139535, 47.459961 ], [ 5.4143053, 47.455298099999979 ], [ 5.419621, 47.4492853 ], [ 5.4356235, 47.450291 ], [ 5.4305197, 47.455624 ], [ 5.4360457, 47.4640634 ], [ 5.4306429, 47.469927899999988 ], [ 5.4405271, 47.4801156 ], [ 5.447461, 47.4961985 ], [ 5.4364315, 47.4904175 ], [ 5.4309556, 47.4887829 ] ] ] } }
+]
+}

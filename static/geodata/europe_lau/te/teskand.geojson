@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "teskand",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Teskánd", "metric_roundness": 32.39, "metric_rectangularity": 60.06, "metric_mobile_fit": 88.3, "metric_aspect_ratio": 0.68, "metric_area_km2": 10.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.7757973, 46.848004599999989 ], [ 16.7820151, 46.8488831 ], [ 16.7871365, 46.85409 ], [ 16.7792459, 46.8627487 ], [ 16.774344, 46.862974499999986 ], [ 16.7639005, 46.860733 ], [ 16.7620644, 46.8499829 ], [ 16.7545626, 46.838388699999982 ], [ 16.752056, 46.82789 ], [ 16.764642, 46.8276655 ], [ 16.7700485, 46.840985499999981 ], [ 16.7744855, 46.844717499999987 ], [ 16.7757973, 46.848004599999989 ] ] ] } }
+]
+}

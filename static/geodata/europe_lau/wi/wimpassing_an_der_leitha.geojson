@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wimpassing_an_der_leitha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wimpassing an der Leitha", "metric_roundness": 49.91, "metric_rectangularity": 66.03, "metric_mobile_fit": 77.22, "metric_aspect_ratio": 0.79, "metric_area_km2": 17.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4506213, 47.920017099999988 ], [ 16.4539587, 47.9304568 ], [ 16.4518515, 47.934127 ], [ 16.4367008, 47.9264109 ], [ 16.4242663, 47.9141693 ], [ 16.418484, 47.9134958 ], [ 16.4229705, 47.902283 ], [ 16.4445074, 47.894087299999974 ], [ 16.4519266, 47.8985943 ], [ 16.4581983, 47.907126499999983 ], [ 16.4656945, 47.9106995 ], [ 16.4506213, 47.920017099999988 ] ] ] } }
+]
+}

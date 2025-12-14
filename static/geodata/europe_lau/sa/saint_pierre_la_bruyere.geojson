@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_pierre_la_bruyere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Pierre-la-Bruyère", "metric_roundness": 41.6, "metric_rectangularity": 64.82, "metric_mobile_fit": 99.95, "metric_aspect_ratio": 0.562, "metric_area_km2": 14.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.788231, 48.376041 ], [ 0.7851578, 48.3625536 ], [ 0.7896206, 48.3442842 ], [ 0.7880295, 48.341319 ], [ 0.818401, 48.3494205 ], [ 0.8124994, 48.3629132 ], [ 0.7937645, 48.380619 ], [ 0.788231, 48.376041 ] ] ] } }
+]
+}

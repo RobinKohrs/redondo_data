@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "friaucourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Friaucourt", "metric_roundness": 60.08, "metric_rectangularity": 81.97, "metric_mobile_fit": 77.22, "metric_aspect_ratio": 0.79, "metric_area_km2": 10.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.459236, 50.08097 ], [ 1.4711778, 50.0743397 ], [ 1.4791845, 50.075232 ], [ 1.4779291, 50.079037299999989 ], [ 1.4859467, 50.083817499999974 ], [ 1.4911985, 50.095056 ], [ 1.488721, 50.097194 ], [ 1.4869265, 50.096014 ], [ 1.469159, 50.100287499999979 ], [ 1.465793, 50.097202499999966 ], [ 1.459236, 50.08097 ] ] ] } }
+]
+}

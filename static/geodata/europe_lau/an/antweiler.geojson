@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "antweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Antweiler", "metric_roundness": 55.41, "metric_rectangularity": 68.96, "metric_mobile_fit": 84.97, "metric_aspect_ratio": 0.713, "metric_area_km2": 11.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8348154, 50.4096331 ], [ 6.838085, 50.417671 ], [ 6.840055, 50.419526499999989 ], [ 6.834757, 50.421105 ], [ 6.8263895, 50.419919499999985 ], [ 6.8110739, 50.4039729 ], [ 6.8110406, 50.400467899999981 ], [ 6.815986, 50.395632 ], [ 6.8187775, 50.395602499999981 ], [ 6.8221215, 50.395567 ], [ 6.8421415, 50.3932965 ], [ 6.841823, 50.409007 ], [ 6.8348154, 50.4096331 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "turri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Turri", "metric_roundness": 39.22, "metric_rectangularity": 67.14, "metric_mobile_fit": 66.79, "metric_aspect_ratio": 0.895, "metric_area_km2": 16.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9013571, 39.712593399999982 ], [ 8.8936595, 39.7091725 ], [ 8.939893, 39.6782285 ], [ 8.946491, 39.680277 ], [ 8.9389578, 39.6910551 ], [ 8.940313, 39.6990951 ], [ 8.936413, 39.7097615 ], [ 8.9297139, 39.712176899999989 ], [ 8.920287, 39.7235915 ], [ 8.912936, 39.723667 ], [ 8.9013571, 39.712593399999982 ] ] ] } }
+]
+}

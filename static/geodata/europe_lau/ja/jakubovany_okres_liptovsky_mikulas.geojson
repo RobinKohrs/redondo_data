@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jakubovany_okres_liptovsky_mikulas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jakubovany (okres Liptovský Mikuláš)", "metric_roundness": 24.14, "metric_rectangularity": 49.08, "metric_mobile_fit": 93.24, "metric_aspect_ratio": 0.495, "metric_area_km2": 21.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.718702, 49.095892 ], [ 19.7256414, 49.090897899999987 ], [ 19.7290786, 49.091562499999988 ], [ 19.7428355, 49.109896299999988 ], [ 19.7581334, 49.1153595 ], [ 19.7649981, 49.123077199999969 ], [ 19.7540926, 49.123837 ], [ 19.7577092, 49.1329573 ], [ 19.7494399, 49.1353575 ], [ 19.7476911, 49.149302 ], [ 19.7398685, 49.152114499999982 ], [ 19.7417903, 49.1354555 ], [ 19.7324754, 49.135180699999985 ], [ 19.7299408, 49.1200354 ], [ 19.720163, 49.109532 ], [ 19.718702, 49.095892 ] ] ] } }
+]
+}

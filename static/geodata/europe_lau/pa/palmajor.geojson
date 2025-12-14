@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "palmajor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pálmajor", "metric_roundness": 53.06, "metric_rectangularity": 80.7, "metric_mobile_fit": 92.68, "metric_aspect_ratio": 0.636, "metric_area_km2": 12.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5614281, 46.396450899999977 ], [ 17.5704712, 46.374250899999986 ], [ 17.5782965, 46.369550499999988 ], [ 17.5912134, 46.375849399999979 ], [ 17.592774, 46.382656 ], [ 17.5891174, 46.4001955 ], [ 17.585399, 46.4035655 ], [ 17.5614281, 46.396450899999977 ] ] ] } }
+]
+}

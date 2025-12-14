@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "charny_le_bachot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Charny-le-Bachot", "metric_roundness": 56.15, "metric_rectangularity": 68.03, "metric_mobile_fit": 77.45, "metric_aspect_ratio": 0.788, "metric_area_km2": 31.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9678615, 48.523313 ], [ 3.9790536, 48.5325832 ], [ 3.9809245, 48.55472 ], [ 3.9558422, 48.5541031 ], [ 3.9372236, 48.5580871 ], [ 3.9362045, 48.5635206 ], [ 3.933164, 48.5612455 ], [ 3.9318527, 48.5546642 ], [ 3.9270471, 48.549957199999987 ], [ 3.932711, 48.547063499999986 ], [ 3.9305283, 48.5403669 ], [ 3.9330064, 48.5375136 ], [ 3.9254495, 48.525920499999984 ], [ 3.934784, 48.516907 ], [ 3.9678615, 48.523313 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ermatingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ermatingen", "metric_roundness": 48.92, "metric_rectangularity": 69.03, "metric_mobile_fit": 53.8, "metric_aspect_ratio": 1.025, "metric_area_km2": 23.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1063395, 47.6358415 ], [ 9.1120108, 47.64856529999998 ], [ 9.110703, 47.6534905 ], [ 9.121359, 47.663726499999989 ], [ 9.116425, 47.665192 ], [ 9.0965269, 47.6667324 ], [ 9.0853913, 47.674037799999986 ], [ 9.0764474, 47.671278899999976 ], [ 9.0658, 47.674395 ], [ 9.0627197, 47.6686965 ], [ 9.0766138, 47.655355299999982 ], [ 9.071525, 47.644945 ], [ 9.0746565, 47.6424725 ], [ 9.1063395, 47.6358415 ] ] ] } }
+]
+}

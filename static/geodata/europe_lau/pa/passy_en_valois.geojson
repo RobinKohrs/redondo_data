@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "passy_en_valois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Passy-en-Valois", "metric_roundness": 36.8, "metric_rectangularity": 54.46, "metric_mobile_fit": -11.45, "metric_aspect_ratio": 1.677, "metric_area_km2": 7.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.204784, 49.160872 ], [ 3.1996739, 49.163439 ], [ 3.2002023, 49.171560399999983 ], [ 3.1822222, 49.1636466 ], [ 3.1814665, 49.171885 ], [ 3.1681528, 49.165964099999982 ], [ 3.1595335, 49.156842499999982 ], [ 3.183161, 49.1581999 ], [ 3.201179, 49.1542405 ], [ 3.204784, 49.160872 ] ] ] } }
+]
+}

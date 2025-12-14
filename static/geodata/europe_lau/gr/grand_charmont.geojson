@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grand_charmont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grand-Charmont", "metric_roundness": 55.72, "metric_rectangularity": 73.41, "metric_mobile_fit": 91.81, "metric_aspect_ratio": 0.644, "metric_area_km2": 10.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8166585, 47.547922499999984 ], [ 6.8087035, 47.531652 ], [ 6.8187255, 47.519132 ], [ 6.822253, 47.521226 ], [ 6.8231295, 47.518657499999989 ], [ 6.8291245, 47.5198295 ], [ 6.832814, 47.5214125 ], [ 6.828848, 47.5238069 ], [ 6.8360915, 47.529818599999984 ], [ 6.8366335, 47.536516 ], [ 6.8306375, 47.5464355 ], [ 6.8166585, 47.547922499999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "palogneux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Palogneux", "metric_roundness": 74.46, "metric_rectangularity": 70.79, "metric_mobile_fit": 53.35, "metric_aspect_ratio": 1.029, "metric_area_km2": 14.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9461289, 45.736495299999987 ], [ 3.9470775, 45.748007 ], [ 3.9373271, 45.749887 ], [ 3.9243015, 45.758275 ], [ 3.9154359, 45.7558281 ], [ 3.9052925, 45.747564 ], [ 3.9054448, 45.7409082 ], [ 3.914234, 45.729936499999987 ], [ 3.9263946, 45.732945599999987 ], [ 3.9424925, 45.731379 ], [ 3.9461289, 45.736495299999987 ] ] ] } }
+]
+}

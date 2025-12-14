@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "peyriac_minervois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Peyriac-Minervois", "metric_roundness": 53.0, "metric_rectangularity": 63.4, "metric_mobile_fit": 53.34, "metric_aspect_ratio": 1.029, "metric_area_km2": 16.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.586227, 43.304368 ], [ 2.5561505, 43.302671499999981 ], [ 2.552761, 43.304251 ], [ 2.550358, 43.3034475 ], [ 2.5485145, 43.303720499999983 ], [ 2.5462345, 43.3063395 ], [ 2.544932, 43.303458 ], [ 2.5413325, 43.284285199999985 ], [ 2.559489, 43.272284 ], [ 2.5637305, 43.277446 ], [ 2.57663, 43.2790222 ], [ 2.578999, 43.2949068 ], [ 2.5894815, 43.3040295 ], [ 2.586227, 43.304368 ] ] ] } }
+]
+}

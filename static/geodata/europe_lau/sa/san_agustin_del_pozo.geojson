@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_agustin_del_pozo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Agustín del Pozo", "metric_roundness": 56.2, "metric_rectangularity": 79.57, "metric_mobile_fit": 46.3, "metric_aspect_ratio": 1.099, "metric_area_km2": 25.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.5821847, 41.8832506 ], [ -5.579776, 41.8985975 ], [ -5.602329, 41.9104425 ], [ -5.6158575, 41.9196315 ], [ -5.6284915, 41.911331 ], [ -5.6295644, 41.9084724 ], [ -5.6398276, 41.9109367 ], [ -5.6433638, 41.9068326 ], [ -5.6437044, 41.9012625 ], [ -5.635316, 41.8966865 ], [ -5.6124322, 41.881512599999986 ], [ -5.5907345, 41.876352699999984 ], [ -5.5858815, 41.879032 ], [ -5.5821847, 41.8832506 ] ] ] } }
+]
+}

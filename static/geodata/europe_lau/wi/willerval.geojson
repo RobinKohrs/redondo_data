@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "willerval",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Willerval", "metric_roundness": 44.18, "metric_rectangularity": 67.3, "metric_mobile_fit": 97.13, "metric_aspect_ratio": 0.591, "metric_area_km2": 10.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.839941, 50.3514635 ], [ 2.8430025, 50.347582499999987 ], [ 2.84623, 50.347794 ], [ 2.848626, 50.3489955 ], [ 2.8628459, 50.3600529 ], [ 2.8592992, 50.365787 ], [ 2.8613667, 50.3703965 ], [ 2.8536505, 50.3780575 ], [ 2.850344, 50.377173499999984 ], [ 2.8388745, 50.369674499999981 ], [ 2.8408716, 50.364653899999986 ], [ 2.8346013, 50.3594545 ], [ 2.8370565, 50.3504885 ], [ 2.839941, 50.3514635 ] ] ] } }
+]
+}

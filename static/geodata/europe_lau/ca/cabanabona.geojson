@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cabanabona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cabanabona", "metric_roundness": 19.71, "metric_rectangularity": 50.2, "metric_mobile_fit": 95.5, "metric_aspect_ratio": 0.518, "metric_area_km2": 25.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.230135, 41.871264499999988 ], [ 1.2303044, 41.865873 ], [ 1.2223712, 41.8603157 ], [ 1.1972264, 41.855821 ], [ 1.1905276, 41.8522001 ], [ 1.1874732, 41.8466939 ], [ 1.1899725, 41.828135499999981 ], [ 1.1846826, 41.81647 ], [ 1.1825845, 41.796326 ], [ 1.1972264, 41.811017899999989 ], [ 1.2025735, 41.8150255 ], [ 1.2278453, 41.8472093 ], [ 1.2360029, 41.8712989 ], [ 1.2338305, 41.873228 ], [ 1.230135, 41.871264499999988 ] ] ] } }
+]
+}

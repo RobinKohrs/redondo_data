@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "juzanvigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Juzanvigny", "metric_roundness": 33.96, "metric_rectangularity": 71.76, "metric_mobile_fit": -82.06, "metric_aspect_ratio": 2.383, "metric_area_km2": 17.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5985675, 48.4069259 ], [ 4.6434365, 48.411334 ], [ 4.644124, 48.4189655 ], [ 4.6409135, 48.4226465 ], [ 4.6323031, 48.4209046 ], [ 4.6270431, 48.4235362 ], [ 4.6064301, 48.422774399999987 ], [ 4.5772925, 48.426445299999983 ], [ 4.574039, 48.424965 ], [ 4.5816514, 48.4162884 ], [ 4.58223, 48.409945 ], [ 4.5985675, 48.4069259 ] ] ] } }
+]
+}

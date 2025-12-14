@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reinsbuttel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reinsbüttel", "metric_roundness": 57.47, "metric_rectangularity": 72.69, "metric_mobile_fit": 55.09, "metric_aspect_ratio": 1.012, "metric_area_km2": 19.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9224865, 54.161729 ], [ 8.9231375, 54.162073 ], [ 8.9294485, 54.1737635 ], [ 8.9269022, 54.179058699999985 ], [ 8.932353, 54.190097 ], [ 8.9009161, 54.190319 ], [ 8.8959197, 54.186002699999975 ], [ 8.890826, 54.1856215 ], [ 8.8898005, 54.1816135 ], [ 8.8829415, 54.173414 ], [ 8.9224865, 54.161729 ] ] ] } }
+]
+}

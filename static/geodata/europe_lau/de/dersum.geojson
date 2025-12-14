@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dersum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dersum", "metric_roundness": 48.34, "metric_rectangularity": 75.83, "metric_mobile_fit": -17.45, "metric_aspect_ratio": 1.737, "metric_area_km2": 77.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.29029, 52.945967 ], [ 7.296937, 52.957903499999986 ], [ 7.301126, 52.966311 ], [ 7.2979955, 52.973589 ], [ 7.2230779, 52.9826615 ], [ 7.2009325, 52.982762 ], [ 7.18157, 52.941304 ], [ 7.29029, 52.945967 ] ] ] } }
+]
+}

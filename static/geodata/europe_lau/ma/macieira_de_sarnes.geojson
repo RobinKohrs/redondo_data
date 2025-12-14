@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "macieira_de_sarnes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Macieira de Sarnes", "metric_roundness": 48.59, "metric_rectangularity": 69.52, "metric_mobile_fit": 70.5, "metric_aspect_ratio": 0.857, "metric_area_km2": 6.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4641715, 40.888636 ], [ -8.4606564, 40.8959108 ], [ -8.4503763, 40.9014932 ], [ -8.4441785, 40.9004925 ], [ -8.455494, 40.91686 ], [ -8.476199, 40.90245 ], [ -8.473612, 40.8932165 ], [ -8.4641715, 40.888636 ] ] ] } }
+]
+}

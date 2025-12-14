@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_cruz_da_graciosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Cruz da Graciosa", "metric_roundness": 38.02, "metric_rectangularity": 66.14, "metric_mobile_fit": -2.01, "metric_aspect_ratio": 1.583, "metric_area_km2": 25.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -27.9969825, 39.0613288 ], [ -27.9776245, 39.0632975 ], [ -27.9894394, 39.0802743 ], [ -27.9950934, 39.0830566 ], [ -27.9957148, 39.0875312 ], [ -28.0057304, 39.0874363 ], [ -28.0205573, 39.094481 ], [ -28.0333912, 39.0965575 ], [ -28.0494059, 39.094028899999984 ], [ -28.056142, 39.0812205 ], [ -28.0308816, 39.0706962 ], [ -28.0149877, 39.071760499999989 ], [ -28.0108408, 39.0607766 ], [ -28.00227, 39.0580425 ], [ -27.9969825, 39.0613288 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_prilepy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velké Přílepy", "metric_roundness": 48.56, "metric_rectangularity": 59.65, "metric_mobile_fit": 30.87, "metric_aspect_ratio": 1.254, "metric_area_km2": 13.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.3165836, 50.169955 ], [ 14.309155, 50.1699765 ], [ 14.304349, 50.1706175 ], [ 14.3013155, 50.171156 ], [ 14.298229, 50.167630499999987 ], [ 14.2893, 50.1594621 ], [ 14.301602, 50.14624 ], [ 14.3188192, 50.1513207 ], [ 14.341402, 50.1531065 ], [ 14.3423405, 50.154036499999989 ], [ 14.3269454, 50.1585617 ], [ 14.3232675, 50.162991399999981 ], [ 14.3231452, 50.1705907 ], [ 14.3189545, 50.1733415 ], [ 14.3165836, 50.169955 ] ] ] } }
+]
+}

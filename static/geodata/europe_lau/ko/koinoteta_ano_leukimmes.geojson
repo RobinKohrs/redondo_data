@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_leukimmes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Λευκίμμης", "metric_roundness": 39.23, "metric_rectangularity": 59.6, "metric_mobile_fit": 95.11, "metric_aspect_ratio": 0.611, "metric_area_km2": 24.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.0309457, 39.416646799999988 ], [ 20.0336518, 39.4097686 ], [ 20.0242295, 39.3937605 ], [ 20.03262, 39.391123 ], [ 20.0441795, 39.3993804 ], [ 20.066941, 39.404825 ], [ 20.0693953, 39.412151099999988 ], [ 20.0595213, 39.4406594 ], [ 20.0620535, 39.4481905 ], [ 20.0438878, 39.439523 ], [ 20.0273285, 39.434916 ], [ 20.0293338, 39.4286497 ], [ 20.0256665, 39.418657 ], [ 20.0309457, 39.416646799999988 ] ] ] } }
+]
+}

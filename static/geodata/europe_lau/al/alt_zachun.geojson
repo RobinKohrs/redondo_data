@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alt_zachun",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alt Zachun", "metric_roundness": 54.03, "metric_rectangularity": 78.35, "metric_mobile_fit": 80.89, "metric_aspect_ratio": 0.754, "metric_area_km2": 23.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3555991, 53.5104537 ], [ 11.3508265, 53.514137499999983 ], [ 11.3386825, 53.514019499999982 ], [ 11.3166805, 53.498716 ], [ 11.3090619, 53.491102699999985 ], [ 11.3165879, 53.4857601 ], [ 11.3233484, 53.484965699999982 ], [ 11.3273185, 53.4790309 ], [ 11.3335524, 53.476109499999986 ], [ 11.3476179, 53.484085 ], [ 11.3572375, 53.4965945 ], [ 11.3555991, 53.5104537 ] ] ] } }
+]
+}

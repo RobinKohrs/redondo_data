@@ -1,0 +1,99 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Eitzing,eitzing,ei,43.8,61.59,42.7
+europe_lau,Einhaus,einhaus,ei,42.24,55.97,54.51
+europe_lau,Eisendorf,eisendorf,ei,48.82,60.83,52.78
+europe_lau,Eidenberg,eidenberg,ei,50.5,67.54,79.18
+europe_lau,"Einbeck, Stadt",einbeck_stadt,ei,68.92,67.64,61.62
+europe_lau,"Eime, Flecken",eime_flecken,ei,28.49,42.92,75.6
+europe_lau,Eimen,eimen,ei,36.35,75.41,-37.14
+europe_lau,"Eimen, gemfr. Gebiet",eimen_gemfr_gebiet,ei,22.32,51.06,6.33
+europe_lau,Eicklingen,eicklingen,ei,40.14,51.17,20.94
+europe_lau,Eickeloh,eickeloh,ei,52.34,76.63,15.64
+europe_lau,Einhausen,einhausen,ei,45.24,57.38,78.68
+europe_lau,Eimke,eimke,ei,42.37,62.93,98
+europe_lau,Eitorf,eitorf,ei,61.1,80.61,65.13
+europe_lau,Eichelhardt,eichelhardt,ei,63.13,77.67,42.23
+europe_lau,Eichen,eichen,ei,62.22,66.44,34.27
+europe_lau,Eichenbach,eichenbach,ei,27.39,62.39,-118.26
+europe_lau,Eibiswald,eibiswald,ei,34.66,63.78,-36.82
+europe_lau,Eichenzell,eichenzell,ei,56.46,57.63,64.04
+europe_lau,"Eiterfeld, Marktgemeinde",eiterfeld_marktgemeinde,ei,47.37,63.03,2.67
+europe_lau,Eisenschmitt,eisenschmitt,ei,28.81,59.99,74.73
+europe_lau,Einig,einig,ei,29.43,56.04,-30.86
+europe_lau,Eisenerz,eisenerz,ei,55.43,69.42,65.64
+europe_lau,Eisighofen,eisighofen,ei,41.19,56.99,-8.18
+europe_lau,Einselthum,einselthum,ei,64.73,75.14,68.05
+europe_lau,"Eisenberg (Pfalz), Stadt",eisenberg_pfalz_stadt,ei,32.84,46.42,13.01
+europe_lau,Eitelborn,eitelborn,ei,45.27,67.2,54.75
+europe_lau,Eich,eich,ei,38.57,61.88,13.09
+europe_lau,"Eislingen/Fils, Stadt",eislingen_fils_stadt,ei,52.87,64.68,68.08
+europe_lau,Einöllen,einollen,ei,40.26,68.65,92.43
+europe_lau,Eilscheid,eilscheid,ei,58.87,74.34,10.59
+europe_lau,Eisenach,eisenach,ei,62.9,64.7,51.18
+europe_lau,Eimsheim,eimsheim,ei,52.6,76.1,5.75
+europe_lau,Eisingen,eisingen,ei,58.96,70.85,15.82
+europe_lau,Eichstetten am Kaiserstuhl,eichstetten_am_kaiserstuhl,ei,55.35,64.93,41.12
+europe_lau,Eisenbach (Hochschwarzwald),eisenbach_hochschwarzwald,ei,37.5,53.98,2.82
+europe_lau,Eigeltingen,eigeltingen,ei,45.42,61.84,49.64
+europe_lau,Eimeldingen,eimeldingen,ei,51.03,62.71,63.25
+europe_lau,Eichkögl,eichkogl,ei,53.36,62.16,59.48
+europe_lau,"Eichendorf, M",eichendorf_m,ei,44.88,60.66,-6.54
+europe_lau,Eichstegen,eichstegen,ei,34.52,46.94,49.64
+europe_lau,"Eichstätt, GKSt",eichstatt_gk_st,ei,39.24,59.73,22.94
+europe_lau,Eitensheim,eitensheim,ei,30.59,55.8,83.65
+europe_lau,Eichenau,eichenau,ei,47.78,62.27,37.13
+europe_lau,Eiselfing,eiselfing,ei,53.22,60.92,36.53
+europe_lau,Eichen,eichen,ei,60.95,71.18,55.84
+europe_lau,"Eilenburg, Stadt",eilenburg_stadt,ei,39.16,57.66,-6.65
+europe_lau,Eisenberg,eisenberg,ei,39.68,53.37,9.56
+europe_lau,Eichenberg,eichenberg,ei,42.15,67.56,65.72
+europe_lau,"Eisfeld, Stadt",eisfeld_stadt,ei,37.09,59.02,38.03
+europe_lau,Eilsleben,eilsleben,ei,32.84,47.22,-5.99
+europe_lau,Eichwalde,eichwalde,ei,44.26,65.89,3.31
+europe_lau,"Eisleben, Lutherstadt",eisleben_lutherstadt,ei,38.39,60.47,86.9
+europe_lau,Eichenberg,eichenberg,ei,36.82,63.47,-53.85
+europe_lau,Eineborn,eineborn,ei,56.87,74.39,73.79
+europe_lau,"Eisenberg, Stadt",eisenberg_stadt,ei,54.88,69.69,54.64
+europe_lau,Eichstedt (Altmark),eichstedt_altmark,ei,61.82,63.52,51.44
+europe_lau,"Eisenach, Stadt",eisenach_stadt,ei,55.57,59.08,46.26
+europe_lau,Eichstruth,eichstruth,ei,54.59,73.58,86.66
+europe_lau,Eigenbrakel,eigenbrakel,ei,45.18,59.75,91.39
+europe_lau,Einhausen,einhausen,ei,26.48,53.96,92.3
+europe_lau,"Eisenhüttenstadt, Stadt",eisenhuttenstadt_stadt,ei,40.88,53.95,84.26
+europe_lau,Eivissa,eivissa,ei,30.21,41.03,0.57
+europe_lau,Eichwald,eichwald,ei,47.08,63.85,15.22
+europe_lau,"Eibenstock, Stadt",eibenstock_stadt,ei,60.42,64.74,56.53
+europe_lau,"Eibelstadt, St",eibelstadt_st,ei,41.78,65.85,33.28
+europe_lau,Eisingen,eisingen,ei,51.08,58.98,58.28
+europe_lau,Eichenberg,eichenberg,ei,54.01,65.57,66.73
+europe_lau,Eichigt,eichigt,ei,40.36,49.97,28.6
+europe_lau,"Eisenheim, M",eisenheim_m,ei,38.32,61.92,99.32
+europe_lau,Eixen,eixen,ei,41.91,63.02,67.16
+europe_lau,Eichenbühl,eichenbuhl,ei,36.04,41.55,71.37
+europe_lau,Eibar,eibar,ei,57.57,70.13,78.98
+europe_lau,Eichberg,eichberg,ei,64.94,79.92,49.74
+europe_lau,Eisenkappel-Vellach,eisenkappel_vellach,ei,36.91,56.08,21.07
+europe_lau,Einsiedeln,einsiedeln,ei,43.08,58.3,36.35
+europe_lau,Einvaux,einvaux,ei,33.82,57.57,95.79
+europe_lau,Einville-au-Jard,einville_au_jard,ei,56.27,58.79,65.42
+europe_lau,Eincheville,eincheville,ei,69.71,74.86,48.31
+europe_lau,Eisten,eisten,ei,38.3,44.86,38.76
+europe_lau,Eischoll,eischoll,ei,52.34,68.33,73.94
+europe_lau,Eisgarn,eisgarn,ei,39.61,58.56,34.36
+europe_lau,Eisenstadt,eisenstadt,ei,50.41,60.61,80.41
+europe_lau,Eix,eix,ei,31.3,69.12,-29.59
+europe_lau,Eichhoffen,eichhoffen,ei,43.88,62.51,55.42
+europe_lau,Eidfjord,eidfjord,ei,54.71,60.91,67.31
+europe_lau,Eidsvoll,eidsvoll,ei,32.43,58.79,89.49
+europe_lau,Eidskog,eidskog,ei,51.09,72.06,62.19
+europe_lau,Eichgraben,eichgraben,ei,50.54,63.85,72.98
+europe_lau,Eixo e Eirol,eixo_e_eirol,ei,45.62,69.54,46.05
+europe_lau,Eira Vedra,eira_vedra,ei,34.89,57.04,86.11
+europe_lau,Eindhoven,eindhoven,ei,61.4,63.82,32.81
+europe_lau,Eirado,eirado,ei,40.27,70.54,29.81
+europe_lau,Eijsden-Margraten,eijsden_margraten,ei,44.28,59.46,41.43
+europe_lau,Eigersund,eigersund,ei,31.64,48.08,39.87
+europe_lau,Eiriz,eiriz,ei,55.43,68.57,56.55
+europe_lau,Eitting,eitting,ei,38.87,49.66,90.11
+europe_lau,Eich,eich,ei,41.85,68.19,-0.03
+europe_lau,Eiken,eiken,ei,50.31,67.16,75.33

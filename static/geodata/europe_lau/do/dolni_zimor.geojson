@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dolni_zimor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dolní Zimoř", "metric_roundness": 45.66, "metric_rectangularity": 61.19, "metric_mobile_fit": 32.19, "metric_aspect_ratio": 1.241, "metric_area_km2": 4.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5086779, 50.438552099999981 ], [ 14.4954891, 50.4358875 ], [ 14.494636, 50.425828 ], [ 14.5066076, 50.4247149 ], [ 14.5113282, 50.431046399999985 ], [ 14.5215845, 50.435624499999982 ], [ 14.5086779, 50.438552099999981 ] ] ] } }
+]
+}

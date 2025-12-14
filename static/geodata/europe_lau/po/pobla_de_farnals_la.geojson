@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pobla_de_farnals_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pobla de Farnals, la", "metric_roundness": 17.02, "metric_rectangularity": 53.6, "metric_mobile_fit": -6.95, "metric_aspect_ratio": 1.632, "metric_area_km2": 6.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2803695, 39.566173499999984 ], [ -0.3117448, 39.5737926 ], [ -0.3124568, 39.5780015 ], [ -0.323223, 39.58688 ], [ -0.3272005, 39.5819629 ], [ -0.3367595, 39.5843655 ], [ -0.3374217, 39.5818482 ], [ -0.3249557, 39.573670499999984 ], [ -0.314958, 39.5725346 ], [ -0.3120278, 39.568871799999982 ], [ -0.2862565, 39.559933 ], [ -0.2803695, 39.566173499999984 ] ] ] } }
+]
+}

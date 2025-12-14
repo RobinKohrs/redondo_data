@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "porri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Porri", "metric_roundness": 59.98, "metric_rectangularity": 76.22, "metric_mobile_fit": 49.81, "metric_aspect_ratio": 1.064, "metric_area_km2": 7.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4316606, 42.459105 ], [ 9.4268921, 42.4520257 ], [ 9.4349585, 42.440752 ], [ 9.4479005, 42.436024 ], [ 9.4574996, 42.4478447 ], [ 9.46221, 42.446114500000014 ], [ 9.4464457, 42.457955 ], [ 9.436083, 42.4605085 ], [ 9.4316606, 42.459105 ] ] ] } }
+]
+}

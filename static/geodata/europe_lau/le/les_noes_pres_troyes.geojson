@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_noes_pres_troyes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Noës-près-Troyes", "metric_roundness": 40.29, "metric_rectangularity": 67.97, "metric_mobile_fit": -20.93, "metric_aspect_ratio": 1.772, "metric_area_km2": 1.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0320515, 48.3024275 ], [ 4.042153, 48.300115 ], [ 4.0498825, 48.2994625 ], [ 4.0485753, 48.3055808 ], [ 4.0411715, 48.306829 ], [ 4.0302615, 48.303308 ], [ 4.0320515, 48.3024275 ] ] ] } }
+]
+}

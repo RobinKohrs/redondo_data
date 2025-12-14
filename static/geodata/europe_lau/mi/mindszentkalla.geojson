@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mindszentkalla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mindszentkálla", "metric_roundness": 41.94, "metric_rectangularity": 63.26, "metric_mobile_fit": 69.39, "metric_aspect_ratio": 0.869, "metric_area_km2": 23.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5241121, 46.8855182 ], [ 17.5293515, 46.87172349999998 ], [ 17.5396306, 46.867110299999986 ], [ 17.544982, 46.854407 ], [ 17.573645, 46.859188499999981 ], [ 17.5859205, 46.86405449999998 ], [ 17.5588784, 46.8814439 ], [ 17.5456529, 46.8855844 ], [ 17.5404926, 46.89391149999998 ], [ 17.5457819, 46.898958799999988 ], [ 17.5391125, 46.903045 ], [ 17.5367113, 46.8983656 ], [ 17.5294085, 46.897499499999981 ], [ 17.5241121, 46.8855182 ] ] ] } }
+]
+}

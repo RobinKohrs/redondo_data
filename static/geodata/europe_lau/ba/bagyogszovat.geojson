@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bagyogszovat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bágyogszovát", "metric_roundness": 69.76, "metric_rectangularity": 79.9, "metric_mobile_fit": 53.39, "metric_aspect_ratio": 1.029, "metric_area_km2": 52.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.3159978, 47.5889652 ], [ 17.3260342, 47.5788665 ], [ 17.3367987, 47.575110099999982 ], [ 17.3575455, 47.5584935 ], [ 17.3696032, 47.5624271 ], [ 17.40096, 47.585272499999988 ], [ 17.393231, 47.6030965 ], [ 17.382021, 47.6069816 ], [ 17.3649581, 47.605205 ], [ 17.3535884, 47.6073404 ], [ 17.342968, 47.615391 ], [ 17.314189, 47.594458 ], [ 17.3159978, 47.5889652 ] ] ] } }
+]
+}

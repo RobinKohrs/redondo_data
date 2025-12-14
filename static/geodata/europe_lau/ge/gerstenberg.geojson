@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gerstenberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gerstenberg", "metric_roundness": 49.58, "metric_rectangularity": 63.33, "metric_mobile_fit": 25.5, "metric_aspect_ratio": 1.308, "metric_area_km2": 7.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.4523865, 51.0357525 ], [ 12.454405, 51.036907 ], [ 12.4471101, 51.042739 ], [ 12.4386445, 51.038237699999989 ], [ 12.415546, 51.0334115 ], [ 12.422353, 51.0254196 ], [ 12.4329633, 51.0272934 ], [ 12.4432337, 51.0240495 ], [ 12.447685, 51.028163 ], [ 12.4523865, 51.0357525 ] ] ] } }
+]
+}

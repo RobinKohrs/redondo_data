@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "singleyrac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Singleyrac", "metric_roundness": 24.52, "metric_rectangularity": 47.91, "metric_mobile_fit": 87.42, "metric_aspect_ratio": 0.437, "metric_area_km2": 14.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.4673287, 44.715567299999989 ], [ 0.46955, 44.7202835 ], [ 0.479559, 44.7392555 ], [ 0.4672002, 44.7483133 ], [ 0.4661131, 44.7538387 ], [ 0.4585561, 44.7589056 ], [ 0.457218, 44.768152 ], [ 0.450784, 44.766072 ], [ 0.4583822, 44.755158599999987 ], [ 0.4540845, 44.7340285 ], [ 0.4463865, 44.7141935 ], [ 0.4673287, 44.715567299999989 ] ] ] } }
+]
+}

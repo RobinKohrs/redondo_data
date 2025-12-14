@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_theodorit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Théodorit", "metric_roundness": 66.54, "metric_rectangularity": 85.68, "metric_mobile_fit": 80.92, "metric_aspect_ratio": 0.753, "metric_area_km2": 16.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.069081, 43.9601855 ], [ 4.066977, 43.92871 ], [ 4.0845529, 43.9266533 ], [ 4.0960133, 43.929337199999985 ], [ 4.0972862, 43.9339846 ], [ 4.102058, 43.935332 ], [ 4.0999825, 43.9430535 ], [ 4.1009675, 43.9447105 ], [ 4.100606, 43.9470995 ], [ 4.1003505, 43.951284499999986 ], [ 4.100778, 43.9530405 ], [ 4.099642, 43.9545425 ], [ 4.099205, 43.956888 ], [ 4.095223, 43.956952 ], [ 4.0931965, 43.9578395 ], [ 4.069081, 43.9601855 ] ] ] } }
+]
+}

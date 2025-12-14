@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "flexbourg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Flexbourg", "metric_roundness": 44.85, "metric_rectangularity": 52.92, "metric_mobile_fit": 37.29, "metric_aspect_ratio": 1.19, "metric_area_km2": 4.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.431761, 48.560418 ], [ 7.4323179, 48.568219899999988 ], [ 7.4362792, 48.573458099999989 ], [ 7.430788, 48.576142499999989 ], [ 7.406546, 48.5682215 ], [ 7.4085635, 48.56529 ], [ 7.415473, 48.566514499999982 ], [ 7.4191915, 48.56567 ], [ 7.420649, 48.5646165 ], [ 7.422702, 48.564789 ], [ 7.425778, 48.5596035 ], [ 7.430299, 48.56003 ], [ 7.431761, 48.560418 ] ] ] } }
+]
+}

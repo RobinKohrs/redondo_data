@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mons_en_laonnois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mons-en-Laonnois", "metric_roundness": 29.22, "metric_rectangularity": 63.17, "metric_mobile_fit": -103.36, "metric_aspect_ratio": 2.596, "metric_area_km2": 10.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.5315678, 49.539116199999988 ], [ 3.544504, 49.5298205 ], [ 3.5509689, 49.532414299999985 ], [ 3.5720575, 49.5318235 ], [ 3.583073, 49.5443405 ], [ 3.5606296, 49.5425879 ], [ 3.55558, 49.544594499999988 ], [ 3.5300989, 49.543394 ], [ 3.5239695, 49.537587499999987 ], [ 3.526217, 49.536308 ], [ 3.5315678, 49.539116199999988 ] ] ] } }
+]
+}

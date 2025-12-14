@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "esterholz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Esterholz", "metric_roundness": 46.78, "metric_rectangularity": 67.8, "metric_mobile_fit": 56.81, "metric_aspect_ratio": 0.994, "metric_area_km2": 6.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.026151, 48.6395809 ], [ 11.0271141, 48.6447311 ], [ 11.0142635, 48.6467691 ], [ 11.0077573, 48.637816699999981 ], [ 11.030122, 48.626558 ], [ 11.0381699, 48.6280802 ], [ 11.032849, 48.638919799999982 ], [ 11.034504, 48.64142 ], [ 11.026151, 48.6395809 ] ] ] } }
+]
+}

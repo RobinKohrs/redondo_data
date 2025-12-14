@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "faial_da_terra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Faial da Terra", "metric_roundness": 43.08, "metric_rectangularity": 57.99, "metric_mobile_fit": 82.21, "metric_aspect_ratio": 0.74, "metric_area_km2": 17.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -25.223029, 37.739797 ], [ -25.2046508, 37.7354821 ], [ -25.1928176, 37.7412525 ], [ -25.1840345, 37.742185 ], [ -25.1829766, 37.7470636 ], [ -25.1748041, 37.7548238 ], [ -25.1874521, 37.7619565 ], [ -25.1858104, 37.776144299999984 ], [ -25.201215, 37.7869775 ], [ -25.1967408, 37.7783282 ], [ -25.1970551, 37.7711938 ], [ -25.2114639, 37.763693399999987 ], [ -25.218142, 37.752012 ], [ -25.223029, 37.739797 ] ] ] } }
+]
+}

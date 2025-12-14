@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castro_de_avelas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castro de Avelãs", "metric_roundness": 37.7, "metric_rectangularity": 59.01, "metric_mobile_fit": -28.83, "metric_aspect_ratio": 1.851, "metric_area_km2": 24.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.7982515, 41.8119686 ], [ -6.8143507, 41.826468099999985 ], [ -6.8349468, 41.8223818 ], [ -6.8456515, 41.827524499999988 ], [ -6.846916, 41.826053 ], [ -6.85496, 41.8263915 ], [ -6.8651596, 41.8137076 ], [ -6.862308, 41.7993435 ], [ -6.8419718, 41.801711199999986 ], [ -6.8234372, 41.8105918 ], [ -6.803051, 41.795238399999988 ], [ -6.790713, 41.800756 ], [ -6.7849865, 41.805113 ], [ -6.7982515, 41.8119686 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_mandrines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μανδρινής", "metric_roundness": 28.96, "metric_rectangularity": 57.08, "metric_mobile_fit": 94.66, "metric_aspect_ratio": 0.509, "metric_area_km2": 20.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9439986, 38.744644699999981 ], [ 21.922345, 38.7346285 ], [ 21.9458375, 38.7179175 ], [ 21.9494268, 38.7208818 ], [ 21.953414, 38.7192485 ], [ 21.9638934, 38.7451927 ], [ 21.9610783, 38.752480199999987 ], [ 21.9654835, 38.7730155 ], [ 21.946002, 38.784002 ], [ 21.9439986, 38.744644699999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "intville_la_guetard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Intville-la-Guétard", "metric_roundness": 53.74, "metric_rectangularity": 65.71, "metric_mobile_fit": 39.61, "metric_aspect_ratio": 1.166, "metric_area_km2": 10.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.203447, 48.244847499999985 ], [ 2.208967, 48.244538 ], [ 2.2208601, 48.2425991 ], [ 2.238323, 48.262299499999983 ], [ 2.2298784, 48.2605377 ], [ 2.2215347, 48.266096699999984 ], [ 2.208717, 48.2642385 ], [ 2.2046245, 48.258425499999987 ], [ 2.1986285, 48.260082 ], [ 2.197158, 48.2555845 ], [ 2.2012075, 48.251633 ], [ 2.2028975, 48.249207 ], [ 2.2012845, 48.248351 ], [ 2.1998075, 48.246596499999981 ], [ 2.203447, 48.244847499999985 ] ] ] } }
+]
+}

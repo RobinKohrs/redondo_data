@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_periboliou_phthiotidos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Περιβολίου Φθιώτιδος", "metric_roundness": 59.13, "metric_rectangularity": 73.01, "metric_mobile_fit": 65.77, "metric_aspect_ratio": 0.905, "metric_area_km2": 20.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.076489, 38.825197 ], [ 22.1010208, 38.8346978 ], [ 22.1068205, 38.842178 ], [ 22.101146, 38.8474769 ], [ 22.097157, 38.85713 ], [ 22.0864305, 38.865579 ], [ 22.085093, 38.865384 ], [ 22.0799055, 38.863742 ], [ 22.0696149, 38.8596765 ], [ 22.062448, 38.853131499999989 ], [ 22.066777, 38.8435096 ], [ 22.0599079, 38.8321244 ], [ 22.059924, 38.8252065 ], [ 22.076489, 38.825197 ] ] ] } }
+]
+}

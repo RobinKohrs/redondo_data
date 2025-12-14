@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "friemar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Friemar", "metric_roundness": 52.33, "metric_rectangularity": 69.1, "metric_mobile_fit": 78.03, "metric_aspect_ratio": 0.782, "metric_area_km2": 23.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.7930795, 50.9832055 ], [ 10.7809865, 50.985382499999986 ], [ 10.7754562, 50.990152899999977 ], [ 10.7759645, 50.996707799999982 ], [ 10.7660605, 50.997942 ], [ 10.754831, 50.991237 ], [ 10.7591739, 50.9752684 ], [ 10.7577481, 50.9633557 ], [ 10.775078, 50.9604735 ], [ 10.798545, 50.9608205 ], [ 10.8013803, 50.970731 ], [ 10.7962075, 50.9764817 ], [ 10.796855, 50.9794675 ], [ 10.7930795, 50.9832055 ] ] ] } }
+]
+}

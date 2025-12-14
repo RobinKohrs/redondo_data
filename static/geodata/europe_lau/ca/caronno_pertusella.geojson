@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caronno_pertusella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caronno Pertusella", "metric_roundness": 70.73, "metric_rectangularity": 77.5, "metric_mobile_fit": 71.6, "metric_aspect_ratio": 0.847, "metric_area_km2": 17.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0652932, 45.5949038 ], [ 9.0609727, 45.6008213 ], [ 9.0613395, 45.607694 ], [ 9.058121, 45.6095005 ], [ 9.0391361, 45.610881599999985 ], [ 9.030618, 45.6084575 ], [ 9.0274652, 45.6044099 ], [ 9.0296424, 45.597243 ], [ 9.025682, 45.588472 ], [ 9.0494545, 45.578139499999985 ], [ 9.0520728, 45.5811345 ], [ 9.0629833, 45.5819875 ], [ 9.0641475, 45.586775499999987 ], [ 9.0652932, 45.5949038 ] ] ] } }
+]
+}

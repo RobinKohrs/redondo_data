@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cernysovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Černýšovice", "metric_roundness": 47.47, "metric_rectangularity": 63.11, "metric_mobile_fit": 12.22, "metric_aspect_ratio": 1.44, "metric_area_km2": 24.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4856815, 49.3303272 ], [ 14.4862763, 49.326123599999988 ], [ 14.5011255, 49.3130228 ], [ 14.5038455, 49.3059465 ], [ 14.5230961, 49.3095063 ], [ 14.5346974, 49.3218126 ], [ 14.544348, 49.320389499999983 ], [ 14.5558686, 49.3337451 ], [ 14.5326775, 49.33674 ], [ 14.5238284, 49.3377087 ], [ 14.5182966, 49.333300099999988 ], [ 14.5042523, 49.3352655 ], [ 14.489178, 49.333134 ], [ 14.4856815, 49.3303272 ] ] ] } }
+]
+}

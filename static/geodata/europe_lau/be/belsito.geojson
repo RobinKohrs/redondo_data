@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belsito",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Belsito", "metric_roundness": 41.14, "metric_rectangularity": 67.9, "metric_mobile_fit": 92.04, "metric_aspect_ratio": 0.483, "metric_area_km2": 19.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2843108, 39.198965 ], [ 16.2837837, 39.1929758 ], [ 16.2798233, 39.1898552 ], [ 16.2660272, 39.191845 ], [ 16.265955, 39.181130499999988 ], [ 16.2659768, 39.160578 ], [ 16.2825675, 39.149136 ], [ 16.285522, 39.145496 ], [ 16.294591, 39.155277 ], [ 16.2930165, 39.157648699999989 ], [ 16.2966614, 39.1746587 ], [ 16.2946823, 39.1865387 ], [ 16.299263, 39.1922625 ], [ 16.2843108, 39.198965 ] ] ] } }
+]
+}

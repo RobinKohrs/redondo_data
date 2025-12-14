@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_genies_de_comolas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Geniès-de-Comolas", "metric_roundness": 39.23, "metric_rectangularity": 59.71, "metric_mobile_fit": 37.27, "metric_aspect_ratio": 1.19, "metric_area_km2": 15.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7074605, 44.080436 ], [ 4.70406, 44.071151299999983 ], [ 4.7164227, 44.0669715 ], [ 4.724005, 44.052272 ], [ 4.731059, 44.0521625 ], [ 4.7392015, 44.052981499999987 ], [ 4.7453055, 44.0525415 ], [ 4.755879, 44.053333 ], [ 4.7562825, 44.064558 ], [ 4.7475862, 44.072243899999989 ], [ 4.735391, 44.0711539 ], [ 4.70872, 44.0837005 ], [ 4.7074605, 44.080436 ] ] ] } }
+]
+}

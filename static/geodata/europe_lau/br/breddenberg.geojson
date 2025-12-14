@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "breddenberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Breddenberg", "metric_roundness": 41.69, "metric_rectangularity": 67.3, "metric_mobile_fit": 84.12, "metric_aspect_ratio": 0.721, "metric_area_km2": 24.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5858524, 52.954986 ], [ 7.5927002, 52.9514843 ], [ 7.5959807, 52.948593099999989 ], [ 7.5916402, 52.9444935 ], [ 7.6001346, 52.938367 ], [ 7.599141, 52.9353 ], [ 7.610188, 52.938955699999987 ], [ 7.6188015, 52.954120499999981 ], [ 7.6006006, 52.9665451 ], [ 7.586735, 52.98146149999998 ], [ 7.563528, 52.9731514 ], [ 7.5652225, 52.958056 ], [ 7.5858524, 52.954986 ] ] ] } }
+]
+}

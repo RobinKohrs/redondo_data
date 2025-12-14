@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mrlinek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mrlínek", "metric_roundness": 58.74, "metric_rectangularity": 71.69, "metric_mobile_fit": 54.72, "metric_aspect_ratio": 1.015, "metric_area_km2": 9.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6640525, 49.420420199999988 ], [ 17.6720916, 49.4165595 ], [ 17.6848506, 49.4233175 ], [ 17.6905755, 49.413163499999989 ], [ 17.694989, 49.420504 ], [ 17.6930901, 49.4233068 ], [ 17.6998414, 49.4278075 ], [ 17.6956425, 49.434835 ], [ 17.6712535, 49.436091 ], [ 17.6640525, 49.420420199999988 ] ] ] } }
+]
+}

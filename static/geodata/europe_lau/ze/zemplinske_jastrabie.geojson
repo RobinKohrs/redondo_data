@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zemplinske_jastrabie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zemplínske Jastrabie", "metric_roundness": 51.01, "metric_rectangularity": 71.99, "metric_mobile_fit": 83.38, "metric_aspect_ratio": 0.729, "metric_area_km2": 24.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.769346, 48.4835347 ], [ 21.7841631, 48.479945 ], [ 21.793204, 48.48286049999998 ], [ 21.7895013, 48.4959549 ], [ 21.7933267, 48.5021503 ], [ 21.790742, 48.507787 ], [ 21.7873728, 48.5162414 ], [ 21.7820968, 48.520894 ], [ 21.777938, 48.520646499999984 ], [ 21.7740003, 48.5159747 ], [ 21.7578473, 48.512251 ], [ 21.751318, 48.506328 ], [ 21.7507535, 48.499658299999986 ], [ 21.7538947, 48.493611699999981 ], [ 21.748292, 48.48007 ], [ 21.769346, 48.4835347 ] ] ] } }
+]
+}

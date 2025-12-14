@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lescurry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lescurry", "metric_roundness": 43.2, "metric_rectangularity": 69.59, "metric_mobile_fit": 18.72, "metric_aspect_ratio": 1.375, "metric_area_km2": 9.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1403776, 43.3358267 ], [ 0.1351065, 43.3281375 ], [ 0.137576, 43.327963 ], [ 0.144213, 43.327011 ], [ 0.158758, 43.327252 ], [ 0.16743, 43.3314185 ], [ 0.168166, 43.333106 ], [ 0.173799, 43.3342885 ], [ 0.1765935, 43.3352885 ], [ 0.1754225, 43.340533 ], [ 0.1729005, 43.3489505 ], [ 0.1549607, 43.3426939 ], [ 0.1407115, 43.3422105 ], [ 0.1403776, 43.3358267 ] ] ] } }
+]
+}

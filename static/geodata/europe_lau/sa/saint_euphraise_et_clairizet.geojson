@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_euphraise_et_clairizet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Euphraise-et-Clairizet", "metric_roundness": 55.61, "metric_rectangularity": 70.6, "metric_mobile_fit": 46.0, "metric_aspect_ratio": 1.102, "metric_area_km2": 11.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8700965, 49.2151782 ], [ 3.867136, 49.202254499999988 ], [ 3.86945, 49.201236 ], [ 3.87119, 49.202068 ], [ 3.8794665, 49.2014135 ], [ 3.898533, 49.205157 ], [ 3.9033415, 49.2076995 ], [ 3.9011524, 49.2164654 ], [ 3.905498, 49.2190485 ], [ 3.8920332, 49.21954 ], [ 3.8911325, 49.223063499999988 ], [ 3.8860385, 49.223966499999982 ], [ 3.868344, 49.218872499999989 ], [ 3.8700965, 49.2151782 ] ] ] } }
+]
+}

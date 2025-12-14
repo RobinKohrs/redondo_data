@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "presnoy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Presnoy", "metric_roundness": 49.12, "metric_rectangularity": 69.02, "metric_mobile_fit": 87.01, "metric_aspect_ratio": 0.692, "metric_area_km2": 17.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5799245, 47.9435 ], [ 2.571715, 47.9611647 ], [ 2.576084, 47.967339 ], [ 2.5483686, 47.976179 ], [ 2.541364, 47.974735 ], [ 2.541755, 47.954769499999976 ], [ 2.5425664, 47.9509806 ], [ 2.5546283, 47.9504868 ], [ 2.5551999, 47.942631299999988 ], [ 2.5599655, 47.938886399999987 ], [ 2.5777795, 47.9427405 ], [ 2.5799245, 47.9435 ] ] ] } }
+]
+}

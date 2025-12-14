@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zermezeele",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zermezeele", "metric_roundness": 34.94, "metric_rectangularity": 60.69, "metric_mobile_fit": 96.29, "metric_aspect_ratio": 0.525, "metric_area_km2": 12.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4560245, 50.814463499999988 ], [ 2.4664699, 50.8195925 ], [ 2.47565, 50.832468 ], [ 2.453424, 50.8526225 ], [ 2.450496, 50.8486255 ], [ 2.4528073, 50.8449789 ], [ 2.4439076, 50.8340113 ], [ 2.446205, 50.82917 ], [ 2.4560245, 50.814463499999988 ] ] ] } }
+]
+}

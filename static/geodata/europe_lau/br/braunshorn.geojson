@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "braunshorn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Braunshorn", "metric_roundness": 61.0, "metric_rectangularity": 66.48, "metric_mobile_fit": 75.68, "metric_aspect_ratio": 0.806, "metric_area_km2": 17.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5135359, 50.08583160000002 ], [ 7.5093166, 50.0819933 ], [ 7.5101975, 50.069769499999978 ], [ 7.5205649, 50.0684989 ], [ 7.5363515, 50.073243 ], [ 7.5329675, 50.084743 ], [ 7.5479415, 50.083691 ], [ 7.5484578, 50.091267699999989 ], [ 7.5435985, 50.0967435 ], [ 7.533849, 50.1002005 ], [ 7.528427, 50.1002755 ], [ 7.524438, 50.1018195 ], [ 7.5124304, 50.096596 ], [ 7.5066165, 50.097392 ], [ 7.5135359, 50.08583160000002 ] ] ] } }
+]
+}

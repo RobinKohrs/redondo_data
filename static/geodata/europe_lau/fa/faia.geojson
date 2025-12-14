@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "faia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Faia", "metric_roundness": 54.31, "metric_rectangularity": 83.7, "metric_mobile_fit": 86.2, "metric_aspect_ratio": 0.701, "metric_area_km2": 8.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.982064, 41.459146 ], [ -7.9699555, 41.456146 ], [ -7.963204, 41.4716506 ], [ -7.9698355, 41.485854 ], [ -7.9808474, 41.484264499999981 ], [ -7.990978, 41.4617795 ], [ -7.9842455, 41.459426 ], [ -7.982064, 41.459146 ] ] ] } }
+]
+}

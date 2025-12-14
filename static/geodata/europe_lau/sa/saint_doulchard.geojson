@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_doulchard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Doulchard", "metric_roundness": 67.61, "metric_rectangularity": 77.94, "metric_mobile_fit": 62.3, "metric_aspect_ratio": 0.939, "metric_area_km2": 51.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3498532, 47.0849655 ], [ 2.3880619, 47.092091599999989 ], [ 2.3923579, 47.098450799999988 ], [ 2.386281, 47.125103499999987 ], [ 2.3843055, 47.1274885 ], [ 2.3836485, 47.1295575 ], [ 2.379566, 47.133517 ], [ 2.3324375, 47.138248 ], [ 2.3288357, 47.132705799999989 ], [ 2.3312318, 47.1219335 ], [ 2.3295191, 47.1130888 ], [ 2.3332181, 47.108898799999977 ], [ 2.3188075, 47.0942115 ], [ 2.3288855, 47.088887499999984 ], [ 2.3498532, 47.0849655 ] ] ] } }
+]
+}

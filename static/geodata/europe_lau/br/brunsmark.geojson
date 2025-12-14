@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brunsmark",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brunsmark", "metric_roundness": 43.75, "metric_rectangularity": 59.63, "metric_mobile_fit": 34.43, "metric_aspect_ratio": 1.218, "metric_area_km2": 11.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.7367606, 53.6055023 ], [ 10.7506968, 53.6024983 ], [ 10.7447742, 53.607749299999988 ], [ 10.7570427, 53.617262 ], [ 10.7579678, 53.620699799999983 ], [ 10.754899, 53.6237095 ], [ 10.7144115, 53.6149313 ], [ 10.716332, 53.6031165 ], [ 10.7367606, 53.6055023 ] ] ] } }
+]
+}

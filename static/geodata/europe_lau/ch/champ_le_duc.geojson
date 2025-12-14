@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champ_le_duc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champ-le-Duc", "metric_roundness": 60.08, "metric_rectangularity": 74.08, "metric_mobile_fit": 19.98, "metric_aspect_ratio": 1.363, "metric_area_km2": 9.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.745405, 48.1848545 ], [ 6.7449035, 48.1869 ], [ 6.746962, 48.19056 ], [ 6.7458669, 48.197533099999987 ], [ 6.7409514, 48.201314 ], [ 6.7120015, 48.198532 ], [ 6.708786, 48.19206729999997 ], [ 6.7105345, 48.189806 ], [ 6.7250649, 48.1868475 ], [ 6.7288575, 48.182638 ], [ 6.732848, 48.1836595 ], [ 6.73374, 48.185472 ], [ 6.7386815, 48.185782 ], [ 6.740326, 48.1845045 ], [ 6.742729, 48.1849555 ], [ 6.745405, 48.1848545 ] ] ] } }
+]
+}

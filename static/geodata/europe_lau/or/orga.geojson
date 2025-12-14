@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Όργα", "metric_roundness": 48.14, "metric_rectangularity": 71.78, "metric_mobile_fit": -4.92, "metric_aspect_ratio": 1.612, "metric_area_km2": 5.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.045425099999989, 35.3533184 ], [ 33.048022, 35.358418 ], [ 33.0323419, 35.3672496 ], [ 33.0158745, 35.366642 ], [ 33.0169957, 35.3598747 ], [ 33.0266918, 35.352583 ], [ 33.0395065, 35.350983 ], [ 33.045425099999989, 35.3533184 ] ] ] } }
+]
+}

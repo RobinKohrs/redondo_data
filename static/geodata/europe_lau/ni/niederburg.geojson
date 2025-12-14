@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niederburg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niederburg", "metric_roundness": 30.42, "metric_rectangularity": 52.27, "metric_mobile_fit": -45.7, "metric_aspect_ratio": 2.02, "metric_area_km2": 15.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.645667, 50.1154291 ], [ 7.6385905, 50.11726 ], [ 7.6390412, 50.1127506 ], [ 7.645792, 50.109678 ], [ 7.6849967, 50.1131579 ], [ 7.6886764, 50.1076548 ], [ 7.697194, 50.103737 ], [ 7.7005757, 50.1079936 ], [ 7.7065637, 50.1095153 ], [ 7.71106, 50.118619 ], [ 7.7077025, 50.1224743 ], [ 7.68967, 50.126748 ], [ 7.6698642, 50.1207045 ], [ 7.6556555, 50.119667 ], [ 7.645667, 50.1154291 ] ] ] } }
+]
+}

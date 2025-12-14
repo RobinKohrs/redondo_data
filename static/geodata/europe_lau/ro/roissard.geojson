@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roissard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roissard", "metric_roundness": 38.02, "metric_rectangularity": 74.98, "metric_mobile_fit": 32.71, "metric_aspect_ratio": 1.235, "metric_area_km2": 28.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6257835, 44.906185 ], [ 5.6069392, 44.9035772 ], [ 5.59279, 44.89379 ], [ 5.6047662, 44.8891857 ], [ 5.6208305, 44.8776741 ], [ 5.6356471, 44.8793109 ], [ 5.6434515, 44.8599345 ], [ 5.656027, 44.8596115 ], [ 5.6560798, 44.8665332 ], [ 5.6621561, 44.865011599999988 ], [ 5.6739905, 44.87153 ], [ 5.6720073, 44.8773032 ], [ 5.663335, 44.88024 ], [ 5.6382945, 44.897764 ], [ 5.6257835, 44.906185 ] ] ] } }
+]
+}

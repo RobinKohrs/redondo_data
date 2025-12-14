@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pocitky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Počítky", "metric_roundness": 53.07, "metric_rectangularity": 61.75, "metric_mobile_fit": 46.35, "metric_aspect_ratio": 1.099, "metric_area_km2": 15.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.953057, 49.600184 ], [ 15.9488845, 49.5930485 ], [ 15.9905085, 49.5819245 ], [ 15.9945406, 49.5909685 ], [ 15.999683, 49.5934715 ], [ 15.9978632, 49.5981059 ], [ 15.9893869, 49.599097899999983 ], [ 15.9864428, 49.6041654 ], [ 15.9878065, 49.611883 ], [ 15.953057, 49.600184 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "almenno_san_salvatore",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Almenno San Salvatore", "metric_roundness": 36.11, "metric_rectangularity": 54.06, "metric_mobile_fit": 65.92, "metric_aspect_ratio": 0.903, "metric_area_km2": 9.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.596347, 45.7598595 ], [ 9.5895975, 45.759517699999989 ], [ 9.5702585, 45.766392 ], [ 9.5792246, 45.7509762 ], [ 9.5995075, 45.736651 ], [ 9.6064335, 45.7437305 ], [ 9.604111, 45.7505836 ], [ 9.6087616, 45.7555753 ], [ 9.604047, 45.760791 ], [ 9.596347, 45.7598595 ] ] ] } }
+]
+}

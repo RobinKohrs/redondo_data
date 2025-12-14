@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "csonkamindszent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Csonkamindszent", "metric_roundness": 51.81, "metric_rectangularity": 76.87, "metric_mobile_fit": 83.63, "metric_aspect_ratio": 0.726, "metric_area_km2": 11.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9543285, 46.055367799999985 ], [ 17.956522, 46.050111299999983 ], [ 17.968988, 46.041378 ], [ 17.977601, 46.043432 ], [ 17.978209, 46.045219499999973 ], [ 17.9794263, 46.055367799999985 ], [ 17.9802595, 46.0594055 ], [ 17.9753491, 46.0623989 ], [ 17.9754485, 46.0707866 ], [ 17.949484, 46.0697 ], [ 17.9495225, 46.069023 ], [ 17.9543285, 46.055367799999985 ] ] ] } }
+]
+}

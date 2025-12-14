@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neas_erythraias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νέας Ερυθραίας", "metric_roundness": 44.62, "metric_rectangularity": 62.95, "metric_mobile_fit": 99.1, "metric_aspect_ratio": 0.571, "metric_area_km2": 8.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.8140425, 38.1040072 ], [ 23.8096002, 38.0931752 ], [ 23.8126193, 38.088666599999989 ], [ 23.8265128, 38.085836799999989 ], [ 23.833897, 38.0964775 ], [ 23.8268082, 38.1000065 ], [ 23.8326516, 38.1069407 ], [ 23.828689, 38.119293 ], [ 23.810177, 38.107602 ], [ 23.8140425, 38.1040072 ] ] ] } }
+]
+}

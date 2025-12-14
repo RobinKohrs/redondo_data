@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pettenasco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pettenasco", "metric_roundness": 32.43, "metric_rectangularity": 57.72, "metric_mobile_fit": 95.61, "metric_aspect_ratio": 0.519, "metric_area_km2": 14.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4208225, 45.829776 ], [ 8.4101159, 45.831492699999984 ], [ 8.4072541, 45.8463242 ], [ 8.399288, 45.854267 ], [ 8.3951465, 45.8445875 ], [ 8.3940815, 45.8425435 ], [ 8.3927955, 45.83949 ], [ 8.3890912, 45.8304817 ], [ 8.3944341, 45.8166679 ], [ 8.408383, 45.807479 ], [ 8.4139128, 45.8162758 ], [ 8.423914, 45.818364499999987 ], [ 8.4208225, 45.829776 ] ] ] } }
+]
+}

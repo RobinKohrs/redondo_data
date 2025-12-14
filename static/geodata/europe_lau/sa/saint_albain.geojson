@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_albain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Albain", "metric_roundness": 29.24, "metric_rectangularity": 55.37, "metric_mobile_fit": 12.97, "metric_aspect_ratio": 1.433, "metric_area_km2": 11.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.887917, 46.4310193 ], [ 4.871494, 46.4316745 ], [ 4.8622296, 46.4255883 ], [ 4.850003, 46.4262 ], [ 4.8411198, 46.421229499999981 ], [ 4.8370105, 46.415414499999983 ], [ 4.8527612, 46.412194399999983 ], [ 4.8644567, 46.4161092 ], [ 4.888686, 46.4174465 ], [ 4.8915265, 46.4275245 ], [ 4.8912885, 46.432848 ], [ 4.891799, 46.438553 ], [ 4.887917, 46.4310193 ] ] ] } }
+]
+}

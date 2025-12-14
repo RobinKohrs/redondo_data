@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "csafordjanosfa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Csáfordjánosfa", "metric_roundness": 43.22, "metric_rectangularity": 71.62, "metric_mobile_fit": 82.64, "metric_aspect_ratio": 0.736, "metric_area_km2": 11.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9397763, 47.398652299999981 ], [ 16.9469935, 47.394631499999988 ], [ 16.9483032, 47.400630199999988 ], [ 16.9693335, 47.4147825 ], [ 16.955661, 47.4296505 ], [ 16.94403, 47.423463 ], [ 16.9404881, 47.4203267 ], [ 16.9413595, 47.4153182 ], [ 16.9312405, 47.411265499999985 ], [ 16.9397763, 47.398652299999981 ] ] ] } }
+]
+}

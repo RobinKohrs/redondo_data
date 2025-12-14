@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rochefort_en_yvelines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rochefort-en-Yvelines", "metric_roundness": 69.22, "metric_rectangularity": 75.92, "metric_mobile_fit": 39.64, "metric_aspect_ratio": 1.166, "metric_area_km2": 28.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9501736, 48.585455 ], [ 1.9548503, 48.5765975 ], [ 1.958299, 48.5758925 ], [ 1.986806, 48.578322899999982 ], [ 1.9903679, 48.5813261 ], [ 2.0020365, 48.5806113 ], [ 2.0101809, 48.5868243 ], [ 2.0096455, 48.5989415 ], [ 2.004068, 48.602252 ], [ 1.9971199, 48.602577599999982 ], [ 1.9844455, 48.609929699999988 ], [ 1.9636858, 48.609523499999987 ], [ 1.9598155, 48.6065952 ], [ 1.955721, 48.5950415 ], [ 1.9501736, 48.585455 ] ] ] } }
+]
+}

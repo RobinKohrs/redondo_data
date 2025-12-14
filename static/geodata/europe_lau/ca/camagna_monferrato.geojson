@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "camagna_monferrato",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Camagna Monferrato", "metric_roundness": 43.72, "metric_rectangularity": 68.28, "metric_mobile_fit": 93.7, "metric_aspect_ratio": 0.625, "metric_area_km2": 18.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4220749, 45.023057699999988 ], [ 8.4221534, 45.0088389 ], [ 8.4417085, 44.998056 ], [ 8.4453709, 44.9987811 ], [ 8.44974, 45.0066099 ], [ 8.4548865, 45.009152 ], [ 8.4423205, 45.0232657 ], [ 8.4454115, 45.044627 ], [ 8.4263335, 45.042250499999987 ], [ 8.4200215, 45.040616499999985 ], [ 8.4136775, 45.0316385 ], [ 8.4220749, 45.023057699999988 ] ] ] } }
+]
+}

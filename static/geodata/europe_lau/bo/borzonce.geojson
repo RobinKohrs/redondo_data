@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borzonce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Börzönce", "metric_roundness": 46.12, "metric_rectangularity": 74.49, "metric_mobile_fit": 96.0, "metric_aspect_ratio": 0.603, "metric_area_km2": 11.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8893927, 46.566339299999989 ], [ 16.8992245, 46.570344 ], [ 16.8964701, 46.5756562 ], [ 16.9004133, 46.5850781 ], [ 16.8967207, 46.596265099999989 ], [ 16.8922363, 46.597557699999982 ], [ 16.8863355, 46.592684799999986 ], [ 16.874278, 46.591904 ], [ 16.87546, 46.573246 ], [ 16.872307, 46.5657 ], [ 16.872209, 46.565383499999967 ], [ 16.8893927, 46.566339299999989 ] ] ] } }
+]
+}

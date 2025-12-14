@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_vaast_du_val",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Vaast-du-Val", "metric_roundness": 60.82, "metric_rectangularity": 73.44, "metric_mobile_fit": 42.43, "metric_aspect_ratio": 1.138, "metric_area_km2": 14.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0175084, 49.692602199999989 ], [ 1.0171712, 49.697246199999988 ], [ 1.0136346, 49.699612499999986 ], [ 1.0059571, 49.6975687 ], [ 1.0011425, 49.69938 ], [ 0.9861145, 49.692038499999988 ], [ 0.9904065, 49.686444 ], [ 0.9949097, 49.684777099999984 ], [ 1.0000292, 49.675990399999975 ], [ 1.015243, 49.672518 ], [ 1.018725, 49.672196 ], [ 1.034347, 49.686404 ], [ 1.0175084, 49.692602199999989 ] ] ] } }
+]
+}

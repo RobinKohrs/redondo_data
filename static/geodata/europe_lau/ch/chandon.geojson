@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chandon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chandon", "metric_roundness": 54.48, "metric_rectangularity": 65.41, "metric_mobile_fit": 33.04, "metric_aspect_ratio": 1.232, "metric_area_km2": 25.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1885216, 46.141514099999981 ], [ 4.2020435, 46.1295485 ], [ 4.231989, 46.1364305 ], [ 4.2335082, 46.145961499999984 ], [ 4.2244653, 46.1513936 ], [ 4.2198445, 46.159671499999988 ], [ 4.2011834, 46.1608429 ], [ 4.1911125, 46.167886499999987 ], [ 4.1849022, 46.1574555 ], [ 4.1750047, 46.154757199999985 ], [ 4.166688, 46.1483055 ], [ 4.165326, 46.140497499999988 ], [ 4.1885216, 46.141514099999981 ] ] ] } }
+]
+}

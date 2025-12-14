@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "welmbuttel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Welmbüttel", "metric_roundness": 24.27, "metric_rectangularity": 53.94, "metric_mobile_fit": 8.36, "metric_aspect_ratio": 1.479, "metric_area_km2": 21.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2258099, 54.205948099999986 ], [ 9.2348874, 54.192233599999987 ], [ 9.243651, 54.187096 ], [ 9.2557012, 54.189532599999986 ], [ 9.2861485, 54.1880335 ], [ 9.286403, 54.188793 ], [ 9.2630041, 54.2050306 ], [ 9.2495855, 54.2083965 ], [ 9.2297829, 54.2103002 ], [ 9.22413, 54.218980499999979 ], [ 9.2153543, 54.219647199999983 ], [ 9.204098, 54.2158515 ], [ 9.2258099, 54.205948099999986 ] ] ] } }
+]
+}

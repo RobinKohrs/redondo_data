@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lambres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lambres", "metric_roundness": 45.96, "metric_rectangularity": 73.61, "metric_mobile_fit": 31.16, "metric_aspect_ratio": 1.251, "metric_area_km2": 10.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.389687, 50.605845 ], [ 2.4120426, 50.615260399999983 ], [ 2.423394, 50.6159 ], [ 2.4283512, 50.616713099999984 ], [ 2.421511, 50.627894 ], [ 2.3900575, 50.6228355 ], [ 2.3862401, 50.618596199999985 ], [ 2.384883, 50.608771499999982 ], [ 2.389687, 50.605845 ] ] ] } }
+]
+}

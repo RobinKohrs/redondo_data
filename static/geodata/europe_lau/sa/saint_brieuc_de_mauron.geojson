@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_brieuc_de_mauron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Brieuc-de-Mauron", "metric_roundness": 61.96, "metric_rectangularity": 69.85, "metric_mobile_fit": 58.0, "metric_aspect_ratio": 0.983, "metric_area_km2": 32.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3656175, 48.0663555 ], [ -2.3577047, 48.077346899999988 ], [ -2.3373686, 48.081421 ], [ -2.3349086, 48.0771704 ], [ -2.3302751, 48.076381 ], [ -2.3215585, 48.0801125 ], [ -2.3378715, 48.0943517 ], [ -2.3436942, 48.1046596 ], [ -2.357532, 48.111316 ], [ -2.3621085, 48.113609499999988 ], [ -2.3799119, 48.1047113 ], [ -2.3871231, 48.0971571 ], [ -2.3875755, 48.090875499999974 ], [ -2.3910641, 48.0845521 ], [ -2.38688, 48.076400499999984 ], [ -2.3656175, 48.0663555 ] ] ] } }
+]
+}

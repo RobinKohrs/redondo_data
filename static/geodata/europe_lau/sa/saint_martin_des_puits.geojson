@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_martin_des_puits",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Martin-des-Puits", "metric_roundness": 60.2, "metric_rectangularity": 64.52, "metric_mobile_fit": 30.51, "metric_aspect_ratio": 1.257, "metric_area_km2": 13.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.566793, 43.0224465 ], [ 2.586823, 43.0307745 ], [ 2.5983885, 43.0267405 ], [ 2.6000145, 43.0316415 ], [ 2.5915915, 43.043188 ], [ 2.583825, 43.048605 ], [ 2.575531, 43.048309 ], [ 2.5651725, 43.049545 ], [ 2.5533955, 43.0348535 ], [ 2.566793, 43.0224465 ] ] ] } }
+]
+}

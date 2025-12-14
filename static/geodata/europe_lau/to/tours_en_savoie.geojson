@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tours_en_savoie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tours-en-Savoie", "metric_roundness": 53.28, "metric_rectangularity": 75.65, "metric_mobile_fit": 20.63, "metric_aspect_ratio": 1.356, "metric_area_km2": 30.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.434774, 45.6447905 ], [ 6.4592116, 45.6537185 ], [ 6.4774467, 45.655499799999987 ], [ 6.501344, 45.6673795 ], [ 6.4922075, 45.6799715 ], [ 6.4604315, 45.683848499999982 ], [ 6.4326877, 45.6705793 ], [ 6.4255473, 45.660045099999984 ], [ 6.429716, 45.656811 ], [ 6.434774, 45.6447905 ] ] ] } }
+]
+}

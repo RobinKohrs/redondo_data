@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "panicke_dravce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Panické Dravce", "metric_roundness": 57.07, "metric_rectangularity": 65.69, "metric_mobile_fit": 50.64, "metric_aspect_ratio": 1.056, "metric_area_km2": 24.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.6228385, 48.2945555 ], [ 19.6208295, 48.284115 ], [ 19.630894, 48.2751907 ], [ 19.6405541, 48.278458799999981 ], [ 19.64701, 48.2681815 ], [ 19.654803, 48.276193499999984 ], [ 19.67679, 48.2807998 ], [ 19.676971, 48.288622 ], [ 19.6659015, 48.2987615 ], [ 19.6521501, 48.3040508 ], [ 19.6344339, 48.301405699999989 ], [ 19.620044, 48.3030805 ], [ 19.6228385, 48.2945555 ] ] ] } }
+]
+}

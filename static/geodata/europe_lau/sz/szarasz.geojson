@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szarasz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szárász", "metric_roundness": 46.2, "metric_rectangularity": 72.13, "metric_mobile_fit": 74.0, "metric_aspect_ratio": 0.822, "metric_area_km2": 12.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.3769076, 46.3531208 ], [ 18.375939, 46.355878499999989 ], [ 18.351084, 46.3600705 ], [ 18.3562988, 46.346249 ], [ 18.37294, 46.3281285 ], [ 18.38914, 46.336135 ], [ 18.388644, 46.343502 ], [ 18.3841095, 46.350927 ], [ 18.3769076, 46.3531208 ] ] ] } }
+]
+}

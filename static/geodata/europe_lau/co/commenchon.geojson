@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "commenchon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Commenchon", "metric_roundness": 52.4, "metric_rectangularity": 66.56, "metric_mobile_fit": 44.24, "metric_aspect_ratio": 1.12, "metric_area_km2": 7.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1494159, 49.637007899999986 ], [ 3.157773, 49.632134 ], [ 3.1667642, 49.6337342 ], [ 3.1665108, 49.642934 ], [ 3.160953, 49.6442681 ], [ 3.1538555, 49.650913499999987 ], [ 3.147983, 49.6513125 ], [ 3.1427535, 49.6495065 ], [ 3.1335919, 49.6463021 ], [ 3.134157, 49.640258 ], [ 3.1494159, 49.637007899999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_neuville_sur_essonne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Neuville-sur-Essonne", "metric_roundness": 58.11, "metric_rectangularity": 71.49, "metric_mobile_fit": 32.66, "metric_aspect_ratio": 1.236, "metric_area_km2": 20.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3695172, 48.1894318 ], [ 2.356897, 48.188075 ], [ 2.3506089, 48.1791452 ], [ 2.3571615, 48.1736435 ], [ 2.374025, 48.164557499999987 ], [ 2.3829408, 48.1657126 ], [ 2.3881322, 48.171315899999975 ], [ 2.406157, 48.170792 ], [ 2.406967, 48.173309 ], [ 2.409929, 48.1760945 ], [ 2.407177, 48.178794499999981 ], [ 2.3991594, 48.183879299999987 ], [ 2.3889765, 48.196562499999978 ], [ 2.3695172, 48.1894318 ] ] ] } }
+]
+}

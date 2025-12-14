@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "codesseiro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Codesseiro", "metric_roundness": 47.41, "metric_rectangularity": 64.15, "metric_mobile_fit": 31.06, "metric_aspect_ratio": 1.252, "metric_area_km2": 16.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.2132156, 40.6365686 ], [ -7.190137, 40.634845099999986 ], [ -7.1841475, 40.6394705 ], [ -7.1881006, 40.6461146 ], [ -7.185383, 40.66157 ], [ -7.1886221, 40.66046 ], [ -7.190137, 40.6591471 ], [ -7.1984058, 40.655273799999989 ], [ -7.2094648, 40.6582198 ], [ -7.2155938, 40.6630847 ], [ -7.2273435, 40.65616 ], [ -7.2264404, 40.6484595 ], [ -7.23514, 40.6365425 ], [ -7.2212645, 40.6321805 ], [ -7.2132156, 40.6365686 ] ] ] } }
+]
+}

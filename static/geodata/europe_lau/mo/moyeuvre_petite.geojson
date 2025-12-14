@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moyeuvre_petite",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moyeuvre-Petite", "metric_roundness": 68.23, "metric_rectangularity": 77.72, "metric_mobile_fit": 52.02, "metric_aspect_ratio": 1.042, "metric_area_km2": 12.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0257042, 49.266302 ], [ 6.040234, 49.2742375 ], [ 6.0396913, 49.2840493 ], [ 6.0205465, 49.290672 ], [ 6.0103525, 49.28974359999998 ], [ 6.0029565, 49.28907 ], [ 6.0012989, 49.2764452 ], [ 6.00984, 49.2724645 ], [ 6.0257042, 49.266302 ] ] ] } }
+]
+}

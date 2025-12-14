@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montigny_les_conde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montigny-lès-Condé", "metric_roundness": 46.36, "metric_rectangularity": 71.95, "metric_mobile_fit": 82.4, "metric_aspect_ratio": 0.738, "metric_area_km2": 10.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.551309, 48.992734 ], [ 3.5504429, 48.9797388 ], [ 3.5572105, 48.9771165 ], [ 3.5653337, 48.975647199999983 ], [ 3.576981, 48.967458 ], [ 3.580306, 48.9694905 ], [ 3.5824015, 48.973737 ], [ 3.5782025, 48.97513 ], [ 3.579801, 48.979166 ], [ 3.5834905, 48.98155449999998 ], [ 3.5814635, 48.98526 ], [ 3.5596015, 48.9968285 ], [ 3.551309, 48.992734 ] ] ] } }
+]
+}

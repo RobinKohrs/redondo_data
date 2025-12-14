@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grossmolsen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Großmölsen", "metric_roundness": 68.98, "metric_rectangularity": 71.15, "metric_mobile_fit": 50.58, "metric_aspect_ratio": 1.057, "metric_area_km2": 12.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.1614239, 51.0173718 ], [ 11.170472, 51.018468 ], [ 11.1745885, 51.0255695 ], [ 11.1614239, 51.037157299999976 ], [ 11.1605685, 51.040021 ], [ 11.1561531, 51.0371296 ], [ 11.1461123, 51.040578499999988 ], [ 11.1411695, 51.037782 ], [ 11.135598, 51.023946099999989 ], [ 11.145952, 51.0175415 ], [ 11.1614239, 51.0173718 ] ] ] } }
+]
+}

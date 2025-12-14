@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champ_sur_drac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champ-sur-Drac", "metric_roundness": 51.5, "metric_rectangularity": 78.89, "metric_mobile_fit": 86.52, "metric_aspect_ratio": 0.697, "metric_area_km2": 17.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.737513, 45.05562459999998 ], [ 5.7430439, 45.0628767 ], [ 5.7435665, 45.083386 ], [ 5.7255455, 45.0907475 ], [ 5.7133825, 45.0723 ], [ 5.710015, 45.070188 ], [ 5.702653, 45.0614895 ], [ 5.7233005, 45.0527845 ], [ 5.732449, 45.049497 ], [ 5.736512, 45.049311499999988 ], [ 5.737513, 45.05562459999998 ] ] ] } }
+]
+}

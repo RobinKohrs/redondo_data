@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szatta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szatta", "metric_roundness": 47.08, "metric_rectangularity": 69.45, "metric_mobile_fit": 62.97, "metric_aspect_ratio": 0.933, "metric_area_km2": 12.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.50438, 46.8095505 ], [ 16.4873565, 46.8171495 ], [ 16.4783761, 46.816011199999984 ], [ 16.4718709, 46.8096848 ], [ 16.4647946, 46.8088843 ], [ 16.4636905, 46.8041385 ], [ 16.463424, 46.786626 ], [ 16.465976, 46.7868015 ], [ 16.4900837, 46.7976823 ], [ 16.5050205, 46.808317 ], [ 16.50438, 46.8095505 ] ] ] } }
+]
+}

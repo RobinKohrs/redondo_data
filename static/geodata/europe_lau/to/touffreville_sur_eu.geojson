@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "touffreville_sur_eu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Touffreville-sur-Eu", "metric_roundness": 69.57, "metric_rectangularity": 72.81, "metric_mobile_fit": 62.16, "metric_aspect_ratio": 0.941, "metric_area_km2": 13.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.3394095, 49.999797499999985 ], [ 1.3207144, 50.006167699999985 ], [ 1.3064323, 50.000535299999981 ], [ 1.3004395, 49.994353 ], [ 1.3076314, 49.99042559999998 ], [ 1.3074991, 49.980209299999984 ], [ 1.319924, 49.977559 ], [ 1.3262133, 49.9848029 ], [ 1.3342919, 49.98664 ], [ 1.3423085, 49.9947485 ], [ 1.3394095, 49.999797499999985 ] ] ] } }
+]
+}

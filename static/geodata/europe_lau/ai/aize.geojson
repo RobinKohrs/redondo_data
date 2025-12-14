@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aize",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aize", "metric_roundness": 49.03, "metric_rectangularity": 66.19, "metric_mobile_fit": 46.45, "metric_aspect_ratio": 1.098, "metric_area_km2": 36.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7271776, 47.128472 ], [ 1.6925416, 47.127580499999986 ], [ 1.6867008, 47.11297 ], [ 1.667207, 47.089385 ], [ 1.6752359, 47.0856029 ], [ 1.6851592, 47.085621799999984 ], [ 1.69425, 47.0804975 ], [ 1.7001993, 47.0939638 ], [ 1.7367538, 47.1021849 ], [ 1.7445978, 47.1127695 ], [ 1.7412105, 47.121053 ], [ 1.7271776, 47.128472 ] ] ] } }
+]
+}

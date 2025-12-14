@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "portela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Portela", "metric_roundness": 60.53, "metric_rectangularity": 79.01, "metric_mobile_fit": 80.05, "metric_aspect_ratio": 0.762, "metric_area_km2": 15.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4692761, 41.9857967 ], [ -8.4660315, 41.9991875 ], [ -8.4782824, 42.0012474 ], [ -8.4867255, 41.998653499999982 ], [ -8.499193, 41.994339 ], [ -8.4970997, 41.9743137 ], [ -8.490401, 41.966082 ], [ -8.4837398, 41.9665602 ], [ -8.4723486, 41.9727669 ], [ -8.4631445, 41.9711715 ], [ -8.4692761, 41.9857967 ] ] ] } }
+]
+}

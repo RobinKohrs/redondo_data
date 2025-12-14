@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_laurent_l_abbaye",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Laurent-l'Abbaye", "metric_roundness": 32.7, "metric_rectangularity": 63.75, "metric_mobile_fit": 95.09, "metric_aspect_ratio": 0.612, "metric_area_km2": 2.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9959903, 47.3444234 ], [ 2.9913483, 47.3457833 ], [ 2.9855794, 47.3425108 ], [ 2.98615, 47.339272499999986 ], [ 2.9902641, 47.3379325 ], [ 2.9971085, 47.326527 ], [ 3.0029581, 47.335548099999983 ], [ 2.9961737, 47.3407016 ], [ 2.9959903, 47.3444234 ] ] ] } }
+]
+}

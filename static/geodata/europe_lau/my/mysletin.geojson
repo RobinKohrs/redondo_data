@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mysletin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mysletín", "metric_roundness": 51.15, "metric_rectangularity": 60.95, "metric_mobile_fit": 41.89, "metric_aspect_ratio": 1.144, "metric_area_km2": 10.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3534515, 49.4807665 ], [ 15.3590289, 49.4759372 ], [ 15.36096, 49.4639457 ], [ 15.365105, 49.4623475 ], [ 15.39446, 49.476718 ], [ 15.3946749, 49.482623399999987 ], [ 15.391068, 49.485771499999977 ], [ 15.3775269, 49.480899699999988 ], [ 15.3726926, 49.48326609999998 ], [ 15.355763, 49.4832665 ], [ 15.3534515, 49.4807665 ] ] ] } }
+]
+}

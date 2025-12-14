@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rekingen_ag",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rekingen (AG)", "metric_roundness": 57.06, "metric_rectangularity": 69.96, "metric_mobile_fit": 58.82, "metric_aspect_ratio": 0.974, "metric_area_km2": 7.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.3054365, 47.570042 ], [ 8.3063945, 47.563604 ], [ 8.3174751, 47.562312 ], [ 8.3259105, 47.556962499999983 ], [ 8.328224, 47.5602275 ], [ 8.3298035, 47.5585245 ], [ 8.3351945, 47.55833 ], [ 8.3344075, 47.562087 ], [ 8.3369205, 47.565305499999987 ], [ 8.337175, 47.570398 ], [ 8.3255168, 47.572391299999985 ], [ 8.3163515, 47.578941 ], [ 8.3054365, 47.570042 ] ] ] } }
+]
+}

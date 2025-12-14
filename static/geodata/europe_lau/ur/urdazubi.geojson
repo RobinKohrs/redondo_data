@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "urdazubi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Urdazubi", "metric_roundness": 66.13, "metric_rectangularity": 82.62, "metric_mobile_fit": 70.98, "metric_aspect_ratio": 0.853, "metric_area_km2": 14.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5075647, 43.259294399999987 ], [ -1.5012627, 43.2681475 ], [ -1.4920184, 43.2711494 ], [ -1.4913495, 43.281292 ], [ -1.505896, 43.293206 ], [ -1.5151125, 43.293957 ], [ -1.5319473, 43.2771102 ], [ -1.531457, 43.272075499999985 ], [ -1.530392, 43.270756 ], [ -1.5075647, 43.259294399999987 ] ] ] } }
+]
+}

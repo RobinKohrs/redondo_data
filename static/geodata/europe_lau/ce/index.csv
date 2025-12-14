@@ -1,0 +1,672 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Čermná,cermna,ce,51.27,83.23,84.96
+europe_lau,Černý Důl,cerny_dul,ce,22.7,57.42,76.27
+europe_lau,Čebín,cebin,ce,63.22,68.66,59.71
+europe_lau,Česká,ceska,ce,42.64,71,77.27
+europe_lau,Čeperka,ceperka,ce,60.06,67.9,57.4
+europe_lau,Čepí,cepi,ce,35.11,71.28,39.11
+europe_lau,Čermná nad Orlicí,cermna_nad_orlici,ce,59.76,69.39,40.64
+europe_lau,Černíkovice,cernikovice,ce,54.66,64.47,44.16
+europe_lau,České Meziříčí,ceske_mezirici,ce,63.22,67.86,59.18
+europe_lau,Čestice,cestice,ce,52.73,58.43,29.22
+europe_lau,Cerekvice nad Loučnou,cerekvice_nad_loucnou,ce,38.31,59.05,98.59
+europe_lau,Čejč,cejc,ce,55.67,74.73,45.8
+europe_lau,Čejkovice,cejkovice,ce,45.64,63.71,96.73
+europe_lau,Čeložnice,celoznice,ce,34.58,69.5,93.57
+europe_lau,Cejle,cejle,ce,45.92,67.82,-12.62
+europe_lau,Cerekvička-Rosice,cerekvicka_rosice,ce,50.77,72.64,33.14
+europe_lau,Černíč,cernic,ce,25.31,42.36,34.33
+europe_lau,Čenkovice,cenkovice,ce,45.99,56.42,46.1
+europe_lau,Červená Voda,cervena_voda,ce,57.55,63.69,52.18
+europe_lau,Česká Rybná,ceska_rybna,ce,46.35,54.07,36.77
+europe_lau,Česká Třebová,ceska_trebova,ce,45.87,69.37,30.42
+europe_lau,České Heřmanice,ceske_hermanice,ce,53.8,66.52,79.09
+europe_lau,České Libchavy,ceske_libchavy,ce,43.13,61.28,29.95
+europe_lau,České Petrovice,ceske_petrovice,ce,58.53,66.43,74.68
+europe_lau,Cetkovice,cetkovice,ce,34,57.41,53.59
+europe_lau,Černá Hora,cerna_hora,ce,50.26,65.09,88.73
+europe_lau,Černovice,cernovice,ce,33.54,62.4,-42.12
+europe_lau,Cetechovice,cetechovice,ce,30.88,42.09,96.59
+europe_lau,Čehovice,cehovice,ce,63.55,78.38,65.57
+europe_lau,Čechy pod Kosířem,cechy_pod_kosirem,ce,34.27,59.19,-16.72
+europe_lau,Čelčice,celcice,ce,33.3,52.16,63.62
+europe_lau,Čelechovice na Hané,celechovice_na_hane,ce,55.72,66.67,10.68
+europe_lau,Čechočovice,cechocovice,ce,47.99,65.08,26.16
+europe_lau,Čechtín,cechtin,ce,65.83,80.65,60.66
+europe_lau,Červená Lhota,cervena_lhota,ce,47.34,59.23,31.57
+europe_lau,Čeladná,celadna,ce,40.23,67.93,99.36
+europe_lau,Český Těšín,cesky_tesin,ce,54.62,65.03,55.76
+europe_lau,Čenkov u Bechyně,cenkov_u_bechyne,ce,39.35,64.03,98.15
+europe_lau,Černíky,cerniky,ce,38.1,59.66,17.82
+europe_lau,Čejkovice,cejkovice,ce,39,59.85,6.64
+europe_lau,Čermákovice,cermakovice,ce,55.11,67.87,22.98
+europe_lau,Černín,cernin,ce,65.5,74.35,57.21
+europe_lau,Černá,cerna,ce,62.9,71.93,61.31
+europe_lau,Černvír,cernvir,ce,48.54,62.23,44.38
+europe_lau,"Celle, Stadt",celle_stadt,ce,64.21,70.98,71.87
+europe_lau,Cervatos de la Cueza,cervatos_de_la_cueza,ce,56.04,72.64,57.26
+europe_lau,Cervera de Pisuerga,cervera_de_pisuerga,ce,26.7,37.04,57
+europe_lau,Cevico de la Torre,cevico_de_la_torre,ce,60.24,67.37,41.5
+europe_lau,Cevico Navero,cevico_navero,ce,45.59,64.86,-6.05
+europe_lau,Cedillo de la Torre,cedillo_de_la_torre,ce,57.53,82.34,11.39
+europe_lau,Cerezo de Abajo,cerezo_de_abajo,ce,36.06,59.49,-14.27
+europe_lau,Cerezo de Arriba,cerezo_de_arriba,ce,29.41,45.82,38.02
+europe_lau,Cervera del Llano,cervera_del_llano,ce,54.18,64.69,73.22
+europe_lau,Cenes de la Vega,cenes_de_la_vega,ce,52.4,57.87,47.38
+europe_lau,Чепеларе,cepelare,ce,57.28,66.26,81.26
+europe_lau,Centelles,centelles,ce,53.36,58.64,65.57
+europe_lau,Cervelló,cervello,ce,30.55,49.73,-25.28
+europe_lau,Черноочене,cernoocene,ce,45.28,51.49,20.26
+europe_lau,Червен бряг,cerven_brag,ce,58.05,66.91,35.61
+europe_lau,Cervera del Maestre,cervera_del_maestre,ce,73.99,73.93,60.21
+europe_lau,Cendejas de Enmedio,cendejas_de_enmedio,ce,40.95,55.98,34.07
+europe_lau,Cendejas de la Torre,cendejas_de_la_torre,ce,50.66,69.22,66.13
+europe_lau,Cenizate,cenizate,ce,64.3,70.85,67.72
+europe_lau,Centenera,centenera,ce,60.05,68.98,43.64
+europe_lau,Cerfontaine,cerfontaine,ce,57.49,68.47,71.39
+europe_lau,Cerdanyola del Vallès,cerdanyola_del_valles,ce,46.04,70.62,63.74
+europe_lau,Cercs,cercs,ce,36.25,47.06,58.93
+europe_lau,Челопеч,celopec,ce,41.31,58.77,84.42
+europe_lau,"Cellera de Ter, La",cellera_de_ter_la,ce,48.41,59.84,13.17
+europe_lau,Cebrecos,cebrecos,ce,52.43,62.29,48.01
+europe_lau,Celada del Camino,celada_del_camino,ce,65.11,73.33,46.48
+europe_lau,Cerezo de Río Tirón,cerezo_de_rio_tiron,ce,56.69,64.15,47.25
+europe_lau,Cerratón de Juarros,cerraton_de_juarros,ce,35.25,60.22,94.26
+europe_lau,Celrà,celra,ce,49.55,65.84,95.58
+europe_lau,Cervià de Ter,cervia_de_ter,ce,47.66,59.69,41.25
+europe_lau,Ceclavín,ceclavin,ce,51.94,67.79,44.03
+europe_lau,Cedillo,cedillo,ce,50.83,60.72,57.19
+europe_lau,Cerezo,cerezo,ce,30.03,42.54,49.6
+europe_lau,Ценово,cenovo,ce,61.41,67.41,44.12
+europe_lau,Cerceda,cerceda,ce,46.53,63.25,42.63
+europe_lau,Cerdido,cerdido,ce,41.85,58.2,18.4
+europe_lau,Cedeira,cedeira,ce,50.36,65.26,62.9
+europe_lau,Cee,cee,ce,36.06,52.07,65.26
+europe_lau,Cebreros,cebreros,ce,45.45,67.96,-6.65
+europe_lau,Cepeda la Mora,cepeda_la_mora,ce,61.88,64.22,59.8
+europe_lau,Celles (Doornik),celles_doornik,ce,47.32,57.98,56.39
+europe_lau,CËRRIK,cerrik,ce,40.55,54.39,69.31
+europe_lau,Celerina/Schlarigna,celerina_schlarigna,ce,35.53,53.62,35.47
+europe_lau,Ceyreste,ceyreste,ce,49.18,71.06,-15.23
+europe_lau,Cendrey,cendrey,ce,29.28,46.06,99.71
+europe_lau,Cernay-l'Église,cernay_l_eglise,ce,33.48,61.78,92.04
+europe_lau,Cessey,cessey,ce,26.05,66.16,88.7
+europe_lau,Céreste,cereste,ce,45.98,63.98,69.58
+europe_lau,Ceignes,ceignes,ce,49.61,74.53,81.32
+europe_lau,Cerdon,cerdon,ce,54.19,73.32,55.33
+europe_lau,Certines,certines,ce,53.28,66.49,63.49
+europe_lau,Cessy,cessy,ce,45.78,53.71,28.32
+europe_lau,Ceyzériat,ceyzeriat,ce,55.67,72.74,45
+europe_lau,Ceyzérieu,ceyzerieu,ce,52.35,63.23,35.63
+europe_lau,Celles,celles,ce,39.3,55.95,51.78
+europe_lau,Cercoux,cercoux,ce,48.18,60.34,31.28
+europe_lau,Cerbois,cerbois,ce,49.27,71.44,79.06
+europe_lau,Ceuta,ceuta,ce,29.1,46.47,-29.11
+europe_lau,Cérilly,cerilly,ce,62.15,73.16,38.79
+europe_lau,Cesset,cesset,ce,64.42,68.51,40.97
+europe_lau,Centrès,centres,ce,34.3,51.29,36.84
+europe_lau,Cesseville,cesseville,ce,52.09,64.95,70.03
+europe_lau,Cenne-Monestiés,cenne_monesties,ce,37.73,68.05,68.08
+europe_lau,Cépie,cepie,ce,61.24,77.87,55.71
+europe_lau,Celles-sur-Ource,celles_sur_ource,ce,48.65,62.76,45.58
+europe_lau,Ceillac,ceillac,ce,48.67,67.67,21.21
+europe_lau,Cervières,cervieres,ce,47.14,62.95,-8.27
+europe_lau,Celles,celles,ce,48.27,66.66,88.98
+europe_lau,Cénac-et-Saint-Julien,cenac_et_saint_julien,ce,29.05,47.12,38.86
+europe_lau,Celles-lès-Condé,celles_les_conde,ce,55.44,69.67,70.36
+europe_lau,Celles-sur-Aisne,celles_sur_aisne,ce,48.94,61.69,30.76
+europe_lau,Cerizy,cerizy,ce,41.9,56.69,70.87
+europe_lau,Cerny-en-Laonnois,cerny_en_laonnois,ce,67.64,68.95,50.23
+europe_lau,Cerny-lès-Bucy,cerny_les_bucy,ce,62.06,72.77,42.89
+europe_lau,Cerseuil,cerseuil,ce,44.14,62.42,-3.68
+europe_lau,Cessières-Suzy,cessieres_suzy,ce,50.91,72.03,-8.65
+europe_lau,Cernion,cernion,ce,56.73,72.38,69.01
+europe_lau,Celoux,celoux,ce,40.24,62.71,36.48
+europe_lau,Cézens,cezens,ce,36.68,47.61,66.44
+europe_lau,Cerentino,cerentino,ce,48.72,61.33,74.83
+europe_lau,Cevio,cevio,ce,38.35,56.7,78.35
+europe_lau,Cervantes,cervantes,ce,54.24,59.22,61.5
+europe_lau,Cervo,cervo,ce,51.66,70.22,92.31
+europe_lau,Cerdà,cerda,ce,51.29,78,40.38
+europe_lau,Cervera de la Cañada,cervera_de_la_canada,ce,46.66,65.64,72.68
+europe_lau,Cerveruela,cerveruela,ce,54.18,69.65,77.56
+europe_lau,Cetina,cetina,ce,40.24,68.47,96.03
+europe_lau,Cerecinos de Campos,cerecinos_de_campos,ce,56.94,72.71,8.48
+europe_lau,Cerecinos del Carrizal,cerecinos_del_carrizal,ce,48.85,69.38,22.16
+europe_lau,Cernadilla,cernadilla,ce,56.88,73.92,12.33
+europe_lau,Cernay,cernay,ce,62.78,71.14,72.69
+europe_lau,Cesny-aux-Vignes,cesny_aux_vignes,ce,43.51,69.21,92.29
+europe_lau,Cesny-les-Sources,cesny_les_sources,ce,33.72,47.42,16.02
+europe_lau,Cervera,cervera,ce,38.65,50.5,87.06
+europe_lau,Cervià de les Garrigues,cervia_de_les_garrigues,ce,54.26,60.88,22.84
+europe_lau,Cenicientos,cenicientos,ce,50.46,68.06,23.92
+europe_lau,Cercedilla,cercedilla,ce,56.45,72.66,83.94
+europe_lau,Cervera de Buitrago,cervera_de_buitrago,ce,59.24,69.97,40.08
+europe_lau,Cebolla,cebolla,ce,50.24,71.78,7.02
+europe_lau,Cedillo del Condado,cedillo_del_condado,ce,35.19,64.55,99.12
+europe_lau,"Cerralbos, Los",cerralbos_los,ce,39.22,55.54,85.36
+europe_lau,Cervera de los Montes,cervera_de_los_montes,ce,30.24,50.63,-39.81
+europe_lau,Cendea de Olza,cendea_de_olza,ce,35.16,61.88,-6.44
+europe_lau,Ceinos de Campos,ceinos_de_campos,ce,55.68,69.01,76.54
+europe_lau,Cervillego de la Cruz,cervillego_de_la_cruz,ce,46.32,71.09,33.76
+europe_lau,Celles,celles,ce,55.79,65.09,58.42
+europe_lau,Cérizols,cerizols,ce,54.77,62.88,70.76
+europe_lau,Cescau,cescau,ce,32.08,66.45,28.32
+europe_lau,Cerdedo-Cotobade,cerdedo_cotobade,ce,50.4,69.42,57.72
+europe_lau,Cea,cea,ce,40.97,58.49,3.18
+europe_lau,Cebanico,cebanico,ce,35,57.43,98.26
+europe_lau,Cebrones del Río,cebrones_del_rio,ce,41.3,51.49,66.89
+europe_lau,Celanova,celanova,ce,30.64,45.59,38.43
+europe_lau,Cenlle,cenlle,ce,37.85,43.32,44.81
+europe_lau,Centenera de Andaluz,centenera_de_andaluz,ce,39.78,56.7,11.18
+europe_lau,Cerbón,cerbon,ce,43.63,70.34,-32.28
+europe_lau,"Cerro de Andévalo, El",cerro_de_andevalo_el,ce,41.76,63.05,49.92
+europe_lau,Cellorigo,cellorigo,ce,58.42,77.39,79.32
+europe_lau,Cenicero,cenicero,ce,45.62,54.29,63.68
+europe_lau,Cervera del Río Alhama,cervera_del_rio_alhama,ce,50.17,59.35,58.74
+europe_lau,Cedrillas,cedrillas,ce,44.26,55.88,23.71
+europe_lau,Celadas,celadas,ce,51.22,71.15,95.08
+europe_lau,Cella,cella,ce,41.58,48.9,81.04
+europe_lau,"Cerollera, La",cerollera_la,ce,39.39,64.08,28.6
+europe_lau,Cepeda,cepeda,ce,48.79,57.75,52.84
+europe_lau,Cereceda de la Sierra,cereceda_de_la_sierra,ce,49.15,72.03,61.64
+europe_lau,Cerezal de Peñahorcada,cerezal_de_penahorcada,ce,66.88,77.46,59.02
+europe_lau,Cerralbo,cerralbo,ce,50.57,67.85,85.22
+europe_lau,"Cerro, El",cerro_el,ce,52.58,81.73,57.77
+europe_lau,Cespedosa de Tormes,cespedosa_de_tormes,ce,52.14,62.8,30.61
+europe_lau,Cehegín,cehegin,ce,49.14,65.22,88.49
+europe_lau,Ceutí,ceuti,ce,52.06,61.64,23.63
+europe_lau,Čeradice,ceradice,ce,55.92,63.39,59.09
+europe_lau,Cernusson,cernusson,ce,41.45,74.44,79.76
+europe_lau,Ceintrey,ceintrey,ce,29.15,50.15,58.36
+europe_lau,Cerville,cerville,ce,64.31,73.17,16.17
+europe_lau,Cellé,celle,ce,52.6,76.7,53.62
+europe_lau,Cellettes,cellettes,ce,52.22,68.28,42.53
+europe_lau,Čečelovice,cecelovice,ce,47.79,59.38,66.78
+europe_lau,Cébazat,cebazat,ce,45.74,74.26,40.94
+europe_lau,Ceilloux,ceilloux,ce,45.39,63.67,97.18
+europe_lau,Celles-sur-Durolle,celles_sur_durolle,ce,33.71,54.02,84.59
+europe_lau,Ceyrat,ceyrat,ce,36.27,50.34,90.3
+europe_lau,Ceyssat,ceyssat,ce,57.68,64.03,64
+europe_lau,Čerňovice,cernovice,ce,60.93,69.5,69.41
+europe_lau,Cernay,cernay,ce,55.7,70.15,12.05
+europe_lau,Ceffonds,ceffonds,ce,32.26,42.08,94.43
+europe_lau,Celles-en-Bassigny,celles_en_bassigny,ce,48.78,71.03,71.78
+europe_lau,Celsoy,celsoy,ce,37.13,62.97,-59.69
+europe_lau,Cerisières,cerisieres,ce,35.94,55.31,5.3
+europe_lau,Céaux-d'Allègre,ceaux_d_allegre,ce,52.74,71.85,78.64
+europe_lau,Cerzat,cerzat,ce,61.34,69.69,71.56
+europe_lau,Ceyssac,ceyssac,ce,43.74,65.61,81.44
+europe_lau,Cénevières,cenevieres,ce,64.3,71.76,72.3
+europe_lau,Cézac,cezac,ce,49.4,57.57,75.4
+europe_lau,Céaux,ceaux,ce,40.64,62.61,1
+europe_lau,Cérences,cerences,ce,56.37,59.57,67.03
+europe_lau,Cerisy-la-Forêt,cerisy_la_foret,ce,45.14,61.28,60.92
+europe_lau,Cerisy-la-Salle,cerisy_la_salle,ce,56.96,69.27,47.18
+europe_lau,Cernay-en-Dormois,cernay_en_dormois,ce,28.58,54.53,-22.71
+europe_lau,Cernay-lès-Reims,cernay_les_reims,ce,55.19,70.16,83.14
+europe_lau,Cernon,cernon,ce,37.79,75.15,62.76
+europe_lau,Cepoy,cepoy,ce,62.82,71.85,51.76
+europe_lau,Cercottes,cercottes,ce,56.42,69.71,34.2
+europe_lau,Cerdon,cerdon,ce,53.68,70.23,27.4
+europe_lau,Cernoy-en-Berry,cernoy_en_berry,ce,62.82,71.69,65.99
+europe_lau,Césarville-Dossainville,cesarville_dossainville,ce,69.52,76.16,51.7
+europe_lau,Cellieu,cellieu,ce,37.36,56.34,-13.42
+europe_lau,Cervières,cervieres,ce,37.66,52.72,50.89
+europe_lau,Cezay,cezay,ce,36.66,50.23,89.22
+europe_lau,Cessieu,cessieu,ce,53.02,74.54,5.6
+europe_lau,Cellefrouin,cellefrouin,ce,54.74,64.95,48.09
+europe_lau,Cellettes,cellettes,ce,54.56,69.98,74.84
+europe_lau,Cénac,cenac,ce,61.43,66.73,55.58
+europe_lau,Cenon,cenon,ce,44.25,74.79,48.53
+europe_lau,Censeau,censeau,ce,28.19,48.33,87.77
+europe_lau,Cernans,cernans,ce,37.19,52.91,42.75
+europe_lau,Cerniébaud,cerniebaud,ce,61.07,70.42,45.29
+europe_lau,Cernon,cernon,ce,23.36,44.81,93.03
+europe_lau,Cesancey,cesancey,ce,41.8,58.72,22.85
+europe_lau,Cesson-Sévigné,cesson_sevigne,ce,56.94,65.89,78.71
+europe_lau,Céligny,celigny,ce,39.2,73.19,50.72
+europe_lau,Cépet,cepet,ce,44.56,62.38,88.99
+europe_lau,Cessales,cessales,ce,63.83,75.38,69.5
+europe_lau,Cérons,cerons,ce,59.17,69.98,61.48
+europe_lau,Cessac,cessac,ce,54.85,68.06,29.5
+europe_lau,Cestas,cestas,ce,50.18,62.23,27.05
+europe_lau,Cézac,cezac,ce,24.77,43.74,-13.92
+europe_lau,Cendras,cendras,ce,67.88,71.53,60.71
+europe_lau,Céré-la-Ronde,cere_la_ronde,ce,54.72,68.63,42.4
+europe_lau,Cerelles,cerelles,ce,56.15,71,55.2
+europe_lau,Censerey,censerey,ce,76.36,71.74,61.06
+europe_lau,Cérilly,cerilly,ce,38.81,59.75,93.03
+europe_lau,Cessey-sur-Tille,cessey_sur_tille,ce,55.7,63.47,79.23
+europe_lau,Ceyroux,ceyroux,ce,35.7,52.39,65.15
+europe_lau,Cébazan,cebazan,ce,47.5,60.93,8.2
+europe_lau,Ceilhes-et-Rocozels,ceilhes_et_rocozels,ce,49.98,60.02,16.55
+europe_lau,Celles,celles,ce,39.1,59.12,-1.17
+europe_lau,Cers,cers,ce,58.98,69.1,69.76
+europe_lau,Cessenon-sur-Orb,cessenon_sur_orb,ce,28.34,47.67,11.67
+europe_lau,Cesseras,cesseras,ce,35.85,66.15,95.6
+europe_lau,Ceyras,ceyras,ce,25.97,60.33,41.91
+europe_lau,Centuri,centuri,ce,23.06,53.25,79.15
+europe_lau,Cervione,cervione,ce,22.76,48.33,-6.65
+europe_lau,Céran,ceran,ce,35.83,60.74,73.8
+europe_lau,Cézan,cezan,ce,44.94,67.84,-7.46
+europe_lau,Ceaulmont,ceaulmont,ce,42.2,65.63,94.19
+europe_lau,Celon,celon,ce,49.36,66.72,86.63
+europe_lau,Cère,cere,ce,52.49,79.59,5.42
+europe_lau,Čenkov,cenkov,ce,59.5,78.65,42.43
+europe_lau,Cerny,cerny,ce,52.15,64.55,15.65
+europe_lau,Cezais,cezais,ce,47.63,60.75,72.24
+europe_lau,Celles-sur-Belle,celles_sur_belle,ce,41.89,67.41,49.07
+europe_lau,Cerizay,cerizay,ce,65.23,73.96,38.18
+europe_lau,Cerbère,cerbere,ce,48.99,60.98,3.75
+europe_lau,Céret,ceret,ce,39.55,65.46,92.94
+europe_lau,Černolice,cernolice,ce,57.25,71.92,76.59
+europe_lau,Černošice,cernosice,ce,45.89,62.94,68.22
+europe_lau,Cerisy-Buleux,cerisy_buleux,ce,47,69.73,85.64
+europe_lau,Cerisy,cerisy,ce,68.41,68.32,63.53
+europe_lau,Černíny,cerniny,ce,26.12,47.91,75.93
+europe_lau,Červené Janovice,cervene_janovice,ce,49.56,64.03,90.23
+europe_lau,Čestín,cestin,ce,34.03,51.81,61.92
+europe_lau,Cernay-la-Ville,cernay_la_ville,ce,39.89,56.99,-7.89
+europe_lau,Céron,ceron,ce,66.38,74.3,38.55
+europe_lau,Cersot,cersot,ce,49.6,64.79,56.96
+europe_lau,Cerna,cerna,ce,34.35,51.25,-5.89
+europe_lau,Cernik,cernik,ce,57.11,64.07,36.07
+europe_lau,Cerovlje,cerovlje,ce,53.68,67.61,47.84
+europe_lau,Cestica,cestica,ce,54.83,60.99,39.64
+europe_lau,Cetingrad,cetingrad,ce,44.11,58.69,80.4
+europe_lau,Čeminac,ceminac,ce,43.48,57.28,30.22
+europe_lau,Čepin,cepin,ce,54.67,63.17,44.81
+europe_lau,Čelákovice,celakovice,ce,46.98,55.85,33.97
+europe_lau,Čestlice,cestlice,ce,49.18,65.29,78.11
+europe_lau,Cergy,cergy,ce,36.04,70.19,2.13
+europe_lau,Ceaux-en-Loudun,ceaux_en_loudun,ce,41.02,67.42,90.07
+europe_lau,Celle-Lévescault,celle_levescault,ce,46.11,59.77,78.37
+europe_lau,Cenon-sur-Vienne,cenon_sur_vienne,ce,40.32,58.96,84.06
+europe_lau,Cernay,cernay,ce,52.56,76.29,94.72
+europe_lau,Cestayrols,cestayrols,ce,41.01,68.75,65.13
+europe_lau,Cenves,cenves,ce,60.77,67.57,29.03
+europe_lau,Cercié,cercie,ce,30.82,61.04,-66.74
+europe_lau,Censy,censy,ce,43.85,60.35,56.7
+europe_lau,Cérilly,cerilly,ce,47.16,65.85,22.97
+europe_lau,Cerisiers,cerisiers,ce,38.81,58.29,23.43
+europe_lau,Cézy,cezy,ce,35.71,58.32,51.38
+europe_lau,Celles-sur-Plaine,celles_sur_plaine,ce,47.96,65.22,39.84
+europe_lau,Certilleux,certilleux,ce,45.51,56.49,62.74
+europe_lau,Cély,cely,ce,50.11,61.89,17.49
+europe_lau,Cerneux,cerneux,ce,49.47,57.29,78.54
+europe_lau,Cesson,cesson,ce,30.61,47.78,94.77
+europe_lau,Cessoy-en-Montois,cessoy_en_montois,ce,52.15,63.16,27.82
+europe_lau,Cescau,cescau,ce,35.78,59.31,35.97
+europe_lau,Cette-Eygun,cette_eygun,ce,32.94,55.98,-45.6
+europe_lau,Cempuis,cempuis,ce,34.88,64.33,-53.85
+europe_lau,Cernoy,cernoy,ce,49.72,69.08,54.96
+europe_lau,Cep,cep,ce,60.34,75.7,12.53
+europe_lau,Černuc,cernuc,ce,50.64,66.48,90.09
+europe_lau,Červený Újezd,cerveny_ujezd,ce,40.27,51.77,77.42
+europe_lau,Čečelice,cecelice,ce,35.07,55.61,-9.92
+europe_lau,Čelistná,celistna,ce,52.55,72.73,83.64
+europe_lau,Cemboing,cemboing,ce,67.44,76.23,41.85
+europe_lau,Cenans,cenans,ce,53.27,69.71,73.6
+europe_lau,Cendrecourt,cendrecourt,ce,54.3,71.89,82.2
+europe_lau,Cerre-lès-Noroy,cerre_les_noroy,ce,60.18,76.03,84
+europe_lau,Cesse,cesse,ce,37.8,63.7,-41.03
+europe_lau,Cerhenice,cerhenice,ce,39.68,56.11,74.67
+europe_lau,Červená Hora,cervena_hora,ce,54.25,75.07,46.98
+europe_lau,Černé Voděrady,cerne_voderady,ce,45.54,78.45,74
+europe_lau,Červené Pečky,cervene_pecky,ce,47.11,64.73,24.66
+europe_lau,Český Brod,cesky_brod,ce,51.49,61.89,69.7
+europe_lau,Čechtice,cechtice,ce,49.66,61.04,7.95
+europe_lau,Čerčany,cercany,ce,44.66,61.4,83.32
+europe_lau,Ceaucé,ceauce,ce,52.52,66.56,82.51
+europe_lau,Cerisé,cerise,ce,35.42,57.69,-16.49
+europe_lau,Cerisy-Belle-Étoile,cerisy_belle_etoile,ce,58,73.98,79.89
+europe_lau,Ceton,ceton,ce,54.91,74.73,36.19
+europe_lau,Cercier,cercier,ce,49.8,65.7,2.86
+europe_lau,Cernex,cernex,ce,47.7,59.74,74.34
+europe_lau,Cervens,cervens,ce,38.83,63.14,96.1
+europe_lau,Čejkovice,cejkovice,ce,53.23,68.18,69.95
+europe_lau,Červený Újezd,cerveny_ujezd,ce,33.98,55.43,72.48
+europe_lau,Český Šternberk,cesky_sternberk,ce,50.12,56.2,50.5
+europe_lau,Cerhovice,cerhovice,ce,54.24,62.16,56.11
+europe_lau,Cérans-Foulletourte,cerans_foulletourte,ce,55.07,73.96,30.18
+europe_lau,Cernay,cernay,ce,52.68,66.43,61.15
+europe_lau,Červený Hrádek,cerveny_hradek,ce,37.42,63.39,-39.19
+europe_lau,Cerfontaine,cerfontaine,ce,52.68,77.31,81.59
+europe_lau,Černá Voda,cerna_voda,ce,50.22,70.35,69.44
+europe_lau,Cercy-la-Tour,cercy_la_tour,ce,35.72,64.72,99.03
+europe_lau,Cervon,cervon,ce,66,65.87,58.85
+europe_lau,Cessy-les-Bois,cessy_les_bois,ce,49.73,60.45,78.36
+europe_lau,Čelechovice,celechovice,ce,51.83,71.5,89.27
+europe_lau,Černotín,cernotin,ce,51.91,63.08,74.74
+europe_lau,Césarches,cesarches,ce,54.55,78.06,90.46
+europe_lau,Cevins,cevins,ce,52.42,67.53,51.24
+europe_lau,Česká Bříza,ceska_briza,ce,38.94,60.02,23.67
+europe_lau,Cecima,cecima,ce,36.68,48.41,93.32
+europe_lau,Ceranova,ceranova,ce,57.63,73.05,69.34
+europe_lau,Ceretto Lomellina,ceretto_lomellina,ce,44.25,69.7,99.57
+europe_lau,Cergnago,cergnago,ce,32.51,52.65,32.44
+europe_lau,Certosa di Pavia,certosa_di_pavia,ce,46.32,57.25,83.67
+europe_lau,Cervesina,cervesina,ce,38.68,52.81,76.81
+europe_lau,Červená Třemešná,cervena_tremesna,ce,40.52,55.71,79.37
+europe_lau,Celano,celano,ce,29.61,53.57,93.1
+europe_lau,Cerchio,cerchio,ce,36.04,67.3,96.9
+europe_lau,Cefalà Diana,cefala_diana,ce,56.89,71.21,73.52
+europe_lau,Cefalù,cefalu,ce,37.48,49.85,14.35
+europe_lau,Cerda,cerda,ce,49.2,59.44,55.95
+europe_lau,Cercivento,cercivento,ce,50.5,63.58,63.3
+europe_lau,Cervignano del Friuli,cervignano_del_friuli,ce,36.02,44.62,89.42
+europe_lau,Cellamare,cellamare,ce,44.21,59.08,52.28
+europe_lau,Ceppo Morelli,ceppo_morelli,ce,52.2,65,57.56
+europe_lau,Cesara,cesara,ce,47.11,64.6,63.82
+europe_lau,Cēsu novads,cesu_novads,ce,27.04,54.53,51.31
+europe_lau,Cesarò,cesaro,ce,40.1,56.35,22.33
+europe_lau,Čermná,cermna,ce,48.25,62.51,64.76
+europe_lau,Cencenighe Agordino,cencenighe_agordino,ce,50.27,70.32,33.18
+europe_lau,Cesiomaggiore,cesiomaggiore,ce,40.11,54.66,93.26
+europe_lau,Cessalto,cessalto,ce,42.26,60.55,15.43
+europe_lau,Cellino Attanasio,cellino_attanasio,ce,54.18,61.89,52.21
+europe_lau,Cermignano,cermignano,ce,33.71,51.14,74.41
+europe_lau,Cepagatti,cepagatti,ce,30.02,43.11,66.8
+europe_lau,Černíkov,cernikov,ce,37.87,49.67,74.01
+europe_lau,Ceglie Messapica,ceglie_messapica,ce,47.5,72.24,-8.28
+europe_lau,Cellino San Marco,cellino_san_marco,ce,50.17,64.63,21.39
+europe_lau,Česká Kubice,ceska_kubice,ce,25.98,50.01,5.81
+europe_lau,Cedynia,cedynia,ce,46.39,63.41,97.28
+europe_lau,Ceriano Laghetto,ceriano_laghetto,ce,39.64,95.46,-130.5
+europe_lau,Cesano Maderno,cesano_maderno,ce,36.63,62.67,-46.5
+europe_lau,Cervinara,cervinara,ce,50.59,60.73,45.58
+europe_lau,Cesinali,cesinali,ce,51.02,61.99,40.79
+europe_lau,Čechy,cechy,ce,31.26,53.8,96.02
+europe_lau,Cerreto Guidi,cerreto_guidi,ce,60.13,68.55,79.22
+europe_lau,Certaldo,certaldo,ce,63.97,66.28,29.29
+europe_lau,Cerreto Laziale,cerreto_laziale,ce,42.14,56.92,89.95
+europe_lau,Cervara di Roma,cervara_di_roma,ce,38.78,59.23,25.21
+europe_lau,Cerveteri,cerveteri,ce,47.58,61.02,45.86
+europe_lau,Cella Dati,cella_dati,ce,60.29,65.54,51.92
+europe_lau,Cegłów,ceglow,ce,53.84,73.36,79.52
+europe_lau,Ceggia,ceggia,ce,59.84,65.78,46.89
+europe_lau,Celenza sul Trigno,celenza_sul_trigno,ce,53.3,67.77,77.64
+europe_lau,Cehnice,cehnice,ce,57.38,68.9,62.33
+europe_lau,Čejetice,cejetice,ce,41.18,61.27,25.3
+europe_lau,Čepřovice,ceprovice,ce,46.11,75.92,88.09
+europe_lau,Cerignale,cerignale,ce,31.58,52.55,55.06
+europe_lau,Čestice,cestice,ce,59.68,73.33,78.88
+europe_lau,Celestynów,celestynow,ce,44.61,60.04,82.71
+europe_lau,Cento,cento,ce,30.14,61.21,80.27
+europe_lau,Cervia,cervia,ce,54.56,59.97,61.14
+europe_lau,Cesena,cesena,ce,40.95,58.82,65.54
+europe_lau,Cesenatico,cesenatico,ce,50.82,75.72,77.94
+europe_lau,Cedegolo,cedegolo,ce,24.84,39.43,13.08
+europe_lau,Cellatica,cellatica,ce,31.84,57.16,89.57
+europe_lau,Cerveno,cerveno,ce,25.67,34.46,62.95
+europe_lau,Ceto,ceto,ce,33.71,43.29,14.6
+europe_lau,Cerhonice,cerhonice,ce,52.53,59.31,62.63
+europe_lau,Cevo,cevo,ce,24.87,42.43,32.19
+europe_lau,Cecina,cecina,ce,47.3,56.57,65.11
+europe_lau,Ceccano,ceccano,ce,52.92,68.95,86.91
+europe_lau,Ceprano,ceprano,ce,62.87,69.49,49.15
+europe_lau,Cervaro,cervaro,ce,47.5,71.46,52.28
+europe_lau,Cembra Lisignago,cembra_lisignago,ce,46.39,58.7,85.67
+europe_lau,Cerea,cerea,ce,28.19,50.04,97.56
+europe_lau,Cerro Veronese,cerro_veronese,ce,53.7,61.42,57.52
+europe_lau,Cervarese Santa Croce,cervarese_santa_croce,ce,47.25,63.83,74.48
+europe_lau,Cercemaggiore,cercemaggiore,ce,60.04,68.72,75.02
+europe_lau,Cercepiccola,cercepiccola,ce,45.96,77.41,97.64
+europe_lau,Česká Lípa,ceska_lipa,ce,56.52,68.05,39.46
+europe_lau,Cedrasco,cedrasco,ce,13.22,56.98,77.59
+europe_lau,Cercino,cercino,ce,31.66,71.93,81.89
+europe_lau,Celle di Bulgheria,celle_di_bulgheria,ce,46.65,57.1,58.48
+europe_lau,Centola,centola,ce,34.7,58.02,92.78
+europe_lau,Ceraso,ceraso,ce,31.02,47.28,-35.13
+europe_lau,Cetara,cetara,ce,63.12,75.77,37.66
+europe_lau,Cekov,cekov,ce,37.74,70.2,91.38
+europe_lau,Cervignano d'Adda,cervignano_d_adda,ce,38.96,63.68,40.99
+europe_lau,Cekcyn,cekcyn,ce,54.37,58.73,55.68
+europe_lau,Cedry Wielkie,cedry_wielkie,ce,71.14,70.81,55.31
+europe_lau,Čeminy,ceminy,ce,41.05,61.12,80.42
+europe_lau,Cewice,cewice,ce,56.94,58.74,56
+europe_lau,Ceneselli,ceneselli,ce,57.35,72.77,59.65
+europe_lau,Ceregnano,ceregnano,ce,36.38,53.88,-20.46
+europe_lau,Cernusco sul Naviglio,cernusco_sul_naviglio,ce,52.47,62.74,55.85
+europe_lau,Cerro al Lambro,cerro_al_lambro,ce,56.16,74.22,55.94
+europe_lau,Cerro Maggiore,cerro_maggiore,ce,36.41,58.45,47.78
+europe_lau,Cesano Boscone,cesano_boscone,ce,48.4,62.29,54.51
+europe_lau,Cesate,cesate,ce,63.41,86.09,28.52
+europe_lau,Centuripe,centuripe,ce,40.28,54.02,93.99
+europe_lau,Cerami,cerami,ce,40.68,48.3,48.37
+europe_lau,Celenza Valfortore,celenza_valfortore,ce,46.38,54.8,59.46
+europe_lau,Celle di San Vito,celle_di_san_vito,ce,24.92,41.08,80.73
+europe_lau,Cerignola,cerignola,ce,44.22,57.22,85.45
+europe_lau,Cerreto d'Esi,cerreto_d_esi,ce,36.38,56.65,52.79
+europe_lau,Cessapalombo,cessapalombo,ce,37.64,50.5,79.4
+europe_lau,Cerenzia,cerenzia,ce,49.04,62.16,10.17
+europe_lau,Cessaniti,cessaniti,ce,42.71,58.91,61.31
+europe_lau,Cervino,cervino,ce,53.74,69,45.38
+europe_lau,Cesa,cesa,ce,56.51,65.18,61.37
+europe_lau,Ceglédbercel,cegledbercel,ce,29.49,58.18,92.76
+europe_lau,Cercola,cercola,ce,45.24,59.46,86.34
+europe_lau,Cenadi,cenadi,ce,24.42,51.81,40.58
+europe_lau,Centrache,centrache,ce,33.62,56.14,45
+europe_lau,Cerva,cerva,ce,12.27,42.47,43.04
+europe_lau,Celbridge,celbridge,ce,44,64.84,88.36
+europe_lau,České Velenice,ceske_velenice,ce,43.95,65.09,-11.9
+europe_lau,Český Rudolec,cesky_rudolec,ce,41.18,47.06,44.82
+europe_lau,Červenka,cervenka,ce,34.19,71.18,9.49
+europe_lau,Cetoraz,cetoraz,ce,67.32,75.89,36.47
+europe_lau,Celle di Macra,celle_di_macra,ce,47.03,60.83,84.64
+europe_lau,Centallo,centallo,ce,45.74,71.43,79.34
+europe_lau,Ceresole Alba,ceresole_alba,ce,68.14,71.73,52.67
+europe_lau,Cerretto Langhe,cerretto_langhe,ce,36.15,67.25,11.05
+europe_lau,Cervasca,cervasca,ce,28.91,45.16,72.66
+europe_lau,Cervere,cervere,ce,33.19,48.18,10.87
+europe_lau,Ceva,ceva,ce,43.83,69.5,61.29
+europe_lau,Čejov,cejov,ce,66.66,71.68,49.22
+europe_lau,Cered,cered,ce,34.57,59.6,29.58
+europe_lau,Černava,cernava,ce,42.16,69.38,46.03
+europe_lau,Cece,cece,ce,42.78,60.83,71.9
+europe_lau,České Budějovice,ceske_budejovice,ce,48.25,56.51,54.97
+europe_lau,Černovice,cernovice,ce,51.11,62.11,65.7
+europe_lau,Červená Řečice,cervena_recice,ce,56.49,56.75,47.64
+europe_lau,Černouček,cernoucek,ce,57.6,72.79,20.53
+europe_lau,Celldömölk,celldomolk,ce,59.92,79.74,72.85
+europe_lau,Cerano d'Intelvi,cerano_d_intelvi,ce,26.69,51.44,75.01
+europe_lau,Cermenate,cermenate,ce,62.83,82.31,67.05
+europe_lau,Cernobbio,cernobbio,ce,39.43,58.35,95.18
+europe_lau,Cersosimo,cersosimo,ce,32.55,56.78,89.17
+europe_lau,Ceriana,ceriana,ce,54.83,60.59,60.5
+europe_lau,Cervo,cervo,ce,47.44,67.16,56.37
+europe_lau,Cesio,cesio,ce,32.89,52.58,38.72
+europe_lau,Čejkovice,cejkovice,ce,43.65,62.29,99.16
+europe_lau,Cetona,cetona,ce,48.19,64.3,87.99
+europe_lau,Cégénydányád,cegenydanyad,ce,49.22,62.93,23.47
+europe_lau,Ceresara,ceresara,ce,57,61.01,68.55
+europe_lau,Čečkovice,ceckovice,ce,57.89,83.25,46.07
+europe_lau,Centro Valle Intelvi,centro_valle_intelvi,ce,43.05,66.03,47.54
+europe_lau,Celico,celico,ce,23.55,40.72,44.86
+europe_lau,Cellara,cellara,ce,19.84,66.39,-180.16
+europe_lau,Cerchiara di Calabria,cerchiara_di_calabria,ce,30.51,54.82,69.31
+europe_lau,Cerisano,cerisano,ce,39.11,59.44,-0.02
+europe_lau,Cervicati,cervicati,ce,25.57,64.53,-129.51
+europe_lau,Celle Ligure,celle_ligure,ce,44.91,62.75,83.15
+europe_lau,Cengio,cengio,ce,36.33,49.68,33.94
+europe_lau,Ceriale,ceriale,ce,31.77,49.05,15.92
+europe_lau,Cellarengo,cellarengo,ce,24.21,46.46,54.93
+europe_lau,Celle Enomondo,celle_enomondo,ce,46.21,70.11,62.49
+europe_lau,Cerreto d'Asti,cerreto_d_asti,ce,22.35,65.27,71.17
+europe_lau,Cerro Tanaro,cerro_tanaro,ce,53.9,61.04,27.09
+europe_lau,Cessole,cessole,ce,28.13,68.6,51.88
+europe_lau,Cerzeto,cerzeto,ce,11.95,31.94,17.66
+europe_lau,Cetraro,cetraro,ce,61.17,73.59,29.13
+europe_lau,Cerreto di Spoleto,cerreto_di_spoleto,ce,42.87,53.51,85.95
+europe_lau,Cervatto,cervatto,ce,69.41,77.39,44.95
+europe_lau,Cellio con Breia,cellio_con_breia,ce,46.42,63.27,93.34
+europe_lau,Cermes/Tscherms,cermes_tscherms,ce,23.59,63.25,-179.88
+europe_lau,Cellole,cellole,ce,49.13,60.12,59.28
+europe_lau,Ceppaloni,ceppaloni,ce,49.76,63.54,67.34
+europe_lau,Černěves,cerneves,ce,44.76,54.64,73.59
+europe_lau,Ceranesi,ceranesi,ce,44.41,58.31,51.23
+europe_lau,Český Krumlov,cesky_krumlov,ce,49.67,70.53,77.85
+europe_lau,Černá v Pošumaví,cerna_v_posumavi,ce,37.08,52.92,49.17
+europe_lau,Cerreto Sannita,cerreto_sannita,ce,57,65.57,53.08
+europe_lau,Celleno,celleno,ce,70.99,74.45,61.92
+europe_lau,Cellere,cellere,ce,36.22,54.63,1.18
+europe_lau,Černčice,cerncice,ce,53.67,73.06,39
+europe_lau,Cegléd,cegled,ce,66.3,76.9,36.44
+europe_lau,Cerano,cerano,ce,43.08,64.63,23.22
+europe_lau,Cella Monte,cella_monte,ce,52.43,64.54,80.13
+europe_lau,Cereseto,cereseto,ce,51.78,73.46,92.99
+europe_lau,Cerreto Grue,cerreto_grue,ce,58.2,71.88,60.47
+europe_lau,Cerrina Monferrato,cerrina_monferrato,ce,72.65,75.93,47.73
+europe_lau,Černousy,cernousy,ce,39.6,60.05,49.95
+europe_lau,Červené Poříčí,cervene_porici,ce,56.37,61.6,48.9
+europe_lau,Cercenasco,cercenasco,ce,31.57,75.34,-138.39
+europe_lau,Ceres,ceres,ce,34.13,56.13,-11.37
+europe_lau,Ceresole Reale,ceresole_reale,ce,44.54,68.82,44.39
+europe_lau,Cesana Torinese,cesana_torinese,ce,31.38,48.2,74.86
+europe_lau,Čechy,cechy,ce,53.14,62.38,63.71
+europe_lau,Černík,cernik,ce,61.03,77.21,46.28
+europe_lau,Cetate,cetate,ce,25.39,56.92,-51.33
+europe_lau,Český Jiřetín,cesky_jiretin,ce,60.6,69.7,59.27
+europe_lau,Černčice,cerncice,ce,50.12,74.13,20.04
+europe_lau,Červený Kostelec,cerveny_kostelec,ce,49.8,54.07,67.24
+europe_lau,Česká Čermná,ceska_cermna,ce,51.3,74.94,78.28
+europe_lau,Česká Metuje,ceska_metuje,ce,50.67,77.12,44.34
+europe_lau,Česká Skalice,ceska_skalice,ce,53.36,65.09,74.92
+europe_lau,Čechynce,cechynce,ce,46.11,83.56,52.69
+europe_lau,Červený Hrádok,cerveny_hradok,ce,37.98,66.17,35.78
+europe_lau,Ceanu Mare,ceanu_mare,ce,47.54,55.24,23.26
+europe_lau,Ceranów,ceranow,ce,45.59,55.01,28.94
+europe_lau,Čeľadince,celadince,ce,32.22,74.93,24.31
+europe_lau,Čelkova Lehota,celkova_lehota,ce,28.68,60.61,82.47
+europe_lau,Cerchezu,cerchezu,ce,50.59,73.66,33.86
+europe_lau,Červený Kameň,cerveny_kamen,ce,49.24,60.82,75.08
+europe_lau,Čereňany,cerenany,ce,16.96,57.83,6.21
+europe_lau,Cernina,cernina,ce,50.37,68.32,76.36
+europe_lau,Cerovo,cerovo,ce,53.61,62.5,62.37
+europe_lau,Čekovce,cekovce,ce,31.91,61.63,52.32
+europe_lau,Čečehov,cecehov,ce,68.37,75.02,63.07
+europe_lau,Čenkovce,cenkovce,ce,35.55,72.48,29.05
+europe_lau,Cerkvenjak,cerkvenjak,ce,68.33,67.79,64.15
+europe_lau,Cerová,cerova,ce,44.27,65.68,37.73
+europe_lau,Cenade,cenade,ce,39.54,53.21,79.73
+europe_lau,Cergău,cergau,ce,62.28,66.83,44.34
+europe_lau,Ceru-Băcăinţi,ceru_bacainti,ce,59.22,72.52,90.1
+europe_lau,Česká Kamenice,ceska_kamenice,ce,31.86,46.37,71.47
+europe_lau,Cernat,cernat,ce,49.17,71.23,41.3
+europe_lau,Čerenčany,cerencany,ce,49.71,77.08,81.13
+europe_lau,Česká Bělá,ceska_bela,ce,50.58,62.96,14.63
+europe_lau,Červený Kláštor,cerveny_klastor,ce,28.73,49.57,20.49
+europe_lau,Černilov,cernilov,ce,56.94,70.99,13.59
+europe_lau,Černožice,cernozice,ce,55.42,72.84,46.65
+europe_lau,Cejkov,cejkov,ce,40.53,57.53,16.49
+europe_lau,Čeľovce,celovce,ce,32.58,58.04,-21.45
+europe_lau,Čerhov,cerhov,ce,45.43,63.58,90.06
+europe_lau,Černochov,cernochov,ce,37.33,73.57,82.91
+europe_lau,Čeľadice,celadice,ce,34.01,55.86,89.5
+europe_lau,Čermná ve Slezsku,cermna_ve_slezsku,ce,49.08,71.1,89
+europe_lau,Cetatea de Baltă,cetatea_de_balta,ce,36.97,50.46,91.01
+europe_lau,Ceptura,ceptura,ce,40.4,67.47,75.23
+europe_lau,Ceraşu,cerasu,ce,26.86,58.22,81.03
+europe_lau,České Brezovo,ceske_brezovo,ce,31.41,58.34,87.23
+europe_lau,Cerbăl,cerbal,ce,23.15,46.42,4.41
+europe_lau,Certeju de Sus,certeju_de_sus,ce,57.13,73.96,33.45
+europe_lau,Čelovce (okres Prešov),celovce_okres_presov,ce,37.95,70.33,98.59
+europe_lau,Červená Voda,cervena_voda,ce,57.39,73.95,88.61
+europe_lau,Červenica pri Sabinove,cervenica_pri_sabinove,ce,48.48,69.74,99.03
+europe_lau,Červenica,cervenica,ce,53.37,74.32,81.23
+europe_lau,Cervães,cervaes,ce,56.78,71.36,79.09
+europe_lau,Čermany,cermany,ce,52.15,67.35,31.13
+europe_lau,Černina,cernina,ce,24.69,58.08,97.58
+europe_lau,Čertižné,certizne,ce,63.67,72.72,80.87
+europe_lau,Cehal,cehal,ce,42.97,51.85,69.92
+europe_lau,Certeze,certeze,ce,40.8,65.82,43.37
+europe_lau,Cernăteşti,cernatesti,ce,44.13,73.53,92.37
+europe_lau,Cercal,cercal,ce,50.92,63.15,69.76
+europe_lau,Celaru,celaru,ce,46.7,63.66,91.28
+europe_lau,Cerăt,cerat,ce,53.88,58.08,57.07
+europe_lau,Cernăteşti,cernatesti,ce,21.67,66.47,-94.3
+europe_lau,Cetate,cetate,ce,60.86,66.36,29.6
+europe_lau,Čebovce,cebovce,ce,14.73,48.75,71.66
+europe_lau,Čeláre,celare,ce,49.62,66.54,76.1
+europe_lau,Čelovce (okres Veľký Krtíš),celovce_okres_velky_krtis,ce,50.11,56.57,50
+europe_lau,Červeňany,cervenany,ce,48.93,57.43,50.41
+europe_lau,České Lhotice,ceske_lhotice,ce,50.36,63.75,52.99
+europe_lau,Červeník,cervenik,ce,45.73,52.89,76.66
+europe_lau,Cendufe,cendufe,ce,25.65,63.04,73.15
+europe_lau,Celje,celje,ce,51.07,60.85,81.62
+europe_lau,Cerklje na Gorenjskem,cerklje_na_gorenjskem,ce,56.28,69.44,72.82
+europe_lau,Cerknica,cerknica,ce,58.34,61.56,62.69
+europe_lau,Cerkno,cerkno,ce,54.79,61.92,59.99
+europe_lau,Cefa,cefa,ce,44.1,57.04,24.81
+europe_lau,Ceica,ceica,ce,39.91,70.96,63.41
+europe_lau,Cetariu,cetariu,ce,50.36,61.43,14.55
+europe_lau,Čerín,cerin,ce,42.97,56.42,71.21
+europe_lau,Cerţeşti,certesti,ce,43.73,59.81,59.56
+europe_lau,Cepleniţa,ceplenita,ce,16.69,52.16,-153.94
+europe_lau,Cestice,cestice,ce,27.84,63.76,98.45
+europe_lau,Čečejovce,cecejovce,ce,42.39,74.28,97.55
+europe_lau,Češov,cesov,ce,47.2,68.85,79.65
+europe_lau,Černá u Bohdanče,cerna_u_bohdance,ce,48.31,76.78,57.22
+europe_lau,Česká Ves,ceska_ves,ce,49.5,61.77,25.53
+europe_lau,Cetenov,cetenov,ce,46.64,64.88,46.31
+europe_lau,Český Dub,cesky_dub,ce,35.95,50.86,85.08
+europe_lau,Černov,cernov,ce,34.94,48.45,74.07
+europe_lau,Černovice,cernovice,ce,49.22,66.96,79.14
+europe_lau,Cedovim,cedovim,ce,37.6,61.35,30.08
+europe_lau,Cela,cela,ce,42.78,59.8,96.52
+europe_lau,Cerdal,cerdal,ce,41.86,65.21,-7.47
+europe_lau,Cetyně,cetyne,ce,35.45,62.03,96.08
+europe_lau,Cerneşti,cernesti,ce,20.78,63.94,87.13
+europe_lau,Cenate Sopra,cenate_sopra,ce,62.16,77.36,60.75
+europe_lau,Cenate Sotto,cenate_sotto,ce,39.54,58.7,70.42
+europe_lau,Cene,cene,ce,48.81,55.58,36.24
+europe_lau,Cerete,cerete,ce,48.35,54.33,52.79
+europe_lau,Ceatalchioi,ceatalchioi,ce,47.74,53.03,67.72
+europe_lau,Ceamurlia de Jos,ceamurlia_de_jos,ce,39.23,70.03,90.81
+europe_lau,Cerna,cerna,ce,56.35,64.12,61.18
+europe_lau,Cesvaines novads,cesvaines_novads,ce,57.88,68.51,77.31
+europe_lau,Celas,celas,ce,35.89,59.78,-45.95
+europe_lau,Cesar,cesar,ce,49.72,72.42,94.33
+europe_lau,Cebiv,cebiv,ce,30.09,50.47,63.51
+europe_lau,Černošín,cernosin,ce,53.49,59.75,32.88
+europe_lau,Ceków-Kolonia,cekow_kolonia,ce,34.27,53.9,52.45
+europe_lau,Cervenia,cervenia,ce,38.33,66.37,-32.9
+europe_lau,Cepari,cepari,ce,47.98,60.07,13.94
+europe_lau,Cerrione,cerrione,ce,73.15,72.25,58.21
+europe_lau,Cervos,cervos,ce,55.34,58.7,60.02
+europe_lau,Černíkovice,cernikovice,ce,56.46,72.24,78.92
+europe_lau,Чешиново - Облешево,cesinovo_oblesevo,ce,39.34,56.2,48.52
+europe_lau,Центар Жупа,centar_zupa,ce,57.54,70.92,55.95
+europe_lau,Cepelos,cepelos,ce,33.76,64.98,39.86
+europe_lau,Cetăţeni,cetateni,ce,52,61.56,48.66
+europe_lau,Cenad,cenad,ce,56.78,61.01,70.98
+europe_lau,Cenei,cenei,ce,62.48,66.05,68.28
+europe_lau,Cernusco Lombardone,cernusco_lombardone,ce,56.61,64.68,49.32
+europe_lau,Cesana Brianza,cesana_brianza,ce,23.69,30.92,71.8
+europe_lau,Celeirós,celeiros,ce,50.76,72.7,-4.66
+europe_lau,Ceuaşu de Câmpie,ceuasu_de_campie,ce,51.95,65.12,48.19
+europe_lau,Центар,centar,ce,61.78,73.41,57.9
+europe_lau,Celavisa,celavisa,ce,41.36,69.85,-48.5
+europe_lau,Cedros,cedros,ce,50.86,66.56,71.87
+europe_lau,Cedros,cedros,ce,44.41,60.67,-2.14
+europe_lau,Ceira,ceira,ce,24.43,31.83,40.73
+europe_lau,Cernache,cernache,ce,65,75.26,39.15
+europe_lau,Ceahlău,ceahlau,ce,37.72,51.16,78.82
+europe_lau,Cerejais,cerejais,ce,31.99,66.01,95.44
+europe_lau,Černýšovice,cernysovice,ce,47.47,63.11,12.22
+europe_lau,Cernica,cernica,ce,56.38,68.11,70.82
+europe_lau,Cete,cete,ce,63.85,75.94,38.92
+europe_lau,Cernişoara,cernisoara,ce,23.63,60.66,86.15
+europe_lau,Cerdeira,cerdeira,ce,31.42,60.54,83.03
+europe_lau,Čečovice,cecovice,ce,48.79,68.88,96.11
+europe_lau,Černiv,cerniv,ce,47.72,76.92,95.83
+europe_lau,Cercosa,cercosa,ce,22.29,59.31,25.3
+europe_lau,Cezieni,cezieni,ce,65.94,74.31,56.23
+europe_lau,Cerro al Volturno,cerro_al_volturno,ce,43.73,59.22,86.62
+europe_lau,Cedães,cedaes,ce,59.07,61.69,58.75
+europe_lau,Černovice,cernovice,ce,27.6,60.24,78.49
+europe_lau,Cermei,cermei,ce,47.14,53.71,37.5
+europe_lau,Centovalli,centovalli,ce,48.02,62.53,0.77
+europe_lau,Cellier-du-Luc,cellier_du_luc,ce,64.94,65.61,54.91
+europe_lau,Cerekvice nad Bystřicí,cerekvice_nad_bystrici,ce,61.68,75.81,73.82

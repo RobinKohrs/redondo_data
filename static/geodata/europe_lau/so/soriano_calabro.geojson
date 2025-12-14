@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soriano_calabro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soriano Calabro", "metric_roundness": 27.55, "metric_rectangularity": 53.36, "metric_mobile_fit": -0.59, "metric_aspect_ratio": 1.568, "metric_area_km2": 25.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2356419, 38.6088613 ], [ 16.2542475, 38.609439 ], [ 16.2399234, 38.615358799999989 ], [ 16.2058245, 38.619193800000012 ], [ 16.1910165, 38.6373322 ], [ 16.1767705, 38.641098499999984 ], [ 16.161129, 38.6324295 ], [ 16.1702162, 38.6190395 ], [ 16.1815332, 38.6201129 ], [ 16.1853813, 38.617316 ], [ 16.1848694, 38.607609 ], [ 16.189216, 38.6018344 ], [ 16.2026263, 38.6021348 ], [ 16.229352, 38.5947105 ], [ 16.2356419, 38.6088613 ] ] ] } }
+]
+}

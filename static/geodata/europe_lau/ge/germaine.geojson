@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "germaine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Germaine", "metric_roundness": 58.7, "metric_rectangularity": 68.9, "metric_mobile_fit": 73.02, "metric_aspect_ratio": 0.832, "metric_area_km2": 10.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1250789, 49.819003699999989 ], [ 3.120269, 49.827212 ], [ 3.1139242, 49.8221545 ], [ 3.1033285, 49.820934 ], [ 3.1067732, 49.8027155 ], [ 3.110768, 49.8001435 ], [ 3.1264577, 49.802438599999988 ], [ 3.136371, 49.809797499999988 ], [ 3.138244, 49.811987499999987 ], [ 3.1250789, 49.819003699999989 ] ] ] } }
+]
+}

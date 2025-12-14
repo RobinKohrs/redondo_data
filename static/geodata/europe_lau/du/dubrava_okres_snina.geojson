@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dubrava_okres_snina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dúbrava (okres Snina)", "metric_roundness": 43.46, "metric_rectangularity": 59.82, "metric_mobile_fit": 36.56, "metric_aspect_ratio": 1.197, "metric_area_km2": 22.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.3338547, 48.8854018 ], [ 22.3251247, 48.880616499999981 ], [ 22.323849, 48.876636 ], [ 22.323208, 48.875110499999984 ], [ 22.3423864, 48.8690008 ], [ 22.3754586, 48.8694154 ], [ 22.3828175, 48.862264 ], [ 22.3865884, 48.8687654 ], [ 22.391735, 48.8714205 ], [ 22.3678742, 48.8851873 ], [ 22.3584888, 48.887752 ], [ 22.3574549, 48.8945957 ], [ 22.3509835, 48.899126 ], [ 22.3382325, 48.8999155 ], [ 22.3338547, 48.8854018 ] ] ] } }
+]
+}

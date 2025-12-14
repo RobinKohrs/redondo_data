@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arevalillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arevalillo", "metric_roundness": 32.9, "metric_rectangularity": 74.3, "metric_mobile_fit": 53.78, "metric_aspect_ratio": 1.025, "metric_area_km2": 26.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.4086545, 40.6089665 ], [ -5.3995555, 40.5981065 ], [ -5.3921443, 40.586760299999987 ], [ -5.359952, 40.561339499999988 ], [ -5.351391, 40.5617755 ], [ -5.337283, 40.5655982 ], [ -5.3381995, 40.572342 ], [ -5.3518535, 40.583058 ], [ -5.3595132, 40.595361499999989 ], [ -5.37117, 40.606483499999989 ], [ -5.3769867, 40.603563 ], [ -5.3968095, 40.614231 ], [ -5.4086545, 40.6089665 ] ] ] } }
+]
+}

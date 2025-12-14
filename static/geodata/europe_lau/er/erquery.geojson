@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "erquery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Erquery", "metric_roundness": 53.0, "metric_rectangularity": 62.25, "metric_mobile_fit": 53.31, "metric_aspect_ratio": 1.029, "metric_area_km2": 13.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.442255, 49.4255675 ], [ 2.432381, 49.4182905 ], [ 2.4292815, 49.4169895 ], [ 2.427487, 49.4148265 ], [ 2.4436175, 49.414699799999987 ], [ 2.444013, 49.409380699999986 ], [ 2.4519703, 49.407775699999988 ], [ 2.459827, 49.3964995 ], [ 2.4663875, 49.400130499999982 ], [ 2.4734268, 49.4059338 ], [ 2.4734795, 49.422248 ], [ 2.442255, 49.4255675 ] ] ] } }
+]
+}

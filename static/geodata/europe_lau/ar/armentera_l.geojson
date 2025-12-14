@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "armentera_l",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Armentera, L'", "metric_roundness": 34.15, "metric_rectangularity": 60.58, "metric_mobile_fit": 43.1, "metric_aspect_ratio": 1.131, "metric_area_km2": 10.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0838585, 42.1503216 ], [ 3.094193, 42.150749 ], [ 3.1033717, 42.1545979 ], [ 3.1076495, 42.153018499999988 ], [ 3.1103461, 42.156694 ], [ 3.1067828, 42.1604586 ], [ 3.0932299, 42.159089 ], [ 3.0877627, 42.161211699999974 ], [ 3.0874229, 42.1666571 ], [ 3.092458, 42.172315499999989 ], [ 3.0903936, 42.1812993 ], [ 3.0630585, 42.179059 ], [ 3.0838585, 42.1503216 ] ] ] } }
+]
+}

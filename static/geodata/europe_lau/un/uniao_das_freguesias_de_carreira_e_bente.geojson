@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_carreira_e_bente",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Carreira e Bente", "metric_roundness": 38.11, "metric_rectangularity": 57.31, "metric_mobile_fit": 86.77, "metric_aspect_ratio": 0.695, "metric_area_km2": 6.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4559893, 41.3853857 ], [ -8.4488811, 41.378555899999988 ], [ -8.44934, 41.373957 ], [ -8.4482924, 41.3698483 ], [ -8.440636, 41.363498 ], [ -8.4386122, 41.3729079 ], [ -8.4277725, 41.383477 ], [ -8.4283525, 41.38506 ], [ -8.4378668, 41.3854739 ], [ -8.439409, 41.389687 ], [ -8.447022, 41.3939715 ], [ -8.4559893, 41.3853857 ] ] ] } }
+]
+}

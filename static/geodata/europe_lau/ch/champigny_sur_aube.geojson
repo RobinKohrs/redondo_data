@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champigny_sur_aube",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champigny-sur-Aube", "metric_roundness": 51.62, "metric_rectangularity": 77.18, "metric_mobile_fit": 79.54, "metric_aspect_ratio": 0.767, "metric_area_km2": 15.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0858309, 48.5679832 ], [ 4.0909448, 48.575683099999985 ], [ 4.0675005, 48.587833 ], [ 4.0632157, 48.5809113 ], [ 4.0638531, 48.5740306 ], [ 4.0499865, 48.5576065 ], [ 4.0647262, 48.5556498 ], [ 4.0696017, 48.5525004 ], [ 4.0817345, 48.553078499999984 ], [ 4.0882275, 48.5641325 ], [ 4.0858309, 48.5679832 ] ] ] } }
+]
+}

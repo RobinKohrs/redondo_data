@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "malavillers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malavillers", "metric_roundness": 52.83, "metric_rectangularity": 70.62, "metric_mobile_fit": 74.81, "metric_aspect_ratio": 0.814, "metric_area_km2": 10.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.864826, 49.372389 ], [ 5.8620993, 49.3635964 ], [ 5.8548208, 49.3614674 ], [ 5.847203, 49.354336 ], [ 5.8514685, 49.346684499999981 ], [ 5.853523, 49.347344 ], [ 5.854102, 49.344944 ], [ 5.859615, 49.3458525 ], [ 5.860984, 49.347745499999988 ], [ 5.864958, 49.346495499999982 ], [ 5.869032, 49.347993899999985 ], [ 5.8816775, 49.356606499999984 ], [ 5.8774409, 49.366689 ], [ 5.8678645, 49.372516 ], [ 5.864826, 49.372389 ] ] ] } }
+]
+}

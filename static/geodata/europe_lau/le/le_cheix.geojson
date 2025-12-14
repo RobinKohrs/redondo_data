@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_cheix",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Cheix", "metric_roundness": 62.7, "metric_rectangularity": 75.35, "metric_mobile_fit": 21.53, "metric_aspect_ratio": 1.347, "metric_area_km2": 9.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.179863, 45.94707 ], [ 3.1855456, 45.951607199999984 ], [ 3.1959904, 45.948752399999982 ], [ 3.1990685, 45.9563425 ], [ 3.200342, 45.959347 ], [ 3.2019785, 45.960909 ], [ 3.200926, 45.963706 ], [ 3.1808937, 45.966027399999987 ], [ 3.165648, 45.964240499999988 ], [ 3.1647326, 45.952658199999988 ], [ 3.174865, 45.9468075 ], [ 3.179863, 45.94707 ] ] ] } }
+]
+}

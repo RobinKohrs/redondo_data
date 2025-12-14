@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nahe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nahe", "metric_roundness": 41.07, "metric_rectangularity": 65.0, "metric_mobile_fit": 94.89, "metric_aspect_ratio": 0.511, "metric_area_km2": 29.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.1266161, 53.8205154 ], [ 10.1191633, 53.821554799999973 ], [ 10.113891, 53.817443 ], [ 10.1133355, 53.8030565 ], [ 10.117734, 53.7830218 ], [ 10.1143308, 53.7775269 ], [ 10.1169995, 53.774717 ], [ 10.1325885, 53.77144 ], [ 10.141655, 53.777216 ], [ 10.1517775, 53.787936 ], [ 10.1567266, 53.7932537 ], [ 10.1518407, 53.8018401 ], [ 10.136202, 53.8108535 ], [ 10.1266161, 53.8205154 ] ] ] } }
+]
+}

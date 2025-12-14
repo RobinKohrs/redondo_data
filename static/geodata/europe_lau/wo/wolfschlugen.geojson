@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wolfschlugen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wolfschlugen", "metric_roundness": 52.28, "metric_rectangularity": 68.74, "metric_mobile_fit": 1.93, "metric_aspect_ratio": 1.543, "metric_area_km2": 16.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.316828, 48.660141499999988 ], [ 9.2893504, 48.6662636 ], [ 9.270617, 48.664361 ], [ 9.2623445, 48.651147 ], [ 9.2793777, 48.6426626 ], [ 9.28552, 48.6422295 ], [ 9.2928482, 48.647877899999983 ], [ 9.3094332, 48.645888 ], [ 9.3101373, 48.649555699999986 ], [ 9.3052891, 48.652674 ], [ 9.3058288, 48.655884799999981 ], [ 9.3106055, 48.6531824 ], [ 9.31849, 48.654853 ], [ 9.316828, 48.660141499999988 ] ] ] } }
+]
+}

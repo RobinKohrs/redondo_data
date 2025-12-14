@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saulxures_les_bulgneville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saulxures-lès-Bulgnéville", "metric_roundness": 41.02, "metric_rectangularity": 72.47, "metric_mobile_fit": 81.96, "metric_aspect_ratio": 0.743, "metric_area_km2": 21.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7970729, 48.1975847 ], [ 5.8060396, 48.182391699999982 ], [ 5.8177111, 48.1779316 ], [ 5.820746, 48.1682125 ], [ 5.8251315, 48.169433 ], [ 5.832883, 48.169652499999984 ], [ 5.8375815, 48.180583499999983 ], [ 5.8390924, 48.1866631 ], [ 5.829446, 48.193820799999983 ], [ 5.817837, 48.2116365 ], [ 5.7910515, 48.2097715 ], [ 5.7907015, 48.199341 ], [ 5.7970729, 48.1975847 ] ] ] } }
+]
+}

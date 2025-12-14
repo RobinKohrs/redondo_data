@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ronchi_dei_legionari",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ronchi dei Legionari", "metric_roundness": 45.85, "metric_rectangularity": 61.07, "metric_mobile_fit": 12.45, "metric_aspect_ratio": 1.438, "metric_area_km2": 35.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.5137615, 45.852814 ], [ 13.487442, 45.8396649 ], [ 13.476183, 45.8431385 ], [ 13.4730217, 45.8390966 ], [ 13.4759569, 45.8319514 ], [ 13.4729677, 45.826433099999988 ], [ 13.469066, 45.825617 ], [ 13.473758, 45.8183265 ], [ 13.4967807, 45.810147699999987 ], [ 13.505417, 45.81045 ], [ 13.5084843, 45.8205519 ], [ 13.5120195, 45.822712 ], [ 13.532945, 45.816992799999987 ], [ 13.5571235, 45.820768 ], [ 13.5137615, 45.852814 ] ] ] } }
+]
+}

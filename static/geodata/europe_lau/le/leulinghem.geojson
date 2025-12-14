@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "leulinghem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Leulinghem", "metric_roundness": 42.56, "metric_rectangularity": 61.1, "metric_mobile_fit": 71.64, "metric_aspect_ratio": 0.846, "metric_area_km2": 11.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.17183, 50.722547499999983 ], [ 2.180766, 50.72800789999998 ], [ 2.178315, 50.732851499999988 ], [ 2.180066, 50.7372762 ], [ 2.1871385, 50.7389255 ], [ 2.1889727, 50.744192899999987 ], [ 2.1856625, 50.749422499999987 ], [ 2.1666608, 50.7424089 ], [ 2.152785, 50.741219499999985 ], [ 2.1569506, 50.7257325 ], [ 2.155602, 50.722354 ], [ 2.17183, 50.722547499999983 ] ] ] } }
+]
+}

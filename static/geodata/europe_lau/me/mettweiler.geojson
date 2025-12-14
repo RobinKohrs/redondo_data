@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mettweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mettweiler", "metric_roundness": 72.41, "metric_rectangularity": 73.51, "metric_mobile_fit": 65.25, "metric_aspect_ratio": 0.91, "metric_area_km2": 12.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3335747, 49.565427399999983 ], [ 7.3343313, 49.571253099999986 ], [ 7.3408125, 49.57854 ], [ 7.3380597, 49.579316599999984 ], [ 7.3406704, 49.5826109 ], [ 7.3339299, 49.587789899999983 ], [ 7.3251383, 49.5909323 ], [ 7.3211787, 49.587816599999989 ], [ 7.3125195, 49.588938499999983 ], [ 7.3060576, 49.5837794 ], [ 7.3044338, 49.575206799999989 ], [ 7.3220205, 49.565010499999985 ], [ 7.3335747, 49.565427399999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_astra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αστρά", "metric_roundness": 43.72, "metric_rectangularity": 67.7, "metric_mobile_fit": 4.17, "metric_aspect_ratio": 1.521, "metric_area_km2": 22.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.85301, 37.90786150000001 ], [ 21.8311965, 37.9141549 ], [ 21.8266575, 37.917808499999985 ], [ 21.8149519, 37.9133464 ], [ 21.8068545, 37.8995285 ], [ 21.831213, 37.882946 ], [ 21.8473239, 37.8845597 ], [ 21.8654776, 37.881432599999982 ], [ 21.8769615, 37.8845065 ], [ 21.866096, 37.895784 ], [ 21.85301, 37.90786150000001 ] ] ] } }
+]
+}

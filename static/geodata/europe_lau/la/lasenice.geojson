@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lasenice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lásenice", "metric_roundness": 54.82, "metric_rectangularity": 67.27, "metric_mobile_fit": 77.12, "metric_aspect_ratio": 0.791, "metric_area_km2": 23.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.9501906, 49.0849897 ], [ 14.9483115, 49.0810105 ], [ 14.9491688, 49.069536299999989 ], [ 14.966106, 49.058951199999989 ], [ 14.9640058, 49.0531127 ], [ 14.9836981, 49.050475299999988 ], [ 14.9898216, 49.0589693 ], [ 14.9973135, 49.062385 ], [ 14.9938955, 49.075975 ], [ 14.9762795, 49.079210699999983 ], [ 14.9759162, 49.0876509 ], [ 14.960763, 49.0910435 ], [ 14.9501906, 49.0849897 ] ] ] } }
+]
+}

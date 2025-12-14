@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caveira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caveira", "metric_roundness": 33.13, "metric_rectangularity": 70.0, "metric_mobile_fit": -70.08, "metric_aspect_ratio": 2.263, "metric_area_km2": 5.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -31.1630966, 39.4387739 ], [ -31.1800185, 39.428826 ], [ -31.1466275, 39.424744499999981 ], [ -31.1389077, 39.4261836 ], [ -31.14457, 39.435348 ], [ -31.1630966, 39.4387739 ] ] ] } }
+]
+}

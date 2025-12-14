@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "morchies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Morchies", "metric_roundness": 46.15, "metric_rectangularity": 64.08, "metric_mobile_fit": 12.81, "metric_aspect_ratio": 1.434, "metric_area_km2": 16.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9544295, 50.123947 ], [ 2.9693568, 50.1323715 ], [ 2.9850105, 50.146085 ], [ 2.9714626, 50.1498567 ], [ 2.9589672, 50.1456296 ], [ 2.9495254, 50.1465342 ], [ 2.9408628, 50.142204699999979 ], [ 2.9335765, 50.144606 ], [ 2.9270261, 50.1372579 ], [ 2.929295, 50.1320775 ], [ 2.9544295, 50.123947 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balot", "metric_roundness": 58.13, "metric_rectangularity": 70.62, "metric_mobile_fit": 71.98, "metric_aspect_ratio": 0.843, "metric_area_km2": 34.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4319503, 47.827580899999987 ], [ 4.4205382, 47.8312716 ], [ 4.4117255, 47.8265185 ], [ 4.4178064, 47.812593199999988 ], [ 4.4163245, 47.804169499999986 ], [ 4.428341, 47.7967215 ], [ 4.459293, 47.8017315 ], [ 4.4652491, 47.817687699999986 ], [ 4.4713779, 47.821026899999978 ], [ 4.4719495, 47.824172 ], [ 4.465239, 47.843323 ], [ 4.446117, 47.844704499999985 ], [ 4.4319503, 47.827580899999987 ] ] ] } }
+]
+}

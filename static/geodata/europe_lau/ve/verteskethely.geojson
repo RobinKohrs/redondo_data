@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "verteskethely",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vérteskethely", "metric_roundness": 42.87, "metric_rectangularity": 68.96, "metric_mobile_fit": 73.17, "metric_aspect_ratio": 0.831, "metric_area_km2": 38.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0801965, 47.5064335 ], [ 18.0587182, 47.5023104 ], [ 18.0467737, 47.493877499999989 ], [ 18.065858, 47.481727 ], [ 18.076425, 47.469961 ], [ 18.0917378, 47.459539099999979 ], [ 18.1142265, 47.449359499999986 ], [ 18.1156387, 47.451815799999984 ], [ 18.1120092, 47.456826199999973 ], [ 18.1098995, 47.469903 ], [ 18.1172534, 47.478816 ], [ 18.108546, 47.493345499999982 ], [ 18.0922045, 47.5066955 ], [ 18.0801965, 47.5064335 ] ] ] } }
+]
+}

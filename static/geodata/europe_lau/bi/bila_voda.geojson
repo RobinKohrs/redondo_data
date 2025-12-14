@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bila_voda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bílá Voda", "metric_roundness": 40.49, "metric_rectangularity": 57.52, "metric_mobile_fit": 44.34, "metric_aspect_ratio": 1.119, "metric_area_km2": 37.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8914044, 50.4038575 ], [ 16.9071382, 50.411311399999988 ], [ 16.9016782, 50.419484299999986 ], [ 16.9077866, 50.429876199999974 ], [ 16.9225223, 50.4303914 ], [ 16.930119, 50.4223828 ], [ 16.950871, 50.431791 ], [ 16.9250936, 50.4392537 ], [ 16.9079245, 50.449454 ], [ 16.8820094, 50.4422596 ], [ 16.860915, 50.408081 ], [ 16.885899, 50.398241 ], [ 16.8914044, 50.4038575 ] ] ] } }
+]
+}

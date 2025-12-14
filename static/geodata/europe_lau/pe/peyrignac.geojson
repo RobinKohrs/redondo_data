@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "peyrignac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Peyrignac", "metric_roundness": 41.53, "metric_rectangularity": 58.9, "metric_mobile_fit": 86.71, "metric_aspect_ratio": 0.695, "metric_area_km2": 13.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2002173, 45.169565299999988 ], [ 1.176978, 45.1632825 ], [ 1.17436, 45.157767 ], [ 1.1819439, 45.1535391 ], [ 1.1815149, 45.146936 ], [ 1.194702, 45.141776 ], [ 1.2042925, 45.148972 ], [ 1.2119266, 45.155868 ], [ 1.211563, 45.160750899999989 ], [ 1.2079182, 45.163926599999982 ], [ 1.210986, 45.1713155 ], [ 1.2123977, 45.176732399999985 ], [ 1.209721, 45.180344 ], [ 1.2002173, 45.169565299999988 ] ] ] } }
+]
+}

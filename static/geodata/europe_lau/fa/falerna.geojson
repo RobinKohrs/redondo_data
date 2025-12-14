@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "falerna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Falerna", "metric_roundness": 35.88, "metric_rectangularity": 59.82, "metric_mobile_fit": -0.48, "metric_aspect_ratio": 1.567, "metric_area_km2": 39.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2270485, 39.019718 ], [ 16.214897, 39.016956 ], [ 16.2052973, 39.0190284 ], [ 16.1922431, 39.015271899999988 ], [ 16.1467163, 39.0141833 ], [ 16.124538, 39.004124 ], [ 16.1480875, 38.968883 ], [ 16.1616953, 38.9731437 ], [ 16.2024649, 39.0021765 ], [ 16.2202145, 39.009896 ], [ 16.2270485, 39.019718 ] ] ] } }
+]
+}

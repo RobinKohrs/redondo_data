@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lamone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lamone", "metric_roundness": 42.54, "metric_rectangularity": 67.02, "metric_mobile_fit": 97.36, "metric_aspect_ratio": 0.536, "metric_area_km2": 4.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9238662, 46.051523 ], [ 8.923237, 46.045201 ], [ 8.9268535, 46.037189499999982 ], [ 8.9275595, 46.033969499999984 ], [ 8.9333395, 46.0374825 ], [ 8.932237, 46.0396835 ], [ 8.939272, 46.039005 ], [ 8.939633, 46.042734 ], [ 8.940359, 46.046116499999982 ], [ 8.934639, 46.051438 ], [ 8.934729, 46.0556655 ], [ 8.9288255, 46.056137 ], [ 8.9238662, 46.051523 ] ] ] } }
+]
+}

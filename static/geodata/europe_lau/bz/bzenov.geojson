@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bzenov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bzenov", "metric_roundness": 30.07, "metric_rectangularity": 61.64, "metric_mobile_fit": 99.56, "metric_aspect_ratio": 0.567, "metric_area_km2": 7.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.1737765, 48.9432725 ], [ 21.1695593, 48.948039 ], [ 21.1724307, 48.957462199999988 ], [ 21.1679505, 48.965052 ], [ 21.1612418, 48.9665639 ], [ 21.157092, 48.9727495 ], [ 21.148327, 48.9725895 ], [ 21.1493364, 48.9604329 ], [ 21.1608633, 48.9488032 ], [ 21.1605905, 48.946202 ], [ 21.1737765, 48.9432725 ] ] ] } }
+]
+}

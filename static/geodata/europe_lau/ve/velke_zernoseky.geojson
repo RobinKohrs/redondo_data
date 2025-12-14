@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_zernoseky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velké Žernoseky", "metric_roundness": 39.76, "metric_rectangularity": 66.79, "metric_mobile_fit": 94.49, "metric_aspect_ratio": 0.618, "metric_area_km2": 7.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0781635, 50.532649 ], [ 14.0746695, 50.538831 ], [ 14.0715673, 50.541166199999985 ], [ 14.0746065, 50.547889 ], [ 14.064436, 50.555517 ], [ 14.0514823, 50.550514399999983 ], [ 14.051824, 50.544953 ], [ 14.0593005, 50.5411595 ], [ 14.0628075, 50.533440499999983 ], [ 14.0706833, 50.528084 ], [ 14.0765235, 50.528064 ], [ 14.0781635, 50.532649 ] ] ] } }
+]
+}

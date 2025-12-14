@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dinteville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dinteville", "metric_roundness": 45.61, "metric_rectangularity": 67.33, "metric_mobile_fit": 5.57, "metric_aspect_ratio": 1.507, "metric_area_km2": 35.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8235077, 48.055465 ], [ 4.7815405, 48.0482958 ], [ 4.760559, 48.0483112 ], [ 4.759143, 48.04057 ], [ 4.7811541, 48.038628399999986 ], [ 4.7874337, 48.0302052 ], [ 4.7872565, 48.020483399999982 ], [ 4.790162, 48.018152 ], [ 4.8062883, 48.0220154 ], [ 4.8197098, 48.0197861 ], [ 4.843228, 48.025800499999974 ], [ 4.8368857, 48.033167799999987 ], [ 4.8402056, 48.0469704 ], [ 4.8321555, 48.0539725 ], [ 4.8235077, 48.055465 ] ] ] } }
+]
+}

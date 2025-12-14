@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hencovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hencovce", "metric_roundness": 16.3, "metric_rectangularity": 58.65, "metric_mobile_fit": 81.44, "metric_aspect_ratio": 0.377, "metric_area_km2": 12.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7471172, 48.8920547 ], [ 21.7399225, 48.898557499999981 ], [ 21.7357713, 48.895807399999988 ], [ 21.737951, 48.8888225 ], [ 21.7220285, 48.879153 ], [ 21.7231954, 48.873827 ], [ 21.7143466, 48.8508802 ], [ 21.718382, 48.8413675 ], [ 21.725302, 48.845135499999984 ], [ 21.7247342, 48.8518739 ], [ 21.734701, 48.8595785 ], [ 21.7339789, 48.870818 ], [ 21.7402635, 48.877335 ], [ 21.7471172, 48.8920547 ] ] ] } }
+]
+}

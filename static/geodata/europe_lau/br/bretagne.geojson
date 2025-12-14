@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bretagne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bretagne", "metric_roundness": 72.41, "metric_rectangularity": 77.36, "metric_mobile_fit": 62.58, "metric_aspect_ratio": 0.937, "metric_area_km2": 38.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6833829, 47.0180193 ], [ 1.6671645, 47.002973499999989 ], [ 1.6664246, 46.9921775 ], [ 1.6815923, 46.9789263 ], [ 1.696428, 46.975116 ], [ 1.7006055, 46.977613 ], [ 1.7102175, 46.9818045 ], [ 1.718899, 46.987025 ], [ 1.732493, 46.988266499999988 ], [ 1.7261735, 47.000558499999983 ], [ 1.72193, 47.0151995 ], [ 1.715787, 47.023218499999984 ], [ 1.6833829, 47.0180193 ] ] ] } }
+]
+}

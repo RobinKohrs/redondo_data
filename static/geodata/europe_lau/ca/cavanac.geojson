@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cavanac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cavanac", "metric_roundness": 35.35, "metric_rectangularity": 67.47, "metric_mobile_fit": 41.81, "metric_aspect_ratio": 1.144, "metric_area_km2": 16.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3378312, 43.1757421 ], [ 2.3374919, 43.1814432 ], [ 2.3238098, 43.1875823 ], [ 2.3201546, 43.1821193 ], [ 2.3091102, 43.181822299999986 ], [ 2.3073605, 43.175777 ], [ 2.3132005, 43.1682166 ], [ 2.3368925, 43.1573345 ], [ 2.3637375, 43.151654 ], [ 2.3606925, 43.165706 ], [ 2.3567525, 43.166740499999982 ], [ 2.354605, 43.169076 ], [ 2.345007, 43.171063 ], [ 2.3378312, 43.1757421 ] ] ] } }
+]
+}

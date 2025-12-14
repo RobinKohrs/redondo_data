@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prestavlky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Přestavlky", "metric_roundness": 45.56, "metric_rectangularity": 65.52, "metric_mobile_fit": 3.83, "metric_aspect_ratio": 1.524, "metric_area_km2": 8.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.4753495, 49.385148 ], [ 17.4833682, 49.3867043 ], [ 17.499505, 49.3984765 ], [ 17.4886096, 49.4028412 ], [ 17.4709855, 49.397490599999983 ], [ 17.4613485, 49.3986285 ], [ 17.4580705, 49.391424 ], [ 17.459828, 49.390248 ], [ 17.4620895, 49.387904 ], [ 17.4753495, 49.385148 ] ] ] } }
+]
+}

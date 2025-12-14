@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_mames_de_burgos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Mamés de Burgos", "metric_roundness": 62.24, "metric_rectangularity": 71.25, "metric_mobile_fit": 34.36, "metric_aspect_ratio": 1.219, "metric_area_km2": 9.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.8053967, 42.3220017 ], [ -3.7842, 42.322502 ], [ -3.7819612, 42.327078 ], [ -3.7847122, 42.335365499999988 ], [ -3.7903272, 42.3421696 ], [ -3.798115, 42.344956 ], [ -3.8198085, 42.329252499999988 ], [ -3.8053967, 42.3220017 ] ] ] } }
+]
+}

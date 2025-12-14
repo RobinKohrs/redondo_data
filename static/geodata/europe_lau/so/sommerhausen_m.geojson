@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sommerhausen_m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sommerhausen, M", "metric_roundness": 57.06, "metric_rectangularity": 76.51, "metric_mobile_fit": 70.65, "metric_aspect_ratio": 0.856, "metric_area_km2": 17.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.0231435, 49.689484499999985 ], [ 10.0356973, 49.6811156 ], [ 10.0477366, 49.688258899999987 ], [ 10.052513, 49.689175699999986 ], [ 10.0553516, 49.6859005 ], [ 10.061147, 49.689271799999986 ], [ 10.0560609, 49.6954967 ], [ 10.0538321, 49.704585699999988 ], [ 10.0569386, 49.713157599999981 ], [ 10.0333235, 49.710588 ], [ 10.0187415, 49.710671 ], [ 10.0231435, 49.689484499999985 ] ] ] } }
+]
+}

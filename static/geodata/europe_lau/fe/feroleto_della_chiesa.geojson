@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "feroleto_della_chiesa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Feroleto della Chiesa", "metric_roundness": 31.58, "metric_rectangularity": 63.11, "metric_mobile_fit": -78.56, "metric_aspect_ratio": 2.348, "metric_area_km2": 11.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.0314995, 38.47489 ], [ 16.0361315, 38.4709175 ], [ 16.0411629, 38.4703608 ], [ 16.055523, 38.459543499999988 ], [ 16.0774288, 38.4611352 ], [ 16.088829, 38.461963499999989 ], [ 16.093122, 38.4716345 ], [ 16.0774288, 38.4780191 ], [ 16.0723365, 38.4800908 ], [ 16.0610371, 38.4731429 ], [ 16.0443471, 38.4769272 ], [ 16.033042, 38.4761375 ], [ 16.0314995, 38.47489 ] ] ] } }
+]
+}

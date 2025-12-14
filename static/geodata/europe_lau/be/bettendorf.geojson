@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bettendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bettendorf", "metric_roundness": 68.88, "metric_rectangularity": 75.63, "metric_mobile_fit": 64.91, "metric_aspect_ratio": 0.913, "metric_area_km2": 7.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8765265, 50.244024 ], [ 7.8718915, 50.242297 ], [ 7.8685415, 50.2424545 ], [ 7.8636495, 50.2407985 ], [ 7.861322, 50.240010499999975 ], [ 7.8625572, 50.236951499999989 ], [ 7.8583276, 50.2286225 ], [ 7.8636084, 50.224107099999983 ], [ 7.8792485, 50.223653499999983 ], [ 7.8874145, 50.228688 ], [ 7.8765265, 50.244024 ] ] ] } }
+]
+}

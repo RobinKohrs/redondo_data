@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baarle_hertog",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baarle-Hertog", "metric_roundness": 42.77, "metric_rectangularity": 67.85, "metric_mobile_fit": 19.2, "metric_aspect_ratio": 1.37, "metric_area_km2": 11.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8835555, 51.400856 ], [ 4.8961538, 51.400341499999982 ], [ 4.9049725, 51.39357 ], [ 4.9141055, 51.395024 ], [ 4.9167123, 51.400184099999983 ], [ 4.899839, 51.4140082 ], [ 4.8836685, 51.4160117 ], [ 4.8697318, 51.4130955 ], [ 4.867409, 51.409119 ], [ 4.8835555, 51.400856 ] ] ] } }
+]
+}

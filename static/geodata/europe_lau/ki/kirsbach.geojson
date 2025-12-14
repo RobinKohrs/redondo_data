@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kirsbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kirsbach", "metric_roundness": 39.61, "metric_rectangularity": 57.41, "metric_mobile_fit": 3.46, "metric_aspect_ratio": 1.528, "metric_area_km2": 8.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.018021, 50.330337 ], [ 7.0186881, 50.3328643 ], [ 7.0102385, 50.3318665 ], [ 6.9936833, 50.3297905 ], [ 6.9773615, 50.338302499999976 ], [ 6.978303, 50.3320155 ], [ 6.9739035, 50.330918 ], [ 6.972617, 50.32856349999998 ], [ 6.9911835, 50.319053 ], [ 7.0048028, 50.319924799999974 ], [ 7.0146875, 50.326516 ], [ 7.018021, 50.330337 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "angeduc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Angeduc", "metric_roundness": 51.29, "metric_rectangularity": 89.12, "metric_mobile_fit": 80.81, "metric_aspect_ratio": 0.754, "metric_area_km2": 6.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0572535, 45.4678105 ], [ -0.0542685, 45.466794 ], [ -0.050827, 45.4670925 ], [ -0.0468615, 45.468572499999986 ], [ -0.042453, 45.468666 ], [ -0.0506712, 45.4878267 ], [ -0.0565494, 45.490012 ], [ -0.0674335, 45.4871675 ], [ -0.0609775, 45.468135 ], [ -0.0572535, 45.4678105 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "petit_tenquin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Petit-Tenquin", "metric_roundness": 47.69, "metric_rectangularity": 69.54, "metric_mobile_fit": -2.65, "metric_aspect_ratio": 1.589, "metric_area_km2": 11.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.880526, 48.998166 ], [ 6.870309, 48.998033 ], [ 6.8608659, 48.997153399999988 ], [ 6.8461434, 48.989338 ], [ 6.8522125, 48.981139499999983 ], [ 6.857611, 48.978135 ], [ 6.8731712, 48.9789356 ], [ 6.8762999, 48.984553499999983 ], [ 6.8902799, 48.984252099999985 ], [ 6.894648, 48.98129849999998 ], [ 6.8916545, 48.987363 ], [ 6.880526, 48.998166 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "daya_nueva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Daya Nueva", "metric_roundness": 51.28, "metric_rectangularity": 72.12, "metric_mobile_fit": 47.52, "metric_aspect_ratio": 1.087, "metric_area_km2": 11.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7531545, 38.0980185 ], [ -0.7492105, 38.097996 ], [ -0.742811, 38.106983 ], [ -0.742062, 38.1101495 ], [ -0.7522085, 38.1177065 ], [ -0.7628685, 38.121254 ], [ -0.7803915, 38.1257325 ], [ -0.7767285, 38.1146145 ], [ -0.7779858, 38.1013869 ], [ -0.761791, 38.098228499999983 ], [ -0.7531545, 38.0980185 ] ] ] } }
+]
+}

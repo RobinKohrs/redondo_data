@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zimmerbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zimmerbach", "metric_roundness": 30.68, "metric_rectangularity": 54.69, "metric_mobile_fit": -64.58, "metric_aspect_ratio": 2.208, "metric_area_km2": 5.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2430337, 48.079209499999983 ], [ 7.214752, 48.0795627 ], [ 7.206958, 48.076837499999989 ], [ 7.2318068, 48.0691079 ], [ 7.234017, 48.066519499999984 ], [ 7.250064, 48.074271499999966 ], [ 7.2430337, 48.079209499999983 ] ] ] } }
+]
+}

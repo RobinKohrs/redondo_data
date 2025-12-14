@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hilkenbrook",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hilkenbrook", "metric_roundness": 40.64, "metric_rectangularity": 53.97, "metric_mobile_fit": 86.36, "metric_aspect_ratio": 0.699, "metric_area_km2": 30.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7174088, 52.968293 ], [ 7.7225082, 52.9739425 ], [ 7.7166825, 52.998743499999989 ], [ 7.712155, 53.002392099999987 ], [ 7.712429, 53.015632 ], [ 7.6938229, 53.00511519999997 ], [ 7.6820269, 53.002205599999975 ], [ 7.6617005, 52.987757 ], [ 7.6857177, 52.977158599999989 ], [ 7.6955779, 52.979816199999981 ], [ 7.7130498, 52.963261 ], [ 7.719435, 52.965959 ], [ 7.7174088, 52.968293 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prechovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Přechovice", "metric_roundness": 38.74, "metric_rectangularity": 66.94, "metric_mobile_fit": 15.85, "metric_aspect_ratio": 1.404, "metric_area_km2": 8.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.8901629, 49.190919099999974 ], [ 13.8881175, 49.1846425 ], [ 13.891421, 49.176772399999983 ], [ 13.911549, 49.17166 ], [ 13.9272002, 49.170808099999981 ], [ 13.932014, 49.17481 ], [ 13.9192108, 49.1797459 ], [ 13.9143955, 49.184895 ], [ 13.9037179, 49.185889599999982 ], [ 13.897103, 49.191245 ], [ 13.8901629, 49.190919099999974 ] ] ] } }
+]
+}

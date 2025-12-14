@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_thillay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Thillay", "metric_roundness": 37.84, "metric_rectangularity": 57.95, "metric_mobile_fit": -12.3, "metric_aspect_ratio": 1.685, "metric_area_km2": 8.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4458414, 49.005304699999982 ], [ 2.4636745, 49.0012129 ], [ 2.4667321, 48.995369 ], [ 2.4775215, 48.994002599999988 ], [ 2.483499, 48.9992475 ], [ 2.4840275, 49.000970099999989 ], [ 2.488119, 49.0022005 ], [ 2.4911335, 49.010046 ], [ 2.466556, 49.0091317 ], [ 2.443233, 49.0126465 ], [ 2.4458414, 49.005304699999982 ] ] ] } }
+]
+}

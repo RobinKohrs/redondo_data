@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "capoulet_et_junac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Capoulet-et-Junac", "metric_roundness": 29.72, "metric_rectangularity": 69.16, "metric_mobile_fit": 34.32, "metric_aspect_ratio": 1.219, "metric_area_km2": 4.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.578113, 42.7856715 ], [ 1.5806465, 42.7877195 ], [ 1.5848485, 42.789051 ], [ 1.5862725, 42.79207 ], [ 1.5897945, 42.794169499999981 ], [ 1.5899445, 42.79673 ], [ 1.5893705, 42.798712 ], [ 1.589968, 42.800557 ], [ 1.591171, 42.801922 ], [ 1.58808, 42.8019585 ], [ 1.5852935, 42.802644 ], [ 1.557584, 42.785217499999987 ], [ 1.5626665, 42.785824499999983 ], [ 1.5708145, 42.7824305 ], [ 1.578113, 42.7856715 ] ] ] } }
+]
+}

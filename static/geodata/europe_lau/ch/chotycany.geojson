@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chotycany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chotýčany", "metric_roundness": 66.96, "metric_rectangularity": 75.87, "metric_mobile_fit": 68.35, "metric_aspect_ratio": 0.879, "metric_area_km2": 12.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5087905, 49.0729373 ], [ 14.5080551, 49.0587014 ], [ 14.513755, 49.0559345 ], [ 14.5206093, 49.055372299999988 ], [ 14.5241597, 49.058647900000011 ], [ 14.5368197, 49.061069099999983 ], [ 14.5386724, 49.0694497 ], [ 14.5436415, 49.074306 ], [ 14.5226506, 49.0818969 ], [ 14.513261, 49.080894499999985 ], [ 14.5087905, 49.0729373 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "duppigheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Duppigheim", "metric_roundness": 44.86, "metric_rectangularity": 75.41, "metric_mobile_fit": 96.17, "metric_aspect_ratio": 0.601, "metric_area_km2": 16.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5839999, 48.538429899999983 ], [ 7.5835196, 48.527789 ], [ 7.589224, 48.513487 ], [ 7.5941952, 48.5125507 ], [ 7.610545, 48.521234 ], [ 7.6132053, 48.527779 ], [ 7.605966, 48.5422235 ], [ 7.6058612, 48.549264699999981 ], [ 7.602332, 48.553386499999988 ], [ 7.5953677, 48.5503984 ], [ 7.5870985, 48.5519735 ], [ 7.5827143, 48.5460236 ], [ 7.5761545, 48.544639 ], [ 7.5839999, 48.538429899999983 ] ] ] } }
+]
+}

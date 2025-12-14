@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ferschweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ferschweiler", "metric_roundness": 40.44, "metric_rectangularity": 51.26, "metric_mobile_fit": 60.32, "metric_aspect_ratio": 0.959, "metric_area_km2": 18.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.374182, 49.8743285 ], [ 6.3976561, 49.858639 ], [ 6.3902637, 49.8496027 ], [ 6.391734, 49.841229 ], [ 6.4071271, 49.8505119 ], [ 6.4254166, 49.8576102 ], [ 6.433687, 49.858091 ], [ 6.4342845, 49.858437 ], [ 6.4206462, 49.863993099999988 ], [ 6.4155195, 49.8719375 ], [ 6.3855695, 49.881616499999986 ], [ 6.381614, 49.879310499999988 ], [ 6.374182, 49.8743285 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_phidakion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Φιδακίων", "metric_roundness": 56.53, "metric_rectangularity": 87.99, "metric_mobile_fit": 53.88, "metric_aspect_ratio": 1.024, "metric_area_km2": 20.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.638258, 38.8939525 ], [ 21.6317475, 38.8749195 ], [ 21.6367371, 38.870118399999981 ], [ 21.6365195, 38.863654 ], [ 21.67657, 38.857168 ], [ 21.676447, 38.874232499999984 ], [ 21.6801185, 38.886788 ], [ 21.638258, 38.8939525 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chigny", "metric_roundness": 53.42, "metric_rectangularity": 67.43, "metric_mobile_fit": 83.56, "metric_aspect_ratio": 0.727, "metric_area_km2": 1.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4827271, 46.514378 ], [ 6.480578, 46.520849 ], [ 6.4726746, 46.520785499999988 ], [ 6.4704605, 46.513818 ], [ 6.474308, 46.5092355 ], [ 6.4765525, 46.511252 ], [ 6.4827271, 46.514378 ] ] ] } }
+]
+}

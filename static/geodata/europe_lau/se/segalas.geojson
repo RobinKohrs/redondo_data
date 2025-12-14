@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "segalas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ségalas", "metric_roundness": 53.76, "metric_rectangularity": 64.85, "metric_mobile_fit": 31.2, "metric_aspect_ratio": 1.25, "metric_area_km2": 25.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5460267, 44.6026395 ], [ 0.5296292, 44.6018105 ], [ 0.5109723, 44.6068271 ], [ 0.5033185, 44.6062365 ], [ 0.5104827, 44.585240299999981 ], [ 0.5051105, 44.578219 ], [ 0.5137382, 44.5742979 ], [ 0.5198463, 44.575239700000012 ], [ 0.5246175, 44.5704735 ], [ 0.5451076, 44.5768595 ], [ 0.5526735, 44.5837875 ], [ 0.5620991, 44.5869195 ], [ 0.567151, 44.596517 ], [ 0.566831, 44.596691 ], [ 0.5460267, 44.6026395 ] ] ] } }
+]
+}

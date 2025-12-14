@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blienschwiller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Blienschwiller", "metric_roundness": 24.61, "metric_rectangularity": 65.27, "metric_mobile_fit": -98.3, "metric_aspect_ratio": 2.545, "metric_area_km2": 6.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4323211, 48.3489778 ], [ 7.4194, 48.3481389 ], [ 7.390644, 48.352569 ], [ 7.390803, 48.349569 ], [ 7.387204, 48.346698 ], [ 7.389444, 48.346098 ], [ 7.3939571, 48.3465862 ], [ 7.4081702, 48.3402935 ], [ 7.439739, 48.3386645 ], [ 7.4291885, 48.341475499999987 ], [ 7.428402, 48.343672 ], [ 7.4384015, 48.344212 ], [ 7.4404565, 48.345879499999988 ], [ 7.4323211, 48.3489778 ] ] ] } }
+]
+}

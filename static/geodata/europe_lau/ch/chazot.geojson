@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chazot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chazot", "metric_roundness": 27.67, "metric_rectangularity": 37.9, "metric_mobile_fit": 85.99, "metric_aspect_ratio": 0.703, "metric_area_km2": 11.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5139193, 47.323025099999988 ], [ 6.5174895, 47.320298 ], [ 6.5372764, 47.317099 ], [ 6.54278, 47.3125795 ], [ 6.5569115, 47.317919 ], [ 6.548796, 47.322397599999988 ], [ 6.5426343, 47.3365864 ], [ 6.5470209, 47.340157299999987 ], [ 6.5563463, 47.3411533 ], [ 6.55546, 47.354049499999981 ], [ 6.5320186, 47.331285 ], [ 6.515861, 47.3265725 ], [ 6.5139193, 47.323025099999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "camerata_cornello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Camerata Cornello", "metric_roundness": 62.08, "metric_rectangularity": 71.31, "metric_mobile_fit": 73.66, "metric_aspect_ratio": 0.826, "metric_area_km2": 26.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6149329, 45.9254845 ], [ 9.6178625, 45.916902499999985 ], [ 9.6203221, 45.911187 ], [ 9.6381392, 45.8975983 ], [ 9.6524346, 45.892637699999987 ], [ 9.6562124, 45.893969299999988 ], [ 9.6614532, 45.9070707 ], [ 9.666887, 45.911281 ], [ 9.6666968, 45.91778859999998 ], [ 9.6580015, 45.920944 ], [ 9.6566248, 45.932034199999983 ], [ 9.6501765, 45.9355615 ], [ 9.6435516, 45.9333801 ], [ 9.6327105, 45.936402 ], [ 9.616264, 45.929737 ], [ 9.6149329, 45.9254845 ] ] ] } }
+]
+}

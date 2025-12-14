@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fisch",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fisch", "metric_roundness": 52.42, "metric_rectangularity": 78.71, "metric_mobile_fit": 13.86, "metric_aspect_ratio": 1.424, "metric_area_km2": 16.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4731565, 49.622035699999977 ], [ 6.4760454, 49.6162384 ], [ 6.468389, 49.6076895 ], [ 6.5046545, 49.604119499999989 ], [ 6.5213468, 49.616031399999976 ], [ 6.5206725, 49.621385 ], [ 6.4822655, 49.628217 ], [ 6.4731565, 49.622035699999977 ] ] ] } }
+]
+}

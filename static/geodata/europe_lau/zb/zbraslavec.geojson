@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zbraslavec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zbraslavec", "metric_roundness": 33.87, "metric_rectangularity": 56.75, "metric_mobile_fit": 32.25, "metric_aspect_ratio": 1.24, "metric_area_km2": 5.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5207656, 49.484482899999982 ], [ 16.5235458, 49.475767499999982 ], [ 16.541072, 49.4766535 ], [ 16.5388974, 49.485080299999986 ], [ 16.5340812, 49.483631299999985 ], [ 16.5329406, 49.490924299999989 ], [ 16.5078782, 49.493157599999989 ], [ 16.5099676, 49.4890775 ], [ 16.5164826, 49.4875094 ], [ 16.5158455, 49.4852695 ], [ 16.5207656, 49.484482899999982 ] ] ] } }
+]
+}

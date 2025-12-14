@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ueberstrass",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ueberstrass", "metric_roundness": 37.29, "metric_rectangularity": 76.66, "metric_mobile_fit": 46.41, "metric_aspect_ratio": 1.098, "metric_area_km2": 11.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1472455, 47.532607 ], [ 7.156656, 47.538073 ], [ 7.1620725, 47.545153 ], [ 7.1696895, 47.549696 ], [ 7.176201, 47.5546965 ], [ 7.1756255, 47.5578745 ], [ 7.15441, 47.5580783 ], [ 7.131571, 47.540285 ], [ 7.1327795, 47.53965 ], [ 7.1378875, 47.5306515 ], [ 7.1472455, 47.532607 ] ] ] } }
+]
+}

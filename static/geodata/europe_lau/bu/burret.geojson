@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "burret",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Burret", "metric_roundness": 35.31, "metric_rectangularity": 54.03, "metric_mobile_fit": 97.76, "metric_aspect_ratio": 0.585, "metric_area_km2": 9.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4880776, 42.951893399999989 ], [ 1.4855546, 42.9578129 ], [ 1.4707482, 42.962431499999987 ], [ 1.4626425, 42.9704775 ], [ 1.4590685, 42.9641505 ], [ 1.4583666, 42.9582717 ], [ 1.4685529, 42.9484254 ], [ 1.465898, 42.9435639 ], [ 1.4664091, 42.935844499999988 ], [ 1.470901, 42.933295199999982 ], [ 1.480503, 42.9392435 ], [ 1.482992, 42.9494865 ], [ 1.4880776, 42.951893399999989 ] ] ] } }
+]
+}

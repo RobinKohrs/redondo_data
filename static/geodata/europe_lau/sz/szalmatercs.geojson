@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szalmatercs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szalmatercs", "metric_roundness": 24.65, "metric_rectangularity": 59.74, "metric_mobile_fit": 91.03, "metric_aspect_ratio": 0.652, "metric_area_km2": 16.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.6090935, 48.1124786 ], [ 19.6074485, 48.100269499999989 ], [ 19.6284867, 48.1127672 ], [ 19.6349305, 48.119765 ], [ 19.643486, 48.120393299999989 ], [ 19.6511877, 48.1325649 ], [ 19.6526435, 48.1465255 ], [ 19.6304585, 48.1460065 ], [ 19.6291929, 48.1354806 ], [ 19.6232975, 48.1242282 ], [ 19.615046, 48.122224 ], [ 19.6090935, 48.1124786 ] ] ] } }
+]
+}

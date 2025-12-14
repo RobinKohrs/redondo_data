@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "airoux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Airoux", "metric_roundness": 55.84, "metric_rectangularity": 77.88, "metric_mobile_fit": 65.19, "metric_aspect_ratio": 0.911, "metric_area_km2": 10.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8844576, 43.3531599 ], [ 1.8919495, 43.363616 ], [ 1.8901336, 43.3691628 ], [ 1.8704325, 43.3810265 ], [ 1.8611361, 43.3806343 ], [ 1.8553555, 43.374010499999983 ], [ 1.8645025, 43.3627885 ], [ 1.866545, 43.361531 ], [ 1.873637, 43.354184 ], [ 1.8777815, 43.3518115 ], [ 1.8804385, 43.352182 ], [ 1.8844576, 43.3531599 ] ] ] } }
+]
+}

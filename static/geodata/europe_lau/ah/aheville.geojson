@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aheville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ahéville", "metric_roundness": 50.08, "metric_rectangularity": 71.43, "metric_mobile_fit": 73.83, "metric_aspect_ratio": 0.824, "metric_area_km2": 13.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.215136, 48.2979755 ], [ 6.2052087, 48.296064 ], [ 6.1982655, 48.298062 ], [ 6.1828943, 48.2922195 ], [ 6.1868312, 48.28014049999998 ], [ 6.183383, 48.272868 ], [ 6.1853005, 48.269600499999989 ], [ 6.213941, 48.277265499999984 ], [ 6.2156425, 48.27838 ], [ 6.217458, 48.278311 ], [ 6.2181446, 48.2839129 ], [ 6.2133692, 48.289419599999988 ], [ 6.2160775, 48.295379499999989 ], [ 6.215136, 48.2979755 ] ] ] } }
+]
+}

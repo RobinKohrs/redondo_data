@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "quintanilla_de_urz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Quintanilla de Urz", "metric_roundness": 48.31, "metric_rectangularity": 70.63, "metric_mobile_fit": 66.62, "metric_aspect_ratio": 0.896, "metric_area_km2": 18.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.8330315, 42.052322499999988 ], [ -5.835461, 42.053974 ], [ -5.838018, 42.056583499999967 ], [ -5.844503, 42.061394 ], [ -5.8587932, 42.048309 ], [ -5.8627414, 42.037906299999989 ], [ -5.8585496, 42.0299935 ], [ -5.8688295, 42.021103 ], [ -5.8482841, 42.0191 ], [ -5.8177875, 42.042351 ], [ -5.8214965, 42.0439875 ], [ -5.823239, 42.045414 ], [ -5.8255885, 42.046356 ], [ -5.831543, 42.050369499999981 ], [ -5.8330315, 42.052322499999988 ] ] ] } }
+]
+}

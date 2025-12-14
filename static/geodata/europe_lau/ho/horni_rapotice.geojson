@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "horni_rapotice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Horní Rápotice", "metric_roundness": 46.03, "metric_rectangularity": 62.22, "metric_mobile_fit": 88.02, "metric_aspect_ratio": 0.682, "metric_area_km2": 9.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3147972, 49.5706306 ], [ 15.335234, 49.563924499999985 ], [ 15.3391024, 49.574878299999988 ], [ 15.3314336, 49.58459329999998 ], [ 15.333817, 49.590832 ], [ 15.327999, 49.592937 ], [ 15.3085745, 49.576536499999975 ], [ 15.3147972, 49.5706306 ] ] ] } }
+]
+}

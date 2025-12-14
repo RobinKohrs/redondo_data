@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "semezanges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Semezanges", "metric_roundness": 32.96, "metric_rectangularity": 69.28, "metric_mobile_fit": -108.97, "metric_aspect_ratio": 2.652, "metric_area_km2": 17.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8856708, 47.216617699999979 ], [ 4.8744295, 47.2251305 ], [ 4.8437879, 47.220734299999982 ], [ 4.8171495, 47.223541 ], [ 4.814533, 47.216982 ], [ 4.812095, 47.214244 ], [ 4.8358951, 47.207227499999981 ], [ 4.8472121, 47.209984899999988 ], [ 4.8693203, 47.2062877 ], [ 4.8834105, 47.208417 ], [ 4.8856708, 47.216617699999979 ] ] ] } }
+]
+}

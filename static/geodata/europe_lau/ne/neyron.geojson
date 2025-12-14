@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neyron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neyron", "metric_roundness": 45.22, "metric_rectangularity": 57.67, "metric_mobile_fit": 82.54, "metric_aspect_ratio": 0.737, "metric_area_km2": 10.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.930814, 45.8050595 ], [ 4.9437685, 45.809531 ], [ 4.9515185, 45.808766 ], [ 4.951841, 45.8128161 ], [ 4.944873, 45.8132881 ], [ 4.9376694, 45.8230731 ], [ 4.9339144, 45.835054299999982 ], [ 4.9267054, 45.83605559999998 ], [ 4.9211105, 45.832738 ], [ 4.9211108, 45.8193236 ], [ 4.9179305, 45.810185 ], [ 4.9237975, 45.803995 ], [ 4.930814, 45.8050595 ] ] ] } }
+]
+}

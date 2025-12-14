@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "herschbach_oberwesterwald",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Herschbach (Oberwesterwald)", "metric_roundness": 65.94, "metric_rectangularity": 73.58, "metric_mobile_fit": 50.96, "metric_aspect_ratio": 1.053, "metric_area_km2": 11.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9335308, 50.5008318 ], [ 7.9468515, 50.506247 ], [ 7.944499, 50.514955 ], [ 7.941448, 50.5162645 ], [ 7.9383815, 50.516313499999981 ], [ 7.939529, 50.5183105 ], [ 7.9372035, 50.518232 ], [ 7.9231359, 50.5194979 ], [ 7.9109245, 50.5169425 ], [ 7.9087765, 50.5172275 ], [ 7.9079185, 50.5151285 ], [ 7.9086709, 50.509445599999978 ], [ 7.9265885, 50.496298 ], [ 7.9285115, 50.495981 ], [ 7.931901, 50.497227 ], [ 7.9335308, 50.5008318 ] ] ] } }
+]
+}

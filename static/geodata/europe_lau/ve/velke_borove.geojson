@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_borove",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Veľké Borové", "metric_roundness": 49.16, "metric_rectangularity": 73.05, "metric_mobile_fit": 77.23, "metric_aspect_ratio": 0.79, "metric_area_km2": 25.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.53334, 49.2175773 ], [ 19.522135, 49.218120499999984 ], [ 19.5087096, 49.206359899999981 ], [ 19.491533, 49.197352499999987 ], [ 19.5006992, 49.1886546 ], [ 19.4938347, 49.1829335 ], [ 19.4961629, 49.176821 ], [ 19.5087096, 49.1734961 ], [ 19.5134465, 49.174986 ], [ 19.5213619, 49.1842745 ], [ 19.5350796, 49.190996399999989 ], [ 19.54156, 49.2038335 ], [ 19.545496, 49.209956 ], [ 19.53334, 49.2175773 ] ] ] } }
+]
+}

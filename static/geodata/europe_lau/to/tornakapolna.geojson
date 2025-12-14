@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tornakapolna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tornakápolna", "metric_roundness": 55.84, "metric_rectangularity": 67.4, "metric_mobile_fit": 43.72, "metric_aspect_ratio": 1.125, "metric_area_km2": 8.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.630733, 48.4780175 ], [ 20.6252948, 48.474956599999985 ], [ 20.6110291, 48.4785742 ], [ 20.6050155, 48.476859 ], [ 20.5959774, 48.470127799999986 ], [ 20.5951418, 48.46627789999998 ], [ 20.612679, 48.457603 ], [ 20.6204448, 48.4593528 ], [ 20.6240117, 48.467002499999985 ], [ 20.62968, 48.470818 ], [ 20.630733, 48.4780175 ] ] ] } }
+]
+}

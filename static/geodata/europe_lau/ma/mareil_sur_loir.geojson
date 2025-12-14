@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mareil_sur_loir",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mareil-sur-Loir", "metric_roundness": 47.67, "metric_rectangularity": 67.75, "metric_mobile_fit": 93.53, "metric_aspect_ratio": 0.627, "metric_area_km2": 26.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.001029, 47.701655 ], [ 0.0020295, 47.700321 ], [ 0.0083455, 47.6991435 ], [ 0.02051, 47.698351 ], [ 0.02356, 47.699048499999968 ], [ 0.0219169, 47.7088514 ], [ 0.0299655, 47.7245885 ], [ 0.0219527, 47.7312849 ], [ 0.0200672, 47.7447285 ], [ 0.016133, 47.748113 ], [ 0.0113947, 47.743212 ], [ 0.0028684, 47.7412341 ], [ -0.0155195, 47.716501099999967 ], [ -0.0164304, 47.7112542 ], [ -0.0103945, 47.7024565 ], [ -0.001029, 47.701655 ] ] ] } }
+]
+}

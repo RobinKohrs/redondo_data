@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "isola_del_liri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Isola del Liri", "metric_roundness": 31.49, "metric_rectangularity": 44.06, "metric_mobile_fit": 50.86, "metric_aspect_ratio": 1.054, "metric_area_km2": 28.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.5903567, 41.6965739 ], [ 13.5760523, 41.695863399999986 ], [ 13.5606286, 41.6998556 ], [ 13.5380786, 41.7169317 ], [ 13.520987, 41.718979 ], [ 13.5293383, 41.7113103 ], [ 13.5379448, 41.7079119 ], [ 13.5464953, 41.6893509 ], [ 13.5560427, 41.6799126 ], [ 13.5577225, 41.659333 ], [ 13.5883268, 41.671350499999981 ], [ 13.6034654, 41.6827216 ], [ 13.605166, 41.6898295 ], [ 13.5903567, 41.6965739 ] ] ] } }
+]
+}

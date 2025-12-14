@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montesilvano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montesilvano", "metric_roundness": 55.84, "metric_rectangularity": 74.65, "metric_mobile_fit": 54.63, "metric_aspect_ratio": 1.016, "metric_area_km2": 43.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.1537903, 42.4797 ], [ 14.1571652, 42.4856988 ], [ 14.1756169, 42.4930662 ], [ 14.18616, 42.49388949999998 ], [ 14.151598, 42.5268285 ], [ 14.134186, 42.5121987 ], [ 14.1245982, 42.5079105 ], [ 14.1117182, 42.496021699999986 ], [ 14.1068311, 42.486337599999977 ], [ 14.1005935, 42.484571 ], [ 14.1104891, 42.4790801 ], [ 14.123333, 42.4647465 ], [ 14.1548315, 42.468499 ], [ 14.1537903, 42.4797 ] ] ] } }
+]
+}

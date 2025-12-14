@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courlans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courlans", "metric_roundness": 35.65, "metric_rectangularity": 47.51, "metric_mobile_fit": 16.54, "metric_aspect_ratio": 1.397, "metric_area_km2": 12.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5113485, 46.6765645 ], [ 5.48294, 46.689335 ], [ 5.4764077, 46.680940899999989 ], [ 5.4688951, 46.682119299999982 ], [ 5.461839, 46.6872185 ], [ 5.45625, 46.688221 ], [ 5.4743621, 46.672838499999983 ], [ 5.4745176, 46.6624632 ], [ 5.4797975, 46.662275 ], [ 5.4910087, 46.6677448 ], [ 5.5030544, 46.6687436 ], [ 5.50695, 46.666536499999985 ], [ 5.5113485, 46.6765645 ] ] ] } }
+]
+}

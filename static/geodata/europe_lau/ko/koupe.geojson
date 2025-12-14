@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koupe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Koupě", "metric_roundness": 46.07, "metric_rectangularity": 82.13, "metric_mobile_fit": 0.65, "metric_aspect_ratio": 1.556, "metric_area_km2": 17.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9378788, 49.505946 ], [ 13.9389345, 49.5141305 ], [ 13.932362, 49.51998 ], [ 13.9026339, 49.526187499999978 ], [ 13.881295, 49.5228345 ], [ 13.8794165, 49.5181171 ], [ 13.8827269, 49.513203899999986 ], [ 13.8962745, 49.5139451 ], [ 13.8971534, 49.5084929 ], [ 13.9318935, 49.501353 ], [ 13.9378788, 49.505946 ] ] ] } }
+]
+}

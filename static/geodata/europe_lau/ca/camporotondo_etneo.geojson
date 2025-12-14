@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "camporotondo_etneo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Camporotondo Etneo", "metric_roundness": 30.4, "metric_rectangularity": 51.8, "metric_mobile_fit": 93.89, "metric_aspect_ratio": 0.624, "metric_area_km2": 10.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.9883425, 37.533518499999985 ], [ 14.9899615, 37.5324285 ], [ 15.021727, 37.549733 ], [ 15.0119411, 37.5610124 ], [ 15.0101805, 37.57726 ], [ 15.0014917, 37.5685249 ], [ 14.9877273, 37.5418338 ], [ 14.986463, 37.534276 ], [ 14.9883425, 37.533518499999985 ] ] ] } }
+]
+}

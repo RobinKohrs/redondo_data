@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kastrakiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καστρακίου", "metric_roundness": 40.73, "metric_rectangularity": 73.62, "metric_mobile_fit": 91.82, "metric_aspect_ratio": 0.644, "metric_area_km2": 39.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3229508, 38.7515323 ], [ 21.3284675, 38.735781 ], [ 21.339018, 38.7266 ], [ 21.350617, 38.737935899999989 ], [ 21.358065, 38.7386535 ], [ 21.364613, 38.743433499999981 ], [ 21.364138, 38.758966 ], [ 21.3553963, 38.759240399999989 ], [ 21.3510071, 38.7624419 ], [ 21.344079, 38.7808829 ], [ 21.341791, 38.801676 ], [ 21.3025815, 38.7986515 ], [ 21.305358, 38.783706 ], [ 21.3229508, 38.7515323 ] ] ] } }
+]
+}

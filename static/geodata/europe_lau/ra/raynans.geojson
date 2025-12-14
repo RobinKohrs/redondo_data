@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "raynans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Raynans", "metric_roundness": 38.31, "metric_rectangularity": 61.91, "metric_mobile_fit": 5.86, "metric_aspect_ratio": 1.504, "metric_area_km2": 9.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7183895, 47.54546 ], [ 6.7151695, 47.542699 ], [ 6.7089575, 47.543203 ], [ 6.7039355, 47.532267 ], [ 6.7010065, 47.524945499999987 ], [ 6.717688, 47.528055 ], [ 6.7288585, 47.534347599999982 ], [ 6.747194, 47.536620499999984 ], [ 6.741986, 47.5428095 ], [ 6.73921, 47.543816 ], [ 6.7248335, 47.5445405 ], [ 6.722134, 47.5456795 ], [ 6.7183895, 47.54546 ] ] ] } }
+]
+}

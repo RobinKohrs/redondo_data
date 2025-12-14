@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "izurtza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Izurtza", "metric_roundness": 25.91, "metric_rectangularity": 35.64, "metric_mobile_fit": 14.36, "metric_aspect_ratio": 1.419, "metric_area_km2": 8.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.6374383, 43.1514458 ], [ -2.6368501, 43.1553258 ], [ -2.6424503, 43.162880799999989 ], [ -2.6554695, 43.151815 ], [ -2.6878145, 43.153147499999989 ], [ -2.6517428, 43.1439435 ], [ -2.63933, 43.134371 ], [ -2.632369, 43.1481425 ], [ -2.6374383, 43.1514458 ] ] ] } }
+]
+}

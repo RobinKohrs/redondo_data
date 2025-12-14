@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_chosiariou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Χωσιαρίου", "metric_roundness": 38.81, "metric_rectangularity": 52.84, "metric_mobile_fit": 31.62, "metric_aspect_ratio": 1.246, "metric_area_km2": 11.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.5087935, 36.7147869 ], [ 22.5245555, 36.720147 ], [ 22.5270815, 36.72437 ], [ 22.5282065, 36.727083 ], [ 22.5146755, 36.735291 ], [ 22.5075342, 36.7350908 ], [ 22.5011299, 36.7217118 ], [ 22.4913835, 36.7210315 ], [ 22.4862323, 36.716633799999983 ], [ 22.4772585, 36.7188655 ], [ 22.4818315, 36.704832 ], [ 22.489324, 36.7098325 ], [ 22.5030985, 36.702522 ], [ 22.5087935, 36.7147869 ] ] ] } }
+]
+}

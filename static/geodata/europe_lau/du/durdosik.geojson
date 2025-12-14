@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "durdosik",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ďurďošík", "metric_roundness": 60.86, "metric_rectangularity": 78.2, "metric_mobile_fit": 64.37, "metric_aspect_ratio": 0.919, "metric_area_km2": 10.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.389364, 48.745861 ], [ 21.3880845, 48.732570499999987 ], [ 21.3880625, 48.731057 ], [ 21.41938, 48.727081 ], [ 21.4176416, 48.735030599999988 ], [ 21.4209315, 48.7420728 ], [ 21.4174125, 48.7506735 ], [ 21.389364, 48.745861 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ciconio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ciconio", "metric_roundness": 55.89, "metric_rectangularity": 74.37, "metric_mobile_fit": 42.67, "metric_aspect_ratio": 1.136, "metric_area_km2": 5.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7531101, 45.3355396 ], [ 7.7467215, 45.328588 ], [ 7.754062, 45.318771499999976 ], [ 7.7584752, 45.3228989 ], [ 7.777019, 45.328651 ], [ 7.7718, 45.3375245 ], [ 7.7531101, 45.3355396 ] ] ] } }
+]
+}

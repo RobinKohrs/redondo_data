@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pombeiro_de_ribavizela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pombeiro de Ribavizela", "metric_roundness": 63.62, "metric_rectangularity": 85.63, "metric_mobile_fit": 46.91, "metric_aspect_ratio": 1.093, "metric_area_km2": 8.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.204615, 41.3865475 ], [ -8.221584, 41.395824499999989 ], [ -8.2263025, 41.392599 ], [ -8.2373455, 41.380333499999978 ], [ -8.234551, 41.378765 ], [ -8.2169488, 41.371068 ], [ -8.201268, 41.3804895 ], [ -8.204615, 41.3865475 ] ] ] } }
+]
+}

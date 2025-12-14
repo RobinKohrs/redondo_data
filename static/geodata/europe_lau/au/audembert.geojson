@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "audembert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Audembert", "metric_roundness": 56.45, "metric_rectangularity": 71.23, "metric_mobile_fit": 66.15, "metric_aspect_ratio": 0.901, "metric_area_km2": 19.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6815923, 50.871005399999987 ], [ 1.6797384, 50.870542099999973 ], [ 1.666808, 50.8596425 ], [ 1.668521, 50.858665499999979 ], [ 1.669922, 50.8556145 ], [ 1.6823375, 50.840266 ], [ 1.705175, 50.8474955 ], [ 1.7025572, 50.85192069999998 ], [ 1.7064264, 50.859895 ], [ 1.717638, 50.865852 ], [ 1.7090658, 50.8682751 ], [ 1.706482, 50.871678 ], [ 1.701081, 50.875876 ], [ 1.6815923, 50.871005399999987 ] ] ] } }
+]
+}

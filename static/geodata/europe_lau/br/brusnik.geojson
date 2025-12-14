@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brusnik",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brusník", "metric_roundness": 46.35, "metric_rectangularity": 62.69, "metric_mobile_fit": 87.12, "metric_aspect_ratio": 0.691, "metric_area_km2": 17.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.412919, 48.283315 ], [ 19.4151945, 48.2948981 ], [ 19.4366295, 48.300375 ], [ 19.4380491, 48.3039335 ], [ 19.4335611, 48.309599 ], [ 19.4360795, 48.3183725 ], [ 19.434833, 48.322247 ], [ 19.4114134, 48.3206275 ], [ 19.3975908, 48.306752499999988 ], [ 19.3978665, 48.295218899999973 ], [ 19.410518, 48.285223 ], [ 19.412919, 48.283315 ] ] ] } }
+]
+}

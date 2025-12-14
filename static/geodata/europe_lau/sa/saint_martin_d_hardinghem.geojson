@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_martin_d_hardinghem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Martin-d'Hardinghem", "metric_roundness": 32.78, "metric_rectangularity": 57.7, "metric_mobile_fit": -32.31, "metric_aspect_ratio": 1.886, "metric_area_km2": 16.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1284035, 50.617724 ], [ 2.1252645, 50.617416 ], [ 2.1159552, 50.616305599999983 ], [ 2.1051895, 50.621042 ], [ 2.0838855, 50.6247165 ], [ 2.0828809, 50.6180096 ], [ 2.0861513, 50.6113091 ], [ 2.0807737, 50.606030599999983 ], [ 2.0731349, 50.605927099999988 ], [ 2.0685135, 50.602438 ], [ 2.1039852, 50.604411899999988 ], [ 2.1235845, 50.602351 ], [ 2.1326625, 50.607816 ], [ 2.1338695, 50.6118495 ], [ 2.1349735, 50.619994 ], [ 2.1284035, 50.617724 ] ] ] } }
+]
+}

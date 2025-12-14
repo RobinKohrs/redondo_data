@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pusztadobos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pusztadobos", "metric_roundness": 54.91, "metric_rectangularity": 79.17, "metric_mobile_fit": 87.05, "metric_aspect_ratio": 0.692, "metric_area_km2": 37.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.223329, 48.023357 ], [ 22.2587181, 48.0310311 ], [ 22.2592947, 48.0437188 ], [ 22.2631335, 48.048694499999989 ], [ 22.2574265, 48.074606 ], [ 22.2511607, 48.0755634 ], [ 22.2397523, 48.071379199999981 ], [ 22.233786, 48.0729415 ], [ 22.2219456, 48.06502949999998 ], [ 22.2121047, 48.0628031 ], [ 22.2090897, 48.0556657 ], [ 22.2092091, 48.050641099999986 ], [ 22.2200025, 48.02933849999998 ], [ 22.223329, 48.023357 ] ] ] } }
+]
+}

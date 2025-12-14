@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "didderse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Didderse", "metric_roundness": 46.68, "metric_rectangularity": 76.66, "metric_mobile_fit": -14.31, "metric_aspect_ratio": 1.706, "metric_area_km2": 20.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.377993, 52.390617 ], [ 10.3745912, 52.3854513 ], [ 10.384379, 52.3706805 ], [ 10.425027, 52.3788935 ], [ 10.4385429, 52.382184399999986 ], [ 10.4407955, 52.3877741 ], [ 10.4381079, 52.3926705 ], [ 10.4139082, 52.389994399999985 ], [ 10.411549, 52.394372499999989 ], [ 10.377993, 52.390617 ] ] ] } }
+]
+}

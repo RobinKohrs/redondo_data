@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kehrsatz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kehrsatz", "metric_roundness": 45.36, "metric_rectangularity": 62.14, "metric_mobile_fit": 66.11, "metric_aspect_ratio": 0.901, "metric_area_km2": 9.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4667758, 46.9038805 ], [ 7.4778845, 46.8979955 ], [ 7.4847941, 46.90813379999998 ], [ 7.4820015, 46.9125226 ], [ 7.486806, 46.924888 ], [ 7.4715495, 46.925253 ], [ 7.4599163, 46.9142337 ], [ 7.4604798, 46.9097016 ], [ 7.4520225, 46.9094163 ], [ 7.4508395, 46.904964 ], [ 7.4667758, 46.9038805 ] ] ] } }
+]
+}

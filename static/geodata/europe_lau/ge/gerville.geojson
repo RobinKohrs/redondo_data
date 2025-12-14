@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gerville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gerville", "metric_roundness": 72.83, "metric_rectangularity": 78.91, "metric_mobile_fit": 64.59, "metric_aspect_ratio": 0.917, "metric_area_km2": 7.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3265342, 49.707819599999979 ], [ 0.320416, 49.706244 ], [ 0.3141861, 49.694353 ], [ 0.3243305, 49.6888545 ], [ 0.3357, 49.688127499999986 ], [ 0.337018, 49.69052 ], [ 0.3411365, 49.693193 ], [ 0.3380595, 49.6953885 ], [ 0.338312, 49.697782 ], [ 0.342091, 49.703827 ], [ 0.3265342, 49.707819599999979 ] ] ] } }
+]
+}

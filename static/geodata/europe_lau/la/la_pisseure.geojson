@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_pisseure",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Pisseure", "metric_roundness": 40.44, "metric_rectangularity": 55.2, "metric_mobile_fit": 81.42, "metric_aspect_ratio": 0.748, "metric_area_km2": 5.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.225859, 47.8568141 ], [ 6.227558, 47.850486 ], [ 6.2325545, 47.8556765 ], [ 6.2359715, 47.857543 ], [ 6.239686, 47.862551499999981 ], [ 6.2339171, 47.8668037 ], [ 6.2400086, 47.8724437 ], [ 6.2342535, 47.8741685 ], [ 6.2261408, 47.867322 ], [ 6.2178285, 47.8662486 ], [ 6.213596, 47.860765 ], [ 6.225859, 47.8568141 ] ] ] } }
+]
+}

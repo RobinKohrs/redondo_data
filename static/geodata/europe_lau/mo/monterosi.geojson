@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monterosi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monterosi", "metric_roundness": 44.92, "metric_rectangularity": 63.81, "metric_mobile_fit": 96.98, "metric_aspect_ratio": 0.593, "metric_area_km2": 19.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.285624, 42.198206 ], [ 12.2872296, 42.1894271 ], [ 12.2797757, 42.1855025 ], [ 12.2742255, 42.177856 ], [ 12.2737581, 42.172355499999988 ], [ 12.2868721, 42.1731375 ], [ 12.3066405, 42.159649 ], [ 12.3127183, 42.1679865 ], [ 12.312403, 42.1855025 ], [ 12.3124072, 42.19848 ], [ 12.3025144, 42.2083579 ], [ 12.2867625, 42.200073499999974 ], [ 12.285624, 42.198206 ] ] ] } }
+]
+}

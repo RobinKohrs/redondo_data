@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "effry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Effry", "metric_roundness": 49.96, "metric_rectangularity": 70.63, "metric_mobile_fit": 91.32, "metric_aspect_ratio": 0.649, "metric_area_km2": 6.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.990794, 49.907907 ], [ 3.9975856, 49.9141857 ], [ 3.9995505, 49.9239255 ], [ 3.9807635, 49.9304845 ], [ 3.9767815, 49.9218544 ], [ 3.9826497, 49.912826699999989 ], [ 3.981015, 49.909081 ], [ 3.990794, 49.907907 ] ] ] } }
+]
+}

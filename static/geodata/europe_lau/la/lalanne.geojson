@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lalanne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lalanne", "metric_roundness": 52.14, "metric_rectangularity": 68.32, "metric_mobile_fit": 69.5, "metric_aspect_ratio": 0.868, "metric_area_km2": 10.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.657156, 43.80759 ], [ 0.6650128, 43.8008576 ], [ 0.665771, 43.795378 ], [ 0.6714132, 43.7955742 ], [ 0.67817, 43.790392399999988 ], [ 0.6908775, 43.7951145 ], [ 0.6949465, 43.7964795 ], [ 0.696032, 43.799733499999988 ], [ 0.6888543, 43.8081683 ], [ 0.6779453, 43.812455 ], [ 0.670655, 43.822733 ], [ 0.664962, 43.815308 ], [ 0.657156, 43.80759 ] ] ] } }
+]
+}

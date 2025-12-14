@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stein",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stein", "metric_roundness": 55.65, "metric_rectangularity": 63.67, "metric_mobile_fit": 33.08, "metric_aspect_ratio": 1.232, "metric_area_km2": 10.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.2730484, 54.406691699999989 ], [ 10.2839789, 54.411497399999973 ], [ 10.280328, 54.418351 ], [ 10.2410355, 54.4161765 ], [ 10.2527945, 54.403730499999988 ], [ 10.26328, 54.398059 ], [ 10.273317, 54.401186 ], [ 10.2730484, 54.406691699999989 ] ] ] } }
+]
+}

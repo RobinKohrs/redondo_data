@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sincey_les_rouvray",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sincey-lès-Rouvray", "metric_roundness": 51.04, "metric_rectangularity": 65.02, "metric_mobile_fit": 2.96, "metric_aspect_ratio": 1.533, "metric_area_km2": 18.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1334285, 47.42035 ], [ 4.1548216, 47.426528299999987 ], [ 4.1592075, 47.431824 ], [ 4.1539689, 47.4470805 ], [ 4.131762, 47.4417445 ], [ 4.128928, 47.440259499999989 ], [ 4.122749, 47.441884 ], [ 4.1194225, 47.443554499999983 ], [ 4.1141672, 47.441862 ], [ 4.1087186, 47.4459398 ], [ 4.1029963, 47.444547499999985 ], [ 4.1071632, 47.4371534 ], [ 4.0986325, 47.430467 ], [ 4.1334285, 47.42035 ] ] ] } }
+]
+}

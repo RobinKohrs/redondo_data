@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_freixo_de_cima_e_de_baixo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Freixo de Cima e de Baixo", "metric_roundness": 39.49, "metric_rectangularity": 75.83, "metric_mobile_fit": 52.68, "metric_aspect_ratio": 1.036, "metric_area_km2": 15.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.1438777, 41.3165596 ], [ -8.1489685, 41.3123685 ], [ -8.1465783, 41.3030481 ], [ -8.1427415, 41.3003985 ], [ -8.1300345, 41.2923475 ], [ -8.1143798, 41.282889699999984 ], [ -8.102307, 41.279572 ], [ -8.0982331, 41.2830661 ], [ -8.0979768, 41.289921399999983 ], [ -8.1098785, 41.3057503 ], [ -8.1170122, 41.3093898 ], [ -8.1248779, 41.308103199999984 ], [ -8.1309405, 41.3151275 ], [ -8.1438777, 41.3165596 ] ] ] } }
+]
+}

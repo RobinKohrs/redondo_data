@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pietricaggio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pietricaggio", "metric_roundness": 43.09, "metric_rectangularity": 80.6, "metric_mobile_fit": 11.29, "metric_aspect_ratio": 1.45, "metric_area_km2": 10.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.368108, 42.315859 ], [ 9.402081, 42.331799 ], [ 9.3896985, 42.339784 ], [ 9.3864625, 42.3407475 ], [ 9.383823, 42.3394185 ], [ 9.3783, 42.340165 ], [ 9.373473, 42.3384315 ], [ 9.357902, 42.3280925 ], [ 9.3532815, 42.32765149999998 ], [ 9.368108, 42.315859 ] ] ] } }
+]
+}

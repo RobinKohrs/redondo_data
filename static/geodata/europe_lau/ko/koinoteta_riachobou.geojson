@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_riachobou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ριαχόβου", "metric_roundness": 51.29, "metric_rectangularity": 71.89, "metric_mobile_fit": 96.77, "metric_aspect_ratio": 0.595, "metric_area_km2": 7.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.5950975, 39.7827285 ], [ 20.5987665, 39.7914556 ], [ 20.5995915, 39.798049499999983 ], [ 20.5986151, 39.8083992 ], [ 20.5892615, 39.811855 ], [ 20.5782421, 39.8057323 ], [ 20.5770415, 39.794148 ], [ 20.5950975, 39.7827285 ] ] ] } }
+]
+}

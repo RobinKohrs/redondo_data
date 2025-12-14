@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niederentzen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niederentzen", "metric_roundness": 19.0, "metric_rectangularity": 65.08, "metric_mobile_fit": -50.11, "metric_aspect_ratio": 2.064, "metric_area_km2": 19.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.348128, 47.9539683 ], [ 7.3959993, 47.942130699999979 ], [ 7.3978134, 47.9358665 ], [ 7.4265795, 47.930257 ], [ 7.4362125, 47.934208 ], [ 7.4384735, 47.936091 ], [ 7.439953, 47.943056 ], [ 7.4300455, 47.9439395 ], [ 7.4257835, 47.94426 ], [ 7.4046725, 47.950674499999984 ], [ 7.3909705, 47.953971 ], [ 7.3699465, 47.957176 ], [ 7.353552, 47.960404499999974 ], [ 7.3435325, 47.961555 ], [ 7.348128, 47.9539683 ] ] ] } }
+]
+}

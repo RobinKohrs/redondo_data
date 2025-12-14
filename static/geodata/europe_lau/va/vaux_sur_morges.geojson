@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vaux_sur_morges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vaux-sur-Morges", "metric_roundness": 48.26, "metric_rectangularity": 68.75, "metric_mobile_fit": 49.8, "metric_aspect_ratio": 1.065, "metric_area_km2": 4.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4715354, 46.543669 ], [ 6.455604, 46.546122 ], [ 6.4500105, 46.539695 ], [ 6.4481275, 46.53787 ], [ 6.4548804, 46.537621099999988 ], [ 6.4568725, 46.534437499999974 ], [ 6.473974, 46.529420499999986 ], [ 6.4715354, 46.543669 ] ] ] } }
+]
+}

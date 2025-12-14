@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "murtosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Murtosa", "metric_roundness": 47.53, "metric_rectangularity": 63.41, "metric_mobile_fit": 5.63, "metric_aspect_ratio": 1.506, "metric_area_km2": 17.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6189868, 40.740628699999988 ], [ -8.6301325, 40.749513 ], [ -8.6338985, 40.7453984 ], [ -8.6417588, 40.7440332 ], [ -8.6522565, 40.754267 ], [ -8.6591081, 40.75266 ], [ -8.6648491, 40.7467258 ], [ -8.6779205, 40.7461275 ], [ -8.6747409, 40.7348717 ], [ -8.6671336, 40.727947199999988 ], [ -8.6572825, 40.7298825 ], [ -8.63538, 40.7237926 ], [ -8.6173415, 40.7349895 ], [ -8.6189868, 40.740628699999988 ] ] ] } }
+]
+}

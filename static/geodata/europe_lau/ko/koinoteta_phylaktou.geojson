@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_phylaktou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Φυλακτού", "metric_roundness": 30.47, "metric_rectangularity": 72.41, "metric_mobile_fit": -134.93, "metric_aspect_ratio": 2.912, "metric_area_km2": 25.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.2487805, 41.0424321 ], [ 26.2666405, 41.035744 ], [ 26.3097928, 41.0366821 ], [ 26.3141439, 41.0425142 ], [ 26.3294295, 41.043129 ], [ 26.3297902, 41.052019699999988 ], [ 26.3257855, 41.058401 ], [ 26.3172007, 41.0538743 ], [ 26.3086635, 41.0553095 ], [ 26.2878342, 41.0553817 ], [ 26.2765552, 41.0595457 ], [ 26.237894, 41.056183 ], [ 26.2487805, 41.0424321 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tonezza_del_cimone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tonezza del Cimone", "metric_roundness": 32.03, "metric_rectangularity": 52.51, "metric_mobile_fit": 59.27, "metric_aspect_ratio": 0.97, "metric_area_km2": 27.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3595558, 45.8451446 ], [ 11.3507855, 45.868520499999988 ], [ 11.3090985, 45.875202499999986 ], [ 11.3055515, 45.876048499999975 ], [ 11.2914481, 45.8757468 ], [ 11.2868861, 45.8722778 ], [ 11.2949668, 45.8651349 ], [ 11.3200277, 45.8555428 ], [ 11.3326891, 45.8475985 ], [ 11.3466016, 45.8238575 ], [ 11.3546204, 45.826757199999982 ], [ 11.3567655, 45.837794 ], [ 11.3595558, 45.8451446 ] ] ] } }
+]
+}

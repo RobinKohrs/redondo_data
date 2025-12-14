@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cardet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cardet", "metric_roundness": 66.68, "metric_rectangularity": 70.79, "metric_mobile_fit": 70.17, "metric_aspect_ratio": 0.861, "metric_area_km2": 16.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1076895, 44.015813499999986 ], [ 4.1019015, 44.0209313 ], [ 4.1059495, 44.0263365 ], [ 4.0844593, 44.0311799 ], [ 4.0690365, 44.027262 ], [ 4.070812, 44.0258405 ], [ 4.073691, 44.017692 ], [ 4.0701265, 44.006669 ], [ 4.093913, 43.9970795 ], [ 4.1098515, 44.006416499999986 ], [ 4.1076895, 44.015813499999986 ] ] ] } }
+]
+}

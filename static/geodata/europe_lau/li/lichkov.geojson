@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lichkov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lichkov", "metric_roundness": 50.21, "metric_rectangularity": 76.93, "metric_mobile_fit": 69.12, "metric_aspect_ratio": 0.871, "metric_area_km2": 22.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6908779, 50.0842243 ], [ 16.6890417, 50.0927785 ], [ 16.693825, 50.098102 ], [ 16.6500085, 50.110277 ], [ 16.6537714, 50.1052843 ], [ 16.641274, 50.0951624 ], [ 16.6484938, 50.0866737 ], [ 16.6574348, 50.085152099999981 ], [ 16.657259, 50.078998 ], [ 16.6800865, 50.071583499999988 ], [ 16.6908779, 50.0842243 ] ] ] } }
+]
+}

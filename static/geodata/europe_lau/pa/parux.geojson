@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Parux", "metric_roundness": 48.79, "metric_rectangularity": 67.06, "metric_mobile_fit": 72.11, "metric_aspect_ratio": 0.841, "metric_area_km2": 9.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9060435, 48.554984499999982 ], [ 6.9145279, 48.547708 ], [ 6.9062953, 48.5421664 ], [ 6.9104471, 48.538894799999987 ], [ 6.9104785, 48.5345795 ], [ 6.9139885, 48.5299325 ], [ 6.9302927, 48.5312158 ], [ 6.9388445, 48.5347395 ], [ 6.93751, 48.535602 ], [ 6.9347528, 48.543738499999982 ], [ 6.916282, 48.555741 ], [ 6.9060435, 48.554984499999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agiou_elia_pyrgou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγίου Ηλία Πύργου", "metric_roundness": 56.65, "metric_rectangularity": 67.98, "metric_mobile_fit": 42.82, "metric_aspect_ratio": 1.134, "metric_area_km2": 7.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3065263, 37.7268604 ], [ 21.3187625, 37.7091675 ], [ 21.332417, 37.710854 ], [ 21.3412354, 37.7188243 ], [ 21.334444, 37.7279405 ], [ 21.3218031, 37.7283141 ], [ 21.3093815, 37.733371499999983 ], [ 21.3065263, 37.7268604 ] ] ] } }
+]
+}

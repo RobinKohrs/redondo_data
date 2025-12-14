@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "braye_sur_maulne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Braye-sur-Maulne", "metric_roundness": 58.32, "metric_rectangularity": 72.6, "metric_mobile_fit": 56.45, "metric_aspect_ratio": 0.998, "metric_area_km2": 26.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.289304, 47.547149 ], [ 0.2905894, 47.5502658 ], [ 0.285251, 47.554771499999987 ], [ 0.2869146, 47.5624049 ], [ 0.2688115, 47.573974699999987 ], [ 0.2495752, 47.579461699999989 ], [ 0.2380885, 47.577097 ], [ 0.2388239, 47.570937 ], [ 0.2330774, 47.5621515 ], [ 0.256072, 47.540575 ], [ 0.289304, 47.547149 ] ] ] } }
+]
+}

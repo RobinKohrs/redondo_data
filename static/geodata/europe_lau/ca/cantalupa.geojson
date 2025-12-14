@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cantalupa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cantalupa", "metric_roundness": 61.36, "metric_rectangularity": 70.55, "metric_mobile_fit": 69.03, "metric_aspect_ratio": 0.872, "metric_area_km2": 22.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3570228, 44.9522768 ], [ 7.3534459, 44.9580878 ], [ 7.3404604, 44.966047899999985 ], [ 7.317231, 44.9726075 ], [ 7.3136299, 44.9647827 ], [ 7.3179109, 44.958658599999985 ], [ 7.3148258, 44.9530853 ], [ 7.309718, 44.95082 ], [ 7.315916, 44.933796 ], [ 7.3392725, 44.9346598 ], [ 7.357552, 44.9424705 ], [ 7.3570228, 44.9522768 ] ] ] } }
+]
+}

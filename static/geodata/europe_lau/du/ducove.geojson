@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ducove",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ducové", "metric_roundness": 49.25, "metric_rectangularity": 64.79, "metric_mobile_fit": -1.79, "metric_aspect_ratio": 1.58, "metric_area_km2": 6.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.8813882, 48.6280603 ], [ 17.8791915, 48.6343275 ], [ 17.8705758, 48.6374776 ], [ 17.858082, 48.637256 ], [ 17.855854, 48.6329729 ], [ 17.8512145, 48.63291 ], [ 17.8509955, 48.629113 ], [ 17.8559825, 48.6252005 ], [ 17.869105, 48.6250659 ], [ 17.8732976, 48.622749899999981 ], [ 17.8787783, 48.626106599999986 ], [ 17.8828055, 48.6265231 ], [ 17.8862135, 48.629535499999989 ], [ 17.8813882, 48.6280603 ] ] ] } }
+]
+}

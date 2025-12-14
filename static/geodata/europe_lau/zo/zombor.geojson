@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zombor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zombor", "metric_roundness": 31.38, "metric_rectangularity": 58.92, "metric_mobile_fit": 24.59, "metric_aspect_ratio": 1.317, "metric_area_km2": 7.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.4570266, 48.1287745 ], [ 19.4617518, 48.1325766 ], [ 19.4708073, 48.1288146 ], [ 19.4737898, 48.1307316 ], [ 19.453344, 48.142830499999988 ], [ 19.434398, 48.1493195 ], [ 19.4332567, 48.144503199999988 ], [ 19.4396045, 48.136441499999989 ], [ 19.444, 48.1302605 ], [ 19.450666, 48.1289055 ], [ 19.4570266, 48.1287745 ] ] ] } }
+]
+}

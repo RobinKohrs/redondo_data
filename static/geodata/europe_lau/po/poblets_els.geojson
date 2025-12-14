@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "poblets_els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Poblets, els", "metric_roundness": 59.37, "metric_rectangularity": 71.85, "metric_mobile_fit": 50.38, "metric_aspect_ratio": 1.059, "metric_area_km2": 5.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.031112, 38.8485726 ], [ 0.0313803, 38.8550265 ], [ 0.0203646, 38.8639515 ], [ 0.0046365, 38.8626935 ], [ 0.0050185, 38.8524398 ], [ 0.0206335, 38.84428 ], [ 0.031112, 38.8485726 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uttwil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Uttwil", "metric_roundness": 47.47, "metric_rectangularity": 62.07, "metric_mobile_fit": 75.77, "metric_aspect_ratio": 0.805, "metric_area_km2": 9.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3271362, 47.5868733 ], [ 9.327454, 47.5804105 ], [ 9.3291567, 47.5762638 ], [ 9.324107, 47.5711535 ], [ 9.325802, 47.568715 ], [ 9.323186, 47.56318 ], [ 9.3261315, 47.562655499999984 ], [ 9.3509189, 47.5726198 ], [ 9.357254, 47.580892499999983 ], [ 9.3314825, 47.591212 ], [ 9.3271362, 47.5868733 ] ] ] } }
+]
+}

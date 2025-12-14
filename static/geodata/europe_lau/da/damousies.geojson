@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "damousies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Damousies", "metric_roundness": 47.42, "metric_rectangularity": 63.58, "metric_mobile_fit": 70.45, "metric_aspect_ratio": 0.858, "metric_area_km2": 13.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.009449, 50.2336485 ], [ 3.9971132, 50.231283399999988 ], [ 3.9873625, 50.223301 ], [ 3.993799, 50.216913 ], [ 4.0094204, 50.2064632 ], [ 4.026482, 50.203128 ], [ 4.0282885, 50.203615 ], [ 4.0212182, 50.213081199999984 ], [ 4.0188645, 50.23018 ], [ 4.009449, 50.2336485 ] ] ] } }
+]
+}

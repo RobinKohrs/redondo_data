@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mesmay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mesmay", "metric_roundness": 47.32, "metric_rectangularity": 77.12, "metric_mobile_fit": 98.23, "metric_aspect_ratio": 0.545, "metric_area_km2": 6.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.8422455, 47.0470945 ], [ 5.8460655, 47.046078 ], [ 5.857044, 47.045742 ], [ 5.8561495, 47.049191 ], [ 5.8560985, 47.053425 ], [ 5.8575395, 47.0583335 ], [ 5.8576815, 47.063507499999979 ], [ 5.8591535, 47.0658485 ], [ 5.861493, 47.067353 ], [ 5.855137, 47.0699335 ], [ 5.850027, 47.069369499999986 ], [ 5.8464745, 47.070468 ], [ 5.843641, 47.069474 ], [ 5.841718, 47.0652555 ], [ 5.8422455, 47.0470945 ] ] ] } }
+]
+}

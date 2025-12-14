@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "labatut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Labatut", "metric_roundness": 23.53, "metric_rectangularity": 86.29, "metric_mobile_fit": 32.37, "metric_aspect_ratio": 1.239, "metric_area_km2": 6.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.541725, 43.276083 ], [ 1.5235305, 43.268614 ], [ 1.514735, 43.2637395 ], [ 1.5102605, 43.261953 ], [ 1.507282, 43.2595395 ], [ 1.49982, 43.255259 ], [ 1.497678, 43.2546575 ], [ 1.5045255, 43.2495265 ], [ 1.5428531, 43.2680406 ], [ 1.541677, 43.2750935 ], [ 1.541725, 43.276083 ] ] ] } }
+]
+}

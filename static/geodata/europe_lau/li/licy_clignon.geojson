@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "licy_clignon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Licy-Clignon", "metric_roundness": 55.35, "metric_rectangularity": 71.75, "metric_mobile_fit": 50.2, "metric_aspect_ratio": 1.06, "metric_area_km2": 9.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2795896, 49.111335599999983 ], [ 3.275203, 49.113911 ], [ 3.2649501, 49.1065186 ], [ 3.2538635, 49.111658499999976 ], [ 3.2494255, 49.105955499999986 ], [ 3.2477045, 49.09385 ], [ 3.2635735, 49.09292 ], [ 3.2753777, 49.0972586 ], [ 3.2801175, 49.095207499999987 ], [ 3.281706, 49.09524 ], [ 3.2795896, 49.111335599999983 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_bathyrreumatos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βαθυρρεύματος", "metric_roundness": 49.06, "metric_rectangularity": 73.22, "metric_mobile_fit": 80.87, "metric_aspect_ratio": 0.754, "metric_area_km2": 20.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.4035976, 39.4512302 ], [ 21.3868295, 39.4500695 ], [ 21.3994615, 39.429494 ], [ 21.4098384, 39.421239199999981 ], [ 21.415289, 39.408822 ], [ 21.434916, 39.415340499999985 ], [ 21.4338755, 39.421817 ], [ 21.4262846, 39.4298313 ], [ 21.4325688, 39.4415276 ], [ 21.423748, 39.458091499999988 ], [ 21.4035976, 39.4512302 ] ] ] } }
+]
+}

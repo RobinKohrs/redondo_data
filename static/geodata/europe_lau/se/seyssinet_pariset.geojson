@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seyssinet_pariset",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Seyssinet-Pariset", "metric_roundness": 36.64, "metric_rectangularity": 56.68, "metric_mobile_fit": 37.94, "metric_aspect_ratio": 1.183, "metric_area_km2": 22.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7013655, 45.187957 ], [ 5.6731936, 45.182278299999986 ], [ 5.6649875, 45.1832651 ], [ 5.651457, 45.190738499999988 ], [ 5.651115, 45.1906225 ], [ 5.6469433, 45.1847637 ], [ 5.6467521, 45.173051 ], [ 5.6514181, 45.1665164 ], [ 5.6441201, 45.1651019 ], [ 5.6387315, 45.153417 ], [ 5.6534688, 45.153782699999987 ], [ 5.6599538, 45.16096409999998 ], [ 5.6872556, 45.1649234 ], [ 5.7007425, 45.1726245 ], [ 5.7013655, 45.187957 ] ] ] } }
+]
+}

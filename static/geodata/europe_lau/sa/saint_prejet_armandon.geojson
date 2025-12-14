@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_prejet_armandon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Préjet-Armandon", "metric_roundness": 50.17, "metric_rectangularity": 62.41, "metric_mobile_fit": 22.37, "metric_aspect_ratio": 1.339, "metric_area_km2": 17.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.5655555, 45.235526 ], [ 3.5662431, 45.239959 ], [ 3.581492, 45.2511475 ], [ 3.5695129, 45.253793099999982 ], [ 3.567278, 45.260612099999982 ], [ 3.5497274, 45.259931099999989 ], [ 3.5353547, 45.2657462 ], [ 3.528326, 45.2582851 ], [ 3.523337, 45.257198499999987 ], [ 3.5228135, 45.256574 ], [ 3.5336095, 45.2533143 ], [ 3.535066, 45.242319 ], [ 3.542895, 45.23868 ], [ 3.543832, 45.234891 ], [ 3.5655555, 45.235526 ] ] ] } }
+]
+}

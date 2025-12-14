@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_foret_du_parc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Forêt-du-Parc", "metric_roundness": 69.54, "metric_rectangularity": 87.01, "metric_mobile_fit": 73.02, "metric_aspect_ratio": 0.832, "metric_area_km2": 18.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2191205, 48.9347675 ], [ 1.233949, 48.909865 ], [ 1.238762, 48.911123499999981 ], [ 1.243475, 48.910725499999984 ], [ 1.2503623, 48.9115086 ], [ 1.2620745, 48.921240499999989 ], [ 1.2525354, 48.939842099999986 ], [ 1.2386555, 48.943775 ], [ 1.219725, 48.938368 ], [ 1.2191205, 48.9347675 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberirsen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberirsen", "metric_roundness": 64.33, "metric_rectangularity": 73.47, "metric_mobile_fit": 27.4, "metric_aspect_ratio": 1.289, "metric_area_km2": 22.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.589335, 50.7402935 ], [ 7.5820246, 50.738336 ], [ 7.55837, 50.743005 ], [ 7.5463685, 50.7327377 ], [ 7.5551625, 50.7212125 ], [ 7.5571502, 50.717631399999981 ], [ 7.5670815, 50.713483 ], [ 7.5850505, 50.7146215 ], [ 7.6001628, 50.721630499999982 ], [ 7.606462, 50.727738 ], [ 7.589335, 50.7402935 ] ] ] } }
+]
+}

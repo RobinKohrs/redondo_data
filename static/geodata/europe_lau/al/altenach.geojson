@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "altenach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Altenach", "metric_roundness": 33.0, "metric_rectangularity": 64.23, "metric_mobile_fit": 37.7, "metric_aspect_ratio": 1.186, "metric_area_km2": 14.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1017285, 47.5872343 ], [ 7.106758, 47.596845699999989 ], [ 7.1280615, 47.6036498 ], [ 7.1374, 47.6026265 ], [ 7.1327955, 47.61728 ], [ 7.119933, 47.6157825 ], [ 7.1106335, 47.613147 ], [ 7.0994231, 47.603580799999989 ], [ 7.0783955, 47.5968515 ], [ 7.08106, 47.596112 ], [ 7.0810795, 47.594084 ], [ 7.085383, 47.593052 ], [ 7.086429, 47.5855355 ], [ 7.0888945, 47.58372 ], [ 7.1017285, 47.5872343 ] ] ] } }
+]
+}

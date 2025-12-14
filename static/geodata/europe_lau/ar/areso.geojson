@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "areso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Areso", "metric_roundness": 51.86, "metric_rectangularity": 60.36, "metric_mobile_fit": 45.07, "metric_aspect_ratio": 1.112, "metric_area_km2": 22.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.988474, 43.078396 ], [ -1.9825635, 43.0725785 ], [ -1.9794505, 43.0684355 ], [ -1.973496, 43.066845 ], [ -1.968991, 43.0667115 ], [ -1.9465329, 43.0649338 ], [ -1.9297735, 43.0589215 ], [ -1.9353024, 43.0873896 ], [ -1.9475465, 43.0974845 ], [ -1.973378, 43.091526 ], [ -1.9716218, 43.0875322 ], [ -1.973163, 43.084572 ], [ -1.9788255, 43.081669 ], [ -1.9837345, 43.080433 ], [ -1.988474, 43.078396 ] ] ] } }
+]
+}

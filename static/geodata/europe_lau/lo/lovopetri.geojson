@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lovopetri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lövőpetri", "metric_roundness": 53.72, "metric_rectangularity": 81.19, "metric_mobile_fit": 18.77, "metric_aspect_ratio": 1.375, "metric_area_km2": 20.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2252003, 48.1863418 ], [ 22.211238, 48.195144 ], [ 22.2034568, 48.1899557 ], [ 22.1938616, 48.1897281 ], [ 22.1835305, 48.1831635 ], [ 22.1714575, 48.18042149999998 ], [ 22.1788713, 48.168457 ], [ 22.1984285, 48.1647045 ], [ 22.216867, 48.1688335 ], [ 22.2342165, 48.175988 ], [ 22.2252003, 48.1863418 ] ] ] } }
+]
+}

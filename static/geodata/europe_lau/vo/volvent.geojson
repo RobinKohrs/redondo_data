@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "volvent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Volvent", "metric_roundness": 46.05, "metric_rectangularity": 68.51, "metric_mobile_fit": 60.09, "metric_aspect_ratio": 0.962, "metric_area_km2": 32.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3256092, 44.5599911 ], [ 5.321183, 44.543873499999989 ], [ 5.3369177, 44.5433141 ], [ 5.3613587, 44.558775300000015 ], [ 5.38152, 44.562603499999987 ], [ 5.3790437, 44.5791482 ], [ 5.380991, 44.5865225 ], [ 5.373903, 44.5870245 ], [ 5.37062, 44.5880155 ], [ 5.3381783, 44.5856238 ], [ 5.3282211, 44.5794139 ], [ 5.322787, 44.565538 ], [ 5.3256092, 44.5599911 ] ] ] } }
+]
+}

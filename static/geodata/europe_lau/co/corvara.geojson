@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "corvara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Corvara", "metric_roundness": 48.57, "metric_rectangularity": 68.49, "metric_mobile_fit": 40.69, "metric_aspect_ratio": 1.156, "metric_area_km2": 24.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.8581177, 42.2636887 ], [ 13.8979105, 42.2650395 ], [ 13.8963347, 42.277859299999982 ], [ 13.9020486, 42.2868498 ], [ 13.8840292, 42.2906158 ], [ 13.8829395, 42.295754 ], [ 13.8546411, 42.288120399999983 ], [ 13.844353, 42.281054 ], [ 13.8406269, 42.2704054 ], [ 13.842454, 42.256426499999989 ], [ 13.8581177, 42.2636887 ] ] ] } }
+]
+}

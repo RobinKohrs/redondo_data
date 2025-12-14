@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kliding",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kliding", "metric_roundness": 28.81, "metric_rectangularity": 46.01, "metric_mobile_fit": 42.29, "metric_aspect_ratio": 1.14, "metric_area_km2": 13.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0301173, 50.0989839 ], [ 7.0326368, 50.089249 ], [ 7.0369875, 50.085749 ], [ 7.0499378, 50.097146799999983 ], [ 7.068878, 50.1048225 ], [ 7.0827325, 50.1125085 ], [ 7.08567, 50.113920499999985 ], [ 7.0850336, 50.1170176 ], [ 7.0731781, 50.11094869999998 ], [ 7.035827, 50.114194499999989 ], [ 7.0337115, 50.1065645 ], [ 7.0301173, 50.0989839 ] ] ] } }
+]
+}

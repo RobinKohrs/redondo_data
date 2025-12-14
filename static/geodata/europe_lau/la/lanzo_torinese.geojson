@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lanzo_torinese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lanzo Torinese", "metric_roundness": 48.79, "metric_rectangularity": 64.35, "metric_mobile_fit": 52.26, "metric_aspect_ratio": 1.04, "metric_area_km2": 20.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4734231, 45.2674939 ], [ 7.484819, 45.2523205 ], [ 7.5007295, 45.262617 ], [ 7.5030229, 45.268625199999981 ], [ 7.4994899, 45.2758019 ], [ 7.5013841, 45.278563 ], [ 7.4941522, 45.2834995 ], [ 7.493412, 45.2893045 ], [ 7.459745, 45.290304499999976 ], [ 7.4468965, 45.2884605 ], [ 7.4532459, 45.2836666 ], [ 7.455115, 45.2775905 ], [ 7.4734231, 45.2674939 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "auboranges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Auboranges", "metric_roundness": 48.02, "metric_rectangularity": 76.17, "metric_mobile_fit": 84.33, "metric_aspect_ratio": 0.719, "metric_area_km2": 4.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.795106, 46.575218499999977 ], [ 6.79932, 46.5740815 ], [ 6.8118884, 46.578742299999988 ], [ 6.814123, 46.585607 ], [ 6.8110195, 46.5921835 ], [ 6.80131, 46.5922555 ], [ 6.7991685, 46.583553499999987 ], [ 6.795106, 46.575218499999977 ] ] ] } }
+]
+}

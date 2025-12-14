@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_laurent_sur_oust",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Laurent-sur-Oust", "metric_roundness": 28.53, "metric_rectangularity": 65.62, "metric_mobile_fit": 79.27, "metric_aspect_ratio": 0.77, "metric_area_km2": 8.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.294951, 47.777202 ], [ -2.3056432, 47.794093599999989 ], [ -2.3127675, 47.796777399999989 ], [ -2.3114453, 47.8029012 ], [ -2.329055, 47.807014 ], [ -2.329109, 47.801561 ], [ -2.3259903, 47.792338799999989 ], [ -2.3186984, 47.7882221 ], [ -2.3142695, 47.779540499999989 ], [ -2.294951, 47.777202 ] ] ] } }
+]
+}

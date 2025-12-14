@@ -1,0 +1,1357 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Valchov,valchov,va,43.64,69.43,14.4
+europe_lau,Vanovice,vanovice,va,52.55,68.26,13.86
+europe_lau,Vavřinec,vavrinec,va,41.4,51.27,89.64
+europe_lau,Vážany,vazany,va,29.49,53.97,96.31
+europe_lau,Valy,valy,va,36.91,65.51,15.96
+europe_lau,Vápno,vapno,va,35.42,60.62,96.15
+europe_lau,Val,val,va,55.9,80.84,77.46
+europe_lau,Vamberk,vamberk,va,60.82,65.93,41.95
+europe_lau,Vápenice,vapenice,va,50.65,70.96,62.16
+europe_lau,Vážany,vazany,va,33.3,54.24,86.53
+europe_lau,Valtice,valtice,va,42.67,62.89,-5.17
+europe_lau,Valašské Klobouky,valasske_klobouky,va,57.88,69.22,61.02
+europe_lau,Vacenovice,vacenovice,va,39.92,60.61,73.72
+europe_lau,Valdíkov,valdikov,va,48.31,59.85,31.08
+europe_lau,Vanov,vanov,va,51.12,72.86,9.87
+europe_lau,Vanůvek,vanuvek,va,63.4,80.63,75.64
+europe_lau,Vápovice,vapovice,va,19.86,47.77,-12.75
+europe_lau,Valeč,valec,va,38.27,63.05,34.18
+europe_lau,Vatín,vatin,va,65.27,75.41,61.34
+europe_lau,Václavov u Bruntálu,vaclavov_u_bruntalu,va,38.83,63.76,65.61
+europe_lau,Václavovice,vaclavovice,va,54.26,67.11,33.36
+europe_lau,Vážany,vazany,va,72.44,75.97,49.16
+europe_lau,Vážany nad Litavou,vazany_nad_litavou,va,43.07,57.52,96.8
+europe_lau,Valtrovice,valtrovice,va,49.71,76.38,94.34
+europe_lau,Vahlberg,vahlberg,va,35.18,55.44,42.37
+europe_lau,Varrel,varrel,va,50.12,56.15,53.51
+europe_lau,Vahlbruch,vahlbruch,va,47.43,56.57,48.03
+europe_lau,Vahlde,vahlde,va,30.2,51.44,66.33
+europe_lau,Vaale,vaale,va,28.05,64.56,-84.06
+europe_lau,Vaalermoor,vaalermoor,va,29.77,53.92,5.07
+europe_lau,Vastorf,vastorf,va,51.62,61.02,22.71
+europe_lau,"Varel, Stadt",varel_stadt,va,55.76,68.58,76.86
+europe_lau,Valwig,valwig,va,30.37,59.9,-29.57
+europe_lau,"Vallendar, Stadt",vallendar_stadt,va,43.2,58.93,25.99
+europe_lau,Vasoldsberg,vasoldsberg,va,39.69,64.94,68.39
+europe_lau,"Vaihingen an der Enz, Stadt",vaihingen_an_der_enz_stadt,va,34.54,50.39,92.62
+europe_lau,Vals,vals,va,39.37,63.03,-35.81
+europe_lau,Valley,valley,va,37.09,55.02,97.34
+europe_lau,Vaterstetten,vaterstetten,va,67.56,69,65.01
+europe_lau,Vachendorf,vachendorf,va,57.81,66.06,38.39
+europe_lau,Vachdorf,vachdorf,va,48.34,68.73,84.06
+europe_lau,"Vacha, Stadt",vacha_stadt,va,29.71,54.03,90.18
+europe_lau,Vandans,vandans,va,33.8,61.79,15.49
+europe_lau,Vallensbæk,vallensbaek,va,35.9,75.88,74.84
+europe_lau,Varde,varde,va,52.6,58.52,29.33
+europe_lau,Valdelacasa de Tajo,valdelacasa_de_tajo,va,37.18,46.84,89.31
+europe_lau,Valdemorales,valdemorales,va,60.55,67.45,48.73
+europe_lau,Valdeobispo,valdeobispo,va,43.26,65.45,52.51
+europe_lau,Valencia de Alcántara,valencia_de_alcantara,va,44.52,59,74.06
+europe_lau,Valverde de la Vera,valverde_de_la_vera,va,21.72,54.22,76.36
+europe_lau,Valverde del Fresno,valverde_del_fresno,va,54.71,63.94,82.61
+europe_lau,Valdelacalzada,valdelacalzada,va,48.87,77.23,-22.88
+europe_lau,Valldemossa,valldemossa,va,47.26,53.1,64.5
+europe_lau,Valle de Trápaga-Trapagaran,valle_de_trapaga_trapagaran,va,54.72,75.62,65.3
+europe_lau,Valdegovía,valdegovia,va,49.18,59.23,42
+europe_lau,Valdefuentes del Páramo,valdefuentes_del_paramo,va,52.6,73.77,97.6
+europe_lau,Valdelugueros,valdelugueros,va,58.27,67.36,81.38
+europe_lau,Valdemora,valdemora,va,29.74,54.98,67.49
+europe_lau,Valdepiélago,valdepielago,va,48.31,65.5,54.04
+europe_lau,Valdepolo,valdepolo,va,41.16,64.56,52.76
+europe_lau,Valderas,valderas,va,55.68,75.42,60.96
+europe_lau,Valderrey,valderrey,va,37.61,54.55,28.58
+europe_lau,Valderrueda,valderrueda,va,57.28,62.59,70.16
+europe_lau,Valdesamario,valdesamario,va,20.22,62.99,-135.34
+europe_lau,Val de San Lorenzo,val_de_san_lorenzo,va,38.38,55.78,58.78
+europe_lau,Valdevimbre,valdevimbre,va,47.94,56.36,56.06
+europe_lau,Valencia de Don Juan,valencia_de_don_juan,va,48.72,61.47,76.72
+europe_lau,Valverde de la Virgen,valverde_de_la_virgen,va,61.43,69.16,55.11
+europe_lau,Valverde-Enrique,valverde_enrique,va,54.68,72.62,65.19
+europe_lau,Vallecillo,vallecillo,va,34.16,50.62,55.13
+europe_lau,"Valle de Altomira, El",valle_de_altomira_el,va,43.84,77.79,93.29
+europe_lau,Vadocondes,vadocondes,va,60.83,64.69,49.43
+europe_lau,Valdeande,valdeande,va,43.92,68.28,77.82
+europe_lau,Valdezate,valdezate,va,53.01,63.7,85.23
+europe_lau,Valmala,valmala,va,42.37,67.31,97.59
+europe_lau,Vallarta de Bureba,vallarta_de_bureba,va,30.85,66.54,29.64
+europe_lau,Valle de Manzanedo,valle_de_manzanedo,va,36.67,57.14,-12.7
+europe_lau,Valle de Mena,valle_de_mena,va,48.55,61.47,31.98
+europe_lau,Valle de Oca,valle_de_oca,va,54.16,66.2,71.18
+europe_lau,Valle de Tobalina,valle_de_tobalina,va,42.41,62.44,48.49
+europe_lau,Valle de Valdebezana,valle_de_valdebezana,va,40.25,64.81,27.14
+europe_lau,Valle de Valdelaguna,valle_de_valdelaguna,va,31.93,40.58,74.54
+europe_lau,Valle de Valdelucio,valle_de_valdelucio,va,44.26,59.05,8.83
+europe_lau,Valle de Zamanzas,valle_de_zamanzas,va,39.73,62.78,54.27
+europe_lau,Vallejera,vallejera,va,44.24,68.22,67.94
+europe_lau,Valles de Palenzuela,valles_de_palenzuela,va,51.95,74.69,-1.27
+europe_lau,Valluércanes,valluercanes,va,64.05,75.79,64.24
+europe_lau,Vadillo de la Sierra,vadillo_de_la_sierra,va,56.01,82.09,47.48
+europe_lau,Valdecasa,valdecasa,va,47.03,57.66,43.91
+europe_lau,Valdeganga,valdeganga,va,44.51,53.29,58.48
+europe_lau,Vacarisses,vacarisses,va,43.02,54.15,47.12
+europe_lau,Vallbona d'Anoia,vallbona_d_anoia,va,36.79,62.53,92.51
+europe_lau,Vallcebre,vallcebre,va,64.24,69.1,54.9
+europe_lau,Vallgorguina,vallgorguina,va,44.22,65.45,8.08
+europe_lau,Vallirana,vallirana,va,52.8,66.81,23.14
+europe_lau,Vallromanes,vallromanes,va,52.67,67.86,9.42
+europe_lau,Valdemeca,valdemeca,va,58.66,73.69,85.71
+europe_lau,Valdemorillo de la Sierra,valdemorillo_de_la_sierra,va,60.42,76.41,57.52
+europe_lau,Valdemoro-Sierra,valdemoro_sierra,va,38.91,59.71,99.59
+europe_lau,Valdeolivas,valdeolivas,va,50.91,65.49,63.49
+europe_lau,Valhermoso de la Fuente,valhermoso_de_la_fuente,va,54.4,71.38,90.77
+europe_lau,Valsalobre,valsalobre,va,58.77,76.77,44.12
+europe_lau,Valverde de Júcar,valverde_de_jucar,va,34.39,57.62,90.49
+europe_lau,Valverdejo,valverdejo,va,45,58.3,92.51
+europe_lau,Vara de Rey,vara_de_rey,va,50.12,63.9,69.96
+europe_lau,Valdetórtola,valdetortola,va,45.43,51.81,55.03
+europe_lau,"Valeras, Las",valeras_las,va,42.32,62.87,98.5
+europe_lau,"Valdecolmenas, Los",valdecolmenas_los,va,49.56,70.32,10.99
+europe_lau,Valle de Santibáñez,valle_de_santibanez,va,60.5,67.55,40.42
+europe_lau,Valle de las Navas,valle_de_las_navas,va,45.18,61.12,83.35
+europe_lau,Valle de Sedano,valle_de_sedano,va,37.47,44.08,87.6
+europe_lau,Valle de Losa,valle_de_losa,va,45.42,52.14,58.76
+europe_lau,"Vall d'en Bas, La",vall_den_bas_la,va,57.58,75.76,72.78
+europe_lau,"Vall de Bianya, La",vall_de_bianya_la,va,48.75,66.24,1.67
+europe_lau,Vall-llobrega,vall_llobrega,va,38.96,67.49,27.68
+europe_lau,Vallat,vallat,va,46.14,70.58,99.29
+europe_lau,Vall d'Alba,vall_d_alba,va,56.15,74.2,31.8
+europe_lau,Vall de Almonacid,vall_de_almonacid,va,44.24,64.02,-0.35
+europe_lau,"Vall d'Uixó, la",vall_d_uixo_la,va,57.53,72.43,43.55
+europe_lau,Vallibona,vallibona,va,48.44,65.36,-13.89
+europe_lau,Варна,varna,va,32.82,50.64,43.64
+europe_lau,"Vajol, La",vajol_la,va,28.93,55.59,1.55
+europe_lau,Valdemanco del Esteras,valdemanco_del_esteras,va,25.16,46.5,66.66
+europe_lau,Valdepeñas,valdepenas,va,58.36,61.21,70.85
+europe_lau,Valenzuela de Calatrava,valenzuela_de_calatrava,va,54.74,68.31,59.8
+europe_lau,Valdetorres,valdetorres,va,50.11,57.4,48.33
+europe_lau,Valencia de las Torres,valencia_de_las_torres,va,56.75,64.51,52
+europe_lau,Valencia del Mombuey,valencia_del_mombuey,va,43.65,73.19,87.5
+europe_lau,Valencia del Ventoso,valencia_del_ventoso,va,32.93,56.69,61.04
+europe_lau,Valverde de Burguillos,valverde_de_burguillos,va,37.73,55.7,39.22
+europe_lau,Valverde de Leganés,valverde_de_leganes,va,78.67,76.14,69.66
+europe_lau,Valverde de Llerena,valverde_de_llerena,va,50.92,61.44,52.12
+europe_lau,Valverde de Mérida,valverde_de_merida,va,62.82,71.7,74.42
+europe_lau,Valle de la Serena,valle_de_la_serena,va,48.47,65.58,66.44
+europe_lau,Valle de Matamoros,valle_de_matamoros,va,72.55,86.44,44.14
+europe_lau,Valle de Santa Ana,valle_de_santa_ana,va,37.72,49.43,43.31
+europe_lau,Válor,valor,va,30.26,63.96,85.38
+europe_lau,"Valle, El",valle_el,va,33.97,46.33,83.59
+europe_lau,Valle del Zalabí,valle_del_zalabi,va,23.55,55.5,-55.5
+europe_lau,Valderrubio,valderrubio,va,41.73,72.46,95.09
+europe_lau,"Vall d'Alcalà, la",vall_d_alcala_la,va,40.3,60.54,-5.73
+europe_lau,"Vall d'Ebo, la",vall_d_ebo_la,va,58.38,78.37,52.1
+europe_lau,Vall de Gallinera,vall_de_gallinera,va,42.23,62.17,-11.21
+europe_lau,"Vall de Laguar, la",vall_de_laguar_la,va,47.03,68.53,37.22
+europe_lau,Vallfogona de Ripollès,vallfogona_de_ripolles,va,60.04,77.64,2.55
+europe_lau,Valdastillas,valdastillas,va,15.51,40.07,1.91
+europe_lau,Valdecañas de Tajo,valdecanas_de_tajo,va,56.05,69.64,60.36
+europe_lau,Valdefuentes,valdefuentes,va,69.34,78.41,60.8
+europe_lau,Valdehúncar,valdehuncar,va,60.46,67.5,21.83
+europe_lau,Valenzuela,valenzuela,va,43.27,54.58,53
+europe_lau,Valsequillo,valsequillo,va,36.78,69.48,85.2
+europe_lau,Valdoviño,valdovino,va,40.15,60.41,28.76
+europe_lau,Val do Dubra,val_do_dubra,va,53.33,66.09,91.89
+europe_lau,Vaux-sur-Sûre,vaux_sur_sure,va,56.75,74.46,59.95
+europe_lau,Valga vald,valga_vald,va,36.1,59.06,97.2
+europe_lau,Väike-Maarja vald,vaike_maarja_vald,va,57.35,66.4,64.08
+europe_lau,Vaala,vaala,va,50.02,63.49,72.9
+europe_lau,Vaasa,vaasa,va,55.4,74.19,69.94
+europe_lau,Valkeakoski,valkeakoski,va,62.31,64.58,55.7
+europe_lau,Varkaus,varkaus,va,25.42,53.9,-24.17
+europe_lau,Vårdö,vardo,va,23.67,46.41,85.81
+europe_lau,Valsot,valsot,va,49.52,56.19,74.32
+europe_lau,Valmigère,valmigere,va,36.27,53.43,-9.06
+europe_lau,Val-Mont,val_mont,va,39.58,63.84,-2.24
+europe_lau,Vanzac,vanzac,va,42.72,54.96,56.59
+europe_lau,Varaize,varaize,va,54.4,67.51,45.71
+europe_lau,Varzay,varzay,va,59,75.27,39.37
+europe_lau,Vaux-sur-Mer,vaux_sur_mer,va,42.91,68.08,87.62
+europe_lau,Vaire,vaire,va,33.84,58.2,-20.46
+europe_lau,Valdahon,valdahon,va,50.16,69,67.94
+europe_lau,Val-de-Roulans,val_de_roulans,va,67.15,76.65,69.99
+europe_lau,Valentigney,valentigney,va,54.17,66.73,84.54
+europe_lau,Valserhône,valserhone,va,52.5,66.42,41.95
+europe_lau,Valromey-sur-Séran,valromey_sur_seran,va,36.65,60.19,96.19
+europe_lau,Val-de-Chalvagne,val_de_chalvagne,va,37.05,52.04,25.33
+europe_lau,Valdehorna,valdehorna,va,32.81,51.97,92.45
+europe_lau,Val de San Martín,val_de_san_martin,va,61.51,73.77,66.46
+europe_lau,Valmadrid,valmadrid,va,53.13,64.03,77.1
+europe_lau,Valpalmas,valpalmas,va,65.18,72.93,81.83
+europe_lau,Valtorres,valtorres,va,44.12,74.09,89.83
+europe_lau,Val de Drôme,val_de_drome,va,43.46,56.96,25.48
+europe_lau,Val-Revermont,val_revermont,va,42.41,54.77,88.13
+europe_lau,Valeins,valeins,va,55.26,74.78,42.63
+europe_lau,Vandeins,vandeins,va,49.49,60.18,79.55
+europe_lau,Varambon,varambon,va,37.8,51.72,31.99
+europe_lau,Vaux-en-Bugey,vaux_en_bugey,va,24.67,42.88,4.39
+europe_lau,Vacognes-Neuilly,vacognes_neuilly,va,45.07,56.65,84.26
+europe_lau,Valsemé,valseme,va,32.14,56.66,5.76
+europe_lau,Varaville,varaville,va,54.59,60.12,63.07
+europe_lau,Valdallière,valdalliere,va,57.76,61.98,54.94
+europe_lau,Vaucelles,vaucelles,va,38.4,49.16,57.26
+europe_lau,Vauville,vauville,va,30.42,69.42,99.21
+europe_lau,Vaux-sur-Aure,vaux_sur_aure,va,45.01,64.82,72.33
+europe_lau,Vaux-sur-Seulles,vaux_sur_seulles,va,53.02,63.58,9.25
+europe_lau,Vals,vals,va,56.88,72.87,66.41
+europe_lau,Varilhes,varilhes,va,47.19,62.12,30.29
+europe_lau,Vaychis,vaychis,va,42.38,70.82,12
+europe_lau,Val-de-Sos,val_de_sos,va,34.25,59.12,67.01
+europe_lau,Val d'Oronaye,val_d_oronaye,va,44.04,63.31,70.55
+europe_lau,Val-d'Auzon,val_d_auzon,va,43.09,54.01,46.7
+europe_lau,Vallière,valliere,va,38.44,53.38,9.49
+europe_lau,Vareilles,vareilles,va,44.02,58.33,60.7
+europe_lau,Vantaa,vantaa,va,48.27,54.36,21.41
+europe_lau,Val de Lambronne,val_de_lambronne,va,36.09,51.33,-8.51
+europe_lau,Val-du-Faby,val_du_faby,va,49.67,63.53,48.14
+europe_lau,Vallées en Champagne,vallees_en_champagne,va,47.94,55.41,65.11
+europe_lau,Vabres,vabres,va,76.09,82.1,45.09
+europe_lau,Valette,valette,va,50.84,65.14,82.71
+europe_lau,Valjouze,valjouze,va,50.87,71.47,83.88
+europe_lau,Valuéjols,valuejols,va,42.02,68.72,-42.48
+europe_lau,Vachères,vacheres,va,46.72,63,90.98
+europe_lau,Valavoire,valavoire,va,56.44,69.66,69.65
+europe_lau,Valbelle,valbelle,va,63.18,71.72,32.58
+europe_lau,Valernes,valernes,va,42.69,57.83,5.38
+europe_lau,Vaumeilh,vaumeilh,va,33.01,60.08,62.41
+europe_lau,Val de Louyre et Caudeau,val_de_louyre_et_caudeau,va,39.87,45.52,36.75
+europe_lau,Valdoule,valdoule,va,49.19,67.32,19.06
+europe_lau,Val Müstair,val_mustair,va,51.02,70.38,46.62
+europe_lau,Vagnas,vagnas,va,61.58,70.39,37.05
+europe_lau,Valgorge,valgorge,va,46.2,70.23,44.09
+europe_lau,Vallon-Pont-d'Arc,vallon_pont_d_arc,va,35.54,63.32,47.36
+europe_lau,Vals-les-Bains,vals_les_bains,va,66.95,67.8,45.88
+europe_lau,Valvignères,valvigneres,va,58.34,65.26,45.03
+europe_lau,Vanosc,vanosc,va,41.49,61.31,-7.85
+europe_lau,Vaudevant,vaudevant,va,31.21,52.36,-47.66
+europe_lau,Valorbiquet,valorbiquet,va,59.34,74.53,67.36
+europe_lau,Val-de-Vie,val_de_vie,va,47.66,61.09,85.47
+europe_lau,Vallouise-Pelvoux,vallouise_pelvoux,va,52.37,62.84,76.65
+europe_lau,Val Buëch-Méouge,val_buech_meouge,va,31.17,53.98,62.81
+europe_lau,Vabres-l'Abbaye,vabres_l_abbaye,va,39.53,60.86,-7.74
+europe_lau,Vailhourles,vailhourles,va,61.04,69.64,51.21
+europe_lau,Valady,valady,va,54.52,71.99,69.52
+europe_lau,Valzergues,valzergues,va,63.31,72.66,55.13
+europe_lau,Vaureilles,vaureilles,va,44.4,60.57,52.27
+europe_lau,Val d'Orger,val_d_orger,va,43.46,56.75,1.05
+europe_lau,Val-de-Dagne,val_de_dagne,va,56.55,72.95,22.87
+europe_lau,Vailly-sur-Sauldre,vailly_sur_sauldre,va,44.59,57.26,58.56
+europe_lau,Vallenay,vallenay,va,40.64,59.49,91.21
+europe_lau,Vasselay,vasselay,va,45.77,63.37,87.15
+europe_lau,Val-des-Prés,val_des_pres,va,32.42,47.64,66.64
+europe_lau,Valserres,valserres,va,45.84,65.94,79.39
+europe_lau,Vars,vars,va,68.3,73.24,47.73
+europe_lau,Vacallo,vacallo,va,28.56,54.97,38.45
+europe_lau,Vallereuil,vallereuil,va,65.53,74.65,58.92
+europe_lau,Valojoulx,valojoulx,va,41.45,59.77,79.98
+europe_lau,Vanxains,vanxains,va,37.75,59.26,97.46
+europe_lau,Varaignes,varaignes,va,40.12,60.11,98.38
+europe_lau,Varennes,varennes,va,25.92,71.05,-89.79
+europe_lau,Vaunac,vaunac,va,50.48,61.57,30.22
+europe_lau,Val-Suzon,val_suzon,va,28.96,57.14,44.16
+europe_lau,Vandenesse-en-Auxois,vandenesse_en_auxois,va,49.06,59.31,85.23
+europe_lau,Vannaire,vannaire,va,36.02,73.46,-59.22
+europe_lau,Vanvey,vanvey,va,49.27,64.94,52.83
+europe_lau,Varanges,varanges,va,39.4,68.73,40.51
+europe_lau,Varois-et-Chaignot,varois_et_chaignot,va,56.14,67.34,66.04
+europe_lau,Vaux-Saules,vaux_saules,va,56.76,72.17,41.87
+europe_lau,Valignat,valignat,va,54.28,74.05,-9.59
+europe_lau,Valigny,valigny,va,52.39,71.31,-6.68
+europe_lau,Vallon-en-Sully,vallon_en_sully,va,41.59,52.34,22.87
+europe_lau,Varennes-sur-Allier,varennes_sur_allier,va,54.44,75.21,68.42
+europe_lau,Varennes-sur-Tèche,varennes_sur_teche,va,48.44,66.46,88.97
+europe_lau,Vaumas,vaumas,va,39.98,57.44,3.39
+europe_lau,Vaux,vaux,va,55.85,62.68,62.34
+europe_lau,Vauvenargues,vauvenargues,va,36.82,60.09,-35.19
+europe_lau,Valambray,valambray,va,36.35,46.53,44.32
+europe_lau,Val d'Arry,val_d_arry,va,55.37,70.56,60.29
+europe_lau,Valdemadera,valdemadera,va,31.22,56.7,-46.91
+europe_lau,Valgañón,valganon,va,31.77,61.46,87.4
+europe_lau,Vadencourt,vadencourt,va,48.55,76.54,19.09
+europe_lau,Vailly-sur-Aisne,vailly_sur_aisne,va,48.37,71.49,49.01
+europe_lau,Variscourt,variscourt,va,49.29,75.61,68.74
+europe_lau,Vassens,vassens,va,55.66,78.08,73.84
+europe_lau,Vasseny,vasseny,va,48.35,58.35,72.14
+europe_lau,Vassogne,vassogne,va,61.93,78.81,40.18
+europe_lau,Vaucelles-et-Beffecourt,vaucelles_et_beffecourt,va,57.74,71.92,71.29
+europe_lau,Vaudesson,vaudesson,va,35.22,60.55,87.14
+europe_lau,Vauxrezis,vauxrezis,va,38.14,69.07,96.02
+europe_lau,Vauxaillon,vauxaillon,va,63.54,73.15,35.1
+europe_lau,Vaux-Andigny,vaux_andigny,va,61.33,73.6,61.1
+europe_lau,Vauxbuin,vauxbuin,va,55.24,70.6,47.71
+europe_lau,Vaux-en-Vermandois,vaux_en_vermandois,va,42.68,62.77,76.88
+europe_lau,Vauxtin,vauxtin,va,53.28,65.34,10.66
+europe_lau,Val-de-Charmey,val_de_charmey,va,31.67,48.34,98.5
+europe_lau,Valbonne,valbonne,va,46.48,63.97,38.91
+europe_lau,Valdeblore,valdeblore,va,41.12,56.37,88.86
+europe_lau,Valderoure,valderoure,va,27.12,69.08,-146.43
+europe_lau,Vallauris,vallauris,va,42.69,61.13,87.94
+europe_lau,Vadillo,vadillo,va,30.89,39.54,73.02
+europe_lau,Valdeavellano de Tera,valdeavellano_de_tera,va,60.67,70.89,77.44
+europe_lau,Valdegeña,valdegena,va,33.37,70.29,99.37
+europe_lau,Valdelagua del Cerro,valdelagua_del_cerro,va,14.66,45.86,26.17
+europe_lau,Valdemaluque,valdemaluque,va,40.41,57.36,61.81
+europe_lau,Valdenebro,valdenebro,va,42.15,75.21,38.56
+europe_lau,Valdeprado,valdeprado,va,30.29,52.17,12.21
+europe_lau,Valderrodilla,valderrodilla,va,48.89,73.57,82.07
+europe_lau,Valtajeros,valtajeros,va,53.48,66.33,46.64
+europe_lau,Vallées-d'Antraigues-Asperjoc,vallees_d_antraigues_asperjoc,va,20.54,40.99,84.38
+europe_lau,"Valadouro, O",valadouro_o,va,30.07,56.18,53.55
+europe_lau,Valbirse,valbirse,va,57.35,84.49,93.44
+europe_lau,Valle de Egüés,valle_de_egues,va,45.6,65.1,58.55
+europe_lau,"Vall de Boí, La",vall_de_boi_la,va,59.99,73.18,59.7
+europe_lau,Valacloche,valacloche,va,46.36,56.89,36.2
+europe_lau,Valbona,valbona,va,29.26,65.96,98.55
+europe_lau,Valdealgorfa,valdealgorfa,va,52.07,68.14,71.79
+europe_lau,Valdecuenca,valdecuenca,va,60.72,78.46,29.08
+europe_lau,Valdelinares,valdelinares,va,28.38,48.59,99.05
+europe_lau,Valdeltormo,valdeltormo,va,47.56,61.84,37.64
+europe_lau,Valderrobres,valderrobres,va,23.1,42.12,91.74
+europe_lau,Valjunquera,valjunquera,va,51.72,65.49,52.26
+europe_lau,"Vallecillo, El",vallecillo_el,va,47.39,63.54,75.42
+europe_lau,València,valencia,va,14.36,40.22,86.91
+europe_lau,Vallada,vallada,va,50.31,77.59,45.76
+europe_lau,Vallanca,vallanca,va,41.02,59.86,62.76
+europe_lau,Vallés,valles,va,50.51,76.29,76.98
+europe_lau,Valbuena de Pisuerga,valbuena_de_pisuerga,va,43.87,64.85,93.45
+europe_lau,Valdeolmillos,valdeolmillos,va,36.31,61.52,81.01
+europe_lau,Valderrábano,valderrabano,va,49.72,56.91,56.52
+europe_lau,Valde-Ucieza,valde_ucieza,va,56.31,72.3,37.77
+europe_lau,Valle de Cerrato,valle_de_cerrato,va,52.84,56.33,55.25
+europe_lau,Valfarta,valfarta,va,36.93,55.95,21.73
+europe_lau,Valle de Bardají,valle_de_bardaji,va,50,71,41.51
+europe_lau,Valle de Lierp,valle_de_lierp,va,62.58,78.21,83.44
+europe_lau,Valle de Hecho,valle_de_hecho,va,39.24,63.51,99.85
+europe_lau,Valdeprados,valdeprados,va,55.27,66.52,4.81
+europe_lau,Valdevacas de Montejo,valdevacas_de_montejo,va,51.29,63.46,74.09
+europe_lau,Valdevacas y Guijar,valdevacas_y_guijar,va,55.82,60.03,61.11
+europe_lau,Valseca,valseca,va,42.04,51.33,34.26
+europe_lau,Valtiendas,valtiendas,va,37.51,59.92,41.64
+europe_lau,Valverde del Majano,valverde_del_majano,va,45.21,55.87,80.08
+europe_lau,Valle de Tabladillo,valle_de_tabladillo,va,43.13,68.14,-11.14
+europe_lau,Vallelado,vallelado,va,50.36,58.66,52.91
+europe_lau,Valleruela de Pedraza,valleruela_de_pedraza,va,56.59,63.76,71.69
+europe_lau,Valleruela de Sepúlveda,valleruela_de_sepulveda,va,44.63,65.41,59.59
+europe_lau,Valdarachas,valdarachas,va,37.74,53.78,85.6
+europe_lau,Valdearenas,valdearenas,va,56.26,67.07,80.98
+europe_lau,Valdeavellano,valdeavellano,va,35.9,61.34,93.52
+europe_lau,Valdeaveruelo,valdeaveruelo,va,28.65,67.8,95.12
+europe_lau,Valdeconcha,valdeconcha,va,59.07,75.43,45.65
+europe_lau,Valdegrudas,valdegrudas,va,45.21,67.47,57.71
+europe_lau,Valdelcubo,valdelcubo,va,48.24,61.49,22.27
+europe_lau,Valdenuño Fernández,valdenuno_fernandez,va,48.72,56.62,68.93
+europe_lau,Valdepeñas de la Sierra,valdepenas_de_la_sierra,va,53.06,65.52,71.91
+europe_lau,Valderrebollo,valderrebollo,va,51.87,62.33,32
+europe_lau,Valdesotos,valdesotos,va,48.67,64.34,89.09
+europe_lau,Valfermoso de Tajuña,valfermoso_de_tajuna,va,46.59,74.27,24.21
+europe_lau,Valhermoso,valhermoso,va,45.76,61.8,24.55
+europe_lau,Valtablado del Río,valtablado_del_rio,va,53.84,66.52,38.88
+europe_lau,Valverde de los Arroyos,valverde_de_los_arroyos,va,50.03,69.72,59.47
+europe_lau,Valle de Ollo,valle_de_ollo,va,44.08,59.35,5.1
+europe_lau,Vandy,vandy,va,30.21,56.55,32.06
+europe_lau,Vaux-Champagne,vaux_champagne,va,48.23,61.8,74.58
+europe_lau,Vaux-en-Dieulet,vaux_en_dieulet,va,35.28,52.98,45.77
+europe_lau,Vaux-lès-Mouron,vaux_les_mouron,va,50.91,68.38,13.85
+europe_lau,Vaux-lès-Rubigny,vaux_les_rubigny,va,36.6,52.6,73.71
+europe_lau,Vaux-Montreuil,vaux_montreuil,va,36.94,61.12,94.53
+europe_lau,Vaux-Villaine,vaux_villaine,va,35.48,62.83,90.21
+europe_lau,Valdecarros,valdecarros,va,61.99,74.36,49.53
+europe_lau,Valdefuentes de Sangusín,valdefuentes_de_sangusin,va,68.95,76.08,71.72
+europe_lau,Valdehijaderos,valdehijaderos,va,58.16,85.45,73.35
+europe_lau,Valdelacasa,valdelacasa,va,27.36,55.94,-28.08
+europe_lau,Valdelageve,valdelageve,va,37.26,59.78,72.21
+europe_lau,Valdelosa,valdelosa,va,52.8,58.07,36.13
+europe_lau,Valdemierque,valdemierque,va,39.07,66.33,11.8
+europe_lau,Valderrodrigo,valderrodrigo,va,60,71.09,48.28
+europe_lau,Valdunciel,valdunciel,va,22.18,44.45,88.82
+europe_lau,Valero,valero,va,47.22,65.37,63.4
+europe_lau,Valsalabroso,valsalabroso,va,58.03,62.42,45.85
+europe_lau,Valverde de Valdelacasa,valverde_de_valdelacasa,va,45.56,57.54,77.9
+europe_lau,Valverdón,valverdon,va,41.46,55.4,36.14
+europe_lau,Vallejera de Riofrío,vallejera_de_riofrio,va,44.57,61.05,32.5
+europe_lau,Valle del Retortillo,valle_del_retortillo,va,41.43,58.49,91.97
+europe_lau,Valsequillo de Gran Canaria,valsequillo_de_gran_canaria,va,42.77,69.45,24.03
+europe_lau,Valleseco,valleseco,va,36.17,68.79,80.01
+europe_lau,Valdepeñas de Jaén,valdepenas_de_jaen,va,58.6,68.17,54.23
+europe_lau,Vadillo de la Guareña,vadillo_de_la_guarena,va,67.22,70.89,55.18
+europe_lau,Valcabado,valcabado,va,55.59,72.35,80.45
+europe_lau,Valdefinjas,valdefinjas,va,33.17,63.86,94.88
+europe_lau,Valdescorriel,valdescorriel,va,27.76,53.07,89.57
+europe_lau,Vallesa de la Guareña,vallesa_de_la_guarena,va,56.89,67.46,79.19
+europe_lau,Valdaracete,valdaracete,va,57.02,62.8,56.53
+europe_lau,Valdeavero,valdeavero,va,40.21,52.75,68.58
+europe_lau,Valdelaguna,valdelaguna,va,56.92,66.49,64.36
+europe_lau,Valdemanco,valdemanco,va,48.42,73.46,91.38
+europe_lau,Valdemaqueda,valdemaqueda,va,27,61.04,90.04
+europe_lau,Valdemorillo,valdemorillo,va,55.73,78.49,76.33
+europe_lau,Valdemoro,valdemoro,va,55.2,63.19,55.75
+europe_lau,Valdeolmos-Alalpardo,valdeolmos_alalpardo,va,56.66,70.64,74.01
+europe_lau,Valdepiélagos,valdepielagos,va,44.59,66.81,62.69
+europe_lau,Valdetorres de Jarama,valdetorres_de_jarama,va,50.37,57.9,55.11
+europe_lau,Valdilecha,valdilecha,va,67.58,74.71,54.9
+europe_lau,Valverde de Alcalá,valverde_de_alcala,va,37.85,64.1,56.27
+europe_lau,Valtierra,valtierra,va,43.04,75.77,89.61
+europe_lau,Valle de Yerri,valle_de_yerri,va,23,49.89,-93.35
+europe_lau,Valencina de la Concepción,valencina_de_la_concepcion,va,54.65,56.57,65.33
+europe_lau,Vallbona de les Monges,vallbona_de_les_monges,va,37.62,53.73,22.18
+europe_lau,"Valls de Valira, Les",valls_de_valira_les,va,42.06,51.37,50.43
+europe_lau,Vallfogona de Balaguer,vallfogona_de_balaguer,va,34.91,47.37,95.2
+europe_lau,Vall de Cardós,vall_de_cardos,va,30.66,52.26,93.44
+europe_lau,"Valls d'Aguilar, Les",valls_d_aguilar_les,va,40.26,49.36,7.21
+europe_lau,"Vansa i Fórnols, La",vansa_i_fornols_la,va,47.8,60.7,37.42
+europe_lau,Valdeverdeja,valdeverdeja,va,53.26,63.08,86.67
+europe_lau,Valmojado,valmojado,va,47.9,66.65,69.32
+europe_lau,Valverde,valverde,va,40.98,57.58,76.89
+europe_lau,Valle Gran Rey,valle_gran_rey,va,52.55,60.15,65.49
+europe_lau,Vallehermoso,vallehermoso,va,37.47,55.02,98.16
+europe_lau,Vallclara,vallclara,va,59.7,69.13,71.88
+europe_lau,Vallfogona de Riucorb,vallfogona_de_riucorb,va,67.07,74.24,37.35
+europe_lau,Vallmoll,vallmoll,va,39.04,61.09,93.47
+europe_lau,Valls,valls,va,50.45,61.27,83.57
+europe_lau,Vandellòs i l'Hospitalet de l'Infant,vandellos_i_l_hospitalet_de_l_infant,va,61.68,69.84,63.28
+europe_lau,Valga,valga,va,43.58,61.55,-4.23
+europe_lau,Vaz/Obervaz,vaz_obervaz,va,34.27,57.53,78.81
+europe_lau,Val d'Arcomie,val_d_arcomie,va,67,75.1,59.65
+europe_lau,Vallon,vallon,va,24.4,56.51,97.16
+europe_lau,Valbuena de Duero,valbuena_de_duero,va,38.37,51.4,47.52
+europe_lau,Valdearcos de la Vega,valdearcos_de_la_vega,va,44.4,58.52,30.67
+europe_lau,Valdenebro de los Valles,valdenebro_de_los_valles,va,39.88,64.17,88.07
+europe_lau,Valdestillas,valdestillas,va,50.06,65.51,75.25
+europe_lau,Valdunquillo,valdunquillo,va,50.05,67.95,0.79
+europe_lau,Valoria la Buena,valoria_la_buena,va,37.79,50.4,12.73
+europe_lau,Valverde de Campos,valverde_de_campos,va,61.92,81.83,66.06
+europe_lau,Valladolid,valladolid,va,29.87,41.26,66.31
+europe_lau,Valle de Abdalajís,valle_de_abdalajis,va,55.05,63.89,37.43
+europe_lau,Valdáliga,valdaliga,va,55.89,59.92,65.28
+europe_lau,Valdeolea,valdeolea,va,59.89,67.88,78.57
+europe_lau,Valdeprado del Río,valdeprado_del_rio,va,49.83,63.29,27.66
+europe_lau,Valderredible,valderredible,va,38.07,55.48,19.14
+europe_lau,Val de San Vicente,val_de_san_vicente,va,59.77,73.99,25.14
+europe_lau,Valdelarco,valdelarco,va,36.45,49.89,76.55
+europe_lau,Valverde del Camino,valverde_del_camino,va,44.58,66.12,-7.2
+europe_lau,Valle de Villaverde,valle_de_villaverde,va,40.02,57.02,98.26
+europe_lau,Valdefresno,valdefresno,va,46.26,63.8,89.86
+europe_lau,Vailly,vailly,va,49.27,71.28,62.33
+europe_lau,Vallant-Saint-Georges,vallant_saint_georges,va,49.55,64.55,57.27
+europe_lau,Vallentigny,vallentigny,va,21.36,34.7,-34.6
+europe_lau,Vallières,vallieres,va,48.3,70.78,63.71
+europe_lau,Vanlay,vanlay,va,35.19,44.83,91.03
+europe_lau,Vauchassis,vauchassis,va,39.35,58.49,91.61
+europe_lau,Vauchonvilliers,vauchonvilliers,va,59.18,77.09,46.88
+europe_lau,Vaucogne,vaucogne,va,51.41,58.73,52.87
+europe_lau,Vaudes,vaudes,va,48.82,73.73,10.31
+europe_lau,Vaupoisson,vaupoisson,va,27.47,63.68,73.31
+europe_lau,Vals,vals,va,37.29,63.35,73.05
+europe_lau,Vaulruz,vaulruz,va,22.64,31.83,90.28
+europe_lau,Valdés,valdes,va,39.74,65.41,-11.42
+europe_lau,Vaiges,vaiges,va,56.51,69.5,73.2
+europe_lau,Vautorte,vautorte,va,53.51,60.18,58.67
+europe_lau,Val-de-Meuse,val_de_meuse,va,38.83,51.29,57.52
+europe_lau,Val-de-Vière,val_de_viere,va,61.18,75.62,60.34
+europe_lau,Val-au-Perche,val_au_perche,va,30.86,48.52,-22.4
+europe_lau,Valframbert,valframbert,va,37.64,59.66,35.04
+europe_lau,Vaunoise,vaunoise,va,52.61,68.39,74.4
+europe_lau,Valprivas,valprivas,va,48.29,68.76,96.67
+europe_lau,Vals-le-Chastel,vals_le_chastel,va,52.36,66.72,86.32
+europe_lau,Vals-près-le-Puy,vals_pres_le_puy,va,47.21,72.53,72.78
+europe_lau,Varennes-Saint-Honorat,varennes_saint_honorat,va,43.02,66.54,79.33
+europe_lau,Vazeilles-Limandre,vazeilles_limandre,va,43.87,53.61,63
+europe_lau,Val de Livre,val_de_livre,va,44.24,55.26,78.82
+europe_lau,Val-de-Vesle,val_de_vesle,va,48.09,62.71,81.98
+europe_lau,Vadenay,vadenay,va,46.44,70.18,65.51
+europe_lau,Valmy,valmy,va,34.71,53.43,40.4
+europe_lau,Vanault-le-Châtel,vanault_le_chatel,va,42.49,61.16,-0.85
+europe_lau,Vanault-les-Dames,vanault_les_dames,va,35.12,65.33,-14.59
+europe_lau,Vandeuil,vandeuil,va,45.21,70.27,89.21
+europe_lau,Vandières,vandieres,va,64.06,65.71,52.26
+europe_lau,Vassimont-et-Chapelaine,vassimont_et_chapelaine,va,31.53,68.57,43.71
+europe_lau,Vatry,vatry,va,29,68.29,49.87
+europe_lau,Vauchamps,vauchamps,va,44.17,56.36,24.09
+europe_lau,Vauciennes,vauciennes,va,46.17,55.76,32.68
+europe_lau,Vauclerc,vauclerc,va,35.16,46.35,5.51
+europe_lau,Vaudemange,vaudemange,va,40.33,57.07,0.7
+europe_lau,Vaudesincourt,vaudesincourt,va,30.74,65.92,-50.57
+europe_lau,Vavray-le-Grand,vavray_le_grand,va,52.32,72.83,54.81
+europe_lau,Vavray-le-Petit,vavray_le_petit,va,22.78,61.23,31.06
+europe_lau,Vacqueville,vacqueville,va,53.92,60.36,67.96
+europe_lau,Val-et-Châtillon,val_et_chatillon,va,22.24,47.18,7.49
+europe_lau,Valhey,valhey,va,52.28,61.96,63.07
+europe_lau,Valleroy,valleroy,va,24.12,51.9,-96.67
+europe_lau,Vallois,vallois,va,37.53,69.69,88.89
+europe_lau,Vandelainville,vandelainville,va,19.59,57.9,96.19
+europe_lau,Vandeléville,vandeleville,va,52.61,77.76,14.87
+europe_lau,Vandières,vandieres,va,25.34,45.68,-53.67
+europe_lau,Vandœuvre-lès-Nancy,vandoeuvre_les_nancy,va,34.62,65.62,14.66
+europe_lau,Vannes-le-Châtel,vannes_le_chatel,va,36.19,62.56,91.85
+europe_lau,Varangéville,varangeville,va,52.59,69.1,32.78
+europe_lau,Vathiménil,vathimenil,va,46.53,61.04,55.56
+europe_lau,Vaucourt,vaucourt,va,55.4,77.3,75.91
+europe_lau,Vaudémont,vaudemont,va,62.54,72.07,70.76
+europe_lau,Vaudeville,vaudeville,va,45.75,59.41,21.29
+europe_lau,Vaudigny,vaudigny,va,33.94,59.39,49.93
+europe_lau,Vaxainville,vaxainville,va,34.44,57.34,69.13
+europe_lau,Valailles,valailles,va,39.73,65.94,-7.91
+europe_lau,Valletot,valletot,va,52.8,71.65,30.91
+europe_lau,Vandrimare,vandrimare,va,58.9,57.62,60.3
+europe_lau,Vannecrocq,vannecrocq,va,41.28,58.18,87.4
+europe_lau,Vascœuil,vascoeuil,va,32.15,46.13,-13.08
+europe_lau,Vatteville,vatteville,va,34.39,57.23,-5.26
+europe_lau,Vaux-sur-Eure,vaux_sur_eure,va,38.12,52.22,56.93
+europe_lau,Val-de-Reuil,val_de_reuil,va,34.36,51.91,72.23
+europe_lau,Valloire-sur-Cisse,valloire_sur_cisse,va,42.58,49.42,26
+europe_lau,Varaire,varaire,va,40.44,59.99,70.8
+europe_lau,Vaylats,vaylats,va,43.29,57.67,87.74
+europe_lau,Vayrac,vayrac,va,54.74,70.78,93.46
+europe_lau,Vaillant,vaillant,va,49.62,59.71,65.5
+europe_lau,Valcourt,valcourt,va,47.68,58.83,62.66
+europe_lau,Valleret,valleret,va,60.45,67.54,41.45
+europe_lau,Valleroy,valleroy,va,53.18,69.71,89.58
+europe_lau,Varennes-sur-Amance,varennes_sur_amance,va,60.8,67.74,35.82
+europe_lau,Vaudrecourt,vaudrecourt,va,28.5,64.74,16.41
+europe_lau,Vaudrémont,vaudremont,va,55.11,68.49,70.6
+europe_lau,Vauxbons,vauxbons,va,56.19,72.91,10.53
+europe_lau,Vaux-sur-Blaise,vaux_sur_blaise,va,30.31,46.2,-7.64
+europe_lau,Vaux-sur-Saint-Urbain,vaux_sur_saint_urbain,va,56.2,71.7,30.97
+europe_lau,Val d'Erdre-Auxence,val_d_erdre_auxence,va,54.5,69.9,23.25
+europe_lau,Val-du-Layon,val_du_layon,va,43.22,59.03,51.98
+europe_lau,Vallée-de-Ronsard,vallee_de_ronsard,va,32.85,49.93,-5.55
+europe_lau,Valencisse,valencisse,va,47.07,62.54,27.14
+europe_lau,Vains,vains,va,38.47,63.57,43.76
+europe_lau,Valcanville,valcanville,va,33.27,50.58,-24.83
+europe_lau,Valognes,valognes,va,46.06,61.69,50.46
+europe_lau,Varenguebec,varenguebec,va,50.35,68.14,62.48
+europe_lau,Varouville,varouville,va,43.28,57.04,61.86
+europe_lau,Vaudreville,vaudreville,va,49.55,67.49,10.87
+europe_lau,Valeille,valeille,va,38.59,60.94,-33.66
+europe_lau,Valfleury,valfleury,va,40.36,51.79,60.06
+europe_lau,Vair-sur-Loire,vair_sur_loire,va,60.14,78.57,47.48
+europe_lau,Vallons-de-l'Erdre,vallons_de_l_erdre,va,52.31,58.19,50.86
+europe_lau,Vals-des-Tilles,vals_des_tilles,va,42.04,52.3,60.33
+europe_lau,Vannes-sur-Cosson,vannes_sur_cosson,va,49.63,68.76,58.17
+europe_lau,Varennes-Changy,varennes_changy,va,61.97,61.16,63.72
+europe_lau,Val-du-Maine,val_du_maine,va,29.87,48.16,-47.11
+europe_lau,Varennes-sur-Loire,varennes_sur_loire,va,50.56,61.52,43.39
+europe_lau,Varrains,varrains,va,45.1,63.7,29.87
+europe_lau,Vaudelnay,vaudelnay,va,42.15,65.11,40.4
+europe_lau,Vaux-sur-Morges,vaux_sur_morges,va,48.26,68.75,49.8
+europe_lau,Vallet,vallet,va,52.49,66.25,35.21
+europe_lau,Vay,vay,va,42.29,52.9,60.5
+europe_lau,Varès,vares,va,58.76,61.75,59.52
+europe_lau,Valaire,valaire,va,30.08,59.84,70.83
+europe_lau,Vallières-les-Grandes,vallieres_les_grandes,va,53.28,59.11,57.98
+europe_lau,Val-de-Bride,val_de_bride,va,44.86,64.46,72.35
+europe_lau,Val-des-Marais,val_des_marais,va,52.76,64.54,76.87
+europe_lau,Vallères,valleres,va,60.44,61.12,48.43
+europe_lau,Varennes,varennes,va,33.04,53.67,84.16
+europe_lau,Valence,valence,va,52.61,66.02,65.88
+europe_lau,Vars,vars,va,48.45,66.17,5.13
+europe_lau,Vaux-Lavalette,vaux_lavalette,va,35.57,73.95,-79.31
+europe_lau,Vaux-Rouillac,vaux_rouillac,va,49.73,70.06,22.12
+europe_lau,Val-d'Illiez,val_d_illiez,va,40.13,56.94,1.8
+europe_lau,Val de Briey,val_de_briey,va,32.11,54.02,9.87
+europe_lau,Varen,varen,va,30.94,52.16,83.46
+europe_lau,Vandoeuvres,vandoeuvres,va,64.46,69.5,72.53
+europe_lau,Valleroy,valleroy,va,28.64,45.17,-32.69
+europe_lau,Valonne,valonne,va,57.13,74.9,47.82
+europe_lau,Valoreille,valoreille,va,39.07,52.48,9.29
+europe_lau,Vandoncourt,vandoncourt,va,47.42,72.48,20.88
+europe_lau,Vaucluse,vaucluse,va,26.49,45.76,93.01
+europe_lau,Vauclusotte,vauclusotte,va,42.79,62.77,-5.04
+europe_lau,Vaudrivillers,vaudrivillers,va,29.7,51.71,93.86
+europe_lau,Vaufrey,vaufrey,va,44.1,52.35,38.75
+europe_lau,Vaux-et-Chantegrue,vaux_et_chantegrue,va,33.29,66.04,49.67
+europe_lau,Valbonnais,valbonnais,va,56.45,64.02,62.08
+europe_lau,Valencin,valencin,va,32.93,46.94,9.29
+europe_lau,Valencogne,valencogne,va,29.34,64.23,18.7
+europe_lau,Valjouffrey,valjouffrey,va,57.73,66.81,34.69
+europe_lau,Varacieux,varacieux,va,49.65,72.76,65.45
+europe_lau,Varces-Allières-et-Risset,varces_allieres_et_risset,va,34.88,54.35,-19.43
+europe_lau,Vasselin,vasselin,va,60.77,75.02,75.31
+europe_lau,Vatilieu,vatilieu,va,41.89,60.22,64.61
+europe_lau,Vaujany,vaujany,va,56.04,64.49,77.83
+europe_lau,Vaulnaveys-le-Bas,vaulnaveys_le_bas,va,50.01,63.93,8.94
+europe_lau,Vaulnaveys-le-Haut,vaulnaveys_le_haut,va,46.29,63.92,34.81
+europe_lau,Vaulx-Milieu,vaulx_milieu,va,43.81,57.33,75.62
+europe_lau,Val-de-Livenne,val_de_livenne,va,32.82,64.37,-85.11
+europe_lau,Valangin,valangin,va,37.13,55.06,63.75
+europe_lau,Val-de-Ruz,val_de_ruz,va,31.85,62.43,35.46
+europe_lau,Vabres,vabres,va,30.65,66.95,62.27
+europe_lau,Vallabrègues,vallabregues,va,42.88,59.33,82.26
+europe_lau,Vallabrix,vallabrix,va,60.13,76.32,57.92
+europe_lau,Vallérargues,vallerargues,va,50.41,68.97,28.24
+europe_lau,Val-d'Aigoual,val_d_aigoual,va,27.98,57.74,-44.64
+europe_lau,Valliguières,valliguieres,va,36.78,58.33,-19.94
+europe_lau,Vauvert,vauvert,va,32.32,60.34,97.75
+europe_lau,Valence-sur-Baïse,valence_sur_baise,va,36.78,46.91,6.5
+europe_lau,Val de Virvée,val_de_virvee,va,54.26,63.71,52.76
+europe_lau,Vaulion,vaulion,va,34.82,62.29,22.05
+europe_lau,Val-Sonnette,val_sonnette,va,33.89,50.72,13.62
+europe_lau,Val-de-Virieu,val_de_virieu,va,40.34,59.02,80.41
+europe_lau,Vacquières,vacquieres,va,52.98,64.38,79.12
+europe_lau,Vailhan,vailhan,va,44.24,64.34,95.23
+europe_lau,Vailhauquès,vailhauques,va,46.55,59.56,65.02
+europe_lau,Valergues,valergues,va,43.39,61.59,38.43
+europe_lau,Valflaunès,valflaunes,va,36.05,49.33,18.02
+europe_lau,Valmascle,valmascle,va,45.5,64.27,55.96
+europe_lau,Valras-Plage,valras_plage,va,22.86,54.19,29.67
+europe_lau,Valros,valros,va,44.16,61.25,-8.81
+europe_lau,Val-de-Travers,val_de_travers,va,34.35,49.21,-4.44
+europe_lau,Val-Couesnon,val_couesnon,va,53.92,70.24,60.86
+europe_lau,Val des Vignes,val_des_vignes,va,43.9,52.05,87.02
+europe_lau,Valiergues,valiergues,va,44.39,59.94,66.09
+europe_lau,Varetz,varetz,va,56.44,72.55,84.11
+europe_lau,Vars-sur-Roseix,vars_sur_roseix,va,30.67,58.09,5.53
+europe_lau,Vallecalle,vallecalle,va,33.6,64.37,51.12
+europe_lau,Valle-d'Alesani,valle_d_alesani,va,53.62,70.51,4.74
+europe_lau,Valle-di-Campoloro,valle_di_campoloro,va,24.87,58.38,-120.76
+europe_lau,Valle-di-Rostino,valle_di_rostino,va,26.85,61.31,-76.13
+europe_lau,Valle-d'Orezza,valle_d_orezza,va,30.38,51.14,-25.86
+europe_lau,Vallica,vallica,va,47.49,71.66,77.32
+europe_lau,Valençay,valencay,va,50.26,59.62,47.09
+europe_lau,Val-Fouzon,val_fouzon,va,42.16,52.08,17.29
+europe_lau,Vatan,vatan,va,52.06,62.41,77.96
+europe_lau,Val-Maravel,val_maravel,va,56.87,70.6,32.62
+europe_lau,Val d'Anast,val_d_anast,va,43.19,47.77,49.82
+europe_lau,Vacquiers,vacquiers,va,55.85,63.49,61.78
+europe_lau,Valcabrère,valcabrere,va,40.51,61.11,50.91
+europe_lau,Valentine,valentine,va,46.8,68.55,31.66
+europe_lau,Vallègue,vallegue,va,43.94,60.26,-16.94
+europe_lau,Vallesvilles,vallesvilles,va,39.74,67.43,-36.29
+europe_lau,Varennes,varennes,va,48.86,55.85,61.76
+europe_lau,Vaudreuille,vaudreuille,va,37.65,62.69,-37.51
+europe_lau,Vaux,vaux,va,56.3,71.2,51.25
+europe_lau,Valeyrac,valeyrac,va,50.87,77.68,-7.73
+europe_lau,Vayres,vayres,va,61.01,74.79,78.98
+europe_lau,Valbroye,valbroye,va,26.61,50.36,-18.48
+europe_lau,Val Terbi,val_terbi,va,37.89,47.19,18.13
+europe_lau,Valle-di-Mezzana,valle_di_mezzana,va,57.61,65.57,57.63
+europe_lau,Valherbasse,valherbasse,va,59.62,64.5,48.64
+europe_lau,Val Suran,val_suran,va,13.38,38.27,96.34
+europe_lau,Vadans,vadans,va,23.7,41.26,98.45
+europe_lau,Valempoulières,valempoulieres,va,59.6,71.23,66.75
+europe_lau,Vannoz,vannoz,va,54.09,76.84,36.37
+europe_lau,Vaudrey,vaudrey,va,35.83,68.76,85.39
+europe_lau,Vaux-lès-Saint-Claude,vaux_les_saint_claude,va,64.37,71.05,67.25
+europe_lau,Vaux-sur-Poligny,vaux_sur_poligny,va,39.9,67.22,37.35
+europe_lau,Val-d'Épy,val_d_epy,va,64.21,74.22,78.53
+europe_lau,Varize,varize,va,46.88,63.6,86.5
+europe_lau,Vaupillon,vaupillon,va,61.75,72.2,46.51
+europe_lau,Val-de-Bonnieure,val_de_bonnieure,va,46.33,55.66,23.7
+europe_lau,Val-d'Auge,val_d_auge,va,67.5,72.63,38.54
+europe_lau,Valeyres-sous-Rances,valeyres_sous_rances,va,24.62,51.74,-108.75
+europe_lau,Valforêt,valforet,va,41.25,56.4,33.72
+europe_lau,Val-d'Izé,val_d_ize,va,42.9,67.02,25.98
+europe_lau,Valzin en Petite Montagne,valzin_en_petite_montagne,va,51.99,66.33,6.3
+europe_lau,Vachères-en-Quint,vacheres_en_quint,va,50.99,72.67,-18.77
+europe_lau,Valaurie,valaurie,va,46.98,60.5,48.47
+europe_lau,Valdrôme,valdrome,va,56.86,77.64,22.49
+europe_lau,Valence,valence,va,34.64,58.97,35.09
+europe_lau,Valouse,valouse,va,57.1,72.16,79.48
+europe_lau,Vassieux-en-Vercors,vassieux_en_vercors,va,40.1,76.45,96.05
+europe_lau,Vaunaveys-la-Rochette,vaunaveys_la_rochette,va,55.69,67.71,72.34
+europe_lau,Valeyres-sous-Montagny,valeyres_sous_montagny,va,31.34,64.63,-75.44
+europe_lau,Valeyres-sous-Ursins,valeyres_sous_ursins,va,49.32,80.12,81.92
+europe_lau,Valdoie,valdoie,va,72.49,77.51,54.05
+europe_lau,Vauthiermont,vauthiermont,va,54.54,73.49,41.43
+europe_lau,Valravillon,valravillon,va,54.17,64.93,48.63
+europe_lau,Vacqueyras,vacqueyras,va,54.23,66.47,65.01
+europe_lau,Vaison-la-Romaine,vaison_la_romaine,va,43.47,54.05,89.58
+europe_lau,Valréas,valreas,va,51.39,63.85,55.43
+europe_lau,Vaugines,vaugines,va,25.64,51.76,83.81
+europe_lau,Vallangoujard,vallangoujard,va,43.18,57.84,88.52
+europe_lau,Valmondois,valmondois,va,39.79,58,8.73
+europe_lau,Vaudherland,vaudherland,va,42.82,68.94,53.61
+europe_lau,Vauréal,vaureal,va,67.45,78.1,56.19
+europe_lau,Val en Vignes,val_en_vignes,va,56.13,66.32,79.29
+europe_lau,Valdivienne,valdivienne,va,55.13,59.95,37.71
+europe_lau,Vaux-sur-Vienne,vaux_sur_vienne,va,54.67,63.17,53.54
+europe_lau,Vaires-sur-Marne,vaires_sur_marne,va,45.19,72.93,17.59
+europe_lau,Valsonne,valsonne,va,63.48,76.31,53.92
+europe_lau,Vaugneray,vaugneray,va,54.33,65.5,25.74
+europe_lau,Vaulx-en-Velin,vaulx_en_velin,va,37.71,44.98,61.82
+europe_lau,Vaux-en-Beaujolais,vaux_en_beaujolais,va,48.68,62.32,12.52
+europe_lau,Vauxrenard,vauxrenard,va,56.35,65.21,73.38
+europe_lau,Vanzy,vanzy,va,38.12,52.3,82.57
+europe_lau,Vaulx,vaulx,va,45.61,65.73,99.72
+europe_lau,Val-de-Saâne,val_de_saane,va,28.91,37.2,70.31
+europe_lau,Val-de-Scie,val_de_scie,va,26.34,45.14,-50.39
+europe_lau,Valence-en-Brie,valence_en_brie,va,44.56,49.83,64.21
+europe_lau,Vanvillé,vanville,va,45.52,74.72,89.32
+europe_lau,Varennes-sur-Seine,varennes_sur_seine,va,52.77,70.48,37.3
+europe_lau,Varreddes,varreddes,va,55.1,75.79,86.12
+europe_lau,Vaucourtois,vaucourtois,va,52.75,70.45,12.07
+europe_lau,Vaudoy-en-Brie,vaudoy_en_brie,va,45.11,61.69,77.16
+europe_lau,Vaux-le-Pénil,vaux_le_penil,va,45.52,63.56,21.06
+europe_lau,Vaux-sur-Lunain,vaux_sur_lunain,va,30.25,42.52,50.7
+europe_lau,Vadans,vadans,va,40.69,58.01,-12.82
+europe_lau,Vaite,vaite,va,54.23,63.67,63.6
+europe_lau,Vaivre-et-Montoille,vaivre_et_montoille,va,42.61,56.63,73.96
+europe_lau,Valay,valay,va,49.65,67.48,56.66
+europe_lau,Vallerois-le-Bois,vallerois_le_bois,va,69.33,74.81,51.95
+europe_lau,Vallerois-Lorioz,vallerois_lorioz,va,32.56,64.58,54.09
+europe_lau,Vandelans,vandelans,va,47.08,69.42,91.15
+europe_lau,Vanne,vanne,va,38.77,57.31,90.36
+europe_lau,Vantoux-et-Longevelle,vantoux_et_longevelle,va,51.64,61.16,70.59
+europe_lau,Varogne,varogne,va,42.71,53.07,28.01
+europe_lau,Vars,vars,va,29.75,47.42,78.24
+europe_lau,Vauchoux,vauchoux,va,38.09,49.98,95.71
+europe_lau,Vauconcourt-Nervezain,vauconcourt_nervezain,va,59.57,65.85,71.18
+europe_lau,Vauvillers,vauvillers,va,29.53,82.19,97.62
+europe_lau,Vaux-le-Moncelot,vaux_le_moncelot,va,47.34,66.37,55.5
+europe_lau,Val-d'Oire-et-Gartempe,val_d_oire_et_gartempe,va,45.83,61.57,41.83
+europe_lau,Vadencourt,vadencourt,va,30.43,62.92,83.57
+europe_lau,Vaire-sous-Corbie,vaire_sous_corbie,va,23.35,45.7,89.36
+europe_lau,Valines,valines,va,72.33,73.81,49.81
+europe_lau,Varennes,varennes,va,46.48,64.5,23.07
+europe_lau,Vauchelles-lès-Authie,vauchelles_les_authie,va,64.73,77.47,64.22
+europe_lau,Vauchelles-lès-Domart,vauchelles_les_domart,va,36.32,77.28,-23.83
+europe_lau,Vauchelles-les-Quesnoy,vauchelles_les_quesnoy,va,64.22,77.51,56.82
+europe_lau,Vaudricourt,vaudricourt,va,44.67,62.16,94.91
+europe_lau,Vauvillers,vauvillers,va,64.28,74.36,53.18
+europe_lau,Vaux-en-Amiénois,vaux_en_amienois,va,50.99,65,46.42
+europe_lau,Vaux-Marquenneville,vaux_marquenneville,va,49.11,64.22,88.49
+europe_lau,Vaux-sur-Somme,vaux_sur_somme,va,48.09,65.8,9.18
+europe_lau,Vanves,vanves,va,33.52,57.82,22.01
+europe_lau,Vaucresson,vaucresson,va,23.14,40.87,76.31
+europe_lau,Vaujours,vaujours,va,42.77,57.13,-4.38
+europe_lau,Vairé,vaire,va,45.24,61.94,13.74
+europe_lau,Vápenná,vapenna,va,58.01,67.34,50.28
+europe_lau,Val d'Issoire,val_d_issoire,va,41.7,51.58,62.31
+europe_lau,Val-du-Mignon,val_du_mignon,va,46.65,66.14,13.94
+europe_lau,Vallans,vallans,va,57.31,76.46,35.6
+europe_lau,Vançais,vancais,va,56.59,62.25,60.89
+europe_lau,Vanzay,vanzay,va,57.63,65.37,19.4
+europe_lau,Vasles,vasles,va,41.07,57.65,79.57
+europe_lau,Vausseroux,vausseroux,va,54.28,72.92,64.08
+europe_lau,Vautebis,vautebis,va,53.16,69.78,34.79
+europe_lau,Val-de-Mercy,val_de_mercy,va,73.44,72.4,63.07
+europe_lau,Vallan,vallan,va,62.62,76.34,43.3
+europe_lau,Vallery,vallery,va,52.19,67.38,20.81
+europe_lau,Varennes,varennes,va,50.88,78.9,93.14
+europe_lau,Vassy-sous-Pisy,vassy_sous_pisy,va,36.74,59.07,96.98
+europe_lau,Vaudeurs,vaudeurs,va,45.64,56.03,31.82
+europe_lau,Vault-de-Lugny,vault_de_lugny,va,41.99,55.58,56.14
+europe_lau,Vaumort,vaumort,va,46.35,70.8,80.21
+europe_lau,Vaïssac,vaissac,va,35.04,53.73,29.41
+europe_lau,Valeilles,valeilles,va,55.15,69.8,69.11
+europe_lau,Valence,valence,va,20.85,42.84,82.92
+europe_lau,Varen,varen,va,37.07,47.89,27.84
+europe_lau,Varennes,varennes,va,51.22,74.9,84.64
+europe_lau,Vazerac,vazerac,va,36.88,48.29,76.68
+europe_lau,Valenton,valenton,va,21.55,52.58,82.37
+europe_lau,Vagney,vagney,va,26.31,50.42,92.9
+europe_lau,Valfroicourt,valfroicourt,va,55.17,65.06,72.62
+europe_lau,Valleroy-aux-Saules,valleroy_aux_saules,va,35.99,59.07,80.45
+europe_lau,Valleroy-le-Sec,valleroy_le_sec,va,59.45,81.04,47.21
+europe_lau,Varmonzey,varmonzey,va,54.6,67.73,44.18
+europe_lau,Vaubexy,vaubexy,va,51.52,72.05,4.02
+europe_lau,Vaudéville,vaudeville,va,49.71,72.16,78.07
+europe_lau,Vaudoncourt,vaudoncourt,va,57.36,69.97,40.02
+europe_lau,Vaxoncourt,vaxoncourt,va,53.52,77.44,78.79
+europe_lau,Varages,varages,va,48.87,66.12,44.03
+europe_lau,Valence-en-Poitou,valence_en_poitou,va,50.15,67.21,70.36
+europe_lau,Vaulry,vaulry,va,56.96,59.57,56.7
+europe_lau,Vayres,vayres,va,55.56,60.86,31.31
+europe_lau,Vacovice,vacovice,va,56.29,72.84,65.61
+europe_lau,Val d'Oingt,val_d_oingt,va,37.33,53.05,99.46
+europe_lau,Valy,valy,va,41.08,45.56,65.15
+europe_lau,Vaux-sur-Seine,vaux_sur_seine,va,43.04,59.22,20.06
+europe_lau,Vannes,vannes,va,40.59,52.99,30.99
+europe_lau,Valdieu-Lutran,valdieu_lutran,va,66.09,69.86,48.61
+europe_lau,Val-d'Ornain,val_d_ornain,va,39.83,48.5,74.62
+europe_lau,Valdampierre,valdampierre,va,58.63,65.32,63.39
+europe_lau,Valescourt,valescourt,va,22.15,45.57,-80.88
+europe_lau,Vandélicourt,vandelicourt,va,57.64,67.48,38.47
+europe_lau,Varesnes,varesnes,va,49.81,74.42,36.28
+europe_lau,Varinfroy,varinfroy,va,43.47,61.54,48.5
+europe_lau,Vauchelles,vauchelles,va,48.43,65.72,2.66
+europe_lau,Vauciennes,vauciennes,va,60.76,77.54,45.92
+europe_lau,Val-d'Arc,val_d_arc,va,49.29,60.04,61.27
+europe_lau,Valgelon-La Rochette,valgelon_la_rochette,va,35.15,53.97,3.63
+europe_lau,Valbeleix,valbeleix,va,37.93,60.47,81.63
+europe_lau,Valcivières,valcivieres,va,48.98,61.54,72.31
+europe_lau,Valz-sous-Châteauneuf,valz_sous_chateauneuf,va,31.92,68.97,-34
+europe_lau,Varennes-sur-Morge,varennes_sur_morge,va,45.02,68.71,72.12
+europe_lau,Varennes-sur-Usson,varennes_sur_usson,va,39.66,53.66,34.16
+europe_lau,Vassel,vassel,va,53.45,69.5,13.91
+europe_lau,Vaudancourt,vaudancourt,va,54.87,60.41,53.04
+europe_lau,Vaumoise,vaumoise,va,38.01,47.93,31.66
+europe_lau,Vacherauville,vacherauville,va,21.86,46.68,-43.95
+europe_lau,Vadelaincourt,vadelaincourt,va,32.69,55.91,36.88
+europe_lau,Vadonville,vadonville,va,48.3,72.02,41.5
+europe_lau,Varennes-en-Argonne,varennes_en_argonne,va,48.88,67.44,46.53
+europe_lau,Varnéville,varneville,va,36.31,55.47,35.18
+europe_lau,Valbois,valbois,va,59.55,74.94,52.48
+europe_lau,Vassincourt,vassincourt,va,55.63,74.31,24.8
+europe_lau,Vaubecourt,vaubecourt,va,40.85,59.21,-2.21
+europe_lau,Vaucouleurs,vaucouleurs,va,57.45,65.14,66.06
+europe_lau,Vaudeville-le-Haut,vaudeville_le_haut,va,52.15,64.29,5.29
+europe_lau,Vaudoncourt,vaudoncourt,va,61.84,79.13,80.38
+europe_lau,Vauquois,vauquois,va,48.71,72.95,21.93
+europe_lau,Vaux-lès-Palameix,vaux_les_palameix,va,61.95,65.91,45.69
+europe_lau,Vavincourt,vavincourt,va,35.36,65.39,-47.48
+europe_lau,Val-de-Moder,val_de_moder,va,34.17,45.29,19.64
+europe_lau,Vaux d'Amognes,vaux_d_amognes,va,64.92,66.88,71.4
+europe_lau,Val-Cenis,val_cenis,va,52.06,67.7,80.66
+europe_lau,Val-d'Isère,val_d_isere,va,46.54,56.11,33.44
+europe_lau,Valloire,valloire,va,47.58,59.51,83.63
+europe_lau,Valmeinier,valmeinier,va,41.3,78.16,82.72
+europe_lau,Valcebollère,valcebollere,va,58,68.57,38.64
+europe_lau,Valmanya,valmanya,va,46.96,70.94,20.49
+europe_lau,Valff,valff,va,50.11,66.38,0.42
+europe_lau,Vandenesse,vandenesse,va,44.12,56.98,77.53
+europe_lau,Vareilles,vareilles,va,54.53,79.22,51.02
+europe_lau,Varenne-l'Arconce,varenne_l_arconce,va,64.45,70.47,78.52
+europe_lau,Varennes-le-Grand,varennes_le_grand,va,34.09,59.94,-10.99
+europe_lau,Varennes-lès-Mâcon,varennes_les_macon,va,55.18,60.55,48.13
+europe_lau,Varenne-Saint-Germain,varenne_saint_germain,va,52.42,63.88,24.21
+europe_lau,Varennes-Saint-Sauveur,varennes_saint_sauveur,va,42.6,64.42,93.89
+europe_lau,Varennes-sous-Dun,varennes_sous_dun,va,47.54,64.75,90.12
+europe_lau,Vauban,vauban,va,45.48,52.95,59.22
+europe_lau,Vaudebarrier,vaudebarrier,va,38.86,56.8,29.09
+europe_lau,Vaux-en-Pré,vaux_en_pre,va,31.23,65.29,91.21
+europe_lau,Valenciennes,valenciennes,va,46.17,61.06,59.93
+europe_lau,Vavřinec,vavrinec,va,58.57,70.34,51.81
+europe_lau,Varennes-lès-Narcy,varennes_les_narcy,va,53.45,66.9,59.18
+europe_lau,Varennes-Vauzelles,varennes_vauzelles,va,46.36,63.84,94.76
+europe_lau,Varzy,varzy,va,55.42,60.69,69.83
+europe_lau,Vauclaix,vauclaix,va,44.85,72.68,92.82
+europe_lau,Val-de-la-Haye,val_de_la_haye,va,38.67,72.23,95.89
+europe_lau,Valliquerville,valliquerville,va,48.41,60.89,45.49
+europe_lau,Valmont,valmont,va,23.54,51.69,-36.38
+europe_lau,Varengeville-sur-Mer,varengeville_sur_mer,va,57.36,70.48,58.76
+europe_lau,Varneville-Bretteville,varneville_bretteville,va,36.11,66.89,21.6
+europe_lau,Vassonville,vassonville,va,51.76,69.45,62.21
+europe_lau,Vatierville,vatierville,va,28,54.38,27.8
+europe_lau,Vattetot-sous-Beaumont,vattetot_sous_beaumont,va,59.18,78.61,72.44
+europe_lau,Vattetot-sur-Mer,vattetot_sur_mer,va,50.19,70.76,88.03
+europe_lau,Vatteville-la-Rue,vatteville_la_rue,va,35.7,58.97,94.14
+europe_lau,Val de Chaise,val_de_chaise,va,40.05,58,62.36
+europe_lau,Vahl-Ebersing,vahl_ebersing,va,47.31,65.77,-5.37
+europe_lau,Vahl-lès-Bénestroff,vahl_les_benestroff,va,43.53,58.94,86.44
+europe_lau,Vahl-lès-Faulquemont,vahl_les_faulquemont,va,35.61,52.62,62.57
+europe_lau,Vallerange,vallerange,va,56.37,66.23,38.28
+europe_lau,Valmestroff,valmestroff,va,57.86,75.56,30.27
+europe_lau,Valmont,valmont,va,43.89,53.33,48.09
+europe_lau,Valmunster,valmunster,va,32.78,65.95,39.01
+europe_lau,Vannecourt,vannecourt,va,40.95,61.19,34.87
+europe_lau,Vantoux,vantoux,va,33.91,44.99,91.42
+europe_lau,Vany,vany,va,57.27,62.12,63.72
+europe_lau,Varize-Vaudoncourt,varize_vaudoncourt,va,29.78,36.58,44.58
+europe_lau,Varsberg,varsberg,va,50.01,73.31,-6.99
+europe_lau,Vasperviller,vasperviller,va,33.67,49.73,19.79
+europe_lau,Vatimont,vatimont,va,50.76,71.63,-4.31
+europe_lau,Vaudreching,vaudreching,va,40.54,60.68,71.05
+europe_lau,Vaux,vaux,va,30.53,48.09,-1.89
+europe_lau,Vaxy,vaxy,va,39.29,69.4,87.17
+europe_lau,Václavice,vaclavice,va,45.65,63.45,9.03
+europe_lau,Vaas,vaas,va,42.24,59.67,19.18
+europe_lau,Valennes,valennes,va,51.74,71.49,89.08
+europe_lau,Vallon-sur-Gée,vallon_sur_gee,va,65.9,70.06,29.22
+europe_lau,Vancé,vance,va,47.86,58.61,56.1
+europe_lau,Val d'Oust,val_d_oust,va,40.93,50.43,13.45
+europe_lau,Val-d'Étangson,val_d_etangson,va,40.1,53.02,91.02
+europe_lau,Vacheresse,vacheresse,va,46.08,69.37,-16.64
+europe_lau,Vailly,vailly,va,57.1,73.74,60.26
+europe_lau,Valleiry,valleiry,va,39.42,69.57,95.48
+europe_lau,Vallières-sur-Fier,vallieres_sur_fier,va,33.31,46.56,39.2
+europe_lau,Vallorcine,vallorcine,va,54.61,72.87,52.11
+europe_lau,Vacquerie-le-Boucq,vacquerie_le_boucq,va,47.03,70.09,-1.11
+europe_lau,Vacqueriette-Erquières,vacqueriette_erquieres,va,53.63,70.14,49.43
+europe_lau,Valhuon,valhuon,va,55.12,67.33,56.22
+europe_lau,Vaudricourt,vaudricourt,va,49.09,70.6,80.48
+europe_lau,Vaudringhem,vaudringhem,va,42.63,57.19,24.26
+europe_lau,Vaulx,vaulx,va,64.38,80.26,35.67
+europe_lau,Vaulx-Vraucourt,vaulx_vraucourt,va,73.5,73.42,60.79
+europe_lau,Vallelonga,vallelonga,va,27.66,44.97,-36.47
+europe_lau,Vazzano,vazzano,va,20.92,53.62,-97.58
+europe_lau,Valle,valle,va,52.61,69.62,64.22
+europe_lau,Vaksdal,vaksdal,va,21.35,36.68,86.46
+europe_lau,Vairano Patenora,vairano_patenora,va,47.52,61.89,68.9
+europe_lau,Valdagno,valdagno,va,59.85,73.44,77.18
+europe_lau,Valdastico,valdastico,va,28.27,39.09,82.69
+europe_lau,Valli del Pasubio,valli_del_pasubio,va,55.41,73.22,38.97
+europe_lau,Val Liona,val_liona,va,33.61,61.9,96.02
+europe_lau,Vanzago,vanzago,va,47.17,70.41,46.02
+europe_lau,Vaprio d'Adda,vaprio_d_adda,va,45.17,72.3,87.66
+europe_lau,Vanzaghello,vanzaghello,va,33.3,58.4,76.96
+europe_lau,Valbrenta,valbrenta,va,32.52,39.05,70.08
+europe_lau,Vallée de l'Ernz,vallee_de_l_ernz,va,49.98,55.41,41.12
+europe_lau,Valmiera,valmiera,va,55.48,60.47,70.12
+europe_lau,Valledolmo,valledolmo,va,50.17,65.51,81.17
+europe_lau,Valenzano,valenzano,va,51.78,65.6,89.47
+europe_lau,Valfornace,valfornace,va,35.94,55.43,94.54
+europe_lau,Valstrona,valstrona,va,44.39,59.48,-1.8
+europe_lau,Vanzone con San Carlo,vanzone_con_san_carlo,va,43.4,49.87,68.68
+europe_lau,Varzo,varzo,va,34.13,52.81,47.62
+europe_lau,Valle Cannobina,valle_cannobina,va,34.12,51.73,11.36
+europe_lau,Vardø,vardo,va,52.11,68.75,29.09
+europe_lau,Vadsø,vadso,va,44.19,60.21,36.45
+europe_lau,Vallada Agordina,vallada_agordina,va,44.45,73.34,83.44
+europe_lau,Valle di Cadore,valle_di_cadore,va,43.14,48.6,56.49
+europe_lau,Val di Zoldo,val_di_zoldo,va,52.51,63.29,50.47
+europe_lau,Vadena/Pfatten,vadena_pfatten,va,12.92,46.19,83.01
+europe_lau,Valdaora/Olang,valdaora_olang,va,66.36,69.59,34.43
+europe_lau,Val di Vizze/Pfitsch,val_di_vizze_pfitsch,va,28.66,58.93,-11.03
+europe_lau,Valle Aurina/Ahrntal,valle_aurina_ahrntal,va,43.94,79.27,30.69
+europe_lau,Valle di Casies/Gsies,valle_di_casies_gsies,va,49.64,65.28,73.45
+europe_lau,Vandoies/Vintl,vandoies_vintl,va,35.66,58.5,85.69
+europe_lau,Varna/Vahrn,varna_vahrn,va,47.58,65.59,-1.83
+europe_lau,Valle Castellana,valle_castellana,va,29.91,47.7,40.44
+europe_lau,Valdina,valdina,va,21.35,60.43,94.71
+europe_lau,Varmo,varmo,va,34.93,45.15,92.84
+europe_lau,Vallefiorita,vallefiorita,va,20.95,53.61,25.1
+europe_lau,Vallelunga Pratameno,vallelunga_pratameno,va,28.32,38.92,-4.65
+europe_lau,Valbondione,valbondione,va,47.42,60.32,30.34
+europe_lau,Valbrembo,valbrembo,va,50.41,75.13,5.11
+europe_lau,Valgoglio,valgoglio,va,61.31,69.13,33.57
+europe_lau,Valleve,valleve,va,45.17,62.97,44.12
+europe_lau,Valnegra,valnegra,va,32.53,53.65,98.81
+europe_lau,Valtorta,valtorta,va,41.76,64.01,45.08
+europe_lau,Vagli Sotto,vagli_sotto,va,56.83,64.87,82.24
+europe_lau,Valšov,valsov,va,56,75.36,-2.57
+europe_lau,Vaglia,vaglia,va,57.84,70.03,66.8
+europe_lau,Varedo,varedo,va,52.38,77.74,11.91
+europe_lau,Val Brembilla,val_brembilla,va,37.98,58.62,67.06
+europe_lau,Val di Nizza,val_di_nizza,va,67.11,67.96,70.81
+europe_lau,Valeggio,valeggio,va,48.09,56.22,84.7
+europe_lau,Valle Lomellina,valle_lomellina,va,49.88,64.76,-4.98
+europe_lau,Valle Salimbene,valle_salimbene,va,40.18,58.83,80.58
+europe_lau,Varzi,varzi,va,45.76,50.45,62.88
+europe_lau,Valfloriana,valfloriana,va,37.28,59.17,92.65
+europe_lau,Vallarsa,vallarsa,va,26.52,55.41,99.41
+europe_lau,Valdaone,valdaone,va,35.33,48.4,92.43
+europe_lau,Valdobbiadene,valdobbiadene,va,49.1,63.81,77.84
+europe_lau,Vazzola,vazzola,va,31.94,49.71,12.68
+europe_lau,Val,val,va,32.7,43.04,36.14
+europe_lau,Vallata,vallata,va,43.21,68.12,71.58
+europe_lau,Vallesaccarda,vallesaccarda,va,44.15,68.9,93.9
+europe_lau,Varapodio,varapodio,va,12.37,50.32,72.71
+europe_lau,Valsamoggia,valsamoggia,va,27.95,45.29,97.56
+europe_lau,Valderice,valderice,va,45.1,59.09,73.83
+europe_lau,Vallepietra,vallepietra,va,45.8,59.23,69.86
+europe_lau,Vallinfreda,vallinfreda,va,51.96,66.76,36.74
+europe_lau,Valmontone,valmontone,va,40.25,59.8,-26.95
+europe_lau,Værøy,vaeroy,va,24.42,35.87,55.21
+europe_lau,Vågan,vagan,va,36.74,50.27,49.69
+europe_lau,Våler (Viken),valer_viken,va,59.11,72.53,34.32
+europe_lau,Vallelaghi,vallelaghi,va,41.78,67.76,53.59
+europe_lau,Vacri,vacri,va,36.66,59.74,96.68
+europe_lau,Vasto,vasto,va,29.64,59.46,97.82
+europe_lau,Valdidentro,valdidentro,va,38.28,51.59,56.64
+europe_lau,Valfurva,valfurva,va,68.74,69.48,55.52
+europe_lau,Val Masino,val_masino,va,58.77,67.72,34.27
+europe_lau,Vallefoglia,vallefoglia,va,37.88,51.81,30.27
+europe_lau,Valera Fratta,valera_fratta,va,60.39,65.03,46.89
+europe_lau,Vallermosa,vallermosa,va,45.81,66.02,8.95
+europe_lau,Vaduz,vaduz,va,44.02,53.31,54.73
+europe_lau,Varėnos rajono savivaldybė,varenos_rajono_savivaldybe,va,45.48,55.9,43.56
+europe_lau,Vallio Terme,vallio_terme,va,61.29,65.67,54.81
+europe_lau,Valvestino,valvestino,va,53.92,65.76,61.4
+europe_lau,Vacov,vacov,va,40.79,63.18,1.9
+europe_lau,Vaiano,vaiano,va,57.57,66.73,55.42
+europe_lau,Valeč,valec,va,47.43,58.39,52.54
+europe_lau,Våler (Innlandet),valer_innlandet,va,24.45,50.3,85.28
+europe_lau,Vågå,vaga,va,30.92,50.4,85.8
+europe_lau,Vang,vang,va,51.59,65.05,72.29
+europe_lau,Vallecorsa,vallecorsa,va,53.41,65.45,71.09
+europe_lau,Vallemaio,vallemaio,va,33.11,53.62,74.86
+europe_lau,Vallerotonda,vallerotonda,va,36.67,56.3,75.61
+europe_lau,Valeggio sul Mincio,valeggio_sul_mincio,va,37.42,53.49,99.16
+europe_lau,Valle dell'Angelo,valle_dell_angelo,va,28.02,53,72.78
+europe_lau,Vallo della Lucania,vallo_della_lucania,va,29.57,44.22,-13.99
+europe_lau,Valva,valva,va,43.54,66.09,91.63
+europe_lau,Valašská Senice,valasska_senice,va,45.28,57.96,69.46
+europe_lau,Valverde,valverde,va,49.42,69.95,80.98
+europe_lau,Valašská Polanka,valasska_polanka,va,47.8,65.22,18.26
+europe_lau,Vaccarizzo Albanese,vaccarizzo_albanese,va,27.05,62.21,79.33
+europe_lau,Varese Ligure,varese_ligure,va,48.58,57.12,55.89
+europe_lau,Várfölde,varfolde,va,29.96,50.07,91.91
+europe_lau,Vasalja,vasalja,va,42,55.67,89.69
+europe_lau,Vaskeresztes,vaskeresztes,va,26.1,57.74,-113.38
+europe_lau,Vanyarc,vanyarc,va,52.38,72.84,69.52
+europe_lau,Vámoscsalád,vamoscsalad,va,56.27,70.77,60.49
+europe_lau,Vacone,vacone,va,36.54,49.17,57.16
+europe_lau,Varco Sabino,varco_sabino,va,30.17,39.96,89.62
+europe_lau,Vasszilvágy,vasszilvagy,va,54.08,85.35,38.69
+europe_lau,Vámosszabadi,vamosszabadi,va,52.39,69,78.99
+europe_lau,Vászoly,vaszoly,va,35.82,70.89,65.01
+europe_lau,Váncsod,vancsod,va,54.05,65.1,41.68
+europe_lau,Várad,varad,va,41.07,47.73,53.88
+europe_lau,Valdelaume,valdelaume,va,51.89,64.11,4.79
+europe_lau,Várkesző,varkeszo,va,37.62,66.61,-35.13
+europe_lau,Valkonya,valkonya,va,47.9,73.78,98.99
+europe_lau,Vaszar,vaszar,va,56.35,70.58,83.35
+europe_lau,Várda,varda,va,48.7,60.89,67.99
+europe_lau,Valašské Meziříčí,valasske_mezirici,va,39.4,48.26,70.01
+europe_lau,Vanyola,vanyola,va,57.83,75.36,35.5
+europe_lau,Varbó,varbo,va,42.94,62.09,39.33
+europe_lau,Valenza,valenza,va,41.55,48.86,35.07
+europe_lau,Valmacca,valmacca,va,48.82,59.36,83.96
+europe_lau,Vabre,vabre,va,50.76,63.01,86.23
+europe_lau,Valderiès,valderies,va,54.67,59,60.41
+europe_lau,Valdurenque,valdurenque,va,41.54,48.52,79.24
+europe_lau,Valence-d'Albigeois,valence_d_albigeois,va,58.85,62.3,42.89
+europe_lau,Vaour,vaour,va,40.7,56.68,89.91
+europe_lau,Valganna,valganna,va,37.45,55.55,96.16
+europe_lau,Varano Borghi,varano_borghi,va,43.71,63.28,98.24
+europe_lau,Varese,varese,va,45.07,53.32,69.56
+europe_lau,Várgesztes,vargesztes,va,46.5,53.22,49.54
+europe_lau,Valpuiseaux,valpuiseaux,va,45.3,68.16,78.78
+europe_lau,Varennes-Jarcy,varennes_jarcy,va,68.82,69.51,42.72
+europe_lau,Vaugrigneuse,vaugrigneuse,va,50.32,71.07,14.59
+europe_lau,Vauhallan,vauhallan,va,57.19,76.08,38.87
+europe_lau,Vayres-sur-Essonne,vayres_sur_essonne,va,43.63,62.79,75.24
+europe_lau,Valkó,valko,va,41.42,63.94,9.56
+europe_lau,Vámosoroszi,vamosoroszi,va,47.45,68.7,68.43
+europe_lau,Vámospércs,vamospercs,va,57.76,74.15,72.62
+europe_lau,Vácszentlászló,vacszentlaszlo,va,24.92,55.18,-15.82
+europe_lau,Valašské Příkazy,valasske_prikazy,va,19.44,52.97,61.74
+europe_lau,Váraszó,varaszo,va,22.52,47.9,84.92
+europe_lau,Vasmegyer,vasmegyer,va,26.34,70.82,78.63
+europe_lau,Vámosatya,vamosatya,va,39.36,53.43,47.61
+europe_lau,Vasad,vasad,va,62.63,82.4,55.62
+europe_lau,Valmozzola,valmozzola,va,63.21,73.88,46.02
+europe_lau,Varano de' Melegari,varano_de_melegari,va,28.4,53.53,-62.01
+europe_lau,Varsi,varsi,va,42.32,54.64,9.22
+europe_lau,Valgrisenche,valgrisenche,va,39.67,62.2,97.72
+europe_lau,Valpelline,valpelline,va,55.1,62.57,69.16
+europe_lau,Vasvár,vasvar,va,42.55,53,75.58
+europe_lau,Vácrátót,vacratot,va,38.11,43.88,74.37
+europe_lau,Vásárosfalu,vasarosfalu,va,52.77,77.29,22.83
+europe_lau,Vaglio Basilicata,vaglio_basilicata,va,45.9,65.32,24.6
+europe_lau,Valsavarenche,valsavarenche,va,42.4,68.68,99.85
+europe_lau,Valtournenche,valtournenche,va,61.61,69.63,55.52
+europe_lau,Vásárosnamény,vasarosnameny,va,36,66.65,36.09
+europe_lau,Várbalog,varbalog,va,47.6,63.69,28.56
+europe_lau,Valdieri,valdieri,va,33.17,51.04,43.29
+europe_lau,Valgrana,valgrana,va,37.44,57.83,89.64
+europe_lau,Valloriate,valloriate,va,41.04,65.46,0.15
+europe_lau,Váralja,varalja,va,27.62,46.73,82.51
+europe_lau,Vásárosmiske,vasarosmiske,va,34.75,40.31,75.28
+europe_lau,Varászló,varaszlo,va,39.89,72.34,94.46
+europe_lau,Várdomb,vardomb,va,39.31,61.02,84.7
+europe_lau,Várvölgy,varvolgy,va,38.6,47.57,77.28
+europe_lau,Vaie,vaie,va,54.66,81.95,93.55
+europe_lau,Val della Torre,val_della_torre,va,45.57,72.01,55.71
+europe_lau,Valgioie,valgioie,va,59.92,69.15,23.41
+europe_lau,Vallo Torinese,vallo_torinese,va,46.71,56.7,17.73
+europe_lau,Valperga,valperga,va,52.51,64.28,46.55
+europe_lau,Valprato Soana,valprato_soana,va,47.66,67.16,-2.22
+europe_lau,Varisella,varisella,va,53.75,73.62,8.02
+europe_lau,Vauda Canavese,vauda_canavese,va,17.23,34.79,-9.26
+europe_lau,Val di Chy,val_di_chy,va,57.78,72.06,51.18
+europe_lau,Valchiusa,valchiusa,va,26.13,45.86,-51.39
+europe_lau,Vaskút,vaskut,va,60.45,79.5,53.69
+europe_lau,Varga,varga,va,31.91,59.24,89.11
+europe_lau,Vajszló,vajszlo,va,60.53,68.62,48.63
+europe_lau,Vaiano Cremasco,vaiano_cremasco,va,55.78,61.48,70.7
+europe_lau,Vailate,vailate,va,56.48,63.22,64.06
+europe_lau,Vallebona,vallebona,va,53.25,60.43,56.84
+europe_lau,Vallecrosia,vallecrosia,va,28.94,84.13,97.61
+europe_lau,Vasia,vasia,va,29.31,52.34,18.66
+europe_lau,Valbrona,valbrona,va,52.53,63.87,75.67
+europe_lau,Valmorea,valmorea,va,50.75,60.81,68.05
+europe_lau,Val Rezzo,val_rezzo,va,66.48,76.26,51.92
+europe_lau,Valsolda,valsolda,va,47.9,65.72,66.95
+europe_lau,Valpovo,valpovo,va,30.65,52.89,27.14
+europe_lau,Varaždin,varazdin,va,39.93,45.79,45.94
+europe_lau,Varaždinske Toplice,varazdinske_toplice,va,49.23,69.41,5.07
+europe_lau,Vaja,vaja,va,40.07,58.02,29.46
+europe_lau,Valsinni,valsinni,va,38.51,47.3,45.35
+europe_lau,Vaspör,vaspor,va,52.14,71.28,30.4
+europe_lau,Vámosgyörk,vamosgyork,va,56.75,66.62,44.42
+europe_lau,Valfabbrica,valfabbrica,va,59.79,67.81,51.6
+europe_lau,Vallo di Nera,vallo_di_nera,va,45.73,64.97,92.36
+europe_lau,Valtopina,valtopina,va,48.7,67.3,66.58
+europe_lau,Varbóc,varboc,va,30.2,65.16,78.39
+europe_lau,Vasboldogasszony,vasboldogasszony,va,50.09,60.26,75.88
+europe_lau,Városföld,varosfold,va,51.46,63.96,63.86
+europe_lau,Vállus,vallus,va,52.78,65.7,36.78
+europe_lau,Vámosmikola,vamosmikola,va,34.83,54.99,-16.81
+europe_lau,Valduggia,valduggia,va,41.57,52.58,81.62
+europe_lau,Varallo,varallo,va,49.04,59.69,81.12
+europe_lau,Várong,varong,va,20.58,57.76,72.39
+europe_lau,Vágáshuta,vagashuta,va,56.12,68.67,84.67
+europe_lau,Vasszécseny,vasszecseny,va,53.09,72.11,46.08
+europe_lau,Váckisújfalu,vackisujfalu,va,52.72,69.39,76.04
+europe_lau,Valle Agricola,valle_agricola,va,51.63,67.06,5.36
+europe_lau,Valle di Maddaloni,valle_di_maddaloni,va,36.65,62.53,81.04
+europe_lau,Vado Ligure,vado_ligure,va,37.3,72.53,-19.79
+europe_lau,Varazze,varazze,va,52.56,70.16,57.69
+europe_lau,Vác,vac,va,43.32,54.64,71.6
+europe_lau,Vásárosbéc,vasarosbec,va,31.8,57.22,93.5
+europe_lau,Vál,val,va,54.37,77.41,83.55
+europe_lau,Vácduka,vacduka,va,56.74,77.85,25.53
+europe_lau,Vadosfa,vadosfa,va,37.96,59.89,-11.25
+europe_lau,Valbrevenna,valbrevenna,va,35.4,71.31,-44.83
+europe_lau,Vámosújfalu,vamosujfalu,va,23.76,43.52,22.33
+europe_lau,Vasegerszeg,vasegerszeg,va,60.2,76.49,63.35
+europe_lau,Váchartyán,vachartyan,va,46.7,69.25,65.21
+europe_lau,Vaglio Serra,vaglio_serra,va,37.82,47.84,53.89
+europe_lau,Valfenera,valfenera,va,44.17,53.96,63.6
+europe_lau,Valentano,valentano,va,34.08,57.54,75.71
+europe_lau,Vallerano,vallerano,va,33.5,44.64,45.7
+europe_lau,Vasanello,vasanello,va,54.07,67.15,63.47
+europe_lau,Várpalota,varpalota,va,54.86,62.84,55.95
+europe_lau,Vasszentmihály,vasszentmihaly,va,45.35,65.73,98.57
+europe_lau,Vaprio d'Agogna,vaprio_d_agogna,va,43.5,65.5,-18.57
+europe_lau,Varallo Pombia,varallo_pombia,va,44.69,51.47,35.38
+europe_lau,Varsány,varsany,va,41.96,74.68,69.92
+europe_lau,Vajdácska,vajdacska,va,26.76,52.27,86.71
+europe_lau,Vatta,vatta,va,67.12,69.79,56.18
+europe_lau,Vácegres,vacegres,va,43.58,78.47,-4.89
+europe_lau,Vassurány,vassurany,va,41.4,59.45,45.28
+europe_lau,Vág,vag,va,43.56,54.5,33.68
+europe_lau,Vát,vat,va,63.12,70.65,54.66
+europe_lau,Vásárosdombó,vasarosdombo,va,72.49,76.58,41.94
+europe_lau,Vajta,vajta,va,65.42,75.56,54.39
+europe_lau,Varsád,varsad,va,48.27,62.63,82.44
+europe_lau,Vállaj,vallaj,va,35.07,48.43,18.38
+europe_lau,Városlőd,varoslod,va,41.79,66.93,98.94
+europe_lau,Vázsnok,vazsnok,va,38.51,63.68,97.49
+europe_lau,Vadna,vadna,va,42.1,49.5,59.41
+europe_lau,Valašská Bystřice,valasska_bystrice,va,47.38,71.84,26.96
+europe_lau,Vashosszúfalu,vashosszufalu,va,60.48,67.98,82.44
+europe_lau,Vasasszonyfa,vasasszonyfa,va,42.82,56.6,76.18
+europe_lau,Valaská,valaska,va,16.04,38.34,94.22
+europe_lau,Vaľkovňa,valkovna,va,25.43,54.24,23.09
+europe_lau,Vadu Crişului,vadu_crisului,va,26.88,54.32,59.88
+europe_lau,Vârciorog,varciorog,va,59.42,70.96,22.56
+europe_lau,Valdice,valdice,va,36.4,58.4,-7.62
+europe_lau,Vad,vad,va,31.91,41.59,2.54
+europe_lau,Valea Ierii,valea_ierii,va,33.56,55.56,64.16
+europe_lau,Valea Seacă,valea_seaca,va,67.49,69.74,66.32
+europe_lau,Varvarin,varvarin,va,46.23,55.68,55.24
+europe_lau,Vajkovce,vajkovce,va,54.5,82.52,37.55
+europe_lau,Valaliky,valaliky,va,53.86,65.74,35.58
+europe_lau,Vápenný Podol,vapenny_podol,va,54.81,65.88,75.85
+europe_lau,Valča,valca,va,31.77,61.9,31.89
+europe_lau,Valea Mărului,valea_marului,va,35.8,49,90.24
+europe_lau,Vârlezi,varlezi,va,32.74,62.33,92.56
+europe_lau,Varín,varin,va,34.36,42.87,63.61
+europe_lau,Váhovce,vahovce,va,63.67,75.04,77.06
+europe_lau,Vagrinec,vagrinec,va,45.07,60.3,49.59
+europe_lau,Valkovce,valkovce,va,69.96,80.01,35.47
+europe_lau,Vápeník,vapenik,va,45.99,75.3,84.88
+europe_lau,Varechovce,varechovce,va,70.81,69.31,50.5
+europe_lau,Valea Mare,valea_mare,va,41.98,58.55,85.64
+europe_lau,Vădastra,vadastra,va,30.78,55.7,67.02
+europe_lau,Vădăstriţa,vadastrita,va,51.49,69.6,23.57
+europe_lau,Văleni,valeni,va,45,68.76,58.52
+europe_lau,Vâlcele,valcele,va,39.75,71.55,-7.73
+europe_lau,Vasiľov,vasilov,va,25.74,65.77,33.37
+europe_lau,Vavrečka,vavrecka,va,58.65,73.94,68.78
+europe_lau,Valu Lui Traian,valu_lui_traian,va,44.06,57.76,69.23
+europe_lau,Valongo do Vouga,valongo_do_vouga,va,54.7,69.97,46.95
+europe_lau,Várzea,varzea,va,48.84,72.65,1.32
+europe_lau,Valada,valada,va,19.3,54.53,82.9
+europe_lau,Vale da Pedra,vale_da_pedra,va,58.9,85.83,68.81
+europe_lau,Vale de Cavalos,vale_de_cavalos,va,46.56,57.04,38.19
+europe_lau,Valaská Belá,valaska_bela,va,36.51,43.49,10.2
+europe_lau,Vadu Moţilor,vadu_motilor,va,53.58,59.39,50.26
+europe_lau,Văgiuleşti,vagiulesti,va,52.54,66.89,46.76
+europe_lau,Valea Lungă,valea_lunga,va,31.02,51.24,-25.18
+europe_lau,Valaškovce (vojenský obvod),valaskovce_vojensky_obvod,va,44.68,57.47,24.95
+europe_lau,Vaniškovce,vaniskovce,va,54.82,71.1,70.01
+europe_lau,Valdosende,valdosende,va,50.65,67.78,36.15
+europe_lau,Valado dos Frades,valado_dos_frades,va,40.04,51.87,28.01
+europe_lau,Vau,vau,va,51.24,69.67,80.14
+europe_lau,Văculeşti,vaculesti,va,38.85,69.23,13.48
+europe_lau,Vârfu Câmpului,varfu_campului,va,30.86,69.77,70.23
+europe_lau,Valaská Dubová,valaska_dubova,va,40.38,60.76,-0.62
+europe_lau,Vavrišovo,vavrisovo,va,69.28,76.59,59.2
+europe_lau,Važec,vazec,va,54.38,81.69,91.83
+europe_lau,Valea Crişului,valea_crisului,va,38.32,62.96,71.83
+europe_lau,Vâlcele,valcele,va,27.27,48.53,91.45
+europe_lau,Vârghiş,varghis,va,36.96,52.72,83.29
+europe_lau,Valea Mare,valea_mare,va,24.12,33.96,82.07
+europe_lau,Vărşag,varsag,va,69.05,77.11,75.58
+europe_lau,Vama Buzăului,vama_buzaului,va,44.92,66.94,72.79
+europe_lau,Vallentuna,vallentuna,va,63.53,69.77,38.37
+europe_lau,Värmdö,varmdo,va,59.32,61.14,52.72
+europe_lau,Vaxholm,vaxholm,va,37.61,64.12,-32.71
+europe_lau,Valdemarsvik,valdemarsvik,va,32.42,53.76,75.58
+europe_lau,Vadstena,vadstena,va,51.16,65,30.4
+europe_lau,Vaggeryd,vaggeryd,va,57.64,60.04,62.58
+europe_lau,Värnamo,varnamo,va,47.06,53.76,70.05
+europe_lau,Vale de Santarém,vale_de_santarem,va,44.12,52.9,34.05
+europe_lau,Valhascos,valhascos,va,62.16,71.39,70.42
+europe_lau,Vale (São Martinho),vale_sao_martinho,va,43.28,64.61,-9.97
+europe_lau,Valdreu,valdreu,va,57.77,63.75,51.91
+europe_lau,Vale do Paraíso,vale_do_paraiso,va,44.23,62.01,11.55
+europe_lau,Vavrinec,vavrinec,va,40.21,55.16,85.12
+europe_lau,Varadka,varadka,va,64.68,81.89,51.09
+europe_lau,Vădeni,vadeni,va,53.98,71.24,53.91
+europe_lau,Valea Mare Pravăţ,valea_mare_pravat,va,9.97,39.82,68.01
+europe_lau,Valea Călugărească,valea_calugareasca,va,39.59,51.78,89.13
+europe_lau,Valea Doftanei,valea_doftanei,va,52.63,61.48,79.91
+europe_lau,Vărbilău,varbilau,va,39.3,57.23,66.66
+europe_lau,Vâlcăneşti,valcanesti,va,47.9,60.48,73.02
+europe_lau,Vadu Săpat,vadu_sapat,va,23.01,47.6,59.37
+europe_lau,Valea Lungă,valea_lunga,va,55.31,64.39,38.51
+europe_lau,Valea Mare,valea_mare,va,32.32,41.32,79.28
+europe_lau,Văcăreşti,vacaresti,va,63.58,67.88,50.61
+europe_lau,Văleni-Dâmboviţa,valeni_dambovita,va,25.43,55.22,83.91
+europe_lau,Vârfuri,varfuri,va,44.75,65.17,66.49
+europe_lau,Valea Danului,valea_danului,va,44.46,61.61,83.07
+europe_lau,Valea Iaşului,valea_iasului,va,50.95,56.97,49.03
+europe_lau,Vaţa de Jos,vata_de_jos,va,66.88,71.58,59.49
+europe_lau,Vălişoara,valisoara,va,37.1,45.64,85.69
+europe_lau,Växjö,vaxjo,va,46.82,62.17,89.12
+europe_lau,Västervik,vastervik,va,50.16,59.39,86.78
+europe_lau,Varberg,varberg,va,58.09,57.79,55.28
+europe_lau,Vårgårda,vargarda,va,54.78,68.56,66.63
+europe_lau,Valice,valice,va,37.47,63.6,94.98
+europe_lau,Valea Ciorii,valea_ciorii,va,40.55,53.55,78.57
+europe_lau,Vâlcelele,valcelele,va,58.38,59.49,40.5
+europe_lau,Varhaňovce,varhanovce,va,44.66,61.02,76.73
+europe_lau,Vaďovce,vadovce,va,54.98,58.05,71.04
+europe_lau,Vännäs,vannas,va,57.07,66.61,72.8
+europe_lau,Valentovce,valentovce,va,47.73,65.08,48.36
+europe_lau,Vadu Paşii,vadu_pasii,va,57.77,69.34,47.57
+europe_lau,Valea Râmnicului,valea_ramnicului,va,67.01,71.35,56.75
+europe_lau,Valea Salciei,valea_salciei,va,32.37,62.55,78.2
+europe_lau,Vâlcelele,valcelele,va,31.15,55.03,51.09
+europe_lau,Valea Seacă,valea_seaca,va,22.99,55.54,-108.17
+europe_lau,Vara,vara,va,59.45,64.67,40.35
+europe_lau,Vänersborg,vanersborg,va,51.52,65.78,63.21
+europe_lau,Västerås,vasteras,va,55.04,64.66,62.23
+europe_lau,Vansbro,vansbro,va,67.49,82.35,78.26
+europe_lau,Văliug,valiug,va,30.97,62.4,95.09
+europe_lau,Vărădia,varadia,va,45.84,56.64,77.86
+europe_lau,Valea Stanciului,valea_stanciului,va,52.8,74.34,20.68
+europe_lau,Vârtop,vartop,va,56.43,67.97,50.31
+europe_lau,Vârvoru de Jos,varvoru_de_jos,va,55.53,61.28,39.7
+europe_lau,Vânatori,vanatori,va,49.55,64.59,84.35
+europe_lau,Valjevo,valjevo,va,50.4,59.94,65.72
+europe_lau,Valea Argovei,valea_argovei,va,41.38,58.2,73.29
+europe_lau,Valea Dragului,valea_dragului,va,49.85,60.6,77.33
+europe_lau,Valea Măcrişului,valea_macrisului,va,36.59,59.87,72.95
+europe_lau,Vasilaţi,vasilati,va,25.81,49.34,-76.39
+europe_lau,Vărăşti,varasti,va,43.04,57.16,78.33
+europe_lau,Vânătorii Mici,vanatorii_mici,va,72.72,76.07,56.61
+europe_lau,Valea Sării,valea_sarii,va,51.27,63.74,82.11
+europe_lau,Vânători,vanatori,va,42.7,53.93,69.84
+europe_lau,Vârteşcoiu,vartescoiu,va,49.92,71.89,-1.14
+europe_lau,Valongo,valongo,va,27.32,65.38,99.99
+europe_lau,Vale de Bouro,vale_de_bouro,va,27.15,52.02,24.66
+europe_lau,Valença do Douro,valenca_do_douro,va,48.04,58.66,19.03
+europe_lau,Várzea da Serra,varzea_da_serra,va,55.72,79.11,84.72
+europe_lau,Vale de Figueira,vale_de_figueira,va,41.59,60.8,9.6
+europe_lau,Valongo dos Azeites,valongo_dos_azeites,va,53.09,63.95,71.89
+europe_lau,Valadares,valadares,va,58.11,75.39,49.78
+europe_lau,Vadu Moldovei,vadu_moldovei,va,51.03,61.73,50.29
+europe_lau,Valea Moldovei,valea_moldovei,va,25.7,43.89,-45.72
+europe_lau,Vadu Izei,vadu_izei,va,33.96,64.64,-39.67
+europe_lau,Vale de Asnes,vale_de_asnes,va,65.34,74.21,46.14
+europe_lau,Vale de Gouvinhas,vale_de_gouvinhas,va,54.14,74.95,74.57
+europe_lau,Vale de Salgueiro,vale_de_salgueiro,va,43,65.83,93.52
+europe_lau,Vale de Telhas,vale_de_telhas,va,56.57,74.7,75.16
+europe_lau,Vale da Madre,vale_da_madre,va,46.85,61.76,30.74
+europe_lau,Vale Frechoso,vale_frechoso,va,48.63,56.95,58
+europe_lau,Valea Chioarului,valea_chioarului,va,38.73,56.89,-3.08
+europe_lau,Valea Nucarilor,valea_nucarilor,va,38.1,52.67,91.88
+europe_lau,Văcăreni,vacareni,va,31.49,48.75,89.63
+europe_lau,Valea Teilor,valea_teilor,va,42.84,51.22,61.89
+europe_lau,Vaiņodes novads,vainodes_novads,va,53.81,59.85,76.95
+europe_lau,Varakļānu novads,varaklanu_novads,va,48.6,56.09,29.18
+europe_lau,Vārkavas novads,varkavas_novads,va,47.65,59.07,45
+europe_lau,Valkenswaard,valkenswaard,va,33.2,54.53,82.68
+europe_lau,Vama,vama,va,59.34,77.82,68.18
+europe_lau,Vatra Moldoviţei,vatra_moldovitei,va,38.83,61.56,70.1
+europe_lau,Vacariça,vacarica,va,36.32,53.35,34.02
+europe_lau,Válega,valega,va,47.92,72.6,2.08
+europe_lau,Vale de Anta,vale_de_anta,va,47.18,63.78,86.35
+europe_lau,Vaqueiros,vaqueiros,va,56.65,60.45,59.28
+europe_lau,Valdengo,valdengo,va,32.76,52.39,61.77
+europe_lau,Vallanzengo,vallanzengo,va,19.6,49.21,80.99
+europe_lau,Valle San Nicolao,valle_san_nicolao,va,29.63,62.09,-77.75
+europe_lau,Valdilana,valdilana,va,27.68,51.06,77.11
+europe_lau,Vaals,vaals,va,55.21,60.02,25.49
+europe_lau,Vale das Fontes,vale_das_fontes,va,49.15,75.17,76.28
+europe_lau,Vânători,vanatori,va,40.46,64.44,-24.34
+europe_lau,Vânjuleţ,vanjulet,va,55.05,72.82,57.92
+europe_lau,Valkas novads,valkas_novads,va,26.56,50.13,44.29
+europe_lau,Василево,vasilevo,va,51.61,60.47,49.52
+europe_lau,Valkenburg aan de Geul,valkenburg_aan_de_geul,va,50.35,65.04,17.91
+europe_lau,Vaideeni,vaideeni,va,43.22,68.56,95.54
+europe_lau,Valea Mare,valea_mare,va,59.57,66.88,68.63
+europe_lau,Vârtoape,vartoape,va,57.24,65.66,45.96
+europe_lau,Valongo de Milhais,valongo_de_milhais,va,34.76,50.35,-19.72
+europe_lau,Vale da Mula,vale_da_mula,va,39.57,68.97,81.65
+europe_lau,Vale de Azares,vale_de_azares,va,44.99,59.98,32.75
+europe_lau,Valledoria,valledoria,va,35.7,63.88,23.51
+europe_lau,Valgreghentino,valgreghentino,va,55.94,63.92,63.58
+europe_lau,Valmadrera,valmadrera,va,63.6,66.95,44.31
+europe_lau,Varenna,varenna,va,40.76,71.27,82.18
+europe_lau,Valvarrone,valvarrone,va,37.76,51.96,28.21
+europe_lau,Vales,vales,va,63.07,68,34.47
+europe_lau,Vassal,vassal,va,57.01,65.51,59.52
+europe_lau,Vale da Senhora da Póvoa,vale_da_senhora_da_povoa,va,64.13,75.99,46.25
+europe_lau,Valadares,valadares,va,46.27,66.5,-23.8
+europe_lau,Valletta,valletta,va,52.09,72.19,39.22
+europe_lau,Vanylven,vanylven,va,47.49,61.16,67.67
+europe_lau,Valkeřice,valkerice,va,45.81,58.28,43.37
+europe_lau,Várzea dos Cavaleiros,varzea_dos_cavaleiros,va,66.72,73.55,72.89
+europe_lau,Varnsdorf,varnsdorf,va,35.67,58.46,-29.43
+europe_lau,Vale de Santiago,vale_de_santiago,va,45.52,54.53,51.23
+europe_lau,Varvažov,varvazov,va,58.63,66.46,71.27
+europe_lau,Valea Vinului,valea_vinului,va,56.82,59.34,50.66
+europe_lau,Vama,vama,va,40.24,72.83,78.57
+europe_lau,Variaş,varias,va,50.05,66.47,-2.57
+europe_lau,Valcani,valcani,va,47.92,69.85,27.07
+europe_lau,Valpaços e Sanfins,valpacos_e_sanfins,va,44.95,51.01,53.11
+europe_lau,Valoura,valoura,va,50.61,69.8,97.08
+europe_lau,Vale de Estrela,vale_de_estrela,va,48.25,68.3,79.54
+europe_lau,Valhelhas,valhelhas,va,47.37,57.47,75.28
+europe_lau,Vale de Amoreira,vale_de_amoreira,va,30.59,64.52,86.52
+europe_lau,Vascoveiro,vascoveiro,va,51.11,65.69,25.93
+europe_lau,Valea Largă,valea_larga,va,60.44,67.16,57.62
+europe_lau,Valcău de Jos,valcau_de_jos,va,35.94,60.19,65.09
+europe_lau,Vârşolţ,varsolt,va,61.43,67.27,48.53
+europe_lau,Vale,vale,va,52.37,74.09,31.09
+europe_lau,Vacalar,vacalar,va,46.67,65.27,32.8
+europe_lau,Václavy,vaclavy,va,51.65,64.74,15.62
+europe_lau,Vărgata,vargata,va,51.68,59.18,47.83
+europe_lau,Vătava,vatava,va,33.95,70.29,78.12
+europe_lau,Vânători,vanatori,va,23.46,48.71,17.47
+europe_lau,"Várzea, Aliviada e Folhada",varzea_aliviada_e_folhada,va,39.73,62.7,-14.46
+europe_lau,Vânători,vanatori,va,40.74,55.7,86.35
+europe_lau,Valea Lupului,valea_lupului,va,27.32,57.5,70.26
+europe_lau,Vandoma,vandoma,va,36,65.74,76.99
+europe_lau,Valpedre,valpedre,va,46,61.81,0.65
+europe_lau,Várzea,varzea,va,40.99,62.36,86.58
+europe_lau,Vaiamonte,vaiamonte,va,44.08,61.97,89.92
+europe_lau,Văleni,valeni,va,38.66,57.76,99.8
+europe_lau,Valbom/Bogalhal,valbom_bogalhal,va,54.98,71.96,78.69
+europe_lau,Vale do Côa,vale_do_coa,va,25.05,48.6,87.4
+europe_lau,Vale do Massueime,vale_do_massueime,va,43.14,61.29,75.08
+europe_lau,Vale de Espinho,vale_de_espinho,va,47.91,65.97,57.09
+europe_lau,Valezim,valezim,va,51.8,71.82,25.22
+europe_lau,Vajont,vajont,va,59.17,72.85,56.01
+europe_lau,Valvasone Arzene,valvasone_arzene,va,46.58,61.82,53.62
+europe_lau,Valea Viilor,valea_viilor,va,33.27,64.79,34.75
+europe_lau,Vascões,vascoes,va,49.86,65.7,92.6
+europe_lau,Vade (São Pedro),vade_sao_pedro,va,43.57,69.34,66.1
+europe_lau,Vade (São Tomé),vade_sao_tome,va,46.45,70.59,-10.28
+europe_lau,Várzea de Abrunhais,varzea_de_abrunhais,va,53.53,64.06,81.07
+europe_lau,Valdujo,valdujo,va,53.62,67.21,80.87
+europe_lau,Valea Ursului,valea_ursului,va,54.4,60.8,44.78
+europe_lau,Vânători-Neamţ,vanatori_neamt,va,43.49,53.21,47.34
+europe_lau,Văleni,valeni,va,42.53,63.25,31.59
+europe_lau,Vărădia de Mureş,varadia_de_mures,va,50.9,62.78,72.85
+europe_lau,Vârfurile,varfurile,va,34.17,47.06,6.53
+europe_lau,Vastogirardi,vastogirardi,va,46.04,60.76,1.63
+europe_lau,Vale Benfeito,vale_benfeito,va,42.52,82.39,29.83
+europe_lau,Vale da Porca,vale_da_porca,va,58.08,74.49,77.69
+europe_lau,Vale de Prados,vale_de_prados,va,68.7,73.82,61.03
+europe_lau,Валандово,valandovo,va,28.33,40.11,17.96
+europe_lau,VAU I DEJËS,vau_i_dejes,va,25.17,43.86,55.75
+europe_lau,Valdorros,valdorros,va,33.47,58.42,68.3
+europe_lau,Valdecaballeros,valdecaballeros,va,35.2,56.02,46.59
+europe_lau,Valensole,valensole,va,43.36,64.56,-10.43
+europe_lau,Vaux-lès-Mouzon,vaux_les_mouzon,va,33.54,45.97,91.97
+europe_lau,Vallorbe,vallorbe,va,27.2,59.06,-31.66
+europe_lau,Valdisotto,valdisotto,va,64.89,69.75,68.41
+europe_lau,Valguarnera Caropepe,valguarnera_caropepe,va,41.56,64.39,96.82

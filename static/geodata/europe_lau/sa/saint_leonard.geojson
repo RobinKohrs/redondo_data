@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_leonard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Léonard", "metric_roundness": 25.26, "metric_rectangularity": 64.12, "metric_mobile_fit": -21.07, "metric_aspect_ratio": 1.773, "metric_area_km2": 4.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0865345, 49.231724199999988 ], [ 4.123416, 49.220125 ], [ 4.1297575, 49.225575 ], [ 4.127966, 49.227354 ], [ 4.1192645, 49.231627 ], [ 4.114253, 49.227971499999988 ], [ 4.104709, 49.231761 ], [ 4.090484, 49.2360435 ], [ 4.0865345, 49.231724199999988 ] ] ] } }
+]
+}

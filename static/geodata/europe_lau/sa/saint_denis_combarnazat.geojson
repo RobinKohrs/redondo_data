@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_denis_combarnazat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Denis-Combarnazat", "metric_roundness": 55.85, "metric_rectangularity": 62.65, "metric_mobile_fit": 56.36, "metric_aspect_ratio": 0.999, "metric_area_km2": 21.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.327519, 45.986507499999988 ], [ 3.3323507, 45.9788539 ], [ 3.3257512, 45.963126699999982 ], [ 3.333415, 45.9558645 ], [ 3.3536793, 45.958783099999984 ], [ 3.3569027, 45.96933319999998 ], [ 3.3761266, 45.9765085 ], [ 3.3791785, 45.981273 ], [ 3.367031, 45.990742 ], [ 3.3501201, 45.9882515 ], [ 3.331833, 45.993038 ], [ 3.327519, 45.986507499999988 ] ] ] } }
+]
+}

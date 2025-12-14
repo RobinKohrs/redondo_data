@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moncenisio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moncenisio", "metric_roundness": 39.79, "metric_rectangularity": 64.35, "metric_mobile_fit": 39.56, "metric_aspect_ratio": 1.167, "metric_area_km2": 8.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9767313, 45.193972699999982 ], [ 6.9865905, 45.19789 ], [ 6.992441, 45.1980797 ], [ 7.0011136, 45.205076 ], [ 7.0044159, 45.2133315 ], [ 7.0023655, 45.219774 ], [ 6.9921243, 45.210871 ], [ 6.9648626, 45.2070089 ], [ 6.9616842, 45.2028135 ], [ 6.967771, 45.196881499999975 ], [ 6.9767313, 45.193972699999982 ] ] ] } }
+]
+}

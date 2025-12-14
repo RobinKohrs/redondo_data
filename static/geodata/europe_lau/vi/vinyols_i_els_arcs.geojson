@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vinyols_i_els_arcs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vinyols i els Arcs", "metric_roundness": 28.55, "metric_rectangularity": 47.98, "metric_mobile_fit": 83.18, "metric_aspect_ratio": 0.731, "metric_area_km2": 18.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.030204, 41.115383 ], [ 1.059038, 41.0771532 ], [ 1.0583522, 41.071762199999988 ], [ 1.0625658, 41.068713 ], [ 1.0639817, 41.073572199999987 ], [ 1.0727162, 41.0795383 ], [ 1.082619, 41.10075 ], [ 1.0720875, 41.096798 ], [ 1.041652, 41.121647 ], [ 1.0410875, 41.124321 ], [ 1.0376455, 41.1277855 ], [ 1.0253365, 41.1215395 ], [ 1.030204, 41.115383 ] ] ] } }
+]
+}

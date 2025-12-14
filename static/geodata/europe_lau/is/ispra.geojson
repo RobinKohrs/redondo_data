@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ispra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ispra", "metric_roundness": 69.42, "metric_rectangularity": 69.72, "metric_mobile_fit": 60.01, "metric_aspect_ratio": 0.962, "metric_area_km2": 32.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.6312072, 45.833023699999977 ], [ 8.5952195, 45.8336135 ], [ 8.593811, 45.828225 ], [ 8.5801015, 45.8128695 ], [ 8.601618, 45.792805 ], [ 8.6053564, 45.7892693 ], [ 8.611492, 45.793529699999986 ], [ 8.6260795, 45.793707 ], [ 8.6294357, 45.8027179 ], [ 8.6413262, 45.8092504 ], [ 8.6402845, 45.813815 ], [ 8.6402735, 45.815516 ], [ 8.6312072, 45.833023699999977 ] ] ] } }
+]
+}

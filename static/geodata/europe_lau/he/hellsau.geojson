@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hellsau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hellsau", "metric_roundness": 68.02, "metric_rectangularity": 68.65, "metric_mobile_fit": 68.73, "metric_aspect_ratio": 0.875, "metric_area_km2": 3.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.655438, 47.138983499999988 ], [ 7.6547855, 47.140694 ], [ 7.6525845, 47.140815 ], [ 7.6523605, 47.144116499999988 ], [ 7.6565565, 47.145008 ], [ 7.658897, 47.1467125 ], [ 7.65485, 47.150102499999988 ], [ 7.652033, 47.15125 ], [ 7.644865, 47.149077 ], [ 7.6421435, 47.147688 ], [ 7.6395165, 47.146757 ], [ 7.6407145, 47.139325 ], [ 7.6443835, 47.137007 ], [ 7.649732, 47.136188 ], [ 7.655438, 47.138983499999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "coudes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Coudes", "metric_roundness": 49.44, "metric_rectangularity": 62.31, "metric_mobile_fit": 27.39, "metric_aspect_ratio": 1.289, "metric_area_km2": 9.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2183665, 45.604085 ], [ 3.2249507, 45.6081857 ], [ 3.220034, 45.612125 ], [ 3.214431, 45.612180899999984 ], [ 3.2116317, 45.6154549 ], [ 3.2124424, 45.618664699999982 ], [ 3.217403, 45.6240215 ], [ 3.2007534, 45.6162324 ], [ 3.1835575, 45.620476499999988 ], [ 3.1806985, 45.613552 ], [ 3.1940775, 45.6 ], [ 3.2183665, 45.604085 ] ] ] } }
+]
+}

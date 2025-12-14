@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pouilloux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pouilloux", "metric_roundness": 60.22, "metric_rectangularity": 69.81, "metric_mobile_fit": 66.66, "metric_aspect_ratio": 0.896, "metric_area_km2": 39.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3851918, 46.6142836 ], [ 4.3776705, 46.621719 ], [ 4.3600857, 46.621162199999986 ], [ 4.3490087, 46.625053499999979 ], [ 4.32587, 46.626113 ], [ 4.3234028, 46.624954399999979 ], [ 4.3233712, 46.618044899999987 ], [ 4.3264441, 46.5971432 ], [ 4.3347915, 46.5758295 ], [ 4.3520715, 46.58601 ], [ 4.3847142, 46.594978399999981 ], [ 4.38894, 46.598685 ], [ 4.3851918, 46.6142836 ] ] ] } }
+]
+}

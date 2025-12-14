@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vigneulles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vigneulles", "metric_roundness": 31.91, "metric_rectangularity": 58.95, "metric_mobile_fit": 15.29, "metric_aspect_ratio": 1.41, "metric_area_km2": 12.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.379052, 48.575756499999983 ], [ 6.3734728, 48.5810093 ], [ 6.3427228, 48.5756544 ], [ 6.32614, 48.574383 ], [ 6.3199057, 48.559962299999981 ], [ 6.3281845, 48.553242499999989 ], [ 6.3451571, 48.563963499999986 ], [ 6.371735, 48.573404499999981 ], [ 6.379052, 48.575756499999983 ] ] ] } }
+]
+}

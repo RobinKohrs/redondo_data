@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ardizas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ardizas", "metric_roundness": 46.96, "metric_rectangularity": 71.56, "metric_mobile_fit": 56.03, "metric_aspect_ratio": 1.002, "metric_area_km2": 16.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9724252, 43.7333954 ], [ 0.973774, 43.7289585 ], [ 0.9882517, 43.7253756 ], [ 0.9886948, 43.7132754 ], [ 0.998088, 43.7077755 ], [ 1.0072869, 43.706375099999988 ], [ 1.0122618, 43.710357499999986 ], [ 1.019493, 43.7100019 ], [ 1.0243515, 43.712987499999983 ], [ 1.0218723, 43.722869 ], [ 1.011975, 43.727697 ], [ 0.9927024, 43.7372691 ], [ 0.985919, 43.743818499999989 ], [ 0.9724252, 43.7333954 ] ] ] } }
+]
+}

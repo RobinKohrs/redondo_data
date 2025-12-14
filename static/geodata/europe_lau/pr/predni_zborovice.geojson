@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "predni_zborovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Přední Zborovice", "metric_roundness": 55.34, "metric_rectangularity": 68.64, "metric_mobile_fit": 24.59, "metric_aspect_ratio": 1.317, "metric_area_km2": 6.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.881266, 49.2184855 ], [ 13.876268, 49.2163595 ], [ 13.8825696, 49.2135083 ], [ 13.909694, 49.212270499999988 ], [ 13.9062208, 49.22121019999998 ], [ 13.898921, 49.2266209 ], [ 13.8923179, 49.2288524 ], [ 13.881851, 49.2265855 ], [ 13.8809375, 49.2231495 ], [ 13.881266, 49.2184855 ] ] ] } }
+]
+}

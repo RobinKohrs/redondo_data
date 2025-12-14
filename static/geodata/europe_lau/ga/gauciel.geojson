@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gauciel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gauciel", "metric_roundness": 47.88, "metric_rectangularity": 63.68, "metric_mobile_fit": 54.36, "metric_aspect_ratio": 1.019, "metric_area_km2": 17.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.230247, 49.0390255 ], [ 1.2231077, 49.0310029 ], [ 1.2232885, 49.020025 ], [ 1.2324997, 49.0196414 ], [ 1.239212, 49.023981199999987 ], [ 1.2757755, 49.033966 ], [ 1.2721268, 49.0373778 ], [ 1.2725039, 49.0443395 ], [ 1.2597686, 49.045142899999988 ], [ 1.2522175, 49.05352749999998 ], [ 1.2470755, 49.0512855 ], [ 1.230247, 49.0390255 ] ] ] } }
+]
+}

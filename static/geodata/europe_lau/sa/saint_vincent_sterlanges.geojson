@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_vincent_sterlanges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Vincent-Sterlanges", "metric_roundness": 61.12, "metric_rectangularity": 81.06, "metric_mobile_fit": 69.95, "metric_aspect_ratio": 0.863, "metric_area_km2": 9.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0684835, 46.734669 ], [ -1.0673816, 46.739225499999989 ], [ -1.0797956, 46.750315 ], [ -1.088697, 46.751609499999986 ], [ -1.1003895, 46.745945 ], [ -1.096055, 46.744046199999985 ], [ -1.0939553, 46.7343764 ], [ -1.0814035, 46.725397 ], [ -1.0684835, 46.734669 ] ] ] } }
+]
+}

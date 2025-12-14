@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_sauveur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Sauveur", "metric_roundness": 44.55, "metric_rectangularity": 54.84, "metric_mobile_fit": 20.82, "metric_aspect_ratio": 1.354, "metric_area_km2": 17.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5995085, 44.867868699999988 ], [ 0.6117301, 44.8687328 ], [ 0.61937, 44.877018 ], [ 0.6170625, 44.877981 ], [ 0.5933872, 44.878140299999984 ], [ 0.5820154, 44.8879834 ], [ 0.56029, 44.88419 ], [ 0.5577555, 44.884285 ], [ 0.5648547, 44.8644598 ], [ 0.5820984, 44.8612119 ], [ 0.5840005, 44.8557425 ], [ 0.5995085, 44.867868699999988 ] ] ] } }
+]
+}

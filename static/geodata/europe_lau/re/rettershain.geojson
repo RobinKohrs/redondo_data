@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rettershain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rettershain", "metric_roundness": 56.3, "metric_rectangularity": 66.79, "metric_mobile_fit": 35.14, "metric_aspect_ratio": 1.211, "metric_area_km2": 11.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8491304, 50.1378427 ], [ 7.852484, 50.146173499999982 ], [ 7.8477701, 50.1523151 ], [ 7.8347746, 50.158487299999983 ], [ 7.8280765, 50.157094 ], [ 7.8248494, 50.151793499999989 ], [ 7.810853, 50.1465165 ], [ 7.809582, 50.1454695 ], [ 7.807355, 50.1439015 ], [ 7.806569, 50.142040499999986 ], [ 7.8171689, 50.1435019 ], [ 7.825928, 50.1378069 ], [ 7.842468, 50.134192 ], [ 7.8491304, 50.1378427 ] ] ] } }
+]
+}

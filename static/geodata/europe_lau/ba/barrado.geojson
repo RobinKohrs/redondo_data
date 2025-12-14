@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "barrado",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Barrado", "metric_roundness": 49.22, "metric_rectangularity": 65.52, "metric_mobile_fit": 4.58, "metric_aspect_ratio": 1.517, "metric_area_km2": 36.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.9291559, 40.0782678 ], [ -5.893848, 40.054928 ], [ -5.8690139, 40.066201 ], [ -5.8557835, 40.0807075 ], [ -5.8591989, 40.0942636 ], [ -5.8877135, 40.098954 ], [ -5.9266659, 40.0918784 ], [ -5.943052, 40.083729 ], [ -5.9291559, 40.0782678 ] ] ] } }
+]
+}

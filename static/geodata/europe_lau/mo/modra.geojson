@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "modra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Modrá", "metric_roundness": 26.01, "metric_rectangularity": 66.99, "metric_mobile_fit": 89.92, "metric_aspect_ratio": 0.663, "metric_area_km2": 4.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.4153964, 49.102064099999986 ], [ 17.4099415, 49.1064223 ], [ 17.402607, 49.120823 ], [ 17.3952973, 49.123212199999983 ], [ 17.3909267, 49.118427 ], [ 17.3977784, 49.1075308 ], [ 17.414398, 49.099062499999981 ], [ 17.4153964, 49.102064099999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "quincampoix_fleuzy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Quincampoix-Fleuzy", "metric_roundness": 44.34, "metric_rectangularity": 63.92, "metric_mobile_fit": 52.33, "metric_aspect_ratio": 1.039, "metric_area_km2": 22.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7402618, 49.7492975 ], [ 1.7454545, 49.7385655 ], [ 1.7623476, 49.7365355 ], [ 1.768605, 49.731419499999987 ], [ 1.7826606, 49.7345841 ], [ 1.7960985, 49.726849 ], [ 1.7983715, 49.727981 ], [ 1.796123, 49.736287499999989 ], [ 1.7862565, 49.748518 ], [ 1.790522, 49.753351 ], [ 1.7903745, 49.756942799999983 ], [ 1.783834, 49.758309499999982 ], [ 1.7635868, 49.7571057 ], [ 1.7505398, 49.7629824 ], [ 1.742724, 49.7528485 ], [ 1.7402618, 49.7492975 ] ] ] } }
+]
+}

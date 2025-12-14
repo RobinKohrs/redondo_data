@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "csatar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Csatár", "metric_roundness": 55.01, "metric_rectangularity": 69.78, "metric_mobile_fit": 77.7, "metric_aspect_ratio": 0.786, "metric_area_km2": 16.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8541665, 46.7610895 ], [ 16.859841, 46.757616 ], [ 16.8722453, 46.7550561 ], [ 16.8857568, 46.77539059999998 ], [ 16.8942882, 46.778862599999982 ], [ 16.894052, 46.786877499999989 ], [ 16.8746237, 46.790037 ], [ 16.858044, 46.784504 ], [ 16.8541665, 46.7610895 ] ] ] } }
+]
+}

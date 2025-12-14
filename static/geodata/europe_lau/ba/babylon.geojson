@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "babylon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Babylon", "metric_roundness": 25.02, "metric_rectangularity": 46.25, "metric_mobile_fit": 60.01, "metric_aspect_ratio": 0.962, "metric_area_km2": 15.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.8556302, 49.3796519 ], [ 12.870717, 49.384470499999985 ], [ 12.8677104, 49.4029712 ], [ 12.8771085, 49.415949 ], [ 12.8741225, 49.41814549999998 ], [ 12.8556302, 49.403555399999981 ], [ 12.8413405, 49.396439 ], [ 12.8394451, 49.3884249 ], [ 12.820181, 49.380011 ], [ 12.8556302, 49.3796519 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "millencourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Millencourt", "metric_roundness": 63.6, "metric_rectangularity": 66.77, "metric_mobile_fit": 52.82, "metric_aspect_ratio": 1.034, "metric_area_km2": 14.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5772375, 50.011292 ], [ 2.5770785, 50.0022 ], [ 2.5887475, 49.9909185 ], [ 2.6027315, 49.988294 ], [ 2.610905, 49.9907 ], [ 2.620491, 49.99844359999998 ], [ 2.6169395, 50.0093415 ], [ 2.6004753, 50.0064387 ], [ 2.5924978, 50.0104517 ], [ 2.5899615, 50.0152715 ], [ 2.5772375, 50.011292 ] ] ] } }
+]
+}

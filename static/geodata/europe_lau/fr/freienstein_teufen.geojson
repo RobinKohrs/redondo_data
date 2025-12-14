@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "freienstein_teufen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Freienstein-Teufen", "metric_roundness": 38.13, "metric_rectangularity": 74.86, "metric_mobile_fit": 56.5, "metric_aspect_ratio": 0.998, "metric_area_km2": 18.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.612343, 47.53532 ], [ 8.6013294, 47.5404773 ], [ 8.59728, 47.547435 ], [ 8.5890899, 47.5541406 ], [ 8.5795624, 47.555211299999982 ], [ 8.5763496, 47.5602911 ], [ 8.5676305, 47.562568499999983 ], [ 8.563683, 47.557525 ], [ 8.554668, 47.552818 ], [ 8.5541845, 47.550673 ], [ 8.5640285, 47.5445601 ], [ 8.570934, 47.5438286 ], [ 8.586822, 47.528263 ], [ 8.6061665, 47.523212499999985 ], [ 8.612343, 47.53532 ] ] ] } }
+]
+}

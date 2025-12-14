@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_keras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κεράς", "metric_roundness": 54.78, "metric_rectangularity": 69.88, "metric_mobile_fit": 82.63, "metric_aspect_ratio": 0.736, "metric_area_km2": 5.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4595155, 35.231841 ], [ 25.453532, 35.2297621 ], [ 25.450222, 35.2232212 ], [ 25.457161, 35.205581 ], [ 25.459255, 35.206481 ], [ 25.462603, 35.207442 ], [ 25.4655155, 35.2088105 ], [ 25.4738865, 35.220184499999988 ], [ 25.4595155, 35.231841 ] ] ] } }
+]
+}

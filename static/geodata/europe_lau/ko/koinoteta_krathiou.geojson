@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_krathiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κραθίου", "metric_roundness": 49.4, "metric_rectangularity": 74.11, "metric_mobile_fit": 88.76, "metric_aspect_ratio": 0.675, "metric_area_km2": 3.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.3455885, 38.143294 ], [ 22.3500925, 38.150020499999982 ], [ 22.3511465, 38.1521085 ], [ 22.3441625, 38.160662 ], [ 22.3366839, 38.1552634 ], [ 22.3342175, 38.147413499999985 ], [ 22.343434, 38.140936499999981 ], [ 22.3455885, 38.143294 ] ] ] } }
+]
+}

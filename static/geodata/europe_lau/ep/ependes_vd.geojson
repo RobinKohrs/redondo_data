@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ependes_vd",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ependes (VD)", "metric_roundness": 48.99, "metric_rectangularity": 58.54, "metric_mobile_fit": 51.75, "metric_aspect_ratio": 1.045, "metric_area_km2": 10.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6117365, 46.7552015 ], [ 6.6076925, 46.760273 ], [ 6.602548, 46.756889 ], [ 6.5980323, 46.753616699999988 ], [ 6.5978162, 46.748856099999983 ], [ 6.5922445, 46.747862 ], [ 6.581809, 46.744068499999983 ], [ 6.577549, 46.742039 ], [ 6.5938655, 46.736314 ], [ 6.6141605, 46.732828499999989 ], [ 6.6145648, 46.742014199999986 ], [ 6.619405, 46.7484424 ], [ 6.61342, 46.756383499999984 ], [ 6.6117365, 46.7552015 ] ] ] } }
+]
+}

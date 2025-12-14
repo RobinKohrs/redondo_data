@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_vila_nova_de_famalicao_e_calendario",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Vila Nova de Famalicão e Calendário", "metric_roundness": 27.82, "metric_rectangularity": 47.77, "metric_mobile_fit": 93.2, "metric_aspect_ratio": 0.494, "metric_area_km2": 16.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.540088, 41.369814 ], [ -8.537646, 41.374894499999989 ], [ -8.5210526, 41.3875864 ], [ -8.5156145, 41.387676 ], [ -8.5200788, 41.4034636 ], [ -8.514223, 41.413041 ], [ -8.5188893, 41.416380499999981 ], [ -8.520388, 41.425223 ], [ -8.525779, 41.425643499999985 ], [ -8.528596, 41.422838 ], [ -8.5330046, 41.4098123 ], [ -8.5505295, 41.403074499999988 ], [ -8.551025, 41.4027445 ], [ -8.5435703, 41.3900722 ], [ -8.5410931, 41.3792621 ], [ -8.5427505, 41.3699205 ], [ -8.540088, 41.369814 ] ] ] } }
+]
+}

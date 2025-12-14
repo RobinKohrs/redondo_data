@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_daphnes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Δάφνης", "metric_roundness": 31.3, "metric_rectangularity": 58.55, "metric_mobile_fit": 12.6, "metric_aspect_ratio": 1.436, "metric_area_km2": 10.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2209137, 40.7737438 ], [ 22.245435, 40.763928 ], [ 22.235667, 40.7773129 ], [ 22.2461917, 40.777405 ], [ 22.2533065, 40.772393 ], [ 22.254063, 40.782093499999988 ], [ 22.2392853, 40.7843255 ], [ 22.2242085, 40.7910091 ], [ 22.2010695, 40.793172 ], [ 22.198588, 40.7909005 ], [ 22.2209137, 40.7737438 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_delesiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Δηλεσίου", "metric_roundness": 50.7, "metric_rectangularity": 75.81, "metric_mobile_fit": 20.53, "metric_aspect_ratio": 1.357, "metric_area_km2": 8.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.683854, 38.323415499999989 ], [ 23.684599, 38.32423 ], [ 23.6887398, 38.330726199999987 ], [ 23.690418, 38.340297499999984 ], [ 23.6793119, 38.339669 ], [ 23.6725485, 38.343136 ], [ 23.6624478, 38.3403942 ], [ 23.6534505, 38.3244815 ], [ 23.6649395, 38.32177 ], [ 23.683854, 38.323415499999989 ] ] ] } }
+]
+}

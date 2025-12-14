@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lanarvily",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lanarvily", "metric_roundness": 52.08, "metric_rectangularity": 68.16, "metric_mobile_fit": 75.29, "metric_aspect_ratio": 0.81, "metric_area_km2": 12.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.4030995, 48.558571499999985 ], [ -4.40039, 48.557066 ], [ -4.3964455, 48.556624 ], [ -4.394248, 48.555395499999982 ], [ -4.3843082, 48.5450704 ], [ -4.36911, 48.5520615 ], [ -4.3674684, 48.569305799999981 ], [ -4.375208, 48.5776685 ], [ -4.382551, 48.570105699999978 ], [ -4.3936043, 48.570106099999983 ], [ -4.4073465, 48.559763499999981 ], [ -4.4030995, 48.558571499999985 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "xaintray",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Xaintray", "metric_roundness": 43.61, "metric_rectangularity": 57.74, "metric_mobile_fit": 83.08, "metric_aspect_ratio": 0.732, "metric_area_km2": 23.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.4752544, 46.5119188 ], [ -0.4860779, 46.5114519 ], [ -0.496018, 46.504775 ], [ -0.5098605, 46.4904812 ], [ -0.4909527, 46.478815 ], [ -0.4788454, 46.4774795 ], [ -0.4776133, 46.474278 ], [ -0.4682235, 46.472784 ], [ -0.4682027, 46.4936734 ], [ -0.4605893, 46.498528099999987 ], [ -0.4610215, 46.502445 ], [ -0.458899, 46.5207275 ], [ -0.4752544, 46.5119188 ] ] ] } }
+]
+}

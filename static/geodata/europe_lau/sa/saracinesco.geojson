@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saracinesco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saracinesco", "metric_roundness": 34.76, "metric_rectangularity": 71.98, "metric_mobile_fit": 83.19, "metric_aspect_ratio": 0.731, "metric_area_km2": 19.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.9230171, 42.0143424 ], [ 12.9262305, 42.0113735 ], [ 12.9366052, 42.007135 ], [ 12.9471509, 41.995069599999987 ], [ 12.9509404, 41.9854556 ], [ 12.962641, 41.973828 ], [ 12.9763605, 41.978896 ], [ 12.976944, 41.9816325 ], [ 12.9685418, 41.991994399999982 ], [ 12.9614237, 42.012870199999988 ], [ 12.9529824, 42.0175866 ], [ 12.9450435, 42.028682 ], [ 12.928254, 42.0189485 ], [ 12.9230171, 42.0143424 ] ] ] } }
+]
+}

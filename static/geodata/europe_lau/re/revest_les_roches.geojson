@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "revest_les_roches",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Revest-les-Roches", "metric_roundness": 64.12, "metric_rectangularity": 72.81, "metric_mobile_fit": 71.79, "metric_aspect_ratio": 0.845, "metric_area_km2": 16.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1843275, 43.8924355 ], [ 7.181305, 43.895984 ], [ 7.1658185, 43.8994385 ], [ 7.165706, 43.8965165 ], [ 7.162812, 43.8946995 ], [ 7.1584795, 43.895018 ], [ 7.1573935, 43.897048 ], [ 7.1497973, 43.893335799999981 ], [ 7.1492245, 43.8859153 ], [ 7.1486379, 43.8783162 ], [ 7.159638, 43.864813 ], [ 7.1765748, 43.8746316 ], [ 7.1892135, 43.8782955 ], [ 7.1886172, 43.8859153 ], [ 7.1879675, 43.894218 ], [ 7.1843275, 43.8924355 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "abovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Abovce", "metric_roundness": 36.49, "metric_rectangularity": 66.42, "metric_mobile_fit": 59.35, "metric_aspect_ratio": 0.969, "metric_area_km2": 17.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.314445, 48.30454 ], [ 20.3223071, 48.302616799999981 ], [ 20.3337405, 48.291130499999987 ], [ 20.3365924, 48.3002426 ], [ 20.3564275, 48.309591499999989 ], [ 20.3742675, 48.3269935 ], [ 20.367618, 48.332190499999982 ], [ 20.3255915, 48.3172955 ], [ 20.314445, 48.30454 ] ] ] } }
+]
+}

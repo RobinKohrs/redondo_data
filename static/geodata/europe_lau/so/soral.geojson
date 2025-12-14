@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soral",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soral", "metric_roundness": 26.41, "metric_rectangularity": 54.74, "metric_mobile_fit": 4.62, "metric_aspect_ratio": 1.516, "metric_area_km2": 6.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0359093, 46.137262799999988 ], [ 6.047811, 46.1409455 ], [ 6.0526931, 46.150858199999988 ], [ 6.0745585, 46.1493075 ], [ 6.072009, 46.1528525 ], [ 6.0609745, 46.160195 ], [ 6.0532905, 46.1568795 ], [ 6.051423, 46.154967499999984 ], [ 6.0491815, 46.151998 ], [ 6.0408428, 46.152023 ], [ 6.0356755, 46.14762 ], [ 6.0243665, 46.140705 ], [ 6.0359093, 46.137262799999988 ] ] ] } }
+]
+}

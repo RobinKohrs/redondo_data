@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santo_pietro_di_venaco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santo-Pietro-di-Venaco", "metric_roundness": 13.31, "metric_rectangularity": 41.86, "metric_mobile_fit": -206.02, "metric_aspect_ratio": 3.623, "metric_area_km2": 14.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.198824, 42.242769 ], [ 9.18679, 42.2405415 ], [ 9.1784124, 42.2444141 ], [ 9.17731, 42.250479 ], [ 9.1729568, 42.249808 ], [ 9.1678973, 42.255304 ], [ 9.1499727, 42.2574472 ], [ 9.1307492, 42.2465925 ], [ 9.123744, 42.2389445 ], [ 9.1488724, 42.238576699999982 ], [ 9.1759724, 42.2430771 ], [ 9.1915713, 42.236271399999985 ], [ 9.2067727, 42.2382053 ], [ 9.2164353, 42.235940499999984 ], [ 9.2289955, 42.240610499999981 ], [ 9.198824, 42.242769 ] ] ] } }
+]
+}

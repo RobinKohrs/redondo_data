@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rodenbach_bei_puderbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rodenbach bei Puderbach", "metric_roundness": 68.72, "metric_rectangularity": 69.76, "metric_mobile_fit": 73.52, "metric_aspect_ratio": 0.827, "metric_area_km2": 15.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6253668, 50.639918699999981 ], [ 7.617745, 50.632607499999985 ], [ 7.6210582, 50.628267299999983 ], [ 7.635311, 50.6233495 ], [ 7.6431615, 50.6262965 ], [ 7.657441, 50.6379099 ], [ 7.6573975, 50.6452325 ], [ 7.6528434, 50.650742499999986 ], [ 7.63976, 50.6491883 ], [ 7.6342005, 50.653781 ], [ 7.6275905, 50.652788499999986 ], [ 7.6204775, 50.648063 ], [ 7.6253668, 50.639918699999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roilly", "metric_roundness": 64.06, "metric_rectangularity": 71.16, "metric_mobile_fit": 57.31, "metric_aspect_ratio": 0.989, "metric_area_km2": 9.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3429353, 47.428919199999982 ], [ 4.3218615, 47.423436499999987 ], [ 4.328617, 47.417734899999985 ], [ 4.3290347, 47.411207399999981 ], [ 4.3333358, 47.406413 ], [ 4.3403705, 47.4044025 ], [ 4.345932, 47.4077705 ], [ 4.3481995, 47.406381 ], [ 4.3535001, 47.410568599999976 ], [ 4.3519588, 47.41594629999998 ], [ 4.35771, 47.423041499999989 ], [ 4.3429353, 47.428919199999982 ] ] ] } }
+]
+}

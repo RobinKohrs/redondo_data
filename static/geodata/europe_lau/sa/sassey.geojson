@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sassey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sassey", "metric_roundness": 35.76, "metric_rectangularity": 60.09, "metric_mobile_fit": -29.06, "metric_aspect_ratio": 1.853, "metric_area_km2": 9.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.243515, 49.054758 ], [ 1.2395535, 49.053913 ], [ 1.2308834, 49.0577 ], [ 1.2084256, 49.0550919 ], [ 1.20204, 49.0548925 ], [ 1.1997655, 49.055679499999982 ], [ 1.197737, 49.054717499999988 ], [ 1.1956625, 49.0557305 ], [ 1.1942755, 49.053552 ], [ 1.2084256, 49.047478399999989 ], [ 1.230247, 49.0390255 ], [ 1.2470755, 49.0512855 ], [ 1.243515, 49.054758 ] ] ] } }
+]
+}

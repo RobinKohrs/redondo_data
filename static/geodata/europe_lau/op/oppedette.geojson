@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oppedette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oppedette", "metric_roundness": 59.1, "metric_rectangularity": 77.24, "metric_mobile_fit": 46.25, "metric_aspect_ratio": 1.1, "metric_area_km2": 16.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5965971, 43.9457823 ], [ 5.584558, 43.941941899999989 ], [ 5.567633, 43.942636499999985 ], [ 5.5699247, 43.935105199999981 ], [ 5.5800722, 43.925335799999985 ], [ 5.5822955, 43.9157572 ], [ 5.606562, 43.9160805 ], [ 5.6099175, 43.9199705 ], [ 5.611239, 43.922931 ], [ 5.6134945, 43.9236315 ], [ 5.607179, 43.944306499999982 ], [ 5.5965971, 43.9457823 ] ] ] } }
+]
+}

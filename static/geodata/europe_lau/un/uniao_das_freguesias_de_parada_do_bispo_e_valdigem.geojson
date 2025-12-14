@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_parada_do_bispo_e_valdigem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Parada do Bispo e Valdigem", "metric_roundness": 47.29, "metric_rectangularity": 60.47, "metric_mobile_fit": 66.71, "metric_aspect_ratio": 0.895, "metric_area_km2": 22.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7702246, 41.1280703 ], [ -7.7755124, 41.125449499999988 ], [ -7.7760225, 41.119989 ], [ -7.7733655, 41.1129228 ], [ -7.7600182, 41.1134376 ], [ -7.7524795, 41.1101114 ], [ -7.7471055, 41.113364499999982 ], [ -7.7433802, 41.1284 ], [ -7.7322062, 41.135641899999989 ], [ -7.729966, 41.1451065 ], [ -7.774151, 41.1520745 ], [ -7.783852, 41.1554395 ], [ -7.7772962, 41.1460369 ], [ -7.775298, 41.1373965 ], [ -7.7702246, 41.1280703 ] ] ] } }
+]
+}

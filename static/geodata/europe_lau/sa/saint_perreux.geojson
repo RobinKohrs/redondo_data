@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_perreux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Perreux", "metric_roundness": 55.58, "metric_rectangularity": 77.36, "metric_mobile_fit": 45.8, "metric_aspect_ratio": 1.105, "metric_area_km2": 13.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.147134, 47.6785765 ], [ -2.142402, 47.671507 ], [ -2.131105, 47.665635 ], [ -2.121529, 47.661183 ], [ -2.119655, 47.66248 ], [ -2.114494, 47.6588025 ], [ -2.110377, 47.6570155 ], [ -2.1067905, 47.6603515 ], [ -2.102879, 47.666987 ], [ -2.104024, 47.6727085 ], [ -2.1038485, 47.676183 ], [ -2.115824, 47.681401 ], [ -2.1226675, 47.682670499999986 ], [ -2.1324543, 47.683996099999987 ], [ -2.146977, 47.6790775 ], [ -2.147134, 47.6785765 ] ] ] } }
+]
+}

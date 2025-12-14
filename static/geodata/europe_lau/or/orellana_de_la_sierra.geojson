@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orellana_de_la_sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orellana de la Sierra", "metric_roundness": 50.68, "metric_rectangularity": 74.27, "metric_mobile_fit": 99.88, "metric_aspect_ratio": 0.561, "metric_area_km2": 27.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.521031, 38.988941 ], [ -5.5130543, 38.9911454 ], [ -5.507016, 38.9967912 ], [ -5.4897375, 38.997299 ], [ -5.4910832, 39.0102623 ], [ -5.485392, 39.019861399999989 ], [ -5.4890936, 39.035625 ], [ -5.4972254, 39.0438805 ], [ -5.5041568, 39.0445383 ], [ -5.5127787, 39.0404288 ], [ -5.5173594, 39.042562 ], [ -5.518139, 39.04607 ], [ -5.5260029, 39.034858199999988 ], [ -5.5266843, 39.013833099999978 ], [ -5.521745, 38.9889145 ], [ -5.521031, 38.988941 ] ] ] } }
+]
+}

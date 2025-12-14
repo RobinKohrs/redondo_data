@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saignes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saignes", "metric_roundness": 66.01, "metric_rectangularity": 67.84, "metric_mobile_fit": 62.12, "metric_aspect_ratio": 0.941, "metric_area_km2": 13.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.473442, 45.3183025 ], [ 2.4774041, 45.3203554 ], [ 2.4910419, 45.318144799999978 ], [ 2.5024045, 45.3248305 ], [ 2.4922842, 45.3409986 ], [ 2.483523, 45.3456375 ], [ 2.4759957, 45.347433899999977 ], [ 2.4710613, 45.340613 ], [ 2.4633937, 45.337562499999983 ], [ 2.4705817, 45.331287199999984 ], [ 2.4637373, 45.3291818 ], [ 2.463187, 45.322767 ], [ 2.473442, 45.3183025 ] ] ] } }
+]
+}

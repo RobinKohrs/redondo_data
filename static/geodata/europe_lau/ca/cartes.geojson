@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cartes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cartes", "metric_roundness": 44.49, "metric_rectangularity": 64.94, "metric_mobile_fit": 59.43, "metric_aspect_ratio": 0.968, "metric_area_km2": 35.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.1070463, 43.292284699999989 ], [ -4.0743525, 43.299851499999988 ], [ -4.0661744, 43.317924 ], [ -4.0663837, 43.3248738 ], [ -4.0598344, 43.3315793 ], [ -4.0682369, 43.3439425 ], [ -4.0800815, 43.342966 ], [ -4.0913573, 43.3315065 ], [ -4.1138585, 43.324279 ], [ -4.128579, 43.3025058 ], [ -4.126328, 43.293114 ], [ -4.1070463, 43.292284699999989 ] ] ] } }
+]
+}

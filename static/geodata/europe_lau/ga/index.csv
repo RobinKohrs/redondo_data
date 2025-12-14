@@ -1,0 +1,632 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Gallspach,gallspach,ga,46.68,65.5,68
+europe_lau,Gaspoltshofen,gaspoltshofen,ga,61.21,67.6,25.02
+europe_lau,Gaushorn,gaushorn,ga,34.95,59.39,74.17
+europe_lau,Gampern,gampern,ga,58.93,70.24,69.77
+europe_lau,"Garding, Kirchspiel",garding_kirchspiel,ga,53.41,59.93,59.59
+europe_lau,"Garding, Stadt",garding_stadt,ga,53.21,73.34,-5.26
+europe_lau,Gammelby,gammelby,ga,44.17,71.91,49.04
+europe_lau,Gallneukirchen,gallneukirchen,ga,72.03,66.9,49.45
+europe_lau,Galmsbüll,galmsbull,ga,55.24,64.49,67.27
+europe_lau,Gaflenz,gaflenz,ga,69.47,67.83,49.59
+europe_lau,Garsten,garsten,ga,36,52.75,51.85
+europe_lau,"Garbsen, Stadt",garbsen_stadt,ga,66.24,72.6,61.62
+europe_lau,Gandesbergen,gandesbergen,ga,21.56,37.91,-48.21
+europe_lau,Garrel,garrel,ga,54.48,66.12,71.45
+europe_lau,Garlstorf,garlstorf,ga,42.42,58.24,30.64
+europe_lau,Garstedt,garstedt,ga,36.68,60.56,-29.49
+europe_lau,"Gartow, Flecken",gartow_flecken,ga,33.33,50.23,98.47
+europe_lau,"Gartow, gemfr. Gebiet",gartow_gemfr_gebiet,ga,26.73,47.07,51.91
+europe_lau,Gangelt,gangelt,ga,55.54,64.92,70.42
+europe_lau,Gattendorf,gattendorf,ga,29.24,54.16,52.82
+europe_lau,Galenberg,galenberg,ga,50.92,73.3,76.9
+europe_lau,Ganderkesee,ganderkesee,ga,53.74,62.58,79.46
+europe_lau,Gaishorn am See,gaishorn_am_see,ga,45.15,63.33,82.36
+europe_lau,Gamlen,gamlen,ga,53.52,71.35,81.13
+europe_lau,Gabersdorf,gabersdorf,ga,28.93,66.98,97.91
+europe_lau,Gappenach,gappenach,ga,53.35,70.74,28.05
+europe_lau,Gamlitz,gamlitz,ga,60.43,63.98,68.86
+europe_lau,Gaal,gaal,ga,59.76,77.05,33.98
+europe_lau,Gauersheim,gauersheim,ga,36.02,51.68,69.79
+europe_lau,Gaugrehweiler,gaugrehweiler,ga,32.57,51.37,34.95
+europe_lau,Gackenbach,gackenbach,ga,33.77,40.5,30.19
+europe_lau,Gabsheim,gabsheim,ga,64.59,77.15,45.11
+europe_lau,Gau-Bickelheim,gau_bickelheim,ga,66.98,72.83,62.85
+europe_lau,Gau-Heppenheim,gau_heppenheim,ga,42.75,59.24,21.91
+europe_lau,Gau-Odernheim,gau_odernheim,ga,57.2,64.6,51.17
+europe_lau,Gau-Weinheim,gau_weinheim,ga,62.23,70.65,72.34
+europe_lau,Gammelshausen,gammelshausen,ga,35.35,80.29,84.06
+europe_lau,Gasen,gasen,ga,69.4,72.21,46.07
+europe_lau,"Gau-Algesheim, Stadt",gau_algesheim_stadt,ga,53.37,73.38,81.51
+europe_lau,Gau-Bischofsheim,gau_bischofsheim,ga,56.23,73.5,63.7
+europe_lau,Gärtringen,gartringen,ga,29.3,54.95,-18.99
+europe_lau,Gäufelden,gaufelden,ga,49.69,66.34,-6.45
+europe_lau,Gaienhofen,gaienhofen,ga,49.06,61.18,71.52
+europe_lau,Gailingen am Hochrhein,gailingen_am_hochrhein,ga,42.12,74.38,25.71
+europe_lau,"Gaildorf, Stadt",gaildorf_stadt,ga,59.38,66.27,73.83
+europe_lau,"Gaggenau, Stadt",gaggenau_stadt,ga,51.17,65.98,62.97
+europe_lau,Gaiberg,gaiberg,ga,47.19,57.86,63.92
+europe_lau,"Gangkofen, M",gangkofen_m,ga,63.73,65.86,57.97
+europe_lau,"Garmisch-Partenkirchen, M",garmisch_partenkirchen_m,ga,37.08,48.22,4.44
+europe_lau,"Gammertingen, Stadt",gammertingen_stadt,ga,41.58,59.91,-14.2
+europe_lau,Garching a.d.Alz,garching_a_d_alz,ga,60.43,69.56,64.79
+europe_lau,Gaißach,gaissach,ga,44.92,58.73,56.49
+europe_lau,"Gaimersheim, M",gaimersheim_m,ga,53.9,77.53,92.47
+europe_lau,Gammelsdorf,gammelsdorf,ga,46.63,64.58,74.66
+europe_lau,"Gars a.Inn, M",gars_a_inn_m,ga,43.68,63.29,0.33
+europe_lau,"Garching b.München, St",garching_b_munchen_st,ga,48.24,70.4,55.19
+europe_lau,Gachenbach,gachenbach,ga,43.49,63.69,77.13
+europe_lau,Gauting,gauting,ga,50.66,67.41,20.24
+europe_lau,"Gadebusch, Stadt",gadebusch_stadt,ga,54.58,56.58,62.07
+europe_lau,Gägelow,gagelow,ga,34.26,54.48,54.82
+europe_lau,Gablenz / Jabłońc,gablenz_jablonc,ga,50.38,68.02,11.18
+europe_lau,Gablingen,gablingen,ga,42.42,61.29,-12.41
+europe_lau,Garz,garz,ga,49.17,67.45,52.29
+europe_lau,Galtür,galtur,ga,59.13,69.03,84.14
+europe_lau,Ganshoren,ganshoren,ga,47.84,71.14,22.53
+europe_lau,Gangloffsömmern,gangloffsommern,ga,53.1,73.32,-11.36
+europe_lau,"Gardelegen, Hansestadt",gardelegen_hansestadt,ga,52.63,64.08,22.15
+europe_lau,Gaschurn,gaschurn,ga,48.5,58.22,89.2
+europe_lau,Galmaarden,galmaarden,ga,54.67,68.67,33.76
+europe_lau,Gauern,gauern,ga,44.81,61.78,26.77
+europe_lau,Garzau-Garzin,garzau_garzin,ga,38.85,59.4,-22.05
+europe_lau,Gádor,gador,ga,22.06,51.6,95.2
+europe_lau,"Gallardos, Los",gallardos_los,ga,36.74,47.51,46.51
+europe_lau,Garrucha,garrucha,ga,49.68,67.42,95.08
+europe_lau,Gallegos de Altamiros,gallegos_de_altamiros,ga,64.69,74.73,64.75
+europe_lau,Gallegos de Sobrinos,gallegos_de_sobrinos,ga,44.68,57.67,23.69
+europe_lau,Garganta del Villar,garganta_del_villar,ga,63.51,66.87,71.83
+europe_lau,Gavilanes,gavilanes,ga,24.86,54.14,97.37
+europe_lau,Galdakao,galdakao,ga,30.91,37.56,75.62
+europe_lau,Galdames,galdames,ga,44.19,60.9,42.92
+europe_lau,Gamiz-Fika,gamiz_fika,ga,42.17,52.87,55.32
+europe_lau,Garai,garai,ga,46.65,75.55,87.73
+europe_lau,Gatika,gatika,ga,47.28,59.02,61.76
+europe_lau,Gautegiz Arteaga,gautegiz_arteaga,ga,43.21,58.48,73.38
+europe_lau,"Gastor, El",gastor_el,ga,34.17,54.63,64.02
+europe_lau,Gallegos,gallegos,ga,27.54,62.1,96.41
+europe_lau,Garcillán,garcillan,ga,64.9,76.31,80.72
+europe_lau,Gabaldón,gabaldon,ga,54.53,70.06,77.95
+europe_lau,Garaballa,garaballa,ga,60.3,63.13,73.19
+europe_lau,Gascueña,gascuena,ga,44.89,59.01,71.22
+europe_lau,Galera,galera,ga,57.93,75.4,69.06
+europe_lau,Gallifa,gallifa,ga,61.95,71.2,77.57
+europe_lau,"Garriga, La",garriga_la,ga,51.31,62.81,85.01
+europe_lau,Gavà,gava,ga,31.26,55.07,-12.13
+europe_lau,Gaià,gaia,ga,57.09,75.66,53.09
+europe_lau,Gaibiel,gaibiel,ga,48.47,63.03,87.6
+europe_lau,Gajanejos,gajanejos,ga,60.55,67.22,57.23
+europe_lau,Galápagos,galapagos,ga,57.31,64.53,27.71
+europe_lau,Galve de Sorbe,galve_de_sorbe,ga,38.74,55.92,59.06
+europe_lau,Gascueña de Bornova,gascuena_de_bornova,ga,64.12,73.9,48.59
+europe_lau,Garbayuela,garbayuela,ga,51.22,70.31,64.58
+europe_lau,Garlitos,garlitos,ga,66.73,85.69,41.64
+europe_lau,"Garrovilla, La",garrovilla_la,ga,60.42,65.69,56.4
+europe_lau,Gata de Gorgos,gata_de_gorgos,ga,61.5,71.6,47.57
+europe_lau,Gaianes,gaianes,ga,62.31,81.81,48.4
+europe_lau,Garrigàs,garrigas,ga,38.56,56.03,79.62
+europe_lau,Garrigoles,garrigoles,ga,57.14,73.29,77.04
+europe_lau,Garriguella,garriguella,ga,50.7,68.5,65.6
+europe_lau,Galisteo,galisteo,ga,32.31,53.45,96.67
+europe_lau,Garciaz,garciaz,ga,41.35,65.55,75.29
+europe_lau,"Garganta, La",garganta_la,ga,43.07,55.92,72.46
+europe_lau,Garganta la Olla,garganta_la_olla,ga,36.93,62.04,86.02
+europe_lau,Gargantilla,gargantilla,ga,40.19,67.27,-18.64
+europe_lau,Gargüera,garguera,ga,40.23,57.98,92.6
+europe_lau,Garrovillas de Alconétar,garrovillas_de_alconetar,ga,64.8,73.36,58.58
+europe_lau,Garvín,garvin,ga,36.03,64.83,84.81
+europe_lau,Gata,gata,ga,59.56,74.87,45.69
+europe_lau,"Gabias, Las",gabias_las,ga,43.47,68.24,-33.27
+europe_lau,Galbarros,galbarros,ga,33.76,52.89,40.64
+europe_lau,"Gallega, La",gallega_la,ga,48.21,76.43,89.37
+europe_lau,Gallmersgarten,gallmersgarten,ga,32.06,43.35,89.36
+europe_lau,Gaimberg,gaimberg,ga,45,62.09,78.75
+europe_lau,Gattendorf,gattendorf,ga,62.34,63.96,60.93
+europe_lau,Gaukönigshofen,gaukonigshofen,ga,66.97,66.35,62.73
+europe_lau,Gallzein,gallzein,ga,54.46,65.42,61.96
+europe_lau,Gaißau,gaissau,ga,13.35,47.51,85.28
+europe_lau,"Garz/Rügen, Stadt",garz_rugen_stadt,ga,27.25,44.47,92.64
+europe_lau,"Gartz (Oder), Stadt",gartz_oder_stadt,ga,31.87,48.04,95.71
+europe_lau,Galenbeck,galenbeck,ga,51.23,59.29,40.7
+europe_lau,Габрово,gabrovo,ga,50.78,71.8,61.41
+europe_lau,Gallin,gallin,ga,34.99,51.11,-11.69
+europe_lau,Gallin-Kuppentin,gallin_kuppentin,ga,56.04,61.6,58.87
+europe_lau,Gammelin,gammelin,ga,50.44,62.08,62.61
+europe_lau,Gädheim,gadheim,ga,34.27,50.79,-22.13
+europe_lau,Gavere,gavere,ga,47.3,62.27,0.56
+europe_lau,Ganzlin,ganzlin,ga,43.45,55.07,30.71
+europe_lau,Gardanne,gardanne,ga,54.92,68.94,51.56
+europe_lau,Gächlingen,gachlingen,ga,37.46,48.34,87.8
+europe_lau,Gais,gais,ga,57.69,70.95,40.72
+europe_lau,Gausson,gausson,ga,58.13,65.62,75.65
+europe_lau,Gambarogno,gambarogno,ga,29.88,50.87,3.72
+europe_lau,Ganagobie,ganagobie,ga,50.1,70.92,72.9
+europe_lau,Gänserndorf,ganserndorf,ga,28.54,63.85,91.41
+europe_lau,Gabriac,gabriac,ga,60.67,67.97,61.84
+europe_lau,Gaillac-d'Aveyron,gaillac_d_aveyron,ga,54.09,63.65,58.69
+europe_lau,Galgan,galgan,ga,40.22,69.06,75.34
+europe_lau,Gardefort,gardefort,ga,55.58,66.53,63.14
+europe_lau,Garigny,garigny,ga,65.09,67.91,64.52
+europe_lau,Galmiz,galmiz,ga,64.37,76.45,53.09
+europe_lau,Gannat,gannat,ga,44.7,66.85,-6.84
+europe_lau,Gannay-sur-Loire,gannay_sur_loire,ga,45.96,53.05,81.91
+europe_lau,Garde-Colombe,garde_colombe,ga,29.43,45.84,20.31
+europe_lau,Gadencourt,gadencourt,ga,54.93,71.64,75
+europe_lau,Gaillon,gaillon,ga,22.98,50.58,-68.48
+europe_lau,Gamaches-en-Vexin,gamaches_en_vexin,ga,57.79,73.71,24.16
+europe_lau,Gaja-et-Villedieu,gaja_et_villedieu,ga,54.53,63.08,35.46
+europe_lau,Gaja-la-Selve,gaja_la_selve,ga,41.56,60.04,41.17
+europe_lau,Galinagues,galinagues,ga,43.54,65.92,93.84
+europe_lau,Gardie,gardie,ga,53.77,77.33,23.39
+europe_lau,Garnerans,garnerans,ga,32.97,67.79,23.68
+europe_lau,Gap,gap,ga,35.98,48.55,89.65
+europe_lau,Garennes-sur-Eure,garennes_sur_eure,ga,52.55,70.6,22.63
+europe_lau,Gasny,gasny,ga,62.41,65.37,69.31
+europe_lau,Gauciel,gauciel,ga,47.88,63.68,54.36
+europe_lau,Gaudreville-la-Rivière,gaudreville_la_riviere,ga,36.88,55.25,57.65
+europe_lau,Gauville-la-Campagne,gauville_la_campagne,ga,43,62.29,-6.74
+europe_lau,Gabillou,gabillou,ga,47.21,64.72,93.09
+europe_lau,Gageac-et-Rouillac,gageac_et_rouillac,ga,53.66,61.76,57.58
+europe_lau,Gardonne,gardonne,ga,37.75,67.25,18.02
+europe_lau,Gaugeac,gaugeac,ga,57.23,65.23,60.01
+europe_lau,Gänsbrunnen,gansbrunnen,ga,18.13,36.17,18.4
+europe_lau,Gavarda,gavarda,ga,29.19,51,59.48
+europe_lau,Gandia,gandia,ga,42.96,50.46,23.16
+europe_lau,Galgenen,galgenen,ga,56.08,67.75,83.1
+europe_lau,Gajates,gajates,ga,63.11,74.91,78.73
+europe_lau,Galindo y Perahuy,galindo_y_perahuy,ga,47.98,51.89,37.59
+europe_lau,Galinduste,galinduste,ga,65.85,69.14,73.97
+europe_lau,Galisancho,galisancho,ga,53,61.99,68.06
+europe_lau,Gallegos de Argañán,gallegos_de_arganan,ga,56.82,77.07,29.51
+europe_lau,Gallegos de Solmirón,gallegos_de_solmiron,ga,46.68,60.21,73.68
+europe_lau,Garcibuey,garcibuey,ga,27.23,48.41,61.79
+europe_lau,Garcihernández,garcihernandez,ga,45.96,54.67,82.09
+europe_lau,Garcirrey,garcirrey,ga,46.02,49.93,41.64
+europe_lau,Gandelu,gandelu,ga,46.44,59.1,90.46
+europe_lau,Gauchy,gauchy,ga,39.26,58.77,4.16
+europe_lau,Gallocanta,gallocanta,ga,44.28,60.89,26.04
+europe_lau,Gallur,gallur,ga,45.09,64.58,85.36
+europe_lau,Galar,galar,ga,42.05,60.04,93.58
+europe_lau,Gallipienzo,gallipienzo,ga,26.31,55.24,83.32
+europe_lau,Gallués,gallues,ga,37.54,58,23.22
+europe_lau,Garaioa,garaioa,ga,40.22,49.71,19.23
+europe_lau,Garde,garde,ga,50.72,67.16,67.83
+europe_lau,Garínoain,garinoain,ga,24.71,72,-97.74
+europe_lau,Garralda,garralda,ga,43.34,62.49,92.6
+europe_lau,Gavet de la Conca,gavet_de_la_conca,ga,40.55,52.8,36.23
+europe_lau,"Galera, La",galera_la,ga,33.6,57.58,-31.31
+europe_lau,Gandesa,gandesa,ga,44.99,65.9,64.01
+europe_lau,Garcia,garcia,ga,48.32,54.99,34.01
+europe_lau,"Garidells, Els",garidells_els,ga,46.49,56.92,61.95
+europe_lau,Galende,galende,ga,41.74,57.19,57.41
+europe_lau,Gallegos del Pan,gallegos_del_pan,ga,43.62,57.8,39.34
+europe_lau,Gallegos del Río,gallegos_del_rio,ga,65.73,77.2,44.32
+europe_lau,Gamones,gamones,ga,52.42,70.18,-9.66
+europe_lau,Galapagar,galapagar,ga,33.87,56.34,92.12
+europe_lau,Garganta de los Montes,garganta_de_los_montes,ga,39.86,61.28,92.98
+europe_lau,Gargantilla del Lozoya y Pinilla de Buitrago,gargantilla_del_lozoya_y_pinilla_de_buitrago,ga,41.36,67.04,49.89
+europe_lau,Gascones,gascones,ga,24.15,63.35,67.97
+europe_lau,Gallizien,gallizien,ga,50.09,61.35,75.73
+europe_lau,Gátova,gatova,ga,29.4,46.59,64.99
+europe_lau,Gálvez,galvez,ga,39.82,58.62,93.29
+europe_lau,Garciotum,garciotum,ga,29.6,41.57,91.5
+europe_lau,Gallegos de Hornija,gallegos_de_hornija,ga,30.12,74.41,0.15
+europe_lau,Gatón de Campos,gaton_de_campos,ga,41.98,64.72,56.26
+europe_lau,Gáldar,galdar,ga,23.67,49.49,97.54
+europe_lau,Gavrus,gavrus,ga,46.71,75.83,4.22
+europe_lau,"Garrobo, El",garrobo_el,ga,47.1,61.02,59.88
+europe_lau,Gaintza,gaintza,ga,63.92,71.03,68.58
+europe_lau,Gabiria,gabiria,ga,65.58,73.3,31.54
+europe_lau,Garachico,garachico,ga,17.78,37.61,78.94
+europe_lau,Garafía,garafia,ga,63.12,72.55,41.23
+europe_lau,Gaiserwald,gaiserwald,ga,45.06,71.74,44.41
+europe_lau,Gals,gals,ga,37.84,71.33,31.15
+europe_lau,Gaztelu,gaztelu,ga,34.93,52.28,9.26
+europe_lau,Garrafe de Torío,garrafe_de_torio,ga,56.05,66.81,75.74
+europe_lau,Gampelen,gampelen,ga,52.28,58.27,61.08
+europe_lau,Galaroza,galaroza,ga,43.75,52.54,36.57
+europe_lau,Gaucín,gaucin,ga,68.05,75.27,62.31
+europe_lau,Gabre,gabre,ga,49.08,60.08,35.51
+europe_lau,Gajan,gajan,ga,33.84,54.15,86.65
+europe_lau,Galey,galey,ga,45.33,70.34,26.34
+europe_lau,Ganac,ganac,ga,43.43,66.45,62.43
+europe_lau,Garanou,garanou,ga,31.01,50.24,96.47
+europe_lau,Gaudiès,gaudies,ga,30.33,55.76,-20.26
+europe_lau,Gams,gams,ga,48.12,67.95,0.01
+europe_lau,Garray,garray,ga,33.22,63.54,42.09
+europe_lau,Galbárruli,galbarruli,ga,71.06,70.35,40.46
+europe_lau,Galilea,galilea,ga,23.23,33.26,81.43
+europe_lau,Gallinero de Cameros,gallinero_de_cameros,ga,39.1,63.16,91.31
+europe_lau,Galve,galve,ga,56.87,73.51,88.47
+europe_lau,Gargallo,gargallo,ga,58.4,72.37,76.26
+europe_lau,Gars,gars,ga,62.94,76.37,41.7
+europe_lau,Gattières,gattieres,ga,29.56,55.75,37.28
+europe_lau,Gathemo,gathemo,ga,58.67,70.62,56.02
+europe_lau,Gatteville-le-Phare,gatteville_le_phare,ga,57.64,65.46,31.62
+europe_lau,Gavray-sur-Sienne,gavray_sur_sienne,ga,32.55,43.9,52.83
+europe_lau,Γαστριά,gastria,ga,44.97,73.38,3.19
+europe_lau,Γαληνή,galene,ga,48.24,65.17,65.41
+europe_lau,Gaubertin,gaubertin,ga,42.21,61.88,10.14
+europe_lau,Γαλάτεια,galateia,ga,47.12,54.93,65.84
+europe_lau,Γαϊδουράς (Νέα Σπάρτη),gaidouras_nea_sparte,ga,36.25,51.04,60.78
+europe_lau,Γαλάτα,galata,ga,33.17,63.69,41.15
+europe_lau,Gannes,gannes,ga,54.92,65.45,70.04
+europe_lau,Gaudechart,gaudechart,ga,54.78,68.58,76.06
+europe_lau,Gars am Kamp,gars_am_kamp,ga,45.89,59.6,7.16
+europe_lau,Gaye,gaye,ga,64.76,72.77,73.47
+europe_lau,Gallardon,gallardon,ga,54.22,72.25,30.09
+europe_lau,Garancières-en-Beauce,garancieres_en_beauce,ga,51.27,54.82,62.63
+europe_lau,Garancières-en-Drouais,garancieres_en_drouais,ga,52.43,64.8,7.04
+europe_lau,Garnay,garnay,ga,51.58,80.48,31.72
+europe_lau,Gas,gas,ga,49.92,67.16,8.08
+europe_lau,Gasville-Oisème,gasville_oiseme,ga,60.5,72.09,30.27
+europe_lau,Γαληνόπωρνη,galenoporne,ga,45.1,65.57,87.3
+europe_lau,Gagnac-sur-Cère,gagnac_sur_cere,ga,47.48,65.08,13.12
+europe_lau,Gastines,gastines,ga,60.15,74.83,68.64
+europe_lau,Gabriac,gabriac,ga,54.9,67.4,59.25
+europe_lau,Gabrias,gabrias,ga,28.4,50.23,95.41
+europe_lau,Gatuzières,gatuzieres,ga,18.28,46.25,77.89
+europe_lau,Gandrange,gandrange,ga,64.91,73.25,37.8
+europe_lau,Garrebourg,garrebourg,ga,58.82,64.22,63.33
+europe_lau,Gavisse,gavisse,ga,45.38,62.44,80.78
+europe_lau,Gansingen,gansingen,ga,55.23,67.44,54.52
+europe_lau,Galapian,galapian,ga,56.44,70.79,78.31
+europe_lau,Gaujac,gaujac,ga,37.44,59.02,43.09
+europe_lau,Gavaudun,gavaudun,ga,40.28,58.72,61.68
+europe_lau,Gachnang,gachnang,ga,61.09,70.88,69.22
+europe_lau,Gampel-Bratsch,gampel_bratsch,ga,50.66,82.13,90.19
+europe_lau,Gargilesse-Dampierre,gargilesse_dampierre,ga,44.57,50.13,44.08
+europe_lau,Garat,garat,ga,38.09,46.54,51.43
+europe_lau,Gardes-le-Pontaroux,gardes_le_pontaroux,ga,42.32,60.45,66.94
+europe_lau,Gaël,gael,ga,44.89,68.63,90.81
+europe_lau,Gahard,gahard,ga,37.49,59.42,56.98
+europe_lau,Gabarnac,gabarnac,ga,38.44,67.27,-23.44
+europe_lau,Gaillan-en-Médoc,gaillan_en_medoc,ga,67.87,75.46,57.45
+europe_lau,Gajac,gajac,ga,49.29,70.28,35.04
+europe_lau,Galgon,galgon,ga,62.7,65.99,54.55
+europe_lau,Gans,gans,ga,29.75,70.92,-36.8
+europe_lau,Gardegan-et-Tourtirac,gardegan_et_tourtirac,ga,43.26,63.84,9.15
+europe_lau,Gauriac,gauriac,ga,44.8,61.27,19.22
+europe_lau,Gauriaguet,gauriaguet,ga,50.59,65.37,79.93
+europe_lau,Gagnières,gagnieres,ga,60.21,68.5,84.06
+europe_lau,Gailhan,gailhan,ga,32.98,50.17,83.24
+europe_lau,Gajan,gajan,ga,50.43,67.97,76.28
+europe_lau,Gallargues-le-Montueux,gallargues_le_montueux,ga,54.67,70.32,66.55
+europe_lau,Gatey,gatey,ga,39.16,68.32,35.69
+europe_lau,Gabian,gabian,ga,56.51,68.19,72.3
+europe_lau,Galargues,galargues,ga,31.19,48.91,43.25
+europe_lau,Ganges,ganges,ga,60.5,69.71,69.71
+europe_lau,Garrigues,garrigues,ga,55.36,62.71,59.56
+europe_lau,Gagnac-sur-Garonne,gagnac_sur_garonne,ga,36,65.29,43.06
+europe_lau,Gaillac-Toulza,gaillac_toulza,ga,50.16,60.78,68.08
+europe_lau,Galié,galie,ga,31.89,55.82,90.35
+europe_lau,Ganties,ganties,ga,35.55,54.99,-31.72
+europe_lau,Garac,garac,ga,42.81,55.29,36.25
+europe_lau,Gardouch,gardouch,ga,57.37,67.23,58.88
+europe_lau,Gargas,gargas,ga,62.45,78.57,67.3
+europe_lau,Garidech,garidech,ga,54.47,70.67,69.92
+europe_lau,Garin,garin,ga,15.44,31.47,52.74
+europe_lau,Gauré,gaure,ga,35.47,58.06,-1.35
+europe_lau,Garons,garons,ga,51.72,67.54,71.07
+europe_lau,Garrigues-Sainte-Eulalie,garrigues_sainte_eulalie,ga,42.11,58.13,78.23
+europe_lau,Gaujac,gaujac,ga,66.18,69.84,57.78
+europe_lau,Galéria,galeria,ga,35.12,55.93,-0.04
+europe_lau,Gavignano,gavignano,ga,11.01,55.17,-58.38
+europe_lau,Gaas,gaas,ga,63.5,76.05,74.1
+europe_lau,Gabarret,gabarret,ga,63.94,70.46,69.95
+europe_lau,Gaillères,gailleres,ga,59.52,78.44,28.02
+europe_lau,Gamarde-les-Bains,gamarde_les_bains,ga,53.74,61.29,40.41
+europe_lau,Garein,garein,ga,66.44,78.49,52.12
+europe_lau,Garrey,garrey,ga,39.77,55.36,48.48
+europe_lau,Gastes,gastes,ga,31.96,61.95,-44.66
+europe_lau,Gaujacq,gaujacq,ga,64.75,70.77,45.77
+europe_lau,Galiax,galiax,ga,39.5,54.55,88.8
+europe_lau,Garravet,garravet,ga,49.27,69.83,16.97
+europe_lau,Gaudonville,gaudonville,ga,35.19,74.08,-40.24
+europe_lau,Gaujac,gaujac,ga,33.79,58.77,26.45
+europe_lau,Gaujan,gaujan,ga,49.49,68.56,23.39
+europe_lau,Gavarret-sur-Aulouste,gavarret_sur_aulouste,ga,29.67,60.06,84.75
+europe_lau,Gazaupouy,gazaupouy,ga,45.98,57.75,73.69
+europe_lau,Gazax-et-Baccarisse,gazax_et_baccarisse,ga,34.7,59.68,0.3
+europe_lau,Gartempe,gartempe,ga,54.43,74.88,77.87
+europe_lau,Garlan,garlan,ga,42.85,65.29,88.33
+europe_lau,Garčin,garcin,ga,52.2,59.61,76.18
+europe_lau,Garešnica,garesnica,ga,52.22,59.96,57.24
+europe_lau,Gaweinstal,gaweinstal,ga,52.11,65.94,24.46
+europe_lau,Gaaden,gaaden,ga,36.86,54.67,-24.27
+europe_lau,Gajoubert,gajoubert,ga,41.04,52.22,82.34
+europe_lau,Gaillagos,gaillagos,ga,56.29,72.45,81.76
+europe_lau,Galan,galan,ga,58.17,72.45,74.78
+europe_lau,Galez,galez,ga,36.61,57.46,94.3
+europe_lau,Gardères,garderes,ga,46.34,65.43,81.49
+europe_lau,Gaudent,gaudent,ga,24.83,66.02,-33.88
+europe_lau,Gaussan,gaussan,ga,41.92,78.1,-16.32
+europe_lau,Gayan,gayan,ga,61.41,77.36,49.37
+europe_lau,Gazave,gazave,ga,46.69,70.12,50.96
+europe_lau,Gazost,gazost,ga,55.73,71.46,79.63
+europe_lau,Garganvillar,garganvillar,ga,42.91,64.75,42.23
+europe_lau,Gariès,garies,ga,32.9,68.77,-105.92
+europe_lau,Gasques,gasques,ga,57.47,72.16,78.73
+europe_lau,Gagny,gagny,ga,43.43,60.74,54.76
+europe_lau,Garéoult,gareoult,ga,57.21,67.73,76.92
+europe_lau,Gassin,gassin,ga,43.18,66.67,22.49
+europe_lau,Gavarnie-Gèdre,gavarnie_gedre,ga,50.39,72.32,9.2
+europe_lau,Gaillon-sur-Montcient,gaillon_sur_montcient,ga,39.61,64.65,97.26
+europe_lau,Galluis,galluis,ga,39.52,56.26,68.84
+europe_lau,Gambais,gambais,ga,41.53,64.11,-8.34
+europe_lau,Gambaiseuil,gambaiseuil,ga,47.21,53.84,33.19
+europe_lau,Garancières,garancieres,ga,66.73,72.68,66.01
+europe_lau,Gargenville,gargenville,ga,39.51,65.98,93.42
+europe_lau,Gazeran,gazeran,ga,43.92,56.47,72.57
+europe_lau,Gamaches,gamaches,ga,33.1,51.84,55.93
+europe_lau,Gapennes,gapennes,ga,45.19,62.45,82.27
+europe_lau,Gauville,gauville,ga,55.01,70.06,38.4
+europe_lau,Gaillac,gaillac,ga,57.67,65.94,73.51
+europe_lau,Garrevaques,garrevaques,ga,35.56,60.22,44.19
+europe_lau,Garrigues,garrigues,ga,35.05,52.31,-19.18
+europe_lau,Gaillefontaine,gaillefontaine,ga,48.06,60.52,76.2
+europe_lau,Gainneville,gainneville,ga,43.54,59.06,-0.68
+europe_lau,Gancourt-Saint-Étienne,gancourt_saint_etienne,ga,57.83,74.16,66.02
+europe_lau,Ganzeville,ganzeville,ga,81.19,77.18,50.77
+europe_lau,Garges-lès-Gonesse,garges_les_gonesse,ga,65.81,77.88,51.43
+europe_lau,Gargas,gargas,ga,46.64,63.12,67.82
+europe_lau,Gaubitsch,gaubitsch,ga,50.74,73.57,95.74
+europe_lau,Gabaston,gabaston,ga,68.82,76.9,47.98
+europe_lau,Gabat,gabat,ga,42.2,62.84,65.33
+europe_lau,Gamarthe,gamarthe,ga,47.79,62.86,80.27
+europe_lau,Gan,gan,ga,35.37,59.27,91.93
+europe_lau,Garindein,garindein,ga,24.27,60.86,46.46
+europe_lau,Garlède-Mondebat,garlede_mondebat,ga,35.9,61.51,95.26
+europe_lau,Garlin,garlin,ga,44.33,63.35,91.18
+europe_lau,Garos,garos,ga,62.79,65.26,57.53
+europe_lau,Garris,garris,ga,44.65,72.77,95.7
+europe_lau,Gayon,gayon,ga,51.76,69.07,79.7
+europe_lau,Gâcogne,gacogne,ga,48.52,64.6,51.91
+europe_lau,Garchizy,garchizy,ga,56.93,69.37,73.51
+europe_lau,Garchy,garchy,ga,56.39,65.41,72.16
+europe_lau,Garentreville,garentreville,ga,47.41,66.41,-12.11
+europe_lau,Gastins,gastins,ga,64.5,67.16,34.64
+europe_lau,Γαλαταριά,galataria,ga,43.72,66.36,61.36
+europe_lau,Gâvres,gavres,ga,13.53,34.09,-122.05
+europe_lau,Gacé,gace,ga,54.61,67.67,58.02
+europe_lau,Gandelain,gandelain,ga,57.64,62.58,72.96
+europe_lau,Gâprée,gapree,ga,48.12,70.45,74.16
+europe_lau,Gaillard,gaillard,ga,52.15,72.35,24.55
+europe_lau,Gambsheim,gambsheim,ga,56.07,74.94,38.86
+europe_lau,Galametz,galametz,ga,57.41,83.56,32.66
+europe_lau,Gauchin-Légal,gauchin_legal,ga,37.77,47.16,20.24
+europe_lau,Gauchin-Verloingt,gauchin_verloingt,ga,59.93,72.48,69.23
+europe_lau,Gaudiempré,gaudiempre,ga,42.9,50.83,62.18
+europe_lau,Gavrelle,gavrelle,ga,51.34,65.94,5.4
+europe_lau,Galfingue,galfingue,ga,46.6,64.65,40.19
+europe_lau,Galliavola,galliavola,ga,65.97,67.7,62.95
+europe_lau,Gambarana,gambarana,ga,40.88,64.04,51.9
+europe_lau,Gambolò,gambolo,ga,34.78,64.24,-54.74
+europe_lau,Garlasco,garlasco,ga,53.92,68.67,40.47
+europe_lau,Gavello,gavello,ga,35.57,53.81,15.23
+europe_lau,Gawłuszowice,gawluszowice,ga,49.74,54.73,56.02
+europe_lau,Gagliano Aterno,gagliano_aterno,ga,50.81,62.88,55.49
+europe_lau,Gangi,gangi,ga,50.4,65.45,85.24
+europe_lau,Gallicano,gallicano,ga,47.47,57.52,30.26
+europe_lau,Garniga Terme,garniga_terme,ga,49.04,66.56,76.36
+europe_lau,Gaming,gaming,ga,44.25,55.39,87.82
+europe_lau,Gastern,gastern,ga,56.4,62.78,55.71
+europe_lau,Gagliano del Capo,gagliano_del_capo,ga,28.27,48.93,91.58
+europe_lau,Galatina,galatina,ga,48.23,68.29,57.25
+europe_lau,Galatone,galatone,ga,41.8,51.44,55.48
+europe_lau,Gallipoli,gallipoli,ga,20.28,38.41,99.4
+europe_lau,Gambassi Terme,gambassi_terme,ga,36.64,59.83,61.73
+europe_lau,Galatro,galatro,ga,26.61,49.54,-58.08
+europe_lau,Gallicano nel Lazio,gallicano_nel_lazio,ga,36.84,67.89,23.18
+europe_lau,Gavignano,gavignano,ga,66.2,73.07,64.95
+europe_lau,Gaiarine,gaiarine,ga,51.14,61.31,76.89
+europe_lau,Gabbioneta-Binanuova,gabbioneta_binanuova,ga,34.46,59.26,25.42
+europe_lau,Gadesco-Pieve Delmona,gadesco_pieve_delmona,ga,46.89,59.71,49.43
+europe_lau,Gamberale,gamberale,ga,35.9,58.49,34.25
+europe_lau,Gazzola,gazzola,ga,31.98,55.36,87.46
+europe_lau,Gaworzyce,gaworzyce,ga,60.2,65.03,60.48
+europe_lau,Galeata,galeata,ga,34.71,57.29,74.43
+europe_lau,Gambettola,gambettola,ga,53.03,64.33,38.49
+europe_lau,Gaeta,gaeta,ga,42.81,55.46,26.88
+europe_lau,Gambara,gambara,ga,60.91,70.59,43.69
+europe_lau,Gardone Riviera,gardone_riviera,ga,22.1,44.45,62.99
+europe_lau,Gardone Val Trompia,gardone_val_trompia,ga,57.33,65.63,80.36
+europe_lau,Gargnano,gargnano,ga,44.11,67.86,18.17
+europe_lau,Gavardo,gavardo,ga,58.73,58.9,63.61
+europe_lau,Gąsawa,gasawa,ga,57.2,68.16,40.22
+europe_lau,Garda,garda,ga,24.95,67.11,-178.71
+europe_lau,Gazzo Veronese,gazzo_veronese,ga,57.84,62.98,26.99
+europe_lau,Galliera Veneta,galliera_veneta,ga,52.88,81.08,57.38
+europe_lau,Galzignano Terme,galzignano_terme,ga,57.47,66.3,29.13
+europe_lau,Gazzo,gazzo,ga,52.27,65.27,63.27
+europe_lau,Gambatesa,gambatesa,ga,40.8,53.45,83.02
+europe_lau,Gaggi,gaggi,ga,54.42,76.99,94.03
+europe_lau,Galati Mamertino,galati_mamertino,ga,39.51,62.27,85.78
+europe_lau,Gallodoro,gallodoro,ga,43.67,69.05,60.74
+europe_lau,Gatteo,gatteo,ga,18.54,42.72,77.72
+europe_lau,Gabicce Mare,gabicce_mare,ga,55.34,71.86,32.35
+europe_lau,Galgagnano,galgagnano,ga,53.01,66.79,20.32
+europe_lau,Gamprin,gamprin,ga,27.89,39.06,87.01
+europe_lau,Gallinaro,gallinaro,ga,49.43,59.02,58.8
+europe_lau,Gausdal,gausdal,ga,45.99,65.67,-7.66
+europe_lau,Gallio,gallio,ga,43.66,67.92,84.8
+europe_lau,Gaiba,gaiba,ga,42.54,52.12,44.94
+europe_lau,Gać,gac,ga,51.14,66.98,10.78
+europe_lau,Gaggiano,gaggiano,ga,46.95,55.94,35.53
+europe_lau,Garbagnate Milanese,garbagnate_milanese,ga,64.82,73.27,25.51
+europe_lau,Gambellara,gambellara,ga,30.73,61.04,84.27
+europe_lau,Gambugliano,gambugliano,ga,47.74,67.96,94.95
+europe_lau,Gagliano Castelferrato,gagliano_castelferrato,ga,63.68,64.17,68.52
+europe_lau,Gagliole,gagliole,ga,46.43,58.88,83.62
+europe_lau,Garnich,garnich,ga,62,67.97,54.81
+europe_lau,Gardeja,gardeja,ga,51.23,62.72,12.4
+europe_lau,Gallo Matese,gallo_matese,ga,35.9,56.09,-30.25
+europe_lau,Galluccio,galluccio,ga,39.6,49.59,42.1
+europe_lau,Gabiano,gabiano,ga,54.43,62.05,60.45
+europe_lau,Gamalero,gamalero,ga,34.69,67.48,-22.81
+europe_lau,Garbagna,garbagna,ga,47.47,70.62,26.68
+europe_lau,Gavi,gavi,ga,34.64,57.95,41.36
+europe_lau,Gagliato,gagliato,ga,32.13,75.22,-27.6
+europe_lau,Gasperina,gasperina,ga,27.25,42.47,33.56
+europe_lau,Galway City West,galway_city_west,ga,49.37,61.94,12.45
+europe_lau,Galway City Central,galway_city_central,ga,44.14,60.17,55.74
+europe_lau,Galway City East,galway_city_east,ga,55.13,62.74,50.22
+europe_lau,Gasztony,gasztony,ga,36.13,72.66,88.53
+europe_lau,Gaiola,gaiola,ga,43.61,64.97,52.7
+europe_lau,Gambasca,gambasca,ga,31.01,68.41,89.22
+europe_lau,Garessio,garessio,ga,47.09,64.67,5.44
+europe_lau,Garé,gare,ga,46.11,68.86,81.51
+europe_lau,Garzigliana,garzigliana,ga,48.91,68.34,-2.4
+europe_lau,Gassino Torinese,gassino_torinese,ga,36.2,47.29,90.86
+europe_lau,Gallarate,gallarate,ga,48.66,70.17,61.6
+europe_lau,Gadány,gadany,ga,60.18,67.6,69.72
+europe_lau,Gátér,gater,ga,47.55,73.88,85.68
+europe_lau,Gavirate,gavirate,ga,33.28,46.22,85.51
+europe_lau,Gazzada Schianno,gazzada_schianno,ga,44.51,55.2,50.14
+europe_lau,Gagyvendégi,gagyvendegi,ga,51.28,68.34,88.19
+europe_lau,Gaby,gaby,ga,46.55,61.51,9.63
+europe_lau,Gara,gara,ga,59.07,79.64,71.44
+europe_lau,Ganna,ganna,ga,40.13,58.61,41.75
+europe_lau,Garabonc,garabonc,ga,50,67.38,26.1
+europe_lau,Galambok,galambok,ga,28.88,46.9,95.19
+europe_lau,Gáborjánháza,gaborjanhaza,ga,38,57.61,96.7
+europe_lau,Garches,garches,ga,36.8,60.51,22.16
+europe_lau,Galgagyörk,galgagyork,ga,51,76.18,95.09
+europe_lau,Galgamácsa,galgamacsa,ga,42.85,52.75,85.38
+europe_lau,Garzeno,garzeno,ga,44.96,66.96,21.58
+europe_lau,Gattatico,gattatico,ga,42.25,57.74,61.27
+europe_lau,Gallicchio,gallicchio,ga,52.77,69.4,92.3
+europe_lau,Gacsály,gacsaly,ga,46.45,57.41,84.25
+europe_lau,Gáborján,gaborjan,ga,32.07,66.54,90.59
+europe_lau,Gaiole in Chianti,gaiole_in_chianti,ga,52.38,60.21,65.06
+europe_lau,Gavorrano,gavorrano,ga,60.32,67.78,58.9
+europe_lau,Gádoros,gadoros,ga,28.64,62.31,85.66
+europe_lau,Gadács,gadacs,ga,49.86,68.88,91.56
+europe_lau,Gagybátor,gagybator,ga,35.31,57.52,-3.45
+europe_lau,Garbolc,garbolc,ga,37.4,55.7,82.83
+europe_lau,Gadna,gadna,ga,39.94,59.55,94.44
+europe_lau,Garáb,garab,ga,55.09,67.92,77.99
+europe_lau,Gaggio Montano,gaggio_montano,ga,46.81,69.21,47.63
+europe_lau,Galliera,galliera,ga,25.27,61.27,-56.36
+europe_lau,Garaguso,garaguso,ga,48.9,55.18,70.44
+europe_lau,Garlenda,garlenda,ga,50.38,71.04,31.25
+europe_lau,Galvács,galvacs,ga,37.27,52.36,-3.95
+europe_lau,Gazoldo degli Ippoliti,gazoldo_degli_ippoliti,ga,64.18,71.75,42.99
+europe_lau,Gazzuolo,gazzuolo,ga,43.45,63.3,81.52
+europe_lau,Gárdony,gardony,ga,37.5,49.74,37.98
+europe_lau,Gattinara,gattinara,ga,57.03,75.35,86.98
+europe_lau,Gagyapáti,gagyapati,ga,59.1,71.32,56.04
+europe_lau,Gablitz,gablitz,ga,45.4,64.64,28.27
+europe_lau,Garðabær,gardabaer,ga,24.15,53.44,60.12
+europe_lau,Galovac,galovac,ga,44.76,54.43,41.43
+europe_lau,Gávavencsellő,gavavencsello,ga,24.46,58.03,82.33
+europe_lau,Gamás,gamas,ga,55.96,73.15,62.8
+europe_lau,Galgahévíz,galgaheviz,ga,25.65,50.88,31.16
+europe_lau,Gallese,gallese,ga,28.62,52.99,-49.11
+europe_lau,Garadna,garadna,ga,41.51,62.37,-7.96
+europe_lau,Gánt,gant,ga,29.22,41.72,82.09
+europe_lau,Galliate,galliate,ga,33.36,48.41,3.84
+europe_lau,Garbagna Novarese,garbagna_novarese,ga,43.22,69.55,-9.88
+europe_lau,Gargallo,gargallo,ga,32.82,57.23,-42.33
+europe_lau,Gattico-Veruno,gattico_veruno,ga,58.31,70.76,40.36
+europe_lau,Gálosfa,galosfa,ga,65,68.4,67.44
+europe_lau,Gais/Gais,gais_gais,ga,48.18,61.32,7.46
+europe_lau,Gargazzone/Gargazon,gargazzone_gargazon,ga,59.49,74.07,61.2
+europe_lau,Galgaguta,galgaguta,ga,34.9,61.46,62.74
+europe_lau,Galanta,galanta,ga,48.53,66.79,65.3
+europe_lau,Galaţii Bistriţei,galatii_bistritei,ga,51.59,61.96,59.49
+europe_lau,Gârbău,garbau,ga,31.98,47.42,86.81
+europe_lau,Garwolin,garwolin,ga,55.53,71.1,38.92
+europe_lau,Garwolin,garwolin,ga,47.75,56.24,17.35
+europe_lau,Gadžin Han,gadzin_han,ga,37.94,58.75,12.74
+europe_lau,Gáň,gan,ga,48.71,69.87,23.83
+europe_lau,Găvăneşti,gavanesti,ga,55.12,73.54,64.99
+europe_lau,Galovany,galovany,ga,57.28,66.84,72.31
+europe_lau,Gârliciu,garliciu,ga,52.6,55.99,47.51
+europe_lau,Gălăuţaş,galautas,ga,21.92,57.16,58.9
+europe_lau,Gánovce,ganovce,ga,44.63,69.54,67.49
+europe_lau,Galegos,galegos,ga,52.81,72.26,25.03
+europe_lau,Garfe,garfe,ga,52.82,60.43,73.31
+europe_lau,Gaeiras,gaeiras,ga,63.56,70.18,54.9
+europe_lau,Gaboltov,gaboltov,ga,57.02,61.88,53.69
+europe_lau,Gărdani,gardani,ga,49.98,64.78,17.45
+europe_lau,Gălbinaşi,galbinasi,ga,25.79,50.61,1.67
+europe_lau,Gançaria,gancaria,ga,53.61,63.61,41.51
+europe_lau,Gavião,gaviao,ga,69.99,76.32,68.57
+europe_lau,Gabčíkovo,gabcikovo,ga,49.23,60.06,70
+europe_lau,Galbenu,galbenu,ga,37.83,49.52,35.53
+europe_lau,Galda de Jos,galda_de_jos,ga,27.92,53.07,40.49
+europe_lau,Gârbova,garbova,ga,49.5,68.43,68.42
+europe_lau,Gârda de Sus,garda_de_sus,ga,31.81,46.85,93.31
+europe_lau,Găiceana,gaiceana,ga,38.39,69.48,88.55
+europe_lau,Gârleni,garleni,ga,63.71,74.22,35.8
+europe_lau,Gălbinaşi,galbinasi,ga,46.11,61.79,87.61
+europe_lau,Gâmbia-Pontes-Alto da Guerra,gambia_pontes_alto_da_guerra,ga,25.62,53.71,-51.93
+europe_lau,Galicea Mare,galicea_mare,ga,55.89,67.65,28.71
+europe_lau,Gângiova,gangiova,ga,39.26,62.47,44.93
+europe_lau,Gavieira,gavieira,ga,49.82,71.14,80.25
+europe_lau,Gävle,gavle,ga,28.24,64.71,80.66
+europe_lau,Gällivare,gallivare,ga,27.08,55.08,41.16
+europe_lau,Garbatka-Letnisko,garbatka_letnisko,ga,35.86,55,-9.37
+europe_lau,Gajary,gajary,ga,51.9,74.98,31.42
+europe_lau,Gąbin,gabin,ga,59.35,67.34,77.34
+europe_lau,Gagnef,gagnef,ga,35.94,54.2,51.75
+europe_lau,Gârnic,garnic,ga,56.39,67.25,48.63
+europe_lau,Galiciuica,galiciuica,ga,55.07,67.74,59.48
+europe_lau,Garoafa,garoafa,ga,41.12,57.3,17.37
+europe_lau,Gălăneşti,galanesti,ga,59.94,69.87,24.29
+europe_lau,Ganfei,ganfei,ga,48.25,60.82,47.52
+europe_lau,Gáivuotna - Kåfjord - Kaivuono,gaivuotna_kafjord_kaivuono,ga,32.14,55.37,92.32
+europe_lau,Gamvik,gamvik,ga,26.22,48.63,97.07
+europe_lau,Gandellino,gandellino,ga,47.12,75.08,38.9
+europe_lau,Gandino,gandino,ga,49.12,67.79,16.92
+europe_lau,Gandosso,gandosso,ga,66.11,76.9,45.8
+europe_lau,Gaverina Terme,gaverina_terme,ga,46.13,54.68,64.36
+europe_lau,Gazzaniga,gazzaniga,ga,33.6,64.67,61.75
+europe_lau,Garkalnes novads,garkalnes_novads,ga,29.32,41.1,-5.44
+europe_lau,Gaula,gaula,ga,49.17,73.96,41.15
+europe_lau,Găgeşti,gagesti,ga,25.89,55.61,81.93
+europe_lau,Gârceni,garceni,ga,48.12,64.96,5.61
+europe_lau,Gafanha da Encarnação,gafanha_da_encarnacao,ga,55.41,78.74,91.17
+europe_lau,Gafanha da Nazaré,gafanha_da_nazare,ga,48.16,57.14,18.82
+europe_lau,Gafanha do Carmo,gafanha_do_carmo,ga,55.77,86.9,71.44
+europe_lau,Gălăteni,galateni,ga,39.08,55.45,-5.9
+europe_lau,Gârla Mare,garla_mare,ga,47.56,72.02,78.9
+europe_lau,Gaglianico,gaglianico,ga,36.31,52.2,64.37
+europe_lau,Galicea,galicea,ga,33.14,57.58,94.26
+europe_lau,Gafanha da Boa Hora,gafanha_da_boa_hora,ga,32.03,66.11,84.81
+europe_lau,Garbów,garbow,ga,58.27,63.14,54.91
+europe_lau,Galbiate,galbiate,ga,28.45,53.54,87.09
+europe_lau,Garbagnate Monastero,garbagnate_monastero,ga,45.48,68.45,9.2
+europe_lau,Garlate,garlate,ga,54.32,75.85,85.79
+europe_lau,Găleşti,galesti,ga,45.03,53.35,66.47
+europe_lau,Găneşti,ganesti,ga,41.66,63.4,73.41
+europe_lau,Gadoni,gadoni,ga,36.84,53.44,96.74
+europe_lau,Gairo,gairo,ga,16.94,43.97,24.62
+europe_lau,Galtellì,galtelli,ga,37.03,59.64,13.95
+europe_lau,Gavoi,gavoi,ga,38.38,57.54,43.85
+europe_lau,Гази Баба,gazi_baba,ga,28.18,48.31,98.24
+europe_lau,Galewice,galewice,ga,57.38,60.53,60.86
+europe_lau,Gâlgău,galgau,ga,58.72,63.41,51.59
+europe_lau,Gârbou,garbou,ga,57.05,71.77,67.44
+europe_lau,Gavojdia,gavojdia,ga,36.91,53.56,51.73
+europe_lau,Galegos (Santa Maria),galegos_santa_maria,ga,45.96,68.53,37.56
+europe_lau,Galegos (São Martinho),galegos_sao_martinho,ga,36.1,57.22,90.63
+europe_lau,Gave,gave,ga,29.61,64.45,95.16
+europe_lau,Gârcina,garcina,ga,24.72,54.15,3.74
+europe_lau,Gáfete,gafete,ga,44.56,55.69,26.28
+europe_lau,Gândaras,gandaras,ga,55.91,73.07,21.71
+europe_lau,Gandra,gandra,ga,45.71,62.44,67.85
+europe_lau,Galegos,galegos,ga,56.99,64.67,41.19
+europe_lau,Galveias,galveias,ga,52.09,59.75,38.56
+europe_lau,Gaszowice,gaszowice,ga,47.17,68.19,51.63
+europe_lau,Gandra,gandra,ga,38.38,60.49,46.35
+europe_lau,Gadinţi,gadinti,ga,47.96,59.17,13.79
+europe_lau,Gârcov,garcov,ga,47.22,57.27,67.47
+europe_lau,Găneasa,ganeasa,ga,51.44,65.63,22.66
+europe_lau,Găiseni,gaiseni,ga,63.36,66.01,77.65
+europe_lau,Găneasa,ganeasa,ga,29.28,59.07,-40.37
+europe_lau,Găujani,gaujani,ga,50.77,72.45,94.85
+europe_lau,Gârbovi,garbovi,ga,33.27,48.1,-25.98
+europe_lau,Garnat-sur-Engièvre,garnat_sur_engievre,ga,51.33,66.58,-2.51
+europe_lau,Galliate Lombardo,galliate_lombardo,ga,59.65,71.92,72.84

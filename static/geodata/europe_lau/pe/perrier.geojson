@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "perrier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Perrier", "metric_roundness": 56.76, "metric_rectangularity": 74.24, "metric_mobile_fit": 65.45, "metric_aspect_ratio": 0.908, "metric_area_km2": 12.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1889979, 45.556775699999989 ], [ 3.178661, 45.551353 ], [ 3.1814145, 45.54301 ], [ 3.1977304, 45.5322044 ], [ 3.214261, 45.530954499999986 ], [ 3.214202, 45.535560499999988 ], [ 3.2116274, 45.537296 ], [ 3.2126405, 45.558414 ], [ 3.1889979, 45.556775699999989 ] ] ] } }
+]
+}

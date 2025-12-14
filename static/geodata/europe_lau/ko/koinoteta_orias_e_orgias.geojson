@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_orias_e_orgias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ωριάς Ή Ωργιάς", "metric_roundness": 19.96, "metric_rectangularity": 41.25, "metric_mobile_fit": -17.83, "metric_aspect_ratio": 1.741, "metric_area_km2": 14.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.607303, 37.3571105 ], [ 22.6139105, 37.3768855 ], [ 22.621627, 37.380379 ], [ 22.6128505, 37.386031799999984 ], [ 22.6029944, 37.3855845 ], [ 22.594651, 37.3695355 ], [ 22.5893493, 37.3646673 ], [ 22.5784895, 37.367296 ], [ 22.5689059, 37.3591304 ], [ 22.543556, 37.356677 ], [ 22.5433055, 37.352929 ], [ 22.5567629, 37.35351 ], [ 22.561812, 37.3502745 ], [ 22.607303, 37.3571105 ] ] ] } }
+]
+}

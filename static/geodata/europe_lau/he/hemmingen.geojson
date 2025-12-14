@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hemmingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hemmingen", "metric_roundness": 51.82, "metric_rectangularity": 69.66, "metric_mobile_fit": -13.21, "metric_aspect_ratio": 1.695, "metric_area_km2": 29.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0497359, 48.856498699999968 ], [ 9.0538545, 48.858283 ], [ 9.054149, 48.861861699999984 ], [ 9.0610862, 48.8674141 ], [ 9.0515787, 48.876076099999985 ], [ 9.0289765, 48.88274 ], [ 9.0107039, 48.8800974 ], [ 8.9905461, 48.871379799999978 ], [ 8.9853335, 48.8642995 ], [ 8.9996705, 48.853335699999981 ], [ 9.028145, 48.8566765 ], [ 9.0496305, 48.853694499999989 ], [ 9.0497359, 48.856498699999968 ] ] ] } }
+]
+}

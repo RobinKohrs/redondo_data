@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontaines_saint_martin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontaines-Saint-Martin", "metric_roundness": 45.16, "metric_rectangularity": 54.86, "metric_mobile_fit": 71.59, "metric_aspect_ratio": 0.847, "metric_area_km2": 5.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8453835, 45.848046 ], [ 4.8460337, 45.843512299999986 ], [ 4.8387775, 45.838910399999989 ], [ 4.840669, 45.837043 ], [ 4.8535187, 45.838594 ], [ 4.8566682, 45.833281799999988 ], [ 4.8642045, 45.832997 ], [ 4.8657055, 45.834808 ], [ 4.866828, 45.8382035 ], [ 4.854575, 45.856076499999986 ], [ 4.8453835, 45.848046 ] ] ] } }
+]
+}

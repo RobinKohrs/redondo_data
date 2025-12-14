@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "slaska",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Slaská", "metric_roundness": 32.98, "metric_rectangularity": 70.2, "metric_mobile_fit": 90.36, "metric_aspect_ratio": 0.466, "metric_area_km2": 37.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.8500985, 48.660836 ], [ 18.8515189, 48.665845299999987 ], [ 18.8438795, 48.6718677 ], [ 18.8408967, 48.6804943 ], [ 18.8444499, 48.694328399999989 ], [ 18.841354, 48.712873 ], [ 18.811882, 48.721548 ], [ 18.8017565, 48.709208499999988 ], [ 18.8103596, 48.6987703 ], [ 18.813796, 48.6888662 ], [ 18.8144106, 48.6716921 ], [ 18.8247845, 48.651064 ], [ 18.8500985, 48.660836 ] ] ] } }
+]
+}

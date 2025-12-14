@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_brochitses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βροχίτσης", "metric_roundness": 40.24, "metric_rectangularity": 64.06, "metric_mobile_fit": 93.77, "metric_aspect_ratio": 0.5, "metric_area_km2": 8.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.460355, 37.743559499999989 ], [ 21.4536798, 37.746827699999983 ], [ 21.4451835, 37.7633065 ], [ 21.437939, 37.759516499999989 ], [ 21.437674, 37.7321495 ], [ 21.437278, 37.728253499999987 ], [ 21.4444285, 37.7268282 ], [ 21.4601805, 37.7370195 ], [ 21.460355, 37.743559499999989 ] ] ] } }
+]
+}

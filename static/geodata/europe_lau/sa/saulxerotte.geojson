@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saulxerotte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saulxerotte", "metric_roundness": 51.52, "metric_rectangularity": 66.76, "metric_mobile_fit": 24.35, "metric_aspect_ratio": 1.319, "metric_area_km2": 6.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9243065, 48.4826505 ], [ 5.9194125, 48.481187 ], [ 5.9182372, 48.476389199999979 ], [ 5.9217745, 48.4721515 ], [ 5.9179584, 48.4699422 ], [ 5.9193252, 48.466533199999986 ], [ 5.9334966, 48.4657611 ], [ 5.9465071, 48.465052199999988 ], [ 5.952972, 48.4751786 ], [ 5.9355474, 48.476351 ], [ 5.9334966, 48.477236599999983 ], [ 5.925865, 48.480532 ], [ 5.9243065, 48.4826505 ] ] ] } }
+]
+}

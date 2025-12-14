@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vauchelles_les_authie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vauchelles-lès-Authie", "metric_roundness": 64.73, "metric_rectangularity": 77.47, "metric_mobile_fit": 64.22, "metric_aspect_ratio": 0.92, "metric_area_km2": 11.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4524192, 50.088987399999986 ], [ 2.4610571, 50.0817714 ], [ 2.4738986, 50.081448 ], [ 2.479332, 50.087096499999987 ], [ 2.4802129, 50.0950408 ], [ 2.489364, 50.1014275 ], [ 2.482454, 50.105395 ], [ 2.4786185, 50.106566 ], [ 2.4749745, 50.1059865 ], [ 2.4727455, 50.107201 ], [ 2.4661074, 50.103398099999986 ], [ 2.4613485, 50.1039735 ], [ 2.4529365, 50.093605 ], [ 2.4524192, 50.088987399999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "casas_do_soeiro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Casas do Soeiro", "metric_roundness": 60.07, "metric_rectangularity": 70.64, "metric_mobile_fit": 79.4, "metric_aspect_ratio": 0.768, "metric_area_km2": 9.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.3935728, 40.618959 ], [ -7.3997055, 40.6249099 ], [ -7.4010656, 40.630592499999985 ], [ -7.4192938, 40.627691 ], [ -7.4226045, 40.619243 ], [ -7.4232404, 40.6045074 ], [ -7.419337, 40.60546 ], [ -7.4146447, 40.6012877 ], [ -7.4097034, 40.6051751 ], [ -7.397152, 40.607882 ], [ -7.3935728, 40.618959 ] ] ] } }
+]
+}

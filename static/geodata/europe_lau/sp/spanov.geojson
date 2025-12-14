@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spanov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spáňov", "metric_roundness": 38.08, "metric_rectangularity": 55.86, "metric_mobile_fit": 12.06, "metric_aspect_ratio": 1.442, "metric_area_km2": 7.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.9717006, 49.413664 ], [ 12.9648247, 49.406732 ], [ 12.968678, 49.404592199999982 ], [ 12.975685, 49.406542 ], [ 12.9992903, 49.411603099999979 ], [ 13.0051809, 49.4158818 ], [ 13.005089, 49.4187805 ], [ 12.9953615, 49.4178607 ], [ 12.9682045, 49.4228005 ], [ 12.9717006, 49.413664 ] ] ] } }
+]
+}

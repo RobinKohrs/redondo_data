@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pessac_sur_dordogne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pessac-sur-Dordogne", "metric_roundness": 69.81, "metric_rectangularity": 78.67, "metric_mobile_fit": 54.36, "metric_aspect_ratio": 1.019, "metric_area_km2": 15.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1091347, 44.821482499999981 ], [ 0.1072041, 44.8316162 ], [ 0.095747, 44.832822499999985 ], [ 0.089876, 44.832577 ], [ 0.082036, 44.830707499999981 ], [ 0.0808275, 44.8293335 ], [ 0.0786625, 44.823125 ], [ 0.0773505, 44.8208485 ], [ 0.0756995, 44.8194655 ], [ 0.0760043, 44.8159564 ], [ 0.071323, 44.811727 ], [ 0.0948933, 44.8030876 ], [ 0.107209, 44.804143499999988 ], [ 0.1079855, 44.8052845 ], [ 0.1140325, 44.8194425 ], [ 0.1091347, 44.821482499999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_pio_delle_camere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Pio delle Camere", "metric_roundness": 46.33, "metric_rectangularity": 64.24, "metric_mobile_fit": 49.03, "metric_aspect_ratio": 1.072, "metric_area_km2": 31.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.6187139, 42.286370399999988 ], [ 13.652052, 42.2750858 ], [ 13.664476, 42.2664505 ], [ 13.6698446, 42.2649583 ], [ 13.6778605, 42.270451399999978 ], [ 13.6878788, 42.2712689 ], [ 13.6886055, 42.277524499999977 ], [ 13.6744937, 42.285351 ], [ 13.655237, 42.3033535 ], [ 13.6527821, 42.3133239 ], [ 13.6445555, 42.316784 ], [ 13.6373397, 42.316941 ], [ 13.613262, 42.295596 ], [ 13.6187139, 42.286370399999988 ] ] ] } }
+]
+}

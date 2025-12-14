@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villardompardo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villardompardo", "metric_roundness": 47.07, "metric_rectangularity": 75.65, "metric_mobile_fit": 71.6, "metric_aspect_ratio": 0.847, "metric_area_km2": 27.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.034569, 37.8565485 ], [ -4.0102732, 37.8314519 ], [ -3.9852275, 37.8133585 ], [ -3.9742141, 37.819139199999988 ], [ -3.972388, 37.8266358 ], [ -3.9783721, 37.842236 ], [ -3.9916564, 37.855611499999981 ], [ -3.9982675, 37.8713645 ], [ -4.034569, 37.8565485 ] ] ] } }
+]
+}

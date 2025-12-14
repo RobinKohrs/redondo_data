@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rabo_de_peixe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rabo de Peixe", "metric_roundness": 64.06, "metric_rectangularity": 71.09, "metric_mobile_fit": 72.1, "metric_aspect_ratio": 0.841, "metric_area_km2": 26.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -25.5775855, 37.7765095 ], [ -25.557048, 37.792643 ], [ -25.5596755, 37.796296399999989 ], [ -25.5609745, 37.815007 ], [ -25.5812026, 37.8176255 ], [ -25.5857017, 37.8141991 ], [ -25.597014, 37.818977 ], [ -25.599076, 37.8142025 ], [ -25.600165, 37.812183 ], [ -25.6092838, 37.7912444 ], [ -25.5981645, 37.775659499999989 ], [ -25.5867075, 37.769923 ], [ -25.5842355, 37.7704405 ], [ -25.5775855, 37.7765095 ] ] ] } }
+]
+}

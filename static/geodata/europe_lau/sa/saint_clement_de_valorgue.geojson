@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_clement_de_valorgue",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Clément-de-Valorgue", "metric_roundness": 44.22, "metric_rectangularity": 65.68, "metric_mobile_fit": -22.2, "metric_aspect_ratio": 1.784, "metric_area_km2": 27.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8944095, 45.512761 ], [ 3.9015736, 45.502416499999981 ], [ 3.9177521, 45.4898248 ], [ 3.9352964, 45.4883517 ], [ 3.9419785, 45.4850115 ], [ 3.9567541, 45.483022399999989 ], [ 3.9727435, 45.500132 ], [ 3.9688805, 45.501493499999988 ], [ 3.965776, 45.500368499999979 ], [ 3.964837, 45.503217 ], [ 3.958556, 45.513791499999982 ], [ 3.8944095, 45.512761 ] ] ] } }
+]
+}

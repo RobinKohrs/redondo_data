@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_vidal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Vidal", "metric_roundness": 57.65, "metric_rectangularity": 73.82, "metric_mobile_fit": 59.37, "metric_aspect_ratio": 0.969, "metric_area_km2": 15.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7840155, 45.062937 ], [ 3.7922916, 45.058182799999976 ], [ 3.8065965, 45.061884499999977 ], [ 3.8164922, 45.0778283 ], [ 3.8236234, 45.079370399999988 ], [ 3.8119205, 45.091783 ], [ 3.810811, 45.093012 ], [ 3.7993738, 45.083967 ], [ 3.7888304, 45.084885299999982 ], [ 3.775842, 45.0792385 ], [ 3.776291, 45.076434 ], [ 3.7840155, 45.062937 ] ] ] } }
+]
+}

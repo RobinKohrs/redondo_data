@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maroggia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maroggia", "metric_roundness": 45.34, "metric_rectangularity": 58.06, "metric_mobile_fit": 62.2, "metric_aspect_ratio": 0.94, "metric_area_km2": 2.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.963057, 45.93996 ], [ 8.9723465, 45.930009 ], [ 8.9765845, 45.934917499999983 ], [ 8.97975, 45.93742 ], [ 8.9806405, 45.940197 ], [ 8.979263, 45.9416555 ], [ 8.9814195, 45.9435875 ], [ 8.974162, 45.942778 ], [ 8.963057, 45.93996 ] ] ] } }
+]
+}

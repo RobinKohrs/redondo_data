@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "haussimont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Haussimont", "metric_roundness": 26.07, "metric_rectangularity": 59.73, "metric_mobile_fit": 58.52, "metric_aspect_ratio": 0.977, "metric_area_km2": 39.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1270753, 48.725744 ], [ 4.1616065, 48.712449 ], [ 4.1654836, 48.7242542 ], [ 4.1793917, 48.7362101 ], [ 4.186367, 48.7515711 ], [ 4.2015893, 48.764987399999988 ], [ 4.2262095, 48.7742725 ], [ 4.2164211, 48.781237899999986 ], [ 4.2023125, 48.774466 ], [ 4.1532672, 48.7560424 ], [ 4.1385534, 48.739036 ], [ 4.128313, 48.7308635 ], [ 4.124256, 48.7268295 ], [ 4.1270753, 48.725744 ] ] ] } }
+]
+}

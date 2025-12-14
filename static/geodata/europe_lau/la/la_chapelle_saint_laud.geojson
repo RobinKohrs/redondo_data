@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chapelle_saint_laud",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chapelle-Saint-Laud", "metric_roundness": 31.6, "metric_rectangularity": 53.7, "metric_mobile_fit": -7.38, "metric_aspect_ratio": 1.636, "metric_area_km2": 22.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2821283, 47.6258659 ], [ -0.2891333, 47.619875 ], [ -0.318746, 47.622845 ], [ -0.3387761, 47.6052241 ], [ -0.3248625, 47.598811 ], [ -0.3198568, 47.599739 ], [ -0.3143769, 47.6060901 ], [ -0.2870577, 47.6024008 ], [ -0.2811599, 47.608544599999988 ], [ -0.271085, 47.610516 ], [ -0.255734, 47.619090199999988 ], [ -0.2710922, 47.6252175 ], [ -0.2807775, 47.633021 ], [ -0.2821283, 47.6258659 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kleinkarlbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kleinkarlbach", "metric_roundness": 56.36, "metric_rectangularity": 69.52, "metric_mobile_fit": 44.1, "metric_aspect_ratio": 1.121, "metric_area_km2": 6.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.1469265, 49.543748 ], [ 8.1445395, 49.54278 ], [ 8.1425065, 49.541648499999987 ], [ 8.141636, 49.538645 ], [ 8.144828, 49.5370431 ], [ 8.148205, 49.5306785 ], [ 8.150074, 49.530923 ], [ 8.1525425, 49.5312805 ], [ 8.1554965, 49.5310145 ], [ 8.159229, 49.5311865 ], [ 8.1668545, 49.529085 ], [ 8.1706885, 49.545896499999984 ], [ 8.158364, 49.5434905 ], [ 8.152005, 49.5437005 ], [ 8.1469265, 49.543748 ] ] ] } }
+]
+}

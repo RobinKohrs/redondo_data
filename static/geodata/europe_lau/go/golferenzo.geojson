@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "golferenzo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Golferenzo", "metric_roundness": 47.53, "metric_rectangularity": 66.23, "metric_mobile_fit": 45.35, "metric_aspect_ratio": 1.109, "metric_area_km2": 8.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.324616, 44.956038 ], [ 9.3138317, 44.966354 ], [ 9.2989485, 44.9735005 ], [ 9.298451, 44.972953 ], [ 9.29783, 44.970551 ], [ 9.2908561, 44.964185 ], [ 9.2872215, 44.955685499999987 ], [ 9.3005728, 44.9570249 ], [ 9.3058435, 44.9520615 ], [ 9.3229825, 44.949642 ], [ 9.324616, 44.956038 ] ] ] } }
+]
+}

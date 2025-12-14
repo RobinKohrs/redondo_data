@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "siddi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Siddi", "metric_roundness": 52.22, "metric_rectangularity": 69.16, "metric_mobile_fit": 24.95, "metric_aspect_ratio": 1.313, "metric_area_km2": 19.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9041586, 39.667005 ], [ 8.9093335, 39.6745387 ], [ 8.908328, 39.6783255 ], [ 8.8900381, 39.685692 ], [ 8.8798447, 39.6861808 ], [ 8.876611, 39.6922715 ], [ 8.868732, 39.687418 ], [ 8.8649905, 39.682576 ], [ 8.8619848, 39.6695637 ], [ 8.8496945, 39.664895 ], [ 8.8598506, 39.6642761 ], [ 8.862746, 39.66155 ], [ 8.8834176, 39.6573114 ], [ 8.9027395, 39.6585515 ], [ 8.9041586, 39.667005 ] ] ] } }
+]
+}

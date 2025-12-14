@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "breitenbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Breitenbach", "metric_roundness": 44.86, "metric_rectangularity": 61.76, "metric_mobile_fit": 87.11, "metric_aspect_ratio": 0.691, "metric_area_km2": 20.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2844065, 49.4452395 ], [ 7.2869275, 49.4576895 ], [ 7.2479833, 49.4458798 ], [ 7.2541589, 49.4404543 ], [ 7.2511738, 49.4354084 ], [ 7.252589, 49.4314655 ], [ 7.2616448, 49.4243191 ], [ 7.2730012, 49.423785799999983 ], [ 7.29007, 49.414705499999982 ], [ 7.293687, 49.427279 ], [ 7.2906815, 49.432173 ], [ 7.2844065, 49.4452395 ] ] ] } }
+]
+}

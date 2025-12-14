@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ohrobec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ohrobec", "metric_roundness": 28.73, "metric_rectangularity": 72.44, "metric_mobile_fit": -158.31, "metric_aspect_ratio": 3.146, "metric_area_km2": 10.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4565915, 49.9463175 ], [ 14.4374301, 49.951313899999988 ], [ 14.4203533, 49.951715099999987 ], [ 14.3961955, 49.947311 ], [ 14.4129695, 49.939675 ], [ 14.4481385, 49.939359499999981 ], [ 14.4565915, 49.9463175 ] ] ] } }
+]
+}

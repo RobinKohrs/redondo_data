@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kabesou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καβησού", "metric_roundness": 45.43, "metric_rectangularity": 69.15, "metric_mobile_fit": 46.34, "metric_aspect_ratio": 1.099, "metric_area_km2": 35.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.1606085, 40.9497666 ], [ 26.1549371, 40.9589345 ], [ 26.1487579, 40.9631589 ], [ 26.1311201, 40.9581215 ], [ 26.1313075, 40.939824099999989 ], [ 26.1420035, 40.924373 ], [ 26.1791121, 40.9151251 ], [ 26.1987565, 40.913339 ], [ 26.2036036, 40.9252682 ], [ 26.199555, 40.93728 ], [ 26.1877795, 40.9411184 ], [ 26.1806555, 40.947805 ], [ 26.1606085, 40.9497666 ] ] ] } }
+]
+}

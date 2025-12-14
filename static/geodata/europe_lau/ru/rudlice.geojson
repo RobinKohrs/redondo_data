@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rudlice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rudlice", "metric_roundness": 50.09, "metric_rectangularity": 57.32, "metric_mobile_fit": 75.83, "metric_aspect_ratio": 0.804, "metric_area_km2": 8.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.046322, 48.941999499999987 ], [ 16.0567051, 48.939757899999982 ], [ 16.0632795, 48.9435438 ], [ 16.0774535, 48.943022 ], [ 16.0777655, 48.9453915 ], [ 16.078483, 48.948893499999983 ], [ 16.0599065, 48.966018 ], [ 16.0556805, 48.964166299999981 ], [ 16.0528229, 48.95051429999998 ], [ 16.047156, 48.94975 ], [ 16.046322, 48.941999499999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_selinountos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σελινούντος", "metric_roundness": 49.53, "metric_rectangularity": 58.38, "metric_mobile_fit": 55.38, "metric_aspect_ratio": 1.009, "metric_area_km2": 6.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1050914, 38.217355 ], [ 22.101325, 38.226288 ], [ 22.096558, 38.226936499999987 ], [ 22.0921345, 38.22599 ], [ 22.084668, 38.222717 ], [ 22.0797345, 38.220262499999983 ], [ 22.075004, 38.218238 ], [ 22.0736875, 38.2154115 ], [ 22.0883263, 38.2134351 ], [ 22.0998455, 38.2024745 ], [ 22.100496, 38.2046785 ], [ 22.104601, 38.2103145 ], [ 22.1050914, 38.217355 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_iklaines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ικλαίνης", "metric_roundness": 31.96, "metric_rectangularity": 59.79, "metric_mobile_fit": 33.92, "metric_aspect_ratio": 1.223, "metric_area_km2": 8.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.727846, 37.0038145 ], [ 21.7234345, 37.006041499999988 ], [ 21.716237, 37.00585 ], [ 21.7101365, 37.006426499999989 ], [ 21.7134268, 37.0015238 ], [ 21.7068286, 36.9970851 ], [ 21.7148225, 36.988329499999985 ], [ 21.7493915, 36.9786375 ], [ 21.740461, 36.9867804 ], [ 21.7380246, 36.997178599999984 ], [ 21.730839, 37.0031975 ], [ 21.727846, 37.0038145 ] ] ] } }
+]
+}

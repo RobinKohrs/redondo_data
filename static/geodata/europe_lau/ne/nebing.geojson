@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nebing",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nébing", "metric_roundness": 50.91, "metric_rectangularity": 74.44, "metric_mobile_fit": 81.47, "metric_aspect_ratio": 0.748, "metric_area_km2": 16.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.820552, 48.927838499999986 ], [ 6.815246, 48.926508 ], [ 6.8121435, 48.924744 ], [ 6.7929289, 48.905855599999988 ], [ 6.793606, 48.8995235 ], [ 6.804959, 48.899156499999982 ], [ 6.8014141, 48.8940199 ], [ 6.80521, 48.890960499999984 ], [ 6.8074665, 48.89101 ], [ 6.8342305, 48.904459 ], [ 6.8348872, 48.9085895 ], [ 6.830567, 48.915962 ], [ 6.820552, 48.927838499999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vresovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vřesovice", "metric_roundness": 66.09, "metric_rectangularity": 78.88, "metric_mobile_fit": 68.65, "metric_aspect_ratio": 0.876, "metric_area_km2": 14.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.2143653, 49.0530022 ], [ 17.22843, 49.052359 ], [ 17.2307106, 49.0655673 ], [ 17.2273134, 49.073444699999989 ], [ 17.2200495, 49.0746805 ], [ 17.216665, 49.074632 ], [ 17.212997, 49.075401 ], [ 17.2069365, 49.075873 ], [ 17.201715, 49.077132 ], [ 17.194267, 49.0738875 ], [ 17.1938779, 49.0619642 ], [ 17.1982958, 49.0555626 ], [ 17.195831, 49.049583 ], [ 17.2143653, 49.0530022 ] ] ] } }
+]
+}

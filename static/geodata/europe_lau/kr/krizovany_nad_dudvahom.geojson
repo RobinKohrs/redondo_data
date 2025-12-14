@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krizovany_nad_dudvahom",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Križovany nad Dudváhom", "metric_roundness": 35.64, "metric_rectangularity": 63.39, "metric_mobile_fit": 60.34, "metric_aspect_ratio": 0.959, "metric_area_km2": 22.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6809712, 48.317621 ], [ 17.6777933, 48.325584 ], [ 17.6710565, 48.3316538 ], [ 17.673338, 48.334239 ], [ 17.640891, 48.3476395 ], [ 17.632022, 48.33321 ], [ 17.645032, 48.316950899999988 ], [ 17.67013, 48.3106483 ], [ 17.687879, 48.304346 ], [ 17.6896935, 48.305608499999984 ], [ 17.6944695, 48.307921499999985 ], [ 17.6932765, 48.3093205 ], [ 17.6809712, 48.317621 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_roche_clermault",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Roche-Clermault", "metric_roundness": 34.84, "metric_rectangularity": 54.06, "metric_mobile_fit": 89.59, "metric_aspect_ratio": 0.667, "metric_area_km2": 39.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1898158, 47.1374542 ], [ 0.1895578, 47.129386399999987 ], [ 0.1808961, 47.1208112 ], [ 0.181507, 47.116138 ], [ 0.2382465, 47.1012585 ], [ 0.2452901, 47.1097004 ], [ 0.2422485, 47.132108 ], [ 0.2110153, 47.1432053 ], [ 0.2107239, 47.156773099999988 ], [ 0.2065973, 47.16360109999998 ], [ 0.190414, 47.16697 ], [ 0.1972763, 47.1539887 ], [ 0.193384, 47.143853 ], [ 0.1898158, 47.1374542 ] ] ] } }
+]
+}

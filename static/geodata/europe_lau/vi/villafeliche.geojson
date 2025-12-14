@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villafeliche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villafeliche", "metric_roundness": 45.24, "metric_rectangularity": 67.57, "metric_mobile_fit": 9.39, "metric_aspect_ratio": 1.469, "metric_area_km2": 40.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5430462, 41.1700776 ], [ -1.530745, 41.1603741 ], [ -1.5253505, 41.161159499999989 ], [ -1.5044146, 41.171019799999989 ], [ -1.4635071, 41.1773727 ], [ -1.450242, 41.187183499999989 ], [ -1.4539599, 41.1931094 ], [ -1.4762465, 41.204735 ], [ -1.4876749, 41.2029571 ], [ -1.5002805, 41.2079312 ], [ -1.5250544, 41.194729099999989 ], [ -1.5315499, 41.1854471 ], [ -1.5391065, 41.181446 ], [ -1.5430462, 41.1700776 ] ] ] } }
+]
+}

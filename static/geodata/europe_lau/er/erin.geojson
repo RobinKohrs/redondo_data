@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "erin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Érin", "metric_roundness": 63.56, "metric_rectangularity": 74.09, "metric_mobile_fit": 66.34, "metric_aspect_ratio": 0.899, "metric_area_km2": 15.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.240329, 50.4228915 ], [ 2.2421671, 50.4302298 ], [ 2.2388335, 50.432958 ], [ 2.213249, 50.446231 ], [ 2.1978946, 50.439950099999983 ], [ 2.2035476, 50.4361746 ], [ 2.205639, 50.422671 ], [ 2.2099485, 50.417552 ], [ 2.2133965, 50.4148645 ], [ 2.240329, 50.4228915 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balatonfuzfo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balatonfűzfő", "metric_roundness": 44.84, "metric_rectangularity": 58.9, "metric_mobile_fit": 78.71, "metric_aspect_ratio": 0.775, "metric_area_km2": 20.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.0371423, 47.0819881 ], [ 18.044831, 47.091028 ], [ 18.0408371, 47.0937335 ], [ 18.026606, 47.091447499999987 ], [ 18.0235124, 47.081351699999985 ], [ 18.0088735, 47.074615 ], [ 18.0242846, 47.066575899999989 ], [ 18.0260646, 47.0625843 ], [ 18.0233861, 47.055134799999976 ], [ 18.049787, 47.047608499999988 ], [ 18.0613816, 47.0534188 ], [ 18.0540675, 47.0615875 ], [ 18.044705, 47.079348 ], [ 18.0371423, 47.0819881 ] ] ] } }
+]
+}

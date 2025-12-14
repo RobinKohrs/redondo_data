@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "los_masos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Los Masos", "metric_roundness": 44.37, "metric_rectangularity": 65.87, "metric_mobile_fit": 80.63, "metric_aspect_ratio": 0.756, "metric_area_km2": 10.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4635465, 42.602649 ], [ 2.468116, 42.602554 ], [ 2.469761, 42.6045725 ], [ 2.47172, 42.610514 ], [ 2.4747805, 42.614112 ], [ 2.4757006, 42.620158 ], [ 2.467257, 42.6315775 ], [ 2.452432, 42.6255605 ], [ 2.4524248, 42.620529 ], [ 2.444226, 42.6096874 ], [ 2.4422215, 42.600373 ], [ 2.4474218, 42.598997 ], [ 2.4495604, 42.6090258 ], [ 2.454418, 42.603702 ], [ 2.4609215, 42.6033255 ], [ 2.4635465, 42.602649 ] ] ] } }
+]
+}

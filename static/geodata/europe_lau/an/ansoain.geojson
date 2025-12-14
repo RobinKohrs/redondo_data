@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ansoain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ansoáin", "metric_roundness": 50.64, "metric_rectangularity": 66.35, "metric_mobile_fit": 66.32, "metric_aspect_ratio": 0.899, "metric_area_km2": 3.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.652102, 42.8466185 ], [ -1.65088, 42.831371499999989 ], [ -1.6364345, 42.8323056 ], [ -1.6334025, 42.8387439 ], [ -1.6395155, 42.8413125 ], [ -1.652102, 42.8466185 ] ] ] } }
+]
+}

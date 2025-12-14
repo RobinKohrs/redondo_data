@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nibionno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nibionno", "metric_roundness": 60.59, "metric_rectangularity": 70.68, "metric_mobile_fit": 65.98, "metric_aspect_ratio": 0.903, "metric_area_km2": 7.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2581289, 45.740041099999985 ], [ 9.274261, 45.7422385 ], [ 9.2757865, 45.7466545 ], [ 9.2728839, 45.7536975 ], [ 9.2753515, 45.757447 ], [ 9.2635774, 45.7621847 ], [ 9.25352, 45.757903 ], [ 9.255175, 45.754254 ], [ 9.2555485, 45.7513187 ], [ 9.247139, 45.742652 ], [ 9.2581289, 45.740041099999985 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bessenay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bessenay", "metric_roundness": 51.83, "metric_rectangularity": 62.86, "metric_mobile_fit": 24.67, "metric_aspect_ratio": 1.316, "metric_area_km2": 29.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5694815, 45.79059 ], [ 4.547108, 45.7877247 ], [ 4.5322915, 45.790378 ], [ 4.511786, 45.7777265 ], [ 4.5176143, 45.7719982 ], [ 4.5281825, 45.770561 ], [ 4.5288627, 45.765735299999989 ], [ 4.5248005, 45.758934 ], [ 4.5485595, 45.7518075 ], [ 4.5672356, 45.7659695 ], [ 4.571709, 45.774165 ], [ 4.5849465, 45.788076499999988 ], [ 4.5694815, 45.79059 ] ] ] } }
+]
+}

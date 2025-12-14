@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_stylou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Στύλου", "metric_roundness": 49.16, "metric_rectangularity": 73.37, "metric_mobile_fit": 69.91, "metric_aspect_ratio": 0.863, "metric_area_km2": 16.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.1241397, 35.4154568 ], [ 24.1347365, 35.424747 ], [ 24.1332175, 35.4308403 ], [ 24.1389135, 35.4509965 ], [ 24.1186425, 35.455265 ], [ 24.109256, 35.436278499999986 ], [ 24.1029295, 35.4319935 ], [ 24.1011855, 35.430447 ], [ 24.097671, 35.425945 ], [ 24.0943175, 35.419647499999982 ], [ 24.1090225, 35.413178 ], [ 24.1241397, 35.4154568 ] ] ] } }
+]
+}

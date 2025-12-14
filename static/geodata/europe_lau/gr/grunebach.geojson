@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grunebach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grünebach", "metric_roundness": 36.49, "metric_rectangularity": 47.9, "metric_mobile_fit": 75.68, "metric_aspect_ratio": 0.806, "metric_area_km2": 6.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9016052, 50.7732726 ], [ 7.900677, 50.7650835 ], [ 7.9102178, 50.764734099999984 ], [ 7.9103439, 50.7757685 ], [ 7.921052, 50.783743 ], [ 7.9164227, 50.7892 ], [ 7.9039867, 50.7830294 ], [ 7.889878, 50.783261499999981 ], [ 7.9016052, 50.7732726 ] ] ] } }
+]
+}

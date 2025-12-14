@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sveti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Světí", "metric_roundness": 47.03, "metric_rectangularity": 68.13, "metric_mobile_fit": 84.57, "metric_aspect_ratio": 0.717, "metric_area_km2": 7.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.7697529, 50.25986 ], [ 15.767921, 50.2535264 ], [ 15.780813, 50.244259 ], [ 15.7889291, 50.24477839999998 ], [ 15.791806, 50.250866 ], [ 15.7930294, 50.254236 ], [ 15.7881919, 50.2596689 ], [ 15.7889125, 50.266093 ], [ 15.7794854, 50.2634277 ], [ 15.7676665, 50.2668825 ], [ 15.7697529, 50.25986 ] ] ] } }
+]
+}

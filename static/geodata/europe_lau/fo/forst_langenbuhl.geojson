@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "forst_langenbuhl",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Forst-Längenbühl", "metric_roundness": 55.2, "metric_rectangularity": 71.38, "metric_mobile_fit": 59.79, "metric_aspect_ratio": 0.965, "metric_area_km2": 9.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5410735, 46.752574 ], [ 7.5485741, 46.7554127 ], [ 7.5522585, 46.762674499999989 ], [ 7.551862, 46.7669835 ], [ 7.5452205, 46.7675862 ], [ 7.5324078, 46.761284299999986 ], [ 7.5296355, 46.7726034 ], [ 7.520363, 46.774899499999989 ], [ 7.5164304, 46.7612194 ], [ 7.52045, 46.754425499999989 ], [ 7.537914, 46.7494555 ], [ 7.5410735, 46.752574 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_pinheiro_de_coja_e_meda_de_mouros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Pinheiro de Coja e Meda de Mouros", "metric_roundness": 38.68, "metric_rectangularity": 62.71, "metric_mobile_fit": 78.65, "metric_aspect_ratio": 0.776, "metric_area_km2": 33.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.996319, 40.318305499999987 ], [ -8.016154, 40.311219 ], [ -8.0176077, 40.2907946 ], [ -8.0336006, 40.2839005 ], [ -8.0281265, 40.273338599999981 ], [ -8.030365, 40.2592485 ], [ -8.0221655, 40.256024499999981 ], [ -8.0167876, 40.2643149 ], [ -8.0095877, 40.2614276 ], [ -8.0009789, 40.2699831 ], [ -7.9979209, 40.275749199999986 ], [ -8.0010617, 40.282369 ], [ -7.9987588, 40.285695 ], [ -7.9827244, 40.286035299999988 ], [ -7.9673215, 40.304131 ], [ -7.98121, 40.321179 ], [ -7.996319, 40.318305499999987 ] ] ] } }
+]
+}

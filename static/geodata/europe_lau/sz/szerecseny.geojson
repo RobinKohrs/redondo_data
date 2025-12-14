@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szerecseny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szerecseny", "metric_roundness": 58.64, "metric_rectangularity": 68.74, "metric_mobile_fit": 54.09, "metric_aspect_ratio": 1.022, "metric_area_km2": 27.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5324384, 47.458812 ], [ 17.558247, 47.441287 ], [ 17.5798369, 47.4508582 ], [ 17.5781342, 47.4604175 ], [ 17.5883125, 47.4690435 ], [ 17.5769855, 47.480549 ], [ 17.5689174, 47.4854828 ], [ 17.5375932, 47.469140399999986 ], [ 17.521526, 47.4723955 ], [ 17.526024, 47.468743 ], [ 17.5324384, 47.458812 ] ] ] } }
+]
+}

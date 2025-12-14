@@ -1,0 +1,815 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Dolní Branná,dolni_branna,do,48.09,65.92,87.23
+europe_lau,Dolní Dvůr,dolni_dvur,do,53.32,65.07,68.57
+europe_lau,Dolní Kalná,dolni_kalna,do,39.78,57.72,36.98
+europe_lau,Dolní Lánov,dolni_lanov,do,48.41,68.13,85.49
+europe_lau,Dolní Olešnice,dolni_olesnice,do,56.82,66.43,62.42
+europe_lau,Doubravice,doubravice,do,49.91,63.34,51.52
+europe_lau,Dolní Kounice,dolni_kounice,do,48.27,64.84,83.77
+europe_lau,Domašov,domasov,do,28.02,62.96,15.18
+europe_lau,Dolany,dolany,do,45.97,70.53,34.67
+europe_lau,Dolní Roveň,dolni_roven,do,37.85,59.72,13.16
+europe_lau,Dolní Ředice,dolni_redice,do,46.64,66.25,98.4
+europe_lau,Dobré,dobre,do,43.52,59.58,62.09
+europe_lau,Dobruška,dobruska,do,40.3,58.44,25.04
+europe_lau,Dobřany,dobrany,do,49.47,69.48,12.56
+europe_lau,Doudleby nad Orlicí,doudleby_nad_orlici,do,46.58,67.48,90.76
+europe_lau,Dolní Újezd,dolni_ujezd,do,42.41,73.64,87.03
+europe_lau,Domoraz,domoraz,do,37.63,64.69,27.24
+europe_lau,Dobročkovice,dobrockovice,do,67.51,75.21,56.36
+europe_lau,Dobré Pole,dobre_pole,do,32.66,63.75,97.84
+europe_lau,Dolní Dunajovice,dolni_dunajovice,do,30.24,63.96,87.18
+europe_lau,Dolní Věstonice,dolni_vestonice,do,39.72,65.94,37.34
+europe_lau,Dobrkovice,dobrkovice,do,52.65,59.87,31.65
+europe_lau,Dolní Lhota,dolni_lhota,do,65.26,74.83,73.66
+europe_lau,Doubravy,doubravy,do,46.54,60.23,76.74
+europe_lau,Dolní Bojanovice,dolni_bojanovice,do,63.44,68.06,63.31
+europe_lau,Domanín,domanin,do,57.97,72.85,52.55
+europe_lau,Dobronín,dobronin,do,40.88,60.65,5.4
+europe_lau,Dobroutov,dobroutov,do,51.17,63.01,8.65
+europe_lau,Dolní Cerekev,dolni_cerekev,do,58.14,74.21,50.48
+europe_lau,Dolní Vilímeč,dolni_vilimec,do,63.81,74.4,36.94
+europe_lau,Doupě,doupe,do,49.44,69.66,81
+europe_lau,Dobříkov,dobrikov,do,33.35,55.24,49.83
+europe_lau,Dolní Čermná,dolni_cermna,do,45.26,54.88,78.42
+europe_lau,Dolní Dobrouč,dolni_dobrouc,do,50.96,68.28,67.93
+europe_lau,Dolní Morava,dolni_morava,do,34.19,72.44,96.94
+europe_lau,Doubravice nad Svitavou,doubravice_nad_svitavou,do,38.71,58.38,7.72
+europe_lau,Dolní Lažany,dolni_lazany,do,31.18,61.11,-85.77
+europe_lau,Dolní Němčí,dolni_nemci,do,59.26,72.95,76.6
+europe_lau,Dolní Vilémovice,dolni_vilemovice,do,56.4,66.3,35.46
+europe_lau,Domamil,domamil,do,32.67,48.54,-0.13
+europe_lau,Dolní Moravice,dolni_moravice,do,50.09,66.6,72.86
+europe_lau,Dobrá,dobra,do,62.01,74.28,68.65
+europe_lau,Dolní Domaslavice,dolni_domaslavice,do,64.39,65.65,57.45
+europe_lau,Dolní Lutyně,dolni_lutyne,do,61.3,62.84,46.66
+europe_lau,Dörpling,dorpling,do,46.67,59.72,43.13
+europe_lau,Dorf an der Pram,dorf_an_der_pram,do,49.41,57.33,64.28
+europe_lau,Dobelice,dobelice,do,26.46,45.3,49.28
+europe_lau,Dobřínsko,dobrinsko,do,50.66,57.46,27.31
+europe_lau,Dolenice,dolenice,do,42.08,59.19,11.85
+europe_lau,Dolní Dubňany,dolni_dubnany,do,50.1,62.61,84.84
+europe_lau,Dobrochov,dobrochov,do,43.57,66.34,-8
+europe_lau,Dobromilice,dobromilice,do,50.9,65.11,73.4
+europe_lau,Doloplazy,doloplazy,do,26.42,52.93,50.85
+europe_lau,Dobrá Voda,dobra_voda,do,50.76,67.62,23.75
+europe_lau,Dolní Heřmanice,dolni_hermanice,do,46.77,67.38,91.09
+europe_lau,Dolní Libochová,dolni_libochova,do,57.03,72.44,37.93
+europe_lau,Dolní Loučky,dolni_loucky,do,57.85,67.52,71.94
+europe_lau,Dolní Rožínka,dolni_rozinka,do,30.97,62.94,82.55
+europe_lau,Doubravník,doubravnik,do,45.87,60.74,83.77
+europe_lau,Dörphof,dorphof,do,67.82,77.88,55.37
+europe_lau,Dörpstedt,dorpstedt,do,41.93,63.92,-5.51
+europe_lau,Dobersdorf,dobersdorf,do,43.4,61.65,91.88
+europe_lau,Dörnick,dornick,do,21.34,57.26,8.95
+europe_lau,Dorstadt,dorstadt,do,47.98,63.45,3.08
+europe_lau,Dollerup,dollerup,do,56.53,64.72,71.76
+europe_lau,Dollern,dollern,do,49.37,73.14,-5.43
+europe_lau,Dörverden,dorverden,do,37.84,51.71,80.03
+europe_lau,Dorfbeuern,dorfbeuern,do,45.32,57.89,81.69
+europe_lau,Dornum,dornum,do,38.72,69.73,-51.55
+europe_lau,Dörpen,dorpen,do,39.65,75.13,-37.6
+europe_lau,Dohren,dohren,do,43.88,64.05,14.23
+europe_lau,Dohren,dohren,do,48.57,68.64,90.46
+europe_lau,"Dormagen, Stadt",dormagen_stadt,do,54.89,59.3,54.72
+europe_lau,Dorfgastein,dorfgastein,do,51.85,60.38,74.28
+europe_lau,"Dorsten, Stadt",dorsten_stadt,do,54.06,70.66,89.05
+europe_lau,Dörentrup,dorentrup,do,57.59,71.16,43.55
+europe_lau,"Dortmund, Stadt",dortmund_stadt,do,65.44,65.88,43.16
+europe_lau,Dorsel,dorsel,do,47.27,63.29,63.54
+europe_lau,Dornburg,dornburg,do,40.01,65.1,89.46
+europe_lau,Dötlingen,dotlingen,do,63.45,65.35,54.72
+europe_lau,Dodenburg,dodenburg,do,41.49,62.12,56.76
+europe_lau,Dobl-Zwaring,dobl_zwaring,do,39.42,65.03,75.44
+europe_lau,Dohr,dohr,do,74.14,73.93,51.52
+europe_lau,Döttesfeld,dottesfeld,do,48.69,62.93,48.79
+europe_lau,Dörth,dorth,do,52.5,68.5,78.73
+europe_lau,Dommershausen,dommershausen,do,41.91,61.3,81.74
+europe_lau,Dörrebach,dorrebach,do,25.99,61.82,-68.17
+europe_lau,Dorsheim,dorsheim,do,34.59,56.18,4.87
+europe_lau,Dörnberg,dornberg,do,48.57,61.21,81.6
+europe_lau,Dörscheid,dorscheid,do,40.05,50.32,25.25
+europe_lau,Dörsdorf,dorsdorf,do,31.2,53.76,14.35
+europe_lau,Dornholzhausen,dornholzhausen,do,51.74,73.45,79.48
+europe_lau,Dörrmoschel,dorrmoschel,do,62.81,70.98,69.18
+europe_lau,Dockendorf,dockendorf,do,44.89,79.75,38.09
+europe_lau,"Donzdorf, Stadt",donzdorf_stadt,do,37.75,54.64,87.06
+europe_lau,Dockweiler,dockweiler,do,44.02,69.72,-0.11
+europe_lau,Dohm-Lammersdorf,dohm_lammersdorf,do,31.59,58.62,41.86
+europe_lau,Dörrenbach,dorrenbach,do,31.29,62.97,-65.75
+europe_lau,Dolgesheim,dolgesheim,do,53.87,67.3,42.61
+europe_lau,Dorn-Dürkheim,dorn_durkheim,do,55.15,63.48,46.09
+europe_lau,Donsieders,donsieders,do,31.15,62.39,-93.96
+europe_lau,Dobel,dobel,do,50.74,56.71,75.27
+europe_lau,"Dornstetten, Stadt",dornstetten_stadt,do,44.52,53.98,72.62
+europe_lau,"Dornhan, Stadt",dornhan_stadt,do,51.77,56.2,68.39
+europe_lau,"Donaueschingen, Stadt",donaueschingen_stadt,do,25.25,40.43,2.66
+europe_lau,Dogern,dogern,do,50.21,63.33,72.12
+europe_lau,Dörzbach,dorzbach,do,41.54,55.33,69.67
+europe_lau,Dormettingen,dormettingen,do,51.57,64.84,82.14
+europe_lau,Dotternhausen,dotternhausen,do,46.77,63.08,72.49
+europe_lau,Dossenheim,dossenheim,do,21.85,56.94,-128.06
+europe_lau,Dornstadt,dornstadt,do,38.78,60.91,29.74
+europe_lau,"Dollnstein, M",dollnstein_m,do,60.98,66.79,53.78
+europe_lau,"Dorfen, St",dorfen_st,do,58,67.45,30.34
+europe_lau,Dorf Mecklenburg,dorf_mecklenburg,do,36.42,54.6,74.27
+europe_lau,"Donauwörth, GKSt",donauworth_gk_st,do,46.88,62.75,5.81
+europe_lau,Dohma,dohma,do,53.46,63.87,62.74
+europe_lau,"Dohna, Stadt",dohna_stadt,do,38.49,60.46,27.99
+europe_lau,Dorfhain,dorfhain,do,53.54,68.34,39.82
+europe_lau,Döllstädt,dollstadt,do,38.8,58.64,59.13
+europe_lau,Doberschütz,doberschutz,do,52.56,53.73,69.56
+europe_lau,"Dommitzsch, Stadt",dommitzsch_stadt,do,57.97,67.76,66.94
+europe_lau,Dornheim,dornheim,do,60.67,72.18,71.78
+europe_lau,"Doberlug-Kirchhain, Stadt",doberlug_kirchhain_stadt,do,40.3,61,-16.28
+europe_lau,Döbritz,dobritz,do,42.19,59.18,73.86
+europe_lau,"Dornburg-Camburg, Stadt",dornburg_camburg_stadt,do,43.35,56.17,33.52
+europe_lau,Dornstadt-Linkersbaindt,dornstadt_linkersbaindt,do,45.86,58.92,18.6
+europe_lau,Döbritschen,dobritschen,do,68.6,75.25,44.72
+europe_lau,Döschnitz,doschnitz,do,35.63,61.04,-61.61
+europe_lau,Dormitzer Forst,dormitzer_forst,do,29.39,55.01,-1.49
+europe_lau,Dobitschen,dobitschen,do,39.3,56.06,88.8
+europe_lau,Доспат,dospat,do,52.4,62.18,79.27
+europe_lau,Долна Митрополия,dolna_mitropolia,do,41.38,58.06,27.64
+europe_lau,Долни Дъбник,dolni_d_bnik,do,63.62,64.68,64.9
+europe_lau,Domingo García,domingo_garcia,do,38.52,62.49,59.61
+europe_lau,Donhierro,donhierro,do,59.51,63.88,54.8
+europe_lau,Dotzigen,dotzigen,do,39.55,50.51,79.17
+europe_lau,Dólar,dolar,do,24.52,63.02,75.47
+europe_lau,Dosrius,dosrius,do,46.32,68.47,-12.15
+europe_lau,Долна баня,dolna_bana,do,36.22,53.42,87.22
+europe_lau,Doische,doische,do,36.82,53.04,39.81
+europe_lau,Don Álvaro,don_alvaro,do,49.62,65.38,31.96
+europe_lau,Don Benito,don_benito,do,32.06,59.43,93.58
+europe_lau,Dolores,dolores,do,48.86,68.76,41.78
+europe_lau,Долни чифлик,dolni_ciflik,do,35.71,53.87,-22.54
+europe_lau,Dorf,dorf,do,62.22,68.37,69.67
+europe_lau,Domingo Pérez de Granada,domingo_perez_de_granada,do,44.03,53.44,55.96
+europe_lau,Dodro,dodro,do,53.06,60.64,26.91
+europe_lau,Doña Mencía,dona_mencia,do,50.61,71.35,95.33
+europe_lau,Dos Torres,dos_torres,do,26.42,39.12,64.47
+europe_lau,Donjimeno,donjimeno,do,64.34,72.79,51.56
+europe_lau,Donvidas,donvidas,do,51.53,74.96,68.5
+europe_lau,Dörfles-Esbach,dorfles_esbach,do,60.62,62.97,65.24
+europe_lau,Dormitz,dormitz,do,53.27,68.54,41.14
+europe_lau,Donceel,donceel,do,63.61,69.12,37.76
+europe_lau,"Döbeln, Stadt",dobeln_stadt,do,36.98,54.25,-2.63
+europe_lau,Dorfchemnitz,dorfchemnitz,do,50.55,65.94,24.57
+europe_lau,Donnersdorf,donnersdorf,do,56.43,65.94,75.47
+europe_lau,Doren,doren,do,48.11,68.14,10.98
+europe_lau,Dölsach,dolsach,do,12.84,24.88,95.75
+europe_lau,Döhlau,dohlau,do,64.98,72.5,52.75
+europe_lau,"Döbern/Derbno, Stadt",dobern_derbno_stadt,do,55.2,70.04,45.01
+europe_lau,Добрич-селска,dobric_selska,do,47.41,59.72,64.06
+europe_lau,Doberschau-Gaußig / Dobruša-Huska,doberschau_gaussig_dobrusa_huska,do,41.74,58.96,12.49
+europe_lau,Dour,dour,do,38.42,70.08,36.08
+europe_lau,"Dombühl, M",dombuhl_m,do,66.59,74.88,69.52
+europe_lau,"Donaustauf, M",donaustauf_m,do,31.87,56.38,-6.06
+europe_lau,Doornik,doornik,do,48.62,63.67,0.96
+europe_lau,Dobbertin,dobbertin,do,33.62,53.38,-11.58
+europe_lau,Dobin am See,dobin_am_see,do,52.93,64.35,57.85
+europe_lau,"Dömitz, Stadt",domitz_stadt,do,30.96,55.45,-10.78
+europe_lau,Domsühl,domsuhl,do,58.25,64.73,32.06
+europe_lau,Dorfprozelten,dorfprozelten,do,38.12,54.25,69.89
+europe_lau,Dornbirn,dornbirn,do,35.29,60.26,92.56
+europe_lau,Dobbin-Linstow,dobbin_linstow,do,45.39,53.48,55.24
+europe_lau,Dolgen am See,dolgen_am_see,do,52.58,68.45,37.04
+europe_lau,Donzenac,donzenac,do,60.39,69.98,86.44
+europe_lau,Döttingen,dottingen,do,38.1,57.68,50.41
+europe_lau,Dompnac,dompnac,do,50.47,56.52,54.1
+europe_lau,Douzy,douzy,do,47.52,54.85,57.1
+europe_lau,Dommartin,dommartin,do,39.26,66.58,68.43
+europe_lau,Dompierre-les-Tilleuls,dompierre_les_tilleuls,do,33.63,80.9,72.32
+europe_lau,Domprel,domprel,do,42.71,53.77,59.82
+europe_lau,Doubs,doubs,do,39.82,58.47,11.59
+europe_lau,Dottikon,dottikon,do,35.72,64.94,72.96
+europe_lau,Donazac,donazac,do,50.39,68.85,-4.67
+europe_lau,Douzens,douzens,do,42.06,60.37,98.12
+europe_lau,Domleschg,domleschg,do,61.9,77.16,75.47
+europe_lau,Dornach,dornach,do,54.81,66.61,50.34
+europe_lau,Dœuil-sur-le-Mignon,doeuil_sur_le_mignon,do,60.58,71.02,47
+europe_lau,Dolus-d'Oléron,dolus_d_oleron,do,48.75,67.97,78.33
+europe_lau,Dompierre-sur-Charente,dompierre_sur_charente,do,49.03,63.57,39.22
+europe_lau,Dompierre-sur-Mer,dompierre_sur_mer,do,55.95,66.6,65.63
+europe_lau,Domérat,domerat,do,61.32,70.43,80.86
+europe_lau,Dompierre-sur-Besbre,dompierre_sur_besbre,do,41.16,51.47,51.81
+europe_lau,Doyet,doyet,do,51.13,73.93,44
+europe_lau,Douains,douains,do,51.95,72.4,71.71
+europe_lau,Doudeauville-en-Vexin,doudeauville_en_vexin,do,42.11,54.9,64.93
+europe_lau,Douville-sur-Andelle,douville_sur_andelle,do,45.1,67.05,93.31
+europe_lau,Donat,donat,do,19.61,38.66,76.25
+europe_lau,Doissat,doissat,do,30.97,46.71,82.75
+europe_lau,Domme,domme,do,52.27,57.37,76.44
+europe_lau,Douchapt,douchapt,do,39.71,72.94,89.4
+europe_lau,Douville,douville,do,44.32,59.25,70.17
+europe_lau,Douzillac,douzillac,do,59.68,69.37,82.86
+europe_lau,Dompierre-sur-Veyle,dompierre_sur_veyle,do,64.73,73.13,71.23
+europe_lau,Dompierre-sur-Chalaronne,dompierre_sur_chalaronne,do,47.89,68.44,91.53
+europe_lau,Domsure,domsure,do,47.05,60.54,85.45
+europe_lau,Dortan,dortan,do,56.83,65.45,50.32
+europe_lau,Douvres,douvres,do,43.41,66.47,-5.36
+europe_lau,Domat/Ems,domat_ems,do,45.99,66.75,35.06
+europe_lau,Dom-le-Mesnil,dom_le_mesnil,do,44.98,60.41,4.72
+europe_lau,Dommery,dommery,do,42.9,62.86,48.14
+europe_lau,Donchery,donchery,do,19.84,47.72,93.6
+europe_lau,Doumely-Bégny,doumely_begny,do,43.75,64.15,91.34
+europe_lau,Doux,doux,do,38.06,66.77,99.53
+europe_lau,Dohis,dohis,do,58.78,81.96,23.26
+europe_lau,Dolignon,dolignon,do,30.39,54.76,96.88
+europe_lau,Dommiers,dommiers,do,50.75,70.26,90.63
+europe_lau,Domptin,domptin,do,58.79,67.45,26.83
+europe_lau,Dorengt,dorengt,do,55.52,74.68,-4.69
+europe_lau,Douchy,douchy,do,55.41,70.4,55.44
+europe_lau,Domeño,domeno,do,21.44,61.14,32.56
+europe_lau,Dos Aguas,dos_aguas,do,40.53,60.89,-13.45
+europe_lau,Donamaria,donamaria,do,45.68,74.87,97.71
+europe_lau,Dolancourt,dolancourt,do,39.79,55.15,16.22
+europe_lau,Dommartin-le-Coq,dommartin_le_coq,do,57.11,72.87,73.2
+europe_lau,Donnement,donnement,do,42.24,80.34,80.74
+europe_lau,Dosches,dosches,do,26.08,57.46,39.24
+europe_lau,Dosnon,dosnon,do,22.81,47.62,-20.64
+europe_lau,Donnay,donnay,do,41.24,48.87,55.47
+europe_lau,Douville-en-Auge,douville_en_auge,do,41.34,60.13,73.23
+europe_lau,Douvres-la-Délivrande,douvres_la_delivrande,do,49.45,67.31,84.01
+europe_lau,Dozulé,dozule,do,28.25,59.87,89.6
+europe_lau,Domingo Pérez,domingo_perez,do,37.24,63.18,78.65
+europe_lau,Dosbarrios,dosbarrios,do,33.35,47.24,33.9
+europe_lau,Doppleschwand,doppleschwand,do,45.2,67.87,94.87
+europe_lau,Dozón,dozon,do,52.13,57.86,52.75
+europe_lau,Doneztebe,doneztebe,do,42.86,59.81,67.49
+europe_lau,Dos Hermanas,dos_hermanas,do,30.8,48.95,89.41
+europe_lau,Donostia,donostia,do,32.78,56.3,-48.7
+europe_lau,Doñinos de Ledesma,doninos_de_ledesma,do,48.61,70.63,85.17
+europe_lau,Doñinos de Salamanca,doninos_de_salamanca,do,41.93,53.26,39.81
+europe_lau,Doizieux,doizieux,do,49.2,57.62,45.88
+europe_lau,Dommartin-Dampierre,dommartin_dampierre,do,46.68,65.13,91.35
+europe_lau,Dommartin-Lettrée,dommartin_lettree,do,51.88,69.33,58.65
+europe_lau,Dommartin-sous-Hans,dommartin_sous_hans,do,38.47,70.38,57.9
+europe_lau,Dommartin-Varimont,dommartin_varimont,do,37.65,61.08,-12.47
+europe_lau,Dompremy,dompremy,do,40.94,67.9,57.29
+europe_lau,Dontrien,dontrien,do,22.42,38.94,22.5
+europe_lau,Dormans,dormans,do,51.12,68.14,62.27
+europe_lau,Δωρός,doros,do,18.94,50.59,89.24
+europe_lau,Dolcourt,dolcourt,do,30.69,52.57,-20.22
+europe_lau,Dombasle-sur-Meurthe,dombasle_sur_meurthe,do,61.45,72.79,72.72
+europe_lau,Domèvre-en-Haye,domevre_en_haye,do,26.96,60.12,47.8
+europe_lau,Domèvre-sur-Vezouze,domevre_sur_vezouze,do,69.87,72.8,40.76
+europe_lau,Domgermain,domgermain,do,19.57,47.43,7.01
+europe_lau,Domjevin,domjevin,do,60.58,61.61,57.67
+europe_lau,Dommarie-Eulmont,dommarie_eulmont,do,46.77,69.1,88.96
+europe_lau,Dommartemont,dommartemont,do,52.83,78.87,68.31
+europe_lau,Donges,donges,do,42.24,56.29,45.24
+europe_lau,Doué-en-Anjou,doue_en_anjou,do,48.9,53.6,58.57
+europe_lau,Dommartin-la-Chaussée,dommartin_la_chaussee,do,44.56,60.17,44.37
+europe_lau,Dommartin-lès-Toul,dommartin_les_toul,do,44.01,64.15,-14.41
+europe_lau,Dommartin-sous-Amance,dommartin_sous_amance,do,45.32,65.34,77.89
+europe_lau,Domprix,domprix,do,46.08,59.68,44.26
+europe_lau,Domptail-en-l'Air,domptail_en_l_air,do,50.54,53.74,48.93
+europe_lau,Doncourt-lès-Conflans,doncourt_les_conflans,do,51.54,65.69,26.05
+europe_lau,Doncourt-lès-Longuyon,doncourt_les_longuyon,do,58.59,69.04,58.4
+europe_lau,Δωρά,dora,do,53.54,59.83,65.86
+europe_lau,Domaize,domaize,do,42.42,59.97,86.66
+europe_lau,Donnemain-Saint-Mamès,donnemain_saint_mames,do,38.87,52.15,-3.1
+europe_lau,Doranges,doranges,do,55.91,72.4,32.73
+europe_lau,Dorat,dorat,do,61.71,62.24,48.04
+europe_lau,Dore-l'Église,dore_l_eglise,do,67.09,78.88,61.62
+europe_lau,Doubice,doubice,do,49.18,71.07,50.51
+europe_lau,Dolany,dolany,do,31.42,55.57,43.15
+europe_lau,Dolving,dolving,do,59.75,70.9,59.19
+europe_lau,Domnom-lès-Dieuze,domnom_les_dieuze,do,58.51,73.53,50.72
+europe_lau,Donjeux,donjeux,do,68.51,73.02,44.8
+europe_lau,Donnelay,donnelay,do,65.31,76.37,35.23
+europe_lau,Domeyrat,domeyrat,do,53.5,63.25,21.13
+europe_lau,Domblain,domblain,do,67.28,71.44,77.62
+europe_lau,Dommarien,dommarien,do,50.07,67.55,1.31
+europe_lau,Dommartin-le-Franc,dommartin_le_franc,do,29.34,58.57,5.49
+europe_lau,Dommartin-le-Saint-Père,dommartin_le_saint_pere,do,34.45,45,68.78
+europe_lau,Domremy-Landéville,domremy_landeville,do,53.19,66.22,8.1
+europe_lau,Doncourt-sur-Meuse,doncourt_sur_meuse,do,39.44,61.31,66.89
+europe_lau,Donjeux,donjeux,do,50.21,55.07,71.62
+europe_lau,Doulaincourt-Saucourt,doulaincourt_saucourt,do,38.26,47.33,81.34
+europe_lau,Doulevant-le-Château,doulevant_le_chateau,do,35.14,63.38,-38.06
+europe_lau,Doulevant-le-Petit,doulevant_le_petit,do,16.55,48.65,-128.74
+europe_lau,Douelle,douelle,do,65.73,69.84,64.84
+europe_lau,Dompierre (VD),dompierre_vd,do,59.09,70.13,34.66
+europe_lau,Domjean,domjean,do,69.59,68.82,51.08
+europe_lau,Donville-les-Bains,donville_les_bains,do,48.15,63.84,30.65
+europe_lau,Doville,doville,do,40.06,51.77,32.2
+europe_lau,Donnery,donnery,do,57.91,63.65,47.86
+europe_lau,Dordives,dordives,do,42.32,50.54,56.79
+europe_lau,Douchy-Montcorbon,douchy_montcorbon,do,44.63,60.97,70.45
+europe_lau,Dolmayrac,dolmayrac,do,40.76,57.81,44.89
+europe_lau,Dondas,dondas,do,42.22,51.89,32.01
+europe_lau,Doudrac,doudrac,do,51.9,70.64,29.2
+europe_lau,Douzains,douzains,do,44.32,72.81,-24.86
+europe_lau,Douadic,douadic,do,55.7,67.87,46.55
+europe_lau,Doissin,doissin,do,49.07,64.29,73.59
+europe_lau,Dolomieu,dolomieu,do,36.62,55.58,-6.52
+europe_lau,Domarin,domarin,do,54.73,73.43,33.96
+europe_lau,Domène,domene,do,53.23,71.08,43.58
+europe_lau,Donzère,donzere,do,45.81,61.23,62.73
+europe_lau,Douzat,douzat,do,53.29,64.17,62.69
+europe_lau,Dozwil,dozwil,do,44.41,69.45,44.33
+europe_lau,Dol-de-Bretagne,dol_de_bretagne,do,59.13,59.6,47.68
+europe_lau,Domagné,domagne,do,49.95,60.83,46.38
+europe_lau,Domalain,domalain,do,34.77,57.39,81.8
+europe_lau,Domloup,domloup,do,44.08,63.06,89.71
+europe_lau,Dourdain,dourdain,do,51.2,69.23,63.42
+europe_lau,Donneloye,donneloye,do,40.09,47.28,69.18
+europe_lau,Donnezac,donnezac,do,51.65,64.7,85.4
+europe_lau,Donzac,donzac,do,40.57,74.71,34.4
+europe_lau,Doulezon,doulezon,do,44.67,60.17,54.63
+europe_lau,Domazan,domazan,do,41.16,57.04,92.18
+europe_lau,Domessargues,domessargues,do,49.11,69.13,67.54
+europe_lau,Dourbies,dourbies,do,30.98,42.67,-1.39
+europe_lau,Donneville,donneville,do,59.71,76.19,55.25
+europe_lau,Dolus-le-Sec,dolus_le_sec,do,51.69,69.55,87.48
+europe_lau,Dole,dole,do,35.75,58.08,92.05
+europe_lau,Domblans,domblans,do,30.44,44.76,99.81
+europe_lau,Dompierre-sur-Mont,dompierre_sur_mont,do,56.4,67.57,81.48
+europe_lau,Doucier,doucier,do,30.07,40.59,16.86
+europe_lau,Dournon,dournon,do,53.73,74.18,18.32
+europe_lau,Doye,doye,do,40.65,64.13,84.19
+europe_lau,Domeyrot,domeyrot,do,46.71,65.37,41.58
+europe_lau,Dontreix,dontreix,do,63.05,74.11,61.02
+europe_lau,Dompierre-en-Morvan,dompierre_en_morvan,do,50.63,61.18,68
+europe_lau,Doazit,doazit,do,47.79,62.45,15.83
+europe_lau,Donzacq,donzacq,do,49.52,55.52,53.71
+europe_lau,Douarnenez,douarnenez,do,39.76,64.2,35.79
+europe_lau,Dourdan,dourdan,do,41.22,58.76,29.73
+europe_lau,Dollot,dollot,do,55.17,71.86,34.89
+europe_lau,Domats,domats,do,62.55,71.26,51.03
+europe_lau,Domecy-sur-Cure,domecy_sur_cure,do,60.55,69.03,68.2
+europe_lau,Domecy-sur-le-Vault,domecy_sur_le_vault,do,64.26,90.77,67.61
+europe_lau,Dobříš,dobris,do,31.34,40.98,75.17
+europe_lau,Dolní Hbity,dolni_hbity,do,41.68,52.54,9.66
+europe_lau,Donji Miholjac,donji_miholjac,do,49.29,55.17,28.35
+europe_lau,Donji Vidovec,donji_vidovec,do,40.64,61.42,98.28
+europe_lau,Dolní Rychnov,dolni_rychnov,do,57.03,72.37,18.15
+europe_lau,Doux,doux,do,51.74,71.95,66.28
+europe_lau,Doingt,doingt,do,55.58,66.24,36.77
+europe_lau,Domart-en-Ponthieu,domart_en_ponthieu,do,45.27,65.46,31.21
+europe_lau,Dobšice,dobsice,do,35.36,56.72,69.13
+europe_lau,Domart-sur-la-Luce,domart_sur_la_luce,do,34.75,54.45,83.47
+europe_lau,Domesmont,domesmont,do,55.83,71.74,81.23
+europe_lau,Dominois,dominois,do,54.93,65.44,28.48
+europe_lau,Domléger-Longvillers,domleger_longvillers,do,31.87,53.09,93.53
+europe_lau,Dommartin,dommartin,do,50.27,67.06,73.34
+europe_lau,Dompierre-Becquincourt,dompierre_becquincourt,do,75.51,75.62,59.91
+europe_lau,Dompierre-sur-Authie,dompierre_sur_authie,do,40.37,64.14,82.76
+europe_lau,Domqueur,domqueur,do,52.8,60.6,71.39
+europe_lau,Dorres,dorres,do,38.34,60.11,98.68
+europe_lau,Dobrovíz,dobroviz,do,41.91,47.75,44.79
+europe_lau,Dobříč,dobric,do,42.08,66.08,98.02
+europe_lau,Dobřichovice,dobrichovice,do,38.65,58.27,90.22
+europe_lau,Dolany nad Vltavou,dolany_nad_vltavou,do,44.36,54.95,20.68
+europe_lau,Dompierre-les-Églises,dompierre_les_eglises,do,45.05,62.35,62.24
+europe_lau,Domps,domps,do,41.93,52.1,30.56
+europe_lau,Dournazac,dournazac,do,44.64,59.15,34.44
+europe_lau,Dolní Břežany,dolni_brezany,do,39.11,59.31,-21.86
+europe_lau,Dours,dours,do,32.28,74.3,81.2
+europe_lau,Domvast,domvast,do,44.15,54.42,26.66
+europe_lau,Doudelainville,doudelainville,do,62.79,71.14,34.77
+europe_lau,Douilly,douilly,do,66.47,69.55,43.16
+europe_lau,Doullens,doullens,do,31.59,48.01,89.95
+europe_lau,Dobrá Voda u Českých Budějovic,dobra_voda_u_ceskych_budejovic,do,43.7,72.72,42.44
+europe_lau,Dobrinj,dobrinj,do,55.26,60.3,67.15
+europe_lau,Domašinec,domasinec,do,61.09,62.77,37.56
+europe_lau,Donja Dubrava,donja_dubrava,do,50.03,72.16,57.18
+europe_lau,Donja Stubica,donja_stubica,do,38.32,53.34,87.23
+europe_lau,Donja Voća,donja_voca,do,45.25,68.67,54.42
+europe_lau,Donji Andrijevci,donji_andrijevci,do,47.46,67.05,79.88
+europe_lau,Donji Kraljevec,donji_kraljevec,do,49.18,55.93,20.36
+europe_lau,Donji Kukuruzari,donji_kukuruzari,do,59.61,68.15,49.08
+europe_lau,Donji Lapac,donji_lapac,do,30.26,58.98,88.63
+europe_lau,Dobřejovice,dobrejovice,do,56.96,67.7,33.83
+europe_lau,Doudeauville,doudeauville,do,38.45,73.6,46.62
+europe_lau,Doudeville,doudeville,do,53.13,67.78,70.96
+europe_lau,Douvrend,douvrend,do,63.17,73.28,64.27
+europe_lau,Dolce,dolce,do,45.37,66.23,3.74
+europe_lau,Domont,domont,do,55.84,74.44,41.53
+europe_lau,Doussay,doussay,do,42.04,53.5,41.74
+europe_lau,Donnazac,donnazac,do,70.35,73.54,52.12
+europe_lau,Dourgne,dourgne,do,34.85,57.65,94.88
+europe_lau,Dobřeň,dobren,do,45.73,56.44,77.86
+europe_lau,Docelles,docelles,do,45.12,67.35,92.99
+europe_lau,Dogneville,dogneville,do,49.95,64.38,83.85
+europe_lau,Dolaincourt,dolaincourt,do,57,77.43,25.86
+europe_lau,Dombasle-devant-Darney,dombasle_devant_darney,do,58.42,73.14,34.83
+europe_lau,Dombasle-en-Xaintois,dombasle_en_xaintois,do,28.87,59.56,88.87
+europe_lau,Dombrot-le-Sec,dombrot_le_sec,do,50.21,70.84,18.22
+europe_lau,Dombrot-sur-Vair,dombrot_sur_vair,do,35.26,50.83,45.32
+europe_lau,Domèvre-sur-Avière,domevre_sur_aviere,do,53.04,68.32,46.02
+europe_lau,Domèvre-sur-Durbion,domevre_sur_durbion,do,49.84,58.2,65.54
+europe_lau,Domèvre-sous-Montfort,domevre_sous_montfort,do,32.6,63.46,86.84
+europe_lau,Domfaing,domfaing,do,30.32,53.58,91.06
+europe_lau,Domjulien,domjulien,do,54.4,62.06,39.14
+europe_lau,Dommartin-aux-Bois,dommartin_aux_bois,do,34.41,64.66,97.48
+europe_lau,Dommartin-lès-Remiremont,dommartin_les_remiremont,do,41.91,49.81,26.75
+europe_lau,Dommartin-lès-Vallois,dommartin_les_vallois,do,49.33,71.73,91.8
+europe_lau,Dommartin-sur-Vraine,dommartin_sur_vraine,do,60.56,69.12,32.69
+europe_lau,Dompaire,dompaire,do,54.18,74.1,84.47
+europe_lau,Dompierre,dompierre,do,62.19,77.03,86.25
+europe_lau,Domptail,domptail,do,61.85,74.18,83.54
+europe_lau,Domrémy-la-Pucelle,domremy_la_pucelle,do,51.83,62.76,24.42
+europe_lau,Domvallier,domvallier,do,30.53,62.16,95.24
+europe_lau,Doncières,doncieres,do,51.77,66.18,89.19
+europe_lau,Dounoux,dounoux,do,25.82,57.06,98.24
+europe_lau,Dorans,dorans,do,42.85,53.12,49.75
+europe_lau,Dommartin,dommartin,do,51.85,71.73,36.7
+europe_lau,Dommartin-lès-Cuiseaux,dommartin_les_cuiseaux,do,57.9,67.48,77.77
+europe_lau,Dompierre-les-Ormes,dompierre_les_ormes,do,45.52,61.73,50.03
+europe_lau,Dompierre-sous-Sanvignes,dompierre_sous_sanvignes,do,57.1,66.48,85.48
+europe_lau,Donzy-le-Pertuis,donzy_le_pertuis,do,45.58,59.93,40.82
+europe_lau,Donnerskirchen,donnerskirchen,do,20.84,37.08,-27.14
+europe_lau,Domessin,domessin,do,50.52,60.9,49.08
+europe_lau,Doucy-en-Bauges,doucy_en_bauges,do,53.71,75.83,96.06
+europe_lau,Dolní Pohleď,dolni_pohled,do,46.81,73.21,-13.05
+europe_lau,Doazon,doazon,do,31.13,63.7,83.57
+europe_lau,Dognen,dognen,do,27.41,50.65,95.89
+europe_lau,Domezain-Berraute,domezain_berraute,do,38.28,65.27,93.26
+europe_lau,Doumy,doumy,do,39.26,53.02,81.48
+europe_lau,Dobrčice,dobrcice,do,19.74,56.13,-96.63
+europe_lau,Dolany,dolany,do,56.65,70.02,66.99
+europe_lau,Doupovské Hradiště,doupovske_hradiste,do,30.48,68.92,93.09
+europe_lau,Doignies,doignies,do,44.36,61.72,89.57
+europe_lau,Dompierre-sur-Helpe,dompierre_sur_helpe,do,32.4,56.77,79.57
+europe_lau,Douai,douai,do,33.89,44.09,53.91
+europe_lau,Douchy-les-Mines,douchy_les_mines,do,62.3,69.09,45.59
+europe_lau,Dourlers,dourlers,do,44.88,51.83,48.12
+europe_lau,Doksy,doksy,do,61.43,75.92,27.39
+europe_lau,Dorfstetten,dorfstetten,do,54.57,62.4,82.28
+europe_lau,Dommartin,dommartin,do,36.5,63.66,99.97
+europe_lau,Dompierre-sur-Nièvre,dompierre_sur_nievre,do,61.12,62.98,55.4
+europe_lau,Donzy,donzy,do,42.79,57.55,39.69
+europe_lau,Dornecy,dornecy,do,53.44,72.92,39.93
+europe_lau,Dornes,dornes,do,75.61,76.06,50.37
+europe_lau,Dománovice,domanovice,do,46.91,61.49,5.59
+europe_lau,Dolní Újezd,dolni_ujezd,do,31.57,43.47,63.89
+europe_lau,Dolní Beřkovice,dolni_berkovice,do,34.93,51.34,48.41
+europe_lau,Donnemarie-Dontilly,donnemarie_dontilly,do,34.23,50.35,74.87
+europe_lau,Dormelles,dormelles,do,45.89,58.4,73.39
+europe_lau,Doue,doue,do,47.13,58.38,20.47
+europe_lau,Douy-la-Ramée,douy_la_ramee,do,52.5,62,59.13
+europe_lau,Dolní Bezděkov,dolni_bezdekov,do,44.67,66.37,39.05
+europe_lau,Doméliers,domeliers,do,54.48,77.99,96.53
+europe_lau,Domfront,domfront,do,52.18,69.3,52.35
+europe_lau,Dompierre,dompierre,do,36.18,56.95,92.26
+europe_lau,Domaželice,domazelice,do,35.46,47.21,77.59
+europe_lau,Douaumont-Vaux,douaumont_vaux,do,41.12,56.34,37.55
+europe_lau,Dombasle-en-Argonne,dombasle_en_argonne,do,60.64,73.88,72.97
+europe_lau,Dombras,dombras,do,45.14,56.87,92.05
+europe_lau,Dommartin-la-Montagne,dommartin_la_montagne,do,43.78,67.68,26.76
+europe_lau,Dommary-Baroncourt,dommary_baroncourt,do,27.8,46.09,95.21
+europe_lau,Dompcevrin,dompcevrin,do,42.86,69.42,6.98
+europe_lau,Dompierre-aux-Bois,dompierre_aux_bois,do,57.78,63.97,48.53
+europe_lau,Domremy-la-Canne,domremy_la_canne,do,66.44,81.54,79.99
+europe_lau,Doncourt-aux-Templiers,doncourt_aux_templiers,do,42.77,72.86,35.23
+europe_lau,Doulcon,doulcon,do,69.84,72.91,32.98
+europe_lau,Dolní Lomná,dolni_lomna,do,40.38,47.15,28.34
+europe_lau,Dobřichov,dobrichov,do,30.47,44.71,82.43
+europe_lau,Dolní Chvatliny,dolni_chvatliny,do,43.09,56.53,13.51
+europe_lau,Doubravčice,doubravcice,do,40.88,55.11,11.72
+europe_lau,Doubravice,doubravice,do,44.57,66.3,4.31
+europe_lau,Dobrovice,dobrovice,do,37.9,43.59,43.94
+europe_lau,Dolní Bousov,dolni_bousov,do,34.53,62.33,98.36
+europe_lau,Dolní Krupá,dolni_krupa,do,48.56,75.6,38.59
+europe_lau,Domfront en Poiraie,domfront_en_poiraie,do,36.47,61.96,-37.81
+europe_lau,Dompierre,dompierre,do,55.37,69.11,26.81
+europe_lau,Doňov,donov,do,62.08,69.04,68.47
+europe_lau,Dolní Slivno,dolni_slivno,do,40.47,49.09,61.26
+europe_lau,Dobrovítov,dobrovitov,do,68.65,76.26,56.87
+europe_lau,Dolní Zimoř,dolni_zimor,do,45.66,61.19,32.19
+europe_lau,Dohem,dohem,do,30,58.96,47.59
+europe_lau,Douchy-lès-Ayette,douchy_les_ayette,do,44.05,61.68,31.74
+europe_lau,Doudeauville,doudeauville,do,33.9,52.92,-25.21
+europe_lau,Dourges,dourges,do,47.66,67.29,57.57
+europe_lau,Douriez,douriez,do,55.51,67.44,62.27
+europe_lau,Douvrin,douvrin,do,54.6,63.98,57.27
+europe_lau,Domousnice,domousnice,do,42.36,54.29,51.15
+europe_lau,Domancy,domancy,do,41.41,70.3,0.4
+europe_lau,Doussard,doussard,do,17.27,41.05,84.85
+europe_lau,Douvaine,douvaine,do,60.99,70.61,52.61
+europe_lau,Dolní Kralovice,dolni_kralovice,do,50.24,51.44,49.87
+europe_lau,Don,don,do,37.59,79.43,51.29
+europe_lau,Domfessel,domfessel,do,52.65,66.05,48.2
+europe_lau,Donnenheim,donnenheim,do,40.18,60.56,14.9
+europe_lau,Dorlisheim,dorlisheim,do,37.32,78.99,-83.16
+europe_lau,Dossenheim-Kochersberg,dossenheim_kochersberg,do,50.18,67.04,57.47
+europe_lau,Dossenheim-sur-Zinsel,dossenheim_sur_zinsel,do,39.09,49.91,43.05
+europe_lau,Dolleren,dolleren,do,41.63,60.62,64.66
+europe_lau,Dollon,dollon,do,40.66,72.44,22.02
+europe_lau,Domfront-en-Champagne,domfront_en_champagne,do,48.05,59.34,20.92
+europe_lau,Doucelles,doucelles,do,48.97,68.08,31.88
+europe_lau,Douillet,douillet,do,48.14,65.91,17.39
+europe_lau,Dolní Benešov,dolni_benesov,do,51.08,74.57,-11.24
+europe_lau,Dolní Lhota,dolni_lhota,do,56.02,70.21,26.87
+europe_lau,Dobršín,dobrsin,do,55.98,65.52,39.09
+europe_lau,Dobromierz,dobromierz,do,38.38,63.24,92.82
+europe_lau,Dobroszyce,dobroszyce,do,56.03,60.14,71.19
+europe_lau,Domaniów,domaniow,do,43.66,59.45,86.74
+europe_lau,Dobříč,dobric,do,27.32,54.02,-75.24
+europe_lau,Dolany,dolany,do,54.95,67.89,44.14
+europe_lau,Dolní Bělá,dolni_bela,do,33.1,52.82,86.95
+europe_lau,Dobratice,dobratice,do,67.9,68.95,64.03
+europe_lau,Dorno,dorno,do,49.57,57.19,49.29
+europe_lau,Doksy,doksy,do,35.07,44.89,88.39
+europe_lau,Dolsk,dolsk,do,64.73,68.12,51.67
+europe_lau,Dolní Hradiště,dolni_hradiste,do,46.66,62.77,16.48
+europe_lau,Dolní Životice,dolni_zivotice,do,38.89,58.02,56.64
+europe_lau,Dogna,dogna,do,33.55,67.71,-79.09
+europe_lau,Dobra,dobra,do,54.22,58.95,36.16
+europe_lau,Domodossola,domodossola,do,28.21,44.46,76.14
+europe_lau,Dolany,dolany,do,46.38,68.09,80.97
+europe_lau,Domaszowice,domaszowice,do,58.09,62.46,72.87
+europe_lau,Dolní Nivy,dolni_nivy,do,34.02,48.65,-11.58
+europe_lau,Dobrodzień,dobrodzien,do,46.22,54.63,67.28
+europe_lau,Domegge di Cadore,domegge_di_cadore,do,28.08,56.96,81.43
+europe_lau,Dobrzeń Wielki,dobrzen_wielki,do,49.12,56.5,55.67
+europe_lau,Dobrzyniewo Duże,dobrzyniewo_duze,do,59.13,60.56,62.79
+europe_lau,Dobra (Szczecińska),dobra_szczecinska,do,30.76,68.35,98.5
+europe_lau,Dobrzany,dobrzany,do,55.1,59.45,42.5
+europe_lau,Dolice,dolice,do,50.23,60.91,61.91
+europe_lau,Domicella,domicella,do,32.07,40.26,50.71
+europe_lau,Dolní Žandov,dolni_zandov,do,56.63,62.57,29.31
+europe_lau,Dobrcz,dobrcz,do,48.86,62.54,63.95
+europe_lau,Dolní Hořice,dolni_horice,do,44.88,60.68,66.28
+europe_lau,Dovera,dovera,do,70.82,73.38,71.54
+europe_lau,Doberdò del Lago-Doberdob,doberdo_del_lago_doberdob,do,40.26,51.31,83.23
+europe_lau,Dolegna del Collio,dolegna_del_collio,do,26.49,53.9,93.12
+europe_lau,Dobre,dobre,do,63.03,64.28,52.39
+europe_lau,Domašov u Šternberka,domasov_u_sternberka,do,53.66,60.54,84.8
+europe_lau,Dogliola,dogliola,do,47.89,66.16,70.06
+europe_lau,Doubravice,doubravice,do,43.02,61.69,12.06
+europe_lau,Dovadola,dovadola,do,43.91,62.21,94.14
+europe_lau,Dolánky nad Ohří,dolanky_nad_ohri,do,41.69,52.7,46.57
+europe_lau,Dolianova,dolianova,do,49.63,59.68,64.38
+europe_lau,Domus de Maria,domus_de_maria,do,31.91,62.28,86.84
+europe_lau,Domusnovas,domusnovas,do,41.45,60.03,86.67
+europe_lau,Donori,donori,do,57.97,72.46,21.71
+europe_lau,Dobrzyń nad Wisłą,dobrzyn_nad_wisla,do,41.18,59.06,-16.42
+europe_lau,Dobre,dobre,do,55.21,64.97,16.51
+europe_lau,Dobev,dobev,do,48.17,72.74,12.4
+europe_lau,Dolo,dolo,do,36.86,56.56,39.69
+europe_lau,Dønna,donna,do,27.56,45.48,89.25
+europe_lau,Dolcè,dolce,do,10.04,44.49,99.05
+europe_lau,Domaradz,domaradz,do,37.06,46.66,27.08
+europe_lau,Dobra,dobra,do,58.54,66.7,62.35
+europe_lau,Dobřív,dobriv,do,36.74,53.37,28.14
+europe_lau,Dolní Hrachovice,dolni_hrachovice,do,38.72,70.59,9.41
+europe_lau,Dovre,dovre,do,49.54,59.99,62.43
+europe_lau,Dobrá Voda u Pacova,dobra_voda_u_pacova,do,58.52,77.79,33.25
+europe_lau,Dolní Studénky,dolni_studenky,do,54.93,73.83,54.25
+europe_lau,Dolní Těšice,dolni_tesice,do,50,76.93,82.55
+europe_lau,Domažlice,domazlice,do,52.57,54.85,52.17
+europe_lau,Dopiewo,dopiewo,do,56.36,61.9,51.66
+europe_lau,Dobersberg,dobersberg,do,35.71,47.27,89.7
+europe_lau,Dominowo,dominowo,do,38.64,53.48,44.82
+europe_lau,Döbörhegy,doborhegy,do,27.73,61.87,80.86
+europe_lau,Donegal,donegal,do,26.76,42.82,-37.53
+europe_lau,Döbrököz,dobrokoz,do,51.02,61.98,68.53
+europe_lau,Dolní Bečva,dolni_becva,do,58.22,71.6,33.72
+europe_lau,Döröske,doroske,do,38.79,55.34,80.86
+europe_lau,Dötk,dotk,do,39.24,63.38,98.29
+europe_lau,Dozmat,dozmat,do,25.62,47.58,66
+europe_lau,Dóc,doc,do,48.79,60.25,21.5
+europe_lau,Dobronice u Bechyně,dobronice_u_bechyne,do,38.11,76.69,-56.17
+europe_lau,Dogliani,dogliani,do,58.49,62.01,43.27
+europe_lau,Domoszló,domoszlo,do,35.73,69.47,92.02
+europe_lau,Dombóvár,dombovar,do,41.11,49.27,86.09
+europe_lau,Döbröce,dobroce,do,21.11,51.19,72.23
+europe_lau,Doix lès Fontaines,doix_les_fontaines,do,37.1,55.5,99.57
+europe_lau,Dompierre-sur-Yon,dompierre_sur_yon,do,30.43,50.94,70.94
+europe_lau,Döge,doge,do,34.32,44.28,62.11
+europe_lau,Doues,doues,do,27.73,52.96,92.94
+europe_lau,Donzac,donzac,do,32.46,53.57,97.83
+europe_lau,Dör,dor,do,37.83,72.61,81.03
+europe_lau,Domaszék,domaszek,do,51.91,60.62,47.22
+europe_lau,Dombiratos,dombiratos,do,50.43,68.43,85.73
+europe_lau,Domaso,domaso,do,36.7,54.7,17.46
+europe_lau,Dongo,dongo,do,30.37,48.53,-3.49
+europe_lau,Dosso del Liro,dosso_del_liro,do,35.49,50.34,77.09
+europe_lau,Domony,domony,do,58.42,77.19,54.37
+europe_lau,Dolceacqua,dolceacqua,do,30.85,52.48,58.27
+europe_lau,Dolcedo,dolcedo,do,47.26,73.22,-20.68
+europe_lau,Dobšice,dobsice,do,51.89,67.37,45.61
+europe_lau,Dobronhegy,dobronhegy,do,45.35,62.62,57.54
+europe_lau,Domašov nad Bystřicí,domasov_nad_bystrici,do,44.97,63.25,68.2
+europe_lau,Dobrná,dobrna,do,36.55,59.22,-5.14
+europe_lau,Dombegyház,dombegyhaz,do,60.72,62,58.96
+europe_lau,Dozza,dozza,do,29.35,49.58,82.47
+europe_lau,Doboz,doboz,do,62.39,71.88,49.58
+europe_lau,Dolní Bukovsko,dolni_bukovsko,do,68.83,76.65,51.46
+europe_lau,Dombrád,dombrad,do,43.71,62.31,43.91
+europe_lau,Doudleby,doudleby,do,54.11,61.39,63.3
+europe_lau,Domanico,domanico,do,48.95,57.42,69.16
+europe_lau,Dosolo,dosolo,do,29.67,57.75,84.9
+europe_lau,Dorog,dorog,do,50.34,68.57,52.83
+europe_lau,Dorogháza,doroghaza,do,43.85,58.55,90.48
+europe_lau,Dolní Habartice,dolni_habartice,do,34.54,62.97,65.72
+europe_lau,Döbrönte,dobronte,do,35.37,57.36,77.45
+europe_lau,Dobbiaco/Toblach,dobbiaco_toblach,do,29.84,43.83,92.68
+europe_lau,Donaghmede,donaghmede,do,41.4,55.89,41.75
+europe_lau,Dobroměřice,dobromerice,do,48.24,65.8,94.03
+europe_lau,Dolní Sokolovec,dolni_sokolovec,do,38.42,61.12,91.06
+europe_lau,Donja Motičina,donja_moticina,do,35.59,63.74,41.48
+europe_lau,Dövény,doveny,do,41.66,66.69,54.5
+europe_lau,Dörgicse,dorgicse,do,58.26,67.11,29.52
+europe_lau,Dolní Tošanovice,dolni_tosanovice,do,29.37,51.56,89
+europe_lau,Doba,doba,do,23.26,46.88,54.19
+europe_lau,Dormelletto,dormelletto,do,62.37,68.86,72.74
+europe_lau,Dömsöd,domsod,do,49.88,60.7,69.79
+europe_lau,Dormánd,dormand,do,41.4,50.26,27.6
+europe_lau,Dömös,domos,do,37.75,60.28,98.13
+europe_lau,Dobšice,dobsice,do,28,52.89,-27.53
+europe_lau,Dolní Dvořiště,dolni_dvoriste,do,36.47,47.72,10.7
+europe_lau,Dolní Třebonín,dolni_trebonin,do,31.78,46.59,54.37
+europe_lau,Domaháza,domahaza,do,59.6,66.9,65.31
+europe_lau,Dobri,dobri,do,21.42,50.38,37.75
+europe_lau,Dolný Ohaj,dolny_ohaj,do,56.84,67.15,26.68
+europe_lau,Dolný Vadičov,dolny_vadicov,do,40,70.26,31.26
+europe_lau,Dolná Tižina,dolna_tizina,do,25.97,64.76,-11.07
+europe_lau,Dolný Hričov,dolny_hricov,do,31.67,58.57,-25.44
+europe_lau,Dolný Lieskov,dolny_lieskov,do,37.57,44.86,82.97
+europe_lau,Dolné Saliby,dolne_saliby,do,35.81,56.23,99.73
+europe_lau,Dolany,dolany,do,73.7,69.97,44.64
+europe_lau,Dolní Radechová,dolni_radechova,do,59.3,77.53,68.77
+europe_lau,Dolná Streda,dolna_streda,do,57.53,76.64,49.09
+europe_lau,Dolný Kubín,dolny_kubin,do,33.1,54.25,78
+europe_lau,Domanice,domanice,do,36.26,51.27,39.58
+europe_lau,Dobrá Voda,dobra_voda,do,42.78,63.53,98.49
+europe_lau,Doloplazy,doloplazy,do,47.27,70.69,36.95
+europe_lau,Doubrava,doubrava,do,53.31,73.34,53.71
+europe_lau,Doljevac,doljevac,do,55.7,73.55,78.81
+europe_lau,Dolné Zelenice,dolne_zelenice,do,33.82,56.49,76.75
+europe_lau,Dolné Lovčice,dolne_lovcice,do,21.91,55.49,0.84
+europe_lau,Dolné Kočkovce,dolne_kockovce,do,27.99,80.26,-46.41
+europe_lau,Dohňany,dohnany,do,30.71,56.76,95.92
+europe_lau,Dolná Breznica,dolna_breznica,do,48.67,73.13,94.64
+europe_lau,Dolná Mariková,dolna_marikova,do,37.89,44.76,37.77
+europe_lau,Domaniža,domaniza,do,49.24,60.6,84.89
+europe_lau,Dobroslava,dobroslava,do,50.47,66.58,86.99
+europe_lau,Doubravička,doubravicka,do,45.96,72.31,48.01
+europe_lau,Dolný Chotár,dolny_chotar,do,29.13,51.26,93.04
+europe_lau,Dolné Lefantovce,dolne_lefantovce,do,49.32,61.9,83.03
+europe_lau,Dobšín,dobsin,do,61.43,75.99,47.04
+europe_lau,Dobrá Niva,dobra_niva,do,34.04,61.59,-41.49
+europe_lau,Dolné Mladonice,dolne_mladonice,do,15.8,45.05,88.99
+europe_lau,Dolný Badín,dolny_badin,do,45.89,68.08,7.47
+europe_lau,Domaníky,domaniky,do,45.03,61.37,55.7
+europe_lau,Dobje,dobje,do,62.66,65.36,53.69
+europe_lau,Dobrna,dobrna,do,56,66.07,84.37
+europe_lau,Dobrovnik/Dobronak,dobrovnik_dobronak,do,53.72,68.97,77.99
+europe_lau,Dolenjske Toplice,dolenjske_toplice,do,44.78,61.94,87.39
+europe_lau,Dojč,dojc,do,52.34,72.08,34.6
+europe_lau,Dobârceni,dobarceni,do,37.29,62.06,33.49
+europe_lau,Dorobanţi,dorobanti,do,49.33,65.5,63.92
+europe_lau,Dobromir,dobromir,do,49.6,61.1,18.7
+europe_lau,Dolní Zálezly,dolni_zalezly,do,19.57,38.24,43.47
+europe_lau,Dobkovice,dobkovice,do,39.75,54.02,64.49
+europe_lau,Dobârlău,dobarlau,do,39.34,65.14,-6.27
+europe_lau,Dolné Vestenice,dolne_vestenice,do,54.44,68.37,87.4
+europe_lau,Dolné Zahorany,dolne_zahorany,do,53.24,68.67,10.08
+europe_lau,Dobroslavice,dobroslavice,do,52.62,60.71,25.13
+europe_lau,Dobrohošť,dobrohost,do,44.63,66.81,3.11
+europe_lau,Dolní Podluží,dolni_podluzi,do,42.82,58.03,88.48
+europe_lau,Dolní Poustevna,dolni_poustevna,do,59,70.93,46.01
+europe_lau,Dobrá,dobra,do,43.02,53.05,86.43
+europe_lau,Dolné Obdokovce,dolne_obdokovce,do,42.15,55.08,17.47
+europe_lau,Dobřenice,dobrenice,do,56.86,83.42,80.35
+europe_lau,Dobroč,dobroc,do,29.99,63.34,87.79
+europe_lau,Doiceşti,doicesti,do,48.15,69.66,85.36
+europe_lau,Dobroieşti,dobroiesti,do,32.31,55.3,59.3
+europe_lau,Dolní Pěna,dolni_pena,do,62.78,72.31,51.35
+europe_lau,Dobra,dobra,do,35.68,46.81,83.44
+europe_lau,Dolní Krupá,dolni_krupa,do,50.47,65.04,53.62
+europe_lau,Dolní Město,dolni_mesto,do,41.52,62.72,-18.34
+europe_lau,Dobra,dobra,do,54.53,60.65,49.19
+europe_lau,Dohalice,dohalice,do,65.41,78,35.48
+europe_lau,Dolní Přím,dolni_prim,do,48.5,65.38,41.61
+europe_lau,Dolná Poruba,dolna_poruba,do,59.67,76.51,43.88
+europe_lau,Dolná Súča,dolna_suca,do,39.31,44.34,52.79
+europe_lau,Dolné Srnie,dolne_srnie,do,59.62,69.15,58.12
+europe_lau,Dossãos,dossaos,do,56.89,66.23,42.32
+europe_lau,Dobrohošť,dobrohost,do,34.02,60.68,96.63
+europe_lau,Dolný Bar,dolny_bar,do,37.74,55.63,10.08
+europe_lau,Dolný Štál,dolny_stal,do,49.07,53.37,40.22
+europe_lau,Doştat,dostat,do,44.12,60.96,64.52
+europe_lau,Dolný Kalník,dolny_kalnik,do,31.94,49.64,6.84
+europe_lau,Dofteana,dofteana,do,27.46,62.96,55.51
+europe_lau,Doba,doba,do,26.26,54.18,-14.38
+europe_lau,Dorolţ,dorolt,do,43.27,47.71,66.49
+europe_lau,Dobreşti,dobresti,do,51.73,64.18,66.07
+europe_lau,Dolinka,dolinka,do,22.93,49.77,90.34
+europe_lau,Dolná Strehová,dolna_strehova,do,56.26,56.22,64.31
+europe_lau,Dolné Plachtince,dolne_plachtince,do,38.94,55.52,92.87
+europe_lau,Dolné Strháre,dolne_strhare,do,30.9,44.89,96.1
+europe_lau,Dolní Stakory,dolni_stakory,do,42.15,60.14,75.28
+europe_lau,Dor Mărunt,dor_marunt,do,61.29,67.52,38.74
+europe_lau,Dorobanţu,dorobantu,do,26.36,50.08,88.15
+europe_lau,Dobrá Voda,dobra_voda,do,49.56,64.73,85.11
+europe_lau,Dolná Krupá,dolna_krupa,do,39.37,66.2,85.42
+europe_lau,Dolné Dubové,dolne_dubove,do,52.18,84.13,71.15
+europe_lau,Dolné Orešany,dolne_oresany,do,27.19,51.57,-50.51
+europe_lau,Dolné Otrokovce,dolne_otrokovce,do,46.99,68.59,63.68
+europe_lau,Dolné Trhovište,dolne_trhoviste,do,33.07,53.67,-10.62
+europe_lau,Dolný Lopašov,dolny_lopasov,do,16.55,60.21,84.87
+europe_lau,Dolní Nětčice,dolni_netcice,do,54.52,68.33,50.63
+europe_lau,Dorotea,dorotea,do,15.71,57.64,62.81
+europe_lau,Dobrepolje,dobrepolje,do,26.9,50.99,68.9
+europe_lau,Dobrova - Polhov Gradec,dobrova_polhov_gradec,do,38.62,61.14,-25.48
+europe_lau,Dol pri Ljubljani,dol_pri_ljubljani,do,27.39,53.42,-88.84
+europe_lau,Domžale,domzale,do,50.75,61.5,79.63
+europe_lau,Dornava,dornava,do,37.9,56.71,63.98
+europe_lau,Dobšiná,dobsina,do,37.15,65.9,-5.56
+europe_lau,Dolné Naštice,dolne_nastice,do,41.28,63.73,14.24
+europe_lau,Dolná Seč,dolna_sec,do,45.12,62.17,17.75
+europe_lau,Dolné Semerovce,dolne_semerovce,do,33.99,54.7,51.39
+europe_lau,Dolný Pial,dolny_pial,do,39.22,59.22,38.48
+europe_lau,Domadice,domadice,do,37.31,64.74,98.47
+europe_lau,Doľany (okres Pezinok),dolany_okres_pezinok,do,27.9,54.89,7.44
+europe_lau,Dobreşti,dobresti,do,48.74,59.31,41.81
+europe_lau,Dolná Lehota,dolna_lehota,do,36.99,64.06,93.98
+europe_lau,Dolná Mičiná,dolna_micina,do,45.93,53.18,52.44
+europe_lau,Dolný Harmanec,dolny_harmanec,do,50.41,67.4,93.15
+europe_lau,Donovaly,donovaly,do,65.87,79.8,49.38
+europe_lau,Doclin,doclin,do,58.72,64.2,40.59
+europe_lau,Dognecea,dognecea,do,40.69,68.24,91.36
+europe_lau,Domaşnea,domasnea,do,62.4,74.4,64.06
+europe_lau,Dobroteşti,dobrotesti,do,38.69,65.95,97.56
+europe_lau,Dolná Trnávka,dolna_trnavka,do,50.92,69.44,89.75
+europe_lau,Dolná Ves,dolna_ves,do,19.33,63.19,-14.69
+europe_lau,Dolná Ždaňa,dolna_zdana,do,41.11,65.38,-38.5
+europe_lau,Dobrovăţ,dobrovat,do,23.52,58.49,71.88
+europe_lau,Dolheşti,dolhesti,do,38.78,59.97,96.07
+europe_lau,Dobrá Voda u Hořic,dobra_voda_u_horic,do,44.69,70.54,-21.74
+europe_lau,Doľany (okres Levoča),dolany_okres_levoca,do,34.72,71.63,94.06
+europe_lau,Domaňovce,domanovce,do,56.55,73.34,17.97
+europe_lau,Dolní Řasnice,dolni_rasnice,do,54.04,73.92,76.08
+europe_lau,Dordrecht,dordrecht,do,27.29,50.45,6.46
+europe_lau,Dolheşti,dolhesti,do,53.12,66.11,84.03
+europe_lau,Dorna-Arini,dorna_arini,do,43.11,64.18,92.19
+europe_lau,Dorna Candrenilor,dorna_candrenilor,do,30.26,55.62,94.91
+europe_lau,Dorneşti,dornesti,do,35.53,54.99,95.58
+europe_lau,Dobříň,dobrin,do,45.73,65.24,87.03
+europe_lau,Doksany,doksany,do,62.87,64.95,63
+europe_lau,Domašín,domasin,do,52.8,63.05,79.22
+europe_lau,Dobiegniew,dobiegniew,do,44.76,58.03,54.65
+europe_lau,Domoušice,domousice,do,26.67,38.82,40.41
+europe_lau,Dolní Lochov,dolni_lochov,do,51.16,77.58,28.16
+europe_lau,Dossena,dossena,do,34.25,70.57,85.03
+europe_lau,Dorobanţu,dorobantu,do,58.4,64.98,33.86
+europe_lau,Dobeles novads,dobeles_novads,do,39.89,48.88,44.1
+europe_lau,Dorohusk,dorohusk,do,49.56,63.89,50.98
+europe_lau,Doubek,doubek,do,52.08,74.78,21.89
+europe_lau,Dobre Miasto,dobre_miasto,do,55.91,66.76,72.55
+europe_lau,Dobroń,dobron,do,54.24,58.6,72.64
+europe_lau,Dobczyce,dobczyce,do,52.83,54.02,56.75
+europe_lau,Dołhobyczów,dolhobyczow,do,35.64,65.13,97.39
+europe_lau,Dobroteşti,dobrotesti,do,42.49,65.4,56.18
+europe_lau,Dornelas,dornelas,do,34.18,48.77,83.65
+europe_lau,Dobra,dobra,do,40.82,61.7,87.29
+europe_lau,Donato,donato,do,23.29,38.55,90.69
+europe_lau,Dorzano,dorzano,do,19.93,43.92,-97.25
+europe_lau,Dominguizo,dominguizo,do,42.06,51.48,45.07
+europe_lau,Дојран,dojran,do,41.35,48.09,71.58
+europe_lau,Долнени,dolneni,do,56.84,64.84,49.37
+europe_lau,Dobročovice,dobrocovice,do,52.76,64.35,75.05
+europe_lau,Dobryszyce,dobryszyce,do,44.84,56.05,75.59
+europe_lau,Doruchów,doruchow,do,50.31,66.61,-0.74
+europe_lau,Dobrzyca,dobrzyca,do,47.14,62.1,30.72
+europe_lau,Dornelas,dornelas,do,48.99,71.08,56.04
+europe_lau,Dolzago,dolzago,do,44.46,63.24,21.62
+europe_lau,Dorio,dorio,do,29.8,59.9,-89.12
+europe_lau,Domanín,domanin,do,52.81,69.56,67.57
+europe_lau,Dorgali,dorgali,do,40.53,45.59,63.12
+europe_lau,Dolní Brusnice,dolni_brusnice,do,37.32,62.66,-9.97
+europe_lau,Doze Ribeiras,doze_ribeiras,do,42.88,59.94,38.97
+europe_lau,Dornelas,dornelas,do,54.37,70.67,60.72
+europe_lau,Domaniewice,domaniewice,do,62.05,68.24,61.15
+europe_lau,Dobrin,dobrin,do,67.56,73.44,58.15
+europe_lau,Dobreni,dobreni,do,59.65,73.06,33.65
+europe_lau,Doljeşti,doljesti,do,35.93,52.2,86.65
+europe_lau,Dobřany,dobrany,do,49.13,59.37,25.37
+europe_lau,Dolní Lukavice,dolni_lukavice,do,35.86,57.31,-4.11
+europe_lau,Donai,donai,do,52.96,71.4,44.01
+europe_lau,Doesburg,doesburg,do,38.94,60.15,65.08
+europe_lau,Doetinchem,doetinchem,do,28.92,58.12,-80.59
+europe_lau,Domneşti,domnesti,do,40.47,70.38,37.35
+europe_lau,Dobreşti,dobresti,do,50.02,75.32,67.56
+europe_lau,Domneşti,domnesti,do,52.38,67.65,26.16
+europe_lau,Dodeşti,dodesti,do,43.9,54.16,29.65
+europe_lau,Dolní Novosedly,dolni_novosedly,do,43.91,66.56,2.45
+europe_lau,Dochia,dochia,do,45.87,64.63,84.15
+europe_lau,Dobreţu,dobretu,do,43.62,67.05,61.01
+europe_lau,Dobrosloveni,dobrosloveni,do,51.22,67.96,29.91
+europe_lau,Dobroteasa,dobroteasa,do,35.67,56.44,27.48
+europe_lau,Dobrun,dobrun,do,41.38,57.1,21.97
+europe_lau,Dolní Žďár,dolni_zdar,do,45.2,64.93,90.97
+europe_lau,Dornelas do Zêzere,dornelas_do_zezere,do,51.85,76.54,78.76
+europe_lau,Dongen,dongen,do,44.03,60.08,72.58
+europe_lau,Добрич,dobric,do,61.23,68.69,41.01
+europe_lau,Dornas,dornas,do,57.05,64.15,47.27
+europe_lau,Dörflingen,dorflingen,do,46.49,55.99,62.51
+europe_lau,Dorénaz,dorenaz,do,43.29,58.81,89.13
+europe_lau,Donnas,donnas,do,38.68,62.16,55.19

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hatting",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hatting", "metric_roundness": 34.5, "metric_rectangularity": 69.92, "metric_mobile_fit": 56.21, "metric_aspect_ratio": 1.0, "metric_area_km2": 15.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.1543367, 47.251151499999978 ], [ 11.1674381, 47.2591837 ], [ 11.1769921, 47.2709524 ], [ 11.1779793, 47.2770936 ], [ 11.1836185, 47.280335499999985 ], [ 11.1756198, 47.2840675 ], [ 11.1674381, 47.283397 ], [ 11.16219, 47.284345 ], [ 11.1578087, 47.2759216 ], [ 11.1466826, 47.2650801 ], [ 11.1315085, 47.256378 ], [ 11.135016, 47.248999 ], [ 11.1543367, 47.251151499999978 ] ] ] } }
+]
+}

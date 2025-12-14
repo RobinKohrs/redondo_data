@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonnetan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonnetan", "metric_roundness": 43.23, "metric_rectangularity": 63.48, "metric_mobile_fit": 56.04, "metric_aspect_ratio": 1.002, "metric_area_km2": 8.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3955673, 44.824330099999983 ], [ -0.407258, 44.8225871 ], [ -0.415735, 44.8308362 ], [ -0.423215, 44.831914 ], [ -0.4264045, 44.8324645 ], [ -0.4251572, 44.8151584 ], [ -0.421421, 44.8112045 ], [ -0.4176565, 44.81048 ], [ -0.415171, 44.808786499999989 ], [ -0.4050605, 44.813200699999982 ], [ -0.3931098, 44.810595899999988 ], [ -0.3929525, 44.8193015 ], [ -0.3955673, 44.824330099999983 ] ] ] } }
+]
+}

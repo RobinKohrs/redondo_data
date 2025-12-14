@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fouilleuse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fouilleuse", "metric_roundness": 49.41, "metric_rectangularity": 69.27, "metric_mobile_fit": 30.15, "metric_aspect_ratio": 1.261, "metric_area_km2": 6.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.522098, 49.432163 ], [ 2.5351803, 49.418715 ], [ 2.54107, 49.4166185 ], [ 2.5470135, 49.422276499999988 ], [ 2.5490775, 49.42195 ], [ 2.5507945, 49.420689 ], [ 2.5585757, 49.4258854 ], [ 2.5511915, 49.429995 ], [ 2.546555, 49.4336914 ], [ 2.5345464, 49.4326912 ], [ 2.527495, 49.435433499999974 ], [ 2.522098, 49.432163 ] ] ] } }
+]
+}

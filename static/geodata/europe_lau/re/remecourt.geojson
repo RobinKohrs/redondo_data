@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "remecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rémécourt", "metric_roundness": 65.03, "metric_rectangularity": 69.55, "metric_mobile_fit": 68.37, "metric_aspect_ratio": 0.879, "metric_area_km2": 6.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4952744, 49.4204469 ], [ 2.5065075, 49.428234 ], [ 2.5030795, 49.432909 ], [ 2.501716, 49.437367 ], [ 2.497447, 49.4376875 ], [ 2.4925525, 49.440658 ], [ 2.4887565, 49.438012 ], [ 2.485333, 49.433855 ], [ 2.482534, 49.434643 ], [ 2.481554, 49.4289395 ], [ 2.4791965, 49.42305 ], [ 2.4952744, 49.4204469 ] ] ] } }
+]
+}

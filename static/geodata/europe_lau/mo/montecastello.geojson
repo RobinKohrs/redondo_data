@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montecastello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montecastello", "metric_roundness": 56.29, "metric_rectangularity": 71.13, "metric_mobile_fit": 60.47, "metric_aspect_ratio": 0.958, "metric_area_km2": 15.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7102545, 44.94757 ], [ 8.7129756, 44.9517821 ], [ 8.708862, 44.956804 ], [ 8.7081225, 44.966234 ], [ 8.6997064, 44.966501199999989 ], [ 8.6891145, 44.972950499999989 ], [ 8.6850173, 44.9708209 ], [ 8.6764405, 44.9730055 ], [ 8.6717215, 44.965648 ], [ 8.6711723, 44.960591899999983 ], [ 8.6780043, 44.958015199999984 ], [ 8.6773968, 44.9504625 ], [ 8.6798198, 44.946957399999988 ], [ 8.7053335, 44.9421225 ], [ 8.7102545, 44.94757 ] ] ] } }
+]
+}

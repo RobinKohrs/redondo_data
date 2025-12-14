@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "filz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Filz", "metric_roundness": 58.29, "metric_rectangularity": 71.83, "metric_mobile_fit": 70.15, "metric_aspect_ratio": 0.861, "metric_area_km2": 7.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.971624, 50.162664 ], [ 6.991232, 50.1661855 ], [ 6.999155, 50.1688335 ], [ 6.9952666, 50.1756435 ], [ 6.982232, 50.184393 ], [ 6.9699445, 50.176827 ], [ 6.971624, 50.162664 ] ] ] } }
+]
+}

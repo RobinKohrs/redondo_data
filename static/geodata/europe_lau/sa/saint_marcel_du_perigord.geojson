@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_marcel_du_perigord",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Marcel-du-Périgord", "metric_roundness": 38.31, "metric_rectangularity": 53.69, "metric_mobile_fit": 48.92, "metric_aspect_ratio": 1.073, "metric_area_km2": 22.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7152056, 44.9430989 ], [ 0.704525, 44.9398185 ], [ 0.7039023, 44.9273164 ], [ 0.6950166, 44.9211561 ], [ 0.692521, 44.9129329 ], [ 0.6750141, 44.9076022 ], [ 0.663621, 44.9077365 ], [ 0.6655555, 44.901909 ], [ 0.6824975, 44.896217 ], [ 0.7166184, 44.9067708 ], [ 0.7225605, 44.9128853 ], [ 0.7305749, 44.912907699999984 ], [ 0.734683, 44.916526 ], [ 0.7275377, 44.917259 ], [ 0.7279983, 44.9260516 ], [ 0.7218425, 44.936726 ], [ 0.7152056, 44.9430989 ] ] ] } }
+]
+}

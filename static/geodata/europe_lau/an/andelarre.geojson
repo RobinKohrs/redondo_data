@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "andelarre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Andelarre", "metric_roundness": 41.81, "metric_rectangularity": 59.36, "metric_mobile_fit": 28.99, "metric_aspect_ratio": 1.273, "metric_area_km2": 9.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0883645, 47.5996435 ], [ 6.08584, 47.5987795 ], [ 6.0828205, 47.599372 ], [ 6.080382, 47.5978305 ], [ 6.077238, 47.5928885 ], [ 6.073905, 47.5890335 ], [ 6.0721005, 47.577566 ], [ 6.0826754, 47.583753499999986 ], [ 6.0903237, 47.582388499999986 ], [ 6.1081546, 47.586916099999989 ], [ 6.113758, 47.592607 ], [ 6.0914255, 47.5996345 ], [ 6.0883645, 47.5996435 ] ] ] } }
+]
+}

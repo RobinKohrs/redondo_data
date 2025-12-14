@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "imbersago",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Imbersago", "metric_roundness": 59.56, "metric_rectangularity": 69.22, "metric_mobile_fit": 62.59, "metric_aspect_ratio": 0.937, "metric_area_km2": 6.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4581675, 45.706020599999988 ], [ 9.4497495, 45.71586 ], [ 9.44088, 45.718621499999983 ], [ 9.4402302, 45.7145239 ], [ 9.432015, 45.708941399999986 ], [ 9.433022, 45.70403 ], [ 9.43829, 45.699458 ], [ 9.457669, 45.6991235 ], [ 9.4581675, 45.706020599999988 ] ] ] } }
+]
+}

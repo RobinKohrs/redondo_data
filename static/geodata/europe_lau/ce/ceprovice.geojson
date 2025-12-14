@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ceprovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Čepřovice", "metric_roundness": 46.11, "metric_rectangularity": 75.92, "metric_mobile_fit": 88.09, "metric_aspect_ratio": 0.682, "metric_area_km2": 23.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9756145, 49.14265 ], [ 13.9830396, 49.1392708 ], [ 13.9829496, 49.129590299999983 ], [ 13.9937375, 49.1254655 ], [ 14.0032115, 49.130474 ], [ 14.0047037, 49.141086099999981 ], [ 13.998342, 49.159541499999989 ], [ 13.990397, 49.167735399999984 ], [ 13.9805235, 49.171831 ], [ 13.9605519, 49.1631535 ], [ 13.9563901, 49.1589561 ], [ 13.958896, 49.15606649999998 ], [ 13.9756145, 49.14265 ] ] ] } }
+]
+}

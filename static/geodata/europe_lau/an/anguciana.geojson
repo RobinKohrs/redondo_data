@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "anguciana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Anguciana", "metric_roundness": 51.2, "metric_rectangularity": 65.5, "metric_mobile_fit": 75.59, "metric_aspect_ratio": 0.807, "metric_area_km2": 8.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.891396, 42.560177499999973 ], [ -2.8887663, 42.56524349999998 ], [ -2.8903361, 42.579193 ], [ -2.8938075, 42.5814689 ], [ -2.9117305, 42.578228499999987 ], [ -2.908386, 42.5874405 ], [ -2.9152822, 42.5856766 ], [ -2.9186267, 42.5777752 ], [ -2.9146097, 42.567215799999978 ], [ -2.9076312, 42.563709199999984 ], [ -2.9083165, 42.560679 ], [ -2.891396, 42.560177499999973 ] ] ] } }
+]
+}

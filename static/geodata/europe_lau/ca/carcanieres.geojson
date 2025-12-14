@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carcanieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carcanières", "metric_roundness": 53.36, "metric_rectangularity": 70.07, "metric_mobile_fit": 65.71, "metric_aspect_ratio": 0.905, "metric_area_km2": 11.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1157638, 42.704042099999988 ], [ 2.1219605, 42.6931936 ], [ 2.137702, 42.6939439 ], [ 2.1410016, 42.6975368 ], [ 2.1406095, 42.705821 ], [ 2.1381846, 42.712511 ], [ 2.1138085, 42.7244925 ], [ 2.111074, 42.722996 ], [ 2.109668, 42.721152 ], [ 2.1114475, 42.720887 ], [ 2.1108445, 42.71926 ], [ 2.1083375, 42.7188505 ], [ 2.1066995, 42.717095 ], [ 2.102436, 42.7146075 ], [ 2.102569, 42.711599 ], [ 2.1157638, 42.704042099999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hattenhofen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hattenhofen", "metric_roundness": 53.75, "metric_rectangularity": 73.41, "metric_mobile_fit": -0.68, "metric_aspect_ratio": 1.569, "metric_area_km2": 17.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5622029, 48.6788502 ], [ 9.5542753, 48.67282789999998 ], [ 9.5505035, 48.676308 ], [ 9.5463977, 48.672442899999986 ], [ 9.5403705, 48.6602965 ], [ 9.5466335, 48.655995599999983 ], [ 9.554857, 48.655615499999989 ], [ 9.5916195, 48.6590615 ], [ 9.5974187, 48.669065599999989 ], [ 9.5909505, 48.672442899999986 ], [ 9.5850078, 48.671569699999985 ], [ 9.579013, 48.679624 ], [ 9.5622029, 48.6788502 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_arginion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αργινίων", "metric_roundness": 57.94, "metric_rectangularity": 72.76, "metric_mobile_fit": 66.85, "metric_aspect_ratio": 0.894, "metric_area_km2": 8.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7217055, 38.0908087 ], [ 20.7292735, 38.087592499999985 ], [ 20.7313901, 38.100786899999989 ], [ 20.7350915, 38.1065985 ], [ 20.7124414, 38.114427299999988 ], [ 20.7079316, 38.112360699999989 ], [ 20.704606, 38.105594499999981 ], [ 20.7081762, 38.0967955 ], [ 20.7158065, 38.0887295 ], [ 20.7217055, 38.0908087 ] ] ] } }
+]
+}

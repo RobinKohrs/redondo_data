@@ -1,0 +1,874 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Petrov,petrov,pe,35.16,73.64,-42.47
+europe_lau,Petrovice,petrovice,pe,49.91,71.43,14.2
+europe_lau,Pěčín,pecin,pe,52.35,76.67,61.23
+europe_lau,Peřimov,perimov,pe,55.3,72.07,50.42
+europe_lau,Peuerbach,peuerbach,pe,37.01,54.64,89.07
+europe_lau,Perná,perna,pe,60.5,75.19,59.25
+europe_lau,Pettenbach,pettenbach,pe,48.12,63.36,82.27
+europe_lau,Petrov,petrov,pe,36.15,67.5,58.93
+europe_lau,Pec pod Sněžkou,pec_pod_snezkou,pe,42.9,66.97,70.01
+europe_lau,Petrovice,petrovice,pe,51.95,71.86,54.6
+europe_lau,Pěnčín,pencin,pe,51.27,69.92,28.25
+europe_lau,Perg,perg,pe,39.19,60.02,31.82
+europe_lau,Petrovice,petrovice,pe,42.39,60.53,20.14
+europe_lau,Petrůvky,petruvky,pe,57.69,74.58,48.21
+europe_lau,Pernštejnské Jestřabí,pernstejnske_jestrabi,pe,40.66,65.1,94.39
+europe_lau,Petráveč,petravec,pe,38.62,51.36,73.93
+europe_lau,Pětikozly,petikozly,pe,35.63,46.9,85.69
+europe_lau,Petrovice u Karviné,petrovice_u_karvine,pe,41.92,50.04,35.07
+europe_lau,Petřvald,petrvald,pe,66.65,79.84,66.54
+europe_lau,Peilstein im Mühlviertel,peilstein_im_muhlviertel,pe,50.43,68.89,84.96
+europe_lau,Petřvald,petrvald,pe,54.69,69.62,29.91
+europe_lau,Peissen,peissen,pe,49.72,66.41,44.36
+europe_lau,Petrovice,petrovice,pe,31.09,58.25,52
+europe_lau,Peterskirchen,peterskirchen,pe,41.62,59.1,32.91
+europe_lau,Pellworm,pellworm,pe,57.35,71.61,52.99
+europe_lau,"Peine, Stadt",peine_stadt,pe,57.68,63.89,37.55
+europe_lau,Pegestorf,pegestorf,pe,61.25,70.99,53.26
+europe_lau,Pennigsehl,pennigsehl,pe,53.33,60.78,75.84
+europe_lau,Pennewang,pennewang,pe,41.86,60.34,-15.51
+europe_lau,"Petershagen, Stadt",petershagen_stadt,pe,39.29,53.6,34.05
+europe_lau,Petersberg,petersberg,pe,40.82,56.96,89.37
+europe_lau,Peterswald-Löffelscheid,peterswald_loffelscheid,pe,32.41,70.18,-33.24
+europe_lau,Perscheid,perscheid,pe,50.04,70.96,69.36
+europe_lau,Peterslahr,peterslahr,pe,41.1,79.72,85.2
+europe_lau,Peggau,peggau,pe,28.22,48.5,90.28
+europe_lau,Peffingen,peffingen,pe,56.98,83.22,18.54
+europe_lau,Pellingen,pellingen,pe,48.14,68.43,97.15
+europe_lau,Pelm,pelm,pe,36.15,59.48,95.37
+europe_lau,Pernegg an der Mur,pernegg_an_der_mur,pe,55.8,60.35,36.09
+europe_lau,Petersberg,petersberg,pe,31.18,47.76,20.55
+europe_lau,Perasdorf,perasdorf,pe,45.5,67.05,58.91
+europe_lau,Perkam,perkam,pe,56.34,79.3,46.65
+europe_lau,Penzing,penzing,pe,36.19,61.53,69.03
+europe_lau,Pettnau,pettnau,pe,43.1,68.41,-7.83
+europe_lau,Perach,perach,pe,46.85,60.62,14.67
+europe_lau,Petershausen,petershausen,pe,58.89,69.14,44.54
+europe_lau,Petting,petting,pe,46.41,58.28,27.29
+europe_lau,"Peißenberg, M",peissenberg_m,pe,53.61,68.54,78.36
+europe_lau,"Peiting, M",peiting_m,pe,36.46,46.42,86.05
+europe_lau,"Penzberg, St",penzberg_st,pe,52.02,54.71,72.73
+europe_lau,"Perlesreut, M",perlesreut_m,pe,54.33,59.41,67.72
+europe_lau,Perlacher Forst,perlacher_forst,pe,49.9,63.61,87.81
+europe_lau,Perlin,perlin,pe,52.11,69.06,65.85
+europe_lau,Pemfling,pemfling,pe,41.08,63.8,96.69
+europe_lau,"Pegau, Stadt",pegau_stadt,pe,31.79,44.17,94.36
+europe_lau,Petersberg,petersberg,pe,53.27,63.96,52.83
+europe_lau,Perl,perl,pe,54.56,71.33,62.64
+europe_lau,Petersberg,petersberg,pe,38.89,57.36,32.74
+europe_lau,PEQIN,peqin,pe,52.28,58.59,53.18
+europe_lau,Peuschen,peuschen,pe,40.48,57.66,-5.88
+europe_lau,Pessin,pessin,pe,29.97,63.21,86.45
+europe_lau,Petershagen/Eggersdorf,petershagen_eggersdorf,pe,43.16,57.07,48.47
+europe_lau,Pepingen,pepingen,pe,32.92,49.77,59.66
+europe_lau,Pechina,pechina,pe,36.36,67.53,77.2
+europe_lau,Пещера,pesera,pe,48.23,70.58,71.68
+europe_lau,Petra,petra,pe,26.41,43.96,45.83
+europe_lau,Pedrosa de Duero,pedrosa_de_duero,pe,46.53,58.55,78.89
+europe_lau,Pedrosa del Páramo,pedrosa_del_paramo,pe,63.55,71.67,75.71
+europe_lau,Pedrosa del Príncipe,pedrosa_del_principe,pe,66.19,71.33,78.05
+europe_lau,Pedrosa de Río Úrbel,pedrosa_de_rio_urbel,pe,43.15,68.2,10.59
+europe_lau,Peñaranda de Duero,penaranda_de_duero,pe,48.72,73.55,89.7
+europe_lau,Peral de Arlanza,peral_de_arlanza,pe,52.2,61.19,76.11
+europe_lau,Pedro Bernardo,pedro_bernardo,pe,50.59,65.01,76.99
+europe_lau,Pedro-Rodríguez,pedro_rodriguez,pe,50.17,74.47,-6.5
+europe_lau,Peguerinos,peguerinos,pe,43.79,57.65,17.56
+europe_lau,Peñalba de Ávila,penalba_de_avila,pe,29.75,58.72,67.76
+europe_lau,"Pedernoso, El",pedernoso_el,pe,60.59,70.2,57.66
+europe_lau,"Pedroñeras, Las",pedroneras_las,pe,36.65,59.98,87.77
+europe_lau,"Peral, El",peral_el,pe,49.57,71.01,58.14
+europe_lau,"Peraleja, La",peraleja_la,pe,49.28,71.09,50.4
+europe_lau,"Pesquera, La",pesquera_la,pe,52.69,69.2,30.71
+europe_lau,Peníscola,peniscola,pe,35.16,55.97,95.15
+europe_lau,Peñascosa,penascosa,pe,24.3,36.87,-16.97
+europe_lau,Peñas de San Pedro,penas_de_san_pedro,pe,38.34,50.79,37.81
+europe_lau,Pétrola,petrola,pe,44.81,66.57,58.87
+europe_lau,Perafita,perafita,pe,55.13,69.54,91.14
+europe_lau,Перущица,perusica,pe,38.79,58.44,93.68
+europe_lau,Pedro Martínez,pedro_martinez,pe,49.36,68,54.58
+europe_lau,Peligros,peligros,pe,48.12,69.93,94.39
+europe_lau,"Peza, La",peza_la,pe,47.23,64.18,86.58
+europe_lau,Pedro Muñoz,pedro_munoz,pe,56.39,64.93,79.86
+europe_lau,Pedreguer,pedreguer,pe,69.12,71.83,46.63
+europe_lau,Pego,pego,pe,56.48,73.77,51.63
+europe_lau,Penàguila,penaguila,pe,46.77,58.67,61.51
+europe_lau,Petrer,petrer,pe,66.13,69.37,51.83
+europe_lau,Peñalsordo,penalsordo,pe,32.17,52.6,91.73
+europe_lau,Peraleda del Zaucejo,peraleda_del_zaucejo,pe,42.61,68.91,-7.25
+europe_lau,Перник,pernik,pe,42.96,60.48,45.88
+europe_lau,Pedret i Marzà,pedret_i_marza,pe,59.4,74.7,40.5
+europe_lau,"Pera, La",pera_la,pe,66.76,77.37,77.15
+europe_lau,Peralada,peralada,pe,41.45,58.07,59.66
+europe_lau,Pedroso de Acim,pedroso_de_acim,pe,41.46,64.76,97.53
+europe_lau,Peraleda de la Mata,peraleda_de_la_mata,pe,44.47,56.85,88.75
+europe_lau,Peraleda de San Román,peraleda_de_san_roman,pe,48.97,73.5,77.73
+europe_lau,Perales del Puerto,perales_del_puerto,pe,43.7,62.63,84.57
+europe_lau,Pescueza,pescueza,pe,29.27,53.16,86.25
+europe_lau,"Pesga, La",pesga_la,pe,44.09,59,32.49
+europe_lau,Pedro Abad,pedro_abad,pe,38.54,59.85,4.77
+europe_lau,Pedroche,pedroche,pe,50.57,57.35,75.93
+europe_lau,Peñarroya-Pueblonuevo,penarroya_pueblonuevo,pe,37.32,49.21,58.05
+europe_lau,"Pegnitz, St",pegnitz_st,pe,48.84,56.11,50.29
+europe_lau,Pelt,pelt,pe,47.05,68.83,40.65
+europe_lau,Penzin,penzin,pe,64.08,69.92,63.2
+europe_lau,Perwijs (Nijvel),perwijs_nijvel,pe,59.1,73.6,70.18
+europe_lau,Peipsiääre vald,peipsiaare_vald,pe,42.88,63.35,95.4
+europe_lau,"Penig, Stadt",penig_stadt,pe,49.68,61.46,64.6
+europe_lau,"Perleberg, Stadt",perleberg_stadt,pe,50.89,61.46,44.04
+europe_lau,Petersdorf,petersdorf,pe,61.19,63.12,67.43
+europe_lau,Pepinster,pepinster,pe,43.81,53.2,53.4
+europe_lau,"Peitz/Picnjo, Stadt",peitz_picnjo_stadt,pe,46.78,66.18,2.84
+europe_lau,Pecq,pecq,pe,55.15,61.91,76.22
+europe_lau,Péruwelz,peruwelz,pe,55.36,65.7,63.88
+europe_lau,Peenemünde,peenemunde,pe,56.26,75.4,81.44
+europe_lau,"Penkun, Stadt",penkun_stadt,pe,40.79,61.02,4.56
+europe_lau,Pettneu am Arlberg,pettneu_am_arlberg,pe,44.68,59.18,83.5
+europe_lau,Petersaurach,petersaurach,pe,48.5,58.91,48.82
+europe_lau,Pentling,pentling,pe,39.41,45.91,53.58
+europe_lau,Pettendorf,pettendorf,pe,56.85,63.05,67.3
+europe_lau,Penkow,penkow,pe,50.9,68.32,69.07
+europe_lau,"Penzlin, Stadt",penzlin_stadt,pe,47.51,60.24,25.28
+europe_lau,Peer,peer,pe,49.27,69.6,83.43
+europe_lau,Pechbrunn,pechbrunn,pe,48.14,63.31,44.36
+europe_lau,Pettstadt,pettstadt,pe,51.44,64.8,45.21
+europe_lau,Peenehagen,peenehagen,pe,33.09,59.95,-24.81
+europe_lau,Петрич,petric,pe,47.71,65.76,7.12
+europe_lau,Perriers-sur-Andelle,perriers_sur_andelle,pe,49.39,60.91,38.58
+europe_lau,Perruel,perruel,pe,48.86,63.15,8.95
+europe_lau,PËRMET,permet,pe,37.16,51.35,74.52
+europe_lau,Pello,pello,pe,50.38,57.68,68.71
+europe_lau,Pélissanne,pelissanne,pe,43.66,56.82,67.64
+europe_lau,Périgueux,perigueux,pe,35.23,56.43,29.25
+europe_lau,Petit-Bersac,petit_bersac,pe,40.12,61.28,98.32
+europe_lau,Peyrignac,peyrignac,pe,41.53,58.9,86.71
+europe_lau,Peyrillac-et-Millac,peyrillac_et_millac,pe,49.38,62.42,91.91
+europe_lau,Peyzac-le-Moustier,peyzac_le_moustier,pe,40.73,61.44,74.83
+europe_lau,Pezuls,pezuls,pe,57.92,67.6,40.91
+europe_lau,Peynier,peynier,pe,55.85,65.7,84.01
+europe_lau,Peypin,peypin,pe,48.34,64.47,87.63
+europe_lau,Peyrolles-en-Provence,peyrolles_en_provence,pe,55.87,75.27,81.06
+europe_lau,Penthéréaz,penthereaz,pe,64.64,73.42,35.6
+europe_lau,Peaugres,peaugres,pe,55.99,62.17,49.37
+europe_lau,Péreyres,pereyres,pe,68.31,88.13,42.46
+europe_lau,Peyraud,peyraud,pe,36.33,57.86,6.95
+europe_lau,Peipin,peipin,pe,46.66,60.24,42.26
+europe_lau,Peyroules,peyroules,pe,42.56,63.92,-3.33
+europe_lau,Peyruis,peyruis,pe,57.42,61.62,27.77
+europe_lau,Pellerey,pellerey,pe,68.37,74.61,66.62
+europe_lau,Pernand-Vergelesses,pernand_vergelesses,pe,51.92,59.31,82.02
+europe_lau,Perrigny-lès-Dijon,perrigny_les_dijon,pe,44.39,61.16,81.7
+europe_lau,Perrigny-sur-l'Ognon,perrigny_sur_l_ognon,pe,59.06,69.95,42.18
+europe_lau,Peux-et-Couffouleux,peux_et_couffouleux,pe,59.36,75.34,44.9
+europe_lau,Peyreleau,peyreleau,pe,54.15,65.24,55.73
+europe_lau,Peyrusse-le-Roc,peyrusse_le_roc,pe,42.01,56.94,89.52
+europe_lau,Pérignac,perignac,pe,48.45,67.1,36.97
+europe_lau,Périgny,perigny,pe,32.95,46.6,10.94
+europe_lau,Pessines,pessines,pe,41.87,52.27,52.13
+europe_lau,Pelleautier,pelleautier,pe,43.41,52.26,41.24
+europe_lau,Périgny,perigny,pe,63.15,68.58,60.79
+europe_lau,Pelkosenniemi,pelkosenniemi,pe,35.31,49.95,23.69
+europe_lau,Perho,perho,pe,59.92,69.17,33.62
+europe_lau,Pertunmaa,pertunmaa,pe,44.38,66.4,95.96
+europe_lau,Petäjävesi,petajavesi,pe,61.44,73.6,68.53
+europe_lau,Pedersören kunta,pedersoren_kunta,pe,50.49,67.36,62.41
+europe_lau,Pécharic-et-le-Py,pecharic_et_le_py,pe,52.75,59.51,48.8
+europe_lau,Pech-Luna,pech_luna,pe,42.9,69.56,7.78
+europe_lau,Pennautier,pennautier,pe,58.08,63.7,60.46
+europe_lau,Pépieux,pepieux,pe,45.38,60.72,83.96
+europe_lau,Pexiora,pexiora,pe,59.93,84.28,14.32
+europe_lau,Peyrefitte-du-Razès,peyrefitte_du_razes,pe,56.9,68.17,68.17
+europe_lau,Peyrefitte-sur-l'Hers,peyrefitte_sur_l_hers,pe,50.41,66.13,35.85
+europe_lau,Peyrens,peyrens,pe,35.13,56.25,-5.68
+europe_lau,Peyriac-de-Mer,peyriac_de_mer,pe,34.81,69.61,-32.92
+europe_lau,Peyriac-Minervois,peyriac_minervois,pe,53,63.4,53.34
+europe_lau,Peyrolles,peyrolles,pe,37.42,50.58,16.94
+europe_lau,Pezens,pezens,pe,40.25,61.64,-4.22
+europe_lau,Pelousey,pelousey,pe,54.53,73.38,34.87
+europe_lau,Péseux,peseux,pe,57.08,68.48,61.35
+europe_lau,Pessans,pessans,pe,37.71,66.17,-55.78
+europe_lau,Petite-Chaux,petite_chaux,pe,30.93,63.32,95.91
+europe_lau,Péron,peron,pe,54.28,68.35,42.57
+europe_lau,Péronnas,peronnas,pe,49.94,62.49,29.86
+europe_lau,Pérouges,perouges,pe,39.67,52.64,92.96
+europe_lau,Perrex,perrex,pe,43.89,75.33,-25.87
+europe_lau,Peyriat,peyriat,pe,59.83,81.02,29.26
+europe_lau,Peyrieu,peyrieu,pe,47.26,66.04,79.54
+europe_lau,Peyzieux-sur-Saône,peyzieux_sur_saone,pe,40.28,54.41,20.94
+europe_lau,Peymeinade,peymeinade,pe,50.71,73.65,88.16
+europe_lau,Pennedepie,pennedepie,pe,23.64,50.68,39.32
+europe_lau,Périers-en-Auge,periers_en_auge,pe,36.28,60.41,32.38
+europe_lau,Périers-sur-le-Dan,periers_sur_le_dan,pe,45.46,74.01,50.73
+europe_lau,Périgny,perigny,pe,49.71,68.69,82.1
+europe_lau,Perrières,perrieres,pe,33.59,56.34,97.21
+europe_lau,Pertheville-Ners,pertheville_ners,pe,43.88,60.42,23.7
+europe_lau,Petiville,petiville,pe,50.45,64.51,6.33
+europe_lau,Pech,pech,pe,27.28,71.14,75.04
+europe_lau,Péreille,pereille,pe,42.54,64.16,41.58
+europe_lau,Perles-et-Castelet,perles_et_castelet,pe,28.42,61.01,97.48
+europe_lau,Perrefitte,perrefitte,pe,34.15,72.32,-98.66
+europe_lau,Petit-Verly,petit_verly,pe,40.12,58.76,99.53
+europe_lau,Peñarroya de Tastavins,penarroya_de_tastavins,pe,53.09,64.35,43.47
+europe_lau,Peracense,peracense,pe,56.81,78.99,64.2
+europe_lau,Peralejos,peralejos,pe,19.65,58.16,-72.52
+europe_lau,Perales del Alfambra,perales_del_alfambra,pe,45.67,61.48,-5.79
+europe_lau,Peñalba,penalba,pe,35.61,53.43,96.11
+europe_lau,"Peñas de Riglos, Las",penas_de_riglos_las,pe,26.67,40.76,24.3
+europe_lau,Peralta de Alcofea,peralta_de_alcofea,pe,49.15,61.64,76.4
+europe_lau,Peralta de Calasanz,peralta_de_calasanz,pe,50.85,65.36,86.9
+europe_lau,Peraltilla,peraltilla,pe,50.26,77.86,56.17
+europe_lau,Perarrúa,perarrua,pe,48.58,58.09,72.23
+europe_lau,Pertusa,pertusa,pe,39.49,57.17,-18.86
+europe_lau,Pedraza,pedraza,pe,63.68,66.59,46.31
+europe_lau,Pelayos del Arroyo,pelayos_del_arroyo,pe,59.45,81.96,26.62
+europe_lau,Perosillo,perosillo,pe,39.17,59.78,59.33
+europe_lau,"Pedregal, El",pedregal_el,pe,44.18,63.27,92.59
+europe_lau,Peñalén,penalen,pe,51.91,62.82,71.12
+europe_lau,Peñalver,penalver,pe,47.51,62.25,24.34
+europe_lau,Peralejos de las Truchas,peralejos_de_las_truchas,pe,37.21,67.2,76.73
+europe_lau,Peralveche,peralveche,pe,44.21,60.81,0.35
+europe_lau,Pedrafita do Cebreiro,pedrafita_do_cebreiro,pe,44.97,53.11,40.38
+europe_lau,Petit-Val,petit_val,pe,32.09,70.64,-105.64
+europe_lau,Pedralba,pedralba,pe,43.38,79.17,91.27
+europe_lau,Petrés,petres,pe,35.18,65.25,9.53
+europe_lau,Perthes,perthes,pe,68.04,67.15,58.73
+europe_lau,Pedraza de Campos,pedraza_de_campos,pe,46.06,69.72,48.75
+europe_lau,Pedrosa de la Vega,pedrosa_de_la_vega,pe,35.47,56.14,17.27
+europe_lau,Perales,perales,pe,67.58,75.02,72.62
+europe_lau,Pedraza de Alba,pedraza_de_alba,pe,63.09,71.98,57.93
+europe_lau,Pedrosillo de Alba,pedrosillo_de_alba,pe,44.33,71.8,56.69
+europe_lau,Pedrosillo de los Aires,pedrosillo_de_los_aires,pe,49.71,70.07,25.09
+europe_lau,Pedrosillo el Ralo,pedrosillo_el_ralo,pe,50.85,75.16,64.53
+europe_lau,"Pedroso de la Armuña, El",pedroso_de_la_armuna_el,pe,47.54,74.04,65.75
+europe_lau,Pelabravo,pelabravo,pe,52.36,70.03,76.97
+europe_lau,Pelarrodríguez,pelarrodriguez,pe,51.47,71.66,31.18
+europe_lau,Pelayos,pelayos,pe,34.46,56.22,96.46
+europe_lau,"Peña, La",pena_la,pe,37.33,45.97,76.95
+europe_lau,Peñacaballera,penacaballera,pe,35.92,65.58,73.2
+europe_lau,Peñaparda,penaparda,pe,43.38,54.72,55.02
+europe_lau,Peñaranda de Bracamonte,penaranda_de_bracamonte,pe,56.76,70,44.61
+europe_lau,Peñarandilla,penarandilla,pe,50.39,71.18,62.06
+europe_lau,Peralejos de Abajo,peralejos_de_abajo,pe,63.57,85.76,74.84
+europe_lau,Peralejos de Arriba,peralejos_de_arriba,pe,62.71,67.86,62.08
+europe_lau,Pereña de la Ribera,perena_de_la_ribera,pe,69.35,77.18,60.41
+europe_lau,Peromingo,peromingo,pe,52.49,75.21,44.29
+europe_lau,Pedralba de la Pradería,pedralba_de_la_praderia,pe,56.47,61.55,43.88
+europe_lau,"Pego, El",pego_el,pe,34.6,49.69,80
+europe_lau,Pedrezuela,pedrezuela,pe,47.63,61.05,66.75
+europe_lau,Peralta,peralta,pe,43.07,62.97,-21
+europe_lau,Petilla de Aragón,petilla_de_aragon,pe,52.01,63.13,45.14
+europe_lau,Penelles,penelles,pe,51.08,59.58,79.22
+europe_lau,Peramola,peramola,pe,48.3,57.71,70.2
+europe_lau,Pelayos de la Presa,pelayos_de_la_presa,pe,69.81,83.86,60.51
+europe_lau,Perales de Tajuña,perales_de_tajuna,pe,38.5,59.88,56.42
+europe_lau,Pezuela de las Torres,pezuela_de_las_torres,pe,63.64,72.11,48.42
+europe_lau,Pelahustán,pelahustan,pe,27.61,45.49,96.64
+europe_lau,Pepino,pepino,pe,51.62,63.29,64.12
+europe_lau,Perafort,perafort,pe,62.7,61.23,53.28
+europe_lau,"Perelló, El",perello_el,pe,40.72,58.74,61.68
+europe_lau,Peleagonzalo,peleagonzalo,pe,28.65,65.62,-19.8
+europe_lau,Peleas de Abajo,peleas_de_abajo,pe,45.49,52.94,25.99
+europe_lau,Peñausende,penausende,pe,57.48,60.77,61.81
+europe_lau,Peque,peque,pe,55.82,71.88,82.01
+europe_lau,"Perdigón, El",perdigon_el,pe,56.21,61.31,68.58
+europe_lau,Pereruela,pereruela,pe,45.68,50.47,71.2
+europe_lau,Perilla de Castro,perilla_de_castro,pe,41.91,71.51,-8.7
+europe_lau,"Pernía, La",pernia_la,pe,39.42,64.35,-23.94
+europe_lau,Peal de Becerro,peal_de_becerro,pe,58.7,63.29,54.79
+europe_lau,Pegalajar,pegalajar,pe,38.62,63.55,6.57
+europe_lau,Pedrera,pedrera,pe,44.5,53,46.89
+europe_lau,"Pedroso, El",pedroso_el,pe,73.81,69.96,56.48
+europe_lau,Peñaflor,penaflor,pe,58.14,70.4,61.39
+europe_lau,Péry-La Heutte,pery_la_heutte,pe,30.61,53.93,-20.6
+europe_lau,"Pedraja de Portillo, La",pedraja_de_portillo_la,pe,55.25,58.59,30.28
+europe_lau,Pedrajas de San Esteban,pedrajas_de_san_esteban,pe,61.39,74.34,83.91
+europe_lau,Pedrosa del Rey,pedrosa_del_rey,pe,41.9,66.37,93.83
+europe_lau,Peñafiel,penafiel,pe,41.77,65.56,6.21
+europe_lau,Peñaflor de Hornija,penaflor_de_hornija,pe,69.15,68.56,54.2
+europe_lau,Pesquera de Duero,pesquera_de_duero,pe,36.31,60.63,16.72
+europe_lau,Pernant,pernant,pe,39.9,51.55,88.72
+europe_lau,Pel-et-Der,pel_et_der,pe,41.42,61.94,82.49
+europe_lau,Périgny-la-Rose,perigny_la_rose,pe,27.15,57.08,90.61
+europe_lau,Perthes-lès-Brienne,perthes_les_brienne,pe,51.14,64.36,48.38
+europe_lau,Petit-Mesnil,petit_mesnil,pe,24.72,51.44,-28.85
+europe_lau,Pedrola,pedrola,pe,68.84,69.8,41.29
+europe_lau,"Pedrosas, Las",pedrosas_las,pe,54.01,73.28,69.36
+europe_lau,Perdiguera,perdiguera,pe,44.83,65.81,-19.05
+europe_lau,"Pereiro de Aguiar, O",pereiro_de_aguiar_o,pe,42.22,56.18,87.49
+europe_lau,"Peroxa, A",peroxa_a,pe,60.02,62.93,42.25
+europe_lau,Petín,petin,pe,32.78,53.37,-17.21
+europe_lau,Peyrusse,peyrusse,pe,42.02,58.13,11.23
+europe_lau,Pedroso,pedroso,pe,38.74,56.68,17.32
+europe_lau,Periana,periana,pe,65.59,70.24,57.4
+europe_lau,Penagos,penagos,pe,47.9,66.53,76.89
+europe_lau,Peñarrubia,penarrubia,pe,39.44,59.71,68.92
+europe_lau,Pesaguero,pesaguero,pe,51.56,64.11,36.25
+europe_lau,Pesquera,pesquera,pe,57.45,72.52,53.59
+europe_lau,Peranzanes,peranzanes,pe,58.69,67.23,28.04
+europe_lau,Peñamellera Alta,penamellera_alta,pe,60.34,65.38,53.2
+europe_lau,Peñamellera Baja,penamellera_baja,pe,37.94,57.43,-1.04
+europe_lau,Pesoz,pesoz,pe,52.8,70.82,83.43
+europe_lau,Pégomas,pegomas,pe,36.46,53.41,95.75
+europe_lau,Peille,peille,pe,44.48,62.16,99.49
+europe_lau,Peillon,peillon,pe,43.59,61.71,32.19
+europe_lau,Péone,peone,pe,38.26,53.79,96.52
+europe_lau,Πελένδρι,pelendri,pe,41.77,54.05,79.42
+europe_lau,Petit-Failly,petit_failly,pe,43.09,67.3,55.94
+europe_lau,Petitmont,petitmont,pe,16.28,39.81,-61.01
+europe_lau,Pettonville,pettonville,pe,48.87,66.19,49.37
+europe_lau,Pexonne,pexonne,pe,29.69,66.04,56.69
+europe_lau,Πέγεια,pegeia,pe,33.24,54.31,74.87
+europe_lau,Pelouse,pelouse,pe,35.56,59.54,92.65
+europe_lau,Πέργαμος,pergamos,pe,46.42,66.85,-18.42
+europe_lau,Περιβόλια Λάρνακας,peribolia_larnakas,pe,44.38,57.42,36.46
+europe_lau,Περιστερώνα Λευκωσίας,peristerona_leukosias,pe,48.97,65.01,86.98
+europe_lau,Περιβόλια Τρικώμου,peribolia_trikomou,pe,44.9,83.41,81.96
+europe_lau,Peigney,peigney,pe,47.61,65.83,-5.41
+europe_lau,Perrancey-les-Vieux-Moulins,perrancey_les_vieux_moulins,pe,61.79,77.29,18.7
+europe_lau,Perrogney-les-Fontaines,perrogney_les_fontaines,pe,62.52,67.62,62.23
+europe_lau,Perrusse,perrusse,pe,42.61,65.81,63.14
+europe_lau,Perthes,perthes,pe,42.59,66.15,-27.88
+europe_lau,Percy-en-Normandie,percy_en_normandie,pe,50.29,60.11,24.91
+europe_lau,Périers,periers,pe,60.07,80.71,78.97
+europe_lau,Perriers-en-Beauficel,perriers_en_beauficel,pe,42.86,70.84,94.12
+europe_lau,Pélussin,pelussin,pe,53.78,68.23,45.67
+europe_lau,Périgneux,perigneux,pe,52.73,56.9,62.33
+europe_lau,Perreux,perreux,pe,73.27,69.84,59.45
+europe_lau,Πετροφάνι,petrophani,pe,37.59,68.66,91.1
+europe_lau,Πηγένια,pegenia,pe,24.08,56.84,98.51
+europe_lau,Pers-en-Gâtinais,pers_en_gatinais,pe,49.52,64.55,39.39
+europe_lau,Penne-d'Agenais,penne_d_agenais,pe,55.02,60.47,53.61
+europe_lau,Peyrière,peyriere,pe,51.23,73.85,19.37
+europe_lau,Petit-Auverné,petit_auverne,pe,57.52,70.52,54.21
+europe_lau,Petit-Mars,petit_mars,pe,61.81,74.84,58.26
+europe_lau,Πεδουλάς,pedoulas,pe,41.57,70.38,-0.07
+europe_lau,Pernegg,pernegg,pe,44.87,58.21,44.71
+europe_lau,Πέρα Πεδί,pera_pedi,pe,62.52,65.97,45.86
+europe_lau,Petroupim,petroupim,pe,56.74,64.15,76.43
+europe_lau,Périgny,perigny,pe,61.63,72.53,46.97
+europe_lau,Pezou,pezou,pe,32.57,50.2,84.81
+europe_lau,Perche en Nocé,perche_en_noce,pe,41.19,45.52,71.34
+europe_lau,Perrou,perrou,pe,41,72.86,-17.56
+europe_lau,Pervenchères,pervencheres,pe,52.66,65.71,47.44
+europe_lau,Πέτρα,petra,pe,40.83,55.56,91.16
+europe_lau,Péas,peas,pe,61.9,75.89,54.01
+europe_lau,Pévy,pevy,pe,40.7,62.02,-22.94
+europe_lau,Peyre en Aubrac,peyre_en_aubrac,pe,58.88,67.05,60.73
+europe_lau,Peuton,peuton,pe,36.68,65.17,-2.99
+europe_lau,Pérignat-lès-Sarliève,perignat_les_sarlieve,pe,64.41,77.49,47.23
+europe_lau,Pérignat-sur-Allier,perignat_sur_allier,pe,40.17,78.2,-71.31
+europe_lau,Perpezat,perpezat,pe,28.04,49.09,96.61
+europe_lau,Perrier,perrier,pe,56.76,74.24,65.45
+europe_lau,Peschadoires,peschadoires,pe,40.34,60,99.75
+europe_lau,Peslières,peslieres,pe,22.25,52.27,-129.61
+europe_lau,Pessat-Villeneuve,pessat_villeneuve,pe,60.19,77.12,67.61
+europe_lau,Péronville,peronville,pe,56.53,62.49,48.22
+europe_lau,Péroy-les-Gombries,peroy_les_gombries,pe,43.91,61.81,98.89
+europe_lau,Περιστερωνάρι,peristeronari,pe,53.35,75.31,86.44
+europe_lau,Pébrac,pebrac,pe,55.54,70.09,79.64
+europe_lau,Pernersdorf,pernersdorf,pe,53.61,70.13,90.47
+europe_lau,Pern,pern,pe,33.57,50.32,22.56
+europe_lau,Pescadoires,pescadoires,pe,48.05,58.3,72.97
+europe_lau,Peyrilles,peyrilles,pe,44.49,56.9,7.3
+europe_lau,Πεντάγεια,pentageia,pe,41.55,61.61,73.87
+europe_lau,Πεντάκωμο,pentakomo,pe,58.16,71.63,81.5
+europe_lau,Pellegrue,pellegrue,pe,35.95,48.29,44.74
+europe_lau,Périssac,perissac,pe,52.64,70.53,83.38
+europe_lau,Pessac,pessac,pe,24.42,56.94,4.92
+europe_lau,Pessac-sur-Dordogne,pessac_sur_dordogne,pe,69.81,78.67,54.36
+europe_lau,Petit-Palais-et-Cornemps,petit_palais_et_cornemps,pe,45.76,58.39,37.1
+europe_lau,Peujard,peujard,pe,73.22,79.04,48.19
+europe_lau,Peyrabout,peyrabout,pe,43.43,68.77,91.86
+europe_lau,Peyrat-la-Nonière,peyrat_la_noniere,pe,57.09,67.52,26.36
+europe_lau,Perroy,perroy,pe,38.12,58.33,27.26
+europe_lau,Περιστερώνα Αμμοχώστου,peristerona_ammochostou,pe,29.4,48.09,19.84
+europe_lau,Πηγή,pege,pe,27.48,38.92,65.83
+europe_lau,Pencran,pencran,pe,48,59.8,89.45
+europe_lau,Penmarch,penmarch,pe,52.16,74.28,-5.28
+europe_lau,Peumerit,peumerit,pe,43.01,65.62,15.91
+europe_lau,Péret-Bel-Air,peret_bel_air,pe,64.39,76.26,68.11
+europe_lau,Pérols-sur-Vézère,perols_sur_vezere,pe,43.21,61.19,71.21
+europe_lau,Perpezac-le-Blanc,perpezac_le_blanc,pe,50.16,67.02,41.36
+europe_lau,Perpezac-le-Noir,perpezac_le_noir,pe,61.73,62.72,63.79
+europe_lau,Peyrelevade,peyrelevade,pe,55.57,62.84,84.73
+europe_lau,Peyrissac,peyrissac,pe,44.25,55.44,25.47
+europe_lau,Peintre,peintre,pe,49,60.87,31.35
+europe_lau,Perrigny,perrigny,pe,51.61,63.15,30.19
+europe_lau,Peseux,peseux,pe,55.83,79.02,39.68
+europe_lau,Petit-Noir,petit_noir,pe,30.76,53.37,77.27
+europe_lau,Péchabou,pechabou,pe,41.03,72.31,23.09
+europe_lau,Pechbonnieu,pechbonnieu,pe,49.89,66.65,83.88
+europe_lau,Pechbusque,pechbusque,pe,28.28,58.03,88.41
+europe_lau,Péguilhan,peguilhan,pe,52.5,76.7,27.89
+europe_lau,Pelleport,pelleport,pe,58.99,67.12,39.61
+europe_lau,Peyrissas,peyrissas,pe,63.51,66.32,57.29
+europe_lau,Peyrouzet,peyrouzet,pe,50.04,64.89,69.95
+europe_lau,Peyssies,peyssies,pe,39.21,65.65,22.24
+europe_lau,Pédernec,pedernec,pe,46.4,64.41,23.99
+europe_lau,Penguily,penguily,pe,36.17,47.56,78.37
+europe_lau,Penvénan,penvenan,pe,55.77,64.24,66.37
+europe_lau,Perros-Guirec,perros_guirec,pe,52.78,63.05,73.11
+europe_lau,Peumerit-Quintin,peumerit_quintin,pe,39.69,49.36,39.17
+europe_lau,Penta-Acquatella,penta_acquatella,pe,34.45,61.4,87.72
+europe_lau,Penta-di-Casinca,penta_di_casinca,pe,29.45,59.78,-68.25
+europe_lau,Perelli,perelli,pe,45.71,56.54,72.34
+europe_lau,Pero-Casevecchie,pero_casevecchie,pe,48.53,69.45,63.56
+europe_lau,Pellevoisin,pellevoisin,pe,59.1,69.94,30.6
+europe_lau,Pérassay,perassay,pe,43.26,57.27,12.86
+europe_lau,Pébées,pebees,pe,45.18,65.65,62.22
+europe_lau,Pellefigue,pellefigue,pe,47.06,57.89,43.63
+europe_lau,Perchède,perchede,pe,51.53,70.06,51.88
+europe_lau,Pergain-Taillac,pergain_taillac,pe,69.27,70.37,39.45
+europe_lau,Pessan,pessan,pe,56.32,61.2,54.11
+europe_lau,Pessoulens,pessoulens,pe,46.56,58.6,81.44
+europe_lau,Peyrecave,peyrecave,pe,64.11,67.02,60.89
+europe_lau,Peyrusse-Grande,peyrusse_grande,pe,45.58,64.35,56.19
+europe_lau,Peyrusse-Massas,peyrusse_massas,pe,40.84,57.67,25.53
+europe_lau,Peyrusse-Vieille,peyrusse_vieille,pe,40.1,51.12,72.53
+europe_lau,Penthalaz,penthalaz,pe,56.78,72.29,77.29
+europe_lau,Πέρα,pera,pe,49.5,58.24,43.51
+europe_lau,Pécorade,pecorade,pe,36.55,63.86,-28.38
+europe_lau,Perquie,perquie,pe,45.83,70.16,8
+europe_lau,Pey,pey,pe,62.51,72.09,58.84
+europe_lau,Peyre,peyre,pe,67.77,73.42,64.38
+europe_lau,Peyrehorade,peyrehorade,pe,47.03,68.47,61.67
+europe_lau,Penthaz,penthaz,pe,52.58,72.68,79.32
+europe_lau,Personico,personico,pe,59.18,69.04,57.29
+europe_lau,Pérignac,perignac,pe,55.1,68.46,44.78
+europe_lau,Peseux,peseux,pe,58.71,70.27,83.57
+europe_lau,Peri,peri,pe,22.82,60.64,-108.49
+europe_lau,Petreto-Bicchisano,petreto_bicchisano,pe,48.92,64.93,79.92
+europe_lau,Petronell-Carnuntum,petronell_carnuntum,pe,48.66,60.56,79.69
+europe_lau,Pelonne,pelonne,pe,54.52,67.35,32.38
+europe_lau,Pennes-le-Sec,pennes_le_sec,pe,56.27,69.99,15.36
+europe_lau,Peyrins,peyrins,pe,59.98,74.17,50.82
+europe_lau,Peyrus,peyrus,pe,38.34,62.84,23.01
+europe_lau,Πέτρα του Διγενή,petra_tou_digene,pe,43.57,61.36,2.66
+europe_lau,Pellafol,pellafol,pe,49.79,74.07,58.65
+europe_lau,Penol,penol,pe,40.47,62.93,89.84
+europe_lau,Percy,percy,pe,23.47,43.01,55.88
+europe_lau,Πέρα Χωριό,pera_chorio,pe,20.61,32.3,94
+europe_lau,Peyremale,peyremale,pe,50.84,71.49,82.29
+europe_lau,Peyrolles,peyrolles,pe,27.42,63.8,90.52
+europe_lau,Pernay,pernay,pe,61.66,75,45.73
+europe_lau,Perrusson,perrusson,pe,32.76,59.94,60.12
+europe_lau,Perly-Certoux,perly_certoux,pe,48.7,68.41,45.73
+europe_lau,Pégairolles-de-Buèges,pegairolles_de_bueges,pe,43.55,64.78,31.43
+europe_lau,Pégairolles-de-l'Escalette,pegairolles_de_l_escalette,pe,45.93,62.62,75.2
+europe_lau,Péret,peret,pe,55.93,63.76,62.74
+europe_lau,Pérols,perols,pe,39.29,52.95,91.88
+europe_lau,Pézenas,pezenas,pe,45.13,64.88,76.53
+europe_lau,Pézènes-les-Mines,pezenes_les_mines,pe,58.45,59.76,39.35
+europe_lau,Péchaudier,pechaudier,pe,43.69,57.98,49.19
+europe_lau,Penne,penne,pe,57.06,66.11,25.01
+europe_lau,Peyregoux,peyregoux,pe,57.32,71.41,54.01
+europe_lau,Peyrole,peyrole,pe,22.43,39.2,-2.5
+europe_lau,Petříkov,petrikov,pe,45.83,64.03,14.62
+europe_lau,Pečice,pecice,pe,34.56,67.4,87.22
+europe_lau,Petrovice,petrovice,pe,49.25,63.26,50.58
+europe_lau,Petit-Bourg,petit_bourg,pe,47.19,65.68,43.5
+europe_lau,Petit-Canal,petit_canal,pe,47.03,56.63,56.02
+europe_lau,Pendé,pende,pe,32.38,59.82,91.22
+europe_lau,Pernois,pernois,pe,37.14,71.1,98.28
+europe_lau,Péronne,peronne,pe,36.57,49.12,92.28
+europe_lau,Pecqueuse,pecqueuse,pe,48.83,56.85,66.06
+europe_lau,Percey,percey,pe,45.59,68.69,27.48
+europe_lau,Perrigny,perrigny,pe,55.86,72.34,42.59
+europe_lau,Perrigny-sur-Armançon,perrigny_sur_armancon,pe,20.95,49.79,-129.48
+europe_lau,Perchtoldsdorf,perchtoldsdorf,pe,39.31,64.12,-2.54
+europe_lau,Péronne,peronne,pe,60.7,76.33,52.35
+europe_lau,Perrecy-les-Forges,perrecy_les_forges,pe,53.21,69.5,35.57
+europe_lau,Perreuil,perreuil,pe,70.04,76.07,64.09
+europe_lau,Perrigny-sur-Loire,perrigny_sur_loire,pe,32.79,51.3,66.89
+europe_lau,Perušić,perusic,pe,38.28,77.16,-13.94
+europe_lau,Peteranec,peteranec,pe,31.73,54.38,-27.42
+europe_lau,Petlovac,petlovac,pe,27.5,40.96,11.03
+europe_lau,Petrijanec,petrijanec,pe,53.39,63.68,59.21
+europe_lau,Petrijevci,petrijevci,pe,38.35,52.69,73.19
+europe_lau,Petrinja,petrinja,pe,38.81,59.82,89.04
+europe_lau,Petrovsko,petrovsko,pe,56.05,76.82,77.09
+europe_lau,Perpignan,perpignan,pe,51.6,59.61,40.39
+europe_lau,Peyrestortes,peyrestortes,pe,53.06,66.11,75.26
+europe_lau,Pézilla-de-Conflent,pezilla_de_conflent,pe,66.84,73.52,69.06
+europe_lau,Pézilla-la-Rivière,pezilla_la_riviere,pe,37.59,53.58,52.77
+europe_lau,Petite-Île,petite_ile,pe,35.87,61.96,83.72
+europe_lau,Pěčnov,pecnov,pe,47.72,60.78,24.05
+europe_lau,Petit-Landau,petit_landau,pe,46.65,63.57,-1.27
+europe_lau,Périgny,perigny,pe,52.68,71.08,31.55
+europe_lau,Pensol,pensol,pe,50.16,62.82,74.02
+europe_lau,Peyrat-de-Bellac,peyrat_de_bellac,pe,40.6,59.2,25.15
+europe_lau,Peyrat-le-Château,peyrat_le_chateau,pe,50.17,56,54.33
+europe_lau,Peyrilhac,peyrilhac,pe,50.68,63.6,18.61
+europe_lau,Petkovy,petkovy,pe,43.91,59.21,69.25
+europe_lau,Pečky,pecky,pe,50.52,65.7,54.46
+europe_lau,Perville,perville,pe,55.95,72.12,20.9
+europe_lau,Perceneige,perceneige,pe,42.08,58.5,61.76
+europe_lau,Perdreauville,perdreauville,pe,34.94,40.06,39.61
+europe_lau,Péré,pere,pe,33.61,50.85,63.84
+europe_lau,Peyraube,peyraube,pe,26.61,64.94,-134.74
+europe_lau,Peyret-Saint-André,peyret_saint_andre,pe,53.06,66.92,57.79
+europe_lau,Peyriguère,peyriguere,pe,34.71,44.53,57.93
+europe_lau,Peyrouse,peyrouse,pe,48.83,62.95,24.95
+europe_lau,Peyrun,peyrun,pe,50.8,76.09,25.91
+europe_lau,Pérouse,perouse,pe,59.64,79.1,71.33
+europe_lau,Petit-Croix,petit_croix,pe,39.66,65.01,99.36
+europe_lau,Petitefontaine,petitefontaine,pe,28,72.84,-11.36
+europe_lau,Petitmagny,petitmagny,pe,32.76,68.26,86.54
+europe_lau,Petrov,petrov,pe,40.64,59.96,42.06
+europe_lau,Pernes-les-Fontaines,pernes_les_fontaines,pe,34.9,57.73,-12.69
+europe_lau,Pertuis,pertuis,pe,35.58,60.7,-32.29
+europe_lau,Peypin-d'Aigues,peypin_d_aigues,pe,53.72,72.46,57.27
+europe_lau,Persan,persan,pe,43.65,66.45,12.86
+europe_lau,Persac,persac,pe,65.84,77.37,63.46
+europe_lau,Petrov nad Desnou,petrov_nad_desnou,pe,53.51,68.32,64.29
+europe_lau,Peray,peray,pe,42.71,53.33,53.42
+europe_lau,Pezé-le-Robert,peze_le_robert,pe,56.28,72.14,29.67
+europe_lau,Peuvillers,peuvillers,pe,35.19,48.34,15.28
+europe_lau,Περιστερώνα Πάφου,peristerona_paphou,pe,40.84,58.8,87.07
+europe_lau,Pertoltice pod Ralskem,pertoltice_pod_ralskem,pe,51.1,81.56,2.52
+europe_lau,Peisey-Nancroix,peisey_nancroix,pe,45.49,64.03,67.83
+europe_lau,Pecquencourt,pecquencourt,pe,55.92,70.71,25.7
+europe_lau,Pérenchies,perenchies,pe,47.37,76.61,76.88
+europe_lau,Péronne-en-Mélantois,peronne_en_melantois,pe,47.76,66.56,78.87
+europe_lau,Petite-Forêt,petite_foret,pe,60.42,82.41,74.55
+europe_lau,Petit-Fayt,petit_fayt,pe,22.58,41.4,36.64
+europe_lau,Πενταλιά,pentalia,pe,46.61,63.85,23.04
+europe_lau,Petit-Couronne,petit_couronne,pe,60.73,75.77,64.12
+europe_lau,Petiville,petiville,pe,51.32,66.14,65.76
+europe_lau,Petersbach,petersbach,pe,64.26,73.06,23.5
+europe_lau,Perroy,perroy,pe,42.03,58.05,42.03
+europe_lau,Peltre,peltre,pe,63.01,66.57,52.1
+europe_lau,Petit-Réderching,petit_rederching,pe,56.03,64.51,38.92
+europe_lau,Petit-Tenquin,petit_tenquin,pe,47.69,69.54,-2.65
+europe_lau,Petite-Rosselle,petite_rosselle,pe,50.53,68.57,48.9
+europe_lau,Pettoncourt,pettoncourt,pe,38.42,74.6,51.12
+europe_lau,Pévange,pevange,pe,38.81,57.38,-2.94
+europe_lau,Petříkov,petrikov,pe,43.38,59.45,18.76
+europe_lau,Petit-Caux,petit_caux,pe,41,59.75,4.08
+europe_lau,Peč,pec,pe,36.66,72.65,-31.65
+europe_lau,Pelves,pelves,pe,42.67,65.9,46.54
+europe_lau,Penin,penin,pe,66.71,73.96,26.73
+europe_lau,Pernes,pernes,pe,53.6,67.79,18.06
+europe_lau,Pernes-lès-Boulogne,pernes_les_boulogne,pe,69.5,73.17,48.9
+europe_lau,Persenbeug-Gottsdorf,persenbeug_gottsdorf,pe,27.6,41.22,96.61
+europe_lau,Peuplingues,peuplingues,pe,56.37,70.4,57.82
+europe_lau,Peyrelongue-Abos,peyrelongue_abos,pe,67.43,77.27,66.66
+europe_lau,Πελαθούσα,pelathousa,pe,53.9,63.63,46.41
+europe_lau,Petzenkirchen,petzenkirchen,pe,53.63,65.7,64.43
+europe_lau,Pennesières,pennesieres,pe,76.76,80.7,46.93
+europe_lau,Percey-le-Grand,percey_le_grand,pe,49.44,84.07,88.23
+europe_lau,Perrouse,perrouse,pe,35.89,67.16,74.55
+europe_lau,Pesmes,pesmes,pe,40.64,49.84,43.96
+europe_lau,Pětihosty,petihosty,pe,57.23,65.67,40.66
+europe_lau,Péaule,peaule,pe,51.13,66.69,32.62
+europe_lau,Peillac,peillac,pe,52.27,69.43,17.88
+europe_lau,Pénestin,penestin,pe,53.19,62.89,58.39
+europe_lau,Persquen,persquen,pe,42.38,63.54,86.95
+europe_lau,Pertoltice,pertoltice,pe,32.47,45.54,5.3
+europe_lau,Petrovice I,petrovice_i,pe,29.15,53.94,93.18
+europe_lau,Petrovice II,petrovice_ii,pe,31.34,48.69,82.05
+europe_lau,Peillonnex,peillonnex,pe,58.76,75.78,58.27
+europe_lau,Perrignier,perrignier,pe,38.03,60.55,-7.12
+europe_lau,Pers-Jussy,pers_jussy,pe,60.69,65.97,54.54
+europe_lau,Pelplin,pelplin,pe,45.72,67.31,22.11
+europe_lau,Pedemonte,pedemonte,pe,28.26,48.23,-19.35
+europe_lau,Pettorazza Grimani,pettorazza_grimani,pe,50.26,70.09,19.04
+europe_lau,Pereto,pereto,pe,37.92,72.01,17.51
+europe_lau,Pescasseroli,pescasseroli,pe,46.5,57.61,87.71
+europe_lau,Pescina,pescina,pe,26.26,42.71,31.44
+europe_lau,Pescocostanzo,pescocostanzo,pe,32.42,63.27,61.31
+europe_lau,Pettorano sul Gizio,pettorano_sul_gizio,pe,51.35,67.11,81.04
+europe_lau,Peschici,peschici,pe,44.89,57.08,73.01
+europe_lau,Pełczyce,pelczyce,pe,54.72,69.94,77.67
+europe_lau,Petralia Soprana,petralia_soprana,pe,30.01,46.71,98.87
+europe_lau,Petralia Sottana,petralia_sottana,pe,16.45,30.3,95
+europe_lau,Pedrengo,pedrengo,pe,47.43,73.05,7.33
+europe_lau,Peia,peia,pe,43.51,55,34.77
+europe_lau,Pedavena,pedavena,pe,54.48,72.97,79.44
+europe_lau,Perarolo di Cadore,perarolo_di_cadore,pe,57.7,68.95,74.18
+europe_lau,Perlejewo,perlejewo,pe,60.25,66.82,44.94
+europe_lau,Penna Sant'Andrea,penna_sant_andrea,pe,30.74,54.44,91.76
+europe_lau,Pescaglia,pescaglia,pe,55.61,56.89,51.07
+europe_lau,Pescia,pescia,pe,26.91,56.36,88.01
+europe_lau,Pelago,pelago,pe,39.51,64.76,-1.96
+europe_lau,Pedaso,pedaso,pe,57.2,78.12,82.04
+europe_lau,Petritoli,petritoli,pe,56.12,68.28,64.93
+europe_lau,Perschling,perschling,pe,51.29,67.83,90.69
+europe_lau,Percile,percile,pe,49.54,81.35,59.03
+europe_lau,Pederobba,pederobba,pe,30.55,55.45,-0.96
+europe_lau,Peio,peio,pe,53.02,55.88,50.17
+europe_lau,Pellizzano,pellizzano,pe,24.97,68.36,75.16
+europe_lau,Pelugo,pelugo,pe,18.21,41.82,-47.91
+europe_lau,Pergine Valsugana,pergine_valsugana,pe,51.98,65.2,87.53
+europe_lau,Penne,penne,pe,45.06,55.82,31.61
+europe_lau,Pescara,pescara,pe,46.12,60.24,62
+europe_lau,Pescosansonesco,pescosansonesco,pe,46.26,66.76,48.14
+europe_lau,Pęcław,peclaw,pe,37.28,56.87,41.56
+europe_lau,Petruro Irpino,petruro_irpino,pe,32.06,53.5,67.44
+europe_lau,Pec,pec,pe,41.93,63.43,30.1
+europe_lau,Petrovice,petrovice,pe,40.49,74.45,91.51
+europe_lau,Peccioli,peccioli,pe,49.03,61.88,45.48
+europe_lau,Perdaxius,perdaxius,pe,63.3,69.86,75.92
+europe_lau,Petrosino,petrosino,pe,39.94,51.26,24.95
+europe_lau,Pescantina,pescantina,pe,27.49,54.17,-47.56
+europe_lau,Peschiera del Garda,peschiera_del_garda,pe,38.29,51.83,18
+europe_lau,Pennadomo,pennadomo,pe,25.01,52.63,59.79
+europe_lau,Pennapiedimonte,pennapiedimonte,pe,42.78,65.01,32.85
+europe_lau,Perano,perano,pe,40.36,67.35,11.24
+europe_lau,Pępowo,pepowo,pe,56.04,66.6,84.19
+europe_lau,Pedesina,pedesina,pe,30.43,67.59,-32.85
+europe_lau,Petrovičky,petrovicky,pe,62.88,73.97,42.61
+europe_lau,Pellezzano,pellezzano,pe,50.79,62.64,46.97
+europe_lau,Perdifumo,perdifumo,pe,63.41,72.27,34.71
+europe_lau,Perito,perito,pe,43.68,59.8,82.35
+europe_lau,Pertosa,pertosa,pe,53.58,61.66,73.13
+europe_lau,Petina,petina,pe,52.46,59.57,63.71
+europe_lau,Peglio,peglio,pe,54.81,67.29,37.92
+europe_lau,Pergola,pergola,pe,50.56,62.42,63.9
+europe_lau,Pesaro,pesaro,pe,39.64,48.93,85.41
+europe_lau,Petriano,petriano,pe,35.68,68.18,64.65
+europe_lau,Petrůvka,petruvka,pe,55.6,75.1,70.18
+europe_lau,Pettineo,pettineo,pe,47.83,57.07,62.75
+europe_lau,Pescosolido,pescosolido,pe,69.16,72.95,70.26
+europe_lau,Pertica Alta,pertica_alta,pe,31.24,38.97,72.66
+europe_lau,Pertica Bassa,pertica_bassa,pe,47.18,72.22,66.98
+europe_lau,Pezzaze,pezzaze,pe,44.45,53.55,54.66
+europe_lau,Pernumia,pernumia,pe,45.32,53.37,45.73
+europe_lau,Pennabilli,pennabilli,pe,27.03,58.3,66.08
+europe_lau,Petacciato,petacciato,pe,61.57,64.97,59.55
+europe_lau,Petrella Tifernina,petrella_tifernina,pe,50.87,59.87,59.07
+europe_lau,Pero,pero,pe,45.45,60.6,43.03
+europe_lau,Penna San Giovanni,penna_san_giovanni,pe,38.54,63.92,9.67
+europe_lau,Petriolo,petriolo,pe,63.24,72.93,38.58
+europe_lau,Petilia Policastro,petilia_policastro,pe,21.87,50.68,-7.73
+europe_lau,Peschiera Borromeo,peschiera_borromeo,pe,68.03,70.7,60.22
+europe_lau,Pessano con Bornago,pessano_con_bornago,pe,48.66,70.6,6.1
+europe_lau,Petrovice u Sušice,petrovice_u_susice,pe,42.16,55.01,46.43
+europe_lau,Pétange,petange,pe,46.38,70.81,41.31
+europe_lau,Pedara,pedara,pe,21.23,60.41,87.05
+europe_lau,Pellérd,pellerd,pe,53.92,61.56,76.16
+europe_lau,Pecetto di Valenza,pecetto_di_valenza,pe,35.35,66.57,86.77
+europe_lau,Petrivente,petrivente,pe,27.34,58.83,87.55
+europe_lau,Pentone,pentone,pe,46.37,65.23,8.67
+europe_lau,Petrizzi,petrizzi,pe,49.44,73.96,13.81
+europe_lau,Petronà,petrona,pe,15.23,41.74,14.16
+europe_lau,Pescorocchiano,pescorocchiano,pe,39.42,50.23,47.64
+europe_lau,Petrella Salto,petrella_salto,pe,47.59,63.46,75.59
+europe_lau,Pétervására,petervasara,pe,23.59,43.22,40.36
+europe_lau,Pécsudvard,pecsudvard,pe,44.76,63.71,91.54
+europe_lau,Pécsbagota,pecsbagota,pe,50.39,74.22,93.62
+europe_lau,Péteri,peteri,pe,46.12,71.48,30.43
+europe_lau,Périgné,perigne,pe,57.61,68.87,29.83
+europe_lau,Pers,pers,pe,42.96,63.25,91.71
+europe_lau,Penészlek,peneszlek,pe,69.15,73.28,56.93
+europe_lau,Petneháza,petnehaza,pe,62.29,64.8,56.11
+europe_lau,Pembroke,pembroke,pe,53.49,73.79,15.63
+europe_lau,Pereked,pereked,pe,53.98,64.58,77.28
+europe_lau,Perletto,perletto,pe,27.38,53.72,73.13
+europe_lau,Perlo,perlo,pe,52.63,72.88,84.1
+europe_lau,Peveragno,peveragno,pe,36.24,69.63,85.26
+europe_lau,Pezzolo Valle Uzzone,pezzolo_valle_uzzone,pe,57.19,67.14,81.27
+europe_lau,Peresznye,peresznye,pe,30.8,47.65,-6.65
+europe_lau,Péault,peault,pe,45.74,66.24,-12.08
+europe_lau,Petosse,petosse,pe,54.82,66.36,45.04
+europe_lau,Pecetto Torinese,pecetto_torinese,pe,27.14,65.72,89
+europe_lau,Perosa Argentina,perosa_argentina,pe,46.97,66.66,34.07
+europe_lau,Perosa Canavese,perosa_canavese,pe,45.87,64.72,91.91
+europe_lau,Perrero,perrero,pe,44.71,57.13,89.19
+europe_lau,Pertusio,pertusio,pe,59.15,78.92,71.3
+europe_lau,Pessinetto,pessinetto,pe,31.87,67.88,2.47
+europe_lau,Pécel,pecel,pe,44.42,57.8,26.98
+europe_lau,Pécsely,pecsely,pe,45.33,71.23,81.09
+europe_lau,Pellegrino Parmense,pellegrino_parmense,pe,58.98,60.06,57.35
+europe_lau,Petőháza,petohaza,pe,65.7,83.09,58.78
+europe_lau,Perloz,perloz,pe,32.43,50.59,72.6
+europe_lau,Perőcsény,perocseny,pe,31.79,74.78,56.73
+europe_lau,Pescopagano,pescopagano,pe,56.62,59.82,34.39
+europe_lau,Perinaldo,perinaldo,pe,63.14,72.02,45.49
+europe_lau,Peterd,peterd,pe,61.81,76.29,72.33
+europe_lau,Pécy,pecy,pe,55.28,63.41,65.32
+europe_lau,Penchard,penchard,pe,52.02,71.63,64.74
+europe_lau,Perthes,perthes,pe,51.84,70.06,-11.54
+europe_lau,Pézarches,pezarches,pe,60.19,69.07,71.91
+europe_lau,Perenye,perenye,pe,55.09,66.42,55.09
+europe_lau,Persico Dosimo,persico_dosimo,pe,50.79,58.33,39.69
+europe_lau,Perecse,perecse,pe,27.83,39.05,70.83
+europe_lau,Penyige,penyige,pe,27.13,48.25,88.75
+europe_lau,Perbál,perbal,pe,41.33,57.13,24.23
+europe_lau,Pescarolo ed Uniti,pescarolo_ed_uniti,pe,49.91,69.89,48.74
+europe_lau,Pessina Cremonese,pessina_cremonese,pe,59.42,66.23,54.06
+europe_lau,Pereszteg,pereszteg,pe,42.42,61.62,69.42
+europe_lau,Peglio,peglio,pe,31.63,59.68,83.8
+europe_lau,Penc,penc,pe,47.43,69.11,41.12
+europe_lau,Perkupa,perkupa,pe,54.58,63.82,65.89
+europe_lau,Petrikeresztúr,petrikeresztur,pe,60.16,68.52,79.54
+europe_lau,Perugia,perugia,pe,40.01,51,58.52
+europe_lau,Petőfibánya,petofibanya,pe,52.45,74.7,90.7
+europe_lau,Pécsvárad,pecsvarad,pe,37.75,46.97,77.39
+europe_lau,Pecöl,pecol,pe,43.72,64.03,90.91
+europe_lau,Pertengo,pertengo,pe,56.66,79.57,34.01
+europe_lau,Pezzana,pezzana,pe,45.17,62.76,-9.36
+europe_lau,Pelhřimov,pelhrimov,pe,37.07,47.25,5.72
+europe_lau,Pere,pere,pe,65.75,86.92,54.45
+europe_lau,Péterhida,peterhida,pe,38.29,65.97,95.27
+europe_lau,Pethőhenye,pethohenye,pe,54.02,64.12,83.6
+europe_lau,Pegognaga,pegognaga,pe,56.11,62.96,21.18
+europe_lau,Perkáta,perkata,pe,58.19,65.65,62.62
+europe_lau,Pécs,pecs,pe,51.5,61.5,60.67
+europe_lau,Pély,pely,pe,46.74,70.08,67.91
+europe_lau,Pesco Sannita,pesco_sannita,pe,31.65,62.66,93.31
+europe_lau,Pedivigliano,pedivigliano,pe,18.41,50.67,-166.64
+europe_lau,Pétfürdő,petfurdo,pe,57.32,55.32,49.42
+europe_lau,Pécsdevecser,pecsdevecser,pe,54.3,73.08,33.29
+europe_lau,Petőfiszállás,petofiszallas,pe,51.56,66.91,44
+europe_lau,Pér,per,pe,56.18,72.46,46.48
+europe_lau,Pénzesgyőr,penzesgyor,pe,45.94,62.15,85.62
+europe_lau,Penna in Teverina,penna_in_teverina,pe,49.78,60.86,64.7
+europe_lau,Petőmihályfa,petomihalyfa,pe,50.09,60.75,78.75
+europe_lau,Pella,pella,pe,25.75,50.75,86.08
+europe_lau,Pettenasco,pettenasco,pe,32.43,57.72,95.61
+europe_lau,Pettend,pettend,pe,28.37,42.41,-22.94
+europe_lau,Pesvice,pesvice,pe,44.34,65.48,87.99
+europe_lau,Perca/Percha,perca_percha,pe,23.9,56.67,89.64
+europe_lau,Petrovice,petrovice,pe,53.09,71.59,82.82
+europe_lau,Peder,peder,pe,31.85,56.15,86.86
+europe_lau,Perín-Chym,perin_chym,pe,44.58,67.2,23.12
+europe_lau,Pecka,pecka,pe,64.19,66.97,60.44
+europe_lau,Pěčice,pecice,pe,28.35,59.3,-63.3
+europe_lau,Petreştii de Jos,petrestii_de_jos,pe,60.13,68.77,48.46
+europe_lau,Pechea,pechea,pe,55.16,71.49,23.12
+europe_lau,Petru Rareş,petru_rares,pe,37.37,63.45,91.97
+europe_lau,Petrovice,petrovice,pe,30.69,69.83,78.54
+europe_lau,Petrikovce,petrikovce,pe,49.04,67.73,61.61
+europe_lau,Petrovce (okres Sobrance),petrovce_okres_sobrance,pe,31.2,66.13,93.52
+europe_lau,Petrovce nad Laborcom,petrovce_nad_laborcom,pe,57.61,75.7,68.49
+europe_lau,Petrova Lehota,petrova_lehota,pe,44,60.76,92.68
+europe_lau,Perálec,peralec,pe,39.72,60.27,85.06
+europe_lau,Perieţi,perieti,pe,54.98,71.17,68.91
+europe_lau,Pecineaga,pecineaga,pe,48.31,57.14,36.09
+europe_lau,Peştera,pestera,pe,70.77,69.87,55.53
+europe_lau,Peştişani,pestisani,pe,24.42,51.08,93.38
+europe_lau,Petrovac na Mlavi,petrovac_na_mlavi,pe,62.37,67.9,74.16
+europe_lau,Pećinci,pecinci,pe,47.18,64.82,97.43
+europe_lau,Pego,pego,pe,63.59,69.3,53.22
+europe_lau,Pencelo,pencelo,pe,50.72,63.62,44.96
+europe_lau,Petrova Ves,petrova_ves,pe,22.75,63.47,74.86
+europe_lau,Pedrógão Grande,pedrogao_grande,pe,32.99,58.29,92.29
+europe_lau,Peniche,peniche,pe,46.21,67.75,-7.62
+europe_lau,Pelariga,pelariga,pe,39.89,59.51,46.78
+europe_lau,Pečeňany,pecenany,pe,39.69,47.57,73.95
+europe_lau,Pedreiras,pedreiras,pe,46.62,72.48,93.22
+europe_lau,Petrovice,petrovice,pe,56.35,66.46,66.15
+europe_lau,Petreşti,petresti,pe,45.16,54.41,49.65
+europe_lau,Perşinari,persinari,pe,56.5,62,68.94
+europe_lau,Petrovaradin,petrovaradin,pe,56.82,63.96,67.86
+europe_lau,Pernes,pernes,pe,57.54,70.35,33.77
+europe_lau,Pedrógão,pedrogao,pe,45.13,67.48,-8.16
+europe_lau,Petrovce (okres Rimavská Sobota),petrovce_okres_rimavska_sobota,pe,56.21,58.88,45.18
+europe_lau,Pestişu Mic,pestisu_mic,pe,37.58,63.31,-34.12
+europe_lau,Petrová,petrova,pe,40.01,55.43,63.22
+europe_lau,Pedome,pedome,pe,52.36,73.89,86.14
+europe_lau,Peral,peral,pe,50.55,62.81,33.46
+europe_lau,Petkovce,petkovce,pe,53.87,81.41,65.08
+europe_lau,Petrovce (okres Vranov nad Topľou),petrovce_okres_vranov_nad_toplou,pe,37,86.03,49.07
+europe_lau,Penha de França,penha_de_franca,pe,46.23,62.88,67.49
+europe_lau,Petrovice,petrovice,pe,54.74,59.44,31.37
+europe_lau,Perstorp,perstorp,pe,54.87,68.28,90.87
+europe_lau,Petreşti,petresti,pe,49.9,72.59,67.1
+europe_lau,Perieţi,perieti,pe,47.29,66.46,78.98
+europe_lau,Perişoru,perisoru,pe,34.84,59.04,93.99
+europe_lau,Pečovská Nová Ves,pecovska_nova_ves,pe,50.91,71.52,82.59
+europe_lau,Petrovany,petrovany,pe,55.39,71.73,78.08
+europe_lau,Perwang am Grabensee,perwang_am_grabensee,pe,24.42,49.94,50.8
+europe_lau,Pečeňady,pecenady,pe,34.77,77.01,-15.58
+europe_lau,Petrovo,petrovo,pe,45.64,60.77,70.51
+europe_lau,Pernek,pernek,pe,45.18,66.04,26.58
+europe_lau,Pezinok,pezinok,pe,46,52.37,71.14
+europe_lau,Perişor,perisor,pe,60.46,63.92,68.1
+europe_lau,Pečenice,pecenice,pe,22.67,58.65,-170.29
+europe_lau,Pesnica,pesnica,pe,58.28,62.88,79.2
+europe_lau,Pedraça,pedraca,pe,55.79,63.89,75.97
+europe_lau,Pendilhe,pendilhe,pe,40.58,71.16,84.01
+europe_lau,Penela da Beira,penela_da_beira,pe,62.99,73.95,76.19
+europe_lau,Pelmá,pelma,pe,40.97,69.21,95.64
+europe_lau,Pernarec,pernarec,pe,39.5,54.49,91.97
+europe_lau,Perre,perre,pe,37.61,43.37,58.54
+europe_lau,Pegarinhos,pegarinhos,pe,56.14,72.97,75.6
+europe_lau,Penas Roias,penas_roias,pe,35.52,64.9,45.15
+europe_lau,Peredo da Bemposta,peredo_da_bemposta,pe,34.97,47.12,88.75
+europe_lau,Petrova,petrova,pe,47.22,68.5,68.63
+europe_lau,Peceneaga,peceneaga,pe,37.8,63.69,95.48
+europe_lau,Pekela,pekela,pe,41.51,77.88,78.84
+europe_lau,Pessegueiro do Vouga,pessegueiro_do_vouga,pe,42.06,67.98,6.59
+europe_lau,Pechão,pechao,pe,47.13,77.86,95.52
+europe_lau,Pettinengo,pettinengo,pe,36.32,55.75,60.33
+europe_lau,Penhas Juntas,penhas_juntas,pe,40.87,65.68,45.66
+europe_lau,Peraboa,peraboa,pe,43.27,60.53,74.43
+europe_lau,Perişani,perisani,pe,20.75,42.51,96.82
+europe_lau,Pesceana,pesceana,pe,36.42,67.13,90.25
+europe_lau,Perfugas,perfugas,pe,50.64,59.89,11.8
+europe_lau,Пехчево,pehcevo,pe,47.02,58.04,56.69
+europe_lau,Peretu,peretu,pe,36.91,44.4,59.74
+europe_lau,Perzów,perzow,pe,48.64,68.7,91.68
+europe_lau,Pena Verde,pena_verde,pe,59.86,78.61,87.21
+europe_lau,Pernink,pernink,pe,48.4,58.44,80.1
+europe_lau,Perledo,perledo,pe,53.97,72.23,40.35
+europe_lau,Pescate,pescate,pe,36.25,64.71,93.91
+europe_lau,Peel en Maas,peel_en_maas,pe,50.5,61.53,16.68
+europe_lau,Pêro Viseu,pero_viseu,pe,56.91,68.57,42.7
+europe_lau,Penha Garcia,penha_garcia,pe,55.77,73.38,50.86
+europe_lau,Penamacor,penamacor,pe,31.95,47.06,32.37
+europe_lau,Peregu Mare,peregu_mare,pe,49.79,61.97,30.16
+europe_lau,Petriş,petris,pe,35.59,61.75,98.97
+europe_lau,Petelea,petelea,pe,53.79,66.01,32.16
+europe_lau,Penacova,penacova,pe,45.55,64.2,66.67
+europe_lau,Петровец,petrovec,pe,53.09,54.73,52.85
+europe_lau,Pembroke,pembroke,pe,48.47,63.82,7.99
+europe_lau,Pernitz,pernitz,pe,34.77,47.83,31.72
+europe_lau,Pedrógão Pequeno,pedrogao_pequeno,pe,54.21,61.75,43.13
+europe_lau,Perais,perais,pe,55.61,68,45.55
+europe_lau,Pedro Miguel,pedro_miguel,pe,25.17,73.68,-92.89
+europe_lau,Pedrouços,pedroucos,pe,51.79,61.36,69.78
+europe_lau,Pedrógão,pedrogao,pe,34.92,48.91,10.45
+europe_lau,Pęczniew,peczniew,pe,47.28,63.85,81.63
+europe_lau,Pelechy,pelechy,pe,34.24,59.05,21.58
+europe_lau,Peciu Nou,peciu_nou,pe,58.39,72.48,35.29
+europe_lau,Periam,periam,pe,64.99,72.15,84.17
+europe_lau,Pesac,pesac,pe,57.22,74.22,68.75
+europe_lau,Pereira,pereira,pe,62.87,71.36,64.17
+europe_lau,Perelhal,perelhal,pe,56.73,73.68,55.5
+europe_lau,Pega,pega,pe,50.19,70.46,19.23
+europe_lau,Pêra do Moço,pera_do_moco,pe,40.62,56.86,71.62
+europe_lau,Perštejn,perstejn,pe,27.57,51.73,-10.93
+europe_lau,Pětipsy,petipsy,pe,39.28,58.24,-22.41
+europe_lau,Perdasdefogu,perdasdefogu,pe,60,74.34,64.81
+europe_lau,Pericei,pericei,pe,54.23,57.21,73.77
+europe_lau,Penso,penso,pe,66.17,70.11,51.81
+europe_lau,Pepim,pepim,pe,42.2,70.61,58.38
+europe_lau,Petricani,petricani,pe,37.69,58.33,98.12
+europe_lau,Penha Longa e Paços de Gaiolo,penha_longa_e_pacos_de_gaiolo,pe,49.4,64.81,12.06
+europe_lau,Pereiros,pereiros,pe,56.79,73.84,7.4
+europe_lau,Penamaior,penamaior,pe,58.15,65.63,77.44
+europe_lau,Perozelo,perozelo,pe,47.61,69.46,94.52
+europe_lau,Penafiel,penafiel,pe,51.07,53.21,47.87
+europe_lau,Pedralva,pedralva,pe,47.56,68.06,81.05
+europe_lau,Pěnčín,pencin,pe,44.06,64.28,66.64
+europe_lau,Perieni,perieni,pe,22.08,52.76,77.34
+europe_lau,Peruc,peruc,pe,48.96,51.79,59.83
+europe_lau,Petrohrad,petrohrad,pe,63.86,69.22,61.41
+europe_lau,Pěnčín,pencin,pe,43.35,64.85,93.86
+europe_lau,Pertoltice,pertoltice,pe,52.87,66.2,70.56
+europe_lau,Penajóia,penajoia,pe,52,58.71,46.72
+europe_lau,Penude,penude,pe,49.18,66.63,84.15
+europe_lau,Pereira,pereira,pe,37.58,69.63,96.35
+europe_lau,Pesche,pesche,pe,46.24,66.96,12.56
+europe_lau,Pescolanciano,pescolanciano,pe,26.76,48,89.78
+europe_lau,Pescopennataro,pescopennataro,pe,67.32,69.9,56.08
+europe_lau,Pettoranello del Molise,pettoranello_del_molise,pe,45.17,64.82,90.69
+europe_lau,Peredo,peredo,pe,47.97,62.59,19.82
+europe_lau,Pessegueiro,pessegueiro,pe,32.9,56.98,98.25
+europe_lau,Penacova,penacova,pe,44.39,59.72,66.82
+europe_lau,Periş,peris,pe,47.68,65.67,88.57
+europe_lau,Petrăchioaia,petrachioaia,pe,57.13,67.05,69.52
+europe_lau,Penango,penango,pe,39.87,68.06,20.59
+europe_lau,Peñacerrada-Urizaharra,penacerrada_urizaharra,pe,37.4,56.35,-6.78

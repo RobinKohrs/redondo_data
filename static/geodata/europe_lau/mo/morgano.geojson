@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "morgano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Morgano", "metric_roundness": 46.8, "metric_rectangularity": 64.76, "metric_mobile_fit": 68.49, "metric_aspect_ratio": 0.878, "metric_area_km2": 24.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.0784323, 45.625794099999979 ], [ 12.086845, 45.6234585 ], [ 12.0959659, 45.6270118 ], [ 12.1123631, 45.62633 ], [ 12.1199205, 45.6312345 ], [ 12.1313005, 45.660924 ], [ 12.116895, 45.66896 ], [ 12.0998461, 45.6549048 ], [ 12.0953568, 45.645924 ], [ 12.0741815, 45.641666 ], [ 12.0784323, 45.625794099999979 ] ] ] } }
+]
+}

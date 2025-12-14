@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roudna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roudná", "metric_roundness": 42.4, "metric_rectangularity": 50.64, "metric_mobile_fit": 49.77, "metric_aspect_ratio": 1.065, "metric_area_km2": 8.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.716945, 49.314631 ], [ 14.7190047, 49.3110414 ], [ 14.7174049, 49.3076216 ], [ 14.6992178, 49.3013995 ], [ 14.6947335, 49.292301 ], [ 14.6999494, 49.2997272 ], [ 14.7092939, 49.301136199999981 ], [ 14.7089132, 49.293826799999984 ], [ 14.726291, 49.2907495 ], [ 14.7323255, 49.2914805 ], [ 14.733731, 49.307266499999983 ], [ 14.716945, 49.314631 ] ] ] } }
+]
+}

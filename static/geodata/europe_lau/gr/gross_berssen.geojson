@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gross_berssen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Groß Berßen", "metric_roundness": 55.99, "metric_rectangularity": 81.09, "metric_mobile_fit": 84.35, "metric_aspect_ratio": 0.719, "metric_area_km2": 55.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.500249, 52.750949 ], [ 7.5295625, 52.7617975 ], [ 7.5222998, 52.776187799999988 ], [ 7.5208455, 52.789546 ], [ 7.524859, 52.80034149999998 ], [ 7.509046, 52.8037507 ], [ 7.4904995, 52.8001745 ], [ 7.476009, 52.802966 ], [ 7.463009, 52.8020825 ], [ 7.4665594, 52.782091199999989 ], [ 7.4739145, 52.7707845 ], [ 7.4711284, 52.759983299999988 ], [ 7.4769985, 52.7477575 ], [ 7.500249, 52.750949 ] ] ] } }
+]
+}

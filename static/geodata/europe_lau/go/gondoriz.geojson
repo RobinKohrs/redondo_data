@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gondoriz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gondoriz", "metric_roundness": 50.41, "metric_rectangularity": 60.17, "metric_mobile_fit": 60.75, "metric_aspect_ratio": 0.955, "metric_area_km2": 13.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.292793, 41.728568 ], [ -8.270069, 41.739311 ], [ -8.2868534, 41.7419892 ], [ -8.2899745, 41.7473579 ], [ -8.2901058, 41.7565639 ], [ -8.308066, 41.7595975 ], [ -8.3147929, 41.7380323 ], [ -8.30662, 41.7246535 ], [ -8.292793, 41.728568 ] ] ] } }
+]
+}

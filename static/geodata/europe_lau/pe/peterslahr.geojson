@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "peterslahr",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Peterslahr", "metric_roundness": 41.1, "metric_rectangularity": 79.72, "metric_mobile_fit": 85.2, "metric_aspect_ratio": 0.71, "metric_area_km2": 5.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.491036, 50.6067565 ], [ 7.486086, 50.6089055 ], [ 7.488614, 50.611844 ], [ 7.4838927, 50.6164084 ], [ 7.4739466, 50.6194788 ], [ 7.471418, 50.6178284 ], [ 7.472171, 50.610496 ], [ 7.4848155, 50.597445 ], [ 7.49485, 50.600696 ], [ 7.496085, 50.603493 ], [ 7.491036, 50.6067565 ] ] ] } }
+]
+}

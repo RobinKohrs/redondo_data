@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "slavikovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Slavíkovice", "metric_roundness": 29.5, "metric_rectangularity": 62.11, "metric_mobile_fit": 23.57, "metric_aspect_ratio": 1.327, "metric_area_km2": 12.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.603575, 49.008196 ], [ 15.6041605, 49.003098 ], [ 15.6291325, 48.991568 ], [ 15.64985, 48.993307 ], [ 15.6450045, 49.000496099999985 ], [ 15.6312042, 49.0035548 ], [ 15.629409, 49.0084837 ], [ 15.615158, 49.018181 ], [ 15.6095796, 49.0140782 ], [ 15.596025, 49.017064 ], [ 15.603575, 49.008196 ] ] ] } }
+]
+}

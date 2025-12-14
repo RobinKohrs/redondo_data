@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "langballig",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Langballig", "metric_roundness": 56.25, "metric_rectangularity": 67.5, "metric_mobile_fit": 84.76, "metric_aspect_ratio": 0.715, "metric_area_km2": 33.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6340291, 54.794030199999987 ], [ 9.6384974, 54.7858963 ], [ 9.6466015, 54.783978 ], [ 9.6571644, 54.7941498 ], [ 9.6659073, 54.794966599999988 ], [ 9.6670925, 54.8000785 ], [ 9.6634648, 54.802049299999986 ], [ 9.6662354, 54.8053094 ], [ 9.6615418, 54.8188604 ], [ 9.665615, 54.822023 ], [ 9.6507926, 54.82169 ], [ 9.633578, 54.8283965 ], [ 9.6160875, 54.814694 ], [ 9.6119985, 54.796978 ], [ 9.6340291, 54.794030199999987 ] ] ] } }
+]
+}

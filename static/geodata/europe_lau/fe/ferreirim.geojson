@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ferreirim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ferreirim", "metric_roundness": 63.62, "metric_rectangularity": 73.96, "metric_mobile_fit": 30.22, "metric_aspect_ratio": 1.26, "metric_area_km2": 9.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7741513, 41.0551424 ], [ -7.787874, 41.0564728 ], [ -7.797188, 41.0510565 ], [ -7.7880915, 41.0355885 ], [ -7.7805785, 41.0341564 ], [ -7.770789, 41.0366268 ], [ -7.7575595, 41.048374 ], [ -7.7688505, 41.05787 ], [ -7.7741513, 41.0551424 ] ] ] } }
+]
+}

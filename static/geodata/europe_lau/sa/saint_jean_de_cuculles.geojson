@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_de_cuculles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-de-Cuculles", "metric_roundness": 35.37, "metric_rectangularity": 55.18, "metric_mobile_fit": 99.86, "metric_aspect_ratio": 0.564, "metric_area_km2": 17.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8192963, 43.7669419 ], [ 3.8248473, 43.758894 ], [ 3.8178611, 43.755913299999982 ], [ 3.8157115, 43.747247 ], [ 3.8230142, 43.7442955 ], [ 3.8295202, 43.736768 ], [ 3.830729, 43.729672 ], [ 3.83846, 43.7288886 ], [ 3.8442912, 43.7327 ], [ 3.8466795, 43.7359156 ], [ 3.8424996, 43.7412773 ], [ 3.854005, 43.7489925 ], [ 3.8489369, 43.759245899999989 ], [ 3.823569, 43.7760445 ], [ 3.8195115, 43.777942499999988 ], [ 3.8192963, 43.7669419 ] ] ] } }
+]
+}

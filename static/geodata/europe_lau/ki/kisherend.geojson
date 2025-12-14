@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kisherend",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kisherend", "metric_roundness": 40.33, "metric_rectangularity": 64.98, "metric_mobile_fit": 98.11, "metric_aspect_ratio": 0.581, "metric_area_km2": 14.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.3209202, 45.9796556 ], [ 18.3141007, 45.961043599999989 ], [ 18.3096459, 45.9571426 ], [ 18.309325, 45.9496375 ], [ 18.3165982, 45.953409299999983 ], [ 18.3233772, 45.944057699999981 ], [ 18.332512, 45.946744 ], [ 18.3350804, 45.9554146 ], [ 18.34112, 45.958091 ], [ 18.3441798, 45.962521699999982 ], [ 18.3384138, 45.969163399999978 ], [ 18.340281, 45.9744532 ], [ 18.331654, 45.985728 ], [ 18.3209202, 45.9796556 ] ] ] } }
+]
+}

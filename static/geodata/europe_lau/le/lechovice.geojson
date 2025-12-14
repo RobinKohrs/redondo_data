@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lechovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lechovice", "metric_roundness": 32.58, "metric_rectangularity": 67.86, "metric_mobile_fit": 73.95, "metric_aspect_ratio": 0.823, "metric_area_km2": 13.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2293955, 48.8833975 ], [ 16.225961, 48.88325 ], [ 16.221328, 48.883051 ], [ 16.2140569, 48.8773069 ], [ 16.194063, 48.849261 ], [ 16.2054525, 48.845465 ], [ 16.221295, 48.8655915 ], [ 16.2301086, 48.864769099999982 ], [ 16.2384505, 48.8712201 ], [ 16.2415165, 48.878567 ], [ 16.2356695, 48.882472499999984 ], [ 16.2293955, 48.8833975 ] ] ] } }
+]
+}

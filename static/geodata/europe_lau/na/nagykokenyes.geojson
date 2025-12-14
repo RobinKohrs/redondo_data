@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nagykokenyes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nagykökényes", "metric_roundness": 68.79, "metric_rectangularity": 88.84, "metric_mobile_fit": 57.86, "metric_aspect_ratio": 0.984, "metric_area_km2": 37.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.570937, 47.7348995 ], [ 19.6067295, 47.711911 ], [ 19.6152457, 47.7122576 ], [ 19.6438495, 47.7364405 ], [ 19.6393935, 47.74048 ], [ 19.6346845, 47.749299499999985 ], [ 19.629409, 47.754129 ], [ 19.6138568, 47.761748 ], [ 19.5873095, 47.746688499999983 ], [ 19.570937, 47.7348995 ] ] ] } }
+]
+}

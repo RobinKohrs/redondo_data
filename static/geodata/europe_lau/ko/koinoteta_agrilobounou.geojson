@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agrilobounou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγριλοβούνου", "metric_roundness": 54.31, "metric_rectangularity": 76.42, "metric_mobile_fit": 60.75, "metric_aspect_ratio": 0.955, "metric_area_km2": 3.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9354525, 37.302026 ], [ 21.936176, 37.2961585 ], [ 21.9424976, 37.2915624 ], [ 21.9538705, 37.2943315 ], [ 21.952994, 37.297528 ], [ 21.9524875, 37.3048285 ], [ 21.9465014, 37.30458 ], [ 21.9435574, 37.3088549 ], [ 21.9331105, 37.3074805 ], [ 21.9354525, 37.302026 ] ] ] } }
+]
+}

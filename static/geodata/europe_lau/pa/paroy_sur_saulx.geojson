@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "paroy_sur_saulx",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Paroy-sur-Saulx", "metric_roundness": 35.3, "metric_rectangularity": 53.95, "metric_mobile_fit": -2.53, "metric_aspect_ratio": 1.588, "metric_area_km2": 17.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2282139, 48.530987499999988 ], [ 5.2219455, 48.526478 ], [ 5.2295, 48.519552699999977 ], [ 5.2236819, 48.510850599999984 ], [ 5.2338035, 48.502951499999988 ], [ 5.249051, 48.5032103 ], [ 5.2595477, 48.506090899999982 ], [ 5.2726044, 48.509674 ], [ 5.2891505, 48.510525 ], [ 5.2856913, 48.5147384 ], [ 5.2725642, 48.5137476 ], [ 5.2630392, 48.5198812 ], [ 5.2595477, 48.520994699999989 ], [ 5.2282139, 48.530987499999988 ] ] ] } }
+]
+}

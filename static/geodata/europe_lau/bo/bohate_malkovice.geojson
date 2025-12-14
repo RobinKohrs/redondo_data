@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bohate_malkovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bohaté Málkovice", "metric_roundness": 55.5, "metric_rectangularity": 71.27, "metric_mobile_fit": 35.76, "metric_aspect_ratio": 1.205, "metric_area_km2": 11.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.0166998, 49.178234 ], [ 17.0290555, 49.185748499999974 ], [ 17.0253612, 49.1920254 ], [ 17.005732, 49.19728749999998 ], [ 16.9965404, 49.199467399999982 ], [ 16.98659, 49.196912 ], [ 16.9879375, 49.193809499999986 ], [ 16.989909, 49.191437 ], [ 16.99058, 49.1890105 ], [ 16.994066, 49.185446 ], [ 16.9960695, 49.183484 ], [ 16.997737, 49.1816575 ], [ 17.000309, 49.1789845 ], [ 17.003399, 49.176432499999983 ], [ 17.0166998, 49.178234 ] ] ] } }
+]
+}

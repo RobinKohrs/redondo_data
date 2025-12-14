@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chatillon_sur_lison",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Châtillon-sur-Lison", "metric_roundness": 27.12, "metric_rectangularity": 50.89, "metric_mobile_fit": 93.0, "metric_aspect_ratio": 0.492, "metric_area_km2": 5.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9741797, 47.061988299999989 ], [ 5.9791502, 47.059445899999986 ], [ 5.9856955, 47.060325 ], [ 5.9920731, 47.0637632 ], [ 5.9865835, 47.0724095 ], [ 5.9809841, 47.075853899999984 ], [ 5.9851826, 47.082615499999989 ], [ 5.9843919, 47.089164899999986 ], [ 5.9806659, 47.0913707 ], [ 5.9718455, 47.090302 ], [ 5.9823025, 47.0853925 ], [ 5.9754995, 47.073302499999983 ], [ 5.9689875, 47.072427 ], [ 5.9741797, 47.061988299999989 ] ] ] } }
+]
+}

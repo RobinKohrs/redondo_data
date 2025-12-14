@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valeyres_sous_montagny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valeyres-sous-Montagny", "metric_roundness": 31.34, "metric_rectangularity": 64.63, "metric_mobile_fit": -75.44, "metric_aspect_ratio": 2.317, "metric_area_km2": 5.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.609566, 46.8041333 ], [ 6.607038, 46.8066838 ], [ 6.596831, 46.8060725 ], [ 6.5830305, 46.802236499999978 ], [ 6.5850232, 46.797728299999989 ], [ 6.590874, 46.7966725 ], [ 6.6051474, 46.7979874 ], [ 6.622468, 46.795032 ], [ 6.619485, 46.80254 ], [ 6.609566, 46.8041333 ] ] ] } }
+]
+}

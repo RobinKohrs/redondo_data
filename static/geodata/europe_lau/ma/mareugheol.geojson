@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mareugheol",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mareugheol", "metric_roundness": 26.35, "metric_rectangularity": 46.29, "metric_mobile_fit": -38.72, "metric_aspect_ratio": 1.95, "metric_area_km2": 15.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2080675, 45.487565 ], [ 3.150608, 45.494251 ], [ 3.1458434, 45.4912343 ], [ 3.1351976, 45.492746099999984 ], [ 3.136462, 45.484727 ], [ 3.1455068, 45.4802049 ], [ 3.1444056, 45.474511 ], [ 3.1388525, 45.4731035 ], [ 3.1404897, 45.46756 ], [ 3.1494758, 45.472093799999982 ], [ 3.1701055, 45.4723345 ], [ 3.1756032, 45.4831152 ], [ 3.1829037, 45.4868156 ], [ 3.2082105, 45.484415 ], [ 3.209419, 45.4840005 ], [ 3.2080675, 45.487565 ] ] ] } }
+]
+}

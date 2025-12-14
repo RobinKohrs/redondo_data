@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "livet_en_saosnois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Livet-en-Saosnois", "metric_roundness": 66.82, "metric_rectangularity": 85.6, "metric_mobile_fit": 50.27, "metric_aspect_ratio": 1.06, "metric_area_km2": 3.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2221265, 48.3580585 ], [ 0.207552, 48.362514099999984 ], [ 0.2008605, 48.3599649 ], [ 0.2002635, 48.354768 ], [ 0.201762, 48.3527715 ], [ 0.2050585, 48.353010499999982 ], [ 0.206262, 48.351638 ], [ 0.2104695, 48.3497 ], [ 0.2127265, 48.3489315 ], [ 0.215768, 48.3488055 ], [ 0.2221265, 48.3580585 ] ] ] } }
+]
+}

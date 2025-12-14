@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ellend",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ellend", "metric_roundness": 68.05, "metric_rectangularity": 80.03, "metric_mobile_fit": 67.25, "metric_aspect_ratio": 0.89, "metric_area_km2": 16.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.367012, 46.0716845 ], [ 18.3587587, 46.0604784 ], [ 18.3538885, 46.0609205 ], [ 18.3576895, 46.0553678 ], [ 18.3653519, 46.044865199999983 ], [ 18.374152, 46.0400005 ], [ 18.396675, 46.0448825 ], [ 18.3955511, 46.055367799999985 ], [ 18.3877124, 46.0678034 ], [ 18.3825029, 46.0687044 ], [ 18.3780037, 46.0733623 ], [ 18.374153, 46.072761 ], [ 18.367012, 46.0716845 ] ] ] } }
+]
+}

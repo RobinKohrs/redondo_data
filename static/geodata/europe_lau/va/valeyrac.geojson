@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valeyrac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valeyrac", "metric_roundness": 50.87, "metric_rectangularity": 77.68, "metric_mobile_fit": -7.73, "metric_aspect_ratio": 1.64, "metric_area_km2": 25.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.919458, 45.3792675 ], [ -0.8882935, 45.3766051 ], [ -0.8773084, 45.378869 ], [ -0.8645045, 45.389397 ], [ -0.8794654, 45.398828099999982 ], [ -0.9042385, 45.407401 ], [ -0.9200167, 45.404540499999989 ], [ -0.9299242, 45.395847599999989 ], [ -0.9364145, 45.38521249999998 ], [ -0.919458, 45.3792675 ] ] ] } }
+]
+}

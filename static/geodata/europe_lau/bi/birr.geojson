@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "birr",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Birr", "metric_roundness": 47.37, "metric_rectangularity": 74.37, "metric_mobile_fit": -21.24, "metric_aspect_ratio": 1.775, "metric_area_km2": 10.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.1968322, 47.4377211 ], [ 8.18867, 47.430656899999988 ], [ 8.187853, 47.426340499999988 ], [ 8.1976765, 47.4248567 ], [ 8.207585, 47.42336 ], [ 8.2152607, 47.4255258 ], [ 8.2218133, 47.4230333 ], [ 8.2286855, 47.4270135 ], [ 8.2323936, 47.4364867 ], [ 8.2301245, 47.440009499999988 ], [ 8.1968322, 47.4377211 ] ] ] } }
+]
+}

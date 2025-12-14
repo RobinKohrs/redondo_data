@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_melissourgou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μελισσουργού", "metric_roundness": 54.72, "metric_rectangularity": 66.98, "metric_mobile_fit": 10.61, "metric_aspect_ratio": 1.456, "metric_area_km2": 39.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.5431977, 40.590017599999989 ], [ 23.5451878, 40.5992617 ], [ 23.542029, 40.605437 ], [ 23.5275725, 40.609127 ], [ 23.5000278, 40.6066661 ], [ 23.481376, 40.613226 ], [ 23.4734321, 40.6128289 ], [ 23.4588693, 40.6000267 ], [ 23.464402, 40.582693 ], [ 23.4869926, 40.584151599999984 ], [ 23.4977786, 40.5715772 ], [ 23.50857, 40.568220499999988 ], [ 23.5431977, 40.590017599999989 ] ] ] } }
+]
+}

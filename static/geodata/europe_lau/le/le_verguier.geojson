@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_verguier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Verguier", "metric_roundness": 47.53, "metric_rectangularity": 61.24, "metric_mobile_fit": 73.44, "metric_aspect_ratio": 0.828, "metric_area_km2": 9.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1588006, 49.933343 ], [ 3.1529333, 49.9265829 ], [ 3.1602805, 49.920673099999988 ], [ 3.153421, 49.9140295 ], [ 3.157173, 49.911815 ], [ 3.1613221, 49.9142827 ], [ 3.1707955, 49.9136965 ], [ 3.1884698, 49.916897 ], [ 3.1762189, 49.9278328 ], [ 3.171732, 49.939443 ], [ 3.1689045, 49.938431 ], [ 3.1588006, 49.933343 ] ] ] } }
+]
+}

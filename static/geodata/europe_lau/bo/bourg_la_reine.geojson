@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourg_la_reine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourg-la-Reine", "metric_roundness": 54.39, "metric_rectangularity": 71.74, "metric_mobile_fit": 86.94, "metric_aspect_ratio": 0.693, "metric_area_km2": 4.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.319922, 48.770716499999985 ], [ 2.32374, 48.7765835 ], [ 2.325725, 48.777075 ], [ 2.3266165, 48.778731499999985 ], [ 2.3245805, 48.7790745 ], [ 2.325815, 48.7819085 ], [ 2.3241379, 48.7861597 ], [ 2.3186965, 48.787997499999982 ], [ 2.3129108, 48.7886145 ], [ 2.309698, 48.7848975 ], [ 2.3077901, 48.7785713 ], [ 2.3131528, 48.7763949 ], [ 2.312438, 48.7721635 ], [ 2.319922, 48.770716499999985 ] ] ] } }
+]
+}

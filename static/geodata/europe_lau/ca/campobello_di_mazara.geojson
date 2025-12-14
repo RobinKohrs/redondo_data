@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "campobello_di_mazara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Campobello di Mazara", "metric_roundness": 48.99, "metric_rectangularity": 59.67, "metric_mobile_fit": 64.99, "metric_aspect_ratio": 0.913, "metric_area_km2": 105.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.751842, 37.597403199999988 ], [ 12.746931, 37.6098844 ], [ 12.7543378, 37.6194573 ], [ 12.7721247, 37.6314048 ], [ 12.7487335, 37.6625465 ], [ 12.7317505, 37.6592753 ], [ 12.7242427, 37.647457199999984 ], [ 12.6912104, 37.632819699999985 ], [ 12.6845592, 37.6172937 ], [ 12.653509, 37.575468 ], [ 12.6616902, 37.5671476 ], [ 12.6786679, 37.5595809 ], [ 12.7648875, 37.578775 ], [ 12.751842, 37.597403199999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "larouillies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Larouillies", "metric_roundness": 40.85, "metric_rectangularity": 56.17, "metric_mobile_fit": 13.36, "metric_aspect_ratio": 1.429, "metric_area_km2": 12.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9483125, 50.0295485 ], [ 3.957074, 50.035053 ], [ 3.9581405, 50.037045 ], [ 3.939053, 50.045285 ], [ 3.924606, 50.048602 ], [ 3.905072, 50.050109 ], [ 3.909304, 50.0472165 ], [ 3.91787, 50.0380195 ], [ 3.9196275, 50.031783499999982 ], [ 3.9228695, 50.026255 ], [ 3.9483125, 50.0295485 ] ] ] } }
+]
+}

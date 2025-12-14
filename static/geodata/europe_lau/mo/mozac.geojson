@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mozac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mozac", "metric_roundness": 71.71, "metric_rectangularity": 82.13, "metric_mobile_fit": 68.08, "metric_aspect_ratio": 0.882, "metric_area_km2": 7.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.076786, 45.882493499999988 ], [ 3.0898255, 45.882628 ], [ 3.094883, 45.8850235 ], [ 3.0988835, 45.885446 ], [ 3.098982, 45.887919499999988 ], [ 3.0970545, 45.89756 ], [ 3.0952605, 45.898292 ], [ 3.090501, 45.903587 ], [ 3.0872015, 45.902665 ], [ 3.0746875, 45.901623 ], [ 3.07226, 45.888818 ], [ 3.076786, 45.882493499999988 ] ] ] } }
+]
+}

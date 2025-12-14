@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bessy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bessy", "metric_roundness": 47.9, "metric_rectangularity": 72.39, "metric_mobile_fit": 98.16, "metric_aspect_ratio": 0.581, "metric_area_km2": 16.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.027835, 48.523577 ], [ 4.036193, 48.524971 ], [ 4.040219, 48.555464 ], [ 4.037583, 48.5573 ], [ 4.0326755, 48.556741 ], [ 4.0292725, 48.558327499999976 ], [ 4.025177, 48.557352 ], [ 4.021108, 48.557185 ], [ 4.007137, 48.558651 ], [ 4.0108487, 48.5558349 ], [ 4.0104823, 48.538172099999976 ], [ 4.0177495, 48.5223521 ], [ 4.020698, 48.520945 ], [ 4.027835, 48.523577 ] ] ] } }
+]
+}

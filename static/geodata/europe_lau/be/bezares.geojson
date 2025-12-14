@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bezares",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bezares", "metric_roundness": 34.69, "metric_rectangularity": 71.09, "metric_mobile_fit": 85.33, "metric_aspect_ratio": 0.416, "metric_area_km2": 8.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.6798897, 42.378712 ], [ -2.6808518, 42.373787299999989 ], [ -2.6793095, 42.3619063 ], [ -2.6735393, 42.3548957 ], [ -2.672967, 42.349987 ], [ -2.6702136, 42.3457485 ], [ -2.6631785, 42.348194 ], [ -2.6604299, 42.3633782 ], [ -2.664622, 42.3735335 ], [ -2.663902, 42.3786125 ], [ -2.668671, 42.377338499999986 ], [ -2.6724425, 42.380787 ], [ -2.674465, 42.382038 ], [ -2.6798897, 42.378712 ] ] ] } }
+]
+}

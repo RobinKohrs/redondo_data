@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vucherens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vucherens", "metric_roundness": 51.65, "metric_rectangularity": 61.61, "metric_mobile_fit": 79.59, "metric_aspect_ratio": 0.767, "metric_area_km2": 6.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.786922, 46.625512199999989 ], [ 6.7872455, 46.639593 ], [ 6.783292, 46.639273499999987 ], [ 6.7833045, 46.636107 ], [ 6.781278, 46.636275 ], [ 6.7804265, 46.634345 ], [ 6.772052, 46.634629 ], [ 6.770003, 46.631342499999981 ], [ 6.765036, 46.6327615 ], [ 6.760934, 46.630821 ], [ 6.7624027, 46.6280575 ], [ 6.7672585, 46.618921 ], [ 6.7744605, 46.6161385 ], [ 6.779384, 46.616023499999983 ], [ 6.786922, 46.625512199999989 ] ] ] } }
+]
+}

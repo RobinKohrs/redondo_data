@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parete",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Parete", "metric_roundness": 51.23, "metric_rectangularity": 63.2, "metric_mobile_fit": 19.32, "metric_aspect_ratio": 1.369, "metric_area_km2": 9.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.1462388, 40.9579873 ], [ 14.1401755, 40.9569204 ], [ 14.1309569, 40.950014399999986 ], [ 14.1376894, 40.9451465 ], [ 14.1444845, 40.9441683 ], [ 14.1661139, 40.952765899999989 ], [ 14.1675369, 40.9455984 ], [ 14.1725747, 40.949528599999987 ], [ 14.1722575, 40.953926 ], [ 14.1688775, 40.9665745 ], [ 14.14421, 40.9671215 ], [ 14.1462388, 40.9579873 ] ] ] } }
+]
+}

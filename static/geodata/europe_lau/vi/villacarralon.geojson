@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villacarralon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villacarralón", "metric_roundness": 67.92, "metric_rectangularity": 74.31, "metric_mobile_fit": 49.26, "metric_aspect_ratio": 1.07, "metric_area_km2": 32.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.0638072, 42.185662 ], [ -5.0564683, 42.179142 ], [ -5.0319095, 42.173610499999981 ], [ -5.019688, 42.1793201 ], [ -5.0135913, 42.188592899999989 ], [ -5.0129635, 42.1946105 ], [ -5.024914, 42.2172735 ], [ -5.0477291, 42.2184831 ], [ -5.0547009, 42.2115 ], [ -5.0641868, 42.2074824 ], [ -5.0654403, 42.2026846 ], [ -5.0710773, 42.1992257 ], [ -5.0744675, 42.1895445 ], [ -5.077766, 42.186371 ], [ -5.0638072, 42.185662 ] ] ] } }
+]
+}

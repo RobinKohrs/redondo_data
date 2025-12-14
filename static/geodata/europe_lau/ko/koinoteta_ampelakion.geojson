@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ampelakion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αμπελακίων", "metric_roundness": 20.56, "metric_rectangularity": 38.63, "metric_mobile_fit": -51.6, "metric_aspect_ratio": 2.078, "metric_area_km2": 12.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.5472271, 37.9408126 ], [ 23.5764049, 37.946356099999988 ], [ 23.5427657, 37.9462334 ], [ 23.538844, 37.9494423 ], [ 23.5479818, 37.9515277 ], [ 23.5481135, 37.9546756 ], [ 23.5268705, 37.958598 ], [ 23.5145017, 37.9611484 ], [ 23.500841, 37.932479 ], [ 23.5137633, 37.9387117 ], [ 23.542673, 37.942412 ], [ 23.5472271, 37.9408126 ] ] ] } }
+]
+}

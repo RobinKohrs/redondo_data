@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lipsheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lipsheim", "metric_roundness": 51.93, "metric_rectangularity": 78.03, "metric_mobile_fit": 46.48, "metric_aspect_ratio": 1.098, "metric_area_km2": 11.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.667792, 48.4873615 ], [ 7.6744145, 48.48718 ], [ 7.6775242, 48.4968679 ], [ 7.666034, 48.502002499999982 ], [ 7.6429539, 48.493782499999988 ], [ 7.635064, 48.4834965 ], [ 7.6409568, 48.477603199999983 ], [ 7.6476362, 48.4763655 ], [ 7.6653015, 48.4856725 ], [ 7.667792, 48.4873615 ] ] ] } }
+]
+}

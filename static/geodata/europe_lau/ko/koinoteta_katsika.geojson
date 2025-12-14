@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_katsika",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κατσικά", "metric_roundness": 37.0, "metric_rectangularity": 58.02, "metric_mobile_fit": 94.4, "metric_aspect_ratio": 0.507, "metric_area_km2": 23.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8717038, 39.6047327 ], [ 20.88598, 39.605252199999988 ], [ 20.8924625, 39.5975075 ], [ 20.9123015, 39.6058685 ], [ 20.9080967, 39.619878499999984 ], [ 20.9102156, 39.6261016 ], [ 20.9001131, 39.6361205 ], [ 20.894079, 39.659631499999989 ], [ 20.8828832, 39.640656699999987 ], [ 20.8714435, 39.6306332 ], [ 20.871794, 39.622086 ], [ 20.8717038, 39.6047327 ] ] ] } }
+]
+}

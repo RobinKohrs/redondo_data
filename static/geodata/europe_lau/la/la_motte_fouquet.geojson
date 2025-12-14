@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_motte_fouquet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Motte-Fouquet", "metric_roundness": 68.8, "metric_rectangularity": 75.66, "metric_mobile_fit": 33.2, "metric_aspect_ratio": 1.231, "metric_area_km2": 21.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2859575, 48.578373 ], [ -0.2853675, 48.5713538 ], [ -0.2935994, 48.5683997 ], [ -0.2984375, 48.5629785 ], [ -0.288318, 48.5560523 ], [ -0.257468, 48.551956499999989 ], [ -0.2480028, 48.557262399999978 ], [ -0.2477577, 48.563514 ], [ -0.24264, 48.567994 ], [ -0.2558946, 48.580457 ], [ -0.281071, 48.5819635 ], [ -0.2816745, 48.5818515 ], [ -0.2859575, 48.578373 ] ] ] } }
+]
+}

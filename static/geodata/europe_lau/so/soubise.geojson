@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soubise",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soubise", "metric_roundness": 50.52, "metric_rectangularity": 79.16, "metric_mobile_fit": 79.58, "metric_aspect_ratio": 0.767, "metric_area_km2": 23.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0170829, 45.89835979999998 ], [ -1.0088815, 45.89394 ], [ -1.001346, 45.8919575 ], [ -0.9947125, 45.887832 ], [ -0.99134, 45.8864465 ], [ -0.981245, 45.8959695 ], [ -0.9845175, 45.9028725 ], [ -0.9795335, 45.9140345 ], [ -0.994587, 45.9228515 ], [ -1.0004476, 45.922795799999982 ], [ -1.0106925, 45.932190499999983 ], [ -1.0299395, 45.913439 ], [ -1.0170829, 45.89835979999998 ] ] ] } }
+]
+}

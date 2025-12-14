@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberloisdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberloisdorf", "metric_roundness": 38.15, "metric_rectangularity": 66.04, "metric_mobile_fit": 44.58, "metric_aspect_ratio": 1.117, "metric_area_km2": 22.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4629515, 47.4303855 ], [ 16.4871316, 47.425927299999984 ], [ 16.5034801, 47.4279233 ], [ 16.5164552, 47.4368164 ], [ 16.5122128, 47.4434565 ], [ 16.5206142, 47.4452578 ], [ 16.5213838, 47.451056799999982 ], [ 16.5274314, 47.4553768 ], [ 16.522465, 47.464979 ], [ 16.5121982, 47.457822 ], [ 16.4942667, 47.454470699999987 ], [ 16.4634925, 47.436233 ], [ 16.4629515, 47.4303855 ] ] ] } }
+]
+}

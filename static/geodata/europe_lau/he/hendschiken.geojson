@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hendschiken",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hendschiken", "metric_roundness": 57.73, "metric_rectangularity": 73.19, "metric_mobile_fit": 42.93, "metric_aspect_ratio": 1.133, "metric_area_km2": 8.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.227617, 47.377262499999986 ], [ 8.2315875, 47.3797985 ], [ 8.2271575, 47.393636 ], [ 8.2200791, 47.3917216 ], [ 8.199724, 47.393559 ], [ 8.201574, 47.387691 ], [ 8.204242, 47.3844085 ], [ 8.2034965, 47.375850499999984 ], [ 8.2135574, 47.377142799999987 ], [ 8.2227315, 47.3745975 ], [ 8.227617, 47.377262499999986 ] ] ] } }
+]
+}

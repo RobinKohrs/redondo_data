@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zdiby",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zdiby", "metric_roundness": 30.49, "metric_rectangularity": 61.98, "metric_mobile_fit": 41.27, "metric_aspect_ratio": 1.15, "metric_area_km2": 22.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4588283, 50.1760546 ], [ 14.45154, 50.176792499999983 ], [ 14.4310156, 50.176478399999986 ], [ 14.4041505, 50.1639925 ], [ 14.398479, 50.1434345 ], [ 14.4005776, 50.147373299999984 ], [ 14.4184352, 50.149301599999987 ], [ 14.430739, 50.1578711 ], [ 14.462446, 50.1597521 ], [ 14.4669115, 50.1695615 ], [ 14.4662796, 50.1787788 ], [ 14.4633435, 50.181561 ], [ 14.4588283, 50.1760546 ] ] ] } }
+]
+}

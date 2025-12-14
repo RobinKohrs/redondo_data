@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_alvora_e_loureda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Alvora e Loureda", "metric_roundness": 34.63, "metric_rectangularity": 63.92, "metric_mobile_fit": 93.22, "metric_aspect_ratio": 0.63, "metric_area_km2": 18.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4300619, 41.9772995 ], [ -8.4386485, 41.973693 ], [ -8.4436186, 41.9518298 ], [ -8.4548, 41.9343985 ], [ -8.4483434, 41.9257262 ], [ -8.4411175, 41.9241215 ], [ -8.4331735, 41.936118 ], [ -8.4276661, 41.9479652 ], [ -8.4184093, 41.9529388 ], [ -8.4097295, 41.962301499999988 ], [ -8.417504, 41.976527 ], [ -8.4300619, 41.9772995 ] ] ] } }
+]
+}

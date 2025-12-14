@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oresany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orešany", "metric_roundness": 34.78, "metric_rectangularity": 55.96, "metric_mobile_fit": -17.02, "metric_aspect_ratio": 1.733, "metric_area_km2": 15.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.8851105, 48.50468 ], [ 17.915415, 48.493259 ], [ 17.9386445, 48.508469399999989 ], [ 17.9381515, 48.5130555 ], [ 17.925334, 48.513949 ], [ 17.9198475, 48.5098869 ], [ 17.8929145, 48.518733 ], [ 17.887658, 48.513261899999982 ], [ 17.8720245, 48.5072045 ], [ 17.8851105, 48.50468 ] ] ] } }
+]
+}

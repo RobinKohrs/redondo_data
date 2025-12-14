@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "podame",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Podame", "metric_roundness": 39.03, "metric_rectangularity": 66.28, "metric_mobile_fit": 66.25, "metric_aspect_ratio": 0.9, "metric_area_km2": 6.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.3770175, 42.0445225 ], [ -8.3788015, 42.043092 ], [ -8.386424, 42.036350499999983 ], [ -8.3833656, 42.0334289 ], [ -8.3832827, 42.0239378 ], [ -8.3801285, 42.023117499999984 ], [ -8.3702444, 42.0334892 ], [ -8.3587634, 42.0390471 ], [ -8.3547325, 42.04616 ], [ -8.372291, 42.049272 ], [ -8.3770175, 42.0445225 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monte_di_malo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monte di Malo", "metric_roundness": 64.9, "metric_rectangularity": 74.78, "metric_mobile_fit": 55.54, "metric_aspect_ratio": 1.007, "metric_area_km2": 47.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3367745, 45.670511 ], [ 11.3264005, 45.66864349999998 ], [ 11.331741, 45.650703499999985 ], [ 11.3339142, 45.644202799999981 ], [ 11.3412381, 45.642642 ], [ 11.3472035, 45.63408 ], [ 11.3601853, 45.6239768 ], [ 11.3708218, 45.6213021 ], [ 11.3822789, 45.622594 ], [ 11.3859555, 45.625974 ], [ 11.3933946, 45.6317495 ], [ 11.4019125, 45.646849099999983 ], [ 11.3812405, 45.673719 ], [ 11.3367745, 45.670511 ] ] ] } }
+]
+}

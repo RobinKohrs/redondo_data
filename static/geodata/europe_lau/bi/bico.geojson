@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bico", "metric_roundness": 55.61, "metric_rectangularity": 68.45, "metric_mobile_fit": 10.35, "metric_aspect_ratio": 1.459, "metric_area_km2": 3.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4139425, 41.6390795 ], [ -8.406005, 41.636998 ], [ -8.3995555, 41.636919 ], [ -8.3966945, 41.6368835 ], [ -8.393336, 41.63797 ], [ -8.3905685, 41.6411045 ], [ -8.4042915, 41.65045 ], [ -8.4153435, 41.646906 ], [ -8.4169615, 41.638957 ], [ -8.4170555, 41.638797 ], [ -8.4139425, 41.6390795 ] ] ] } }
+]
+}

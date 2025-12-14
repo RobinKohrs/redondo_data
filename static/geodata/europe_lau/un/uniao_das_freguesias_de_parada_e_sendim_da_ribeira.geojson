@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_parada_e_sendim_da_ribeira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Parada e Sendim da Ribeira", "metric_roundness": 31.81, "metric_rectangularity": 50.67, "metric_mobile_fit": 98.05, "metric_aspect_ratio": 0.543, "metric_area_km2": 44.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.9070243, 41.2961994 ], [ -6.904457, 41.287072 ], [ -6.9057292, 41.2766542 ], [ -6.8960176, 41.2758507 ], [ -6.8916744, 41.272523699999986 ], [ -6.8957245, 41.2495725 ], [ -6.889279, 41.255880199999986 ], [ -6.8796039, 41.2583182 ], [ -6.8814433, 41.273806799999981 ], [ -6.8729437, 41.288551199999986 ], [ -6.867192, 41.292244499999981 ], [ -6.8575695, 41.3077415 ], [ -6.8706471, 41.3190284 ], [ -6.8939148, 41.3262763 ], [ -6.9000578, 41.335092699999983 ], [ -6.9135415, 41.338203 ], [ -6.9210075, 41.3352583 ], [ -6.921623, 41.3118985 ], [ -6.9070243, 41.2961994 ] ] ] } }
+]
+}

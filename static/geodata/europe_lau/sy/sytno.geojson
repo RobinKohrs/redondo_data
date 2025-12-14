@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sytno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sytno", "metric_roundness": 59.76, "metric_rectangularity": 70.2, "metric_mobile_fit": 60.4, "metric_aspect_ratio": 0.958, "metric_area_km2": 12.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.0246085, 49.7412285 ], [ 13.0213463, 49.732042 ], [ 13.0321885, 49.7253605 ], [ 13.0567543, 49.7351124 ], [ 13.059292, 49.742608 ], [ 13.0549003, 49.7509101 ], [ 13.04653, 49.7510451 ], [ 13.0409575, 49.746507 ], [ 13.0211995, 49.746509 ], [ 13.0246085, 49.7412285 ] ] ] } }
+]
+}

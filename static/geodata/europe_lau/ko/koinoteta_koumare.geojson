@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_koumare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κούμαρη", "metric_roundness": 35.48, "metric_rectangularity": 56.79, "metric_mobile_fit": 52.76, "metric_aspect_ratio": 1.035, "metric_area_km2": 6.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0303155, 38.208937 ], [ 22.041664, 38.2124215 ], [ 22.04597, 38.214161499999982 ], [ 22.0513135, 38.215958499999985 ], [ 22.0491381, 38.2213333 ], [ 22.050725, 38.228199799999985 ], [ 22.0388005, 38.2314695 ], [ 22.036226, 38.228866 ], [ 22.032796, 38.22395 ], [ 22.028954, 38.220172 ], [ 22.026219, 38.2179825 ], [ 22.0178405, 38.206057 ], [ 22.0303155, 38.208937 ] ] ] } }
+]
+}

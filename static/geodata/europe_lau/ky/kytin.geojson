@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kytin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kytín", "metric_roundness": 69.02, "metric_rectangularity": 78.24, "metric_mobile_fit": 53.04, "metric_aspect_ratio": 1.032, "metric_area_km2": 25.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.1890736, 49.8360679 ], [ 14.1996864, 49.833555399999987 ], [ 14.2232344, 49.836656699999985 ], [ 14.234375, 49.8429025 ], [ 14.2319578, 49.850431699999987 ], [ 14.2280724, 49.851588099999987 ], [ 14.2355204, 49.857675699999973 ], [ 14.223981, 49.8623645 ], [ 14.2185895, 49.8703285 ], [ 14.1766567, 49.8513113 ], [ 14.1850225, 49.842917 ], [ 14.1890736, 49.8360679 ] ] ] } }
+]
+}

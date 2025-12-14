@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "berkesz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Berkesz", "metric_roundness": 55.25, "metric_rectangularity": 86.67, "metric_mobile_fit": 83.42, "metric_aspect_ratio": 0.728, "metric_area_km2": 29.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9909682, 48.0945598 ], [ 21.9802935, 48.114315 ], [ 21.9639698, 48.1145732 ], [ 21.9494642, 48.1049917 ], [ 21.948251, 48.100445499999985 ], [ 21.958981, 48.0864446 ], [ 21.9633595, 48.068237 ], [ 21.9782918, 48.0667992 ], [ 22.0003425, 48.071998 ], [ 21.9909682, 48.0945598 ] ] ] } }
+]
+}

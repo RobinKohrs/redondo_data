@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pecnov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pěčnov", "metric_roundness": 47.72, "metric_rectangularity": 60.78, "metric_mobile_fit": 24.05, "metric_aspect_ratio": 1.322, "metric_area_km2": 5.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9375371, 49.046772299999986 ], [ 13.955911, 49.0475405 ], [ 13.9522635, 49.050518 ], [ 13.9489096, 49.0609246 ], [ 13.940899, 49.062219 ], [ 13.9368413, 49.057977099999981 ], [ 13.92475, 49.054778 ], [ 13.9375371, 49.046772299999986 ] ] ] } }
+]
+}

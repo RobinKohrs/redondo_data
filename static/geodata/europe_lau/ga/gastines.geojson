@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gastines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gastines", "metric_roundness": 60.15, "metric_rectangularity": 74.83, "metric_mobile_fit": 68.64, "metric_aspect_ratio": 0.876, "metric_area_km2": 19.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.1291657, 47.927037699999985 ], [ -1.1187797, 47.9233775 ], [ -1.1025425, 47.925293 ], [ -1.095803, 47.930513499999989 ], [ -1.094512, 47.938761 ], [ -1.0897614, 47.948488299999987 ], [ -1.0946195, 47.957931 ], [ -1.1030923, 47.956573199999987 ], [ -1.1233412, 47.946705099999988 ], [ -1.1349528, 47.9532892 ], [ -1.1335305, 47.94031 ], [ -1.1291657, 47.927037699999985 ] ] ] } }
+]
+}

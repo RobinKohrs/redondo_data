@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_silveiros_e_rio_covo_santa_eulalia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Silveiros e Rio Covo (Santa Eulália)", "metric_roundness": 38.84, "metric_rectangularity": 70.31, "metric_mobile_fit": 93.31, "metric_aspect_ratio": 0.629, "metric_area_km2": 14.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5615485, 41.467185 ], [ -8.557439, 41.468699 ], [ -8.567401, 41.479538699999985 ], [ -8.5667135, 41.4899225 ], [ -8.569364, 41.4994815 ], [ -8.5729945, 41.501908 ], [ -8.5747763, 41.4989466 ], [ -8.5927095, 41.494445 ], [ -8.5955018, 41.4924299 ], [ -8.5910475, 41.486683499999984 ], [ -8.5867208, 41.478112899999985 ], [ -8.5836455, 41.4566025 ], [ -8.5615485, 41.467185 ] ] ] } }
+]
+}

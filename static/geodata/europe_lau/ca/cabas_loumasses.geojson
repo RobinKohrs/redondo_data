@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cabas_loumasses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cabas-Loumassès", "metric_roundness": 46.43, "metric_rectangularity": 64.01, "metric_mobile_fit": 28.7, "metric_aspect_ratio": 1.275, "metric_area_km2": 7.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.630304, 43.3605325 ], [ 0.617722, 43.362328 ], [ 0.6173915, 43.365514 ], [ 0.6151345, 43.36643 ], [ 0.6127095, 43.367156 ], [ 0.60337, 43.3680035 ], [ 0.5989659, 43.3618646 ], [ 0.6043123, 43.3574208 ], [ 0.5934781, 43.3543428 ], [ 0.593672, 43.347011 ], [ 0.6022695, 43.3473899 ], [ 0.6063327, 43.349966 ], [ 0.6160385, 43.3478035 ], [ 0.630304, 43.3605325 ] ] ] } }
+]
+}

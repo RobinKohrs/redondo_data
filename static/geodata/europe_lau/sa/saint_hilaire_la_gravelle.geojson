@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_hilaire_la_gravelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Hilaire-la-Gravelle", "metric_roundness": 49.01, "metric_rectangularity": 66.77, "metric_mobile_fit": 30.75, "metric_aspect_ratio": 1.255, "metric_area_km2": 39.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2142265, 47.9451605 ], [ 1.1994171, 47.951237899999988 ], [ 1.1858667, 47.9473463 ], [ 1.1650685, 47.9465215 ], [ 1.1522377, 47.946209499999981 ], [ 1.1392855, 47.941179 ], [ 1.1451825, 47.934943 ], [ 1.1692115, 47.910452 ], [ 1.1821309, 47.914762199999977 ], [ 1.2173225, 47.909574 ], [ 1.2130656, 47.9137243 ], [ 1.2133612, 47.920130799999988 ], [ 1.2089907, 47.926172899999983 ], [ 1.215738, 47.940183 ], [ 1.2142265, 47.9451605 ] ] ] } }
+]
+}

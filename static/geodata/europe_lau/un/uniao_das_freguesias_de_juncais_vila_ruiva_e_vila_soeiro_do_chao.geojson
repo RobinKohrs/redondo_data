@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_juncais_vila_ruiva_e_vila_soeiro_do_chao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Juncais, Vila Ruiva e Vila Soeiro do Chão", "metric_roundness": 40.52, "metric_rectangularity": 59.1, "metric_mobile_fit": 74.84, "metric_aspect_ratio": 0.814, "metric_area_km2": 33.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5310323, 40.5974014 ], [ -7.5265102, 40.5940005 ], [ -7.5315234, 40.5798602 ], [ -7.5379039, 40.5746949 ], [ -7.5367875, 40.5703615 ], [ -7.5253035, 40.5640172 ], [ -7.511261, 40.557593 ], [ -7.498044, 40.570092 ], [ -7.4967345, 40.5717145 ], [ -7.5027486, 40.586834499999981 ], [ -7.5024254, 40.5968901 ], [ -7.498668, 40.602832 ], [ -7.4960893, 40.604999299999989 ], [ -7.4822176, 40.5984944 ], [ -7.4754935, 40.5998195 ], [ -7.4680289, 40.6084182 ], [ -7.478417, 40.6227725 ], [ -7.5175635, 40.61252949999998 ], [ -7.5253035, 40.6094742 ], [ -7.5276405, 40.6079135 ], [ -7.5310323, 40.5974014 ] ] ] } }
+]
+}

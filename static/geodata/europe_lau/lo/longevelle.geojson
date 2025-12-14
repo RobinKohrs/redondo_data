@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "longevelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Longevelle", "metric_roundness": 71.67, "metric_rectangularity": 74.85, "metric_mobile_fit": 53.89, "metric_aspect_ratio": 1.024, "metric_area_km2": 9.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4651017, 47.597528 ], [ 6.45619, 47.603209 ], [ 6.4530369, 47.6003512 ], [ 6.4357005, 47.599904 ], [ 6.4330015, 47.5914151 ], [ 6.4334885, 47.5856603 ], [ 6.437139, 47.582402499999986 ], [ 6.4557445, 47.582014 ], [ 6.465172, 47.593703 ], [ 6.4651017, 47.597528 ] ] ] } }
+]
+}

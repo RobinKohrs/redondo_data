@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "piscina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Piscina", "metric_roundness": 40.49, "metric_rectangularity": 58.43, "metric_mobile_fit": -7.15, "metric_aspect_ratio": 1.634, "metric_area_km2": 19.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4157734, 44.912647199999988 ], [ 7.4216895, 44.904675 ], [ 7.4404376, 44.9102064 ], [ 7.4529535, 44.9098065 ], [ 7.4479175, 44.9208505 ], [ 7.4610271, 44.925386799999984 ], [ 7.458597, 44.935008 ], [ 7.4305765, 44.9257441 ], [ 7.42252, 44.925669499999984 ], [ 7.414595, 44.931736 ], [ 7.3936447, 44.9278064 ], [ 7.3910324, 44.9209403 ], [ 7.402502, 44.9141375 ], [ 7.4157734, 44.912647199999988 ] ] ] } }
+]
+}

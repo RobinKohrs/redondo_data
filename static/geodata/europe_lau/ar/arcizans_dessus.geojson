@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arcizans_dessus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arcizans-Dessus", "metric_roundness": 34.23, "metric_rectangularity": 67.87, "metric_mobile_fit": 96.4, "metric_aspect_ratio": 0.598, "metric_area_km2": 9.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1469252, 42.9850323 ], [ -0.1484878, 42.994841699999988 ], [ -0.1581212, 43.002654599999985 ], [ -0.164061, 43.014903 ], [ -0.1782175, 43.013152 ], [ -0.1657455, 42.995009499999988 ], [ -0.1641675, 42.9879815 ], [ -0.166261, 42.986585 ], [ -0.1629055, 42.97666 ], [ -0.160419, 42.977482 ], [ -0.158333, 42.977351 ], [ -0.151813, 42.979741 ], [ -0.1469252, 42.9850323 ] ] ] } }
+]
+}

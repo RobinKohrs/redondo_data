@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_christophe_en_bazelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Christophe-en-Bazelle", "metric_roundness": 44.54, "metric_rectangularity": 65.11, "metric_mobile_fit": 89.81, "metric_aspect_ratio": 0.664, "metric_area_km2": 29.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7008741, 47.1631685 ], [ 1.716926, 47.158304 ], [ 1.7194462, 47.1714673 ], [ 1.7438465, 47.1926305 ], [ 1.733162, 47.198018499999989 ], [ 1.7258295, 47.198653499999985 ], [ 1.7277695, 47.202218 ], [ 1.719338, 47.206491 ], [ 1.7094835, 47.21376949999997 ], [ 1.704812, 47.21253 ], [ 1.6973565, 47.2077775 ], [ 1.693049, 47.202569 ], [ 1.690206, 47.1975155 ], [ 1.6896205, 47.190556599999987 ], [ 1.6990561, 47.188536399999983 ], [ 1.6950905, 47.169969499999986 ], [ 1.7008741, 47.1631685 ] ] ] } }
+]
+}

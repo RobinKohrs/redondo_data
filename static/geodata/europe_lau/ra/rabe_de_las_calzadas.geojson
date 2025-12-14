@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rabe_de_las_calzadas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rabé de las Calzadas", "metric_roundness": 54.85, "metric_rectangularity": 66.08, "metric_mobile_fit": 16.88, "metric_aspect_ratio": 1.394, "metric_area_km2": 18.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.8834495, 42.3417205 ], [ -3.8723145, 42.3256971 ], [ -3.8625435, 42.3184545 ], [ -3.8449117, 42.3266023 ], [ -3.832306, 42.325145499999984 ], [ -3.830054, 42.336689 ], [ -3.8250081, 42.341922 ], [ -3.8288329, 42.344519899999987 ], [ -3.8400274, 42.346600099999989 ], [ -3.8552616, 42.3457819 ], [ -3.8608025, 42.3483575 ], [ -3.8632595, 42.349495 ], [ -3.878534, 42.3443525 ], [ -3.883531, 42.34227 ], [ -3.8834495, 42.3417205 ] ] ] } }
+]
+}

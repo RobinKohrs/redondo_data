@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tresserve",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tresserve", "metric_roundness": 53.86, "metric_rectangularity": 81.48, "metric_mobile_fit": 91.85, "metric_aspect_ratio": 0.644, "metric_area_km2": 15.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9038007, 45.685811199999982 ], [ 5.8997253, 45.693351099999987 ], [ 5.8937471, 45.688524 ], [ 5.8750415, 45.689268 ], [ 5.875606, 45.686054 ], [ 5.875249, 45.668503499999986 ], [ 5.874908, 45.6591935 ], [ 5.8987227, 45.658952 ], [ 5.9066135, 45.6648965 ], [ 5.9038007, 45.685811199999982 ] ] ] } }
+]
+}

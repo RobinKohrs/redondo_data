@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pliskov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plískov", "metric_roundness": 43.36, "metric_rectangularity": 78.61, "metric_mobile_fit": 94.53, "metric_aspect_ratio": 0.508, "metric_area_km2": 7.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.7456339, 49.847166 ], [ 13.7450238, 49.8534971 ], [ 13.7400677, 49.8581418 ], [ 13.731142, 49.852435 ], [ 13.724169, 49.8423795 ], [ 13.7241991, 49.833317 ], [ 13.733161, 49.831883 ], [ 13.7397195, 49.830882 ], [ 13.7456339, 49.847166 ] ] ] } }
+]
+}

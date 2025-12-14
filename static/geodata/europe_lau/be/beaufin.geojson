@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beaufin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beaufin", "metric_roundness": 54.87, "metric_rectangularity": 66.75, "metric_mobile_fit": 77.0, "metric_aspect_ratio": 0.792, "metric_area_km2": 12.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9777795, 44.790983499999989 ], [ 5.95292, 44.8005552 ], [ 5.9495215, 44.8045275 ], [ 5.9491485, 44.804629 ], [ 5.9432464, 44.7974571 ], [ 5.9430715, 44.7849125 ], [ 5.9462665, 44.781521 ], [ 5.9464315, 44.778995 ], [ 5.9497765, 44.7767695 ], [ 5.951115, 44.7728185 ], [ 5.9531655, 44.7713105 ], [ 5.9573995, 44.773251 ], [ 5.9802755, 44.7811775 ], [ 5.9777795, 44.790983499999989 ] ] ] } }
+]
+}

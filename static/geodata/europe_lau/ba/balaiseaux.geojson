@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balaiseaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balaiseaux", "metric_roundness": 34.26, "metric_rectangularity": 66.95, "metric_mobile_fit": 63.99, "metric_aspect_ratio": 0.923, "metric_area_km2": 13.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4751045, 46.9736243 ], [ 5.4552165, 46.9833845 ], [ 5.4572654, 46.9775369 ], [ 5.4512297, 46.974703099999985 ], [ 5.4396782, 46.983405 ], [ 5.436488, 46.972278 ], [ 5.443366, 46.969525499999989 ], [ 5.452133, 46.963075499999988 ], [ 5.458916, 46.960131 ], [ 5.4749665, 46.9509745 ], [ 5.478947, 46.949335 ], [ 5.48255, 46.9603555 ], [ 5.4751045, 46.9736243 ] ] ] } }
+]
+}

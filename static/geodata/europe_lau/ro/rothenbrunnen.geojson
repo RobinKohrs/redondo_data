@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rothenbrunnen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rothenbrunnen", "metric_roundness": 24.61, "metric_rectangularity": 66.71, "metric_mobile_fit": 97.71, "metric_aspect_ratio": 0.54, "metric_area_km2": 6.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.406905, 46.794724499999987 ], [ 9.420053, 46.7699765 ], [ 9.422399, 46.7613435 ], [ 9.4290353, 46.762917099999989 ], [ 9.4337412, 46.7708128 ], [ 9.4270655, 46.776650399999987 ], [ 9.4261668, 46.784593699999988 ], [ 9.4175247, 46.7887725 ], [ 9.4144505, 46.795404 ], [ 9.406905, 46.794724499999987 ] ] ] } }
+]
+}

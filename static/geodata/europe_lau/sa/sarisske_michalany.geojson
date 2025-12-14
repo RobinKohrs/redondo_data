@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sarisske_michalany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Šarišské Michaľany", "metric_roundness": 57.44, "metric_rectangularity": 69.23, "metric_mobile_fit": 34.34, "metric_aspect_ratio": 1.219, "metric_area_km2": 22.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.1702066, 49.070948 ], [ 21.1732656, 49.075989799999988 ], [ 21.164984, 49.085 ], [ 21.1515355, 49.0900205 ], [ 21.1474884, 49.0834968 ], [ 21.1366825, 49.085666 ], [ 21.112634, 49.071885 ], [ 21.1148275, 49.069085499999979 ], [ 21.139, 49.056188 ], [ 21.146852, 49.058541 ], [ 21.1516266, 49.064671499999982 ], [ 21.1734592, 49.063841099999976 ], [ 21.1755935, 49.066356499999983 ], [ 21.1702066, 49.070948 ] ] ] } }
+]
+}

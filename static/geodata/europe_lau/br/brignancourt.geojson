@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brignancourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brignancourt", "metric_roundness": 46.72, "metric_rectangularity": 63.34, "metric_mobile_fit": 14.82, "metric_aspect_ratio": 1.414, "metric_area_km2": 7.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9625855, 49.146925 ], [ 1.9601495, 49.147979499999984 ], [ 1.9321359, 49.1440706 ], [ 1.924577, 49.139578 ], [ 1.933893, 49.1320615 ], [ 1.9377489, 49.133854399999983 ], [ 1.9445113, 49.130398199999981 ], [ 1.9505464, 49.132362199999982 ], [ 1.960927, 49.1448285 ], [ 1.9625855, 49.146925 ] ] ] } }
+]
+}

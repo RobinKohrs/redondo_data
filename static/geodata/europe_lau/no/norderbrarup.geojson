@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "norderbrarup",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Norderbrarup", "metric_roundness": 33.21, "metric_rectangularity": 43.78, "metric_mobile_fit": 14.52, "metric_aspect_ratio": 1.417, "metric_area_km2": 11.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7675313, 54.6647 ], [ 9.764149, 54.6589585 ], [ 9.7503996, 54.6496248 ], [ 9.744827, 54.650309 ], [ 9.7373178, 54.648289699999985 ], [ 9.734163, 54.643505399999981 ], [ 9.7365415, 54.641018 ], [ 9.7615729, 54.6482574 ], [ 9.7921815, 54.645305 ], [ 9.7843455, 54.6485663 ], [ 9.7885574, 54.6532925 ], [ 9.7780145, 54.663032 ], [ 9.7675313, 54.6647 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "massignano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Massignano", "metric_roundness": 54.92, "metric_rectangularity": 64.89, "metric_mobile_fit": 27.9, "metric_aspect_ratio": 1.284, "metric_area_km2": 30.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.8050809, 43.031513699999984 ], [ 13.8155045, 43.0256575 ], [ 13.8227715, 43.0260452 ], [ 13.828928, 43.0311026 ], [ 13.8318443, 43.038391899999986 ], [ 13.837457, 43.0386739 ], [ 13.8398083, 43.0540087 ], [ 13.852372, 43.0544595 ], [ 13.849453, 43.0666595 ], [ 13.8344803, 43.0630405 ], [ 13.7968135, 43.0620865 ], [ 13.780359, 43.0526579 ], [ 13.788119, 43.035222499999989 ], [ 13.8050809, 43.031513699999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_tartre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Tartre", "metric_roundness": 57.69, "metric_rectangularity": 84.13, "metric_mobile_fit": 57.56, "metric_aspect_ratio": 0.987, "metric_area_km2": 7.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3510342, 46.7527481 ], [ 5.3450225, 46.7497645 ], [ 5.3388811, 46.745063899999984 ], [ 5.3384775, 46.737385 ], [ 5.3393403, 46.734946699999981 ], [ 5.3617265, 46.733113 ], [ 5.3667545, 46.752395 ], [ 5.3510342, 46.7527481 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_petit_celland",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Petit-Celland", "metric_roundness": 50.33, "metric_rectangularity": 61.79, "metric_mobile_fit": 28.88, "metric_aspect_ratio": 1.274, "metric_area_km2": 15.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.241494, 48.6971315 ], [ -1.2231975, 48.686203799999987 ], [ -1.2093435, 48.683907499999989 ], [ -1.2025845, 48.691764 ], [ -1.1879336, 48.696495199999987 ], [ -1.1902205, 48.703904 ], [ -1.2030784, 48.704994899999988 ], [ -1.2049905, 48.712587 ], [ -1.2077624, 48.707499299999988 ], [ -1.2432795, 48.7039165 ], [ -1.241494, 48.6971315 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kakodikiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κακοδικίου", "metric_roundness": 66.98, "metric_rectangularity": 83.5, "metric_mobile_fit": 54.15, "metric_aspect_ratio": 1.021, "metric_area_km2": 19.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.6945598, 35.2825535 ], [ 23.7071038, 35.278341 ], [ 23.7230475, 35.2909155 ], [ 23.7329025, 35.307492499999988 ], [ 23.7224493, 35.3142084 ], [ 23.695178, 35.3194515 ], [ 23.6867483, 35.2979039 ], [ 23.6814755, 35.292381499999983 ], [ 23.6945598, 35.2825535 ] ] ] } }
+]
+}

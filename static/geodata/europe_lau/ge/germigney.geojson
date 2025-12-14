@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "germigney",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Germigney", "metric_roundness": 10.75, "metric_rectangularity": 42.18, "metric_mobile_fit": 73.01, "metric_aspect_ratio": 0.293, "metric_area_km2": 11.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6709855, 47.080372499999989 ], [ 5.6848502, 47.0346719 ], [ 5.6783689, 47.0305269 ], [ 5.6780074, 47.022708499999986 ], [ 5.692366, 47.010778499999986 ], [ 5.7013915, 47.011955499999985 ], [ 5.701304, 47.018981 ], [ 5.6986369, 47.0198532 ], [ 5.6970362, 47.028059 ], [ 5.6927339, 47.0305842 ], [ 5.6892997, 47.0389876 ], [ 5.67656, 47.0816 ], [ 5.6709855, 47.080372499999989 ] ] ] } }
+]
+}

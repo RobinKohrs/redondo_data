@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laa_mondrans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laà-Mondrans", "metric_roundness": 57.57, "metric_rectangularity": 69.67, "metric_mobile_fit": 31.04, "metric_aspect_ratio": 1.252, "metric_area_km2": 11.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7527941, 43.4572273 ], [ -0.752759, 43.461421 ], [ -0.7737446, 43.468719899999975 ], [ -0.7822945, 43.467090299999981 ], [ -0.7919085, 43.460427 ], [ -0.7863913, 43.4562099 ], [ -0.7810435, 43.442988 ], [ -0.7682246, 43.4464534 ], [ -0.758223, 43.445102 ], [ -0.7537382, 43.4516475 ], [ -0.747525, 43.45228 ], [ -0.7527941, 43.4572273 ] ] ] } }
+]
+}

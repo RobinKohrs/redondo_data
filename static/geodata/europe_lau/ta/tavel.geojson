@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tavel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tavel", "metric_roundness": 34.52, "metric_rectangularity": 65.39, "metric_mobile_fit": -66.82, "metric_aspect_ratio": 2.231, "metric_area_km2": 39.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.735022, 43.9987285 ], [ 4.7417225, 44.0071885 ], [ 4.738476, 44.013196 ], [ 4.7249859, 44.0153 ], [ 4.7162225, 44.024649 ], [ 4.7069478, 44.0258172 ], [ 4.6847291, 44.0200268 ], [ 4.6439375, 44.020734 ], [ 4.6373255, 44.019066 ], [ 4.6342755, 44.0176395 ], [ 4.6384979, 44.0070112 ], [ 4.7133547, 43.9911734 ], [ 4.725053, 43.993082499999986 ], [ 4.735022, 43.9987285 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aljaraque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aljaraque", "metric_roundness": 50.25, "metric_rectangularity": 71.49, "metric_mobile_fit": 7.63, "metric_aspect_ratio": 1.486, "metric_area_km2": 52.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.0152992, 37.3002736 ], [ -7.0606514, 37.2955051 ], [ -7.0699452, 37.2903801 ], [ -7.0767242, 37.280848899999988 ], [ -7.0686994, 37.273039 ], [ -7.0585472, 37.268952399999989 ], [ -7.0470481, 37.2697996 ], [ -7.0215708, 37.2543079 ], [ -7.000271, 37.258358 ], [ -6.9804829, 37.2702077 ], [ -6.9814544, 37.2778539 ], [ -6.9765433, 37.2908234 ], [ -6.97959, 37.3079415 ], [ -7.0152992, 37.3002736 ] ] ] } }
+]
+}

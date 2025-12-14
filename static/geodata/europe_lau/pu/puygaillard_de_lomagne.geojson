@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "puygaillard_de_lomagne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Puygaillard-de-Lomagne", "metric_roundness": 29.56, "metric_rectangularity": 39.0, "metric_mobile_fit": 44.86, "metric_aspect_ratio": 1.114, "metric_area_km2": 14.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8977523, 43.9769612 ], [ 0.876955, 43.9696115 ], [ 0.8710588, 43.9667295 ], [ 0.855608, 43.970861 ], [ 0.855473, 43.963612 ], [ 0.8845317, 43.9613072 ], [ 0.9016475, 43.953719 ], [ 0.9072816, 43.956657799999988 ], [ 0.9141497, 43.9807251 ], [ 0.913125, 43.989379 ], [ 0.9133805, 43.99163 ], [ 0.9110285, 43.9910595 ], [ 0.9080315, 43.988862 ], [ 0.905477, 43.985996 ], [ 0.8977523, 43.9769612 ] ] ] } }
+]
+}

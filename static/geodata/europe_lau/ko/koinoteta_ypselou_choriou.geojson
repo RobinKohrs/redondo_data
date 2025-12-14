@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ypselou_choriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Υψηλού Χωρίου", "metric_roundness": 42.22, "metric_rectangularity": 74.85, "metric_mobile_fit": 85.87, "metric_aspect_ratio": 0.704, "metric_area_km2": 18.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0496935, 38.6191339 ], [ 22.0593977, 38.6220634 ], [ 22.0668095, 38.617938 ], [ 22.047852, 38.661992 ], [ 22.039917, 38.665312299999989 ], [ 22.0323685, 38.661111 ], [ 22.0241235, 38.649332 ], [ 22.0307173, 38.636605 ], [ 22.0335015, 38.6229915 ], [ 22.0496935, 38.6191339 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sebadelhe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sebadelhe", "metric_roundness": 47.25, "metric_rectangularity": 64.28, "metric_mobile_fit": 46.08, "metric_aspect_ratio": 1.102, "metric_area_km2": 13.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.2517285, 41.041584 ], [ -7.2529925, 41.048197 ], [ -7.250465, 41.0535815 ], [ -7.251221, 41.0585236 ], [ -7.2691127, 41.0658314 ], [ -7.2791505, 41.074435 ], [ -7.2775504, 41.066696 ], [ -7.2811076, 41.0670197 ], [ -7.2817468, 41.0712676 ], [ -7.284975, 41.069676 ], [ -7.2895684, 41.0605384 ], [ -7.2968726, 41.058031199999988 ], [ -7.2984605, 41.052497499999987 ], [ -7.2517285, 41.041584 ] ] ] } }
+]
+}

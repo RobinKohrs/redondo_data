@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dankerath",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dankerath", "metric_roundness": 26.43, "metric_rectangularity": 54.22, "metric_mobile_fit": 23.14, "metric_aspect_ratio": 1.331, "metric_area_km2": 7.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8075498, 50.3314394 ], [ 6.8264493, 50.33103 ], [ 6.8351885, 50.337601199999988 ], [ 6.8352375, 50.342094399999986 ], [ 6.8405025, 50.341984499999967 ], [ 6.839569, 50.3466229 ], [ 6.83155, 50.350165 ], [ 6.8294523, 50.3468642 ], [ 6.8156084, 50.341801799999978 ], [ 6.8116275, 50.336817499999988 ], [ 6.7959604, 50.333200299999987 ], [ 6.793643, 50.327697 ], [ 6.8075498, 50.3314394 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kanaliou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καναλίου", "metric_roundness": 48.76, "metric_rectangularity": 62.54, "metric_mobile_fit": 25.27, "metric_aspect_ratio": 1.31, "metric_area_km2": 7.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.8957382, 39.61389650000001 ], [ 19.885348, 39.6102121 ], [ 19.877848, 39.610219 ], [ 19.8671425, 39.609363499999986 ], [ 19.8675855, 39.607188 ], [ 19.868789, 39.604743 ], [ 19.873375, 39.6007045 ], [ 19.874558, 39.599104 ], [ 19.876314, 39.597898 ], [ 19.9011445, 39.5987725 ], [ 19.904383, 39.6073875 ], [ 19.899911, 39.6198025 ], [ 19.8957382, 39.61389650000001 ] ] ] } }
+]
+}

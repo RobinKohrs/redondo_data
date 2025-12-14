@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merris",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merris", "metric_roundness": 63.13, "metric_rectangularity": 76.03, "metric_mobile_fit": 60.63, "metric_aspect_ratio": 0.956, "metric_area_km2": 24.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6837863, 50.726064799999989 ], [ 2.6739092, 50.732376599999988 ], [ 2.6574305, 50.733380699999984 ], [ 2.6326145, 50.727194499999982 ], [ 2.6315785, 50.709672 ], [ 2.633122, 50.707919 ], [ 2.6768045, 50.698811 ], [ 2.672586, 50.7066752 ], [ 2.6770525, 50.714497 ], [ 2.6837863, 50.726064799999989 ] ] ] } }
+]
+}

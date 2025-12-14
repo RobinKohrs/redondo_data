@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fort_mahon_plage",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fort-Mahon-Plage", "metric_roundness": 59.21, "metric_rectangularity": 74.23, "metric_mobile_fit": 41.59, "metric_aspect_ratio": 1.147, "metric_area_km2": 32.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5764192, 50.327839199999985 ], [ 1.5852953, 50.3309973 ], [ 1.5898496, 50.337145799999981 ], [ 1.6102233, 50.336619299999988 ], [ 1.6101725, 50.3472146 ], [ 1.6024305, 50.359981 ], [ 1.574725, 50.358773199999987 ], [ 1.5693493, 50.363296699999985 ], [ 1.5572821, 50.3619523 ], [ 1.5518836, 50.3531008 ], [ 1.5465175, 50.328021 ], [ 1.5764192, 50.327839199999985 ] ] ] } }
+]
+}

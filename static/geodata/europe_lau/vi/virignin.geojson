@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virignin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Virignin", "metric_roundness": 45.21, "metric_rectangularity": 74.42, "metric_mobile_fit": 98.68, "metric_aspect_ratio": 0.576, "metric_area_km2": 16.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.700594, 45.7099475 ], [ 5.703348, 45.710855499999987 ], [ 5.7066245, 45.710847 ], [ 5.716932, 45.708106 ], [ 5.720453, 45.707864499999978 ], [ 5.7277365, 45.709265 ], [ 5.7313245, 45.7101475 ], [ 5.7226248, 45.719107499999986 ], [ 5.7248576, 45.7241117 ], [ 5.724492, 45.748445 ], [ 5.7202927, 45.744585299999983 ], [ 5.7098031, 45.7469823 ], [ 5.697858, 45.7346125 ], [ 5.700594, 45.7099475 ] ] ] } }
+]
+}

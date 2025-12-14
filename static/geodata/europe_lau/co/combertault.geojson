@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "combertault",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Combertault", "metric_roundness": 67.96, "metric_rectangularity": 80.72, "metric_mobile_fit": 58.36, "metric_aspect_ratio": 0.979, "metric_area_km2": 8.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8891193, 46.9849034 ], [ 4.8975436, 46.985584 ], [ 4.91017, 46.98168 ], [ 4.9172983, 46.98572859999998 ], [ 4.9176745, 46.998568 ], [ 4.8944325, 47.003633 ], [ 4.8952795, 46.998375 ], [ 4.8896555, 46.9958635 ], [ 4.8861685, 46.9875255 ], [ 4.8891193, 46.9849034 ] ] ] } }
+]
+}

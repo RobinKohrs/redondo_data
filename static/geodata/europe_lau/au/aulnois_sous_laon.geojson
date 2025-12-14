@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aulnois_sous_laon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aulnois-sous-Laon", "metric_roundness": 53.41, "metric_rectangularity": 66.6, "metric_mobile_fit": 54.15, "metric_aspect_ratio": 1.021, "metric_area_km2": 22.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6005917, 49.6058419 ], [ 3.6062344, 49.6025998 ], [ 3.6153602, 49.6025809 ], [ 3.6231905, 49.6085685 ], [ 3.6188705, 49.619521599999985 ], [ 3.633417, 49.6229149 ], [ 3.6412475, 49.6293225 ], [ 3.62354, 49.6404975 ], [ 3.6173997, 49.631107699999987 ], [ 3.6112777, 49.6296451 ], [ 3.6041691, 49.633165299999987 ], [ 3.5880405, 49.624284 ], [ 3.581489, 49.612535 ], [ 3.587112, 49.606417799999981 ], [ 3.595177, 49.603663 ], [ 3.6005917, 49.6058419 ] ] ] } }
+]
+}

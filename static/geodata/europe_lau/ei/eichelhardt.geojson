@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eichelhardt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eichelhardt", "metric_roundness": 63.13, "metric_rectangularity": 77.67, "metric_mobile_fit": 42.23, "metric_aspect_ratio": 1.14, "metric_area_km2": 6.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7119201, 50.718559299999974 ], [ 7.712832, 50.721585499999989 ], [ 7.7093195, 50.722177 ], [ 7.7054655, 50.723111499999973 ], [ 7.697198, 50.7257035 ], [ 7.6948125, 50.7265985 ], [ 7.691416, 50.725994 ], [ 7.6816145, 50.717292 ], [ 7.6988675, 50.707968 ], [ 7.715166, 50.715952 ], [ 7.7119201, 50.718559299999974 ] ] ] } }
+]
+}

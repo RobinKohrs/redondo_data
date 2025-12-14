@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chevry_sous_le_bignon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chevry-sous-le-Bignon", "metric_roundness": 49.46, "metric_rectangularity": 76.8, "metric_mobile_fit": 58.58, "metric_aspect_ratio": 0.977, "metric_area_km2": 16.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.87099, 48.156468499999981 ], [ 2.8752613, 48.1478429 ], [ 2.8742311, 48.1413971 ], [ 2.8817833, 48.140731699999982 ], [ 2.8879725, 48.1290985 ], [ 2.9001599, 48.1332806 ], [ 2.915396, 48.1311245 ], [ 2.9125657, 48.146711099999983 ], [ 2.90005, 48.1594355 ], [ 2.87099, 48.156468499999981 ] ] ] } }
+]
+}

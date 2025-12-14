@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vysne_remety",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vyšné Remety", "metric_roundness": 33.98, "metric_rectangularity": 68.13, "metric_mobile_fit": 97.32, "metric_aspect_ratio": 0.589, "metric_area_km2": 12.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1714624, 48.8345183 ], [ 22.1701246, 48.843890099999989 ], [ 22.151675, 48.833995 ], [ 22.1499472, 48.829984699999976 ], [ 22.1519306, 48.8227437 ], [ 22.141446, 48.810341 ], [ 22.153995, 48.805371 ], [ 22.1626925, 48.810843 ], [ 22.175926, 48.831159 ], [ 22.1714624, 48.8345183 ] ] ] } }
+]
+}

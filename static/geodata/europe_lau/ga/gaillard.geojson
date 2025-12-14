@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gaillard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gaillard", "metric_roundness": 52.15, "metric_rectangularity": 72.35, "metric_mobile_fit": 24.55, "metric_aspect_ratio": 1.317, "metric_area_km2": 7.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2166175, 46.187895 ], [ 6.2178946, 46.1910125 ], [ 6.214244, 46.193794499999981 ], [ 6.186103, 46.1782265 ], [ 6.1915238, 46.1740396 ], [ 6.2167141, 46.174509199999989 ], [ 6.2208095, 46.17751 ], [ 6.22368, 46.1843575 ], [ 6.2166175, 46.187895 ] ] ] } }
+]
+}

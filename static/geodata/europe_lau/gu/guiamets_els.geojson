@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guiamets_els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guiamets, Els", "metric_roundness": 47.77, "metric_rectangularity": 56.88, "metric_mobile_fit": 34.43, "metric_aspect_ratio": 1.218, "metric_area_km2": 21.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.731909, 41.102845099999989 ], [ 0.7528282, 41.085787799999984 ], [ 0.7611103, 41.0853515 ], [ 0.7673285, 41.092172 ], [ 0.773958, 41.1190304 ], [ 0.7704195, 41.1211245 ], [ 0.766284, 41.1221235 ], [ 0.7615115, 41.122623 ], [ 0.7598435, 41.1234415 ], [ 0.7561991, 41.1168166 ], [ 0.712817, 41.117013 ], [ 0.7162645, 41.109457599999985 ], [ 0.712379, 41.1052065 ], [ 0.731909, 41.102845099999989 ] ] ] } }
+]
+}

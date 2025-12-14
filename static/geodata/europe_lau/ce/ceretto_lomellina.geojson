@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ceretto_lomellina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ceretto Lomellina", "metric_roundness": 44.25, "metric_rectangularity": 69.7, "metric_mobile_fit": 99.57, "metric_aspect_ratio": 0.567, "metric_area_km2": 14.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.658868, 45.2637025 ], [ 8.6549253, 45.2500753 ], [ 8.6644915, 45.2276495 ], [ 8.6815564, 45.2413149 ], [ 8.681564, 45.247744399999981 ], [ 8.6854208, 45.249665399999984 ], [ 8.687886, 45.259087 ], [ 8.685096, 45.263652 ], [ 8.680043, 45.266334099999987 ], [ 8.6685957, 45.2646751 ], [ 8.661503, 45.2685895 ], [ 8.658868, 45.2637025 ] ] ] } }
+]
+}

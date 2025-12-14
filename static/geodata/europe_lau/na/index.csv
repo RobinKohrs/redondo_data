@@ -1,0 +1,500 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Natternbach,natternbach,na,51.16,60.44,79.45
+europe_lau,Napajedla,napajedla,na,34.49,56.75,97.94
+europe_lau,Návojná,navojna,na,33.48,56.44,98.35
+europe_lau,Násedlovice,nasedlovice,na,50.71,66.68,83.25
+europe_lau,Nasavrky,nasavrky,na,39.63,68.41,-3.92
+europe_lau,Nadějov,nadejov,na,53.39,66.31,29.1
+europe_lau,Naarn im Machlande,naarn_im_machlande,na,45.85,62.97,51.48
+europe_lau,Náměšť nad Oslavou,namest_nad_oslavou,na,37.71,52.3,61.04
+europe_lau,Nárameč,naramec,na,49.48,57.99,76.59
+europe_lau,Našiměřice,nasimerice,na,52.03,65.74,47.82
+europe_lau,Nahe,nahe,na,41.07,65,94.89
+europe_lau,Natendorf,natendorf,na,60.67,67.09,73.49
+europe_lau,Nahrendorf,nahrendorf,na,57.8,73.04,7.02
+europe_lau,Nachrodt-Wiblingwerde,nachrodt_wiblingwerde,na,54.58,63.67,86.25
+europe_lau,Nauheim,nauheim,na,26.29,59.46,9.09
+europe_lau,Nauroth,nauroth,na,45.01,59.42,88.21
+europe_lau,"Naumburg, Stadt",naumburg_stadt,na,49.63,67.82,89.35
+europe_lau,Nachtsheim,nachtsheim,na,56.31,68.14,43.56
+europe_lau,Naunheim,naunheim,na,32.13,59.19,-3.36
+europe_lau,Nannhausen,nannhausen,na,44.64,57.47,54.14
+europe_lau,"Nassau, Stadt",nassau_stadt,na,46,59.32,87.97
+europe_lau,"Nastätten, Stadt",nastatten_stadt,na,53.35,59.5,35.87
+europe_lau,Nasingen,nasingen,na,62.71,71.33,44.37
+europe_lau,Nattenheim,nattenheim,na,41.71,53.06,85.61
+europe_lau,Nauort,nauort,na,52.71,73.31,64.31
+europe_lau,Naas,naas,na,42.49,50.52,62.17
+europe_lau,Naurath (Eifel),naurath_eifel,na,39.51,65.77,70.82
+europe_lau,Naurath (Wald),naurath_wald,na,47.27,60.57,91.84
+europe_lau,Nack,nack,na,61.9,70.13,40.23
+europe_lau,Nanzdietschweiler,nanzdietschweiler,na,67.29,71.65,57.18
+europe_lau,Nackenheim,nackenheim,na,42.88,68.61,80.31
+europe_lau,"Nagold, Stadt",nagold_stadt,na,44.77,65.42,99.96
+europe_lau,Nassereith,nassereith,na,47.77,58.83,61.47
+europe_lau,Nattheim,nattheim,na,49.32,58.93,39.42
+europe_lau,Natters,natters,na,28.08,56.29,17.09
+europe_lau,Navis,navis,na,41.94,66.68,-15.71
+europe_lau,"Nassenfels, M",nassenfels_m,na,27.34,43.54,-40.31
+europe_lau,"Nandlstadt, M",nandlstadt_m,na,68.62,70.84,47.27
+europe_lau,"Naumburg (Saale), Stadt",naumburg_saale_stadt,na,54.66,60.01,47.07
+europe_lau,"Naunhof, Stadt",naunhof_stadt,na,32.77,51.18,4.8
+europe_lau,Naundorf,naundorf,na,51.11,72.22,20.76
+europe_lau,Nalbach,nalbach,na,44.93,63.37,12.75
+europe_lau,Namborn,namborn,na,68.15,70.58,67.1
+europe_lau,Nausnitz,nausnitz,na,55.67,73.92,20.76
+europe_lau,Nauendorf,nauendorf,na,43.66,54.76,68.47
+europe_lau,Nazza,nazza,na,52.93,64.65,59.15
+europe_lau,"Nauen, Stadt",nauen_stadt,na,43.88,56.06,59.31
+europe_lau,Næstved,naestved,na,51.3,63.77,36.68
+europe_lau,Nacimiento,nacimiento,na,37.27,59.52,99.11
+europe_lau,Narrillos del Álamo,narrillos_del_alamo,na,24.63,49.71,14.2
+europe_lau,Navaridas,navaridas,na,61.21,75.69,72.23
+europe_lau,Naut Aran,naut_aran,na,45.68,66.86,75.77
+europe_lau,Nafría de Ucero,nafria_de_ucero,na,40.21,64.37,90.48
+europe_lau,Narros,narros,na,51.28,75.4,-9.96
+europe_lau,Navaleno,navaleno,na,43.03,66.14,73.92
+europe_lau,Narrillos del Rebollar,narrillos_del_rebollar,na,55.86,73.69,29.97
+europe_lau,Narros del Castillo,narros_del_castillo,na,70,69.23,44.67
+europe_lau,Narros del Puerto,narros_del_puerto,na,51,70.35,83.63
+europe_lau,Narros de Saldueña,narros_de_salduena,na,32.22,58.72,98.38
+europe_lau,Navacepedilla de Corneja,navacepedilla_de_corneja,na,56.19,76.6,52.33
+europe_lau,Nava de Arévalo,nava_de_arevalo,na,69.8,66.31,54.52
+europe_lau,Nava del Barco,nava_del_barco,na,30.07,61.51,89.65
+europe_lau,Navadijos,navadijos,na,53.02,67.96,21.11
+europe_lau,Navaescurial,navaescurial,na,55.86,80.17,19.43
+europe_lau,Navahondilla,navahondilla,na,58.78,67.13,54.57
+europe_lau,Navalacruz,navalacruz,na,35.58,62.52,-54.78
+europe_lau,Navalmoral,navalmoral,na,64.42,81.62,62.12
+europe_lau,Navalonguilla,navalonguilla,na,52.52,72.08,32.28
+europe_lau,Navalosa,navalosa,na,38.41,49.76,38.06
+europe_lau,Navalperal de Pinares,navalperal_de_pinares,na,66.77,71.57,75.41
+europe_lau,Navalperal de Tormes,navalperal_de_tormes,na,22.76,57.38,86.27
+europe_lau,Navaluenga,navaluenga,na,67.59,74.81,32.06
+europe_lau,Navaquesera,navaquesera,na,22.38,59.39,-140.87
+europe_lau,Navarredonda de Gredos,navarredonda_de_gredos,na,54.03,83.26,88.2
+europe_lau,Navarredondilla,navarredondilla,na,41.29,63.99,-12.03
+europe_lau,Navarrevisca,navarrevisca,na,51.14,65.6,31.85
+europe_lau,"Navas del Marqués, Las",navas_del_marques_las,na,66.44,77.82,39.66
+europe_lau,Navatalgordo,navatalgordo,na,51.13,72.75,-13.18
+europe_lau,Navatejares,navatejares,na,50.85,72.21,69.34
+europe_lau,Namen,namen,na,56.98,61.25,40.07
+europe_lau,Narboneta,narboneta,na,41.02,56.13,0.25
+europe_lau,Navajas,navajas,na,71.26,87.75,53.79
+europe_lau,Navas de Jorquera,navas_de_jorquera,na,60.53,66.47,64.38
+europe_lau,Nandrin,nandrin,na,41.88,61.68,-8.75
+europe_lau,Navarcles,navarcles,na,46.49,59.54,82.05
+europe_lau,Navàs,navas,na,30.42,51.15,-48.71
+europe_lau,Navalpino,navalpino,na,63.06,71.47,30.89
+europe_lau,Navas de Estena,navas_de_estena,na,40.12,58.42,93.69
+europe_lau,"Nava de Santiago, La",nava_de_santiago_la,na,75.27,74.24,64.36
+europe_lau,Navalvillar de Pela,navalvillar_de_pela,na,46.12,54.58,74.14
+europe_lau,Nava de Roa,nava_de_roa,na,46.9,64.77,52.06
+europe_lau,Navas de Bureba,navas_de_bureba,na,61.67,77.79,38.57
+europe_lau,Navata,navata,na,33.14,51.08,92.04
+europe_lau,Navaconcejo,navaconcejo,na,58.52,71.83,34.69
+europe_lau,Navalmoral de la Mata,navalmoral_de_la_mata,na,57.75,62,44.71
+europe_lau,Navalvillar de Ibor,navalvillar_de_ibor,na,30.51,52.88,80.65
+europe_lau,Navas del Madroño,navas_del_madrono,na,53.85,64.51,80.07
+europe_lau,Navezuelas,navezuelas,na,49,77.26,81.89
+europe_lau,Narón,naron,na,41.57,52.91,17.08
+europe_lau,Nazareth,nazareth,na,47.28,61.48,10.69
+europe_lau,"Naila, St",naila_st,na,45.41,62.67,72.13
+europe_lau,Narva linn,narva_linn,na,36.9,63.93,79.4
+europe_lau,Narva-Jõesuu linn,narva_joesuu_linn,na,45.91,63.61,51.64
+europe_lau,Nagel,nagel,na,35.2,67.59,-29.12
+europe_lau,Nadrensee,nadrensee,na,53.55,68.57,12.21
+europe_lau,Nassogne,nassogne,na,55.7,68.17,37.75
+europe_lau,Nauders,nauders,na,62.47,67.02,50.6
+europe_lau,"Nabburg, St",nabburg_st,na,47.66,61.95,5.69
+europe_lau,Namlos,namlos,na,47.56,51.74,51.63
+europe_lau,Nagel-Séez-Mesnil,nagel_seez_mesnil,na,46.53,67.89,47.21
+europe_lau,Nassandres sur Risle,nassandres_sur_risle,na,36.13,55.41,-21.5
+europe_lau,Nabirat,nabirat,na,50.46,64.49,71.04
+europe_lau,Nadaillac,nadaillac,na,50.74,59.23,58.92
+europe_lau,Nailhac,nailhac,na,50.42,70.89,92.2
+europe_lau,Nanteuil-Auriac-de-Bourzac,nanteuil_auriac_de_bourzac,na,46.51,62.96,54.5
+europe_lau,Nantheuil,nantheuil,na,45.91,68.64,96.13
+europe_lau,Nanthiat,nanthiat,na,41.12,57.77,53.6
+europe_lau,Nastringues,nastringues,na,56.94,79.02,-0.67
+europe_lau,Naussannes,naussannes,na,66.31,75.24,52.58
+europe_lau,Nan-sous-Thil,nan_sous_thil,na,39.73,57.77,92.98
+europe_lau,Nantoux,nantoux,na,58.71,70.85,64.84
+europe_lau,Najac,najac,na,59.26,63.57,31.72
+europe_lau,Nant,nant,na,51.06,68.71,92.93
+europe_lau,Naucelle,naucelle,na,37.64,49.73,28.34
+europe_lau,Naussac,naussac,na,34.94,59.66,89.68
+europe_lau,Nauviale,nauviale,na,65.36,67.02,66.27
+europe_lau,Nançay,nancay,na,57.17,65.43,77.08
+europe_lau,Nachamps,nachamps,na,47.5,64.06,55.09
+europe_lau,Nancras,nancras,na,27.64,40.79,79.09
+europe_lau,Nantillé,nantille,na,50.6,66.75,30.83
+europe_lau,Naantali,naantali,na,25.28,55.57,86.34
+europe_lau,Nakkila,nakkila,na,40.24,55.95,-12.22
+europe_lau,Nades,nades,na,39.56,63.53,99.29
+europe_lau,Nassigny,nassigny,na,41.19,66.49,9.43
+europe_lau,Naves,naves,na,52.39,72.48,20.46
+europe_lau,Närpiö,narpio,na,39.66,53.47,83.85
+europe_lau,Narbonne,narbonne,na,33.83,42.76,31.01
+europe_lau,Naisey-les-Granges,naisey_les_granges,na,53.6,72.11,13
+europe_lau,Nancray,nancray,na,62.33,75.33,72.5
+europe_lau,Nans,nans,na,54.93,82.77,90.9
+europe_lau,Nans-sous-Sainte-Anne,nans_sous_sainte_anne,na,37.44,54.55,-20.95
+europe_lau,Narbief,narbief,na,58.18,71.17,58.68
+europe_lau,Nantua,nantua,na,33.19,41.76,74.69
+europe_lau,Nalzen,nalzen,na,21.16,48.27,-114.93
+europe_lau,Nanteuil-sur-Aisne,nanteuil_sur_aisne,na,64.49,78.81,72.51
+europe_lau,Narros de Matalayegua,narros_de_matalayegua,na,44.85,59.85,45.67
+europe_lau,Navacarros,navacarros,na,16.47,42.62,98.77
+europe_lau,Nava de Béjar,nava_de_bejar,na,43.72,60.35,2.91
+europe_lau,Nava de Francia,nava_de_francia,na,46.24,72.49,58.64
+europe_lau,Nava de Sotrobal,nava_de_sotrobal,na,73.55,77.29,45.34
+europe_lau,Navales,navales,na,54.05,63.49,70.66
+europe_lau,Navalmoral de Béjar,navalmoral_de_bejar,na,49.43,62.69,88.34
+europe_lau,Navamorales,navamorales,na,65.43,72.92,80.55
+europe_lau,Navarredonda de la Rinconada,navarredonda_de_la_rinconada,na,51.03,59.23,34.8
+europe_lau,Navasfrías,navasfrias,na,64.28,72.16,68.59
+europe_lau,Nabarniz,nabarniz,na,74.25,75.83,57.5
+europe_lau,Naval,naval,na,68.68,72.7,57.57
+europe_lau,Nava de la Asunción,nava_de_la_asuncion,na,46.74,68.83,35.45
+europe_lau,Navafría,navafria,na,29.09,71.03,79.28
+europe_lau,Navalilla,navalilla,na,30.77,60.15,-39.57
+europe_lau,Navalmanzano,navalmanzano,na,49.69,64.34,66.12
+europe_lau,Navares de Ayuso,navares_de_ayuso,na,33.61,60.48,88.28
+europe_lau,Navares de Enmedio,navares_de_enmedio,na,48.61,63.9,77.12
+europe_lau,Navares de las Cuevas,navares_de_las_cuevas,na,49.42,58.27,43.72
+europe_lau,Navas de Oro,navas_de_oro,na,56.03,79.72,30.9
+europe_lau,Navas de San Antonio,navas_de_san_antonio,na,26.18,54.12,99.59
+europe_lau,"Navas de Jadraque, Las",navas_de_jadraque_las,na,49.15,65.47,15.15
+europe_lau,Navia de Suarna,navia_de_suarna,na,44.51,55.3,52.97
+europe_lau,Nàquera,naquera,na,48.71,65.11,65.23
+europe_lau,Navarrés,navarres,na,42.35,62.31,32.4
+europe_lau,Navianos de Valverde,navianos_de_valverde,na,53.06,72.06,76.42
+europe_lau,Navas de Riofrío,navas_de_riofrio,na,25.56,62.47,87.32
+europe_lau,Navacerrada,navacerrada,na,38.34,64.85,86.56
+europe_lau,Navalafuente,navalafuente,na,48.35,76.53,47.39
+europe_lau,Navalagamella,navalagamella,na,31.27,56.88,94.17
+europe_lau,Navalcarnero,navalcarnero,na,49.46,68.46,56.32
+europe_lau,Navarredonda y San Mamés,navarredonda_y_san_mames,na,57.17,76.62,43.82
+europe_lau,Navas del Rey,navas_del_rey,na,40.36,62.49,83.44
+europe_lau,Navascués,navascues,na,50.95,67.82,11.01
+europe_lau,Nazar,nazar,na,35.51,68.8,-41.16
+europe_lau,Nalec,nalec,na,30.43,67.03,93.48
+europe_lau,Navès,naves,na,43.67,53.27,83.51
+europe_lau,Nambroca,nambroca,na,47.61,56.06,82.4
+europe_lau,"Nava de Ricomalillo, La",nava_de_ricomalillo_la,na,59.6,65.76,33.51
+europe_lau,Navahermosa,navahermosa,na,44.19,61.98,60.48
+europe_lau,Navalcán,navalcan,na,36.76,56.01,78.27
+europe_lau,Navalmoralejo,navalmoralejo,na,42.55,55.72,24.25
+europe_lau,"Navalmorales, Los",navalmorales_los,na,46.58,62.65,55.73
+europe_lau,"Navalucillos, Los",navalucillos_los,na,33.23,56.11,91.18
+europe_lau,Navamorcuende,navamorcuende,na,39.73,54.29,36.5
+europe_lau,Nampcelles-la-Cour,nampcelles_la_cour,na,62.82,73.39,35.87
+europe_lau,Nampteuil-sous-Muret,nampteuil_sous_muret,na,47.77,80.9,89.27
+europe_lau,Nanteuil-la-Fosse,nanteuil_la_fosse,na,51.64,67.68,67.07
+europe_lau,Nanteuil-Notre-Dame,nanteuil_notre_dame,na,57.9,76.32,-0.25
+europe_lau,Nauroy,nauroy,na,54.4,73.82,88.93
+europe_lau,Navas de San Juan,navas_de_san_juan,na,27.71,51.67,96.78
+europe_lau,"Navas de la Concepción, Las",navas_de_la_concepcion_las,na,28.96,62.44,90.53
+europe_lau,Nava del Rey,nava_del_rey,na,30.53,55.83,92.07
+europe_lau,Narnhac,narnhac,na,34.17,55.83,88.99
+europe_lau,Navardún,navardun,na,56.06,73.38,57.14
+europe_lau,"Nava, La",nava_la,na,59.19,70.09,43.71
+europe_lau,Naucelles,naucelles,na,45.75,60.86,7.71
+europe_lau,Nájera,najera,na,26.49,32.26,56.32
+europe_lau,Nalda,nalda,na,44.83,60.67,77.94
+europe_lau,Navajún,navajun,na,35.29,58.12,35.59
+europe_lau,Navarrete,navarrete,na,36.29,65.35,-46.92
+europe_lau,Nava,nava,na,50.2,62.18,79.39
+europe_lau,Navia,navia,na,57.13,74.93,57.17
+europe_lau,Narcy,narcy,na,47.72,70.43,22.86
+europe_lau,Nasbinals,nasbinals,na,38.45,54.06,84.63
+europe_lau,Naussac-Fontanes,naussac_fontanes,na,51.72,59.84,62.2
+europe_lau,Náklo,naklo,na,38.77,70.14,67
+europe_lau,Nay,nay,na,36.53,74.68,93.95
+europe_lau,Nandax,nandax,na,45.37,63.95,22.17
+europe_lau,Nancray-sur-Rimarde,nancray_sur_rimarde,na,40.7,70.54,98.37
+europe_lau,Nargis,nargis,na,46.81,65.09,93.91
+europe_lau,Nantes,nantes,na,36.04,46.02,59.48
+europe_lau,Νατά,nata,na,59.12,67.42,47.15
+europe_lau,Naveil,naveil,na,49.53,64.12,32.35
+europe_lau,Nappersdorf-Kammersdorf,nappersdorf_kammersdorf,na,61.31,67.12,57.92
+europe_lau,Nanteuil-la-Forêt,nanteuil_la_foret,na,46.68,50.8,74.18
+europe_lau,Nancy,nancy,na,48.24,65.65,30.33
+europe_lau,Nampcel,nampcel,na,53.67,70.47,79.53
+europe_lau,Nanteuil-le-Haudouin,nanteuil_le_haudouin,na,49.39,63.78,29.2
+europe_lau,Nadaillac-de-Rouge,nadaillac_de_rouge,na,38.54,68.42,0.27
+europe_lau,Nadillac,nadillac,na,39.83,58.89,99.09
+europe_lau,Naujac-sur-Mer,naujac_sur_mer,na,40.55,68.85,-11.27
+europe_lau,Naujan-et-Postiac,naujan_et_postiac,na,50.42,66.01,27.24
+europe_lau,Naillat,naillat,na,50.48,60.51,37.24
+europe_lau,Nance,nance,na,33.67,46.05,91.69
+europe_lau,Nancuise,nancuise,na,66.64,76.23,37.31
+europe_lau,Naters,naters,na,48.68,63.51,80.96
+europe_lau,Naves,naves,na,52.51,55.53,73.92
+europe_lau,Nailloux,nailloux,na,59.99,64.52,50.32
+europe_lau,Narrosse,narrosse,na,58.36,68.19,22.87
+europe_lau,Nassiet,nassiet,na,56.53,74.53,27.25
+europe_lau,Nanchez,nanchez,na,42.11,51.5,50.9
+europe_lau,Nantes-en-Ratier,nantes_en_ratier,na,36.56,62.23,99.75
+europe_lau,Nabinaud,nabinaud,na,47.8,73.92,93.84
+europe_lau,Nanclars,nanclars,na,64.02,76.53,31.66
+europe_lau,Nanteuil-en-Vallée,nanteuil_en_vallee,na,53.53,58.91,77.26
+europe_lau,Nages-et-Solorgues,nages_et_solorgues,na,48.64,61.64,15
+europe_lau,Navacelles,navacelles,na,54.74,69.05,65.29
+europe_lau,Nazelles-Négron,nazelles_negron,na,62.78,75.11,80.68
+europe_lau,Nampont,nampont,na,31.96,60.18,-37.44
+europe_lau,Namps-Maisnil,namps_maisnil,na,50.48,70.41,5.85
+europe_lau,Nampty,nampty,na,47.67,76.44,69.62
+europe_lau,Naours,naours,na,54.08,72.73,82.18
+europe_lau,Nages,nages,na,38.69,57.31,12.83
+europe_lau,Navès,naves,na,62.63,67.33,57.5
+europe_lau,Nanton,nanton,na,41.97,66.25,77
+europe_lau,Navilly,navilly,na,48.77,58.3,64.56
+europe_lau,Nainville-les-Roches,nainville_les_roches,na,66.1,66.02,61.61
+europe_lau,Nayemont-les-Fosses,nayemont_les_fosses,na,33.91,68.98,60.33
+europe_lau,Nailly,nailly,na,52.44,62.89,88.31
+europe_lau,Našice,nasice,na,38.38,56.91,72.08
+europe_lau,Nahuja,nahuja,na,35.96,71.19,20.06
+europe_lau,Nambsheim,nambsheim,na,35.85,69.32,-67.1
+europe_lau,Nalžovice,nalzovice,na,44.6,56.09,88.26
+europe_lau,Nans-les-Pins,nans_les_pins,na,67.18,71.75,65.5
+europe_lau,Nantiat,nantiat,na,40.06,58.4,99.36
+europe_lau,Navour-sur-Grosne,navour_sur_grosne,na,53.29,66.15,34.19
+europe_lau,Nákří,nakri,na,52.58,64.04,68.85
+europe_lau,Naintré,naintre,na,44.98,62.2,86.24
+europe_lau,Nalliers,nalliers,na,57.99,66.78,48.03
+europe_lau,Nauvay,nauvay,na,49.92,74.22,31.61
+europe_lau,Naives-en-Blois,naives_en_blois,na,67.03,75.77,37.03
+europe_lau,Naives-Rosières,naives_rosieres,na,54.51,74.19,45.53
+europe_lau,Naix-aux-Forges,naix_aux_forges,na,30.81,57.8,95.99
+europe_lau,Nançois-le-Grand,nancois_le_grand,na,54.75,69.08,41.37
+europe_lau,Nançois-sur-Ornain,nancois_sur_ornain,na,40,64.48,31.1
+europe_lau,Nant-le-Grand,nant_le_grand,na,54.92,69.02,16.17
+europe_lau,Nant-le-Petit,nant_le_petit,na,60.52,73.77,47.8
+europe_lau,Nantillois,nantillois,na,57.06,59.57,56.04
+europe_lau,Nantois,nantois,na,43.55,64.75,65.13
+europe_lau,Natzwiller,natzwiller,na,31.45,60.35,-31.83
+europe_lau,Náměšť na Hané,namest_na_hane,na,51.18,74.38,-11.97
+europe_lau,Načeradec,naceradec,na,60.73,66.3,56.31
+europe_lau,Nances,nances,na,53,72.24,90.88
+europe_lau,Naves,naves,na,45.73,54.46,55.11
+europe_lau,Narbéfontaine,narbefontaine,na,35.78,57.09,-20.59
+europe_lau,Nannay,nannay,na,36.02,55.52,-18.09
+europe_lau,Narcy,narcy,na,44.03,71.14,17.57
+europe_lau,Nabringhen,nabringhen,na,54.71,64.63,62.04
+europe_lau,Narp,narp,na,53.87,70.63,69.07
+europe_lau,Navailles-Angos,navailles_angos,na,33.78,57.39,89.7
+europe_lau,Navarrenx,navarrenx,na,25.73,62.81,41.32
+europe_lau,Nay,nay,na,55.74,59.52,43.46
+europe_lau,Nabas,nabas,na,45.34,60.71,68.22
+europe_lau,Narcastet,narcastet,na,38.07,65.95,96.45
+europe_lau,Nantilly,nantilly,na,40.49,61.03,44.82
+europe_lau,Navenne,navenne,na,58.86,77.67,76.18
+europe_lau,Nancy-sur-Cluses,nancy_sur_cluses,na,37.21,66.69,90.14
+europe_lau,Nangy,nangy,na,48.48,65.06,81.63
+europe_lau,Nâves-Parmelan,naves_parmelan,na,62.58,67.68,42.95
+europe_lau,Nanto,nanto,na,20.54,74.72,6.48
+europe_lau,Namsos - Nåavmesjenjaelmie,namsos_naavmesjenjaelmie,na,22.99,45.2,69.92
+europe_lau,Navelli,navelli,na,51.05,64.11,61.09
+europe_lau,Namysłów,namyslow,na,40.1,52.72,52.11
+europe_lau,Namsskogan,namsskogan,na,34.22,50.82,79.08
+europe_lau,Nærøysund,naeroysund,na,13.83,32,-17.63
+europe_lau,Nadějkov,nadejkov,na,43.14,71.02,94.14
+europe_lau,Naloučany,naloucany,na,44.05,52.59,56.39
+europe_lau,Narew,narew,na,58.9,60.25,33.12
+europe_lau,Narewka,narewka,na,56.31,71.16,47.99
+europe_lau,Návsí,navsi,na,21.5,46.93,-3.33
+europe_lau,Naro,naro,na,37.16,55.67,-9.23
+europe_lau,Nazzano,nazzano,na,43.61,51.82,69.21
+europe_lau,Nago-Torbole,nago_torbole,na,44.66,66.95,92.51
+europe_lau,Nardò,nardo,na,24.96,50.43,63.21
+europe_lau,Nahošovice,nahosovice,na,42.48,72.07,-36.31
+europe_lau,Narcao,narcao,na,44.75,49.35,20.68
+europe_lau,Nave,nave,na,53.45,61.88,72.64
+europe_lau,Narvik,narvik,na,50.6,57.35,40.62
+europe_lau,Nannestad,nannestad,na,57.88,68.56,82.15
+europe_lau,Nakło nad Notecią,naklo_nad_notecia,na,61.71,71.05,34.99
+europe_lau,Nasielsk,nasielsk,na,54.09,58.68,22.3
+europe_lau,Nadarzyn,nadarzyn,na,38.6,57.65,81.67
+europe_lau,Nałęczów,naleczow,na,53.05,65.25,58.69
+europe_lau,Nalžovské Hory,nalzovske_hory,na,42.6,61.55,61.64
+europe_lau,Naso,naso,na,53.4,65.24,56.35
+europe_lau,Naruszewo,naruszewo,na,52.53,67.12,19.66
+europe_lau,Narol,narol,na,52.48,62.28,14.24
+europe_lau,Nardodipace,nardodipace,na,45.09,56.98,43.45
+europe_lau,Nagykapornak,nagykapornak,na,34.56,51.9,68.49
+europe_lau,Nagycsepely,nagycsepely,na,46.18,71.96,66.34
+europe_lau,Nagyér,nagyer,na,50.58,80.33,-11.16
+europe_lau,Napoli,napoli,na,44.93,57.78,21.63
+europe_lau,Naas,naas,na,47.35,63.75,86.8
+europe_lau,Nagycenk,nagycenk,na,41.85,51.27,84.97
+europe_lau,Nagyharsány,nagyharsany,na,55.81,74.6,51.7
+europe_lau,Nak,nak,na,52.15,67.32,69.54
+europe_lau,Nagybárkány,nagybarkany,na,72.27,73.42,52.69
+europe_lau,Nagyvejke,nagyvejke,na,52.76,62.76,66.39
+europe_lau,Nagykanizsa,nagykanizsa,na,41.56,56.03,92.78
+europe_lau,Nagyrada,nagyrada,na,48.19,86.39,-24.53
+europe_lau,Nagyszénás,nagyszenas,na,45.43,57.17,58.91
+europe_lau,Nagygyimót,nagygyimot,na,43.08,63.83,23.13
+europe_lau,Nagylóc,nagyloc,na,40.21,71.15,60.58
+europe_lau,Nagyvenyim,nagyvenyim,na,41.36,62.76,34.01
+europe_lau,Nagysimonyi,nagysimonyi,na,31.26,42.5,75.51
+europe_lau,Nagykinizs,nagykinizs,na,20.01,57.15,33.89
+europe_lau,Nagyfüged,nagyfuged,na,62.3,75.96,59.29
+europe_lau,Nagypirit,nagypirit,na,48.89,65.88,86.95
+europe_lau,Nagyberki,nagyberki,na,21.32,56.9,81.78
+europe_lau,Nagydobos,nagydobos,na,47.27,76.26,80.93
+europe_lau,Nagybajom,nagybajom,na,43.94,60.12,95.77
+europe_lau,Nagyiván,nagyivan,na,56.75,81.15,-3.68
+europe_lau,Nanteuil,nanteuil,na,46.86,69.73,74.3
+europe_lau,Navan,navan,na,62.44,64.56,54.09
+europe_lau,Nagymágocs,nagymagocs,na,45.66,57.99,38.78
+europe_lau,Nagyréde,nagyrede,na,61.93,70.7,35.39
+europe_lau,Nagymaros,nagymaros,na,42.63,55.03,89.4
+europe_lau,Nagybakónak,nagybakonak,na,41.92,63.62,99.33
+europe_lau,Nagylak,nagylak,na,17.69,53.6,89.49
+europe_lau,Nagyhajmás,nagyhajmas,na,50.28,67.83,92.43
+europe_lau,Nárai,narai,na,60.74,74.04,42.3
+europe_lau,Narzole,narzole,na,43.77,57.25,24.25
+europe_lau,Napkor,napkor,na,54.93,75.71,90.59
+europe_lau,Nagykereki,nagykereki,na,47.47,54.73,64.7
+europe_lau,Nanterre,nanterre,na,53.14,70.9,64.92
+europe_lau,Nalliers,nalliers,na,63.55,74.19,76.13
+europe_lau,Nagycserkesz,nagycserkesz,na,55.67,79.3,64.51
+europe_lau,Nagyhódos,nagyhodos,na,56.11,76.57,65.61
+europe_lau,Nagysáp,nagysap,na,48.19,59.35,33.27
+europe_lau,Nagyhalász,nagyhalasz,na,24.11,61.86,77.75
+europe_lau,Nagypeterd,nagypeterd,na,35.66,47.65,84.21
+europe_lau,Nagykónyi,nagykonyi,na,42.2,61.18,93.04
+europe_lau,Nadap,nadap,na,59.12,71.06,42.39
+europe_lau,Nagytálya,nagytalya,na,33.51,73.9,-112.06
+europe_lau,Nagybudmér,nagybudmer,na,55.97,76.15,62.75
+europe_lau,Nagykutas,nagykutas,na,59.89,84.48,88.29
+europe_lau,Nagyigmánd,nagyigmand,na,51.75,57.52,57.66
+europe_lau,Nagyesztergár,nagyesztergar,na,37.93,63.51,38.41
+europe_lau,Nagytarcsa,nagytarcsa,na,43.78,77.06,-23.19
+europe_lau,Nagyacsád,nagyacsad,na,57.37,77.63,45.18
+europe_lau,Nandy,nandy,na,57.74,71.47,34.27
+europe_lau,Nangis,nangis,na,44.65,60.82,48.42
+europe_lau,Nanteau-sur-Essonne,nanteau_sur_essonne,na,53.65,68.55,40.77
+europe_lau,Nanteau-sur-Lunain,nanteau_sur_lunain,na,54.85,67.28,34.5
+europe_lau,Nanteuil-lès-Meaux,nanteuil_les_meaux,na,43.71,55.1,79.96
+europe_lau,Nanteuil-sur-Marne,nanteuil_sur_marne,na,28.85,50.18,74.15
+europe_lau,Nantouillet,nantouillet,na,49.29,60.81,33.32
+europe_lau,Nagykamarás,nagykamaras,na,53.35,53.67,59.38
+europe_lau,Nagylengyel,nagylengyel,na,38.81,60.17,-27.41
+europe_lau,Nagyar,nagyar,na,43.35,55.25,2.92
+europe_lau,Nagyatád,nagyatad,na,40.44,52.74,85.49
+europe_lau,Nagylók,nagylok,na,55.4,71.94,58.97
+europe_lau,Nagykáta,nagykata,na,54.86,74.73,68.57
+europe_lau,Nagyszokoly,nagyszokoly,na,37.32,61.25,29.31
+europe_lau,Nádasdladány,nadasdladany,na,41.67,58.18,93.23
+europe_lau,Nagymányok,nagymanyok,na,33.85,61.25,95.04
+europe_lau,Nagycsány,nagycsany,na,51.1,70.26,89.2
+europe_lau,Nagydorog,nagydorog,na,37.97,52.86,86.56
+europe_lau,Natschbach-Loipersbach,natschbach_loipersbach,na,41.32,47.7,46.55
+europe_lau,Nagykorpád,nagykorpad,na,35.08,63.38,49.61
+europe_lau,Nagygeresd,nagygeresd,na,72.19,76.56,63.99
+europe_lau,Nagyhegyes,nagyhegyes,na,43.49,75.14,-45.77
+europe_lau,Nagykovácsi,nagykovacsi,na,36.98,61.43,40.91
+europe_lau,Nagyveleg,nagyveleg,na,40.97,70.56,81.36
+europe_lau,Nagyváty,nagyvaty,na,19.59,51.54,76.13
+europe_lau,Nagyalásony,nagyalasony,na,35.32,52.14,-25.27
+europe_lau,Nagyszekeres,nagyszekeres,na,63.49,66.86,50.19
+europe_lau,Nádudvar,nadudvar,na,54.17,70.52,19.91
+europe_lau,Nagyvisnyó,nagyvisnyo,na,32.95,69.02,75.56
+europe_lau,Nagypáli,nagypali,na,31.17,63.07,97.46
+europe_lau,Nagyoroszi,nagyoroszi,na,41.87,57.43,12.08
+europe_lau,Nagygörbő,nagygorbo,na,53.43,60.98,78.57
+europe_lau,Nagycsécs,nagycsecs,na,65.3,72.34,69.87
+europe_lau,Nasino,nasino,na,56.85,70.91,66.05
+europe_lau,Nagykölked,nagykolked,na,33.2,61.08,94.46
+europe_lau,Nagylózs,nagylozs,na,50.17,61.35,59.66
+europe_lau,Nagyrozvágy,nagyrozvagy,na,46.25,75.48,89.9
+europe_lau,Nagynyárád,nagynyarad,na,39.05,49.61,32.67
+europe_lau,Nagybörzsöny,nagyborzsony,na,42.99,63.91,24.79
+europe_lau,Nagyvázsony,nagyvazsony,na,49.8,56.21,64.66
+europe_lau,Nábrád,nabrad,na,42.43,57.17,81.93
+europe_lau,Narni,narni,na,55.64,63.8,73.28
+europe_lau,Nagyszentjános,nagyszentjanos,na,48.53,59.46,50.07
+europe_lau,Nagydém,nagydem,na,33.8,54.72,96.68
+europe_lau,Nagyút,nagyut,na,47.58,74.1,-11.35
+europe_lau,Nagyrécse,nagyrecse,na,31.77,48.88,89.54
+europe_lau,Nagymizdó,nagymizdo,na,30.15,65.39,83.13
+europe_lau,Nagytótfalu,nagytotfalu,na,29.35,61.37,86.53
+europe_lau,Nagyberény,nagybereny,na,54.32,69.64,87.95
+europe_lau,Nagytőke,nagytoke,na,42.84,56.59,30.98
+europe_lau,Nagybarca,nagybarca,na,56.13,62.49,44.62
+europe_lau,Nagykálló,nagykallo,na,51.01,61.31,76.01
+europe_lau,Nagytilaj,nagytilaj,na,47.93,63.98,-7.34
+europe_lau,Nagykökényes,nagykokenyes,na,68.79,88.84,57.86
+europe_lau,Nagytevel,nagytevel,na,48.04,66.23,55.19
+europe_lau,Nagyrábé,nagyrabe,na,48.32,53.67,71.29
+europe_lau,Nagyrév,nagyrev,na,25.68,39.8,49.67
+europe_lau,Nagyecsed,nagyecsed,na,49.07,59.85,75.83
+europe_lau,Nagyvarsány,nagyvarsany,na,27.24,78.24,14.32
+europe_lau,Nagydobsza,nagydobsza,na,47.46,79.97,98.92
+europe_lau,Narda,narda,na,37.31,57.6,47.37
+europe_lau,Nagyhuta,nagyhuta,na,26.6,53.48,60.71
+europe_lau,Nagykörű,nagykoru,na,43.74,49.31,19.57
+europe_lau,Nagykőrös,nagykoros,na,53.72,67.55,22.64
+europe_lau,Nagypall,nagypall,na,51.03,76.17,93.66
+europe_lau,Naszály,naszaly,na,46.35,60.77,82.48
+europe_lau,Nagykeresztúr,nagykeresztur,na,35.46,67.06,28.74
+europe_lau,Nagykozár,nagykozar,na,57.65,59.81,51.16
+europe_lau,Nágocs,nagocs,na,29.88,56.43,87.22
+europe_lau,Nagyrákos,nagyrakos,na,48.36,66.85,86.98
+europe_lau,Naturno/Naturns,naturno_naturns,na,52.87,64.52,67.56
+europe_lau,Naz-Sciaves/Natz-Schabs,naz_sciaves_natz_schabs,na,45.66,55.93,56.42
+europe_lau,Nagyszakácsi,nagyszakacsi,na,60.71,75.58,43.35
+europe_lau,Nagybaracska,nagybaracska,na,61.34,74.31,74.21
+europe_lau,Nagybánhegyes,nagybanhegyes,na,45.23,70.05,71.8
+europe_lau,Nagybajcs,nagybajcs,na,40.3,63.43,34.22
+europe_lau,Nádasd,nadasd,na,47.67,72.75,98.83
+europe_lau,Nagyszékely,nagyszekely,na,26.47,60.23,90.5
+europe_lau,Nagykarácsony,nagykaracsony,na,48.43,64.16,52
+europe_lau,Nabočany,nabocany,na,52.25,70.79,28.16
+europe_lau,Načešice,nacesice,na,34.6,60.85,25.47
+europe_lau,Nasavrky,nasavrky,na,46.46,65.61,76.82
+europe_lau,Náchod,nachod,na,50.47,64,90.87
+europe_lau,Nahořany,nahorany,na,52.99,66.96,55.47
+europe_lau,Nána,nana,na,55.31,70.77,26.63
+europe_lau,Nămoloasa,namoloasa,na,60.76,65.59,55.33
+europe_lau,Nacina Ves,nacina_ves,na,48.2,67.48,-5.71
+europe_lau,Námestovo,namestovo,na,37.02,46.61,45.52
+europe_lau,Nadadouro,nadadouro,na,52.3,58.12,47.72
+europe_lau,Nazaré,nazare,na,39,51.61,39.31
+europe_lau,Nadlice,nadlice,na,43.86,66.83,43.47
+europe_lau,Nacka,nacka,na,43.89,54.21,37.31
+europe_lau,Nässjö,nassjo,na,50.65,65,70.94
+europe_lau,Ňagov,nagov,na,58,72.7,57.73
+europe_lau,Nálepkovo,nalepkovo,na,49.83,69.2,33.63
+europe_lau,Ňárad,narad,na,33.9,54.67,60.45
+europe_lau,Naháč,nahac,na,33.67,67.16,75.92
+europe_lau,Năeni,naeni,na,32.2,62.93,85.2
+europe_lau,Nandraž,nandraz,na,50.3,60.98,77.19
+europe_lau,Naidăş,naidas,na,55.06,57.05,47.81
+europe_lau,Naklo,naklo,na,40.56,58.18,83.45
+europe_lau,Nazarje,nazarje,na,40.14,63.76,71.34
+europe_lau,Năneşti,nanesti,na,31.13,56.17,89.78
+europe_lau,Năruja,naruja,na,61.37,66.47,62.68
+europe_lau,Nagozelo do Douro,nagozelo_do_douro,na,54.34,65.69,50.55
+europe_lau,Navió e Vitorino dos Piães,navio_e_vitorino_dos_piaes,na,59.34,62.41,54.51
+europe_lau,Narbolia,narbolia,na,38.75,65.73,-45.44
+europe_lau,Nalbant,nalbant,na,33.84,52.7,87.07
+europe_lau,Nanov,nanov,na,35.66,65.48,68.77
+europe_lau,Năsturelu,nasturelu,na,43.74,54.49,59.71
+europe_lau,Narysov,narysov,na,48.83,59.28,75.67
+europe_lau,Nasavrky,nasavrky,na,21.98,81.01,-11.55
+europe_lau,Nawojowa,nawojowa,na,48.06,55.07,61.15
+europe_lau,Naukšēnu novads,nauksenu_novads,na,47.6,56.58,47.92
+europe_lau,Nave de Haver,nave_de_haver,na,52.01,67.99,93.09
+europe_lau,Nadeş,nades,na,59.44,65.15,56.1
+europe_lau,Năpradea,napradea,na,40.6,66.73,96.48
+europe_lau,Nădrag,nadrag,na,48.41,63.56,9.11
+europe_lau,Nave,nave,na,53.65,65.63,64.15
+europe_lau,Nagłowice,naglowice,na,56.63,63.2,50.5
+europe_lau,Nadryby,nadryby,na,37.56,66.18,-31.63
+europe_lau,Nana,nana,na,57.39,63.98,51.91
+europe_lau,Nalles/Nals,nalles_nals,na,41.03,57.88,71.8

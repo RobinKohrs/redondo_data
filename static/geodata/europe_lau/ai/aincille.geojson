@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aincille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aincille", "metric_roundness": 43.81, "metric_rectangularity": 56.13, "metric_mobile_fit": 85.34, "metric_aspect_ratio": 0.709, "metric_area_km2": 11.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.2054937, 43.1435812 ], [ -1.2106215, 43.135783 ], [ -1.2139446, 43.129186 ], [ -1.2076544, 43.124155199999983 ], [ -1.2067945, 43.119910499999989 ], [ -1.1933826, 43.120891799999988 ], [ -1.1836028, 43.116565399999985 ], [ -1.178219, 43.119187499999988 ], [ -1.1899862, 43.127902099999986 ], [ -1.1868535, 43.1533305 ], [ -1.2055205, 43.148462 ], [ -1.2054937, 43.1435812 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spissky_stiavnik",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spišský Štiavnik", "metric_roundness": 34.58, "metric_rectangularity": 51.85, "metric_mobile_fit": 54.31, "metric_aspect_ratio": 1.019, "metric_area_km2": 43.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3300569, 48.965491799999988 ], [ 20.3409842, 48.966549 ], [ 20.3565023, 48.9770397 ], [ 20.3776116, 48.9812897 ], [ 20.3872594, 48.9876249 ], [ 20.3973705, 48.989963 ], [ 20.3927955, 49.005708499999976 ], [ 20.3586455, 49.0078795 ], [ 20.3319205, 49.00914 ], [ 20.3298679, 48.9890681 ], [ 20.3090442, 48.962028799999985 ], [ 20.3127825, 48.9522725 ], [ 20.3300569, 48.965491799999988 ] ] ] } }
+]
+}

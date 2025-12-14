@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_aigon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αιγών", "metric_roundness": 37.71, "metric_rectangularity": 56.73, "metric_mobile_fit": 99.76, "metric_aspect_ratio": 0.56, "metric_area_km2": 12.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.3593461, 38.0940004 ], [ 22.3777165, 38.0981255 ], [ 22.3729575, 38.1226585 ], [ 22.3773324, 38.1321061 ], [ 22.3738155, 38.139317 ], [ 22.3692708, 38.1344829 ], [ 22.359705, 38.130184499999984 ], [ 22.3555225, 38.1197835 ], [ 22.3547569, 38.1126937 ], [ 22.3454565, 38.100334 ], [ 22.3593461, 38.0940004 ] ] ] } }
+]
+}

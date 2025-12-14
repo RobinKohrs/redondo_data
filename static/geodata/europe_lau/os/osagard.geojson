@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osagard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ősagárd", "metric_roundness": 58.78, "metric_rectangularity": 80.45, "metric_mobile_fit": 30.84, "metric_aspect_ratio": 1.254, "metric_area_km2": 23.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.1734787, 47.8762099 ], [ 19.1651504, 47.868947499999983 ], [ 19.158344, 47.8554135 ], [ 19.18023, 47.8490435 ], [ 19.20798, 47.841889 ], [ 19.21712, 47.849567799999981 ], [ 19.2224915, 47.85878 ], [ 19.201943, 47.8652539 ], [ 19.191383, 47.873863 ], [ 19.18784, 47.876209 ], [ 19.1734787, 47.8762099 ] ] ] } }
+]
+}

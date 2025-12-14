@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vaudrecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vaudrecourt", "metric_roundness": 28.5, "metric_rectangularity": 64.74, "metric_mobile_fit": 16.41, "metric_aspect_ratio": 1.398, "metric_area_km2": 6.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.666025, 48.205414499999982 ], [ 5.6460054, 48.2110741 ], [ 5.6427368, 48.2175812 ], [ 5.6268885, 48.217901 ], [ 5.6274525, 48.214839099999985 ], [ 5.6445127, 48.202551299999989 ], [ 5.6607763, 48.1980884 ], [ 5.6684635, 48.202466 ], [ 5.666025, 48.205414499999982 ] ] ] } }
+]
+}

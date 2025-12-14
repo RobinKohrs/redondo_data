@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sellon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σελλών", "metric_roundness": 27.59, "metric_rectangularity": 46.97, "metric_mobile_fit": 97.36, "metric_aspect_ratio": 0.589, "metric_area_km2": 11.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.8939839, 38.284420499999989 ], [ 21.9044819, 38.2877363 ], [ 21.9059815, 38.2951725 ], [ 21.8980796, 38.2934252 ], [ 21.8777895, 38.306702 ], [ 21.8756165, 38.2972156 ], [ 21.8776013, 38.284996399999983 ], [ 21.8673853, 38.264147099999988 ], [ 21.873318, 38.255258 ], [ 21.8939839, 38.284420499999989 ] ] ] } }
+]
+}

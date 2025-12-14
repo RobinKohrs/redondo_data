@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grosswangen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grosswangen", "metric_roundness": 62.85, "metric_rectangularity": 79.4, "metric_mobile_fit": 58.71, "metric_aspect_ratio": 0.975, "metric_area_km2": 42.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.060112, 47.158190499999989 ], [ 8.0505724, 47.156230599999986 ], [ 8.0434248, 47.1494493 ], [ 8.0320955, 47.1445255 ], [ 8.0261914, 47.1342792 ], [ 8.016345, 47.1290225 ], [ 8.0242322, 47.121440799999988 ], [ 8.0346131, 47.1170605 ], [ 8.0374285, 47.1073625 ], [ 8.0496357, 47.1037822 ], [ 8.0543495, 47.105483 ], [ 8.0864835, 47.136305 ], [ 8.0943535, 47.140478 ], [ 8.075749, 47.1568365 ], [ 8.060112, 47.158190499999989 ] ] ] } }
+]
+}

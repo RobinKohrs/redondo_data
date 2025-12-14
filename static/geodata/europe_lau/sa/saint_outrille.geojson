@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_outrille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Outrille", "metric_roundness": 55.02, "metric_rectangularity": 77.61, "metric_mobile_fit": 50.28, "metric_aspect_ratio": 1.06, "metric_area_km2": 27.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.779408, 47.129791 ], [ 1.7809985, 47.1289435 ], [ 1.7962197, 47.1204855 ], [ 1.8037762, 47.119480899999985 ], [ 1.809472, 47.122016 ], [ 1.8307654, 47.132694299999983 ], [ 1.842674, 47.1427684 ], [ 1.83717, 47.1483835 ], [ 1.8361583, 47.154212199999982 ], [ 1.8110445, 47.1632695 ], [ 1.8062871, 47.1515905 ], [ 1.774454, 47.1307565 ], [ 1.779408, 47.129791 ] ] ] } }
+]
+}

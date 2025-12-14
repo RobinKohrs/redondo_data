@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "izaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Izaux", "metric_roundness": 56.54, "metric_rectangularity": 75.95, "metric_mobile_fit": 38.62, "metric_aspect_ratio": 1.176, "metric_area_km2": 10.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.376612, 43.050017 ], [ 0.3781855, 43.0487795 ], [ 0.3912765, 43.046492 ], [ 0.3911095, 43.0518 ], [ 0.3951345, 43.0545245 ], [ 0.392269, 43.061365 ], [ 0.392027, 43.06527 ], [ 0.387594, 43.065513 ], [ 0.3841615, 43.067346 ], [ 0.3819065, 43.068788 ], [ 0.3760875, 43.0683315 ], [ 0.3724975, 43.067187 ], [ 0.359241, 43.067042 ], [ 0.3622765, 43.049269 ], [ 0.376612, 43.050017 ] ] ] } }
+]
+}

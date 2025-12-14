@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hohnhorst",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hohnhorst", "metric_roundness": 64.83, "metric_rectangularity": 69.76, "metric_mobile_fit": 59.8, "metric_aspect_ratio": 0.965, "metric_area_km2": 31.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3838661, 52.3615621 ], [ 9.386706, 52.371859499999985 ], [ 9.3785036, 52.380741099999973 ], [ 9.352747, 52.383898499999987 ], [ 9.3306812, 52.387642199999988 ], [ 9.3249815, 52.383284 ], [ 9.333234, 52.375167699999984 ], [ 9.3367059, 52.3661333 ], [ 9.3353183, 52.360217 ], [ 9.3392432, 52.352299 ], [ 9.3446038, 52.3485679 ], [ 9.3635869, 52.350289299999986 ], [ 9.378487, 52.357293 ], [ 9.3838661, 52.3615621 ] ] ] } }
+]
+}

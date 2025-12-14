@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zhor_u_tabora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zhoř u Tábora", "metric_roundness": 52.38, "metric_rectangularity": 66.17, "metric_mobile_fit": 82.67, "metric_aspect_ratio": 0.736, "metric_area_km2": 10.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6635087, 49.3474081 ], [ 14.6732276, 49.349225499999982 ], [ 14.6756515, 49.355248 ], [ 14.6648257, 49.369791 ], [ 14.6659365, 49.373406 ], [ 14.6534345, 49.367855499999983 ], [ 14.643403, 49.3534325 ], [ 14.6428304, 49.349419199999986 ], [ 14.6620095, 49.344351499999988 ], [ 14.6635087, 49.3474081 ] ] ] } }
+]
+}

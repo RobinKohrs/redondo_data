@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontaine_les_gres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontaine-les-Grès", "metric_roundness": 51.86, "metric_rectangularity": 78.47, "metric_mobile_fit": 18.46, "metric_aspect_ratio": 1.378, "metric_area_km2": 27.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8821151, 48.3935197 ], [ 3.8953315, 48.399332 ], [ 3.9236814, 48.417836099999988 ], [ 3.9195115, 48.427326 ], [ 3.9147477, 48.4289602 ], [ 3.9059595, 48.4263221 ], [ 3.8997232, 48.428972599999987 ], [ 3.8811104, 48.42563449999998 ], [ 3.8500855, 48.4110665 ], [ 3.8553877, 48.4064395 ], [ 3.8673236, 48.403654 ], [ 3.8665735, 48.398353599999986 ], [ 3.8696185, 48.395595499999978 ], [ 3.8821151, 48.3935197 ] ] ] } }
+]
+}

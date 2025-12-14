@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eschborn_stadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eschborn, Stadt", "metric_roundness": 50.87, "metric_rectangularity": 61.53, "metric_mobile_fit": 61.06, "metric_aspect_ratio": 0.952, "metric_area_km2": 27.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.5710808, 50.1563437 ], [ 8.5605695, 50.166615 ], [ 8.5531915, 50.16692339999998 ], [ 8.5467409, 50.1738715 ], [ 8.5343642, 50.168924799999985 ], [ 8.5365505, 50.1646395 ], [ 8.5406666, 50.1526201 ], [ 8.562429, 50.129835 ], [ 8.5910894, 50.1411297 ], [ 8.5997841, 50.1566613 ], [ 8.590239, 50.159544499999988 ], [ 8.5710808, 50.1563437 ] ] ] } }
+]
+}

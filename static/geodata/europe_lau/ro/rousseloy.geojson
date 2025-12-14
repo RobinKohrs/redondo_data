@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rousseloy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rousseloy", "metric_roundness": 55.22, "metric_rectangularity": 72.04, "metric_mobile_fit": 68.38, "metric_aspect_ratio": 0.879, "metric_area_km2": 9.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3967565, 49.3090115 ], [ 2.3964135, 49.309416 ], [ 2.3794857, 49.3046023 ], [ 2.3794655, 49.289640499999983 ], [ 2.3804562, 49.2854673 ], [ 2.3922715, 49.29013 ], [ 2.408638, 49.296051 ], [ 2.41118, 49.296633 ], [ 2.411735, 49.30064 ], [ 2.407205, 49.303203 ], [ 2.3967565, 49.3090115 ] ] ] } }
+]
+}

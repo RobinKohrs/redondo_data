@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_zigobistiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ζιγοβιστίου", "metric_roundness": 53.0, "metric_rectangularity": 64.14, "metric_mobile_fit": 45.09, "metric_aspect_ratio": 1.112, "metric_area_km2": 24.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0718563, 37.5750927 ], [ 22.0857924, 37.577943099999978 ], [ 22.0972832, 37.5766948 ], [ 22.112665, 37.5921915 ], [ 22.0878013, 37.6111524 ], [ 22.070816, 37.609868 ], [ 22.0491676, 37.5868147 ], [ 22.0613255, 37.5788769 ], [ 22.0552935, 37.565886499999984 ], [ 22.0718563, 37.5750927 ] ] ] } }
+]
+}

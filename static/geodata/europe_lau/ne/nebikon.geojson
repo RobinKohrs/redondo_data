@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nebikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nebikon", "metric_roundness": 39.99, "metric_rectangularity": 59.43, "metric_mobile_fit": 7.7, "metric_aspect_ratio": 1.485, "metric_area_km2": 8.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.993794, 47.1977835 ], [ 7.9844335, 47.1986825 ], [ 7.979384, 47.201836499999985 ], [ 7.975326, 47.202530499999988 ], [ 7.9704533, 47.192156 ], [ 7.9587729, 47.1880434 ], [ 7.967708, 47.18221 ], [ 7.97671, 47.1839765 ], [ 7.99913, 47.189787399999979 ], [ 8.003194, 47.194391499999988 ], [ 7.993794, 47.1977835 ] ] ] } }
+]
+}

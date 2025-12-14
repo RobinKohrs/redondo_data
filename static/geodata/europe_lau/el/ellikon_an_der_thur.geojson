@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ellikon_an_der_thur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ellikon an der Thur", "metric_roundness": 48.65, "metric_rectangularity": 67.35, "metric_mobile_fit": -3.38, "metric_aspect_ratio": 1.596, "metric_area_km2": 11.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8068335, 47.567161 ], [ 8.8031845, 47.565306 ], [ 8.801744, 47.564081499999986 ], [ 8.8135185, 47.552267 ], [ 8.8301565, 47.553372499999981 ], [ 8.8305764, 47.557072199999986 ], [ 8.8491867, 47.560775699999979 ], [ 8.851052, 47.563671 ], [ 8.8398723, 47.566164699999987 ], [ 8.838634, 47.571036 ], [ 8.8319833, 47.5731099 ], [ 8.8102545, 47.5709525 ], [ 8.8068335, 47.567161 ] ] ] } }
+]
+}

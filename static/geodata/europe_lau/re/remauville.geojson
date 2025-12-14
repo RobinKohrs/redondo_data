@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "remauville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Remauville", "metric_roundness": 54.41, "metric_rectangularity": 73.92, "metric_mobile_fit": 37.84, "metric_aspect_ratio": 1.184, "metric_area_km2": 24.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8597795, 48.2183835 ], [ 2.8563805, 48.221545499999984 ], [ 2.8530365, 48.2210471 ], [ 2.8289385, 48.233768499999989 ], [ 2.8090915, 48.24034 ], [ 2.8055785, 48.228323 ], [ 2.798148, 48.2250255 ], [ 2.795159, 48.221755 ], [ 2.7970356, 48.2167524 ], [ 2.8076304, 48.2096593 ], [ 2.8238157, 48.202659 ], [ 2.8621255, 48.217519 ], [ 2.8597795, 48.2183835 ] ] ] } }
+]
+}

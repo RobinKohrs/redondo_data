@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villers_sur_auchy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villers-sur-Auchy", "metric_roundness": 55.92, "metric_rectangularity": 71.56, "metric_mobile_fit": 73.94, "metric_aspect_ratio": 0.823, "metric_area_km2": 21.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7796934, 49.490184699999979 ], [ 1.7740958, 49.4862914 ], [ 1.7756886, 49.4728421 ], [ 1.765965, 49.466008 ], [ 1.7997045, 49.456062 ], [ 1.7995017, 49.465291799999981 ], [ 1.8094272, 49.469581399999981 ], [ 1.814513, 49.4903415 ], [ 1.812016, 49.490376499999989 ], [ 1.80628, 49.491698 ], [ 1.8059775, 49.4943105 ], [ 1.8032185, 49.494388499999985 ], [ 1.788632, 49.490137 ], [ 1.7796934, 49.490184699999979 ] ] ] } }
+]
+}

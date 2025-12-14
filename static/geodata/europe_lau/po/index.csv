@@ -1,0 +1,1308 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Pötting,potting,po,65.44,77.78,46.4
+europe_lau,Pollham,pollham,po,52.53,73.12,18.19
+europe_lau,Poběžovice u Holic,pobezovice_u_holic,po,45.73,74.34,-44.43
+europe_lau,Poběžovice u Přelouče,pobezovice_u_prelouce,po,59.82,73.67,71.07
+europe_lau,Podbřezí,podbrezi,po,45.39,66.67,-19.06
+europe_lau,Pohoří,pohori,po,52.97,81.23,-0.14
+europe_lau,Potštejn,potstejn,po,33.75,51.53,-28.05
+europe_lau,Poniklá,ponikla,po,66.88,70.03,70.09
+europe_lau,Poustka,poustka,po,51.87,67.39,43.45
+europe_lau,Pohledy,pohledy,po,50.11,72.88,78.46
+europe_lau,Polička,policka,po,34.04,57.09,80.61
+europe_lau,Pomezí,pomezi,po,61.38,76.31,54.51
+europe_lau,Podolí,podoli,po,41.19,67.25,85.58
+europe_lau,Polešovice,polesovice,po,37,54.57,61.27
+europe_lau,Popovice,popovice,po,57.95,79.17,45.86
+europe_lau,Podivice,podivice,po,34.82,58,-4.59
+europe_lau,Podolí,podoli,po,39.23,53.04,41.13
+europe_lau,Popovice,popovice,po,36.04,74.81,-19.66
+europe_lau,Popůvky,popuvky,po,51.46,60.74,61.18
+europe_lau,Pozořice,pozorice,po,35.34,46.21,89.89
+europe_lau,Podivín,podivin,po,52.35,67.16,45.4
+europe_lau,Pohořelice,pohorelice,po,33.23,43.24,89.48
+europe_lau,Popice,popice,po,58.49,70.12,26.57
+europe_lau,Pouzdřany,pouzdrany,po,52.48,68.77,92.05
+europe_lau,Podkopná Lhota,podkopna_lhota,po,45.53,64.43,82.74
+europe_lau,Podlesí,podlesi,po,41.8,60.55,32.62
+europe_lau,Polná,polna,po,28.28,47.26,-24.39
+europe_lau,Počenice-Tetětice,pocenice_tetetice,po,64.89,67.56,28.44
+europe_lau,Podhradní Lhota,podhradni_lhota,po,66.54,71.65,61.67
+europe_lau,Police,police,po,53.89,67.83,45.47
+europe_lau,Popůvky,popuvky,po,50.73,66.35,28.12
+europe_lau,Pozďatín,pozdatin,po,40.38,55.52,38.87
+europe_lau,Počítky,pocitky,po,53.07,61.75,46.35
+europe_lau,Poděšín,podesin,po,32.15,52.27,75.61
+europe_lau,Podolí,podoli,po,51.24,68.74,50.78
+europe_lau,Pokojov,pokojov,po,48.04,61.25,6.13
+europe_lau,Polnička,polnicka,po,52.32,64.2,75.6
+europe_lau,Popovičky,popovicky,po,51.05,68.23,72.37
+europe_lau,Podmoky,podmoky,po,39.76,62.57,-7.97
+europe_lau,Pöschendorf,poschendorf,po,41.33,57.98,54.41
+europe_lau,Poyenberg,poyenberg,po,60.02,71.33,70.49
+europe_lau,Podhradí nad Dyjí,podhradi_nad_dyji,po,30.31,43.65,23.17
+europe_lau,Podmolí,podmoli,po,42.94,53.45,70.19
+europe_lau,Podmyče,podmyce,po,48.92,60.66,66.34
+europe_lau,Pogeez,pogeez,po,33.78,50.73,94.18
+europe_lau,Poggensee,poggensee,po,35.74,45.47,54.32
+europe_lau,Poppenbüll,poppenbull,po,40.48,56.93,-14.88
+europe_lau,Pohnsdorf,pohnsdorf,po,49.56,62.38,74.06
+europe_lau,Postfeld,postfeld,po,52.33,66.74,77.45
+europe_lau,Pöttelsdorf,pottelsdorf,po,39.66,70.19,88.66
+europe_lau,Pommerby,pommerby,po,44.68,48.39,76.85
+europe_lau,Pöttsching,pottsching,po,41.72,62.39,78.71
+europe_lau,"Polle, Flecken",polle_flecken,po,22.87,48.96,-5.94
+europe_lau,Pohle,pohle,po,57.43,67.58,51.42
+europe_lau,Pollhagen,pollhagen,po,49.99,66.16,27.45
+europe_lau,Pölitz,politz,po,40.54,66.79,45.21
+europe_lau,Pöndorf,pondorf,po,50.94,68.73,82.26
+europe_lau,"Porta Westfalica, Stadt",porta_westfalica_stadt,po,47.4,68.79,-11.2
+europe_lau,"Pohlheim, Stadt",pohlheim_stadt,po,56.74,64.59,77.54
+europe_lau,Pölfing-Brunn,polfing_brunn,po,42.65,65.78,-24.01
+europe_lau,Pomster,pomster,po,31.23,69.59,99.37
+europe_lau,Poppenhausen (Wasserkuppe),poppenhausen_wasserkuppe,po,57.78,64.47,43.75
+europe_lau,Pottum,pottum,po,49.62,58.8,37.19
+europe_lau,Pommern,pommern,po,26.85,43.16,9.73
+europe_lau,"Polch, Stadt",polch_stadt,po,38.73,58.05,-15.03
+europe_lau,Podersdorf am See,podersdorf_am_see,po,36.45,51.01,8.23
+europe_lau,Pohl,pohl,po,40.34,53.01,53.88
+europe_lau,Pölich,polich,po,28.49,58.88,71.47
+europe_lau,Pöls-Oberkurzheim,pols_oberkurzheim,po,44.84,60.68,63.07
+europe_lau,Pölstal,polstal,po,51.36,57.34,58.55
+europe_lau,Potzneusiedl,potzneusiedl,po,43.9,78.14,28.59
+europe_lau,Pöllau,pollau,po,46.49,59.88,68.9
+europe_lau,Pöllauberg,pollauberg,po,55.6,70.35,82.74
+europe_lau,Postmünster,postmunster,po,40.43,70.47,82.5
+europe_lau,Polling in Tirol,polling_in_tirol,po,39.91,75.74,83.93
+europe_lau,Poing,poing,po,50.95,64.95,23.74
+europe_lau,Pollenfeld,pollenfeld,po,37.55,55.26,-24.2
+europe_lau,Pöcking,pocking,po,46.83,55.77,22.26
+europe_lau,Polling,polling,po,25.04,54.33,43.55
+europe_lau,Postau,postau,po,47.69,68.94,45.26
+europe_lau,"Pocking, St",pocking_st,po,40.18,59.33,-8.65
+europe_lau,Polling,polling,po,41.77,50.1,52.5
+europe_lau,Pörnbach,pornbach,po,62.93,70.7,68.34
+europe_lau,Pokrent,pokrent,po,59.32,69.65,43.89
+europe_lau,Poppenricht,poppenricht,po,37.5,47.23,7.04
+europe_lau,Pösing,posing,po,45.4,62.22,-1.69
+europe_lau,"Postbauer-Heng, M",postbauer_heng_m,po,34.96,62.07,93.68
+europe_lau,"Potsdam, Stadt",potsdam_stadt,po,50.01,54.33,57.59
+europe_lau,Poxdorf,poxdorf,po,47.92,67.87,83.45
+europe_lau,Pörmitz,pormitz,po,58.76,74.52,65.51
+europe_lau,"Pößneck, Stadt",possneck_stadt,po,49.33,69.31,50.84
+europe_lau,Pölzig,polzig,po,37.49,58.02,77.79
+europe_lau,Ponitz,ponitz,po,45.99,62.63,-1.51
+europe_lau,Posterstein,posterstein,po,33.25,48.4,-15.14
+europe_lau,Podelzig,podelzig,po,56.88,63.41,48.12
+europe_lau,Pollença,pollenca,po,26.48,45.69,1.1
+europe_lau,Porreres,porreres,po,51.07,71.47,30.76
+europe_lau,"Pobla, Sa",pobla_sa,po,48.13,58.58,70.42
+europe_lau,Portugalete,portugalete,po,56.35,70.83,48.68
+europe_lau,Poza de la Sal,poza_de_la_sal,po,53.77,59.97,35.79
+europe_lau,"Pont de Bar, El",pont_de_bar_el,po,52.78,72.18,73.88
+europe_lau,Poveda,poveda,po,37.53,73.08,52.9
+europe_lau,Poyales del Hoyo,poyales_del_hoyo,po,70.06,81.83,47.74
+europe_lau,Pozanco,pozanco,po,47.59,58.08,81.7
+europe_lau,"Pont de Vilomara i Rocafort, El",pont_de_vilomara_i_rocafort_el,po,64.72,72.13,47.39
+europe_lau,Пордим,pordim,po,50.49,60.57,39.66
+europe_lau,Portalrubio de Guadamejud,portalrubio_de_guadamejud,po,40.36,57.59,1.43
+europe_lau,Portilla,portilla,po,66.9,71.53,66.04
+europe_lau,Poyatos,poyatos,po,62.91,74.14,50
+europe_lau,Pozoamargo,pozoamargo,po,36.1,67.27,71.23
+europe_lau,Pozorrubio de Santiago,pozorrubio_de_santiago,po,40.67,61.16,14.82
+europe_lau,"Pozuelo, El",pozuelo_el,po,40.17,62.83,95.38
+europe_lau,Полски Тръмбеш,polski_tr_mbes,po,60.82,64.67,57.82
+europe_lau,Portell de Morella,portell_de_morella,po,32.1,57.67,88.28
+europe_lau,"Pobla de Benifassà, la",pobla_de_benifassa_la,po,39.3,64.86,-35.2
+europe_lau,"Pobla Tornesa, la",pobla_tornesa_la,po,42.33,49.69,61.05
+europe_lau,Povedilla,povedilla,po,44.65,59.04,87.8
+europe_lau,Pozohondo,pozohondo,po,58.32,74.19,84.71
+europe_lau,Pozo-Lorente,pozo_lorente,po,60.72,77.77,22.03
+europe_lau,Pozuelo,pozuelo,po,58.6,75.43,66.39
+europe_lau,Pörtschach am Wörther See,portschach_am_worther_see,po,44.58,69.46,31.11
+europe_lau,Pozo Cañada,pozo_canada,po,29.63,53.89,89.98
+europe_lau,"Pobla de Claramunt, La",pobla_de_claramunt_la,po,46.69,63.16,18.54
+europe_lau,"Pobla de Lillet, La",pobla_de_lillet_la,po,64.24,76.5,25.91
+europe_lau,Polinyà,polinya,po,42.89,68.76,63.89
+europe_lau,Pontons,pontons,po,42.85,64.32,64.14
+europe_lau,Pozorrubielos de la Mancha,pozorrubielos_de_la_mancha,po,40.2,54.76,63.32
+europe_lau,Попово,popovo,po,55.55,58.27,48.74
+europe_lau,Poggersdorf,poggersdorf,po,37.52,58.39,15.71
+europe_lau,Poblete,poblete,po,47.97,62.05,25.08
+europe_lau,Porzuna,porzuna,po,56.48,63.67,63.01
+europe_lau,Pozuelo de Calatrava,pozuelo_de_calatrava,po,28.56,58.56,88.46
+europe_lau,"Pozuelos de Calatrava, Los",pozuelos_de_calatrava_los,po,50.57,73.87,54.84
+europe_lau,Polop,polop,po,61.28,72.62,47.99
+europe_lau,Polícar,policar,po,38.89,61.68,90.97
+europe_lau,Polopos,polopos,po,37.7,71.6,93.16
+europe_lau,Pórtugos,portugos,po,37.49,67.67,93.04
+europe_lau,"Poblets, els",poblets_els,po,59.37,71.85,50.38
+europe_lau,Pont de Molins,pont_de_molins,po,43.49,59.81,34.97
+europe_lau,Pontós,pontos,po,58.38,74.16,75.26
+europe_lau,Porqueres,porqueres,po,44.61,47.98,45.99
+europe_lau,Portbou,portbou,po,33.17,67.59,-78.55
+europe_lau,"Port de la Selva, El",port_de_la_selva_el,po,32.55,48.39,-17.92
+europe_lau,Portaje,portaje,po,37.29,65.28,98.78
+europe_lau,Portezuelo,portezuelo,po,32.9,51.8,39.37
+europe_lau,Pozuelo de Zarzón,pozuelo_de_zarzon,po,51.65,65.14,43.7
+europe_lau,Posadas,posadas,po,47.2,70.66,98.06
+europe_lau,Pozoblanco,pozoblanco,po,37.43,53.75,94.84
+europe_lau,"Pobra do Caramiñal, A",pobra_do_caraminal_a,po,38.57,56.54,95.68
+europe_lau,Ponteceso,ponteceso,po,33.14,51.16,-33.46
+europe_lau,Pontedeume,pontedeume,po,36.6,62.04,-4.54
+europe_lau,"Pontes de García Rodríguez, As",pontes_de_garcia_rodriguez_as,po,42.19,61.77,57.8
+europe_lau,Porto do Son,porto_do_son,po,23.32,59.56,95.07
+europe_lau,"Pottenstein, St",pottenstein_st,po,32.48,48.84,89.27
+europe_lau,Poperinge,poperinge,po,48.44,57.27,65.83
+europe_lau,"Pockau-Lengefeld, Stadt",pockau_lengefeld_stadt,po,50.9,53.44,50.68
+europe_lau,Poppenhausen,poppenhausen,po,43.52,50.66,55.09
+europe_lau,Pommelsbrunn,pommelsbrunn,po,40.02,57.5,67.2
+europe_lau,Pölchow,polchow,po,58.52,66.08,67.88
+europe_lau,Poppendorf,poppendorf,po,51.46,63.21,89.3
+europe_lau,Poxdorf,poxdorf,po,58.32,72.34,58.69
+europe_lau,Põhja-Sakala vald,pohja_sakala_vald,po,38.37,53.52,48.71
+europe_lau,Põltsamaa vald,poltsamaa_vald,po,59.43,62.25,59.31
+europe_lau,Põlva vald,polva_vald,po,49.29,58.89,81.13
+europe_lau,Põhja-Pärnumaa vald,pohja_parnumaa_vald,po,34.31,61.9,-66.48
+europe_lau,Pöhl,pohl,po,55.26,60.86,46.27
+europe_lau,Pont-à-Celles,pont_a_celles,po,49.23,73.51,55.44
+europe_lau,Polsingen,polsingen,po,45.19,55.93,18.48
+europe_lau,"Pöttmes, M",pottmes_m,po,53.06,61.08,31.98
+europe_lau,Poseritz,poseritz,po,62.14,66.79,64.21
+europe_lau,Polzow,polzow,po,36.69,53.36,99.85
+europe_lau,Postlow,postlow,po,43.13,61.53,38.61
+europe_lau,Поморие,pomorie,po,34.61,53.69,95.81
+europe_lau,Pommersfelden,pommersfelden,po,55.39,65.89,33.94
+europe_lau,Porza,porza,po,37.77,64.95,11.17
+europe_lau,Pontresina,pontresina,po,50.27,56.95,69.39
+europe_lau,Pottenstein,pottenstein,po,40.19,57.15,36.38
+europe_lau,Pomport,pomport,po,56.73,66.11,34.97
+europe_lau,Pontours,pontours,po,42.04,51.71,24.08
+europe_lau,Port-Sainte-Foy-et-Ponchapt,port_sainte_foy_et_ponchapt,po,22.62,37.72,98.35
+europe_lau,Port-de-Bouc,port_de_bouc,po,46.95,63.04,82.51
+europe_lau,Port-Saint-Louis-du-Rhône,port_saint_louis_du_rhone,po,34.76,55.37,67.73
+europe_lau,Poliez-Pittet,poliez_pittet,po,39.72,64.56,84.45
+europe_lau,Pont-Audemer,pont_audemer,po,22.54,45.29,-61.51
+europe_lau,Pont-Authou,pont_authou,po,23.45,51.96,88.64
+europe_lau,Pont-de-l'Arche,pont_de_l_arche,po,53.14,86.2,87.02
+europe_lau,Pont-Saint-Pierre,pont_saint_pierre,po,40.58,57.51,90.63
+europe_lau,Porte-de-Seine,porte_de_seine,po,26.96,57.73,86.21
+europe_lau,Portes,portes,po,34.72,62.54,86.71
+europe_lau,Port-Mort,port_mort,po,48.67,70.01,42.4
+europe_lau,Poses,poses,po,40.09,64.08,31.33
+europe_lau,Ponthaux,ponthaux,po,57.73,67.17,19.73
+europe_lau,Port-des-Barques,port_des_barques,po,45.63,54.86,34.6
+europe_lau,Pont-de-Labeaume,pont_de_labeaume,po,48.42,66.58,-7.85
+europe_lau,Pourchères,pourcheres,po,53.74,60.42,34.94
+europe_lau,Pontis,pontis,po,43.41,56.32,45.28
+europe_lau,Poinçon-lès-Larrey,poincon_les_larrey,po,26.58,68.09,79.59
+europe_lau,Poiseul-la-Grange,poiseul_la_grange,po,55.94,62.88,64.77
+europe_lau,Poiseul-la-Ville-et-Laperrière,poiseul_la_ville_et_laperriere,po,56.56,65.06,52.1
+europe_lau,Poiseul-lès-Saulx,poiseul_les_saulx,po,55.64,77.51,70.22
+europe_lau,Pommard,pommard,po,33.47,58.66,75.66
+europe_lau,Poncey-lès-Athée,poncey_les_athee,po,41.21,52.17,71.41
+europe_lau,Poncey-sur-l'Ignon,poncey_sur_l_ignon,po,51.31,59.1,16.2
+europe_lau,Pont,pont,po,52.64,60.75,58.08
+europe_lau,Pontailler-sur-Saône,pontailler_sur_saone,po,40.87,62.31,61.31
+europe_lau,Pont-et-Massène,pont_et_massene,po,46.47,58.56,52.3
+europe_lau,Posanges,posanges,po,55.53,68.3,34.36
+europe_lau,Pothières,pothieres,po,45.48,57.62,23
+europe_lau,Pouillenay,pouillenay,po,56.22,62.38,27
+europe_lau,Pouilly-en-Auxois,pouilly_en_auxois,po,40.45,54.56,65.6
+europe_lau,Pouilly-sur-Saône,pouilly_sur_saone,po,26.08,54.39,81.55
+europe_lau,Pouilly-sur-Vingeanne,pouilly_sur_vingeanne,po,28.42,65.46,-88.65
+europe_lau,Pomayrols,pomayrols,po,52.19,54.38,54.13
+europe_lau,Pont-de-Salars,pont_de_salars,po,53.21,63.26,44.7
+europe_lau,Pousthomy,pousthomy,po,44.59,56.2,81.95
+europe_lau,Poisieux,poisieux,po,52.06,67.89,22.45
+europe_lau,Polignac,polignac,po,48.65,71.05,10.78
+europe_lau,Pommiers-Moulons,pommiers_moulons,po,53.82,57.98,67.22
+europe_lau,Pons,pons,po,58.05,63.3,76.56
+europe_lau,Pont-l'Abbé-d'Arnoult,pont_l_abbe_d_arnoult,po,45.81,67.6,-2.72
+europe_lau,Port-d'Envaux,port_d_envaux,po,57.46,68.04,71.13
+europe_lau,Pouillac,pouillac,po,40.47,59.14,30.44
+europe_lau,Poursay-Garnaud,poursay_garnaud,po,55.07,74.82,15.8
+europe_lau,Poligny,poligny,po,45.09,64,70.92
+europe_lau,Poëzat,poezat,po,56.13,66.55,28.45
+europe_lau,Pouzy-Mésangy,pouzy_mesangy,po,54.95,64.98,78.16
+europe_lau,Pottendorf,pottendorf,po,34.26,51.2,-3.95
+europe_lau,Polvijärvi,polvijarvi,po,53.68,72.59,72.81
+europe_lau,Pomarkku,pomarkku,po,34.73,55.65,-28.88
+europe_lau,Pori,pori,po,32.56,45.59,-8.77
+europe_lau,Pornainen,pornainen,po,51.15,75.11,54.48
+europe_lau,Posio,posio,po,61.84,68.84,66.96
+europe_lau,Pöytyä,poytya,po,44.51,67.82,38.6
+europe_lau,Porvoo,porvoo,po,50.62,55.49,62.92
+europe_lau,Port-la-Nouvelle,port_la_nouvelle,po,44.6,75.2,71.37
+europe_lau,Pomas,pomas,po,50.68,57.61,23.55
+europe_lau,Pomy,pomy,po,44.58,57.73,51.05
+europe_lau,Portel-des-Corbières,portel_des_corbieres,po,70.24,71.15,43.6
+europe_lau,Pouzols-Minervois,pouzols_minervois,po,53.18,72.91,7.34
+europe_lau,Pont-d'Ouilly,pont_d_ouilly,po,21.42,45.23,-105.67
+europe_lau,Ponte Capriasca,ponte_capriasca,po,32.89,56.56,-17.93
+europe_lau,Ponte Tresa,ponte_tresa,po,54.18,78.32,77.35
+europe_lau,Pompierre-sur-Doubs,pompierre_sur_doubs,po,50.71,61.57,24.33
+europe_lau,Pontarlier,pontarlier,po,42.86,65.35,40.72
+europe_lau,Pont-de-Roide-Vermondans,pont_de_roide_vermondans,po,42.99,63.73,71.13
+europe_lau,Pont-les-Moulins,pont_les_moulins,po,47.56,67.9,28.17
+europe_lau,Pouilley-Français,pouilley_francais,po,45.89,62.42,91.53
+europe_lau,Pouilley-les-Vignes,pouilley_les_vignes,po,28.48,33.44,60.42
+europe_lau,Pouligney-Lusans,pouligney_lusans,po,42.03,62.55,97.37
+europe_lau,Polliat,polliat,po,50.46,59.71,35.67
+europe_lau,Pollieu,pollieu,po,42.68,67.01,90.58
+europe_lau,Poncin,poncin,po,48.68,64.43,91.89
+europe_lau,Pont-d'Ain,pont_d_ain,po,61.24,67.67,56.97
+europe_lau,Pont-de-Vaux,pont_de_vaux,po,29.98,50.77,42.83
+europe_lau,Pont-de-Veyle,pont_de_veyle,po,50.3,66.73,13.45
+europe_lau,Port,port,po,22.86,54.71,39.46
+europe_lau,Pougny,pougny,po,55.91,67.64,66.4
+europe_lau,Pouillat,pouillat,po,34.35,64.97,87.6
+europe_lau,Pont-Bellanger,pont_bellanger,po,60.55,63.89,34.07
+europe_lau,Pontécoulant,pontecoulant,po,39.88,52.53,80.43
+europe_lau,Pont-l'Évêque,pont_l_eveque,po,46.64,65.97,94.54
+europe_lau,Port-en-Bessin-Huppain,port_en_bessin_huppain,po,54.77,67.09,33.36
+europe_lau,Potigny,potigny,po,45.06,84.36,-21.8
+europe_lau,"Pobo, El",pobo_el,po,44.98,56.67,14.31
+europe_lau,"Portellada, La",portellada_la,po,51.11,64.52,3.78
+europe_lau,Pozondón,pozondon,po,58.5,71.04,37.84
+europe_lau,Pozuel del Campo,pozuel_del_campo,po,36.64,70.62,-84.61
+europe_lau,Portillo de Soria,portillo_de_soria,po,42.92,59.8,75.32
+europe_lau,"Póveda de Soria, La",poveda_de_soria_la,po,63.31,70.75,64.22
+europe_lau,Pozalmuro,pozalmuro,po,39.93,59.54,-0.9
+europe_lau,Poleñino,polenino,po,56,78.51,68.44
+europe_lau,Pozán de Vero,pozan_de_vero,po,43.06,68.82,87.32
+europe_lau,"Pobo de Dueñas, El",pobo_de_duenas_el,po,42.92,82.36,60.92
+europe_lau,Poveda de la Sierra,poveda_de_la_sierra,po,49.47,70.81,77.62
+europe_lau,Pozo de Almoguera,pozo_de_almoguera,po,51.63,65.91,4.44
+europe_lau,Pozo de Guadalajara,pozo_de_guadalajara,po,45.2,65.04,55.96
+europe_lau,Pol,pol,po,44.98,63.45,54.12
+europe_lau,"Pobra do Brollón, A",pobra_do_brollon_a,po,41.81,55.78,87.03
+europe_lau,"Pontenova, A",pontenova_a,po,55.63,61.48,64.83
+europe_lau,Portomarín,portomarin,po,73.52,75.65,54.16
+europe_lau,Polinyà de Xúquer,polinya_de_xuquer,po,26.78,52.83,-70.46
+europe_lau,Potries,potries,po,39.84,53.95,76.06
+europe_lau,"Pobla de Farnals, la",pobla_de_farnals_la,po,17.02,53.6,-6.95
+europe_lau,"Pobla del Duc, la",pobla_del_duc_la,po,41.08,60.47,6.96
+europe_lau,"Pobla de Vallbona, la",pobla_de_vallbona_la,po,40.36,55.52,97.94
+europe_lau,"Pobla Llarga, la",pobla_llarga_la,po,37.71,51.86,41.8
+europe_lau,Poilcourt-Sydney,poilcourt_sydney,po,44.86,89.26,98.42
+europe_lau,Poix-Terron,poix_terron,po,65.79,66.42,71.94
+europe_lau,Pouru-aux-Bois,pouru_aux_bois,po,44.99,61.95,73.7
+europe_lau,Pouru-Saint-Remy,pouru_saint_remy,po,60.81,66.48,56.34
+europe_lau,Población de Arroyo,poblacion_de_arroyo,po,32.22,56.37,-39.95
+europe_lau,Poveda de las Cintas,poveda_de_las_cintas,po,63.45,76.64,74
+europe_lau,Pozos de Hinojo,pozos_de_hinojo,po,50.41,77.11,81.17
+europe_lau,Pont-en-Ogoz,pont_en_ogoz,po,50.39,61.74,60.77
+europe_lau,Población de Campos,poblacion_de_campos,po,29.26,65.78,86.16
+europe_lau,Población de Cerrato,poblacion_de_cerrato,po,51.76,71.52,94.37
+europe_lau,Polentinos,polentinos,po,42.29,63.06,24.02
+europe_lau,Pomar de Valdivia,pomar_de_valdivia,po,39.71,49.51,4.17
+europe_lau,Poza de la Vega,poza_de_la_vega,po,28.58,49.25,-58.17
+europe_lau,Pozo de Urama,pozo_de_urama,po,56.24,68.76,78.64
+europe_lau,Pohlern,pohlern,po,64.72,69.23,41.18
+europe_lau,"Poal, El",poal_el,po,31.22,63.01,-50.13
+europe_lau,"Pobla de Cérvoles, La",pobla_de_cervoles_la,po,40.95,65.34,48.87
+europe_lau,"Pobla de Segur, La",pobla_de_segur_la,po,38.33,54.4,81.27
+europe_lau,Ponts,ponts,po,49.38,57.94,31.29
+europe_lau,"Pont de Suert, El",pont_de_suert_el,po,37.22,52.59,80.2
+europe_lau,"Portella, La",portella_la,po,43.26,67.98,80.25
+europe_lau,Pozuelo de Alarcón,pozuelo_de_alarcon,po,66.24,69.41,59.15
+europe_lau,Pozuelo del Rey,pozuelo_del_rey,po,61.72,72.08,66.59
+europe_lau,Polán,polan,po,52.49,56.72,39.06
+europe_lau,Portillo de Toledo,portillo_de_toledo,po,58.4,65.76,62.54
+europe_lau,"Pobla de Mafumet, La",pobla_de_mafumet_la,po,25.72,55.81,-10.31
+europe_lau,"Pobla de Massaluca, La",pobla_de_massaluca_la,po,50.85,66.02,75.54
+europe_lau,"Pobla de Montornès, La",pobla_de_montornes_la,po,46.23,64.88,97.11
+europe_lau,Poboleda,poboleda,po,51.17,66.08,72.99
+europe_lau,"Pont d'Armentera, El",pont_d_armentera_el,po,25.85,54.1,89.14
+europe_lau,Porrera,porrera,po,28.07,53.78,-68.31
+europe_lau,Pontils,pontils,po,45.74,62.09,18.46
+europe_lau,Pobladura del Valle,pobladura_del_valle,po,23.38,46.59,-29.63
+europe_lau,Pobladura de Valderaduey,pobladura_de_valderaduey,po,59.09,76.12,74.08
+europe_lau,Porto,porto,po,32.36,49.29,62.46
+europe_lau,Pozoantiguo,pozoantiguo,po,53.33,62.83,55.41
+europe_lau,Pozuelo de Tábara,pozuelo_de_tabara,po,52.33,75.67,28.01
+europe_lau,POLIÇAN,polican,po,46.59,59.74,83.04
+europe_lau,Porcuna,porcuna,po,66.72,71.35,57.14
+europe_lau,Pozo Alcón,pozo_alcon,po,26.99,52.32,89.14
+europe_lau,Ponts sur Seulles,ponts_sur_seulles,po,41.84,51.21,68.72
+europe_lau,Pollos,pollos,po,40.03,55,29.09
+europe_lau,Portillo,portillo,po,47.67,54.91,55.27
+europe_lau,Pozal de Gallinas,pozal_de_gallinas,po,67.75,82.28,65.96
+europe_lau,Pozaldez,pozaldez,po,58.53,73.25,56.24
+europe_lau,Pozuelo de la Orden,pozuelo_de_la_orden,po,42.44,61.7,16.88
+europe_lau,Pommiers,pommiers,po,53.62,66.49,14.48
+europe_lau,Pont-Arcy,pont_arcy,po,40.2,65.9,-42.76
+europe_lau,Pontavert,pontavert,po,41.85,56.69,39.94
+europe_lau,Pontru,pontru,po,35.2,49.83,98.12
+europe_lau,Pontruet,pontruet,po,36.84,57.26,78.34
+europe_lau,Pont-Saint-Mard,pont_saint_mard,po,45.22,63.76,79.77
+europe_lau,Pouilly-sur-Serre,pouilly_sur_serre,po,60.01,72.29,62.34
+europe_lau,Pontevedra,pontevedra,po,42.62,56.05,95.79
+europe_lau,"Porriño, O",porrino_o,po,48.96,59.82,63.07
+europe_lau,Portas,portas,po,43.67,53.63,62.13
+europe_lau,Poio,poio,po,39.23,49.91,55.85
+europe_lau,Ponteareas,ponteareas,po,53.23,65.87,74.43
+europe_lau,Ponte Caldelas,ponte_caldelas,po,60.06,71.01,27.59
+europe_lau,Pontecesures,pontecesures,po,31.84,55.59,-38
+europe_lau,Poivres,poivres,po,70.55,74.98,44.21
+europe_lau,Poligny,poligny,po,57.66,87.35,50.68
+europe_lau,Polisot,polisot,po,37.25,68.45,-51.05
+europe_lau,Polisy,polisy,po,22.98,56.27,-99.09
+europe_lau,Pont-Sainte-Marie,pont_sainte_marie,po,66.03,71.13,38.5
+europe_lau,Pont-sur-Seine,pont_sur_seine,po,42.25,63.41,97.67
+europe_lau,Pouan-les-Vallées,pouan_les_vallees,po,59.94,74.4,85.85
+europe_lau,Pougy,pougy,po,53.58,77.99,41.45
+europe_lau,Pouy-sur-Vannes,pouy_sur_vannes,po,37.4,60.56,61.68
+europe_lau,Pomer,pomer,po,42.69,66.56,-14.14
+europe_lau,Pozuel de Ariza,pozuel_de_ariza,po,37.23,58.94,75.41
+europe_lau,Pozuelo de Aragón,pozuelo_de_aragon,po,46.85,64.62,27.51
+europe_lau,Port,port,po,34.99,62.19,3.25
+europe_lau,Porqueira,porqueira,po,37,50.89,17.51
+europe_lau,"Pobra de Trives, A",pobra_de_trives_a,po,39.94,61.54,73.54
+europe_lau,Pontedeva,pontedeva,po,60.76,69.95,35.08
+europe_lau,Polminhac,polminhac,po,49.56,64.12,77.53
+europe_lau,Polaciones,polaciones,po,60.59,68.99,63.21
+europe_lau,Polanco,polanco,po,69.07,73.38,51.75
+europe_lau,Potes,potes,po,44.58,61.13,88.76
+europe_lau,Pont-la-Ville,pont_la_ville,po,41.31,59.4,94.6
+europe_lau,Pobladura de Pelayo García,pobladura_de_pelayo_garcia,po,60.65,76.39,20.67
+europe_lau,"Pola de Gordón, La",pola_de_gordon_la,po,44.82,63.56,-9.78
+europe_lau,Ponferrada,ponferrada,po,48.37,65.24,56.32
+europe_lau,Posada de Valdeón,posada_de_valdeon,po,66.33,75.18,73.07
+europe_lau,Pozuelo del Páramo,pozuelo_del_paramo,po,34.21,48.87,-9.35
+europe_lau,Poschiavo,poschiavo,po,49.19,59.73,83.72
+europe_lau,Ponga,ponga,po,50.38,58.64,67.75
+europe_lau,Ποταμίτισσα,potamitissa,po,46.97,70.65,85.31
+europe_lau,Ponchon,ponchon,po,49.83,60.66,74.59
+europe_lau,Pontarmé,pontarme,po,46.99,54.28,50.96
+europe_lau,Pont-l'Évêque,pont_l_eveque,po,26.76,41.03,74.63
+europe_lau,Pontoise-lès-Noyon,pontoise_les_noyon,po,49.71,65.88,23.84
+europe_lau,Pontpoint,pontpoint,po,61.62,69.35,46.25
+europe_lau,Pont-Sainte-Maxence,pont_sainte_maxence,po,35.76,50.93,75.07
+europe_lau,Porcheux,porcheux,po,45.41,66.19,73.72
+europe_lau,Porquéricourt,porquericourt,po,33.82,57.89,-34.09
+europe_lau,Pouilly,pouilly,po,33.46,50.29,82.39
+europe_lau,Pompey,pompey,po,41.1,65.07,-12.04
+europe_lau,Pont-à-Mousson,pont_a_mousson,po,51.08,61.28,68.07
+europe_lau,Pont-Saint-Vincent,pont_saint_vincent,po,17.19,49.79,-84.5
+europe_lau,Port-sur-Seille,port_sur_seille,po,41.53,52.95,41.48
+europe_lau,Pont de Montvert - Sud Mont Lozère,pont_de_montvert_sud_mont_lozere,po,54.29,75.83,38.04
+europe_lau,Pourcharesses,pourcharesses,po,29.27,53.47,94.22
+europe_lau,Poudenx,poudenx,po,59.09,73.11,54.3
+europe_lau,Pouillon,pouillon,po,49.92,60.3,66.02
+europe_lau,Pouydesseaux,pouydesseaux,po,45.51,65.72,59.82
+europe_lau,Poyanne,poyanne,po,40.56,86.98,99.83
+europe_lau,Poyartin,poyartin,po,34.27,57.65,9.8
+europe_lau,Pomarède,pomarede,po,61.95,62.93,41.78
+europe_lau,Pontcirq,pontcirq,po,40.08,54.41,96.18
+europe_lau,Poinsenot,poinsenot,po,64.36,68.31,65.32
+europe_lau,Poinson-lès-Fayl,poinson_les_fayl,po,64.99,73.87,39.52
+europe_lau,Poinson-lès-Grancey,poinson_les_grancey,po,48.57,65.17,87.41
+europe_lau,Poinson-lès-Nogent,poinson_les_nogent,po,73.01,76.68,50.62
+europe_lau,Poiseul,poiseul,po,50.96,62.81,64.63
+europe_lau,Poissons,poissons,po,50.43,64.25,85.9
+europe_lau,Pont-la-Ville,pont_la_ville,po,50.01,77.63,-0.09
+europe_lau,Poulangy,poulangy,po,45.87,59.91,86.26
+europe_lau,Poilley,poilley,po,46.52,65.99,83.06
+europe_lau,Pontaubault,pontaubault,po,52.3,72.01,90.49
+europe_lau,Pont-Hébert,pont_hebert,po,29.86,47.55,69.64
+europe_lau,Pontorson,pontorson,po,38.9,47.54,75.16
+europe_lau,Ponts,ponts,po,37.91,49.8,46.08
+europe_lau,Port-Bail-sur-Mer,port_bail_sur_mer,po,55.77,66.27,68.37
+europe_lau,Pommiers-en-Forez,pommiers_en_forez,po,65.28,70.84,61.15
+europe_lau,Poncins,poncins,po,50.09,55.55,75.23
+europe_lau,Pouilly-lès-Feurs,pouilly_les_feurs,po,55.76,64.79,67.39
+europe_lau,Pouilly-les-Nonains,pouilly_les_nonains,po,42.16,56.29,76.73
+europe_lau,Pouilly-sous-Charlieu,pouilly_sous_charlieu,po,55.91,68.96,39.78
+europe_lau,Poilly-lez-Gien,poilly_lez_gien,po,52.93,70.05,77.29
+europe_lau,Pompiey,pompiey,po,64.84,70.8,48.71
+europe_lau,Pompogne,pompogne,po,56.02,64.26,46.88
+europe_lau,Pont-du-Casse,pont_du_casse,po,44.59,54.04,35.78
+europe_lau,Port-Sainte-Marie,port_sainte_marie,po,52.7,68.84,45.58
+europe_lau,Poudenas,poudenas,po,53.01,59.44,64
+europe_lau,Poussignac,poussignac,po,70.83,71,51.78
+europe_lau,Pontchâteau,pontchateau,po,41.91,52.5,80.23
+europe_lau,Pont-Saint-Martin,pont_saint_martin,po,59.79,63.42,63.11
+europe_lau,Pornic,pornic,po,32.73,46.25,26.11
+europe_lau,Πολύστυπος,polystypos,po,53.81,73.07,33.68
+europe_lau,Polná na Šumavě,polna_na_sumave,po,26.18,58.06,-54.36
+europe_lau,Pornichet,pornichet,po,43.25,49.32,53.2
+europe_lau,Port-Saint-Père,port_saint_pere,po,53.18,70.49,49.12
+europe_lau,Pouillé-les-Côteaux,pouille_les_coteaux,po,45.33,52.36,45.42
+europe_lau,Porte-du-Quercy,porte_du_quercy,po,34.4,51.8,-12.12
+europe_lau,Pontlevoy,pontlevoy,po,57.6,67.76,79.87
+europe_lau,Pouillé,pouille,po,42.99,53.61,74.43
+europe_lau,Pointel,pointel,po,34.18,51.83,94.06
+europe_lau,Pontchardon,pontchardon,po,46.38,63.93,-16.39
+europe_lau,Pouvrai,pouvrai,po,60.24,69.98,39.15
+europe_lau,Poříčí nad Sázavou,porici_nad_sazavou,po,54.25,65.12,61.76
+europe_lau,Pocancy,pocancy,po,36.4,57.56,64.62
+europe_lau,Pogny,pogny,po,53.87,72.79,36.93
+europe_lau,Pommerieux,pommerieux,po,42.4,58.95,44.02
+europe_lau,Pontmain,pontmain,po,57.88,72.4,64.82
+europe_lau,Port-Brillet,port_brillet,po,44.09,58.62,87.2
+europe_lau,Postupice,postupice,po,53.69,54.03,51.15
+europe_lau,Pontaumur,pontaumur,po,39.03,51.84,23.85
+europe_lau,Pont-du-Château,pont_du_chateau,po,42.43,61.11,-24.01
+europe_lau,Pontgibaud,pontgibaud,po,34.33,45.21,81.53
+europe_lau,Pouzol,pouzol,po,36.88,62.56,36.79
+europe_lau,Πολέμι,polemi,po,66.09,71.44,47.23
+europe_lau,Poinville,poinville,po,70.86,74.88,57.69
+europe_lau,Poisvilliers,poisvilliers,po,60.75,64.87,37.66
+europe_lau,Pontgouin,pontgouin,po,40.89,67.76,-23.49
+europe_lau,Poupry,poupry,po,62.12,69.98,53.73
+europe_lau,Ποτάμι,potami,po,48.33,60.59,67.14
+europe_lau,Polignac,polignac,po,54.7,64.2,28.21
+europe_lau,Pont-Salomon,pont_salomon,po,52.04,59.5,72.76
+europe_lau,Poilly,poilly,po,28.58,49.95,44.09
+europe_lau,Poix,poix,po,44.1,69.3,3.7
+europe_lau,Pomacle,pomacle,po,57.48,73.51,33.91
+europe_lau,Pontfaverger-Moronvilliers,pontfaverger_moronvilliers,po,33.81,65.28,93.76
+europe_lau,Ponthion,ponthion,po,32.25,47.76,23.77
+europe_lau,Possesse,possesse,po,30.8,62.79,-19.38
+europe_lau,Potangis,potangis,po,49.33,65.28,27.02
+europe_lau,Pouillon,pouillon,po,60,76.8,36.73
+europe_lau,Pourcy,pourcy,po,33.07,66.42,85.79
+europe_lau,Podensac,podensac,po,61.54,74.93,58.5
+europe_lau,Pomerol,pomerol,po,42.47,53.29,34.36
+europe_lau,Pompéjac,pompejac,po,58.99,80.6,32.83
+europe_lau,Pompignac,pompignac,po,57.05,67.45,71.55
+europe_lau,Pondaurat,pondaurat,po,42.3,64,69.1
+europe_lau,Porchères,porcheres,po,47.74,64.09,45
+europe_lau,Portets,portets,po,42.66,68.05,82.49
+europe_lau,Pontarion,pontarion,po,41.31,56.65,30.56
+europe_lau,Pontcharraud,pontcharraud,po,50.91,58.11,47.78
+europe_lau,Poussanges,poussanges,po,46.26,59.6,89.94
+europe_lau,Poilhes,poilhes,po,65.14,68.54,44.76
+europe_lau,Pomérols,pomerols,po,30.23,48.35,76.71
+europe_lau,Popian,popian,po,50.22,69.63,75.19
+europe_lau,Portiragnes,portiragnes,po,45.8,67.14,89.6
+europe_lau,Poujols,poujols,po,25.71,47.74,57.49
+europe_lau,Poussan,poussan,po,46.3,66.89,90.38
+europe_lau,Pouzolles,pouzolles,po,64.3,73.66,75
+europe_lau,Pouzols,pouzols,po,58.99,65.32,60.22
+europe_lau,Port-Valais,port_valais,po,61.45,68.49,56.2
+europe_lau,Porte-des-Bonnevaux,porte_des_bonnevaux,po,42.26,69.44,-37.11
+europe_lau,Poids-de-Fiole,poids_de_fiole,po,51.15,64.93,84.97
+europe_lau,Pointre,pointre,po,55.97,72.94,80.07
+europe_lau,Poligny,poligny,po,37.66,49.51,60.57
+europe_lau,Pont-de-Poitte,pont_de_poitte,po,66.93,67.33,53.7
+europe_lau,Pont-d'Héry,pont_d_hery,po,28.14,55.46,89.96
+europe_lau,Pont-du-Navoy,pont_du_navoy,po,29.16,48.51,-22.91
+europe_lau,Port-Lesney,port_lesney,po,49.51,68.28,90.71
+europe_lau,Pointis-de-Rivière,pointis_de_riviere,po,34.73,53.76,39.36
+europe_lau,Porrentruy,porrentruy,po,46.05,68.19,16.64
+europe_lau,Porte-de-Benauge,porte_de_benauge,po,31.44,51.95,25.95
+europe_lau,Poggio-di-Nazza,poggio_di_nazza,po,29.06,63.09,-84.81
+europe_lau,Poggio-di-Venaco,poggio_di_venaco,po,59.58,65.02,43.9
+europe_lau,Poggio-d'Oletta,poggio_d_oletta,po,45.25,65.07,41.06
+europe_lau,Poggio-Marinaccio,poggio_marinaccio,po,24.15,56.18,-126.75
+europe_lau,Polveroso,polveroso,po,17.37,66.63,-156.82
+europe_lau,Popolasca,popolasca,po,52.36,65.26,4.47
+europe_lau,Porri,porri,po,59.98,76.22,49.81
+europe_lau,Pommiers,pommiers,po,40.87,60.51,95.49
+europe_lau,Poulaines,poulaines,po,50.02,62.02,64.99
+europe_lau,Pouligny-Notre-Dame,pouligny_notre_dame,po,53.47,64.53,71.53
+europe_lau,Pouligny-Saint-Martin,pouligny_saint_martin,po,52.2,63.11,37.29
+europe_lau,Pouligny-Saint-Pierre,pouligny_saint_pierre,po,63.72,75.37,55.83
+europe_lau,Pont-Aven,pont_aven,po,65.65,71.87,71.85
+europe_lau,Pont-Croix,pont_croix,po,33.28,57.57,-56.52
+europe_lau,Pont-l'Abbé,pont_l_abbe,po,58.47,59.46,51.74
+europe_lau,Porspoder,porspoder,po,61.92,72.66,70.48
+europe_lau,Port-Launay,port_launay,po,44.53,55.24,0.42
+europe_lau,Pouldergat,pouldergat,po,58.14,63.21,59.43
+europe_lau,Pouldreuzic,pouldreuzic,po,37.82,53.1,35.02
+europe_lau,Poullan-sur-Mer,poullan_sur_mer,po,43.85,63.13,49.07
+europe_lau,Poullaouen,poullaouen,po,58.27,62.76,29.77
+europe_lau,Pointis-Inard,pointis_inard,po,53.6,68.44,6.73
+europe_lau,Polastron,polastron,po,46.81,67.82,40.7
+europe_lau,Pompertuzat,pompertuzat,po,33.84,72.2,44.1
+europe_lau,Ponlat-Taillebourg,ponlat_taillebourg,po,30.95,61.02,60.53
+europe_lau,Portet-d'Aspet,portet_d_aspet,po,54.28,70.11,24.81
+europe_lau,Portet-de-Luchon,portet_de_luchon,po,52.8,63.71,41.42
+europe_lau,Portet-sur-Garonne,portet_sur_garonne,po,41.64,60.22,35.2
+europe_lau,Poubeau,poubeau,po,27.75,73.95,90.57
+europe_lau,Poucharramet,poucharramet,po,59.97,64.34,57.35
+europe_lau,Pouy-de-Touges,pouy_de_touges,po,51.69,68.94,13.78
+europe_lau,Pouze,pouze,po,62.07,67.03,53.79
+europe_lau,Polastron,polastron,po,29.53,55.46,-10.04
+europe_lau,Pompiac,pompiac,po,44.77,56.14,61.5
+europe_lau,Ponsampère,ponsampere,po,50.25,60.39,12.45
+europe_lau,Ponsan-Soubiran,ponsan_soubiran,po,49.45,62.05,76.88
+europe_lau,Pouydraguin,pouydraguin,po,57.29,69.06,20.82
+europe_lau,Pouylebon,pouylebon,po,51.36,64.18,69.98
+europe_lau,Pouy-Loubrin,pouy_loubrin,po,43.57,56.94,25.3
+europe_lau,Pouy-Roquelaure,pouy_roquelaure,po,46.64,76.66,97.23
+europe_lau,Pommeret,pommeret,po,60.1,70.01,79.71
+europe_lau,Pommerit-le-Vicomte,pommerit_le_vicomte,po,56.56,67.98,61.51
+europe_lau,Pont-Melvez,pont_melvez,po,60.08,70.13,34.74
+europe_lau,Pontrieux,pontrieux,po,40.22,52.85,61.42
+europe_lau,Pordic,pordic,po,58.43,63.73,54.44
+europe_lau,Pont-de-Buis-lès-Quimerch,pont_de_buis_les_quimerch,po,59.2,72.78,71.98
+europe_lau,Pomarez,pomarez,po,60.38,64.81,49.51
+europe_lau,Pontenx-les-Forges,pontenx_les_forges,po,62.21,72.22,82.53
+europe_lau,Pontonx-sur-l'Adour,pontonx_sur_l_adour,po,51.44,61.64,24.63
+europe_lau,Port-de-Lanne,port_de_lanne,po,32.23,47.74,78.78
+europe_lau,Pompaples,pompaples,po,25.14,59.12,21.18
+europe_lau,Pollegio,pollegio,po,51.61,69.17,77.12
+europe_lau,Poullignac,poullignac,po,31.01,71.24,-32.67
+europe_lau,Poursac,poursac,po,36.42,54.91,-28.33
+europe_lau,Pocé-les-Bois,poce_les_bois,po,51.01,65.15,32.28
+europe_lau,Poilley,poilley,po,61.63,78.98,70.38
+europe_lau,Poligné,poligne,po,46.51,59.67,52.13
+europe_lau,Poggiolo,poggiolo,po,63.49,73.48,70.52
+europe_lau,Porto-Vecchio,porto_vecchio,po,38.13,50.1,81.26
+europe_lau,Pommerol,pommerol,po,51.22,74.44,34.08
+europe_lau,Poisat,poisat,po,50.57,61.82,21.96
+europe_lau,Poliénas,polienas,po,55.96,72.79,78.66
+europe_lau,Pommier-de-Beaurepaire,pommier_de_beaurepaire,po,29.53,56.78,85.85
+europe_lau,Ponsonnas,ponsonnas,po,39.63,69.32,42.24
+europe_lau,Pontcharra,pontcharra,po,37.48,57,99.82
+europe_lau,Pont-de-Chéruy,pont_de_cheruy,po,40.2,49.2,88.68
+europe_lau,Pont-Évêque,pont_eveque,po,50.27,63.44,39.23
+europe_lau,Pont-en-Royans,pont_en_royans,po,32.27,49.5,92.88
+europe_lau,Porcieu-Amblagnieu,porcieu_amblagnieu,po,56.51,64.9,49.16
+europe_lau,Ponet-et-Saint-Auban,ponet_et_saint_auban,po,33.46,54.44,96.82
+europe_lau,Ponsas,ponsas,po,23.84,53.04,66.83
+europe_lau,Pontaix,pontaix,po,61.82,69.73,63.1
+europe_lau,Pont-de-Barret,pont_de_barret,po,60.7,67.43,50.1
+europe_lau,Pont-de-l'Isère,pont_de_l_isere,po,50.5,72.25,80.28
+europe_lau,Portes-en-Valdaine,portes_en_valdaine,po,44.53,76.3,83.42
+europe_lau,Portes-lès-Valence,portes_les_valence,po,56.23,67.07,56.77
+europe_lau,Poyols,poyols,po,44.57,53.6,84.51
+europe_lau,Pommiers,pommiers,po,29.39,58.26,11.67
+europe_lau,Pompignan,pompignan,po,46.19,66.02,-2.84
+europe_lau,Ponteils-et-Brésis,ponteils_et_bresis,po,38.49,51.9,-4.59
+europe_lau,Pont-Saint-Esprit,pont_saint_esprit,po,36.68,50.98,77.9
+europe_lau,Portes,portes,po,51.55,64.89,49.42
+europe_lau,Potelières,potelieres,po,59.89,74,33.28
+europe_lau,Pougnadoresse,pougnadoresse,po,65.01,86.85,78.95
+europe_lau,Poulx,poulx,po,63.01,72.72,58.09
+europe_lau,Pouzilhac,pouzilhac,po,53.8,60.47,31.99
+europe_lau,Pomy,pomy,po,67.55,80.18,65.21
+europe_lau,Pocé-sur-Cisse,poce_sur_cisse,po,45.81,58.91,56.79
+europe_lau,Pont-de-Ruan,pont_de_ruan,po,33.59,55.45,58.13
+europe_lau,Ports-sur-Vienne,ports_sur_vienne,po,48.53,62.03,38.62
+europe_lau,Pouzay,pouzay,po,45.13,57.52,47.22
+europe_lau,Pont-Péan,pont_pean,po,61.63,70.8,79.93
+europe_lau,Ποταμιά,potamia,po,47.68,69.62,65.31
+europe_lau,POGRADEC,pogradec,po,49.26,57.33,41.33
+europe_lau,Pont-de-Larn,pont_de_larn,po,61,73.01,28.29
+europe_lau,Poudis,poudis,po,54.81,68.27,49.29
+europe_lau,Poulan-Pouzols,poulan_pouzols,po,56.05,70.25,34.94
+europe_lau,Poleymieux-au-Mont-d'Or,poleymieux_au_mont_d_or,po,61.22,68.75,44.59
+europe_lau,Pollionnay,pollionnay,po,44.98,55.39,29.34
+europe_lau,Pomeys,pomeys,po,43.13,66.24,8.63
+europe_lau,Pommiers,pommiers,po,43.24,64.35,34.11
+europe_lau,Porte des Pierres Dorées,porte_des_pierres_dorees,po,60.09,68.11,27.76
+europe_lau,Poule-les-Écharmeaux,poule_les_echarmeaux,po,52.67,64.5,57.65
+europe_lau,Podolanka,podolanka,po,55.06,64.57,51.11
+europe_lau,Podluhy,podluhy,po,33.52,62.36,89.15
+europe_lau,Pointe-à-Pitre,pointe_a_pitre,po,16.3,49.39,92.69
+europe_lau,Pointe-Noire,pointe_noire,po,50.59,68.75,70.36
+europe_lau,Port-Louis,port_louis,po,43.68,52.95,6.19
+europe_lau,Pouillé,pouille,po,59.34,70.07,23.11
+europe_lau,Pœuilly,poeuilly,po,45.02,57.75,90
+europe_lau,Poix-de-Picardie,poix_de_picardie,po,40.95,50.6,80.64
+europe_lau,Ponches-Estruval,ponches_estruval,po,50.2,69.01,41.09
+europe_lau,Pont-de-Metz,pont_de_metz,po,44.77,67.38,-32.69
+europe_lau,Ponthoile,ponthoile,po,49.88,61.76,49.89
+europe_lau,Pont-Noyelles,pont_noyelles,po,39.52,70.1,82.08
+europe_lau,Pont-Remy,pont_remy,po,50.18,68.03,85.79
+europe_lau,Port-le-Grand,port_le_grand,po,50.92,65.53,22.62
+europe_lau,Potte,potte,po,43.57,65.03,81.31
+europe_lau,Poulainville,poulainville,po,32.77,48.44,95.79
+europe_lau,Pozières,pozieres,po,34.71,58.09,94.42
+europe_lau,Port-Jérôme-sur-Seine,port_jerome_sur_seine,po,37.79,53.2,80.43
+europe_lau,Poisson,poisson,po,60.14,70.53,60.88
+europe_lau,Pontoux,pontoux,po,43.04,59.16,79.42
+europe_lau,Pouilloux,pouilloux,po,60.22,69.81,66.66
+europe_lau,Pourlans,pourlans,po,49.85,67.62,88.99
+europe_lau,Pompierre,pompierre,po,41.55,72.73,90.64
+europe_lau,Pont-lès-Bonfays,pont_les_bonfays,po,54.23,69.02,56.44
+europe_lau,Pont-sur-Madon,pont_sur_madon,po,46.2,71.84,53.28
+europe_lau,Portieux,portieux,po,35.47,47.48,31.74
+europe_lau,Poussay,poussay,po,36.37,54.61,98.45
+europe_lau,Pouxeux,pouxeux,po,49.52,61.63,87.21
+europe_lau,Počepice,pocepice,po,38.27,58.54,-6.57
+europe_lau,Podbablje,podbablje,po,47.18,68.35,68.39
+europe_lau,Podcrkavlje,podcrkavlje,po,58.91,75.82,47.78
+europe_lau,Podgora,podgora,po,42.04,73.57,60.59
+europe_lau,Podgorač,podgorac,po,29.93,62.06,-47.22
+europe_lau,Podstrana,podstrana,po,36.54,82.03,73.3
+europe_lau,Podturen,podturen,po,40.48,52.79,5.88
+europe_lau,Pojezerje,pojezerje,po,46.96,77.42,44.11
+europe_lau,Polača,polaca,po,65.27,70.63,58.79
+europe_lau,Poličnik,policnik,po,46.73,63.77,11.6
+europe_lau,Popovac,popovac,po,59.56,67.99,72
+europe_lau,Popovača,popovaca,po,47.77,57.28,57.76
+europe_lau,Poreč - Parenzo,porec_parenzo,po,42.98,55.75,24.38
+europe_lau,Posedarje,posedarje,po,58.7,67,38.41
+europe_lau,Postira,postira,po,45.84,76.8,95.34
+europe_lau,Požega,pozega,po,57.52,62.27,61.97
+europe_lau,Polepy,polepy,po,35.1,53.92,62.97
+europe_lau,Poilly-sur-Serein,poilly_sur_serein,po,38.56,65.44,58.97
+europe_lau,Poilly-sur-Tholon,poilly_sur_tholon,po,45.24,65.37,87.47
+europe_lau,Pontaubert,pontaubert,po,55.05,69.34,55.45
+europe_lau,Pontigny,pontigny,po,39.75,54.48,73.61
+europe_lau,Pont-sur-Vanne,pont_sur_vanne,po,39.94,56.39,93.01
+europe_lau,Pont-sur-Yonne,pont_sur_yonne,po,50.66,76.61,66.6
+europe_lau,Pourrain,pourrain,po,64.41,68.23,52.59
+europe_lau,Podlešín,podlesin,po,39.47,55.66,-3.42
+europe_lau,Postřelmov,postrelmov,po,71.47,70.69,71.47
+europe_lau,Pontevès,ponteves,po,61.86,64.39,51.58
+europe_lau,Pourcieux,pourcieux,po,27.45,57.32,89.39
+europe_lau,Pourrières,pourrieres,po,30.39,54.62,92.26
+europe_lau,Podhradí,podhradi,po,63.1,69.19,51.56
+europe_lau,Pomezí nad Ohří,pomezi_nad_ohri,po,45.4,53.86,61.06
+europe_lau,Pozdeň,pozden,po,34.15,57.36,15.3
+europe_lau,Pommevic,pommevic,po,59.46,67.58,36.5
+europe_lau,Pompignan,pompignan,po,44.99,69.42,33.59
+europe_lau,Poupas,poupas,po,35.19,59.14,34.3
+europe_lau,Poděbrady,podebrady,po,42.98,53.19,84.52
+europe_lau,Podravska Moslavina,podravska_moslavina,po,50.11,58.64,49.06
+europe_lau,Poigny-la-Forêt,poigny_la_foret,po,57.92,76.14,40.87
+europe_lau,Poříčany,poricany,po,54.27,62.6,53.62
+europe_lau,Pohorovice,pohorovice,po,36.35,63.24,-64.25
+europe_lau,Pohoří,pohori,po,38.35,56.37,97.27
+europe_lau,Poysdorf,poysdorf,po,52.29,60.89,53.09
+europe_lau,Poissy,poissy,po,24.34,52.63,67.22
+europe_lau,Ponthévrard,ponthevrard,po,44.06,50.11,42.7
+europe_lau,Porcheville,porcheville,po,60.38,70.76,58.56
+europe_lau,Poueyferré,poueyferre,po,55.66,75.58,20.85
+europe_lau,Poumarous,poumarous,po,33.05,62.97,70.59
+europe_lau,Pouy,pouy,po,59.94,74.29,24.63
+europe_lau,Pouyastruc,pouyastruc,po,57.69,77.27,75.5
+europe_lau,Pouzac,pouzac,po,34.51,69.86,53.76
+europe_lau,Pontoise,pontoise,po,30.77,50.79,81.82
+europe_lau,Poitiers,poitiers,po,32.06,41.29,26.13
+europe_lau,Port-de-Piles,port_de_piles,po,38.1,74.74,-69.15
+europe_lau,Pouançay,pouancay,po,63.78,69.62,56.11
+europe_lau,Pouant,pouant,po,51.92,64.63,75.33
+europe_lau,Porte-de-Savoie,porte_de_savoie,po,25.64,37.48,-5.12
+europe_lau,Polní Voděrady,polni_voderady,po,49.83,59.25,49.53
+europe_lau,Poličná,policna,po,40.94,48.25,70.46
+europe_lau,Poillé-sur-Vègre,poille_sur_vegre,po,44.12,56.56,34.64
+europe_lau,Pontvallain,pontvallain,po,32.25,56.68,94.41
+europe_lau,Porte du Ried,porte_du_ried,po,42.6,74.18,64.68
+europe_lau,Popovice,popovice,po,72.27,73.19,54.51
+europe_lau,Pont-sur-Meuse,pont_sur_meuse,po,25.11,58.28,36.6
+europe_lau,Pouilly-sur-Meuse,pouilly_sur_meuse,po,48.57,57.11,44.31
+europe_lau,Potvorov,potvorov,po,59.58,65.71,64.16
+europe_lau,Poix-du-Nord,poix_du_nord,po,53.48,63.34,70.27
+europe_lau,Pommereuil,pommereuil,po,55.35,61.59,57.08
+europe_lau,Pont-à-Marcq,pont_a_marcq,po,53.73,66.32,21.27
+europe_lau,Pont-sur-Sambre,pont_sur_sambre,po,48.59,58.54,19.74
+europe_lau,Potelle,potelle,po,26.09,40.48,98.29
+europe_lau,Polní Chrčice,polni_chrcice,po,46.96,62.76,58.38
+europe_lau,Pommereux,pommereux,po,54.37,66.9,89.11
+europe_lau,Pommeréval,pommereval,po,38.33,51.41,68.61
+europe_lau,Ponts-et-Marais,ponts_et_marais,po,21.61,36.02,83.29
+europe_lau,Poil,poil,po,57.26,65.39,59.68
+europe_lau,Poiseux,poiseux,po,65.95,71.54,50.15
+europe_lau,Pougny,pougny,po,58.67,67.64,66.12
+europe_lau,Pougues-les-Eaux,pougues_les_eaux,po,49.54,61.1,18.24
+europe_lau,Pouilly-sur-Loire,pouilly_sur_loire,po,28.02,47.27,17.35
+europe_lau,Pouques-Lormes,pouques_lormes,po,40.96,59.28,90.04
+europe_lau,Pousseaux,pousseaux,po,40.53,45.04,55.99
+europe_lau,Pollestres,pollestres,po,56.87,72.15,80.91
+europe_lau,Ponteilla,ponteilla,po,37.32,60.89,1.53
+europe_lau,Porta,porta,po,54.91,64.23,35.92
+europe_lau,Porté-Puymorens,porte_puymorens,po,38.35,64.49,-41.66
+europe_lau,Port-Vendres,port_vendres,po,49.4,59.56,37.25
+europe_lau,Podhradí,podhradi,po,51.6,64.18,39.59
+europe_lau,Pommérieux,pommerieux,po,57.69,73.57,67.85
+europe_lau,Pontoy,pontoy,po,51.26,68.38,24.31
+europe_lau,Pontpierre,pontpierre,po,57.48,74.72,72.01
+europe_lau,Porcelette,porcelette,po,55,65.95,27.32
+europe_lau,Postroff,postroff,po,49.32,73.95,-12.8
+europe_lau,Pouilly,pouilly,po,41.26,58.48,17.28
+europe_lau,Pournoy-la-Chétive,pournoy_la_chetive,po,43.82,80.41,36.55
+europe_lau,Pournoy-la-Grasse,pournoy_la_grasse,po,47.31,59.17,84.93
+europe_lau,Podveky,podveky,po,67.54,69.1,56.71
+europe_lau,Podolí,podoli,po,39.77,66.05,73.11
+europe_lau,Polincove,polincove,po,20.48,51.69,79.85
+europe_lau,Pommera,pommera,po,53.19,72.44,69.97
+europe_lau,Pommier,pommier,po,62.15,71.49,58.45
+europe_lau,Pont-à-Vendin,pont_a_vendin,po,32.67,42.17,71.93
+europe_lau,Pöggstall,poggstall,po,57.13,71.46,78.02
+europe_lau,Poey-de-Lescar,poey_de_lescar,po,31.38,64.1,60.29
+europe_lau,Poey-d'Oloron,poey_d_oloron,po,62.7,75.57,57.08
+europe_lau,Pomps,pomps,po,38.72,55.81,-9.89
+europe_lau,Ponson-Debat-Pouts,ponson_debat_pouts,po,48.19,67.79,9.32
+europe_lau,Ponson-Dessus,ponson_dessus,po,41.45,61.57,73.6
+europe_lau,Pontacq,pontacq,po,48.98,55.16,75.13
+europe_lau,Pontiacq-Viellepinte,pontiacq_viellepinte,po,63.4,68.62,60.04
+europe_lau,Portet,portet,po,38.4,63.2,73.08
+europe_lau,Pouliacq,pouliacq,po,44.31,60.01,57.14
+europe_lau,Poursiugues-Boucoue,poursiugues_boucoue,po,58.47,66.6,37.99
+europe_lau,Polkovice,polkovice,po,42.62,55.85,56.84
+europe_lau,Polom,polom,po,53.79,69.83,55.51
+europe_lau,Potštát,potstat,po,38.26,59.8,40.45
+europe_lau,Podbrdy,podbrdy,po,61.16,81.12,55.93
+europe_lau,Πομός,pomos,po,46.32,59.35,37.61
+europe_lau,Pontivy,pontivy,po,49.26,59.22,63.24
+europe_lau,Pont-Scorff,pont_scorff,po,56.95,66.84,78.43
+europe_lau,Porcaro,porcaro,po,59.65,67.59,46.55
+europe_lau,Port-Louis,port_louis,po,40.94,61.39,29.86
+europe_lau,Potěhy,potehy,po,54.94,73.42,82.74
+europe_lau,Pöchlarn,pochlarn,po,45.83,54.74,49.12
+europe_lau,Poisy,poisy,po,68.81,70.94,70.02
+europe_lau,Polaincourt-et-Clairefontaine,polaincourt_et_clairefontaine,po,50.45,57.82,75.91
+europe_lau,Pomoy,pomoy,po,45.06,63.22,79.86
+europe_lau,Pontcey,pontcey,po,62.06,73.27,31.05
+europe_lau,Pont-du-Bois,pont_du_bois,po,31.31,60.85,92.11
+europe_lau,Pont-sur-l'Ognon,pont_sur_l_ognon,po,37.37,53.67,11.89
+europe_lau,Port-sur-Saône,port_sur_saone,po,58.89,69.13,52.3
+europe_lau,Poyans,poyans,po,49.89,70.02,74.51
+europe_lau,Polia,polia,po,40.64,65.28,-45.23
+europe_lau,Pontelatone,pontelatone,po,21.3,50.6,96.02
+europe_lau,Portico di Caserta,portico_di_caserta,po,46.97,60.32,86.75
+europe_lau,Posina,posina,po,50.51,67.5,10.92
+europe_lau,Pove del Grappa,pove_del_grappa,po,12.88,44.83,85.5
+europe_lau,Pozzoleone,pozzoleone,po,28.37,52.78,96.31
+europe_lau,Poteč,potec,po,54.83,74.22,57.01
+europe_lau,Polesella,polesella,po,41.68,52.66,69.42
+europe_lau,Pontecchio Polesine,pontecchio_polesine,po,47.8,57.61,23.07
+europe_lau,Porto Tolle,porto_tolle,po,36.11,54.51,96.16
+europe_lau,Porto Viro,porto_viro,po,33.12,43.84,5.19
+europe_lau,Poznań,poznan,po,46.12,54.24,61.51
+europe_lau,Poggio Picenze,poggio_picenze,po,40.58,65.59,65.62
+europe_lau,Poggio Imperiale,poggio_imperiale,po,46.22,54.69,58.15
+europe_lau,Polanów,polanow,po,44.65,57.15,65.35
+europe_lau,Postomino,postomino,po,44.7,64.66,19.31
+europe_lau,Połczyn-Zdrój,polczyn_zdroj,po,53.68,59.81,71.99
+europe_lau,Polizzi Generosa,polizzi_generosa,po,27.05,47.83,89.88
+europe_lau,Pollina,pollina,po,48.3,65.39,22.74
+europe_lau,Poggiorsini,poggiorsini,po,56.83,67.63,73.12
+europe_lau,Polignano a Mare,polignano_a_mare,po,31.47,42.6,92.78
+europe_lau,Podenzana,podenzana,po,66.74,80.19,37.64
+europe_lau,Pontremoli,pontremoli,po,55.02,64.56,36.67
+europe_lau,Pokój,pokoj,po,40.37,52.52,41.11
+europe_lau,Polska Cerekiew,polska_cerekiew,po,51.75,66.99,70.94
+europe_lau,Pozezdrze,pozezdrze,po,45.83,65.11,11.23
+europe_lau,Pognano,pognano,po,55.06,66.52,53.07
+europe_lau,Ponte Nossa,ponte_nossa,po,54.63,68.55,41.56
+europe_lau,Ponteranica,ponteranica,po,37.39,58.24,66.77
+europe_lau,Ponte San Pietro,ponte_san_pietro,po,45.24,54.36,44.4
+europe_lau,Pontida,pontida,po,33.01,46.8,-17.05
+europe_lau,Pontirolo Nuovo,pontirolo_nuovo,po,51.1,64.42,72.35
+europe_lau,Pokojovice,pokojovice,po,54.62,66.77,52.21
+europe_lau,Ponte nelle Alpi,ponte_nelle_alpi,po,31.61,51,97.09
+europe_lau,Ponte Nizza,ponte_nizza,po,40.11,58.02,70.09
+europe_lau,Portalbera,portalbera,po,46.97,65.71,-5.1
+europe_lau,Pocenia,pocenia,po,42.33,64.23,80.41
+europe_lau,Pontebba,pontebba,po,52.67,70.29,33.51
+europe_lau,Porpetto,porpetto,po,52.41,64.48,59.29
+europe_lau,Povoletto,povoletto,po,36.27,67.87,90.3
+europe_lau,Pozzuolo del Friuli,pozzuolo_del_friuli,po,46.29,62.03,18.24
+europe_lau,Popielów,popielow,po,53.66,69.89,34.27
+europe_lau,Poświętne,poswietne,po,57.65,61.15,34.95
+europe_lau,Polomí,polomi,po,28.93,62.72,-11.35
+europe_lau,Podbřežice,podbrezice,po,66.05,73.75,65.56
+europe_lau,Polánka,polanka,po,57.01,62.4,59.77
+europe_lau,Podmokly,podmokly,po,45.54,59.83,29.66
+europe_lau,Police,police,po,47.72,63.04,43.34
+europe_lau,Podgórzyn,podgorzyn,po,49.36,57.7,60.63
+europe_lau,Porto Empedocle,porto_empedocle,po,38.45,57.81,38.88
+europe_lau,Porcari,porcari,po,43.37,71.59,94.47
+europe_lau,Ponte Buggianese,ponte_buggianese,po,44.7,64.61,51.36
+europe_lau,Pontassieve,pontassieve,po,57.52,63.48,38.22
+europe_lau,Ponzano di Fermo,ponzano_di_fermo,po,35.26,61.94,55.23
+europe_lau,Porto San Giorgio,porto_san_giorgio,po,51.49,61.2,54.92
+europe_lau,Porto Sant'Elpidio,porto_sant_elpidio,po,41.81,59.45,83.6
+europe_lau,Polistena,polistena,po,40.13,54.8,2.79
+europe_lau,Portigliola,portigliola,po,23.1,67.82,62.22
+europe_lau,Poli,poli,po,51.35,72.9,-8.36
+europe_lau,Pomezia,pomezia,po,45.33,69.62,41.43
+europe_lau,Ponzano Romano,ponzano_romano,po,37.17,54.95,98.26
+europe_lau,Ponte di Piave,ponte_di_piave,po,32.9,51.46,-19.76
+europe_lau,Ponzano Veneto,ponzano_veneto,po,44.58,64.56,18.15
+europe_lau,Portobuffolè,portobuffole,po,32.85,51.64,-8.42
+europe_lau,Possagno,possagno,po,27.82,62.04,82.15
+europe_lau,Povegliano,povegliano,po,46.58,58.54,5.81
+europe_lau,Pomarolo,pomarolo,po,33.67,64.28,93.32
+europe_lau,Popoli,popoli,po,52.36,63.43,6.72
+europe_lau,Podenzano,podenzano,po,60.78,69.52,54.21
+europe_lau,Ponte dell'Olio,ponte_dell_olio,po,45.94,71.87,69.73
+europe_lau,Pontenure,pontenure,po,40.75,67.28,89.3
+europe_lau,Poggiardo,poggiardo,po,70.41,74.19,58.04
+europe_lau,Polkowice,polkowice,po,58.51,67.14,32.37
+europe_lau,Polanica-Zdrój,polanica_zdroj,po,52.05,72.26,85.14
+europe_lau,Pohnání,pohnani,po,47.2,58.87,51.33
+europe_lau,Pojbuky,pojbuky,po,30.35,46.2,86.46
+europe_lau,Poběžovice,pobezovice,po,46.49,56.34,66.85
+europe_lau,Poggio Renatico,poggio_renatico,po,35.52,56.34,34.2
+europe_lau,Portomaggiore,portomaggiore,po,40.95,67.33,-2.92
+europe_lau,Porto Cesareo,porto_cesareo,po,19.57,36.58,27.57
+europe_lau,Porto Azzurro,porto_azzurro,po,52.21,68.85,13.92
+europe_lau,Portoferraio,portoferraio,po,39.72,63,6.45
+europe_lau,Pomarance,pomarance,po,48.03,56.06,78.57
+europe_lau,Ponsacco,ponsacco,po,63.33,74.48,69.39
+europe_lau,Pontedera,pontedera,po,40.81,55.9,16.55
+europe_lau,Portoscuso,portoscuso,po,40.61,73.87,85.75
+europe_lau,Pocinovice,pocinovice,po,50.94,64.14,21.82
+europe_lau,Postřekov,postrekov,po,36.54,47.91,0.1
+europe_lau,Poggioreale,poggioreale,po,52.8,66.04,57.73
+europe_lau,Pontinia,pontinia,po,51.73,65.95,46.29
+europe_lau,Ponza,ponza,po,21.37,42.81,86.56
+europe_lau,Portogruaro,portogruaro,po,31.91,44.73,5.65
+europe_lau,Potok Wielki,potok_wielki,po,29.6,56.72,96.61
+europe_lau,Poświętne,poswietne,po,47.95,62.59,4.22
+europe_lau,Podkowa Leśna,podkowa_lesna,po,23.44,49.72,27.81
+europe_lau,Pomiechówek,pomiechowek,po,36.16,46.48,6.91
+europe_lau,Porte di Rendena,porte_di_rendena,po,35.29,77.44,-37.97
+europe_lau,Podomí,podomi,po,30.88,51.7,46.52
+europe_lau,Povegliano Veronese,povegliano_veronese,po,45.69,59.86,90.18
+europe_lau,Poggiofiorito,poggiofiorito,po,48.8,74.49,55.57
+europe_lau,Pollutri,pollutri,po,33.19,63.91,-27.13
+europe_lau,Poniatowa,poniatowa,po,55.05,65.74,80.93
+europe_lau,Powidz,powidz,po,38.31,57.4,55.14
+europe_lau,Poggiridenti,poggiridenti,po,73.15,80.31,60.51
+europe_lau,Ponte in Valtellina,ponte_in_valtellina,po,24.27,41.95,95.73
+europe_lau,Postalesio,postalesio,po,24.58,76.41,70.27
+europe_lau,Pollica,pollica,po,54.92,60.91,72.08
+europe_lau,Pontecagnano Faiano,pontecagnano_faiano,po,40.92,63.6,86.47
+europe_lau,Postřelmůvek,postrelmuvek,po,27.59,84.09,11.89
+europe_lau,Portico e San Benedetto,portico_e_san_benedetto,po,41.55,59.43,46.1
+europe_lau,Pozlovice,pozlovice,po,44.67,62.05,81.51
+europe_lau,Pogorzela,pogorzela,po,62.68,67.54,57.73
+europe_lau,Poniec,poniec,po,38.08,44.03,71.39
+europe_lau,Pofi,pofi,po,39.26,51.54,50.5
+europe_lau,Pontecorvo,pontecorvo,po,44.14,52.19,24.07
+europe_lau,Posta Fibreno,posta_fibreno,po,60.41,72.87,56.34
+europe_lau,Polaveno,polaveno,po,53.17,65.6,30.59
+europe_lau,Polpenazze del Garda,polpenazze_del_garda,po,31.66,59.25,27.72
+europe_lau,Pompiano,pompiano,po,40.66,62.48,88.56
+europe_lau,Poncarale,poncarale,po,49.83,63.26,10.74
+europe_lau,Ponte di Legno,ponte_di_legno,po,33.59,56.41,95.11
+europe_lau,Pontevico,pontevico,po,59.76,68.79,70.58
+europe_lau,Pontoglio,pontoglio,po,56.6,70.19,91.27
+europe_lau,Pozzolengo,pozzolengo,po,54.77,64.97,75.19
+europe_lau,Pohořelice,pohorelice,po,43.86,68.3,81.72
+europe_lau,Polverara,polverara,po,31.19,48.29,93.93
+europe_lau,Ponso,ponso,po,42.02,54.48,91.4
+europe_lau,Pontelongo,pontelongo,po,29.8,56.99,-67.35
+europe_lau,Ponte San Nicolò,ponte_san_nicolo,po,34.93,52.58,93.57
+europe_lau,Pozzonovo,pozzonovo,po,35.55,59.66,87.21
+europe_lau,Poggio Torriana,poggio_torriana,po,26.35,53.73,85.06
+europe_lau,Poggio a Caiano,poggio_a_caiano,po,52.86,70.89,67.99
+europe_lau,Porsgrunn,porsgrunn,po,50.43,57.71,71.06
+europe_lau,Pohnánec,pohnanec,po,23.73,41.18,5.21
+europe_lau,Pokrzywnica,pokrzywnica,po,57.26,70.08,87.58
+europe_lau,Portocannone,portocannone,po,36.76,61.16,-12.09
+europe_lau,Polesí,polesi,po,63.23,73.99,59.07
+europe_lau,Połajewo,polajewo,po,49.15,59.41,25.53
+europe_lau,Positano,positano,po,48.96,60.79,9.18
+europe_lau,Postiglione,postiglione,po,39.26,50.27,92.17
+europe_lau,Poggio San Marcello,poggio_san_marcello,po,18.92,54.72,17.63
+europe_lau,Polverigi,polverigi,po,58.18,66.17,20.64
+europe_lau,Poggio San Vicino,poggio_san_vicino,po,33.72,52.72,75.51
+europe_lau,Pollenza,pollenza,po,45.51,67.9,3.63
+europe_lau,Porto Recanati,porto_recanati,po,28.81,57.25,80.45
+europe_lau,Potenza Picena,potenza_picena,po,60.8,75.55,34.03
+europe_lau,Podmokly,podmokly,po,44.07,69.04,64.91
+europe_lau,Pobiedziska,pobiedziska,po,50.93,64.91,36.46
+europe_lau,Pogliano Milanese,pogliano_milanese,po,26.84,55.43,51.8
+europe_lau,Pozzo d'Adda,pozzo_d_adda,po,41.3,68.83,76.21
+europe_lau,Pozzuolo Martesana,pozzuolo_martesana,po,51.61,64.13,32.93
+europe_lau,Potęgowo,potegowo,po,54.71,62.61,53.08
+europe_lau,Pozzallo,pozzallo,po,40.5,55.28,20.81
+europe_lau,Poggiomarino,poggiomarino,po,43.31,59.68,62.93
+europe_lau,Pollena Trocchia,pollena_trocchia,po,16.92,47.21,73.49
+europe_lau,Pomigliano d'Arco,pomigliano_d_arco,po,47.45,55.83,47.75
+europe_lau,Pompei,pompei,po,57.12,75.42,79.68
+europe_lau,Portici,portici,po,54.59,69.46,41.21
+europe_lau,Pozzuoli,pozzuoli,po,38.06,65.51,10.32
+europe_lau,Počátky,pocatky,po,44.24,57,91.62
+europe_lau,Poleň,polen,po,45.71,54.36,35.82
+europe_lau,Pomaro Monferrato,pomaro_monferrato,po,47.75,57.3,45.43
+europe_lau,Pontecurone,pontecurone,po,66.28,74.54,66.56
+europe_lau,Pontestura,pontestura,po,68.56,75.5,57.68
+europe_lau,Ponti,ponti,po,49.06,65.36,78.95
+europe_lau,Ponzano Monferrato,ponzano_monferrato,po,58.11,68.06,53.93
+europe_lau,Ponzone,ponzone,po,39.64,60.63,65.22
+europe_lau,Pozzol Groppo,pozzol_groppo,po,59.31,65.17,43.99
+europe_lau,Pozzolo Formigaro,pozzolo_formigaro,po,51.3,63.92,13.06
+europe_lau,Pölöskefő,poloskefo,po,54.75,78.75,99.65
+europe_lau,Poggio Bustone,poggio_bustone,po,35.94,58.17,31.45
+europe_lau,Poggio Catino,poggio_catino,po,33.65,60.98,-11.3
+europe_lau,Poggio Mirteto,poggio_mirteto,po,27.8,57.7,12.84
+europe_lau,Poggio Moiano,poggio_moiano,po,38.11,51.77,19.28
+europe_lau,Poggio Nativo,poggio_nativo,po,35.17,58.95,74.92
+europe_lau,Poggio San Lorenzo,poggio_san_lorenzo,po,36.44,57.93,89.44
+europe_lau,Posta,posta,po,36.11,53.02,72.9
+europe_lau,Pozzaglia Sabina,pozzaglia_sabina,po,48.74,61.52,20.2
+europe_lau,Portlaoise,portlaoise,po,39.96,54.17,93.15
+europe_lau,Porrog,porrog,po,32.48,62.99,97.04
+europe_lau,Pocsaj,pocsaj,po,52.77,63.66,49.29
+europe_lau,Pókaszepetk,pokaszepetk,po,60.49,65.92,52.87
+europe_lau,Polerady,polerady,po,42.82,73.35,-32.57
+europe_lau,Postřižín,postrizin,po,39.35,64.42,95.09
+europe_lau,Popelín,popelin,po,39.7,56.03,-2.07
+europe_lau,Pompaire,pompaire,po,43.47,60.62,78.61
+europe_lau,Pougne-Hérisson,pougne_herisson,po,39.87,65.69,87.05
+europe_lau,Pošná,posna,po,54.7,68.43,81.23
+europe_lau,Podmoklany,podmoklany,po,33.75,50.12,10.42
+europe_lau,Porto Ceresio,porto_ceresio,po,45.42,55.08,75.67
+europe_lau,Porto Valtravaglia,porto_valtravaglia,po,39.71,69.19,66.55
+europe_lau,Portlaw-Kilmacthomas,portlaw_kilmacthomas,po,48.89,62.6,16.56
+europe_lau,Pórszombat,porszombat,po,53.59,68.07,72.44
+europe_lau,Police,police,po,44.88,59.54,83.36
+europe_lau,Porcsalma,porcsalma,po,37.09,50.79,-3.36
+europe_lau,Pozděchov,pozdechov,po,42.62,61.97,26.33
+europe_lau,Pogány,pogany,po,61.43,76.7,78.97
+europe_lau,Polgárdi,polgardi,po,43.91,61.11,91.04
+europe_lau,Pocapaglia,pocapaglia,po,28.3,64.16,79.15
+europe_lau,Polonghera,polonghera,po,46.61,58.88,77.63
+europe_lau,Pontechianale,pontechianale,po,72.71,72.68,32.47
+europe_lau,Police,police,po,27.58,54.32,87.49
+europe_lau,Poiroux,poiroux,po,46.77,60.05,66.8
+europe_lau,Pouillé,pouille,po,52.48,71.76,17.11
+europe_lau,Pouzauges,pouzauges,po,41.22,59.88,31.02
+europe_lau,Pomaretto,pomaretto,po,37.18,58.33,68.18
+europe_lau,Pont Canavese,pont_canavese,po,38.16,49.17,40.79
+europe_lau,Porte,porte,po,47.5,59.01,35.38
+europe_lau,Pohorská Ves,pohorska_ves,po,49.28,51.88,66.16
+europe_lau,Potyond,potyond,po,42.03,53.48,67
+europe_lau,Pogányszentpéter,poganyszentpeter,po,49.19,70.02,81.47
+europe_lau,Poroszló,poroszlo,po,41.13,61.26,-1.87
+europe_lau,Pócsa,pocsa,po,56.39,75.36,90.41
+europe_lau,Polesine Zibello,polesine_zibello,po,46.81,64.08,-2.98
+europe_lau,Polgár,polgar,po,40.1,50.94,27.74
+europe_lau,Porva,porva,po,27.53,51.33,86.23
+europe_lau,Podmoky,podmoky,po,54.1,75.16,79.75
+europe_lau,Pollein,pollein,po,37.54,63.51,92.16
+europe_lau,Pontboset,pontboset,po,54.93,78.8,81.05
+europe_lau,Pontey,pontey,po,41.11,63.1,93.81
+europe_lau,Pont-Saint-Martin,pont_saint_martin,po,34.25,60.76,-30.17
+europe_lau,Polom,polom,po,45.67,63.09,64.59
+europe_lau,Poviglio,poviglio,po,47.45,70.68,29.26
+europe_lau,Potenza,potenza,po,58.5,74.83,64.26
+europe_lau,Pompeiana,pompeiana,po,43.25,61.82,81.23
+europe_lau,Pontedassio,pontedassio,po,51.16,66.65,28.63
+europe_lau,Pördefölde,pordefolde,po,42.21,63,94.39
+europe_lau,Poigny,poigny,po,25.09,46.53,25.37
+europe_lau,Poincy,poincy,po,47.06,72.53,69.64
+europe_lau,Poligny,poligny,po,59.5,67.15,33.59
+europe_lau,Pommeuse,pommeuse,po,40.76,57.23,88.45
+europe_lau,Pomponne,pomponne,po,57.4,73.7,24.18
+europe_lau,Pontault-Combault,pontault_combault,po,45.82,56.51,80.37
+europe_lau,Pontcarré,pontcarre,po,46.76,66.64,58.51
+europe_lau,Polány,polany,po,59.64,66.96,67.13
+europe_lau,Porrogszentkirály,porrogszentkiraly,po,50.58,59.49,73.04
+europe_lau,Poppi,poppi,po,33.69,56.84,86.04
+europe_lau,Poggibonsi,poggibonsi,po,50.09,54.83,73.04
+europe_lau,Pölöske,poloske,po,51.42,63.45,80.99
+europe_lau,Potony,potony,po,37.8,53.15,-9.93
+europe_lau,Porrogszentpál,porrogszentpal,po,36.86,68.85,99.08
+europe_lau,Pócsmegyer,pocsmegyer,po,42.05,76.97,94.72
+europe_lau,Ponětovice,ponetovice,po,63.07,74.27,56.57
+europe_lau,Pozzaglio ed Uniti,pozzaglio_ed_uniti,po,48.35,64.36,40.66
+europe_lau,Podolí I,podoli_i,po,44.02,56.27,12.38
+europe_lau,Polinago,polinago,po,46.36,76.92,90.2
+europe_lau,Pornassio,pornassio,po,37.37,56.72,92.39
+europe_lau,Pognana Lario,pognana_lario,po,60.26,73.52,32.98
+europe_lau,Ponna,ponna,po,28.72,58.63,-51.75
+europe_lau,Ponte Lambro,ponte_lambro,po,49.04,62.11,57.34
+europe_lau,Porlezza,porlezza,po,45.18,61.73,54.76
+europe_lau,Policoro,policoro,po,59.79,79.39,44.95
+europe_lau,Pomarico,pomarico,po,55.8,72.51,63.3
+europe_lau,Pontinvrea,pontinvrea,po,49.17,58.4,73.77
+europe_lau,Pokupsko,pokupsko,po,58.88,63.62,51.69
+europe_lau,Poggiodomo,poggiodomo,po,41.2,64.26,97.08
+europe_lau,Pörböly,porboly,po,29.44,48.36,10.25
+europe_lau,Portacomaro,portacomaro,po,30.6,49.45,89.37
+europe_lau,Poggio Rusco,poggio_rusco,po,52.42,68.6,6.33
+europe_lau,Pomponesco,pomponesco,po,27.77,52.43,91.51
+europe_lau,Ponti sul Mincio,ponti_sul_mincio,po,51.96,73.57,31.48
+europe_lau,Porto Mantovano,porto_mantovano,po,30.33,54.66,-10.3
+europe_lau,Pötréte,potrete,po,36.43,69.29,90.91
+europe_lau,Povljana,povljana,po,42.09,57.04,56.12
+europe_lau,Pomáz,pomaz,po,32.14,66.97,34.52
+europe_lau,Ponte,ponte,po,50.43,72.7,-15.87
+europe_lau,Pontelandolfo,pontelandolfo,po,37.57,63.01,2.79
+europe_lau,Portofino,portofino,po,22.66,48.69,46.28
+europe_lau,Podravske Sesvete,podravske_sesvete,po,34.87,69.65,-37.52
+europe_lau,Polino,polino,po,62.89,71.61,56.39
+europe_lau,Porano,porano,po,50.61,68.56,89.62
+europe_lau,Pócspetri,pocspetri,po,44.54,65.16,85.62
+europe_lau,Pósfa,posfa,po,29.71,54.53,26.64
+europe_lau,Pogno,pogno,po,48.14,56.24,41.84
+europe_lau,Pombia,pombia,po,38.72,65.6,-46.38
+europe_lau,Porpác,porpac,po,40.31,61.97,20.53
+europe_lau,Ponte Gardena/Waidbruck,ponte_gardena_waidbruck,po,22.01,39.34,21.99
+europe_lau,Postal/Burgstall,postal_burgstall,po,53.6,85.99,93.4
+europe_lau,Portovenere,portovenere,po,30.06,53.17,79.57
+europe_lau,Pochvalov,pochvalov,po,49.15,71.9,84.41
+europe_lau,Pornóapáti,pornoapati,po,53.33,78.59,19.64
+europe_lau,Poproč (okres Košice - okolie),poproc_okres_kosice_okolie,po,36.11,56.37,97.7
+europe_lau,Podůlšany,podulsany,po,58.33,67.91,41.11
+europe_lau,Podhorní Újezd a Vojice,podhorni_ujezd_a_vojice,po,48.61,59.5,23.03
+europe_lau,Podhradí,podhradi,po,35.29,57.25,-1.09
+europe_lau,Podůlší,podulsi,po,66.82,70.93,74.8
+europe_lau,Pohleď,pohled,po,54.83,78.75,65.56
+europe_lau,Podolínec,podolinec,po,26.85,47.46,98.77
+europe_lau,Podbrezová,podbrezova,po,33.94,42.06,86.24
+europe_lau,Podkonice,podkonice,po,40.37,52.27,86.23
+europe_lau,Pohorelá,pohorela,po,39.18,60.84,83.08
+europe_lau,Pohronská Polhora,pohronska_polhora,po,47.99,59.37,71.4
+europe_lau,Pohronský Bukovec,pohronsky_bukovec,po,21.32,55.24,78.28
+europe_lau,Polomka,polomka,po,37.77,56.75,81.96
+europe_lau,Poniky,poniky,po,31.69,58.15,-17.29
+europe_lau,Povrazník,povraznik,po,27.37,55.41,70.29
+europe_lau,Povoda,povoda,po,49.51,57.24,29.1
+europe_lau,Podhájska,podhajska,po,54.29,64.71,45.42
+europe_lau,Pozba,pozba,po,43.78,59.8,88.62
+europe_lau,Pocola,pocola,po,50.85,59.11,40.17
+europe_lau,Pomezeu,pomezeu,po,53.4,69.77,50.3
+europe_lau,Popeşti,popesti,po,46.25,59.34,50.9
+europe_lau,Police nad Metují,police_nad_metuji,po,33.01,58.41,89.69
+europe_lau,Podvysoká,podvysoka,po,42.92,71.77,29.99
+europe_lau,Povina,povina,po,39.53,73.21,-19.8
+europe_lau,Poieni,poieni,po,33.44,54.54,36
+europe_lau,Polevsko,polevsko,po,32.15,51.34,20.1
+europe_lau,Poříčí u Litomyšle,porici_u_litomysle,po,47.29,59.17,87.58
+europe_lau,Pochabany,pochabany,po,25.09,70.46,36.89
+europe_lau,Porúbka (okres Žilina),porubka_okres_zilina,po,39.04,69.19,17.91
+europe_lau,Počarová,pocarova,po,39.28,66.96,-51.91
+europe_lau,Považská Bystrica,povazska_bystrica,po,50.78,61.43,74.21
+europe_lau,Poiana,poiana,po,54.88,69.87,82.51
+europe_lau,Podhorie (okres Žilina),podhorie_okres_zilina,po,51.54,70.56,17.86
+europe_lau,Podhoroď,podhorod,po,57.15,63.69,47.27
+europe_lau,Porostov,porostov,po,43.21,69.89,-20.76
+europe_lau,Poruba pod Vihorlatom,poruba_pod_vihorlatom,po,25.16,64.4,85.08
+europe_lau,Podskalie,podskalie,po,64.59,71.77,35.24
+europe_lau,Potônske Lúky,potonske_luky,po,34.47,67.31,8.25
+europe_lau,Potôčky,potocky,po,63.42,76.02,69.2
+europe_lau,Potoky,potoky,po,49.49,73.87,99.38
+europe_lau,Podbiel,podbiel,po,24.78,63.39,35.93
+europe_lau,Pokryváč,pokryvac,po,58.76,75.98,41.28
+europe_lau,Podlehnik,podlehnik,po,69.06,74.75,71.32
+europe_lau,Polzela,polzela,po,38.5,62.53,97.29
+europe_lau,Poljčane,poljcane,po,46.91,62.57,21.74
+europe_lau,Poboru,poboru,po,56.37,63.29,73.98
+europe_lau,Poiana Vadului,poiana_vadului,po,43.53,64.95,-24.03
+europe_lau,Poarta Albă,poarta_alba,po,45.34,60.66,-0.83
+europe_lau,Polovragi,polovragi,po,16.97,51.29,71.32
+europe_lau,Pomârla,pomarla,po,30.54,43.29,35.54
+europe_lau,Požarevac,pozarevac,po,35.58,48.49,73.25
+europe_lau,Požega,pozega,po,29.64,50.06,91.72
+europe_lau,Porúbka (okres Sobrance),porubka_okres_sobrance,po,23.01,62.87,-34.57
+europe_lau,Pozdišovce,pozdisovce,po,48.18,68.54,86.76
+europe_lau,Pontével,pontevel,po,58.14,74.6,62.29
+europe_lau,Pombalinho,pombalinho,po,62.37,69.16,63.51
+europe_lau,Poštovice,postovice,po,31.63,70.34,82.85
+europe_lau,Polvoreira,polvoreira,po,50.25,69.2,-0.42
+europe_lau,Ponte,ponte,po,48.62,69.72,91.99
+europe_lau,Ponor,ponor,po,49.96,61.97,37.87
+europe_lau,Podhradie (okres Prievidza),podhradie_okres_prievidza,po,36.89,52.46,86.95
+europe_lau,Poluvsie,poluvsie,po,66.27,85.43,75.68
+europe_lau,Poruba,poruba,po,34.66,70.13,48.2
+europe_lau,Podzámčok,podzamcok,po,47.92,59.11,71.49
+europe_lau,Poprad,poprad,po,46.44,53.87,49.44
+europe_lau,Podhorany (okres Kežmarok),podhorany_okres_kezmarok,po,48.84,69.07,68.23
+europe_lau,Podbranč,podbranc,po,46.11,59.3,60.49
+europe_lau,Polianka,polianka,po,40.99,59.4,59.69
+europe_lau,Popudinské Močidľany,popudinske_mocidlany,po,61.54,78.94,60.12
+europe_lau,Poriadie,poriadie,po,44.52,63.46,78.6
+europe_lau,Póvoa de Lanhoso (Nossa Senhora do Amparo),povoa_de_lanhoso_nossa_senhora_do_amparo,po,42.92,63.29,95.49
+europe_lau,Polště,polste,po,57.25,65.73,73.91
+europe_lau,Pombal,pombal,po,55.89,66.89,37.53
+europe_lau,Podhořany u Ronova,podhorany_u_ronova,po,62.83,68.76,32.65
+europe_lau,Pokřikov,pokrikov,po,37.53,69.81,-70.36
+europe_lau,Poľany,polany,po,40.74,68.58,94.47
+europe_lau,Podtureň,podturen,po,45.58,58.62,84.17
+europe_lau,Podolí,podoli,po,29.68,40.73,28.2
+europe_lau,Podhorany (okres Nitra),podhorany_okres_nitra,po,65.42,68.78,68.4
+europe_lau,Pohranice,pohranice,po,57.58,68.77,65.12
+europe_lau,Poľný Kesov,polny_kesov,po,47.49,82.87,41.83
+europe_lau,Podhradie (okres Topoľčany),podhradie_okres_topolcany,po,41.69,66.01,75.21
+europe_lau,Podlužany (okres Bánovce nad Bebravou),podluzany_okres_banovce_nad_bebravou,po,32.38,68.06,97.49
+europe_lau,Poiana Mărului,poiana_marului,po,57.72,62.71,56.94
+europe_lau,Porto de Mós - São João Baptista e São Pedro,porto_de_mos_sao_joao_baptista_e_sao_pedro,po,63.71,69.84,78.54
+europe_lau,Poiana Câmpina,poiana_campina,po,30.49,62.32,70.58
+europe_lau,Potok (okres Ružomberok),potok_okres_ruzomberok,po,37.98,65.06,90.65
+europe_lau,Poşaga,posaga,po,31.93,57.32,-32.32
+europe_lau,Poian,poian,po,19.7,30.82,99.75
+europe_lau,Povrly,povrly,po,46.86,72.15,38.26
+europe_lau,Poienile Izei,poienile_izei,po,30.04,54.72,-59.21
+europe_lau,Poienarii de Muscel,poienarii_de_muscel,po,51.98,60.76,56.73
+europe_lau,Poiana  Ilvei,poiana_ilvei,po,63.87,67.14,49.53
+europe_lau,Porumbeşti,porumbesti,po,41.24,65.3,87.74
+europe_lau,Poiana Lacului,poiana_lacului,po,66.33,66.69,68.64
+europe_lau,Popeşti,popesti,po,49.21,73.23,22.76
+europe_lau,Polerady,polerady,po,61.35,73.67,62.59
+europe_lau,Podenii Noi,podenii_noi,po,39.99,63.97,76.48
+europe_lau,Poienarii Burchii,poienarii_burchii,po,40.6,58.97,-21.56
+europe_lau,Poseşti,posesti,po,33.09,52.02,24.53
+europe_lau,Póvoa da Isenta,povoa_da_isenta,po,44.29,69.49,-16.77
+europe_lau,Poiana,poiana,po,55.36,70.61,85.98
+europe_lau,Polina,polina,po,47.72,66.34,33.64
+europe_lau,Poproč (okres Rimavská Sobota),poproc_okres_rimavska_sobota,po,26.19,54.38,96.19
+europe_lau,Potok (okres Rimavská Sobota),potok_okres_rimavska_sobota,po,75.94,73.45,50.79
+europe_lau,Porumbeni,porumbeni,po,46.46,68.79,83.28
+europe_lau,Poliakovce,poliakovce,po,63.58,77.3,65.7
+europe_lau,Porúbka (okres Bardejov),porubka_okres_bardejov,po,49.34,67.68,80.5
+europe_lau,Polling im Innkreis,polling_im_innkreis,po,44.93,61.39,31.19
+europe_lau,Pousada de Saramagos,pousada_de_saramagos,po,51.68,79.37,47.5
+europe_lau,Ponte,ponte,po,53.25,72.54,80.13
+europe_lau,Poša,posa,po,40.52,71.67,-32.01
+europe_lau,Podkriváň,podkrivan,po,20.7,53.12,25.68
+europe_lau,Podrečany,podrecany,po,50.31,76.75,6.21
+europe_lau,Polichno,polichno,po,38.79,52.7,41.68
+europe_lau,Poltár,poltar,po,50.63,58.55,79.82
+europe_lau,Pobedim,pobedim,po,42.09,65.33,70.91
+europe_lau,Podkylava,podkylava,po,42.39,60.51,27.5
+europe_lau,Podolie,podolie,po,44.5,68.01,19.74
+europe_lau,Potvorice,potvorice,po,31.1,93.22,-122.49
+europe_lau,Považany,povazany,po,69.63,73.43,50.62
+europe_lau,Porto Salvo,porto_salvo,po,34.24,47.75,88.97
+europe_lau,Podhradie (okres Martin),podhradie_okres_martin,po,29.71,58.36,73.38
+europe_lau,Potlogi,potlogi,po,59.26,64.83,61.93
+europe_lau,Podari,podari,po,41.91,55.65,30.01
+europe_lau,Podu Turcului,podu_turcului,po,41.1,58.18,2.02
+europe_lau,Poduri,poduri,po,65.14,71.92,47.67
+europe_lau,Pomi,pomi,po,46.26,54.41,69.9
+europe_lau,Počaply,pocaply,po,59.15,74.62,57.44
+europe_lau,Pôtor,potor,po,43.03,52.03,12.33
+europe_lau,Porúbka (okres Humenné),porubka_okres_humenne,po,52.05,76.07,89.99
+europe_lau,Podhorany (okres Prešov),podhorany_okres_presov,po,26.43,54.47,83.1
+europe_lau,Podhradík,podhradik,po,39.37,69.8,-20.07
+europe_lau,Poloma,poloma,po,40.9,67.12,-27.22
+europe_lau,Porto Covo,porto_covo,po,48.42,74.25,83.24
+europe_lau,Pohled,pohled,po,63.85,70.42,46.34
+europe_lau,Poľanovce,polanovce,po,65.18,71.7,46.82
+europe_lau,Pongrácovce,pongracovce,po,27.34,52.78,86.74
+europe_lau,Poráč,porac,po,54.41,59.55,66.86
+europe_lau,Podgoria,podgoria,po,24.15,44.55,87.42
+europe_lau,Poşta Câlnău,posta_calnau,po,50.52,63.14,31.78
+europe_lau,Potworów,potworow,po,50.09,73.23,91.05
+europe_lau,Policzna,policzna,po,51.35,61.73,34.77
+europe_lau,Poiana Mare,poiana_mare,po,41.35,58.13,89.07
+europe_lau,Podlužany (okres Levice),podluzany_okres_levice,po,52.92,73.8,12.44
+europe_lau,Pohronský Ruskov,pohronsky_ruskov,po,37.18,64.56,-44.61
+europe_lau,Pojejena,pojejena,po,36.79,62.28,-41.49
+europe_lau,Podhorie (okres Banská Štiavnica),podhorie_okres_banska_stiavnica,po,48.41,60.74,20.2
+europe_lau,Počúvadlo,pocuvadlo,po,37.94,58.42,91.34
+europe_lau,Popeşti,popesti,po,50.57,73.69,86.39
+europe_lau,Popricani,popricani,po,38.54,54.59,88.23
+europe_lau,Podčetrtek,podcetrtek,po,31.59,47.17,99.02
+europe_lau,Podvelka,podvelka,po,45.86,55.09,72.63
+europe_lau,Postojna,postojna,po,63.47,69.87,44.22
+europe_lau,Poiana Cristei,poiana_cristei,po,35.58,61.59,51.28
+europe_lau,Popeşti,popesti,po,28.52,50.43,-63.12
+europe_lau,Połaniec,polaniec,po,47.28,60.37,29.2
+europe_lau,Poienarii de Argeş,poienarii_de_arges,po,41.02,74.69,3.61
+europe_lau,Póvoa de Penela,povoa_de_penela,po,38.98,68.5,90.7
+europe_lau,Poiares (Santo André),poiares_santo_andre,po,36.36,44.94,64.35
+europe_lau,Pousaflores,pousaflores,po,33.36,65.42,-40.49
+europe_lau,Pó,po,po,27.34,45.25,36.36
+europe_lau,Podedwórze,podedworze,po,74.36,73.38,48.9
+europe_lau,Poręba,poreba,po,66.24,70.41,46.16
+europe_lau,Poiana Stampei,poiana_stampei,po,34.44,58.17,92.72
+europe_lau,Pojorâta,pojorata,po,62.05,69.17,61.85
+europe_lau,Portel,portel,po,37.18,57.15,14.96
+europe_lau,Porsanger - Porsáŋgu - Porsanki,porsanger_porsangu_porsanki,po,43.32,57.76,82.43
+europe_lau,Pompu,pompu,po,53.85,65.84,74.9
+europe_lau,Poienile de Sub Munte,poienile_de_sub_munte,po,57.36,70.22,59.06
+europe_lau,Potok Górny,potok_gorny,po,48.81,64.76,40.62
+europe_lau,Povolide,povolide,po,43.94,56.26,58.32
+europe_lau,Ponta do Pargo,ponta_do_pargo,po,46.08,65.78,6.42
+europe_lau,Porto da Cruz,porto_da_cruz,po,22.84,41.83,29.21
+europe_lau,Ponta do Sol,ponta_do_sol,po,34.01,73.45,95.46
+europe_lau,Porto Moniz,porto_moniz,po,46.41,57.21,84.86
+europe_lau,Ponta Delgada,ponta_delgada,po,41.54,52.53,88.96
+europe_lau,Poieni-Solca,poieni_solca,po,40.89,59.62,-11.74
+europe_lau,Poroschia,poroschia,po,29.93,61.1,9.46
+europe_lau,Porches,porches,po,40.08,80.25,94.53
+europe_lau,Portimão,portimao,po,37.13,55.01,99.08
+europe_lau,Podegrodzie,podegrodzie,po,44.5,52.77,37.03
+europe_lau,Portopalo di Capo Passero,portopalo_di_capo_passero,po,40.54,59.44,22.75
+europe_lau,Pollone,pollone,po,29.92,60.35,63.16
+europe_lau,Ponderano,ponderano,po,49.41,63.88,81.92
+europe_lau,Portula,portula,po,18.56,54.79,51.91
+europe_lau,Podlesí,podlesi,po,48.75,64.89,74.71
+europe_lau,Podeni,podeni,po,46.09,57.63,68.51
+europe_lau,Ponoarele,ponoarele,po,34.86,62.92,49.93
+europe_lau,Poroina Mare,poroina_mare,po,32.36,55.52,-41.27
+europe_lau,Podsedice,podsedice,po,36.33,55.93,77.83
+europe_lau,Podbořanský Rohozec,podboransky_rohozec,po,49,57.81,26.32
+europe_lau,Podbořany,podborany,po,40.68,60.6,72.41
+europe_lau,Pölla,polla,po,27.86,47.65,-41.31
+europe_lau,Postoloprty,postoloprty,po,56.42,60.42,36.48
+europe_lau,Popeşti,popesti,po,47.17,66.01,55.44
+europe_lau,Porto Santo,porto_santo,po,39.55,63.98,49.66
+europe_lau,Ponta Delgada (São Sebastião),ponta_delgada_sao_sebastiao,po,30.15,75.37,81.74
+europe_lau,Ponta Delgada (São José),ponta_delgada_sao_jose,po,42.51,94.07,88.61
+europe_lau,Ponta Delgada (São Pedro),ponta_delgada_sao_pedro,po,46.81,62.47,92.08
+europe_lau,Povoação,povoacao,po,38.63,57.53,74.41
+europe_lau,Porto Formoso,porto_formoso,po,39.86,56.74,91.39
+europe_lau,Ponta Garça,ponta_garca,po,48.43,65.19,69.4
+europe_lau,Poeni,poeni,po,39.8,55.94,78.4
+europe_lau,Póvoa de São Miguel,povoa_de_sao_miguel,po,58.95,63.65,62.81
+europe_lau,Poświętne,poswietne,po,46.82,61.86,63.84
+europe_lau,Polepy,polepy,po,48.65,54.14,64.67
+europe_lau,Polanka Wielka,polanka_wielka,po,60.51,76.2,9
+europe_lau,Porto Torres,porto_torres,po,34.36,54.25,-20.86
+europe_lau,Pozzomaggiore,pozzomaggiore,po,40.71,59.1,86.83
+europe_lau,Potůčky,potucky,po,54.94,72.48,57.25
+europe_lau,Possacos,possacos,po,53.89,70.55,84.68
+europe_lau,Pogăceaua,pogaceaua,po,38.29,59.68,51.19
+europe_lau,Pombeiro de Ribavizela,pombeiro_de_ribavizela,po,63.62,85.63,46.91
+europe_lau,Ponte do Rol,ponte_do_rol,po,45.87,58.24,86.11
+europe_lau,Porto Judeu,porto_judeu,po,19.21,58.93,46.21
+europe_lau,Posto Santo,posto_santo,po,37.56,59.83,83.22
+europe_lau,Porto Martins,porto_martins,po,44.04,61.17,48.32
+europe_lau,Poddębice,poddebice,po,54.87,68.01,22.8
+europe_lau,Ponta Delgada,ponta_delgada,po,45.04,58.34,10.69
+europe_lau,Poděvousy,podevousy,po,45.22,59.97,83.15
+europe_lau,Pousa,pousa,po,62.98,78.54,57.62
+europe_lau,Poço do Canto,poco_do_canto,po,50.26,62.25,54.93
+europe_lau,Poronin,poronin,po,38.07,45.89,55.6
+europe_lau,Porąbka,porabka,po,46.18,63.81,60.52
+europe_lau,Posada,posada,po,52.95,75.03,80.91
+europe_lau,Poiana Blenchii,poiana_blenchii,po,40.59,49.42,42.9
+europe_lau,Poplaca,poplaca,po,40.78,57.24,57.59
+europe_lau,Podame,podame,po,39.03,66.28,66.25
+europe_lau,Portela,portela,po,60.53,79.01,80.05
+europe_lau,Pomares,pomares,po,45.83,60.64,61.56
+europe_lau,Pombeiro da Beira,pombeiro_da_beira,po,47.53,55.75,29.9
+europe_lau,Podoleni,podoleni,po,52.18,65.25,73.77
+europe_lau,Poienari,poienari,po,50.44,63.97,58.31
+europe_lau,Poiana Teiului,poiana_teiului,po,40.09,55.16,14.88
+europe_lau,Polcenigo,polcenigo,po,46.64,76.28,55.64
+europe_lau,Porcia,porcia,po,43.72,62.35,79.44
+europe_lau,Pordenone,pordenone,po,38.42,53.62,94.47
+europe_lau,Poieneşti,poienesti,po,26.86,57.07,87.81
+europe_lau,Pogana,pogana,po,37,47.42,78.93
+europe_lau,Pogoneşti,pogonesti,po,49.63,60.56,54.6
+europe_lau,Pochidia,pochidia,po,62.62,65.78,62.49
+europe_lau,Počedělice,pocedelice,po,48.66,55.22,35.91
+europe_lau,Poczesna,poczesna,po,45.06,67.47,-9.22
+europe_lau,Popów,popow,po,43.32,56.81,38.57
+europe_lau,Poraj,poraj,po,47.14,54.57,66.86
+europe_lau,Poiana Sibiului,poiana_sibiului,po,61.86,62.63,45.3
+europe_lau,Porumbacu de Jos,porumbacu_de_jos,po,34.35,64.64,93.16
+europe_lau,Póvoa do Concelho,povoa_do_concelho,po,49.47,79.33,-9.6
+europe_lau,Poggio Sannita,poggio_sannita,po,62.36,72.65,54.33
+europe_lau,Pozzilli,pozzilli,po,38.34,59.13,-0.18
+europe_lau,Poiares,poiares,po,26.38,51.36,80.46
+europe_lau,Pombal,pombal,po,49.22,59.34,66.46
+europe_lau,Poiares,poiares,po,48.57,61.43,17.93
+europe_lau,Póvoa,povoa,po,55.5,74.1,55.53
+europe_lau,Ponědrážka,ponedrazka,po,65.3,79.34,36.87
+europe_lau,Ponědraž,ponedraz,po,44.04,63.48,42.55
+europe_lau,Portela do Fojo-Machio,portela_do_fojo_machio,po,28.09,55.18,23.68
+europe_lau,Podentes,podentes,po,32.6,64.48,-39.28
+europe_lau,Póvoa de Midões,povoa_de_midoes,po,49.38,80.97,32.01
+europe_lau,Postua,postua,po,21.53,62.58,74.92
+europe_lau,Porto da Carne,porto_da_carne,po,49.49,77.01,-5.46
+europe_lau,Πολιτικό,politiko,po,30.9,64.67,97.71
+europe_lau,Ποταμιού,potamiou,po,49.92,61.61,75.42
+europe_lau,Πόλις,polis,po,37.84,59.6,39.24
+europe_lau,Poggio-Mezzana,poggio_mezzana,po,50.05,71.27,22.95
+europe_lau,Pojana Maggiore,pojana_maggiore,po,41.87,59.96,49.41
+europe_lau,Polla,polla,po,43.57,66.76,-16.03
+europe_lau,Poirino,poirino,po,48.28,68,91.32

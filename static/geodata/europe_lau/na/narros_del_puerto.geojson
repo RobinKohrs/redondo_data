@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "narros_del_puerto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Narros del Puerto", "metric_roundness": 51.0, "metric_rectangularity": 70.35, "metric_mobile_fit": 83.63, "metric_aspect_ratio": 0.726, "metric_area_km2": 17.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.0174311, 40.5334214 ], [ -5.003073, 40.527137499999988 ], [ -5.0009525, 40.525654 ], [ -4.9947725, 40.5170935 ], [ -4.9886145, 40.5136675 ], [ -4.9808379, 40.520548 ], [ -4.9813195, 40.5327493 ], [ -4.9764485, 40.539478499999987 ], [ -4.9801474, 40.551093 ], [ -5.0049645, 40.556560499999989 ], [ -5.0174311, 40.5334214 ] ] ] } }
+]
+}

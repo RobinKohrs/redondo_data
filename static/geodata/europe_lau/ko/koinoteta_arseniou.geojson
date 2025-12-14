@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_arseniou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αρσενίου", "metric_roundness": 61.35, "metric_rectangularity": 74.81, "metric_mobile_fit": 19.14, "metric_aspect_ratio": 1.371, "metric_area_km2": 23.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1759548, 40.7301568 ], [ 22.1535829, 40.7188787 ], [ 22.146807, 40.7063585 ], [ 22.1575245, 40.7002615 ], [ 22.1712854, 40.6976484 ], [ 22.1950821, 40.6983502 ], [ 22.2056095, 40.7013475 ], [ 22.197982, 40.7121033 ], [ 22.205513, 40.721806 ], [ 22.2003588, 40.7272551 ], [ 22.191368, 40.7296465 ], [ 22.1759548, 40.7301568 ] ] ] } }
+]
+}

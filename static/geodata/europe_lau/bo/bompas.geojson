@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bompas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bompas", "metric_roundness": 56.39, "metric_rectangularity": 70.36, "metric_mobile_fit": 40.12, "metric_aspect_ratio": 1.161, "metric_area_km2": 5.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6094729, 42.8672877 ], [ 1.604009, 42.861994 ], [ 1.6078425, 42.8581485 ], [ 1.610954, 42.859248499999985 ], [ 1.615026, 42.85685 ], [ 1.6193065, 42.8561965 ], [ 1.622224, 42.853333 ], [ 1.62843, 42.855988 ], [ 1.630453, 42.860277 ], [ 1.6279965, 42.861383 ], [ 1.633598, 42.868669499999989 ], [ 1.6228695, 42.8711675 ], [ 1.621199, 42.8720095 ], [ 1.6193235, 42.87056 ], [ 1.6094729, 42.8672877 ] ] ] } }
+]
+}

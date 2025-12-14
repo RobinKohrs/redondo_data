@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_carles_de_la_rapita",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant Carles de la Ràpita", "metric_roundness": 28.87, "metric_rectangularity": 49.63, "metric_mobile_fit": -42.51, "metric_aspect_ratio": 1.988, "metric_area_km2": 46.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5356937, 40.640591799999989 ], [ 0.5440695, 40.6322075 ], [ 0.571022, 40.622939 ], [ 0.5738931, 40.6179271 ], [ 0.5709364, 40.6148788 ], [ 0.58042, 40.6038705 ], [ 0.6036212, 40.621992 ], [ 0.6285663, 40.621902399999989 ], [ 0.663276, 40.626529499999982 ], [ 0.6559989, 40.6353038 ], [ 0.6275169, 40.652587 ], [ 0.6020885, 40.642105 ], [ 0.5761031, 40.648341599999988 ], [ 0.5613773, 40.6434867 ], [ 0.539044, 40.647375 ], [ 0.5356937, 40.640591799999989 ] ] ] } }
+]
+}

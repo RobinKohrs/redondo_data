@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rognitz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rögnitz", "metric_roundness": 46.92, "metric_rectangularity": 68.09, "metric_mobile_fit": 54.59, "metric_aspect_ratio": 1.017, "metric_area_km2": 32.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.0590612, 53.61997969999998 ], [ 11.0338605, 53.6225196 ], [ 11.0368307, 53.6304686 ], [ 11.0183167, 53.6351222 ], [ 11.000517, 53.6339125 ], [ 11.0026117, 53.6261625 ], [ 11.0125806, 53.6195265 ], [ 11.0087549, 53.6059117 ], [ 11.013446, 53.602591 ], [ 11.0353614, 53.5970965 ], [ 11.0604596, 53.599039799999979 ], [ 11.0656875, 53.604786 ], [ 11.0590612, 53.61997969999998 ] ] ] } }
+]
+}

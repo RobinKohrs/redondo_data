@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eulenberg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eulenberg", "metric_roundness": 41.26, "metric_rectangularity": 66.27, "metric_mobile_fit": 78.14, "metric_aspect_ratio": 0.781, "metric_area_km2": 2.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4669034, 50.6065863 ], [ 7.470989, 50.5964075 ], [ 7.4848155, 50.597445 ], [ 7.472171, 50.610496 ], [ 7.4707115, 50.610962 ], [ 7.4669034, 50.6065863 ] ] ] } }
+]
+}

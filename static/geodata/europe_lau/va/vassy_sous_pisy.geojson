@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vassy_sous_pisy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vassy-sous-Pisy", "metric_roundness": 36.74, "metric_rectangularity": 59.07, "metric_mobile_fit": 96.98, "metric_aspect_ratio": 0.532, "metric_area_km2": 16.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1688184, 47.5850457 ], [ 4.1613604, 47.5926609 ], [ 4.1541845, 47.5950305 ], [ 4.1560588, 47.591362199999985 ], [ 4.1544739, 47.569549599999988 ], [ 4.1573142, 47.562589399999986 ], [ 4.1664605, 47.557472199999978 ], [ 4.1641745, 47.553567 ], [ 4.1730918, 47.551442 ], [ 4.187157, 47.570477499999988 ], [ 4.1885733, 47.5761283 ], [ 4.186137, 47.58129 ], [ 4.1688184, 47.5850457 ] ] ] } }
+]
+}

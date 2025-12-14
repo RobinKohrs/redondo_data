@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cordey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cordey", "metric_roundness": 67.26, "metric_rectangularity": 84.43, "metric_mobile_fit": 53.2, "metric_aspect_ratio": 1.03, "metric_area_km2": 10.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2276265, 48.8432615 ], [ -0.2132726, 48.8408307 ], [ -0.20468, 48.846523 ], [ -0.204883, 48.849262 ], [ -0.203994, 48.853102 ], [ -0.2077455, 48.854550499999988 ], [ -0.2180295, 48.860841 ], [ -0.222338, 48.862547 ], [ -0.2250585, 48.862444 ], [ -0.229777, 48.865255 ], [ -0.2354675, 48.860448 ], [ -0.2382225, 48.857196 ], [ -0.2422445, 48.8492765 ], [ -0.2276265, 48.8432615 ] ] ] } }
+]
+}

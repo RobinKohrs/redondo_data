@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mikusovce_okres_ilava",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mikušovce (okres Ilava)", "metric_roundness": 47.87, "metric_rectangularity": 61.72, "metric_mobile_fit": 55.03, "metric_aspect_ratio": 1.012, "metric_area_km2": 19.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.1696362, 49.0675102 ], [ 18.172463, 49.06432419999998 ], [ 18.1887155, 49.059487 ], [ 18.2015046, 49.052058 ], [ 18.2291035, 49.057099 ], [ 18.2201384, 49.06137 ], [ 18.214499, 49.074661 ], [ 18.1979115, 49.090545 ], [ 18.1943317, 49.080282699999984 ], [ 18.1839488, 49.07938009999998 ], [ 18.1759085, 49.070521199999988 ], [ 18.170844, 49.071453499999976 ], [ 18.1696362, 49.0675102 ] ] ] } }
+]
+}

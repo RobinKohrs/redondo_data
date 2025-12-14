@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vosendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vösendorf", "metric_roundness": 64.81, "metric_rectangularity": 83.23, "metric_mobile_fit": 57.67, "metric_aspect_ratio": 0.986, "metric_area_km2": 23.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.3112837, 48.1101422 ], [ 16.3152465, 48.107737 ], [ 16.33176, 48.101106 ], [ 16.3355098, 48.107197699999979 ], [ 16.3506555, 48.1049645 ], [ 16.3649305, 48.128670499999984 ], [ 16.3261538, 48.137434099999986 ], [ 16.312129, 48.11975 ], [ 16.3112837, 48.1101422 ] ] ] } }
+]
+}

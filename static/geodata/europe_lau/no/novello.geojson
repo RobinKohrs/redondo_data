@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "novello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Novello", "metric_roundness": 64.59, "metric_rectangularity": 79.89, "metric_mobile_fit": 60.71, "metric_aspect_ratio": 0.955, "metric_area_km2": 22.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9114425, 44.567657 ], [ 7.9169272, 44.574750899999984 ], [ 7.9321395, 44.581649 ], [ 7.9354983, 44.585474 ], [ 7.9500272, 44.5900941 ], [ 7.946474, 44.599571 ], [ 7.9309404, 44.6083025 ], [ 7.919247, 44.608319 ], [ 7.8956773, 44.5951246 ], [ 7.8954798, 44.5872272 ], [ 7.9007995, 44.5741635 ], [ 7.9114425, 44.567657 ] ] ] } }
+]
+}

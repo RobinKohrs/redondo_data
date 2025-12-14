@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kotlasy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kotlasy", "metric_roundness": 36.95, "metric_rectangularity": 67.24, "metric_mobile_fit": -18.61, "metric_aspect_ratio": 1.749, "metric_area_km2": 9.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.926443, 49.4882356 ], [ 15.9209945, 49.484856499999985 ], [ 15.929197, 49.480473 ], [ 15.944764, 49.4813707 ], [ 15.9501425, 49.49028 ], [ 15.9699217, 49.4884747 ], [ 15.9725092, 49.4913282 ], [ 15.9712725, 49.495139 ], [ 15.9527525, 49.4996095 ], [ 15.923445, 49.491668499999989 ], [ 15.926443, 49.4882356 ] ] ] } }
+]
+}

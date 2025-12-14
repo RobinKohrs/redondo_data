@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_barypetrou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βαρύπετρου", "metric_roundness": 52.41, "metric_rectangularity": 62.45, "metric_mobile_fit": 56.99, "metric_aspect_ratio": 0.993, "metric_area_km2": 14.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.955467, 35.4509635 ], [ 23.9676435, 35.453647599999989 ], [ 23.980319, 35.4509775 ], [ 23.9742397, 35.4614818 ], [ 23.9726741, 35.47861589999998 ], [ 23.9686635, 35.487095 ], [ 23.949549, 35.4791985 ], [ 23.9424338, 35.4749601 ], [ 23.9414209, 35.4632149 ], [ 23.936282, 35.458946499999982 ], [ 23.955467, 35.4509635 ] ] ] } }
+]
+}

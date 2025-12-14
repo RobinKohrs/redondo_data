@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "labastide_paumes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Labastide-Paumès", "metric_roundness": 38.25, "metric_rectangularity": 58.52, "metric_mobile_fit": -25.08, "metric_aspect_ratio": 1.813, "metric_area_km2": 15.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.943873, 43.319994099999988 ], [ 0.9473925, 43.3288264 ], [ 0.966492, 43.3328915 ], [ 0.9727065, 43.3330605 ], [ 0.9567817, 43.3401967 ], [ 0.9417356, 43.3439707 ], [ 0.9321957, 43.3427971 ], [ 0.9272105, 43.345686 ], [ 0.9203954, 43.3443601 ], [ 0.9155215, 43.339331 ], [ 0.9160509, 43.3335432 ], [ 0.9083635, 43.331543 ], [ 0.9118023, 43.3247154 ], [ 0.9266146, 43.324020299999987 ], [ 0.929359, 43.319875 ], [ 0.943873, 43.319994099999988 ] ] ] } }
+]
+}

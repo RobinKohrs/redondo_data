@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_georges_haute_ville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Georges-Haute-Ville", "metric_roundness": 33.8, "metric_rectangularity": 60.73, "metric_mobile_fit": 97.33, "metric_aspect_ratio": 0.589, "metric_area_km2": 19.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1065969, 45.552100599999989 ], [ 4.1147751, 45.5613771 ], [ 4.1022555, 45.5688455 ], [ 4.0859855, 45.562801499999985 ], [ 4.0916864, 45.5603087 ], [ 4.0910099, 45.55538 ], [ 4.0794775, 45.5492511 ], [ 4.07038, 45.5390635 ], [ 4.0763319, 45.533620799999987 ], [ 4.0798465, 45.518444499999987 ], [ 4.084955, 45.51607 ], [ 4.0951231, 45.529015699999988 ], [ 4.1051165, 45.53411 ], [ 4.1065969, 45.552100599999989 ] ] ] } }
+]
+}

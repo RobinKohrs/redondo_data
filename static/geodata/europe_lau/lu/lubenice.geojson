@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lubenice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Luběnice", "metric_roundness": 70.2, "metric_rectangularity": 83.83, "metric_mobile_fit": 47.5, "metric_aspect_ratio": 1.087, "metric_area_km2": 6.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.1383045, 49.570635 ], [ 17.1387126, 49.577495199999987 ], [ 17.1339185, 49.58483 ], [ 17.1152782, 49.5814436 ], [ 17.111438, 49.574698 ], [ 17.1136091, 49.5706059 ], [ 17.121617, 49.568567 ], [ 17.1383045, 49.570635 ] ] ] } }
+]
+}

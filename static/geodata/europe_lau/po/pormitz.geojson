@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pormitz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pörmitz", "metric_roundness": 58.76, "metric_rectangularity": 74.52, "metric_mobile_fit": 65.51, "metric_aspect_ratio": 0.907, "metric_area_km2": 17.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.7931145, 50.6317515 ], [ 11.788309, 50.626793 ], [ 11.7869825, 50.604292 ], [ 11.7922535, 50.603666499999981 ], [ 11.7970873, 50.6087025 ], [ 11.8082478, 50.6060888 ], [ 11.8198828, 50.6125311 ], [ 11.8279241, 50.6190867 ], [ 11.8255025, 50.62729 ], [ 11.819065, 50.632295 ], [ 11.7931145, 50.6317515 ] ] ] } }
+]
+}

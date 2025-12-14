@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mons_en_baroeul",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mons-en-Barœul", "metric_roundness": 69.4, "metric_rectangularity": 75.39, "metric_mobile_fit": 56.6, "metric_aspect_ratio": 0.996, "metric_area_km2": 6.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0948509, 50.6439785 ], [ 3.0966513, 50.637289499999987 ], [ 3.1016708, 50.634825599999985 ], [ 3.1168155, 50.636459 ], [ 3.1234234, 50.6462778 ], [ 3.1226254, 50.648778 ], [ 3.119329, 50.6484965 ], [ 3.1158465, 50.647755499999988 ], [ 3.112793, 50.650649 ], [ 3.1105545, 50.649557 ], [ 3.109296, 50.653008499999984 ], [ 3.1068915, 50.6521055 ], [ 3.1031555, 50.652274499999983 ], [ 3.0948509, 50.6439785 ] ] ] } }
+]
+}

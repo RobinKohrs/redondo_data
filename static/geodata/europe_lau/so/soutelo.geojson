@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soutelo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soutelo", "metric_roundness": 63.04, "metric_rectangularity": 74.22, "metric_mobile_fit": 68.76, "metric_aspect_ratio": 0.875, "metric_area_km2": 7.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.433859, 41.604837 ], [ -8.4279185, 41.6122356 ], [ -8.426494, 41.622628499999983 ], [ -8.43486, 41.627423 ], [ -8.443759, 41.622474 ], [ -8.4545575, 41.6154195 ], [ -8.4468455, 41.6034435 ], [ -8.433859, 41.604837 ] ] ] } }
+]
+}

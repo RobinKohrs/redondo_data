@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aichkirchen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aichkirchen", "metric_roundness": 53.89, "metric_rectangularity": 78.08, "metric_mobile_fit": 12.0, "metric_aspect_ratio": 1.442, "metric_area_km2": 14.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.7660153, 48.126371 ], [ 13.754017, 48.118063 ], [ 13.7638975, 48.1093061 ], [ 13.7791344, 48.1078344 ], [ 13.787082, 48.103095 ], [ 13.7960125, 48.102712499999988 ], [ 13.806494, 48.1160925 ], [ 13.7868945, 48.124842199999989 ], [ 13.7728905, 48.127001 ], [ 13.7660153, 48.126371 ] ] ] } }
+]
+}

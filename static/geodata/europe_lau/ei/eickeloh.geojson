@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eickeloh",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eickeloh", "metric_roundness": 52.34, "metric_rectangularity": 76.63, "metric_mobile_fit": 15.64, "metric_aspect_ratio": 1.406, "metric_area_km2": 35.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6500003, 52.723882599999982 ], [ 9.6613985, 52.732928 ], [ 9.656071, 52.7381803 ], [ 9.648398, 52.745745 ], [ 9.6309742, 52.751523 ], [ 9.6198018, 52.743692799999984 ], [ 9.579344, 52.738747499999988 ], [ 9.5779984, 52.735487299999988 ], [ 9.5839054, 52.732307399999989 ], [ 9.594436, 52.7156075 ], [ 9.6500003, 52.723882599999982 ] ] ] } }
+]
+}

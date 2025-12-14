@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seignalens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Seignalens", "metric_roundness": 62.58, "metric_rectangularity": 81.13, "metric_mobile_fit": 63.33, "metric_aspect_ratio": 0.929, "metric_area_km2": 11.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9840347, 43.1001711 ], [ 1.9825215, 43.110086 ], [ 1.9807385, 43.111695499999989 ], [ 1.9728624, 43.1089035 ], [ 1.951491, 43.111305 ], [ 1.950631, 43.102389 ], [ 1.9544915, 43.093356 ], [ 1.955374, 43.0897655 ], [ 1.9550825, 43.087419499999989 ], [ 1.9557695, 43.085445499999985 ], [ 1.979949, 43.088179499999981 ], [ 1.9840347, 43.1001711 ] ] ] } }
+]
+}

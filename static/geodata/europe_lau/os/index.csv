@@ -1,0 +1,278 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Osiky,osiky,os,43.92,53.09,34.47
+europe_lau,Ostrov u Macochy,ostrov_u_macochy,os,65.37,75.65,76.18
+europe_lau,Ostřešany,ostresany,os,51.45,64.94,46.51
+europe_lau,Ostřetín,ostretin,os,57.65,62.96,69.62
+europe_lau,Osečnice,osecnice,os,37.98,59.12,95.26
+europe_lau,Ostřetice,ostretice,os,59.82,72.85,69.74
+europe_lau,Osík,osik,os,55.7,73.01,69.72
+europe_lau,Ostrožská Lhota,ostrozska_lhota,os,62.08,78.23,59.96
+europe_lau,Ostrožská Nová Ves,ostrozska_nova_ves,os,36.43,58.13,46.11
+europe_lau,Osvětimany,osvetimany,os,40.33,66.99,96.98
+europe_lau,Oslavany,oslavany,os,57.75,58.95,63.91
+europe_lau,Ostopovice,ostopovice,os,50.1,59.93,55.76
+europe_lau,Ostrovačice,ostrovacice,os,49.59,60.46,40.38
+europe_lau,Ostrovánky,ostrovanky,os,55.69,75.02,87.86
+europe_lau,Ostrov,ostrov,os,63.28,69.73,69.21
+europe_lau,Osíčko,osicko,os,42.11,61.29,87.93
+europe_lau,Ostašov,ostasov,os,65.65,83.79,48.85
+europe_lau,Oslavice,oslavice,os,51.65,62.53,29.53
+europe_lau,Osová Bítýška,osova_bityska,os,50.69,60.06,35.88
+europe_lau,Osové,osove,os,57.69,68.29,52.83
+europe_lau,Ostrov nad Oslavou,ostrov_nad_oslavou,os,38.72,59.63,18.9
+europe_lau,Osoblaha,osoblaha,os,38.03,63.7,34.06
+europe_lau,Ostrov,ostrov,os,34.64,54.13,97.54
+europe_lau,Osečany,osecany,os,67.09,73.6,41.19
+europe_lau,Ostravice,ostravice,os,56.17,62.76,47.94
+europe_lau,Osek,osek,os,64.86,78.75,42.69
+europe_lau,Ostrov,ostrov,os,61.72,69.67,72.22
+europe_lau,Oseček,osecek,os,50.56,67.22,61.62
+europe_lau,Osterrade,osterrade,os,28.7,67.84,-61.07
+europe_lau,Ostrohe,ostrohe,os,37.87,49.92,73.76
+europe_lau,Oslnovice,oslnovice,os,27.57,43.89,38.31
+europe_lau,Ostenfeld (Husum),ostenfeld_husum,os,44.85,61.53,14.32
+europe_lau,Osterhever,osterhever,os,42.95,73.51,-18.42
+europe_lau,Oster-Ohrstedt,oster_ohrstedt,os,41.2,68.81,-24.42
+europe_lau,Osdorf,osdorf,os,49.07,69.51,17.91
+europe_lau,Ostenfeld (Rendsburg),ostenfeld_rendsburg,os,61.39,75.79,10.28
+europe_lau,Osterby,osterby,os,55.4,66.33,61.07
+europe_lau,Osterrönfeld,osterronfeld,os,50.17,70.98,48.19
+europe_lau,Osterstedt,osterstedt,os,59.41,64.42,65.49
+europe_lau,Osterhorn,osterhorn,os,48.42,66.79,70.32
+europe_lau,"Osterode am Harz, Stadt",osterode_am_harz_stadt,os,32.4,49.8,-20.06
+europe_lau,Osterby,osterby,os,43.8,69.01,26.12
+europe_lau,Ostereistedt,ostereistedt,os,33.03,60.23,99.18
+europe_lau,"Osterheide, gemfr. Bezirk",osterheide_gemfr_bezirk,os,33.63,55.34,89.3
+europe_lau,Oststeinbek,oststeinbek,os,41.55,68.08,82.37
+europe_lau,Osloß,osloss,os,60.16,73.08,23.73
+europe_lau,"Osnabrück, Stadt",osnabruck_stadt,os,52.64,65.44,26.15
+europe_lau,Osteel,osteel,os,41.48,65.29,27.88
+europe_lau,Osten,osten,os,60.38,76.46,44.37
+europe_lau,Osterbruch,osterbruch,os,35.92,81.69,80.03
+europe_lau,"Osterholz-Scharmbeck, Stadt",osterholz_scharmbeck_stadt,os,50.68,60.45,32.74
+europe_lau,Ostbevern,ostbevern,os,62.12,69.15,40.61
+europe_lau,Ostercappeln,ostercappeln,os,38.57,54.69,86.17
+europe_lau,Osterwald,osterwald,os,37.69,60.28,93.8
+europe_lau,Osterspai,osterspai,os,14.98,46.71,-178.52
+europe_lau,Osburg,osburg,os,51.8,56.13,66.67
+europe_lau,"Osthofen, Stadt",osthofen_stadt,os,58.82,74.27,37.96
+europe_lau,Osann-Monzel,osann_monzel,os,48.09,64.92,16.5
+europe_lau,"Ostfildern, Stadt",ostfildern_stadt,os,50.12,71.03,21.64
+europe_lau,Ostelsheim,ostelsheim,os,59.59,71.53,31.13
+europe_lau,"Östringen, Stadt",ostringen_stadt,os,45.8,61.69,43.23
+europe_lau,"Osterburken, Stadt",osterburken_stadt,os,51.55,67.23,49.62
+europe_lau,Ostrach,ostrach,os,55.73,61.48,68.32
+europe_lau,"Osterhofen, St",osterhofen_st,os,37.09,55.83,82.63
+europe_lau,"Ostritz, Stadt",ostritz_stadt,os,29.05,57.85,91.16
+europe_lau,"Oschersleben (Bode), Stadt",oschersleben_bode_stadt,os,50.67,65.27,43.9
+europe_lau,"Osterfeld, Stadt",osterfeld_stadt,os,50.31,58.93,71.33
+europe_lau,"Osterwieck, Stadt",osterwieck_stadt,os,48.02,67.18,-5.28
+europe_lau,Osterberg,osterberg,os,54.22,64.78,62.95
+europe_lau,"Oschatz, Stadt",oschatz_stadt,os,57.19,65.41,58.42
+europe_lau,Osternienburger Land,osternienburger_land,os,40.02,45.18,23.24
+europe_lau,Osterzell,osterzell,os,48.81,70.03,72.5
+europe_lau,Ostramondra,ostramondra,os,43.54,67.92,84.44
+europe_lau,Osthausen-Wülfershausen,osthausen_wulfershausen,os,32.54,60.94,-44.43
+europe_lau,"Osterburg (Altmark), Hansestadt",osterburg_altmark_hansestadt,os,41.79,58.5,-7.19
+europe_lau,Osornillo,osornillo,os,51.62,80.75,36.35
+europe_lau,"Oso, El",oso_el,os,42.32,66.99,84.49
+europe_lau,Ossingen,ossingen,os,46.6,54.98,60.85
+europe_lau,Osa de la Vega,osa_de_la_vega,os,65.84,73.64,21.3
+europe_lau,Ossa de Montiel,ossa_de_montiel,os,60.17,70.15,70.81
+europe_lau,Ostermundigen,ostermundigen,os,59.57,74.97,80.72
+europe_lau,Osor,osor,os,49.38,58.87,64.67
+europe_lau,Ostrau,ostrau,os,43.95,70.18,-14.88
+europe_lau,Osing,osing,os,18.82,42.32,12.3
+europe_lau,Oßling,ossling,os,53.96,57.71,49.72
+europe_lau,"Ostheim v.d.Rhön, St",ostheim_v_d_rhon_st,os,31.18,41.76,6.42
+europe_lau,Osmery,osmery,os,56.49,67.76,32.55
+europe_lau,Osmoy,osmoy,os,53.04,70.88,33.08
+europe_lau,Osse,osse,os,64.17,75.42,63.35
+europe_lau,Osselle-Routelle,osselle_routelle,os,42.25,52.85,85.37
+europe_lau,Osmanville,osmanville,os,51.02,74.78,49.86
+europe_lau,Osso de Cinca,osso_de_cinca,os,43.35,71.95,31.57
+europe_lau,Osnes,osnes,os,47.92,66.48,18.73
+europe_lau,Os de Balaguer,os_de_balaguer,os,25.87,56.85,52.67
+europe_lau,Ossó de Sió,osso_de_sio,os,43.29,57.94,81.95
+europe_lau,Osorno la Mayor,osorno_la_mayor,os,40.76,61.44,82.19
+europe_lau,Osuna,osuna,os,61.67,69.35,76.79
+europe_lau,Osly-Courtil,osly_courtil,os,38.81,70.37,48.4
+europe_lau,Ostel,ostel,os,56.48,78.03,66.48
+europe_lau,Ossey-les-Trois-Maisons,ossey_les_trois_maisons,os,51.91,67.73,32.24
+europe_lau,Ossiach,ossiach,os,21.03,59.24,-9.05
+europe_lau,Oseja,oseja,os,55.35,79.82,45.59
+europe_lau,Osera de Ebro,osera_de_ebro,os,26.64,31.76,32.41
+europe_lau,Oseja de Sajambre,oseja_de_sajambre,os,65.38,72.84,60.23
+europe_lau,Osne-le-Val,osne_le_val,os,66.17,76.32,64.53
+europe_lau,Ostředek,ostredek,os,26.83,55.44,30.82
+europe_lau,Ossages,ossages,os,48.25,76.15,-4.04
+europe_lau,Osani,osani,os,37.29,52.79,21.58
+europe_lau,Oskava,oskava,os,49.31,64.99,86
+europe_lau,Oslon,oslon,os,31.01,60.29,3.18
+europe_lau,Osijek,osijek,os,33.21,51.53,14.73
+europe_lau,Osséja,osseja,os,26.86,38.14,76.96
+europe_lau,Osenbach,osenbach,os,54.64,76.47,78.93
+europe_lau,Ostheim,ostheim,os,39.24,51.64,85.74
+europe_lau,Ostrolovský Újezd,ostrolovsky_ujezd,os,48.87,61.06,20.87
+europe_lau,Oskořínek,oskorinek,os,44.82,67.88,19.17
+europe_lau,Ostrá,ostra,os,53.09,71.75,12.97
+europe_lau,Osmoy,osmoy,os,66.39,77.96,59.63
+europe_lau,Osmets,osmets,os,54.93,74.21,73.49
+europe_lau,Ossen,ossen,os,29.66,54.54,64.87
+europe_lau,Ossun,ossun,os,39.9,54.24,90.44
+europe_lau,Ossun-ez-Angles,ossun_ez_angles,os,39.1,75.54,91.23
+europe_lau,Osny,osny,os,58.09,70.57,45.65
+europe_lau,Osek,osek,os,52.53,64.91,36.44
+europe_lau,Osov,osov,os,47.73,67.94,84.98
+europe_lau,Osches,osches,os,64.12,66.74,67.69
+europe_lau,Ostricourt,ostricourt,os,61.39,66.62,52.99
+europe_lau,Oslavička,oslavicka,os,62.32,66.47,48.28
+europe_lau,Osmoy-Saint-Valery,osmoy_saint_valery,os,46.73,59.27,49.06
+europe_lau,Osthoffen,osthoffen,os,46.82,64.93,4.92
+europe_lau,Osthouse,osthouse,os,38.66,67.96,36.78
+europe_lau,Ostwald,ostwald,os,55.79,67.11,61.56
+europe_lau,Osek nad Bečvou,osek_nad_becvou,os,54.68,71.18,26.26
+europe_lau,Ostreville,ostreville,os,66.61,77.09,24.3
+europe_lau,Os-Marsillon,os_marsillon,os,32.7,54.32,3.97
+europe_lau,Ossas-Suhare,ossas_suhare,os,39.04,48.39,16.15
+europe_lau,Osse-en-Aspe,osse_en_aspe,os,41.35,52.93,15.22
+europe_lau,Ossenx,ossenx,os,44.32,75.21,82.03
+europe_lau,Osserain-Rivareyte,osserain_rivareyte,os,38.33,62.19,67.07
+europe_lau,Ossès,osses,os,44.48,73.84,83.47
+europe_lau,Ostabat-Asme,ostabat_asme,os,48.17,59.77,51.58
+europe_lau,Osieczna,osieczna,os,36.92,55.16,-16.65
+europe_lau,Osiek,osiek,os,31.46,45.59,-10.01
+europe_lau,Osterøy,osteroy,os,32.13,45.55,91
+europe_lau,Ostrów,ostrow,os,50.81,53.29,63.29
+europe_lau,Osen,osen,os,48.75,59.31,68.84
+europe_lau,Osio Sopra,osio_sopra,os,35.2,82.74,-71.34
+europe_lau,Osio Sotto,osio_sotto,os,50.72,68.36,7.65
+europe_lau,Ostróda,ostroda,os,55.53,68.8,56.4
+europe_lau,Ostróda,ostroda,os,60.43,68.63,62.82
+europe_lau,Ospitale di Cadore,ospitale_di_cadore,os,57.85,60.54,52.4
+europe_lau,Osoppo,osoppo,os,32.89,68.91,84.25
+europe_lau,Ostuni,ostuni,os,38.34,53.78,17.23
+europe_lau,Osina,osina,os,45.67,62.12,57.92
+europe_lau,Osek,osek,os,42.6,54.78,27.97
+europe_lau,Osiecznica,osiecznica,os,56.18,67.83,76.58
+europe_lau,Osielsko,osielsko,os,41.73,51.98,18.39
+europe_lau,Osiek,osiek,os,55.36,62.87,56.68
+europe_lau,Osvračín,osvracin,os,41.46,53.35,33.16
+europe_lau,Oslov,oslov,os,40.63,55.36,41.9
+europe_lau,Ospedaletto,ospedaletto,os,52.28,65.58,89
+europe_lau,Ossana,ossana,os,31,54.28,98.76
+europe_lau,Ospedaletto d'Alpinolo,ospedaletto_d_alpinolo,os,28.69,53.86,-27.16
+europe_lau,Ostellato,ostellato,os,33.67,67.06,-11.62
+europe_lau,Osięciny,osieciny,os,56.43,64.95,76.33
+europe_lau,Osieck,osieck,os,43.21,50.1,55.35
+europe_lau,Osiek Jasielski,osiek_jasielski,os,37.44,58.01,73.97
+europe_lau,Ostrowite,ostrowite,os,56.82,67.7,87.93
+europe_lau,Osek,osek,os,43.35,49.99,82.06
+europe_lau,Ospitaletto,ospitaletto,os,58.87,66.56,24.28
+europe_lau,Ossimo,ossimo,os,28.65,49.68,67.02
+europe_lau,Osieczna,osieczna,os,49.61,63.55,49.36
+europe_lau,Ospedaletto Lodigiano,ospedaletto_lodigiano,os,53.1,71.87,77.04
+europe_lau,Ossago Lodigiano,ossago_lodigiano,os,59.37,70.17,35.87
+europe_lau,Osie,osie,os,47.95,57.77,65.35
+europe_lau,Ospedaletto Euganeo,ospedaletto_euganeo,os,40.12,57.95,81.98
+europe_lau,Os,os,os,20.04,60.96,62.66
+europe_lau,Østre Toten,ostre_toten,os,57.32,66.63,78.7
+europe_lau,Ostaszewo,ostaszewo,os,30.25,57.97,31.68
+europe_lau,Ostrów Mazowiecka,ostrow_mazowiecka,os,44.43,60.21,59.38
+europe_lau,Ostrów Mazowiecka,ostrow_mazowiecka,os,33.94,44.69,35.39
+europe_lau,Ostrołęka,ostroleka,os,54.65,58.62,41.97
+europe_lau,Ossona,ossona,os,53.6,59.68,25.63
+europe_lau,Osimo,osimo,os,44.84,57.91,2.52
+europe_lau,Ostra,ostra,os,44.44,55.47,73.55
+europe_lau,Ostra Vetere,ostra_vetere,os,60.95,79.36,21.76
+europe_lau,Ostroróg,ostrorog,os,66.02,75.14,40.97
+europe_lau,Oszlár,oszlar,os,32.32,58.02,65.08
+europe_lau,Oszkó,oszko,os,61.98,63.3,49.9
+europe_lau,Oslip,oslip,os,26.5,53.83,83.05
+europe_lau,Osasco,osasco,os,44.82,58.74,34.9
+europe_lau,Osasio,osasio,os,47.14,60.71,73.87
+europe_lau,Ostana,ostana,os,46.5,64.08,79.51
+europe_lau,Ostoros,ostoros,os,25.12,56.27,98.52
+europe_lau,Ospedaletti,ospedaletti,os,39.31,56.35,56.05
+europe_lau,Ostffyasszonyfa,ostffyasszonyfa,os,66.6,69.65,44.1
+europe_lau,Ostrovec,ostrovec,os,41.79,58.87,39.54
+europe_lau,Ostiano,ostiano,os,43.53,57.69,68.66
+europe_lau,Ősi,osi,os,39.91,67.38,96.09
+europe_lau,Ostrov,ostrov,os,47.28,68.74,70.16
+europe_lau,Osiglia,osiglia,os,42.31,76.49,87.92
+europe_lau,Ősagárd,osagard,os,58.78,80.45,30.84
+europe_lau,Ostiglia,ostiglia,os,47.34,53.17,58.1
+europe_lau,Ošelín,oselin,os,52.47,61.31,76.54
+europe_lau,Osli,osli,os,62.47,66.54,57.23
+europe_lau,Osztopán,osztopan,os,49.82,74.88,55.91
+europe_lau,Öskü,osku,os,35.5,56.76,49.36
+europe_lau,Osek,osek,os,49.7,64.48,73.12
+europe_lau,Ostroměř,ostromer,os,41.49,51.13,86.33
+europe_lau,Ostružno,ostruzno,os,35.49,55.82,-9.88
+europe_lau,Osrblie,osrblie,os,44.74,60.53,83.69
+europe_lau,Oşorhei,osorhei,os,55.89,65.69,78.43
+europe_lau,Ostrov,ostrov,os,43.25,66.38,97.43
+europe_lau,Oščadnica,oscadnica,os,51.14,65.42,26.81
+europe_lau,Osek,osek,os,16.36,46.33,91.52
+europe_lau,Ostrov (okres Sobrance),ostrov_okres_sobrance,os,45.13,52.53,33.63
+europe_lau,Osádka,osadka,os,67.51,79.03,30.42
+europe_lau,Osuské,osuske,os,59.78,81.39,84.58
+europe_lau,Osica de Sus,osica_de_sus,os,43.23,56.7,57.06
+europe_lau,Osica de Jos,osica_de_jos,os,48.36,58.84,44.43
+europe_lau,Ostrov,ostrov,os,48.81,61.33,11.8
+europe_lau,Osečina,osecina,os,50.74,63.67,84.18
+europe_lau,Oslany,oslany,os,19.51,67.41,-11.05
+europe_lau,Ostrá Lúka,ostra_luka,os,48.83,65.72,47.21
+europe_lau,Ostermiething,ostermiething,os,21.02,43.19,38.49
+europe_lau,Osturňa,osturna,os,82.32,76.41,64.05
+europe_lau,Ostratice,ostratice,os,56.67,63.11,42.95
+europe_lau,Österåker,osteraker,os,25.07,60.4,11.21
+europe_lau,Östhammar,osthammar,os,64.73,72.98,46.35
+europe_lau,Osikov,osikov,os,39.31,57.03,10.1
+europe_lau,Osice,osice,os,54.4,66.98,92.04
+europe_lau,Osičky,osicky,os,48.42,63.38,84.86
+europe_lau,Oskarshamn,oskarshamn,os,49.57,53.84,69.12
+europe_lau,Östra Göinge,ostra_goinge,os,41.81,59.98,93.51
+europe_lau,Osby,osby,os,29.93,49.92,-27.65
+europe_lau,Osadné,osadne,os,45,56.22,38.56
+europe_lau,Ostrovany,ostrovany,os,47.9,77.1,4.69
+europe_lau,Östersund,ostersund,os,50.23,56.11,73.9
+europe_lau,Ostrov (okres Piešťany),ostrov_okres_piestany,os,45.22,67.07,49.34
+europe_lau,Ostroveni,ostroveni,os,54.13,77.86,58.55
+europe_lau,Ostrovec-Lhotka,ostrovec_lhotka,os,43.82,60.94,9.34
+europe_lau,Ostrý Grúň,ostry_grun,os,34.98,43.37,55.59
+europe_lau,Ostružná,ostruzna,os,34.75,53.22,65.29
+europe_lau,Osilnica,osilnica,os,30.82,45.65,79.43
+europe_lau,Osiek,osiek,os,49.14,64.65,60.78
+europe_lau,Ośno Lubuskie,osno_lubuskie,os,55.64,62.83,42.78
+europe_lau,Ostra,ostra,os,73.69,76.64,60.49
+europe_lau,Ostrov,ostrov,os,49.87,67.99,76.52
+europe_lau,Ostrata,ostrata,os,39.39,53.05,86.52
+europe_lau,Oss,oss,os,35.69,60.87,-57.45
+europe_lau,Ossela,ossela,os,44.51,66.12,95.74
+europe_lau,Oschiri,oschiri,os,51.38,57.66,64
+europe_lau,Osilo,osilo,os,52.2,55.99,77.2
+europe_lau,Ossi,ossi,os,27.64,63.82,83.88
+europe_lau,Oselce,oselce,os,49.99,59.9,64.98
+europe_lau,Ostrów Lubelski,ostrow_lubelski,os,53.75,63.4,81.7
+europe_lau,Ostrówek,ostrowek,os,43.55,63.89,60.21
+europe_lau,Oświęcim,oswiecim,os,31.73,61.72,-56.22
+europe_lau,Ostrów Wielkopolski,ostrow_wielkopolski,os,49.82,60.66,30.04
+europe_lau,Ostrów Wielkopolski,ostrow_wielkopolski,os,31.74,61.87,91.2
+europe_lau,Ostrzeszów,ostrzeszow,os,44.39,55.82,53.6
+europe_lau,Osiek Mały,osiek_maly,os,54.48,65.43,66.27
+europe_lau,Osiek,osiek,os,42.26,68.83,5.19
+europe_lau,Oświęcim,oswiecim,os,36.73,43.27,20.51
+europe_lau,Ostrava,ostrava,os,56.09,62.98,62.01
+europe_lau,Ostrov,ostrov,os,62.34,67.61,70.61
+europe_lau,Osnago,osnago,os,37.21,45.37,47.37
+europe_lau,Oslo,oslo,os,37.93,63.03,85.13
+europe_lau,Osjaków,osjakow,os,50.1,57.63,49.77
+europe_lau,Ostrówek,ostrowek,os,47.08,69.47,7.83
+europe_lau,Osidda,osidda,os,40.75,71.75,-53.74
+europe_lau,Osini,osini,os,33.77,50.03,-23.69
+europe_lau,Osečná,osecna,os,56.76,62.43,72.03
+europe_lau,Ostrowiec Świętokrzyski,ostrowiec_swietokrzyski,os,48.09,53.58,56.58
+europe_lau,Oşeşti,osesti,os,53.63,64.51,15.83
+europe_lau,Ostrov u Bezdružic,ostrov_u_bezdruzic,os,43.85,58.76,27.43
+europe_lau,Ostrhauderfehn,ostrhauderfehn,os,21.36,47.86,78.98

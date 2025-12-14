@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lachar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Láchar", "metric_roundness": 60.62, "metric_rectangularity": 78.09, "metric_mobile_fit": 78.36, "metric_aspect_ratio": 0.779, "metric_area_km2": 20.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.8288815, 37.207451 ], [ -3.8342145, 37.200821 ], [ -3.8458422, 37.1980396 ], [ -3.8570595, 37.2024182 ], [ -3.8648904, 37.200429 ], [ -3.865687, 37.1913198 ], [ -3.8601255, 37.1682855 ], [ -3.8498761, 37.1643491 ], [ -3.8269431, 37.17208 ], [ -3.8235452, 37.181282 ], [ -3.825746, 37.2043955 ], [ -3.8288815, 37.207451 ] ] ] } }
+]
+}

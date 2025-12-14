@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_bec_thomas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Bec-Thomas", "metric_roundness": 31.69, "metric_rectangularity": 45.14, "metric_mobile_fit": -5.19, "metric_aspect_ratio": 1.614, "metric_area_km2": 3.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9668683, 49.2403523 ], [ 0.9737153, 49.2369219 ], [ 0.976441, 49.2315663 ], [ 0.985482, 49.2334665 ], [ 0.987638, 49.2371 ], [ 0.9824516, 49.238999799999988 ], [ 0.9810675, 49.243796499999974 ], [ 0.9796075, 49.2440755 ], [ 0.957213, 49.241333 ], [ 0.956708, 49.240132 ], [ 0.9668683, 49.2403523 ] ] ] } }
+]
+}

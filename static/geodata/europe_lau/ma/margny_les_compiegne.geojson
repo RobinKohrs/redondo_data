@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "margny_les_compiegne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Margny-lès-Compiègne", "metric_roundness": 39.16, "metric_rectangularity": 66.48, "metric_mobile_fit": 28.75, "metric_aspect_ratio": 1.275, "metric_area_km2": 15.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.796375, 49.4426845 ], [ 2.790287, 49.4473795 ], [ 2.784099, 49.442417 ], [ 2.77901, 49.443378499999987 ], [ 2.774278, 49.4394885 ], [ 2.773438, 49.437785 ], [ 2.7926716, 49.431063 ], [ 2.8143895, 49.4154945 ], [ 2.8173303, 49.4219074 ], [ 2.8276307, 49.4223122 ], [ 2.835949, 49.4279925 ], [ 2.822608, 49.438575 ], [ 2.8152703, 49.4359611 ], [ 2.8050475, 49.4424545 ], [ 2.796375, 49.4426845 ] ] ] } }
+]
+}

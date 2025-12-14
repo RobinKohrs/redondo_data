@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fara_vicentino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fara Vicentino", "metric_roundness": 43.77, "metric_rectangularity": 52.89, "metric_mobile_fit": 86.81, "metric_aspect_ratio": 0.694, "metric_area_km2": 30.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.5614387, 45.72064 ], [ 11.563824, 45.7298764 ], [ 11.5687495, 45.7268233 ], [ 11.589637, 45.726954499999984 ], [ 11.5938728, 45.734726599999981 ], [ 11.587444, 45.747355499999983 ], [ 11.5710196, 45.753655899999984 ], [ 11.5493432, 45.750564299999979 ], [ 11.54843, 45.764146499999988 ], [ 11.543193, 45.7617936 ], [ 11.535393, 45.740515499999987 ], [ 11.53794, 45.720683 ], [ 11.544485, 45.7053685 ], [ 11.5614387, 45.72064 ] ] ] } }
+]
+}

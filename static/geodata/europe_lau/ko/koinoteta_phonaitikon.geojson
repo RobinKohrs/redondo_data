@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_phonaitikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Φοναϊτίκων", "metric_roundness": 38.78, "metric_rectangularity": 74.65, "metric_mobile_fit": 88.68, "metric_aspect_ratio": 0.449, "metric_area_km2": 4.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.437939, 37.759516499999989 ], [ 21.4298385, 37.756645499999983 ], [ 21.4223904, 37.74146 ], [ 21.4250995, 37.7328875 ], [ 21.437674, 37.7321495 ], [ 21.437939, 37.759516499999989 ] ] ] } }
+]
+}

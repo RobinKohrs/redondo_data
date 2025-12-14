@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_tripotamias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Τριποταμιάς", "metric_roundness": 31.21, "metric_rectangularity": 69.84, "metric_mobile_fit": 81.39, "metric_aspect_ratio": 0.376, "metric_area_km2": 20.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.798626, 37.650232 ], [ 21.7936605, 37.630485 ], [ 21.7964415, 37.6230407 ], [ 21.7922158, 37.608428899999986 ], [ 21.7971305, 37.585927 ], [ 21.8053451, 37.5865979 ], [ 21.823142, 37.595433 ], [ 21.8206245, 37.6191515 ], [ 21.8195485, 37.6266855 ], [ 21.8135065, 37.6283591 ], [ 21.8086164, 37.634995 ], [ 21.80515, 37.6510015 ], [ 21.798626, 37.650232 ] ] ] } }
+]
+}

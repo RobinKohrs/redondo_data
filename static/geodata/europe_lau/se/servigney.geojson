@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "servigney",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Servigney", "metric_roundness": 43.52, "metric_rectangularity": 64.1, "metric_mobile_fit": 99.3, "metric_aspect_ratio": 0.57, "metric_area_km2": 12.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2864064, 47.7330587 ], [ 6.2814358, 47.7278081 ], [ 6.2869423, 47.723603899999979 ], [ 6.287428, 47.718983 ], [ 6.3066695, 47.711304 ], [ 6.3099761, 47.7158814 ], [ 6.3047814, 47.720154099999988 ], [ 6.3103727, 47.733062599999982 ], [ 6.312196, 47.747632 ], [ 6.308989, 47.7476065 ], [ 6.305749, 47.7462315 ], [ 6.2970106, 47.744147 ], [ 6.289084, 47.7438715 ], [ 6.2864064, 47.7330587 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kraborovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kraborovice", "metric_roundness": 57.48, "metric_rectangularity": 61.57, "metric_mobile_fit": 66.75, "metric_aspect_ratio": 0.895, "metric_area_km2": 12.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.5626476, 49.8037949 ], [ 15.5607776, 49.7984954 ], [ 15.566723, 49.797411499999988 ], [ 15.5726209, 49.797130899999985 ], [ 15.576482, 49.793383 ], [ 15.5853126, 49.8000888 ], [ 15.589966, 49.810885 ], [ 15.5924366, 49.8138818 ], [ 15.59095, 49.8174676 ], [ 15.5793797, 49.819417099999988 ], [ 15.5758865, 49.822909 ], [ 15.5640091, 49.8163123 ], [ 15.551487, 49.81636 ], [ 15.5626476, 49.8037949 ] ] ] } }
+]
+}

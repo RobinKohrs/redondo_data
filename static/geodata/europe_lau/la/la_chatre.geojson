@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chatre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Châtre", "metric_roundness": 45.11, "metric_rectangularity": 57.28, "metric_mobile_fit": 76.56, "metric_aspect_ratio": 0.797, "metric_area_km2": 13.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9936218, 46.5557734 ], [ 1.996782, 46.566738 ], [ 2.0127679, 46.5758013 ], [ 2.0067073, 46.5804111 ], [ 2.0066325, 46.587909 ], [ 1.9960588, 46.5846744 ], [ 1.9861824, 46.587976099999985 ], [ 1.971644, 46.580515 ], [ 1.9760472, 46.5751397 ], [ 1.978493, 46.565684299999987 ], [ 1.9852976, 46.5612637 ], [ 1.989177, 46.552499499999982 ], [ 1.9936218, 46.5557734 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pereto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pereto", "metric_roundness": 37.92, "metric_rectangularity": 72.01, "metric_mobile_fit": 17.51, "metric_aspect_ratio": 1.387, "metric_area_km2": 73.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.1369156, 42.0742653 ], [ 13.065291, 42.078086 ], [ 13.0627335, 42.0693305 ], [ 13.06944, 42.0544285 ], [ 13.0810679, 42.0454381 ], [ 13.1190943, 42.037518199999987 ], [ 13.1485547, 42.0265986 ], [ 13.174699, 42.0120535 ], [ 13.177946, 42.030497 ], [ 13.1860991, 42.051559499999989 ], [ 13.162245, 42.065865 ], [ 13.1369156, 42.0742653 ] ] ] } }
+]
+}

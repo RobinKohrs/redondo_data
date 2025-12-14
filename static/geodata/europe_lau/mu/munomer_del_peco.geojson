@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "munomer_del_peco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Muñomer del Peco", "metric_roundness": 41.08, "metric_rectangularity": 58.23, "metric_mobile_fit": 59.94, "metric_aspect_ratio": 0.963, "metric_area_km2": 18.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.8835567, 40.8694378 ], [ -4.8849105, 40.8868552 ], [ -4.89328, 40.894047 ], [ -4.8991419, 40.891051 ], [ -4.9147305, 40.8672715 ], [ -4.902392, 40.853252499999982 ], [ -4.8941607, 40.8561159 ], [ -4.8825354, 40.848405799999988 ], [ -4.8758321, 40.8520385 ], [ -4.871776, 40.8494362 ], [ -4.8565995, 40.851082 ], [ -4.8835567, 40.8694378 ] ] ] } }
+]
+}

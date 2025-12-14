@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belbeze_en_lomagne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Belbèze-en-Lomagne", "metric_roundness": 47.88, "metric_rectangularity": 76.3, "metric_mobile_fit": 60.64, "metric_aspect_ratio": 0.956, "metric_area_km2": 7.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0802641, 43.9061644 ], [ 1.0758255, 43.9082965 ], [ 1.0745571, 43.90927 ], [ 1.0686015, 43.913840499999985 ], [ 1.0672, 43.918095 ], [ 1.0554955, 43.9136518 ], [ 1.0523835, 43.90938 ], [ 1.0525196, 43.90927 ], [ 1.0563612, 43.9061644 ], [ 1.0633923, 43.9004804 ], [ 1.0799055, 43.891998 ], [ 1.0801525, 43.8920905 ], [ 1.084207, 43.8970825 ], [ 1.0839935, 43.898887 ], [ 1.087013, 43.902922499999988 ], [ 1.0802641, 43.9061644 ] ] ] } }
+]
+}

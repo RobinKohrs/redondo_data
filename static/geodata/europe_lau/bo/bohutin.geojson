@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bohutin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bohutín", "metric_roundness": 62.43, "metric_rectangularity": 65.0, "metric_mobile_fit": 34.75, "metric_aspect_ratio": 1.215, "metric_area_km2": 20.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.928078, 49.6557781 ], [ 13.930737, 49.6466495 ], [ 13.9393961, 49.6426793 ], [ 13.9535895, 49.6422745 ], [ 13.9577642, 49.6500176 ], [ 13.9686939, 49.651254699999981 ], [ 13.9742645, 49.657113 ], [ 13.9743739, 49.665576599999987 ], [ 13.9691118, 49.6684757 ], [ 13.9561732, 49.664772899999981 ], [ 13.934846, 49.672413 ], [ 13.9206155, 49.6692008 ], [ 13.9178085, 49.664315 ], [ 13.928078, 49.6557781 ] ] ] } }
+]
+}

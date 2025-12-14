@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_sommette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Sommette", "metric_roundness": 45.1, "metric_rectangularity": 57.43, "metric_mobile_fit": 80.92, "metric_aspect_ratio": 0.753, "metric_area_km2": 16.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5349387, 47.194403099999981 ], [ 6.5122, 47.2053377 ], [ 6.5095962, 47.2118747 ], [ 6.5029205, 47.21614 ], [ 6.5033665, 47.2090434 ], [ 6.4934754, 47.1928224 ], [ 6.4889725, 47.1792705 ], [ 6.4942242, 47.177408899999989 ], [ 6.5010171, 47.1795189 ], [ 6.5069893, 47.174677899999985 ], [ 6.5152185, 47.178682 ], [ 6.5183833, 47.1860192 ], [ 6.5332525, 47.188791 ], [ 6.5349387, 47.194403099999981 ] ] ] } }
+]
+}

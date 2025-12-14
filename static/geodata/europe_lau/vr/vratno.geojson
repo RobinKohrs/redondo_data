@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vratno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vrátno", "metric_roundness": 54.35, "metric_rectangularity": 79.98, "metric_mobile_fit": 67.94, "metric_aspect_ratio": 0.883, "metric_area_km2": 15.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.714696, 50.445050499999979 ], [ 14.6853355, 50.455341 ], [ 14.6789245, 50.449732 ], [ 14.6838082, 50.4460409 ], [ 14.6826056, 50.4425613 ], [ 14.6786919, 50.439399699999989 ], [ 14.668868, 50.438772499999985 ], [ 14.6771097, 50.4294444 ], [ 14.6880282, 50.427974 ], [ 14.6985075, 50.422290499999988 ], [ 14.7013375, 50.4253255 ], [ 14.714696, 50.445050499999979 ] ] ] } }
+]
+}

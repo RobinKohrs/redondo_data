@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_blandine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Blandine", "metric_roundness": 56.03, "metric_rectangularity": 85.94, "metric_mobile_fit": 4.08, "metric_aspect_ratio": 1.522, "metric_area_km2": 18.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.409394, 45.5494005 ], [ 5.408341, 45.5465935 ], [ 5.415969, 45.5374705 ], [ 5.414367, 45.534004 ], [ 5.417161, 45.532441 ], [ 5.4629815, 45.537381 ], [ 5.463692, 45.541998499999984 ], [ 5.461073, 45.544412 ], [ 5.458534, 45.550470499999982 ], [ 5.454731, 45.555753499999987 ], [ 5.447972, 45.557473 ], [ 5.440115, 45.557916 ], [ 5.434216, 45.5567285 ], [ 5.4096495, 45.553985 ], [ 5.409394, 45.5494005 ] ] ] } }
+]
+}

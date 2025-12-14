@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kabelhorst",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kabelhorst", "metric_roundness": 42.55, "metric_rectangularity": 63.68, "metric_mobile_fit": 97.93, "metric_aspect_ratio": 0.583, "metric_area_km2": 16.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.9420934, 54.2318359 ], [ 10.924126, 54.2396655 ], [ 10.9124648, 54.24011849999998 ], [ 10.913251, 54.2310455 ], [ 10.9176343, 54.2213864 ], [ 10.9162022, 54.2146418 ], [ 10.910502, 54.209557 ], [ 10.9149564, 54.2053993 ], [ 10.929077, 54.204196499999988 ], [ 10.9276936, 54.208329299999974 ], [ 10.9364006, 54.212943 ], [ 10.9388794, 54.2197886 ], [ 10.9463325, 54.222662 ], [ 10.9420934, 54.2318359 ] ] ] } }
+]
+}

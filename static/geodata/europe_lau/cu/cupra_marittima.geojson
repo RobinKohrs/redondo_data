@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cupra_marittima",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cupra Marittima", "metric_roundness": 40.2, "metric_rectangularity": 65.76, "metric_mobile_fit": 97.34, "metric_aspect_ratio": 0.589, "metric_area_km2": 32.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.852372, 43.0544595 ], [ 13.8398083, 43.0540087 ], [ 13.837457, 43.0386739 ], [ 13.8318443, 43.038391899999986 ], [ 13.828928, 43.0311026 ], [ 13.8227715, 43.0260452 ], [ 13.8155045, 43.0256575 ], [ 13.8172135, 43.0158536 ], [ 13.8229309, 43.0101894 ], [ 13.8190414, 42.996656499999986 ], [ 13.820594, 42.992438 ], [ 13.835358, 42.9933589 ], [ 13.8465465, 42.997323 ], [ 13.8654835, 43.010105 ], [ 13.852372, 43.0544595 ] ] ] } }
+]
+}

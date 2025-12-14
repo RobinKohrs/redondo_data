@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cetoraz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cetoraz", "metric_roundness": 67.32, "metric_rectangularity": 75.89, "metric_mobile_fit": 36.47, "metric_aspect_ratio": 1.198, "metric_area_km2": 29.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.9857215, 49.460411799999989 ], [ 14.9786649, 49.4675054 ], [ 14.9673116, 49.4718315 ], [ 14.9531841, 49.471361799999983 ], [ 14.9365435, 49.4658585 ], [ 14.930055, 49.467783499999982 ], [ 14.921443, 49.4486655 ], [ 14.9588809, 49.4369479 ], [ 14.982996, 49.449811 ], [ 14.9857215, 49.460411799999989 ] ] ] } }
+]
+}

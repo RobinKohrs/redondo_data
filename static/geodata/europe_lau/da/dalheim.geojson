@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dalheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dalheim", "metric_roundness": 61.68, "metric_rectangularity": 82.02, "metric_mobile_fit": 52.99, "metric_aspect_ratio": 1.033, "metric_area_km2": 14.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2668077, 49.8383677 ], [ 8.2673535, 49.828648499999986 ], [ 8.2702085, 49.8288845 ], [ 8.272129, 49.824124499999975 ], [ 8.2766525, 49.82082 ], [ 8.2787715, 49.81745 ], [ 8.3110965, 49.825692 ], [ 8.289755, 49.8451165 ], [ 8.2827495, 49.844017 ], [ 8.2668077, 49.8383677 ] ] ] } }
+]
+}

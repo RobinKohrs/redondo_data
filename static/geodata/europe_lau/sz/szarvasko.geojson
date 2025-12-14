@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szarvasko",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szarvaskő", "metric_roundness": 61.64, "metric_rectangularity": 73.46, "metric_mobile_fit": 71.41, "metric_aspect_ratio": 0.848, "metric_area_km2": 27.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3154875, 47.967016 ], [ 20.3391174, 47.9665354 ], [ 20.3554621, 47.9814708 ], [ 20.3593865, 48.001354 ], [ 20.3400815, 48.007843499999986 ], [ 20.3341264, 48.0026465 ], [ 20.3185644, 48.003756799999969 ], [ 20.318495, 47.993047499999982 ], [ 20.3070265, 47.9823305 ], [ 20.3154875, 47.967016 ] ] ] } }
+]
+}

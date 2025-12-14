@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "poggiridenti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Poggiridenti", "metric_roundness": 73.15, "metric_rectangularity": 80.31, "metric_mobile_fit": 60.51, "metric_aspect_ratio": 0.957, "metric_area_km2": 6.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9382231, 46.1730594 ], [ 9.9326385, 46.1815265 ], [ 9.9171648, 46.179982799999983 ], [ 9.914146, 46.1723393 ], [ 9.9159645, 46.166091 ], [ 9.9346191, 46.1641111 ], [ 9.938108, 46.166088 ], [ 9.9382231, 46.1730594 ] ] ] } }
+]
+}

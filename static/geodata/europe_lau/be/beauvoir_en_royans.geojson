@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beauvoir_en_royans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beauvoir-en-Royans", "metric_roundness": 27.97, "metric_rectangularity": 58.31, "metric_mobile_fit": 49.33, "metric_aspect_ratio": 1.069, "metric_area_km2": 4.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3599485, 45.1191251 ], [ 5.3423065, 45.122494599999989 ], [ 5.33854, 45.127515 ], [ 5.3351705, 45.127516 ], [ 5.331679, 45.125260499999989 ], [ 5.335568, 45.1196145 ], [ 5.344427, 45.118031299999984 ], [ 5.359375, 45.106092499999988 ], [ 5.36414, 45.110959 ], [ 5.3599485, 45.1191251 ] ] ] } }
+]
+}

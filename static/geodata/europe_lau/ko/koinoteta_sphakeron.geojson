@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sphakeron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σφακερών", "metric_roundness": 28.24, "metric_rectangularity": 53.03, "metric_mobile_fit": 95.24, "metric_aspect_ratio": 0.515, "metric_area_km2": 7.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.7802815, 39.7829425 ], [ 19.7825081, 39.7727858 ], [ 19.7990385, 39.762282 ], [ 19.7978076, 39.782581099999987 ], [ 19.8012535, 39.792142 ], [ 19.789691, 39.7913472 ], [ 19.7766745, 39.798966 ], [ 19.7788615, 39.787215 ], [ 19.7802815, 39.7829425 ] ] ] } }
+]
+}

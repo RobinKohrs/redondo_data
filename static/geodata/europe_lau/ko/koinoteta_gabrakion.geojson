@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_gabrakion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαβρακίων", "metric_roundness": 30.9, "metric_rectangularity": 48.22, "metric_mobile_fit": 84.88, "metric_aspect_ratio": 0.714, "metric_area_km2": 11.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.1496138, 39.1522119 ], [ 22.1609485, 39.1310705 ], [ 22.1686959, 39.1317881 ], [ 22.1657651, 39.143701799999981 ], [ 22.1735725, 39.1551871 ], [ 22.1887014, 39.1650242 ], [ 22.1900515, 39.1713413 ], [ 22.183769, 39.1750085 ], [ 22.1651312, 39.163108199999989 ], [ 22.152201, 39.160821 ], [ 22.1496138, 39.1522119 ] ] ] } }
+]
+}

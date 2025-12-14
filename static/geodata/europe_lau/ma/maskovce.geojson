@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maskovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maškovce", "metric_roundness": 41.58, "metric_rectangularity": 55.8, "metric_mobile_fit": 82.76, "metric_aspect_ratio": 0.735, "metric_area_km2": 15.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0046585, 49.0433105 ], [ 22.0023865, 49.03552 ], [ 21.9907647, 49.0302632 ], [ 21.9874008, 49.0251897 ], [ 21.969394, 49.021951 ], [ 21.97561, 49.0164749 ], [ 21.9816165, 49.00495 ], [ 21.9952213, 49.0040601 ], [ 22.0029251, 49.0067791 ], [ 22.0084221, 49.012495099999981 ], [ 22.0067905, 49.0237917 ], [ 22.013384, 49.029808 ], [ 22.009596, 49.04132 ], [ 22.0046585, 49.0433105 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zuzwil_be",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zuzwil (BE)", "metric_roundness": 46.5, "metric_rectangularity": 63.12, "metric_mobile_fit": 6.22, "metric_aspect_ratio": 1.5, "metric_area_km2": 7.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4672714, 47.0450329 ], [ 7.4827694, 47.0456351 ], [ 7.485959, 47.054067 ], [ 7.4680303, 47.0580568 ], [ 7.4584135, 47.057313 ], [ 7.4540285, 47.049325799999977 ], [ 7.4467682, 47.0488277 ], [ 7.448079, 47.0460705 ], [ 7.4534337, 47.0464495 ], [ 7.4554163, 47.0424699 ], [ 7.4647365, 47.040257499999981 ], [ 7.4672714, 47.0450329 ] ] ] } }
+]
+}

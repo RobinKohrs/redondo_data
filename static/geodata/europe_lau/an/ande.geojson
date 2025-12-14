@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ande",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Andé", "metric_roundness": 55.25, "metric_rectangularity": 69.42, "metric_mobile_fit": 73.37, "metric_aspect_ratio": 0.829, "metric_area_km2": 12.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2531625, 49.242007 ], [ 1.2433565, 49.2401865 ], [ 1.2384205, 49.2372875 ], [ 1.233801, 49.235356 ], [ 1.2307522, 49.232854599999982 ], [ 1.2292123, 49.223665 ], [ 1.232728, 49.215772 ], [ 1.2367255, 49.212304499999981 ], [ 1.2523968, 49.2163392 ], [ 1.2501124, 49.2213992 ], [ 1.266909, 49.2323275 ], [ 1.2531625, 49.242007 ] ] ] } }
+]
+}

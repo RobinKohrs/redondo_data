@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zalagyomoro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zalagyömörő", "metric_roundness": 46.69, "metric_rectangularity": 73.74, "metric_mobile_fit": 59.85, "metric_aspect_ratio": 0.964, "metric_area_km2": 23.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.2068496, 47.016593699999987 ], [ 17.2061345, 47.0054855 ], [ 17.2099121, 46.9986895 ], [ 17.220904, 46.9952985 ], [ 17.2300366, 46.9967567 ], [ 17.2354491, 47.0023776 ], [ 17.2489945, 47.00867 ], [ 17.2635234, 47.027023799999988 ], [ 17.2568339, 47.031644799999988 ], [ 17.2558925, 47.0358895 ], [ 17.20929, 47.018364 ], [ 17.2068496, 47.016593699999987 ] ] ] } }
+]
+}

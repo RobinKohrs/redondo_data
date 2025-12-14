@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_siriliou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σιριλίου", "metric_roundness": 40.53, "metric_rectangularity": 55.25, "metric_mobile_fit": 51.72, "metric_aspect_ratio": 1.045, "metric_area_km2": 3.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.8249255, 35.491298 ], [ 23.827531, 35.488791 ], [ 23.8383695, 35.488114499999988 ], [ 23.8367255, 35.4911275 ], [ 23.832345, 35.4946018 ], [ 23.828282, 35.5033545 ], [ 23.819246, 35.5077085 ], [ 23.818906, 35.5054405 ], [ 23.8154975, 35.4975795 ], [ 23.8150235, 35.4938455 ], [ 23.8132115, 35.49002 ], [ 23.81722, 35.489901 ], [ 23.820829, 35.49037 ], [ 23.8249255, 35.491298 ] ] ] } }
+]
+}

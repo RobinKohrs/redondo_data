@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_vale_formoso_e_aldeia_do_souto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Vale Formoso e Aldeia do Souto", "metric_roundness": 53.49, "metric_rectangularity": 71.25, "metric_mobile_fit": 33.53, "metric_aspect_ratio": 1.227, "metric_area_km2": 32.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.3793986, 40.352146 ], [ -7.3650118, 40.3563499 ], [ -7.3485847, 40.3711586 ], [ -7.3478694, 40.378143 ], [ -7.3437765, 40.382087 ], [ -7.3527787, 40.3903791 ], [ -7.365599, 40.3921375 ], [ -7.3830112, 40.3822881 ], [ -7.4063065, 40.381065 ], [ -7.4164104, 40.371525299999981 ], [ -7.4187225, 40.362575 ], [ -7.388888, 40.345606499999988 ], [ -7.3793986, 40.352146 ] ] ] } }
+]
+}

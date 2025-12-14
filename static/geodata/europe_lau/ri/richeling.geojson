@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "richeling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Richeling", "metric_roundness": 26.56, "metric_rectangularity": 78.49, "metric_mobile_fit": 5.01, "metric_aspect_ratio": 1.512, "metric_area_km2": 9.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9462765, 49.024864 ], [ 6.9563655, 49.020754299999986 ], [ 6.9817458, 49.02932 ], [ 6.9936605, 49.036327 ], [ 7.0023125, 49.041654 ], [ 6.9944872, 49.045045899999984 ], [ 6.9878196, 49.0444065 ], [ 6.962846, 49.034422 ], [ 6.9462765, 49.024864 ] ] ] } }
+]
+}

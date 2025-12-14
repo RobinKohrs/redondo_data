@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontenay_aux_roses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontenay-aux-Roses", "metric_roundness": 48.71, "metric_rectangularity": 74.17, "metric_mobile_fit": 1.21, "metric_aspect_ratio": 1.55, "metric_area_km2": 5.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.287471, 48.782549 ], [ 2.292698, 48.784094 ], [ 2.303309, 48.785399499999968 ], [ 2.2967309, 48.7945625 ], [ 2.292224, 48.795971499999986 ], [ 2.272193, 48.794125 ], [ 2.271722, 48.7905185 ], [ 2.2819845, 48.783164 ], [ 2.287471, 48.782549 ] ] ] } }
+]
+}

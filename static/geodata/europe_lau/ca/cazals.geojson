@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cazals",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cazals", "metric_roundness": 47.77, "metric_rectangularity": 63.2, "metric_mobile_fit": 18.17, "metric_aspect_ratio": 1.381, "metric_area_km2": 20.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1910581, 44.63783 ], [ 1.2129747, 44.6311489 ], [ 1.230593, 44.631087 ], [ 1.2433862, 44.6419709 ], [ 1.2400464, 44.649741899999988 ], [ 1.2486205, 44.65826 ], [ 1.2332977, 44.6638841 ], [ 1.222545, 44.663404499999984 ], [ 1.2163408, 44.657042799999985 ], [ 1.2157247, 44.648665 ], [ 1.2009676, 44.6506386 ], [ 1.184966, 44.644137499999985 ], [ 1.1910581, 44.63783 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "peromingo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Peromingo", "metric_roundness": 52.49, "metric_rectangularity": 75.21, "metric_mobile_fit": 44.29, "metric_aspect_ratio": 1.12, "metric_area_km2": 14.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.7729842, 40.472816 ], [ -5.7951255, 40.4639625 ], [ -5.797215, 40.455742 ], [ -5.7957655, 40.454338 ], [ -5.7921395, 40.453087 ], [ -5.782482, 40.4504815 ], [ -5.779472, 40.450119 ], [ -5.77593, 40.4491235 ], [ -5.7505953, 40.4616914 ], [ -5.749033, 40.465851 ], [ -5.7522965, 40.4781615 ], [ -5.75965, 40.480873 ], [ -5.764526, 40.481865 ], [ -5.7729842, 40.472816 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zollnitz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zöllnitz", "metric_roundness": 47.05, "metric_rectangularity": 74.02, "metric_mobile_fit": 70.72, "metric_aspect_ratio": 0.855, "metric_area_km2": 10.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.6331778, 50.86534229999998 ], [ 11.6435518, 50.860451399999988 ], [ 11.6417395, 50.855459499999981 ], [ 11.6615485, 50.856262 ], [ 11.6610221, 50.8597349 ], [ 11.6568353, 50.8616289 ], [ 11.6586667, 50.866672199999989 ], [ 11.6551493, 50.872101 ], [ 11.65519, 50.8795955 ], [ 11.6404776, 50.8801006 ], [ 11.6361013, 50.8759568 ], [ 11.628154, 50.877386499999986 ], [ 11.6331778, 50.86534229999998 ] ] ] } }
+]
+}

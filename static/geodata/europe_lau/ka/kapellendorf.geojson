@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kapellendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kapellendorf", "metric_roundness": 47.79, "metric_rectangularity": 57.34, "metric_mobile_fit": 59.01, "metric_aspect_ratio": 0.972, "metric_area_km2": 13.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.4490699, 50.97506 ], [ 11.4544193, 50.969520499999987 ], [ 11.4635531, 50.9704623 ], [ 11.460928, 50.9630235 ], [ 11.4654245, 50.9606735 ], [ 11.4678311, 50.966856899999989 ], [ 11.4848155, 50.966018 ], [ 11.476606, 50.984920499999987 ], [ 11.4606253, 50.987275599999982 ], [ 11.4550765, 50.9916585 ], [ 11.4541635, 50.985775599999982 ], [ 11.4369614, 50.980049199999989 ], [ 11.437383, 50.975435 ], [ 11.4490699, 50.97506 ] ] ] } }
+]
+}

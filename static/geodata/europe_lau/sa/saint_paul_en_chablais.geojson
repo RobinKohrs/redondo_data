@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_paul_en_chablais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Paul-en-Chablais", "metric_roundness": 67.04, "metric_rectangularity": 79.53, "metric_mobile_fit": 24.17, "metric_aspect_ratio": 1.321, "metric_area_km2": 30.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6488675, 46.3844795 ], [ 6.622737, 46.384974 ], [ 6.619299, 46.385149 ], [ 6.617661, 46.3841745 ], [ 6.6084345, 46.383576 ], [ 6.6065783, 46.3733377 ], [ 6.6101215, 46.3595 ], [ 6.6126026, 46.3566298 ], [ 6.63403, 46.351614499999975 ], [ 6.6667506, 46.359127099999988 ], [ 6.6707705, 46.37504 ], [ 6.6488675, 46.3844795 ] ] ] } }
+]
+}

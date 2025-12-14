@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neuves_maisons",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neuves-Maisons", "metric_roundness": 50.64, "metric_rectangularity": 70.27, "metric_mobile_fit": 68.99, "metric_aspect_ratio": 0.873, "metric_area_km2": 10.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1184025, 48.602688 ], [ 6.1214348, 48.6129359 ], [ 6.1278995, 48.618103499999989 ], [ 6.1155387, 48.62100419999998 ], [ 6.1105235, 48.628179499999987 ], [ 6.1055043, 48.6299299 ], [ 6.0967482, 48.6177912 ], [ 6.088892, 48.617065499999988 ], [ 6.0915493, 48.612136299999982 ], [ 6.1054997, 48.606447099999983 ], [ 6.11121, 48.6003765 ], [ 6.1184025, 48.602688 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nebuzely",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nebužely", "metric_roundness": 60.2, "metric_rectangularity": 76.25, "metric_mobile_fit": 41.53, "metric_aspect_ratio": 1.147, "metric_area_km2": 21.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5870072, 50.4119921 ], [ 14.571854, 50.409538 ], [ 14.5612495, 50.4010565 ], [ 14.5842398, 50.383198199999988 ], [ 14.593925, 50.380436 ], [ 14.616957, 50.3852036 ], [ 14.6180356, 50.388438 ], [ 14.6130158, 50.395694399999989 ], [ 14.614714, 50.399439 ], [ 14.602289, 50.406019499999985 ], [ 14.5870072, 50.4119921 ] ] ] } }
+]
+}

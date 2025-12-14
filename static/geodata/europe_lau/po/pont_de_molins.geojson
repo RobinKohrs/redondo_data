@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pont_de_molins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pont de Molins", "metric_roundness": 43.49, "metric_rectangularity": 59.81, "metric_mobile_fit": 34.97, "metric_aspect_ratio": 1.213, "metric_area_km2": 16.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9115904, 42.3158263 ], [ 2.9176181, 42.310713 ], [ 2.9443612, 42.3025105 ], [ 2.9533935, 42.302558499999982 ], [ 2.9425642, 42.3161311 ], [ 2.9437705, 42.331209 ], [ 2.9425235, 42.331066 ], [ 2.9262844, 42.335656899999989 ], [ 2.9239703, 42.3307983 ], [ 2.9116248, 42.3314032 ], [ 2.900036, 42.325645500000014 ], [ 2.899024, 42.3196655 ], [ 2.9115904, 42.3158263 ] ] ] } }
+]
+}

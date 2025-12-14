@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_sauveur_les_bray",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Sauveur-lès-Bray", "metric_roundness": 56.22, "metric_rectangularity": 63.38, "metric_mobile_fit": 71.73, "metric_aspect_ratio": 0.845, "metric_area_km2": 14.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1841247, 48.4388418 ], [ 3.1942985, 48.431862 ], [ 3.1935168, 48.4248779 ], [ 3.211066, 48.4268315 ], [ 3.2170547, 48.4231818 ], [ 3.2215577, 48.4247146 ], [ 3.2247485, 48.438893 ], [ 3.2183889, 48.446131799999982 ], [ 3.2045214, 48.4468639 ], [ 3.198845, 48.455068499999989 ], [ 3.1864555, 48.445235 ], [ 3.1841247, 48.4388418 ] ] ] } }
+]
+}

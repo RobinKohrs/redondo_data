@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valonne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valonne", "metric_roundness": 57.13, "metric_rectangularity": 74.9, "metric_mobile_fit": 47.82, "metric_aspect_ratio": 1.084, "metric_area_km2": 18.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6478315, 47.3382886 ], [ 6.6471973, 47.332173399999988 ], [ 6.654367, 47.326477 ], [ 6.6632536, 47.329878799999982 ], [ 6.674037, 47.32957 ], [ 6.6769535, 47.332028 ], [ 6.6882602, 47.337244 ], [ 6.6933038, 47.3428081 ], [ 6.6905855, 47.35701 ], [ 6.6725669, 47.3521958 ], [ 6.6532345, 47.354177499999984 ], [ 6.6482505, 47.3527474 ], [ 6.6444475, 47.33892 ], [ 6.6478315, 47.3382886 ] ] ] } }
+]
+}

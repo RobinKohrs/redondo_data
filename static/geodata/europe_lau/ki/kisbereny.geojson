@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kisbereny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kisberény", "metric_roundness": 46.85, "metric_rectangularity": 78.14, "metric_mobile_fit": 91.79, "metric_aspect_ratio": 0.645, "metric_area_km2": 15.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.67013, 46.6278588 ], [ 17.6709545, 46.630496499999985 ], [ 17.673554, 46.637074099999985 ], [ 17.665068, 46.659197 ], [ 17.6520176, 46.6554761 ], [ 17.63777, 46.6448885 ], [ 17.6432067, 46.638888499999986 ], [ 17.6456195, 46.621080699999979 ], [ 17.6521695, 46.621766 ], [ 17.67013, 46.6278588 ] ] ] } }
+]
+}

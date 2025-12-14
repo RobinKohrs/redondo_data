@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "conde_sur_suippe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Condé-sur-Suippe", "metric_roundness": 50.04, "metric_rectangularity": 76.14, "metric_mobile_fit": 73.1, "metric_aspect_ratio": 0.832, "metric_area_km2": 14.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9650558, 49.421367499999988 ], [ 3.963056, 49.428053499999976 ], [ 3.9552525, 49.4298844 ], [ 3.934907, 49.418624499999986 ], [ 3.9268695, 49.417853 ], [ 3.924821, 49.4077185 ], [ 3.9337995, 49.401867 ], [ 3.9314755, 49.400761499999987 ], [ 3.934719, 49.3984055 ], [ 3.9539927, 49.4059768 ], [ 3.962626, 49.4132165 ], [ 3.9650558, 49.421367499999988 ] ] ] } }
+]
+}

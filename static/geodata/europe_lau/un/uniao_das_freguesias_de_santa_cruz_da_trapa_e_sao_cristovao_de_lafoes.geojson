@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_santa_cruz_da_trapa_e_sao_cristovao_de_lafoes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Santa Cruz da Trapa e São Cristóvão de Lafões", "metric_roundness": 48.23, "metric_rectangularity": 61.56, "metric_mobile_fit": 91.91, "metric_aspect_ratio": 0.643, "metric_area_km2": 50.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.1221314, 40.7707797 ], [ -8.1224567, 40.7785936 ], [ -8.1296304, 40.793565 ], [ -8.124307, 40.7988418 ], [ -8.1215683, 40.8069847 ], [ -8.1234785, 40.8137442 ], [ -8.1364434, 40.8197375 ], [ -8.1596405, 40.807872 ], [ -8.169739, 40.8067851 ], [ -8.1791723, 40.799669699999988 ], [ -8.1769153, 40.785209499999986 ], [ -8.1848545, 40.778281 ], [ -8.1729352, 40.7601994 ], [ -8.176548, 40.749531 ], [ -8.1729348, 40.7512155 ], [ -8.152653, 40.7424 ], [ -8.1494385, 40.7493415 ], [ -8.1490133, 40.7623261 ], [ -8.1268566, 40.764544199999989 ], [ -8.1191365, 40.768794 ], [ -8.1221314, 40.7707797 ] ] ] } }
+]
+}

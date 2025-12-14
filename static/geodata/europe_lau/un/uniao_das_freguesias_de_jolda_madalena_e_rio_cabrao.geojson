@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_jolda_madalena_e_rio_cabrao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Jolda (Madalena) e Rio Cabrão", "metric_roundness": 40.49, "metric_rectangularity": 53.2, "metric_mobile_fit": 48.51, "metric_aspect_ratio": 1.077, "metric_area_km2": 8.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5145366, 41.8139004 ], [ -8.522718, 41.810347 ], [ -8.5221938, 41.806692299999987 ], [ -8.5162924, 41.8020955 ], [ -8.5169828, 41.7956083 ], [ -8.5139835, 41.792432 ], [ -8.5100985, 41.793481 ], [ -8.5087818, 41.798513399999983 ], [ -8.4980532, 41.799800499999989 ], [ -8.4815085, 41.796085 ], [ -8.4821345, 41.798075 ], [ -8.5105315, 41.8209425 ], [ -8.5145366, 41.8139004 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_mastrou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μάστρου", "metric_roundness": 49.13, "metric_rectangularity": 63.63, "metric_mobile_fit": 67.79, "metric_aspect_ratio": 0.885, "metric_area_km2": 16.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.2704516, 38.433118799999988 ], [ 21.2734315, 38.423264 ], [ 21.2884645, 38.423725499999989 ], [ 21.293532, 38.4245695 ], [ 21.3016912, 38.4301579 ], [ 21.2979625, 38.4391511 ], [ 21.3016801, 38.4513842 ], [ 21.298948, 38.464167 ], [ 21.2925295, 38.463188 ], [ 21.2918929, 38.4565913 ], [ 21.2799615, 38.4539811 ], [ 21.2554935, 38.4375665 ], [ 21.2704516, 38.433118799999988 ] ] ] } }
+]
+}

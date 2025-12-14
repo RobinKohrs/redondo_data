@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monestier_merlines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monestier-Merlines", "metric_roundness": 47.62, "metric_rectangularity": 64.46, "metric_mobile_fit": 41.63, "metric_aspect_ratio": 1.146, "metric_area_km2": 19.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4659245, 45.648633499999988 ], [ 2.4730222, 45.6383663 ], [ 2.482031, 45.6352115 ], [ 2.4881835, 45.6419821 ], [ 2.4928113, 45.638765199999987 ], [ 2.5139765, 45.639439 ], [ 2.5197647, 45.641534199999981 ], [ 2.51894, 45.647078499999985 ], [ 2.4805885, 45.672414 ], [ 2.4826343, 45.6664622 ], [ 2.4801208, 45.6614594 ], [ 2.458763, 45.6526375 ], [ 2.4659245, 45.648633499999988 ] ] ] } }
+]
+}

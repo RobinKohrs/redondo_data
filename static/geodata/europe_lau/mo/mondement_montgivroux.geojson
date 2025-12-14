@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mondement_montgivroux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mondement-Montgivroux", "metric_roundness": 65.23, "metric_rectangularity": 79.42, "metric_mobile_fit": 46.78, "metric_aspect_ratio": 1.095, "metric_area_km2": 16.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7431375, 48.798764299999988 ], [ 3.742367, 48.794649 ], [ 3.7376532, 48.785863 ], [ 3.7398385, 48.782138499999981 ], [ 3.7566318, 48.7832455 ], [ 3.775712, 48.77539 ], [ 3.778171, 48.778192 ], [ 3.780667, 48.779856 ], [ 3.7825215, 48.782544 ], [ 3.7847245, 48.7835065 ], [ 3.7871038, 48.7932765 ], [ 3.7843605, 48.795695 ], [ 3.7833051, 48.7988656 ], [ 3.7659356, 48.799000099999979 ], [ 3.751307, 48.805150499999989 ], [ 3.7431375, 48.798764299999988 ] ] ] } }
+]
+}

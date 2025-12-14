@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maizieres_la_grande_paroisse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maizières-la-Grande-Paroisse", "metric_roundness": 68.34, "metric_rectangularity": 84.78, "metric_mobile_fit": 64.8, "metric_aspect_ratio": 0.914, "metric_area_km2": 47.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7568145, 48.487454 ], [ 3.7685365, 48.4858195 ], [ 3.767725, 48.483357 ], [ 3.80729, 48.478672 ], [ 3.8258975, 48.5151695 ], [ 3.7969731, 48.528498599999985 ], [ 3.7862825, 48.528726499999983 ], [ 3.766551, 48.527446499999989 ], [ 3.7612558, 48.508815699999985 ], [ 3.7666769, 48.5048476 ], [ 3.7591953, 48.5027657 ], [ 3.7578265, 48.4918475 ], [ 3.7568145, 48.487454 ] ] ] } }
+]
+}

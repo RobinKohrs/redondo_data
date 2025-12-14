@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nechvalova_polianka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nechválova Polianka", "metric_roundness": 54.18, "metric_rectangularity": 70.0, "metric_mobile_fit": 79.75, "metric_aspect_ratio": 0.765, "metric_area_km2": 29.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.127174, 49.093408499999988 ], [ 22.1205897, 49.0973235 ], [ 22.1051265, 49.0995615 ], [ 22.1019076, 49.097186399999977 ], [ 22.080092, 49.0750545 ], [ 22.0791471, 49.0609221 ], [ 22.0905369, 49.0525896 ], [ 22.0947075, 49.053207499999985 ], [ 22.1019076, 49.060888699999985 ], [ 22.1335265, 49.0729585 ], [ 22.134, 49.0736435 ], [ 22.127174, 49.093408499999988 ] ] ] } }
+]
+}

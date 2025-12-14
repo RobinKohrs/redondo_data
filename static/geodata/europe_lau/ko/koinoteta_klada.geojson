@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_klada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κλαδά", "metric_roundness": 37.2, "metric_rectangularity": 57.08, "metric_mobile_fit": 91.04, "metric_aspect_ratio": 0.652, "metric_area_km2": 8.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.416175, 37.1305575 ], [ 22.4123495, 37.124694 ], [ 22.410455, 37.117606 ], [ 22.4155305, 37.1143025 ], [ 22.417241, 37.1121815 ], [ 22.4184245, 37.109883 ], [ 22.4197695, 37.099039 ], [ 22.42216, 37.093007 ], [ 22.43029, 37.1052002 ], [ 22.4377075, 37.108593 ], [ 22.4411619, 37.1152982 ], [ 22.4351935, 37.119286 ], [ 22.416175, 37.1305575 ] ] ] } }
+]
+}

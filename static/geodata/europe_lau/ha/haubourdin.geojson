@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "haubourdin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Haubourdin", "metric_roundness": 42.55, "metric_rectangularity": 50.92, "metric_mobile_fit": 80.94, "metric_aspect_ratio": 0.753, "metric_area_km2": 13.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9778314, 50.6177915 ], [ 2.974091, 50.61538 ], [ 2.9683716, 50.610278499999978 ], [ 2.970509, 50.6050235 ], [ 2.982426, 50.5976531 ], [ 2.978229, 50.5838135 ], [ 2.9894095, 50.582041499999974 ], [ 2.991636, 50.5886557 ], [ 2.9858317, 50.5928798 ], [ 2.9870767, 50.596320399999989 ], [ 3.0049116, 50.6026252 ], [ 3.011149, 50.6018755 ], [ 2.996393, 50.618094 ], [ 2.9778314, 50.6177915 ] ] ] } }
+]
+}

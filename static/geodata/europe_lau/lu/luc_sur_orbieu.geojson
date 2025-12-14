@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "luc_sur_orbieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Luc-sur-Orbieu", "metric_roundness": 52.91, "metric_rectangularity": 70.76, "metric_mobile_fit": 21.55, "metric_aspect_ratio": 1.347, "metric_area_km2": 18.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8087173, 43.1885101 ], [ 2.8022225, 43.1854959 ], [ 2.7954114, 43.1899999 ], [ 2.787989, 43.188654 ], [ 2.775004, 43.185948699999983 ], [ 2.7599643, 43.171466699999982 ], [ 2.7622208, 43.1650516 ], [ 2.7741035, 43.158289 ], [ 2.787173, 43.1676709 ], [ 2.8185375, 43.1707955 ], [ 2.8185225, 43.1778215 ], [ 2.813014, 43.1797325 ], [ 2.811916, 43.1821275 ], [ 2.811704, 43.186171499999986 ], [ 2.8087173, 43.1885101 ] ] ] } }
+]
+}

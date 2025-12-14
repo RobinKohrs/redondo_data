@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "venthone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Venthône", "metric_roundness": 28.3, "metric_rectangularity": 55.67, "metric_mobile_fit": 86.07, "metric_aspect_ratio": 0.702, "metric_area_km2": 4.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5356923, 46.315339 ], [ 7.535306, 46.3202425 ], [ 7.5308873, 46.3180802 ], [ 7.5294416, 46.3119513 ], [ 7.513636, 46.303817 ], [ 7.5184015, 46.293305 ], [ 7.520105, 46.2957415 ], [ 7.526261, 46.2987415 ], [ 7.531506, 46.299538 ], [ 7.5298605, 46.3013745 ], [ 7.53085, 46.3031185 ], [ 7.5388945, 46.308698 ], [ 7.5410035, 46.311962 ], [ 7.5356923, 46.315339 ] ] ] } }
+]
+}

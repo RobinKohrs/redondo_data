@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "emarese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Emarèse", "metric_roundness": 44.55, "metric_rectangularity": 57.68, "metric_mobile_fit": 80.46, "metric_aspect_ratio": 0.758, "metric_area_km2": 21.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7292205, 45.7408845 ], [ 7.7189803, 45.7465044 ], [ 7.7154935, 45.7458525 ], [ 7.6911449, 45.7368335 ], [ 7.678342, 45.735455499999986 ], [ 7.6826388, 45.730742799999987 ], [ 7.6908173, 45.707733399999981 ], [ 7.7006635, 45.699636499999976 ], [ 7.704389, 45.703568 ], [ 7.7292205, 45.7408845 ] ] ] } }
+]
+}

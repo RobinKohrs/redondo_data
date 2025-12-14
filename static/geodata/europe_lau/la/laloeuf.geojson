@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laloeuf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lalœuf", "metric_roundness": 50.29, "metric_rectangularity": 72.32, "metric_mobile_fit": 54.12, "metric_aspect_ratio": 1.021, "metric_area_km2": 24.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0103525, 48.4821684 ], [ 6.0061618, 48.487017 ], [ 5.9972545, 48.484635 ], [ 5.9875107, 48.4803756 ], [ 5.976033, 48.480555 ], [ 5.976379, 48.4732905 ], [ 5.9791495, 48.46857 ], [ 6.0010741, 48.4600306 ], [ 6.0057945, 48.452356 ], [ 6.0099525, 48.444522499999977 ], [ 6.0414835, 48.464741 ], [ 6.0363755, 48.4669355 ], [ 6.0265549, 48.4719533 ], [ 6.0230915, 48.478718 ], [ 6.0103525, 48.4821684 ] ] ] } }
+]
+}

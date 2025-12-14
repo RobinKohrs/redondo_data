@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_bouyssou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Bouyssou", "metric_roundness": 52.88, "metric_rectangularity": 61.22, "metric_mobile_fit": 83.0, "metric_aspect_ratio": 0.733, "metric_area_km2": 10.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9374315, 44.683538 ], [ 1.948821, 44.6839241 ], [ 1.9543929, 44.6794603 ], [ 1.962224, 44.684291 ], [ 1.9624861, 44.6877938 ], [ 1.9568226, 44.6910472 ], [ 1.9594786, 44.6970672 ], [ 1.957191, 44.7107345 ], [ 1.955546, 44.711403 ], [ 1.9401741, 44.7005774 ], [ 1.9313119, 44.701679299999988 ], [ 1.929569, 44.689850499999984 ], [ 1.9374315, 44.683538 ] ] ] } }
+]
+}

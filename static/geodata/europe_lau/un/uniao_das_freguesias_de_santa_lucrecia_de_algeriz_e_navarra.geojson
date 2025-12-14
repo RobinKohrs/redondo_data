@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_santa_lucrecia_de_algeriz_e_navarra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Santa Lucrécia de Algeriz e Navarra", "metric_roundness": 38.32, "metric_rectangularity": 60.89, "metric_mobile_fit": 58.71, "metric_aspect_ratio": 0.975, "metric_area_km2": 11.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.3493787, 41.5892549 ], [ -8.3735834, 41.6027439 ], [ -8.371667, 41.613857499999988 ], [ -8.3864745, 41.6138355 ], [ -8.392804, 41.607289 ], [ -8.388803, 41.6014986 ], [ -8.3802502, 41.5971119 ], [ -8.375021, 41.5789755 ], [ -8.34731, 41.584832 ], [ -8.3493787, 41.5892549 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chambornay_les_pin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chambornay-lès-Pin", "metric_roundness": 43.46, "metric_rectangularity": 56.5, "metric_mobile_fit": 32.24, "metric_aspect_ratio": 1.24, "metric_area_km2": 10.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.9109896, 47.347397699999988 ], [ 5.8847375, 47.344254 ], [ 5.8993817, 47.3340529 ], [ 5.896709, 47.329073 ], [ 5.9043658, 47.333611799999986 ], [ 5.92644, 47.3270725 ], [ 5.9306862, 47.330421599999987 ], [ 5.9250863, 47.338686599999981 ], [ 5.926701, 47.3447585 ], [ 5.926135, 47.347163 ], [ 5.921893, 47.3490955 ], [ 5.91819, 47.352181499999986 ], [ 5.9109896, 47.347397699999988 ] ] ] } }
+]
+}

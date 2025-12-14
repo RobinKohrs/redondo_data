@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santo_antao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santo Antão", "metric_roundness": 40.85, "metric_rectangularity": 66.93, "metric_mobile_fit": 31.89, "metric_aspect_ratio": 1.244, "metric_area_km2": 54.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -27.8722263, 38.5779213 ], [ -27.8680644, 38.5646545 ], [ -27.8688285, 38.5538065 ], [ -27.8598797, 38.5462126 ], [ -27.8295629, 38.5340298 ], [ -27.77179, 38.5369535 ], [ -27.7789102, 38.5454028 ], [ -27.8101693, 38.565621799999981 ], [ -27.8138389, 38.570729 ], [ -27.8128655, 38.5774495 ], [ -27.859721, 38.5971795 ], [ -27.8722263, 38.5779213 ] ] ] } }
+]
+}

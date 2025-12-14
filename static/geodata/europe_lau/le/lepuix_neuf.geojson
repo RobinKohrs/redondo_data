@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lepuix_neuf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lepuix-Neuf", "metric_roundness": 45.68, "metric_rectangularity": 70.05, "metric_mobile_fit": -23.17, "metric_aspect_ratio": 1.794, "metric_area_km2": 12.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1187805, 47.5475985 ], [ 7.1062125, 47.551332499999987 ], [ 7.093476, 47.5480954 ], [ 7.0861089, 47.549373599999988 ], [ 7.08112, 47.543964 ], [ 7.0841773, 47.5376076 ], [ 7.102394, 47.531896 ], [ 7.1219731, 47.5340187 ], [ 7.1327795, 47.53965 ], [ 7.131571, 47.540285 ], [ 7.1187805, 47.5475985 ] ] ] } }
+]
+}

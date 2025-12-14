@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wittes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wittes", "metric_roundness": 27.59, "metric_rectangularity": 55.97, "metric_mobile_fit": -49.88, "metric_aspect_ratio": 2.061, "metric_area_km2": 10.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3635209, 50.6696141 ], [ 2.380724, 50.666018 ], [ 2.4161275, 50.665831499999975 ], [ 2.4145095, 50.6694295 ], [ 2.4095015, 50.6711829 ], [ 2.4022328, 50.680939699999989 ], [ 2.3797075, 50.6714027 ], [ 2.3754117, 50.672104 ], [ 2.3713685, 50.6770905 ], [ 2.3623509, 50.6783767 ], [ 2.3567066, 50.6749623 ], [ 2.360196, 50.66267 ], [ 2.3635209, 50.6696141 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champosoult",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champosoult", "metric_roundness": 43.9, "metric_rectangularity": 79.29, "metric_mobile_fit": 69.52, "metric_aspect_ratio": 0.867, "metric_area_km2": 15.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.16435, 48.8699195 ], [ 0.1429397, 48.8589483 ], [ 0.1444763, 48.85076 ], [ 0.149884, 48.848196 ], [ 0.159415, 48.8466715 ], [ 0.179524, 48.8590666 ], [ 0.183648, 48.864761 ], [ 0.190976, 48.876689 ], [ 0.1769963, 48.8831078 ], [ 0.1652475, 48.873948 ], [ 0.16435, 48.8699195 ] ] ] } }
+]
+}

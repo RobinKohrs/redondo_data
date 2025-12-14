@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "buxeuil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Buxeuil", "metric_roundness": 32.35, "metric_rectangularity": 53.74, "metric_mobile_fit": -23.39, "metric_aspect_ratio": 1.796, "metric_area_km2": 9.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.415409, 48.062191 ], [ 4.3929394, 48.059758599999988 ], [ 4.3917688, 48.056013799999988 ], [ 4.3852708, 48.053299 ], [ 4.382782, 48.047461 ], [ 4.3936531, 48.0474942 ], [ 4.4029408, 48.042745399999987 ], [ 4.4219209, 48.0551865 ], [ 4.4313941, 48.054952199999988 ], [ 4.4350415, 48.0573915 ], [ 4.415409, 48.062191 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pierry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pierry", "metric_roundness": 38.66, "metric_rectangularity": 64.81, "metric_mobile_fit": -34.37, "metric_aspect_ratio": 1.906, "metric_area_km2": 12.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9698145, 49.0228295 ], [ 3.9375811, 49.0290525 ], [ 3.9250345, 49.024317 ], [ 3.9325417, 49.01184809999998 ], [ 3.945834, 49.010148 ], [ 3.950285, 49.011419 ], [ 3.9799835, 49.014999 ], [ 3.9698145, 49.0228295 ] ] ] } }
+]
+}

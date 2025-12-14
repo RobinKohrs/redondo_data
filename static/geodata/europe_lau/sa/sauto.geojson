@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sauto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sauto", "metric_roundness": 47.18, "metric_rectangularity": 64.25, "metric_mobile_fit": 13.98, "metric_aspect_ratio": 1.423, "metric_area_km2": 15.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.167425, 42.5075939 ], [ 2.1717255, 42.526135 ], [ 2.172452, 42.530868 ], [ 2.1603743, 42.526304599999982 ], [ 2.1501175, 42.530023 ], [ 2.1192175, 42.51322 ], [ 2.1237215, 42.510983 ], [ 2.1314655, 42.504201 ], [ 2.1360295, 42.503671 ], [ 2.1478855, 42.503289 ], [ 2.167425, 42.5075939 ] ] ] } }
+]
+}

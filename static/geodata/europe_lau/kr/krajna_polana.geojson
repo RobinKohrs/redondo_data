@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krajna_polana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Krajná Poľana", "metric_roundness": 56.66, "metric_rectangularity": 81.15, "metric_mobile_fit": 72.36, "metric_aspect_ratio": 0.839, "metric_area_km2": 7.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.700547, 49.368245 ], [ 21.6899306, 49.368561899999989 ], [ 21.6812295, 49.374621499999989 ], [ 21.676656, 49.372766499999983 ], [ 21.6708145, 49.357337 ], [ 21.686989, 49.3515385 ], [ 21.700547, 49.368245 ] ] ] } }
+]
+}

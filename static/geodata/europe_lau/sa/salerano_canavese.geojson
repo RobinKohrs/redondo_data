@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "salerano_canavese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Salerano Canavese", "metric_roundness": 31.68, "metric_rectangularity": 51.37, "metric_mobile_fit": 65.97, "metric_aspect_ratio": 0.903, "metric_area_km2": 4.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.848817, 45.4656181 ], [ 7.846012, 45.462824 ], [ 7.8359435, 45.45842 ], [ 7.833651, 45.458882 ], [ 7.8276785, 45.455103 ], [ 7.827486, 45.447382499999982 ], [ 7.8377853, 45.453100099999986 ], [ 7.849678, 45.453292 ], [ 7.8541314, 45.455344499999988 ], [ 7.8545331, 45.4588864 ], [ 7.8529119, 45.4661225 ], [ 7.847809, 45.468396 ], [ 7.848817, 45.4656181 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "goutevernisse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Goutevernisse", "metric_roundness": 51.49, "metric_rectangularity": 75.38, "metric_mobile_fit": 67.39, "metric_aspect_ratio": 0.889, "metric_area_km2": 8.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1686595, 43.226153 ], [ 1.1660794, 43.2231368 ], [ 1.1681397, 43.2186025 ], [ 1.1598604, 43.2144099 ], [ 1.158342, 43.2031345 ], [ 1.165584, 43.2003745 ], [ 1.1763252, 43.2015465 ], [ 1.1797806, 43.2111887 ], [ 1.1901943, 43.2195889 ], [ 1.190351, 43.2232236 ], [ 1.1844035, 43.2266285 ], [ 1.1686595, 43.226153 ] ] ] } }
+]
+}

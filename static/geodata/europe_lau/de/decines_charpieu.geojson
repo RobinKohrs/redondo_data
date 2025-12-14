@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "decines_charpieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Décines-Charpieu", "metric_roundness": 36.02, "metric_rectangularity": 59.95, "metric_mobile_fit": 98.72, "metric_aspect_ratio": 0.575, "metric_area_km2": 35.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.9596973, 45.7507588 ], [ 4.9673035, 45.7526315 ], [ 4.9847815, 45.7537515 ], [ 4.9846675, 45.779453499999988 ], [ 4.975371, 45.786784 ], [ 4.9800145, 45.805626 ], [ 4.9753245, 45.807264 ], [ 4.970375, 45.80738 ], [ 4.9675605, 45.80506 ], [ 4.9596973, 45.7963284 ], [ 4.935841, 45.7698375 ], [ 4.937029, 45.766389499999981 ], [ 4.9371975, 45.761795 ], [ 4.9325665, 45.744079 ], [ 4.9596973, 45.7507588 ] ] ] } }
+]
+}

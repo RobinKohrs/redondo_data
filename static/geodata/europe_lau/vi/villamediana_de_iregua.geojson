@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villamediana_de_iregua",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villamediana de Iregua", "metric_roundness": 49.74, "metric_rectangularity": 71.68, "metric_mobile_fit": 3.18, "metric_aspect_ratio": 1.531, "metric_area_km2": 37.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3919604, 42.4418047 ], [ -2.4220517, 42.4519855 ], [ -2.4283887, 42.446514 ], [ -2.433652, 42.431909499999989 ], [ -2.435722, 42.427201 ], [ -2.4374418, 42.4191185 ], [ -2.4275893, 42.4113499 ], [ -2.4049087, 42.410813399999981 ], [ -2.3733145, 42.416824499999983 ], [ -2.3698085, 42.418743 ], [ -2.3663445, 42.419838 ], [ -2.358125, 42.423782499999987 ], [ -2.355925, 42.427185 ], [ -2.3550605, 42.429798 ], [ -2.3520575, 42.4335045 ], [ -2.3919604, 42.4418047 ] ] ] } }
+]
+}

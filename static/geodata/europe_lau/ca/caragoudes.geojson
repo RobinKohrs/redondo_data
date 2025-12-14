@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caragoudes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caragoudes", "metric_roundness": 55.7, "metric_rectangularity": 68.13, "metric_mobile_fit": 64.88, "metric_aspect_ratio": 0.914, "metric_area_km2": 16.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7265718, 43.5075733 ], [ 1.7284465, 43.5128872 ], [ 1.724576, 43.5157245 ], [ 1.7182134, 43.5166006 ], [ 1.7095214, 43.5126109 ], [ 1.7021205, 43.515999 ], [ 1.684761, 43.501837 ], [ 1.7129551, 43.4907006 ], [ 1.7134822, 43.485797 ], [ 1.720533, 43.47983 ], [ 1.7227785, 43.479108 ], [ 1.7254815, 43.4825875 ], [ 1.7319875, 43.487742499999982 ], [ 1.7314945, 43.50487 ], [ 1.7265718, 43.5075733 ] ] ] } }
+]
+}

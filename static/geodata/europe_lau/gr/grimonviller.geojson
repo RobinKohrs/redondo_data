@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grimonviller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grimonviller", "metric_roundness": 53.09, "metric_rectangularity": 74.73, "metric_mobile_fit": 70.78, "metric_aspect_ratio": 0.855, "metric_area_km2": 11.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0197084, 48.3786619 ], [ 6.0248871, 48.388213699999987 ], [ 6.0205475, 48.394484499999983 ], [ 6.0103525, 48.391997899999986 ], [ 5.9944655, 48.388123 ], [ 5.9922987, 48.3813795 ], [ 5.993559, 48.369161 ], [ 6.010613, 48.369639 ], [ 6.0226, 48.3754655 ], [ 6.0197084, 48.3786619 ] ] ] } }
+]
+}

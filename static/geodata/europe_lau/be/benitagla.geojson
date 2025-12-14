@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "benitagla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Benitagla", "metric_roundness": 51.51, "metric_rectangularity": 58.28, "metric_mobile_fit": 43.79, "metric_aspect_ratio": 1.125, "metric_area_km2": 10.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.2191768, 37.2376116 ], [ -2.2253139, 37.2522112 ], [ -2.238451, 37.245488 ], [ -2.2422928, 37.2397784 ], [ -2.2403275, 37.222922 ], [ -2.2085018, 37.2277732 ], [ -2.2009195, 37.237699 ], [ -2.2191768, 37.2376116 ] ] ] } }
+]
+}

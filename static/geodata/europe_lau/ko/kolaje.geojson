@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kolaje",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kolaje", "metric_roundness": 39.09, "metric_rectangularity": 56.86, "metric_mobile_fit": 11.33, "metric_aspect_ratio": 1.449, "metric_area_km2": 4.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.2503688, 50.1569548 ], [ 15.2565382, 50.1595713 ], [ 15.258541, 50.1650035 ], [ 15.251098, 50.16291 ], [ 15.2411595, 50.160941 ], [ 15.2361325, 50.1604635 ], [ 15.230379, 50.161817 ], [ 15.22855, 50.159436 ], [ 15.230467, 50.1585765 ], [ 15.2289485, 50.156473 ], [ 15.233058, 50.154953 ], [ 15.238359, 50.153137 ], [ 15.2452296, 50.1517446 ], [ 15.252661, 50.1543115 ], [ 15.2503688, 50.1569548 ] ] ] } }
+]
+}

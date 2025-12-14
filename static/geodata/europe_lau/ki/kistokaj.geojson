@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kistokaj",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kistokaj", "metric_roundness": 38.79, "metric_rectangularity": 56.14, "metric_mobile_fit": -15.89, "metric_aspect_ratio": 1.721, "metric_area_km2": 21.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8640355, 48.0263035 ], [ 20.8548256, 48.0379196 ], [ 20.8518665, 48.048739499999982 ], [ 20.8322931, 48.050425099999984 ], [ 20.8235924, 48.0413043 ], [ 20.7966747, 48.033060599999985 ], [ 20.7899735, 48.02674 ], [ 20.8018872, 48.021656 ], [ 20.819341, 48.0288453 ], [ 20.8259321, 48.025568299999982 ], [ 20.8609385, 48.024074 ], [ 20.8640355, 48.0263035 ] ] ] } }
+]
+}

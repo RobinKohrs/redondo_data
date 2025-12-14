@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schutzbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schutzbach", "metric_roundness": 39.72, "metric_rectangularity": 61.07, "metric_mobile_fit": 95.93, "metric_aspect_ratio": 0.522, "metric_area_km2": 2.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.908839, 50.7602425 ], [ 7.9052025, 50.762331 ], [ 7.902146, 50.763172 ], [ 7.8988485, 50.7627375 ], [ 7.899551, 50.746836 ], [ 7.9040093, 50.7463303 ], [ 7.9034412, 50.7498144 ], [ 7.9127393, 50.7571362 ], [ 7.911411, 50.760957 ], [ 7.908839, 50.7602425 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neunforn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neunforn", "metric_roundness": 48.84, "metric_rectangularity": 68.87, "metric_mobile_fit": 25.86, "metric_aspect_ratio": 1.304, "metric_area_km2": 25.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8017881, 47.601677699999982 ], [ 8.7906851, 47.6031233 ], [ 8.7870292, 47.609736 ], [ 8.7494815, 47.621388 ], [ 8.7400498, 47.609472 ], [ 8.7474428, 47.600239199999983 ], [ 8.7481925, 47.5923495 ], [ 8.762007, 47.592849 ], [ 8.797908, 47.585031 ], [ 8.8046453, 47.5954901 ], [ 8.8103585, 47.598646499999987 ], [ 8.8041115, 47.608075 ], [ 8.8017881, 47.601677699999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "veznice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Věžnice", "metric_roundness": 48.9, "metric_rectangularity": 73.56, "metric_mobile_fit": 88.26, "metric_aspect_ratio": 0.68, "metric_area_km2": 11.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.7513768, 49.41561 ], [ 15.746717, 49.407548 ], [ 15.7478409, 49.398600099999989 ], [ 15.7513768, 49.3962005 ], [ 15.7611875, 49.3895425 ], [ 15.7696147, 49.3895231 ], [ 15.7718357, 49.403150099999984 ], [ 15.7780475, 49.4110185 ], [ 15.753631, 49.41951 ], [ 15.7513768, 49.41561 ] ] ] } }
+]
+}

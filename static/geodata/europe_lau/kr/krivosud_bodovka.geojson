@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krivosud_bodovka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Krivosúd-Bodovka", "metric_roundness": 53.91, "metric_rectangularity": 64.86, "metric_mobile_fit": 73.95, "metric_aspect_ratio": 0.823, "metric_area_km2": 18.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9291032, 48.8231413 ], [ 17.9259713, 48.8152179 ], [ 17.9207335, 48.811521 ], [ 17.9276243, 48.811068499999983 ], [ 17.9315444, 48.8073355 ], [ 17.9299881, 48.799931 ], [ 17.9328518, 48.7964125 ], [ 17.9409582, 48.7942235 ], [ 17.9665105, 48.7955505 ], [ 17.9623135, 48.8001395 ], [ 17.9559047, 48.810960599999987 ], [ 17.9570593, 48.825836099999989 ], [ 17.9445035, 48.8308535 ], [ 17.9347635, 48.8258785 ], [ 17.9291032, 48.8231413 ] ] ] } }
+]
+}

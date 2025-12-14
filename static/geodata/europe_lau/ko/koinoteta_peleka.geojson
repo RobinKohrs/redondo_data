@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_peleka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πέλεκα", "metric_roundness": 52.58, "metric_rectangularity": 75.39, "metric_mobile_fit": 41.2, "metric_aspect_ratio": 1.151, "metric_area_km2": 10.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.833077, 39.594001 ], [ 19.8323425, 39.600747 ], [ 19.7978285, 39.6109035 ], [ 19.7955495, 39.604896 ], [ 19.788887, 39.5980555 ], [ 19.8052313, 39.5931095 ], [ 19.8215675, 39.581308 ], [ 19.833077, 39.594001 ] ] ] } }
+]
+}

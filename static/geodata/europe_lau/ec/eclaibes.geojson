@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eclaibes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Éclaibes", "metric_roundness": 50.52, "metric_rectangularity": 63.02, "metric_mobile_fit": 31.22, "metric_aspect_ratio": 1.25, "metric_area_km2": 11.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9512575, 50.1922225 ], [ 3.9596183, 50.194948299999979 ], [ 3.961242, 50.1991165 ], [ 3.94844, 50.204158799999988 ], [ 3.9393415, 50.214522499999987 ], [ 3.9330624, 50.2132564 ], [ 3.9291676, 50.2074862 ], [ 3.9130245, 50.19613 ], [ 3.9300813, 50.1932015 ], [ 3.933061, 50.189837 ], [ 3.9512575, 50.1922225 ] ] ] } }
+]
+}

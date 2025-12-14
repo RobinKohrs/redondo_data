@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "paciano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Paciano", "metric_roundness": 69.7, "metric_rectangularity": 74.0, "metric_mobile_fit": 56.48, "metric_aspect_ratio": 0.998, "metric_area_km2": 31.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.069956, 43.0068075 ], [ 12.0724783, 43.0130647 ], [ 12.0864877, 43.021339 ], [ 12.0743005, 43.050239 ], [ 12.0612356, 43.0499779 ], [ 12.0352859, 43.0393181 ], [ 12.02314, 43.023668 ], [ 12.0289944, 43.021634 ], [ 12.0406653, 43.0086292 ], [ 12.06106, 43.003822499999977 ], [ 12.069956, 43.0068075 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brunembert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brunembert", "metric_roundness": 46.85, "metric_rectangularity": 69.94, "metric_mobile_fit": 52.29, "metric_aspect_ratio": 1.04, "metric_area_km2": 15.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8780974, 50.718374099999984 ], [ 1.8691945, 50.718867 ], [ 1.8640215, 50.713089 ], [ 1.8644765, 50.702489 ], [ 1.8831519, 50.7028015 ], [ 1.8931755, 50.7087503 ], [ 1.9019535, 50.7084415 ], [ 1.9101045, 50.716479 ], [ 1.9107265, 50.72364 ], [ 1.903997, 50.729603499999982 ], [ 1.8995335, 50.730933499999985 ], [ 1.8780974, 50.718374099999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_real_dume_e_semelhe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Real, Dume e Semelhe", "metric_roundness": 26.19, "metric_rectangularity": 50.33, "metric_mobile_fit": 60.05, "metric_aspect_ratio": 0.962, "metric_area_km2": 15.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.467258, 41.552679499999989 ], [ -8.4806635, 41.548005 ], [ -8.479441, 41.543222 ], [ -8.4788995, 41.5384425 ], [ -8.465907, 41.542105 ], [ -8.4505681, 41.5503945 ], [ -8.4452945, 41.5491385 ], [ -8.430695, 41.5555155 ], [ -8.4294715, 41.5609591 ], [ -8.4225764, 41.5625634 ], [ -8.4231975, 41.5720925 ], [ -8.4306612, 41.5836249 ], [ -8.444576, 41.5796895 ], [ -8.4451084, 41.561782199999982 ], [ -8.455577, 41.558715 ], [ -8.467258, 41.552679499999989 ] ] ] } }
+]
+}

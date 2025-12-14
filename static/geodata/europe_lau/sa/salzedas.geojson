@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "salzedas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Salzedas", "metric_roundness": 43.08, "metric_rectangularity": 65.84, "metric_mobile_fit": 20.71, "metric_aspect_ratio": 1.355, "metric_area_km2": 15.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.7157301, 41.0593086 ], [ -7.703718, 41.0594177 ], [ -7.6986565, 41.06246 ], [ -7.7054768, 41.071320799999988 ], [ -7.722566, 41.080411 ], [ -7.7269775, 41.08096 ], [ -7.755463, 41.080521499999989 ], [ -7.7521281, 41.0718555 ], [ -7.754898, 41.0684505 ], [ -7.7459303, 41.0639596 ], [ -7.736127, 41.0636961 ], [ -7.7209895, 41.04936 ], [ -7.7203545, 41.049533 ], [ -7.7157301, 41.0593086 ] ] ] } }
+]
+}

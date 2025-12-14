@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "puysegur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Puységur", "metric_roundness": 35.16, "metric_rectangularity": 66.7, "metric_mobile_fit": 0.28, "metric_aspect_ratio": 1.56, "metric_area_km2": 14.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.617383, 43.774894499999981 ], [ 0.6139191, 43.7806884 ], [ 0.5974015, 43.78274 ], [ 0.5958667, 43.7791032 ], [ 0.5895572, 43.776667499999988 ], [ 0.5710299, 43.78056 ], [ 0.5603732, 43.788362 ], [ 0.5575655, 43.7870305 ], [ 0.565828, 43.7739884 ], [ 0.565723, 43.767796 ], [ 0.5720088, 43.7696662 ], [ 0.5767944, 43.765365899999985 ], [ 0.611027, 43.7606685 ], [ 0.617383, 43.774894499999981 ] ] ] } }
+]
+}

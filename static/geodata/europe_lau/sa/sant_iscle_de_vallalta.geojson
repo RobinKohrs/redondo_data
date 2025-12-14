@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_iscle_de_vallalta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant Iscle de Vallalta", "metric_roundness": 59.64, "metric_rectangularity": 69.76, "metric_mobile_fit": 69.59, "metric_aspect_ratio": 0.867, "metric_area_km2": 31.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5366765, 41.641056499999976 ], [ 2.5556044, 41.6254968 ], [ 2.5582175, 41.6132965 ], [ 2.582045, 41.6105575 ], [ 2.5795547, 41.6179618 ], [ 2.5934712, 41.6434857 ], [ 2.5930015, 41.6588755 ], [ 2.5507474, 41.6595375 ], [ 2.5461477, 41.6572335 ], [ 2.541274, 41.648689 ], [ 2.5366765, 41.641056499999976 ] ] ] } }
+]
+}

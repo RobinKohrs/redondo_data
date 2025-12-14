@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kosice_mestska_cast_stare_mesto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Košice - mestská časť Staré Mesto", "metric_roundness": 54.79, "metric_rectangularity": 84.71, "metric_mobile_fit": 41.34, "metric_aspect_ratio": 1.149, "metric_area_km2": 9.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.247545, 48.714858 ], [ 21.2674333, 48.7180239 ], [ 21.274761, 48.721732 ], [ 21.2763105, 48.724536 ], [ 21.273093, 48.7363315 ], [ 21.2676875, 48.734987499999988 ], [ 21.238905, 48.726341 ], [ 21.247545, 48.714858 ] ] ] } }
+]
+}

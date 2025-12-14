@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_aphisiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αφισίου", "metric_roundness": 52.53, "metric_rectangularity": 68.13, "metric_mobile_fit": 74.91, "metric_aspect_ratio": 0.813, "metric_area_km2": 27.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.4790911, 37.084234099999989 ], [ 22.4886709, 37.0901678 ], [ 22.4900005, 37.0953817 ], [ 22.4775539, 37.1058995 ], [ 22.4572335, 37.1088435 ], [ 22.4549645, 37.1083925 ], [ 22.452099, 37.108551 ], [ 22.4314577, 37.090308799999988 ], [ 22.4482002, 37.0724595 ], [ 22.4495976, 37.0573161 ], [ 22.452777, 37.051424 ], [ 22.475391, 37.0723535 ], [ 22.4790911, 37.084234099999989 ] ] ] } }
+]
+}

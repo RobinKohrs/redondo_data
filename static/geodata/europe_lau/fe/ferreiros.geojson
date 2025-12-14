@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ferreiros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ferreiros", "metric_roundness": 48.44, "metric_rectangularity": 59.2, "metric_mobile_fit": 87.07, "metric_aspect_ratio": 0.692, "metric_area_km2": 8.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.323353, 41.601211 ], [ -8.3259445, 41.580384 ], [ -8.3147285, 41.5766975 ], [ -8.3122278, 41.5816521 ], [ -8.2968455, 41.587926499999988 ], [ -8.3022336, 41.5948546 ], [ -8.3094091, 41.5960943 ], [ -8.3074655, 41.607353499999974 ], [ -8.311222, 41.608154 ], [ -8.323353, 41.601211 ] ] ] } }
+]
+}

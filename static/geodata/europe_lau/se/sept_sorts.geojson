@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sept_sorts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sept-Sorts", "metric_roundness": 62.17, "metric_rectangularity": 79.38, "metric_mobile_fit": 73.93, "metric_aspect_ratio": 0.823, "metric_area_km2": 6.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1163625, 48.9327136 ], [ 3.1170545, 48.9362675 ], [ 3.1177762, 48.9458451 ], [ 3.102787, 48.950209 ], [ 3.0992445, 48.9506005 ], [ 3.098426, 48.9460135 ], [ 3.094519, 48.9401065 ], [ 3.0938615, 48.937999 ], [ 3.093903, 48.931519 ], [ 3.1163625, 48.9327136 ] ] ] } }
+]
+}

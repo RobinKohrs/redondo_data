@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kourtakiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κουρτακίου", "metric_roundness": 49.64, "metric_rectangularity": 61.81, "metric_mobile_fit": 38.02, "metric_aspect_ratio": 1.182, "metric_area_km2": 5.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.84688, 37.040963499999989 ], [ 21.8438313, 37.045176 ], [ 21.832739, 37.0500275 ], [ 21.825628, 37.0556595 ], [ 21.8199556, 37.0504775 ], [ 21.8226596, 37.041542199999988 ], [ 21.81492, 37.038757 ], [ 21.8268485, 37.036137499999981 ], [ 21.8335102, 37.0380566 ], [ 21.8426335, 37.0340835 ], [ 21.84688, 37.040963499999989 ] ] ] } }
+]
+}

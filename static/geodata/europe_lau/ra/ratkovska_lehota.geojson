@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ratkovska_lehota",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ratkovská Lehota", "metric_roundness": 51.51, "metric_rectangularity": 71.49, "metric_mobile_fit": 45.84, "metric_aspect_ratio": 1.104, "metric_area_km2": 13.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.0758045, 48.560265 ], [ 20.08252, 48.554102 ], [ 20.0974558, 48.5493861 ], [ 20.1094427, 48.553830599999984 ], [ 20.1175185, 48.550892 ], [ 20.100307, 48.573978 ], [ 20.088141, 48.576034499999984 ], [ 20.0730613, 48.5674741 ], [ 20.074351, 48.561867 ], [ 20.0758045, 48.560265 ] ] ] } }
+]
+}

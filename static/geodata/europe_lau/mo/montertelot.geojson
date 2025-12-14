@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montertelot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montertelot", "metric_roundness": 49.1, "metric_rectangularity": 66.12, "metric_mobile_fit": 18.92, "metric_aspect_ratio": 1.373, "metric_area_km2": 5.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.4196621, 47.8765095 ], [ -2.4154443, 47.880727 ], [ -2.3972933, 47.883232599999985 ], [ -2.394445, 47.889158 ], [ -2.4090324, 47.892982499999988 ], [ -2.4182566, 47.8920489 ], [ -2.4281775, 47.8844525 ], [ -2.4196621, 47.8765095 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "delaes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Delães", "metric_roundness": 42.52, "metric_rectangularity": 59.48, "metric_mobile_fit": 73.26, "metric_aspect_ratio": 0.83, "metric_area_km2": 5.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4277725, 41.383477 ], [ -8.4114215, 41.376089 ], [ -8.400744, 41.384106 ], [ -8.4053292, 41.3876874 ], [ -8.410854, 41.3865835 ], [ -8.4174112, 41.39904 ], [ -8.4225865, 41.401047 ], [ -8.4249983, 41.3983024 ], [ -8.4219822, 41.390827399999985 ], [ -8.4283525, 41.38506 ], [ -8.4277725, 41.383477 ] ] ] } }
+]
+}

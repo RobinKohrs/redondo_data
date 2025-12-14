@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dampjoux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dampjoux", "metric_roundness": 48.92, "metric_rectangularity": 59.92, "metric_mobile_fit": 42.97, "metric_aspect_ratio": 1.133, "metric_area_km2": 4.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7418569, 47.339862499999988 ], [ 6.7432025, 47.3345518 ], [ 6.7409361, 47.3303862 ], [ 6.7508065, 47.3301295 ], [ 6.755457, 47.331078 ], [ 6.7587295, 47.33298 ], [ 6.7565151, 47.336057599999975 ], [ 6.7592959, 47.341663300000015 ], [ 6.757511, 47.34708149999998 ], [ 6.739341, 47.3421445 ], [ 6.7320305, 47.340185699999985 ], [ 6.730959, 47.336923 ], [ 6.7418569, 47.339862499999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_neuville_a_maire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Neuville-à-Maire", "metric_roundness": 36.96, "metric_rectangularity": 69.62, "metric_mobile_fit": 52.84, "metric_aspect_ratio": 1.034, "metric_area_km2": 17.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8719117, 49.5858532 ], [ 4.8543399, 49.592985399999982 ], [ 4.831548, 49.5929425 ], [ 4.82639, 49.5876558 ], [ 4.8371879, 49.5821226 ], [ 4.839476, 49.576172499999984 ], [ 4.8789675, 49.560017 ], [ 4.8787987, 49.57204119999998 ], [ 4.8731075, 49.5789045 ], [ 4.8719117, 49.5858532 ] ] ] } }
+]
+}

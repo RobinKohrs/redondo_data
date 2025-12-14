@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saranti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Σαράντι", "metric_roundness": 29.24, "metric_rectangularity": 66.98, "metric_mobile_fit": 70.2, "metric_aspect_ratio": 0.86, "metric_area_km2": 13.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.0285072, 34.9984745 ], [ 33.010524, 35.00188 ], [ 33.0045927, 34.9874297 ], [ 32.9928649, 34.9763563 ], [ 32.982273, 34.9555365 ], [ 32.985809, 34.953427499999989 ], [ 32.9945635, 34.9551105 ], [ 32.9955735, 34.956837 ], [ 33.033155, 34.993519 ], [ 33.0285072, 34.9984745 ] ] ] } }
+]
+}

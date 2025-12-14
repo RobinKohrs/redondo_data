@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "septmonts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Septmonts", "metric_roundness": 52.01, "metric_rectangularity": 59.76, "metric_mobile_fit": 40.0, "metric_aspect_ratio": 1.162, "metric_area_km2": 11.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3493689, 49.344598 ], [ 3.3455794, 49.336905699999981 ], [ 3.3477919, 49.330767 ], [ 3.345064, 49.3284875 ], [ 3.355902, 49.329937899999983 ], [ 3.3623814, 49.3249651 ], [ 3.3735831, 49.329267 ], [ 3.3858265, 49.3394955 ], [ 3.380314, 49.342247 ], [ 3.369011, 49.344959 ], [ 3.3662485, 49.348227 ], [ 3.342121, 49.3494635 ], [ 3.3493689, 49.344598 ] ] ] } }
+]
+}

@@ -1,0 +1,301 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Giesensdorf,giesensdorf,gi,45.25,55.55,79.4
+europe_lau,Giekau,giekau,gi,30.07,48.7,71.86
+europe_lau,"Giebel, gemfr. Gebiet",giebel_gemfr_gebiet,gi,41.38,51.5,51.88
+europe_lau,"Gieboldehausen, Flecken",gieboldehausen_flecken,gi,65.44,65.8,52.76
+europe_lau,Giesen,giesen,gi,47.21,59.42,79.73
+europe_lau,Gilten,gilten,gi,48.17,55.17,46.5
+europe_lau,"Gifhorn, Stadt",gifhorn_stadt,gi,52.61,61.41,61.49
+europe_lau,"Ginsheim-Gustavsburg, Stadt",ginsheim_gustavsburg_stadt,gi,27.56,44.78,74.72
+europe_lau,"Gießen, Universitätsstadt",giessen_universitatsstadt,gi,33.15,51.11,37.32
+europe_lau,Gieleroth,gieleroth,gi,38.26,46.83,39.55
+europe_lau,Giershausen,giershausen,gi,56.96,71.71,67.8
+europe_lau,Gilserberg,gilserberg,gi,46.7,56.64,40.21
+europe_lau,Gielert,gielert,gi,50.59,55.02,53.46
+europe_lau,Gipperath,gipperath,gi,67.78,75.96,72.1
+europe_lau,Gimbweiler,gimbweiler,gi,48.15,66.78,57.78
+europe_lau,Gillenbeuren,gillenbeuren,gi,40.47,66.18,-18.03
+europe_lau,Gierschnach,gierschnach,gi,52.58,60.4,39.28
+europe_lau,Girod,girod,gi,27.9,37.33,59.69
+europe_lau,Giesenhausen,giesenhausen,gi,66.69,73.25,63.05
+europe_lau,Girkenroth,girkenroth,gi,39.32,61.82,-6.33
+europe_lau,Gimbsheim,gimbsheim,gi,41.1,65.67,82.52
+europe_lau,Gindorf,gindorf,gi,64.86,68.05,59.55
+europe_lau,Gingen an der Fils,gingen_an_der_fils,gi,49.06,64.32,13.78
+europe_lau,Ginsweiler,ginsweiler,gi,44.57,69.54,97.93
+europe_lau,Giesdorf,giesdorf,gi,47.64,61.78,25.93
+europe_lau,Gilzem,gilzem,gi,53.56,67.59,66.86
+europe_lau,Gillenfeld,gillenfeld,gi,45.54,56.86,24.58
+europe_lau,"Giengen an der Brenz, Stadt",giengen_an_der_brenz_stadt,gi,36.98,42.12,49.81
+europe_lau,Gilching,gilching,gi,37.4,65.47,-38.01
+europe_lau,Gistel,gistel,gi,58.83,64.02,64.31
+europe_lau,Gierstädt,gierstadt,gi,50.12,63.53,28.12
+europe_lau,Giersleben,giersleben,gi,23.03,54.24,54.51
+europe_lau,Gitschtal,gitschtal,gi,39.5,71.87,-13.1
+europe_lau,Gilbuena,gilbuena,gi,35.36,52,99.92
+europe_lau,Gil García,gil_garcia,gi,23.72,45.63,87.82
+europe_lau,Gimialcón,gimialcon,gi,50.27,58.87,76.51
+europe_lau,Gizaburuaga,gizaburuaga,gi,38.75,44.89,43.88
+europe_lau,Gisikon,gisikon,gi,51.64,62.96,59.42
+europe_lau,Gironella,gironella,gi,38.68,62.29,97.3
+europe_lau,Gisclareny,gisclareny,gi,34.86,59.32,12.25
+europe_lau,"Gineta, La",gineta_la,gi,60.85,72.28,53.66
+europe_lau,Gingelom,gingelom,gi,58.44,69.44,36.48
+europe_lau,Girona,girona,gi,46.85,63.46,62.27
+europe_lau,"Giebelstadt, M",giebelstadt_m,gi,52.01,57.94,82.77
+europe_lau,Gingst,gingst,gi,53.02,56.52,56.75
+europe_lau,Gielow,gielow,gi,32.47,51.29,96.35
+europe_lau,Gignac-la-Nerthe,gignac_la_nerthe,gi,27.05,72.01,-53.36
+europe_lau,Gimel-les-Cascades,gimel_les_cascades,gi,42.4,49.71,40.46
+europe_lau,Gilhac-et-Bruzac,gilhac_et_bruzac,gi,42.44,62.26,15.79
+europe_lau,Gilhoc-sur-Ormèze,gilhoc_sur_ormeze,gi,53.38,66.47,25.89
+europe_lau,Girondelle,girondelle,gi,56.86,73.33,52.93
+europe_lau,Givet,givet,gi,35.6,52.27,-17.93
+europe_lau,Givonne,givonne,gi,32.58,68.75,90.2
+europe_lau,Givron,givron,gi,60.95,66.57,57.15
+europe_lau,Givry,givry,gi,66.02,77.01,56.57
+europe_lau,Gigors,gigors,gi,72.07,80.5,35.37
+europe_lau,Giebenach,giebenach,gi,55.57,69.38,33.32
+europe_lau,Gissac,gissac,gi,43.63,62.9,58.58
+europe_lau,Gibloux,gibloux,gi,53.12,69.18,46.8
+europe_lau,Givardon,givardon,gi,41.77,72.78,38.37
+europe_lau,Gibourne,gibourne,gi,49.9,65.92,49.59
+europe_lau,Givrezac,givrezac,gi,69.43,66.66,48.43
+europe_lau,Gilley,gilley,gi,50.78,66.41,44.57
+europe_lau,Giez,giez,gi,62.39,80.35,50.99
+europe_lau,Gipcy,gipcy,gi,42.29,64.36,97.4
+europe_lau,Gincla,gincla,gi,53.81,64.37,50.94
+europe_lau,Ginestas,ginestas,gi,40.26,46.61,71.72
+europe_lau,Ginoles,ginoles,gi,60.37,68.31,32.41
+europe_lau,Giron,giron,gi,29.59,49.06,61.48
+europe_lau,Gisors,gisors,gi,37.39,55.33,74.61
+europe_lau,Giverny,giverny,gi,65.66,77.94,44.29
+europe_lau,Giverville,giverville,gi,58.16,73.14,67.67
+europe_lau,Gimel,gimel,gi,31.14,53.4,50.54
+europe_lau,Ginestet,ginestet,gi,36.65,48.88,18.29
+europe_lau,Giffers,giffers,gi,36.35,65.29,49.08
+europe_lau,Giou-de-Mamou,giou_de_mamou,gi,30.08,53.75,74.67
+europe_lau,Girgols,girgols,gi,19.94,43.16,-28.71
+europe_lau,Gilet,gilet,gi,62.02,70.43,62.17
+europe_lau,Gibercourt,gibercourt,gi,31.5,58.48,96.91
+europe_lau,Gizy,gizy,gi,43.39,54.38,35.97
+europe_lau,Gistaín,gistain,gi,35.77,54.94,77.57
+europe_lau,Ginestar,ginestar,gi,65.65,66.11,64.88
+europe_lau,Giberville,giberville,gi,44.42,61.77,77.45
+europe_lau,Gilena,gilena,gi,39.48,54.22,57.09
+europe_lau,Gines,gines,gi,63.71,71.31,56.88
+europe_lau,Gimenells i el Pla de la Font,gimenells_i_el_pla_de_la_font,gi,65.68,70.64,41.07
+europe_lau,Giswil,giswil,gi,54.55,66.32,38.2
+europe_lau,Givisiez,givisiez,gi,56.9,78.16,64.64
+europe_lau,Gibraleón,gibraleon,gi,35.42,49.16,91.42
+europe_lau,Gimileo,gimileo,gi,36.31,52.91,91.36
+europe_lau,"Ginebrosa, La",ginebrosa_la,gi,31.21,44.9,22.99
+europe_lau,Gijón,gijon,gi,53.28,61.69,14.14
+europe_lau,Gilette,gilette,gi,35.71,60.84,34.45
+europe_lau,Gidy,gidy,gi,49.47,65.03,91.78
+europe_lau,Gien,gien,gi,52.14,60.09,53.12
+europe_lau,Girolles,girolles,gi,56.18,64.09,36.13
+europe_lau,Givraines,givraines,gi,51.2,53.98,56.19
+europe_lau,Gilocourt,gilocourt,gi,53.67,67.74,79.73
+europe_lau,Giraumont,giraumont,gi,48.34,76.13,-9.34
+europe_lau,Gibeaumeix,gibeaumeix,gi,33.33,65.17,39.29
+europe_lau,Giraumont,giraumont,gi,57.38,58.99,59.27
+europe_lau,Giriviller,giriviller,gi,50.37,63.96,83.26
+europe_lau,Gièvres,gievres,gi,52.76,62.95,23.34
+europe_lau,Giffaumont-Champaubert,giffaumont_champaubert,gi,37.51,55.62,62.22
+europe_lau,Gigny-Bussy,gigny_bussy,gi,35.82,60.75,-24.49
+europe_lau,Givry-en-Argonne,givry_en_argonne,gi,48.22,61.91,9.13
+europe_lau,Givry-lès-Loisy,givry_les_loisy,gi,19.18,51.31,67.57
+europe_lau,Gizaucourt,gizaucourt,gi,55.96,65.32,40.52
+europe_lau,Giat,giat,gi,55.39,63.92,79.38
+europe_lau,Gignat,gignat,gi,41.73,60.8,91.26
+europe_lau,Gimeaux,gimeaux,gi,51.93,82.79,92.12
+europe_lau,Gilles,gilles,gi,45.73,67.84,46.1
+europe_lau,Gignac,gignac,gi,49.38,60.43,48.6
+europe_lau,Gigouzac,gigouzac,gi,50.81,60.62,86.81
+europe_lau,Gindou,gindou,gi,30.58,49.85,90.43
+europe_lau,Ginouillac,ginouillac,gi,60.97,71.24,59.64
+europe_lau,Gintrac,gintrac,gi,40.76,70.66,56.9
+europe_lau,Girac,girac,gi,33.29,57.55,53.9
+europe_lau,Giey-sur-Aujon,giey_sur_aujon,gi,38.11,65.7,22.69
+europe_lau,Gillancourt,gillancourt,gi,43.85,66.79,2.36
+europe_lau,Gillaumé,gillaume,gi,55.7,64.6,53.05
+europe_lau,Gilley,gilley,gi,60.4,66.46,57.77
+europe_lau,Givrycourt,givrycourt,gi,48.24,71.07,91.99
+europe_lau,Gipf-Oberfrick,gipf_oberfrick,gi,40.04,55.83,20.02
+europe_lau,Gilly-lès-Cîteaux,gilly_les_citeaux,gi,55.52,59.95,41.54
+europe_lau,Gissey-le-Vieil,gissey_le_vieil,gi,61.1,66.8,72.36
+europe_lau,Gissey-sous-Flavigny,gissey_sous_flavigny,gi,60.38,75.57,47.89
+europe_lau,Gissey-sur-Ouche,gissey_sur_ouche,gi,47.92,58.06,44.4
+europe_lau,Giroux,giroux,gi,48.25,63.34,1.48
+europe_lau,Givrins,givrins,gi,22.45,76.99,36.66
+europe_lau,Giornico,giornico,gi,50.82,60.25,74.64
+europe_lau,Gières,gieres,gi,31.63,47.84,86.05
+europe_lau,Gillonnay,gillonnay,gi,33.69,74.71,80.53
+europe_lau,Gimeux,gimeux,gi,37.41,57.03,82.88
+europe_lau,Giuncheto,giuncheto,gi,52.1,62.88,31.87
+europe_lau,Gigors-et-Lozeron,gigors_et_lozeron,gi,26.63,43.55,90.69
+europe_lau,Gironde-sur-Dropt,gironde_sur_dropt,gi,57.57,62.92,47.28
+europe_lau,Giscos,giscos,gi,45.58,55.68,52.26
+europe_lau,Gizeux,gizeux,gi,35.9,54.99,95.83
+europe_lau,Gigny,gigny,gi,42.8,69.92,52.24
+europe_lau,Gillois,gillois,gi,65.48,72.58,35.37
+europe_lau,Gizia,gizia,gi,29,39.27,68.25
+europe_lau,Gigean,gigean,gi,68.65,72.23,67.81
+europe_lau,Gignac,gignac,gi,48.79,65.24,18.5
+europe_lau,Gibel,gibel,gi,38.82,66.44,42.53
+europe_lau,Gilly,gilly,gi,46.32,72.91,69.22
+europe_lau,Giocatojo,giocatojo,gi,38.82,73.55,-13.25
+europe_lau,Giuncaggio,giuncaggio,gi,14.16,40.67,55.52
+europe_lau,Gibret,gibret,gi,55.14,70.32,72.77
+europe_lau,Gimbrède,gimbrede,gi,58.04,67.26,52.75
+europe_lau,Gimont,gimont,gi,33.75,49.33,-1.65
+europe_lau,Giscaro,giscaro,gi,66.62,81.57,43.97
+europe_lau,Gioux,gioux,gi,41.44,57.22,82.85
+europe_lau,Gigny,gigny,gi,60.06,69.26,60.19
+europe_lau,Girolles,girolles,gi,36.07,59.48,94.7
+europe_lau,Gisy-les-Nobles,gisy_les_nobles,gi,38.95,64.84,52.04
+europe_lau,Givry,givry,gi,65.33,75.4,61.62
+europe_lau,Gif-sur-Yvette,gif_sur_yvette,gi,34.41,47.76,41.82
+europe_lau,Gironville-sur-Essonne,gironville_sur_essonne,gi,35.63,63.81,-16.85
+europe_lau,Gimat,gimat,gi,55.63,67.5,76.15
+europe_lau,Ginals,ginals,gi,31.08,52.01,12.96
+europe_lau,Gießhübl,giesshubl,gi,36.08,55.5,-7.98
+europe_lau,Ginasservis,ginasservis,gi,61.09,72.76,82.41
+europe_lau,Ginchy,ginchy,gi,35.05,49.91,90.67
+europe_lau,Gizay,gizay,gi,52.75,59.02,79.96
+europe_lau,Gijounet,gijounet,gi,43.14,60.77,40.6
+europe_lau,Giroussens,giroussens,gi,54.58,72.25,33.09
+europe_lau,Giromagny,giromagny,gi,53.19,73.28,66.3
+europe_lau,Givors,givors,gi,36.43,50.3,28.89
+europe_lau,Gignéville,gigneville,gi,33.84,66.43,85.23
+europe_lau,Gigney,gigney,gi,28.84,52.33,-59.45
+europe_lau,Girancourt,girancourt,gi,46.33,62.01,67.72
+europe_lau,Gircourt-lès-Viéville,gircourt_les_vieville,gi,59.05,69.59,78.29
+europe_lau,Girecourt-sur-Durbion,girecourt_sur_durbion,gi,50.62,78.82,96.32
+europe_lau,Girmont-Val-d'Ajol,girmont_val_d_ajol,gi,48.67,60.53,64.03
+europe_lau,Gironcourt-sur-Vraine,gironcourt_sur_vraine,gi,51.16,59.06,74.66
+europe_lau,Gignac,gignac,gi,55.4,70.95,85.55
+europe_lau,Gigondas,gigondas,gi,37.49,51.84,17.93
+europe_lau,Gibles,gibles,gi,40.99,51.84,28.87
+europe_lau,Gigny-sur-Saône,gigny_sur_saone,gi,33.12,75.23,80.99
+europe_lau,Gilly-sur-Loire,gilly_sur_loire,gi,43.03,52.37,16.08
+europe_lau,Givry,givry,gi,39,61.39,5.36
+europe_lau,Gilly-sur-Isère,gilly_sur_isere,gi,62.72,76.06,57.48
+europe_lau,Gien-sur-Cure,gien_sur_cure,gi,33.01,62.35,71.86
+europe_lau,Gimouille,gimouille,gi,65.16,71.02,58.23
+europe_lau,Giry,giry,gi,38.86,63.25,-2.1
+europe_lau,Giremoutiers,giremoutiers,gi,39.36,70.97,47.59
+europe_lau,Gironville,gironville,gi,33.95,52.28,76.01
+europe_lau,Γιόλου,giolou,gi,40.26,65.92,98.07
+europe_lau,Gimécourt,gimecourt,gi,42.28,71.08,15.85
+europe_lau,Gincrey,gincrey,gi,36.3,59.8,95.56
+europe_lau,Girauvoisin,girauvoisin,gi,35.67,55.85,46.22
+europe_lau,Givrauval,givrauval,gi,38.89,65.18,45.97
+europe_lau,Girefontaine,girefontaine,gi,48.58,70.16,39.98
+europe_lau,Giel-Courteilles,giel_courteilles,gi,52.8,72.39,76.65
+europe_lau,Ginai,ginai,gi,43.97,66.86,26.65
+europe_lau,Giez,giez,gi,32.36,61.12,88.7
+europe_lau,Givenchy-en-Gohelle,givenchy_en_gohelle,gi,61.53,81.94,63.24
+europe_lau,Givenchy-le-Noble,givenchy_le_noble,gi,56.99,75.59,53.91
+europe_lau,Givenchy-lès-la-Bassée,givenchy_les_la_bassee,gi,49.91,66.1,86.91
+europe_lau,Γιαλιά,gialia,gi,46,69.11,6.64
+europe_lau,Gildwiller,gildwiller,gi,42.85,55.76,45.47
+europe_lau,Giussago,giussago,gi,46.71,59.44,63.46
+europe_lau,Giacciano con Baruchella,giacciano_con_baruchella,gi,25.94,39.27,32.63
+europe_lau,Gioia dei Marsi,gioia_dei_marsi,gi,19.59,48.72,87.26
+europe_lau,Gioia del Colle,gioia_del_colle,gi,50.45,62.13,45.5
+europe_lau,Giovinazzo,giovinazzo,gi,39.12,54.63,22.42
+europe_lau,Gignese,gignese,gi,43.52,64.08,-2.91
+europe_lau,Giardinello,giardinello,gi,25.61,40.82,9.77
+europe_lau,Giuliana,giuliana,gi,29.91,44.67,91.79
+europe_lau,Ginosa,ginosa,gi,36.61,55.55,80.94
+europe_lau,Giżycko,gizycko,gi,63.3,70.67,40.15
+europe_lau,Giżycko,gizycko,gi,51.23,62.9,28.1
+europe_lau,Giovo,giovo,gi,21.55,47.46,91.89
+europe_lau,Giustino,giustino,gi,55.99,57.86,44.58
+europe_lau,Giulianova,giulianova,gi,46.83,68.75,79.1
+europe_lau,Giussano,giussano,gi,33.63,60.13,99.63
+europe_lau,Giuggianello,giuggianello,gi,43.11,69.28,58.03
+europe_lau,Giurdignano,giurdignano,gi,49.91,65.15,38.04
+europe_lau,Giffone,giffone,gi,24.54,60.34,-143.51
+europe_lau,Gioia Tauro,gioia_tauro,gi,45.53,64.39,79.44
+europe_lau,Gioiosa Ionica,gioiosa_ionica,gi,46.23,70.29,94.77
+europe_lau,Giavera del Montello,giavera_del_montello,gi,23.44,58.87,86.33
+europe_lau,Giby,giby,gi,48.81,61.78,26.61
+europe_lau,Gissi,gissi,gi,40.62,59.17,82.26
+europe_lau,Giuliano Teatino,giuliano_teatino,gi,33,57.4,94.82
+europe_lau,Giba,giba,gi,39.74,46.57,37.79
+europe_lau,Gibellina,gibellina,gi,49.23,62.4,31.08
+europe_lau,Gianico,gianico,gi,20.66,40.91,-65.28
+europe_lau,Gildeskål,gildeskal,gi,39.47,43.36,56.65
+europe_lau,Gildone,gildone,gi,57.57,62.54,45.6
+europe_lau,Giffoni Sei Casali,giffoni_sei_casali,gi,32.04,58.97,98.34
+europe_lau,Giffoni Valle Piana,giffoni_valle_piana,gi,33.3,42.89,88.02
+europe_lau,Gioi,gioi,gi,34.99,55.69,-5.27
+europe_lau,Giungano,giungano,gi,51.61,78.63,13.62
+europe_lau,Giardini-Naxos,giardini_naxos,gi,30.73,62.08,85.56
+europe_lau,Gioiosa Marea,gioiosa_marea,gi,40.08,57.38,81.81
+europe_lau,Giuliano di Roma,giuliano_di_roma,gi,40.84,54.45,52.63
+europe_lau,Giarre,giarre,gi,50.75,59.2,70.07
+europe_lau,Giarratana,giarratana,gi,25.71,53.75,84.7
+europe_lau,Giano Vetusto,giano_vetusto,gi,49.3,80.66,43.16
+europe_lau,Gioia Sannitica,gioia_sannitica,gi,46.99,66.22,62.84
+europe_lau,Gibárt,gibart,gi,65.28,68.43,50.69
+europe_lau,Giarole,giarole,gi,58.86,68.71,84.11
+europe_lau,Giugliano in Campania,giugliano_in_campania,gi,39.75,57.66,10.3
+europe_lau,Gimigliano,gimigliano,gi,17.12,44.59,27.19
+europe_lau,Girifalco,girifalco,gi,33.97,62.45,71.38
+europe_lau,Gizzeria,gizzeria,gi,50.36,60.23,76.4
+europe_lau,Gic,gic,gi,23.73,48.06,93.22
+europe_lau,Givrand,givrand,gi,56.03,74.32,42.62
+europe_lau,Giaglione,giaglione,gi,28.48,65.6,-103.64
+europe_lau,Giaveno,giaveno,gi,45.69,64.9,24.07
+europe_lau,Givoletto,givoletto,gi,44.15,68.35,38.56
+europe_lau,Girincs,girincs,gi,25.84,46.41,87.29
+europe_lau,Gignod,gignod,gi,32.67,58.2,-49.08
+europe_lau,Gilvánfa,gilvanfa,gi,40.71,65.97,-43.8
+europe_lau,Ginestra,ginestra,gi,21.48,39.37,78.97
+europe_lau,Gige,gige,gi,39.21,57.66,84.44
+europe_lau,Giustenice,giustenice,gi,26.48,54.53,-18.93
+europe_lau,Giusvalla,giusvalla,gi,60.31,77.08,67.49
+europe_lau,Giano dell'Umbria,giano_dell_umbria,gi,73.18,74.04,64.59
+europe_lau,Giove,giove,gi,55.87,73.22,39.01
+europe_lau,Ginestra degli Schiavoni,ginestra_degli_schiavoni,gi,48.45,64.53,68.13
+europe_lau,Giglovce,giglovce,gi,34.67,55.13,86.26
+europe_lau,Girovce,girovce,gi,57.03,70.46,58.74
+europe_lau,Gilău,gilau,gi,39.3,67.77,57.72
+europe_lau,Giraltovce,giraltovce,gi,38.93,59.75,43.62
+europe_lau,Gislaved,gislaved,gi,25.77,41.17,86.5
+europe_lau,Gighera,gighera,gi,46.52,58.91,37.07
+europe_lau,Giubega,giubega,gi,54.5,66.26,79.66
+europe_lau,Giurgiţa,giurgita,gi,29.69,57.53,-18.25
+europe_lau,Giurgeni,giurgeni,gi,41.68,57.06,76.47
+europe_lau,Gielniów,gielniow,gi,42.57,57.91,76.71
+europe_lau,Gioseni,gioseni,gi,60.57,69.51,76.47
+europe_lau,Girişu de Criş,girisu_de_cris,gi,43.34,66.39,95.57
+europe_lau,Gilgenberg am Weilhart,gilgenberg_am_weilhart,gi,47.93,64.17,81.62
+europe_lau,Gião,giao,gi,67.94,82.29,38.17
+europe_lau,Giuleşti,giulesti,gi,21.81,42.3,-82.7
+europe_lau,Gilze en Rijen,gilze_en_rijen,gi,53.49,64.04,70.15
+europe_lau,Gietrzwałd,gietrzwald,gi,47.5,58.61,26.78
+europe_lau,Giões,gioes,gi,51.59,56.97,53.87
+europe_lau,Gifflenga,gifflenga,gi,47.78,81.15,86.25
+europe_lau,Giave,giave,gi,23.87,46.56,-40.51
+europe_lau,Ginetes,ginetes,gi,57.93,74.33,71.04
+europe_lau,Gidle,gidle,gi,48.28,56.82,59.73
+europe_lau,Gizałki,gizalki,gi,36.82,57.64,-37.5
+europe_lau,Giroc,giroc,gi,66.13,64.71,60.71
+europe_lau,Girasole,girasole,gi,46.9,73.47,-15.4
+europe_lau,Giske,giske,gi,40.59,49.9,59.75
+europe_lau,Gilmonde,gilmonde,gi,59.76,78.68,76.63
+europe_lau,Giarmata,giarmata,gi,48.92,63.36,3.86
+europe_lau,Giera,giera,gi,45.48,54.91,57.74
+europe_lau,Giulvăz,giulvaz,gi,53.25,58.92,73.25
+europe_lau,Gilowice,gilowice,gi,52.42,65.71,36.45
+europe_lau,Girov,girov,gi,55.88,64.95,48.15
+europe_lau,Gimonde,gimonde,gi,63.8,72.06,47.44
+europe_lau,Girabolhos,girabolhos,gi,48.29,58.15,64.31
+europe_lau,Gierałtowice,gieraltowice,gi,55.1,68.08,66.53
+europe_lau,Giuvărăşti,giuvarasti,gi,30.36,53,44.07
+europe_lau,Gingins,gingins,gi,16.9,53.94,-29.36

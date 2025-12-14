@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "savennes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Savennes", "metric_roundness": 52.04, "metric_rectangularity": 69.8, "metric_mobile_fit": 87.93, "metric_aspect_ratio": 0.683, "metric_area_km2": 15.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8732021, 46.0989002 ], [ 1.8798425, 46.09425 ], [ 1.8851535, 46.093192 ], [ 1.8909675, 46.09371 ], [ 1.894475, 46.091744 ], [ 1.904235, 46.092187 ], [ 1.8992375, 46.1075877 ], [ 1.9009365, 46.116736499999988 ], [ 1.8926185, 46.121278 ], [ 1.888485, 46.128384 ], [ 1.880632, 46.126599799999987 ], [ 1.8777998, 46.1209594 ], [ 1.868128, 46.1135215 ], [ 1.8732021, 46.0989002 ] ] ] } }
+]
+}

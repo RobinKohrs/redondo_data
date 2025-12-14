@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_denis_les_rebais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Denis-lès-Rebais", "metric_roundness": 62.29, "metric_rectangularity": 70.93, "metric_mobile_fit": 63.08, "metric_aspect_ratio": 0.932, "metric_area_km2": 34.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1757075, 48.8391662 ], [ 3.1845253, 48.8264775 ], [ 3.2016425, 48.824054 ], [ 3.2120968, 48.825177199999985 ], [ 3.2206975, 48.831140499999989 ], [ 3.2227342, 48.840367699999987 ], [ 3.2275928, 48.845209 ], [ 3.2211927, 48.8609648 ], [ 3.209277, 48.870935 ], [ 3.1788199, 48.856498699999968 ], [ 3.173444, 48.848047499999979 ], [ 3.16122, 48.838156 ], [ 3.1646485, 48.835391 ], [ 3.1757075, 48.8391662 ] ] ] } }
+]
+}

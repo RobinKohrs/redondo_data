@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_andreu_salou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant Andreu Salou", "metric_roundness": 44.04, "metric_rectangularity": 67.87, "metric_mobile_fit": 96.41, "metric_aspect_ratio": 0.598, "metric_area_km2": 10.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8163985, 41.889629 ], [ 2.8098115, 41.8777095 ], [ 2.8134512, 41.8719346 ], [ 2.8129279, 41.8615583 ], [ 2.8178584, 41.8529901 ], [ 2.8370905, 41.860617 ], [ 2.8392546, 41.862145399999989 ], [ 2.8367562, 41.871158199999982 ], [ 2.831564, 41.8773745 ], [ 2.8163985, 41.889629 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caide_de_rei",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caíde de Rei", "metric_roundness": 51.51, "metric_rectangularity": 69.55, "metric_mobile_fit": 83.75, "metric_aspect_ratio": 0.725, "metric_area_km2": 12.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.215751, 41.2453125 ], [ -8.2113625, 41.261718 ], [ -8.209584, 41.2755945 ], [ -8.2377925, 41.275874 ], [ -8.2372049, 41.269490399999988 ], [ -8.2398155, 41.265572 ], [ -8.2421737, 41.2627492 ], [ -8.231914, 41.255713799999988 ], [ -8.2314468, 41.247589099999985 ], [ -8.22711, 41.2420805 ], [ -8.215751, 41.2453125 ] ] ] } }
+]
+}

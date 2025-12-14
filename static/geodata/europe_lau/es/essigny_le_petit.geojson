@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "essigny_le_petit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Essigny-le-Petit", "metric_roundness": 34.68, "metric_rectangularity": 63.29, "metric_mobile_fit": 95.08, "metric_aspect_ratio": 0.513, "metric_area_km2": 11.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3834308, 49.8897117 ], [ 3.3772538, 49.890294399999988 ], [ 3.3796119, 49.897744299999978 ], [ 3.3689464, 49.907591799999985 ], [ 3.3693575, 49.911807 ], [ 3.36385, 49.9111177 ], [ 3.355744, 49.9161795 ], [ 3.3551889, 49.8923199 ], [ 3.370263, 49.8798075 ], [ 3.38417, 49.8830565 ], [ 3.3834308, 49.8897117 ] ] ] } }
+]
+}

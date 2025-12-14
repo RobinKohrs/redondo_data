@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_trikorphou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Τρικόρφου", "metric_roundness": 44.55, "metric_rectangularity": 80.33, "metric_mobile_fit": 86.47, "metric_aspect_ratio": 0.698, "metric_area_km2": 16.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.888028, 37.0955985 ], [ 21.897228, 37.099533 ], [ 21.9033915, 37.101936499999987 ], [ 21.884758, 37.13424 ], [ 21.8727443, 37.140255 ], [ 21.866226, 37.139708 ], [ 21.8635053, 37.1194385 ], [ 21.8750427, 37.1069956 ], [ 21.8794045, 37.094677 ], [ 21.888028, 37.0955985 ] ] ] } }
+]
+}

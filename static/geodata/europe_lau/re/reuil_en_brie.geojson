@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reuil_en_brie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reuil-en-Brie", "metric_roundness": 51.96, "metric_rectangularity": 62.12, "metric_mobile_fit": 31.8, "metric_aspect_ratio": 1.244, "metric_area_km2": 13.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.140562, 48.9589375 ], [ 3.1370115, 48.952929499999989 ], [ 3.1512518, 48.9504505 ], [ 3.1538036, 48.9472486 ], [ 3.167053, 48.947085499999979 ], [ 3.1709007, 48.949935899999986 ], [ 3.1835345, 48.944873 ], [ 3.1842955, 48.9553675 ], [ 3.1791667, 48.9594418 ], [ 3.1783942, 48.9657048 ], [ 3.1744655, 48.9698218 ], [ 3.1604895, 48.96717 ], [ 3.140562, 48.9589375 ] ] ] } }
+]
+}

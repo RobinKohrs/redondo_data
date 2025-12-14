@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kolbovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kolbovce", "metric_roundness": 52.77, "metric_rectangularity": 60.59, "metric_mobile_fit": 66.36, "metric_aspect_ratio": 0.899, "metric_area_km2": 21.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7400831, 49.1646383 ], [ 21.7439797, 49.1693019 ], [ 21.7575019, 49.171631199999986 ], [ 21.7653325, 49.169916 ], [ 21.7628804, 49.1778158 ], [ 21.764625, 49.1818945 ], [ 21.7353499, 49.184867299999986 ], [ 21.720071, 49.1915025 ], [ 21.7130591, 49.1845567 ], [ 21.713287, 49.172895499999981 ], [ 21.7108454, 49.169034 ], [ 21.7171639, 49.1603156 ], [ 21.741253, 49.151872499999989 ], [ 21.7400831, 49.1646383 ] ] ] } }
+]
+}

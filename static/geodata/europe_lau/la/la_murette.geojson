@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_murette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Murette", "metric_roundness": 53.09, "metric_rectangularity": 59.35, "metric_mobile_fit": 70.69, "metric_aspect_ratio": 0.856, "metric_area_km2": 8.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.557339, 45.3879855 ], [ 5.5358569, 45.3899037 ], [ 5.5331445, 45.396065 ], [ 5.5267537, 45.3857583 ], [ 5.529206, 45.3743 ], [ 5.5341695, 45.369565 ], [ 5.5414603, 45.3743378 ], [ 5.559036, 45.3765475 ], [ 5.557339, 45.3879855 ] ] ] } }
+]
+}

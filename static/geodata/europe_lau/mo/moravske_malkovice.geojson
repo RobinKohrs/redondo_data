@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moravske_malkovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moravské Málkovice", "metric_roundness": 42.2, "metric_rectangularity": 50.64, "metric_mobile_fit": 62.02, "metric_aspect_ratio": 0.942, "metric_area_km2": 8.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.110812, 49.255880499999975 ], [ 17.109806, 49.263163 ], [ 17.1027133, 49.2613277 ], [ 17.0925362, 49.263600699999984 ], [ 17.0846515, 49.274178 ], [ 17.0796027, 49.2659731 ], [ 17.073268, 49.264597 ], [ 17.0783775, 49.257699 ], [ 17.085407, 49.256128 ], [ 17.0857138, 49.2469205 ], [ 17.1026516, 49.2536131 ], [ 17.1126255, 49.2534005 ], [ 17.110812, 49.255880499999975 ] ] ] } }
+]
+}

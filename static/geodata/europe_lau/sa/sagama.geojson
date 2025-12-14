@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sagama",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sagama", "metric_roundness": 50.16, "metric_rectangularity": 73.91, "metric_mobile_fit": -3.8, "metric_aspect_ratio": 1.6, "metric_area_km2": 19.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.5853232, 40.2459287 ], [ 8.6266205, 40.264197 ], [ 8.6250868, 40.268868 ], [ 8.6164915, 40.273209 ], [ 8.5849, 40.2751095 ], [ 8.5745256, 40.2709023 ], [ 8.56542, 40.258813 ], [ 8.5669963, 40.2508724 ], [ 8.5725205, 40.24665 ], [ 8.5853232, 40.2459287 ] ] ] } }
+]
+}

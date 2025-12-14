@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bidania_goiatz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bidania-Goiatz", "metric_roundness": 36.79, "metric_rectangularity": 50.76, "metric_mobile_fit": 84.12, "metric_aspect_ratio": 0.721, "metric_area_km2": 23.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.150447, 43.1592349 ], [ -2.1564426, 43.1522825 ], [ -2.1773022, 43.1467309 ], [ -2.1873386, 43.1495015 ], [ -2.193359, 43.147991 ], [ -2.1766482, 43.1209653 ], [ -2.1796575, 43.1131895 ], [ -2.1648328, 43.1117155 ], [ -2.156723, 43.119114 ], [ -2.1512994, 43.1334333 ], [ -2.1425978, 43.140013199999984 ], [ -2.1379909, 43.152607499999988 ], [ -2.147753, 43.167728499999988 ], [ -2.150447, 43.1592349 ] ] ] } }
+]
+}

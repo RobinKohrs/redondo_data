@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cheiry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cheiry", "metric_roundness": 31.52, "metric_rectangularity": 62.02, "metric_mobile_fit": 63.49, "metric_aspect_ratio": 0.928, "metric_area_km2": 14.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8283345, 46.735401 ], [ 6.8373543, 46.745122099999982 ], [ 6.8537849, 46.7511428 ], [ 6.8677945, 46.760182 ], [ 6.8605247, 46.763261199999988 ], [ 6.8522614, 46.7736256 ], [ 6.8481836, 46.7743254 ], [ 6.8440422, 46.7653055 ], [ 6.8308559, 46.756850299999982 ], [ 6.8121025, 46.737202 ], [ 6.817356, 46.733191499999982 ], [ 6.8283345, 46.735401 ] ] ] } }
+]
+}

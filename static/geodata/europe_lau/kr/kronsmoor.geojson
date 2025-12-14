@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kronsmoor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kronsmoor", "metric_roundness": 42.59, "metric_rectangularity": 71.14, "metric_mobile_fit": 54.09, "metric_aspect_ratio": 1.022, "metric_area_km2": 17.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6265822, 53.8903892 ], [ 9.6143338, 53.908713299999988 ], [ 9.6011578, 53.9122366 ], [ 9.598619, 53.9164355 ], [ 9.5874826, 53.914445099999988 ], [ 9.5812165, 53.9171415 ], [ 9.5750505, 53.911911499999981 ], [ 9.5959556, 53.891880099999987 ], [ 9.6199225, 53.887424 ], [ 9.6265822, 53.8903892 ] ] ] } }
+]
+}

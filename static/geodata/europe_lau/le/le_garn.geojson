@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_garn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Garn", "metric_roundness": 40.68, "metric_rectangularity": 65.32, "metric_mobile_fit": 99.7, "metric_aspect_ratio": 0.559, "metric_area_km2": 22.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4738787, 44.3217796 ], [ 4.4672726, 44.3286091 ], [ 4.463901, 44.334688 ], [ 4.464763, 44.3416765 ], [ 4.457169, 44.341419 ], [ 4.452342, 44.33804 ], [ 4.4510665, 44.3340975 ], [ 4.44841, 44.296602 ], [ 4.453217, 44.297867499999981 ], [ 4.4736862, 44.2913479 ], [ 4.484269, 44.2917035 ], [ 4.483474, 44.2989534 ], [ 4.487763, 44.3014808 ], [ 4.483158, 44.317794499999977 ], [ 4.4738787, 44.3217796 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_podence_e_santa_combinha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Podence e Santa Combinha", "metric_roundness": 53.5, "metric_rectangularity": 64.27, "metric_mobile_fit": 75.45, "metric_aspect_ratio": 0.808, "metric_area_km2": 35.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.9221345, 41.612286 ], [ -6.9256665, 41.610345 ], [ -6.9348435, 41.607591 ], [ -6.9380685, 41.6068005 ], [ -6.9411005, 41.6058775 ], [ -6.9390395, 41.5763105 ], [ -6.9316372, 41.568721 ], [ -6.9170257, 41.566980199999989 ], [ -6.9083895, 41.5600525 ], [ -6.8953281, 41.5645129 ], [ -6.881021, 41.5643325 ], [ -6.878957, 41.5843675 ], [ -6.8985816, 41.583808499999989 ], [ -6.9034666, 41.586515 ], [ -6.9011846, 41.6031443 ], [ -6.911785, 41.6175785 ], [ -6.9221345, 41.612286 ] ] ] } }
+]
+}

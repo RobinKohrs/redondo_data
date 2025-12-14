@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bitz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bitz", "metric_roundness": 52.08, "metric_rectangularity": 70.62, "metric_mobile_fit": 59.99, "metric_aspect_ratio": 0.963, "metric_area_km2": 19.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1092215, 48.252848499999985 ], [ 9.0870768, 48.25313139999998 ], [ 9.0740045, 48.256182 ], [ 9.0768211, 48.246589 ], [ 9.0694066, 48.234422 ], [ 9.0734881, 48.227548 ], [ 9.0803845, 48.224546 ], [ 9.0971723, 48.229514199999983 ], [ 9.1068446, 48.2229512 ], [ 9.1129542, 48.223568699999987 ], [ 9.1174362, 48.22699069999998 ], [ 9.111617, 48.236454 ], [ 9.1092215, 48.252848499999985 ] ] ] } }
+]
+}

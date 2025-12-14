@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neubauer_forst_sud",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neubauer Forst-Süd", "metric_roundness": 27.31, "metric_rectangularity": 56.61, "metric_mobile_fit": 75.84, "metric_aspect_ratio": 0.804, "metric_area_km2": 7.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.874585, 50.0171793 ], [ 11.893927, 50.0023925 ], [ 11.8965294, 50.0045883 ], [ 11.8957409, 50.00812 ], [ 11.881354, 50.024151 ], [ 11.8738395, 50.032434 ], [ 11.8609392, 50.0288729 ], [ 11.858933, 50.02307949999998 ], [ 11.874585, 50.0171793 ] ] ] } }
+]
+}

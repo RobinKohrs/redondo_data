@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balnot_sur_laignes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balnot-sur-Laignes", "metric_roundness": 47.15, "metric_rectangularity": 65.46, "metric_mobile_fit": 11.65, "metric_aspect_ratio": 1.446, "metric_area_km2": 23.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3749872, 48.0330438 ], [ 4.382386, 48.047303 ], [ 4.3681614, 48.0469076 ], [ 4.3524952, 48.0520603 ], [ 4.3286861, 48.045145299999987 ], [ 4.3165795, 48.048051 ], [ 4.3170157, 48.041563299999986 ], [ 4.3304626, 48.037880699999988 ], [ 4.337611, 48.021629499999989 ], [ 4.378305, 48.025065 ], [ 4.3749872, 48.0330438 ] ] ] } }
+]
+}

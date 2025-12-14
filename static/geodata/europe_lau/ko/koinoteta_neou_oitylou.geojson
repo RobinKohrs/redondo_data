@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neou_oitylou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νέου Οιτύλου", "metric_roundness": 39.63, "metric_rectangularity": 48.64, "metric_mobile_fit": 42.82, "metric_aspect_ratio": 1.134, "metric_area_km2": 3.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.3965674, 36.6847836 ], [ 22.4052475, 36.6879625 ], [ 22.40377, 36.6888775 ], [ 22.3981083, 36.6931819 ], [ 22.3918955, 36.7027545 ], [ 22.383751, 36.6963045 ], [ 22.3883472, 36.6935795 ], [ 22.3890588, 36.690402099999979 ], [ 22.3798265, 36.684963 ], [ 22.3965674, 36.6847836 ] ] ] } }
+]
+}

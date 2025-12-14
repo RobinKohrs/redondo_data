@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schofflisdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schöfflisdorf", "metric_roundness": 28.84, "metric_rectangularity": 65.95, "metric_mobile_fit": 81.54, "metric_aspect_ratio": 0.378, "metric_area_km2": 8.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4229914, 47.489317899999982 ], [ 8.4296304, 47.4980783 ], [ 8.4287181, 47.506381199999986 ], [ 8.4215195, 47.5116465 ], [ 8.423049, 47.5180955 ], [ 8.4186275, 47.523107 ], [ 8.4087739, 47.522559799999989 ], [ 8.4138588, 47.5146075 ], [ 8.4128401, 47.509785299999983 ], [ 8.4088969, 47.5076325 ], [ 8.4126697, 47.5045214 ], [ 8.4111041, 47.498905799999989 ], [ 8.413628, 47.485822 ], [ 8.4229914, 47.489317899999982 ] ] ] } }
+]
+}

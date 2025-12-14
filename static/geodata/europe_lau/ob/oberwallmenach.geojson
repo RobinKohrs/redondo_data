@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberwallmenach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberwallmenach", "metric_roundness": 32.75, "metric_rectangularity": 58.48, "metric_mobile_fit": 60.27, "metric_aspect_ratio": 0.96, "metric_area_km2": 7.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8583221, 50.147733 ], [ 7.8622795, 50.154917 ], [ 7.846714, 50.157811099999989 ], [ 7.8325515, 50.174872 ], [ 7.8211101, 50.168235599999981 ], [ 7.8192836, 50.162923499999984 ], [ 7.8280765, 50.157094 ], [ 7.8347746, 50.158487299999983 ], [ 7.8477701, 50.1523151 ], [ 7.852484, 50.146173499999982 ], [ 7.8583221, 50.147733 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vila_franca_da_serra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vila Franca da Serra", "metric_roundness": 48.61, "metric_rectangularity": 68.74, "metric_mobile_fit": 68.59, "metric_aspect_ratio": 0.877, "metric_area_km2": 19.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5451281, 40.5642621 ], [ -7.5367875, 40.5703615 ], [ -7.5379039, 40.5746949 ], [ -7.5315234, 40.5798602 ], [ -7.5265102, 40.5940005 ], [ -7.5310323, 40.5974014 ], [ -7.5276405, 40.6079135 ], [ -7.5484832, 40.6012586 ], [ -7.5616342, 40.5934668 ], [ -7.5768955, 40.5777285 ], [ -7.5596905, 40.5685935 ], [ -7.5451281, 40.5642621 ] ] ] } }
+]
+}

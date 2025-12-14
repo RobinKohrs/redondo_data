@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sgouradon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σγουράδων", "metric_roundness": 35.91, "metric_rectangularity": 61.71, "metric_mobile_fit": 83.35, "metric_aspect_ratio": 0.729, "metric_area_km2": 6.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.8296142, 39.739448399999986 ], [ 19.8231774, 39.746842 ], [ 19.8179115, 39.7477735 ], [ 19.8047295, 39.750943 ], [ 19.8031335, 39.743858 ], [ 19.804693, 39.7429505 ], [ 19.8084, 39.74141 ], [ 19.8115926, 39.7398452 ], [ 19.8160841, 39.7352503 ], [ 19.820346, 39.721476 ], [ 19.8284899, 39.722966099999987 ], [ 19.8310675, 39.7330325 ], [ 19.8296142, 39.739448399999986 ] ] ] } }
+]
+}

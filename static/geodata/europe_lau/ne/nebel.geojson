@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nebel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nebel", "metric_roundness": 43.13, "metric_rectangularity": 69.77, "metric_mobile_fit": 52.82, "metric_aspect_ratio": 1.034, "metric_area_km2": 43.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.3041935, 54.6544136 ], [ 8.3388095, 54.6277775 ], [ 8.3502507, 54.6353606 ], [ 8.3555206, 54.6306705 ], [ 8.379423, 54.6332045 ], [ 8.3779821, 54.6425591 ], [ 8.3611586, 54.650501399999982 ], [ 8.3498545, 54.675365 ], [ 8.3435904, 54.674247399999985 ], [ 8.3420089, 54.66923019999998 ], [ 8.294351, 54.6656055 ], [ 8.3041935, 54.6544136 ] ] ] } }
+]
+}

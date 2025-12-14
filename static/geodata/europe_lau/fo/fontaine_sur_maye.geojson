@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontaine_sur_maye",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontaine-sur-Maye", "metric_roundness": 54.12, "metric_rectangularity": 61.73, "metric_mobile_fit": 28.45, "metric_aspect_ratio": 1.278, "metric_area_km2": 13.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9323595, 50.24814 ], [ 1.9297285, 50.2447565 ], [ 1.9255395, 50.241736 ], [ 1.9215995, 50.2444155 ], [ 1.915887, 50.239675 ], [ 1.91031, 50.2438385 ], [ 1.9069405, 50.2452175 ], [ 1.901975, 50.238714599999987 ], [ 1.9102659, 50.2336511 ], [ 1.9100335, 50.228508499999982 ], [ 1.9149399, 50.2272509 ], [ 1.9269036, 50.2318889 ], [ 1.943013, 50.222776 ], [ 1.9526527, 50.2360445 ], [ 1.94795, 50.244735 ], [ 1.9323595, 50.24814 ] ] ] } }
+]
+}

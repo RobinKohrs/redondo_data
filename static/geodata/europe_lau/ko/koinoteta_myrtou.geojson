@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_myrtou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μύρτου", "metric_roundness": 25.63, "metric_rectangularity": 59.28, "metric_mobile_fit": -68.75, "metric_aspect_ratio": 2.25, "metric_area_km2": 13.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.5713815, 35.0068845 ], [ 25.569771, 34.9997725 ], [ 25.568933, 34.9970035 ], [ 25.5962067, 35.0065538 ], [ 25.64137, 35.005571 ], [ 25.636432, 35.015871 ], [ 25.6245465, 35.0233725 ], [ 25.612395, 35.0176115 ], [ 25.5935535, 35.0153029 ], [ 25.5754775, 35.0183305 ], [ 25.5713815, 35.0068845 ] ] ] } }
+]
+}

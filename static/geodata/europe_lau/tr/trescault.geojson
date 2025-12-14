@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trescault",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trescault", "metric_roundness": 44.05, "metric_rectangularity": 64.64, "metric_mobile_fit": 74.78, "metric_aspect_ratio": 0.815, "metric_area_km2": 11.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.096354, 50.097401799999979 ], [ 3.0893514, 50.096041799999988 ], [ 3.0770939, 50.0880551 ], [ 3.0794235, 50.080395399999986 ], [ 3.0857692, 50.0788774 ], [ 3.0870335, 50.075521 ], [ 3.087662, 50.0755615 ], [ 3.0899798, 50.082816699999988 ], [ 3.1039408, 50.079629499999989 ], [ 3.11406, 50.0923805 ], [ 3.1115062, 50.104202199999989 ], [ 3.104605, 50.104631 ], [ 3.096354, 50.097401799999979 ] ] ] } }
+]
+}

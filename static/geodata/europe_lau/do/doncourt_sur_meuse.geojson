@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "doncourt_sur_meuse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Doncourt-sur-Meuse", "metric_roundness": 39.44, "metric_rectangularity": 61.31, "metric_mobile_fit": 66.89, "metric_aspect_ratio": 0.894, "metric_area_km2": 14.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.580518, 48.1508861 ], [ 5.56584, 48.1579945 ], [ 5.5655029, 48.1540292 ], [ 5.5595371, 48.150955 ], [ 5.558656, 48.147212 ], [ 5.5862498, 48.1325979 ], [ 5.584715, 48.124985 ], [ 5.5931395, 48.122097499999988 ], [ 5.59577, 48.122249 ], [ 5.6005805, 48.1250405 ], [ 5.6067275, 48.1374235 ], [ 5.5979051, 48.140238699999983 ], [ 5.6062235, 48.143378 ], [ 5.5921435, 48.148782 ], [ 5.580518, 48.1508861 ] ] ] } }
+]
+}

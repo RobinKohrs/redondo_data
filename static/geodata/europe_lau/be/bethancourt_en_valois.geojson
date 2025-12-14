@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bethancourt_en_valois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Béthancourt-en-Valois", "metric_roundness": 70.07, "metric_rectangularity": 81.36, "metric_mobile_fit": 55.68, "metric_aspect_ratio": 1.006, "metric_area_km2": 9.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8873566, 49.2693397 ], [ 2.8924626, 49.279209900000012 ], [ 2.8914795, 49.2854305 ], [ 2.878357, 49.286164 ], [ 2.876693, 49.287303 ], [ 2.8761235, 49.289283 ], [ 2.8739305, 49.289697 ], [ 2.8691195, 49.289403 ], [ 2.8635753, 49.288075799999973 ], [ 2.8606587, 49.283157300000013 ], [ 2.863089, 49.271848 ], [ 2.8822275, 49.269067 ], [ 2.8873566, 49.2693397 ] ] ] } }
+]
+}

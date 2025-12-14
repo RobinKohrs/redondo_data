@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chamoux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chamoux", "metric_roundness": 55.41, "metric_rectangularity": 69.22, "metric_mobile_fit": 34.64, "metric_aspect_ratio": 1.216, "metric_area_km2": 15.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6532262, 47.4490549 ], [ 3.6673813, 47.446723099999986 ], [ 3.6738705, 47.4493512 ], [ 3.6773615, 47.446859499999974 ], [ 3.679361, 47.447241 ], [ 3.6786774, 47.4505622 ], [ 3.6820089, 47.452871699999982 ], [ 3.6793545, 47.47333 ], [ 3.656665, 47.4700801 ], [ 3.6402509, 47.463186799999981 ], [ 3.634153, 47.456077 ], [ 3.6532262, 47.4490549 ] ] ] } }
+]
+}

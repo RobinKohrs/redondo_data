@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_ancede_e_ribadouro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Ancede e Ribadouro", "metric_roundness": 38.93, "metric_rectangularity": 59.04, "metric_mobile_fit": -21.04, "metric_aspect_ratio": 1.773, "metric_area_km2": 26.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.0527782, 41.0898817 ], [ -8.027031, 41.096843499999984 ], [ -8.014155, 41.104321 ], [ -8.0133655, 41.104488 ], [ -8.026811, 41.112759 ], [ -8.0438135, 41.1157529 ], [ -8.0461336, 41.1218146 ], [ -8.0512374, 41.1254485 ], [ -8.067185, 41.12359 ], [ -8.072834, 41.1181185 ], [ -8.0745555, 41.101654299999986 ], [ -8.0904755, 41.105795299999983 ], [ -8.097055, 41.104672 ], [ -8.096943, 41.1007365 ], [ -8.0897018, 41.0982904 ], [ -8.0827285, 41.091744 ], [ -8.0527782, 41.0898817 ] ] ] } }
+]
+}

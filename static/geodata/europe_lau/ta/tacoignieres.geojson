@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tacoignieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tacoignières", "metric_roundness": 51.09, "metric_rectangularity": 68.05, "metric_mobile_fit": 83.3, "metric_aspect_ratio": 0.73, "metric_area_km2": 7.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6653905, 48.84230849999998 ], [ 1.6633715, 48.84053549999998 ], [ 1.660677, 48.8425065 ], [ 1.658917, 48.8416335 ], [ 1.6539853, 48.8332226 ], [ 1.6555049, 48.8277358 ], [ 1.6515614, 48.8244397 ], [ 1.6562005, 48.821476 ], [ 1.6682613, 48.8245426 ], [ 1.6770975, 48.831894 ], [ 1.6771692, 48.8397108 ], [ 1.670264, 48.844582499999987 ], [ 1.6653905, 48.84230849999998 ] ] ] } }
+]
+}

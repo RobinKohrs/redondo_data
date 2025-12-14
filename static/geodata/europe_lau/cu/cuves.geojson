@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cuves", "metric_roundness": 54.72, "metric_rectangularity": 62.13, "metric_mobile_fit": 63.97, "metric_aspect_ratio": 0.923, "metric_area_km2": 11.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.448363, 48.0820195 ], [ 5.4507585, 48.087126499999982 ], [ 5.441693, 48.110094 ], [ 5.4360265, 48.109703499999988 ], [ 5.4189458, 48.0969543 ], [ 5.4121965, 48.0953819 ], [ 5.4119704, 48.093087799999985 ], [ 5.422416, 48.086125 ], [ 5.448363, 48.0820195 ] ] ] } }
+]
+}

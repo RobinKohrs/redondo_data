@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lohrheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lohrheim", "metric_roundness": 40.3, "metric_rectangularity": 73.18, "metric_mobile_fit": 26.58, "metric_aspect_ratio": 1.297, "metric_area_km2": 10.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0401795, 50.3227695 ], [ 8.0280026, 50.314477799999985 ], [ 8.014921, 50.310516 ], [ 8.0175675, 50.3031865 ], [ 8.0489769, 50.3085692 ], [ 8.063599, 50.3182905 ], [ 8.0513695, 50.327159 ], [ 8.0401795, 50.3227695 ] ] ] } }
+]
+}

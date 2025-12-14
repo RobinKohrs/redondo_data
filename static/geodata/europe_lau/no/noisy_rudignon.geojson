@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "noisy_rudignon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Noisy-Rudignon", "metric_roundness": 30.64, "metric_rectangularity": 47.71, "metric_mobile_fit": 96.28, "metric_aspect_ratio": 0.6, "metric_area_km2": 10.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.922061, 48.331405499999981 ], [ 2.9374132, 48.326980699999986 ], [ 2.943897, 48.3181535 ], [ 2.9500714, 48.321515399999988 ], [ 2.9456805, 48.329550599999983 ], [ 2.9476135, 48.331975 ], [ 2.9463275, 48.335134499999988 ], [ 2.9386835, 48.3377917 ], [ 2.9385685, 48.35658249999998 ], [ 2.932312, 48.352163499999989 ], [ 2.9223645, 48.344391 ], [ 2.915403, 48.3367345 ], [ 2.922061, 48.331405499999981 ] ] ] } }
+]
+}

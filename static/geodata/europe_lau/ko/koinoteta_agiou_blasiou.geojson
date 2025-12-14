@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agiou_blasiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγίου Βλασίου", "metric_roundness": 48.13, "metric_rectangularity": 69.99, "metric_mobile_fit": 36.52, "metric_aspect_ratio": 1.197, "metric_area_km2": 16.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.00978, 38.5596835 ], [ 24.0273032, 38.5617555 ], [ 24.052232, 38.558696 ], [ 24.0566619, 38.569796 ], [ 24.055502, 38.5767015 ], [ 24.051149, 38.5766215 ], [ 24.047003, 38.5773205 ], [ 24.0382535, 38.580938 ], [ 24.0332235, 38.5825465 ], [ 24.025222, 38.584644499999989 ], [ 24.0205705, 38.586183 ], [ 24.016266, 38.5873095 ], [ 24.011305, 38.588826 ], [ 24.00916, 38.5897125 ], [ 24.00978, 38.5596835 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kenn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kenn", "metric_roundness": 41.37, "metric_rectangularity": 71.9, "metric_mobile_fit": 11.41, "metric_aspect_ratio": 1.448, "metric_area_km2": 11.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.709043, 49.805967899999985 ], [ 6.7012631, 49.8018067 ], [ 6.7035134, 49.7937717 ], [ 6.7125254, 49.7952158 ], [ 6.721293, 49.792906 ], [ 6.7343868, 49.794115 ], [ 6.7474089, 49.8079292 ], [ 6.7464845, 49.813468499999985 ], [ 6.709043, 49.805967899999985 ] ] ] } }
+]
+}

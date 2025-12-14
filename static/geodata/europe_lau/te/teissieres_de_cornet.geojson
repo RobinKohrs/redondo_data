@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "teissieres_de_cornet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Teissières-de-Cornet", "metric_roundness": 24.89, "metric_rectangularity": 50.24, "metric_mobile_fit": -11.51, "metric_aspect_ratio": 1.678, "metric_area_km2": 18.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3968811, 44.9852543 ], [ 2.3978215, 44.989704699999983 ], [ 2.3811855, 44.99149 ], [ 2.3556344, 44.9837773 ], [ 2.3560841, 44.980215799999989 ], [ 2.3506572, 44.9764075 ], [ 2.3356545, 44.9763903 ], [ 2.3243415, 44.9682477 ], [ 2.322046, 44.960231 ], [ 2.3219825, 44.959511 ], [ 2.3398142, 44.9677664 ], [ 2.3711988, 44.9622891 ], [ 2.377649, 44.9679258 ], [ 2.3788983, 44.9776915 ], [ 2.3883485, 44.978256 ], [ 2.3968811, 44.9852543 ] ] ] } }
+]
+}

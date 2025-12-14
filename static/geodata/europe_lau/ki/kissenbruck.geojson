@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kissenbruck",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kissenbrück", "metric_roundness": 46.53, "metric_rectangularity": 67.0, "metric_mobile_fit": -10.15, "metric_aspect_ratio": 1.664, "metric_area_km2": 17.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.5993663, 52.100074699999986 ], [ 10.6033291, 52.1045213 ], [ 10.6222402, 52.110188799999989 ], [ 10.6276795, 52.116127 ], [ 10.5993663, 52.1214574 ], [ 10.5880533, 52.1189812 ], [ 10.5684325, 52.119801 ], [ 10.5698685, 52.111009 ], [ 10.5773147, 52.106582 ], [ 10.576442, 52.099624 ], [ 10.585858, 52.099591 ], [ 10.59369, 52.099624 ], [ 10.5972525, 52.09971 ], [ 10.5993663, 52.100074699999986 ] ] ] } }
+]
+}

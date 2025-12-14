@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lebetain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lebetain", "metric_roundness": 58.38, "metric_rectangularity": 72.08, "metric_mobile_fit": 56.72, "metric_aspect_ratio": 0.995, "metric_area_km2": 10.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9881992, 47.4869716 ], [ 6.982914, 47.4942705 ], [ 6.9748655, 47.497531699999989 ], [ 6.9639365, 47.4963225 ], [ 6.9560064, 47.492379299999982 ], [ 6.9524445, 47.484932499999985 ], [ 6.9573425, 47.482395 ], [ 6.9700335, 47.47932 ], [ 6.972324, 47.4773805 ], [ 6.9815845, 47.47309 ], [ 6.988503, 47.473049 ], [ 6.9881992, 47.4869716 ] ] ] } }
+]
+}

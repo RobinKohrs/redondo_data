@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hamelincourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hamelincourt", "metric_roundness": 57.23, "metric_rectangularity": 69.07, "metric_mobile_fit": 86.19, "metric_aspect_ratio": 0.701, "metric_area_km2": 16.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7979658, 50.166916199999989 ], [ 2.806826, 50.167696 ], [ 2.8211203, 50.1778087 ], [ 2.822511, 50.18292 ], [ 2.8208547, 50.186937 ], [ 2.8154616, 50.1883439 ], [ 2.8123146, 50.1962957 ], [ 2.8084538, 50.1948416 ], [ 2.801316, 50.1991405 ], [ 2.789854, 50.201212 ], [ 2.784987, 50.197864 ], [ 2.7898583, 50.1839602 ], [ 2.786554, 50.1722075 ], [ 2.7979658, 50.166916199999989 ] ] ] } }
+]
+}

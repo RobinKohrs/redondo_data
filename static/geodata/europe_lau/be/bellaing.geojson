@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bellaing",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bellaing", "metric_roundness": 56.08, "metric_rectangularity": 81.57, "metric_mobile_fit": 65.33, "metric_aspect_ratio": 0.909, "metric_area_km2": 7.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4381821, 50.3704831 ], [ 3.4306092, 50.371749099999981 ], [ 3.4297235, 50.37763349999998 ], [ 3.409003, 50.368788 ], [ 3.4218735, 50.354011 ], [ 3.4294705, 50.3562588 ], [ 3.4309425, 50.360584699999983 ], [ 3.442672, 50.3627195 ], [ 3.4381821, 50.3704831 ] ] ] } }
+]
+}

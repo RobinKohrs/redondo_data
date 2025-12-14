@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borgiallo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Borgiallo", "metric_roundness": 15.63, "metric_rectangularity": 53.31, "metric_mobile_fit": 84.5, "metric_aspect_ratio": 0.407, "metric_area_km2": 13.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.676226, 45.4158003 ], [ 7.6712731, 45.429357199999984 ], [ 7.6528578, 45.445007699999984 ], [ 7.6441845, 45.458297 ], [ 7.6419375, 45.4585395 ], [ 7.6389706, 45.450956599999984 ], [ 7.642988, 45.437682499999987 ], [ 7.6572872, 45.4263907 ], [ 7.6618314, 45.4157435 ], [ 7.6609765, 45.409338 ], [ 7.6673225, 45.394372 ], [ 7.674614, 45.408478 ], [ 7.676226, 45.4158003 ] ] ] } }
+]
+}

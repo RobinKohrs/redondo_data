@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alpendorada_varzea_e_torrao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alpendorada, Várzea e Torrão", "metric_roundness": 55.92, "metric_rectangularity": 75.07, "metric_mobile_fit": 27.14, "metric_aspect_ratio": 1.291, "metric_area_km2": 29.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.2282602, 41.0979122 ], [ -8.2492965, 41.107778 ], [ -8.2525605, 41.1011771 ], [ -8.2575382, 41.0981494 ], [ -8.2821845, 41.093723499999989 ], [ -8.2853775, 41.0907295 ], [ -8.2929605, 41.0801465 ], [ -8.284054, 41.074684 ], [ -8.2807745, 41.0684933 ], [ -8.2732835, 41.065110499999989 ], [ -8.263992, 41.065857 ], [ -8.2594201, 41.069700399999988 ], [ -8.2460972, 41.0697707 ], [ -8.2336984, 41.0784415 ], [ -8.2204415, 41.080239 ], [ -8.219872, 41.080707 ], [ -8.2282602, 41.0979122 ] ] ] } }
+]
+}

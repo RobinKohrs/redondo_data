@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ondavka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ondavka", "metric_roundness": 54.47, "metric_rectangularity": 68.92, "metric_mobile_fit": 39.33, "metric_aspect_ratio": 1.169, "metric_area_km2": 7.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3220493, 49.4451678 ], [ 21.3236727, 49.43806 ], [ 21.3353755, 49.4304565 ], [ 21.353345, 49.44446 ], [ 21.346573, 49.449393 ], [ 21.3349592, 49.4509398 ], [ 21.316513, 49.4478995 ], [ 21.3220493, 49.4451678 ] ] ] } }
+]
+}

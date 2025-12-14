@@ -1,0 +1,11 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+world_countries,Saint Barthélemy,saint_barthelemy,sa,28.79,42.6,3.11
+world_countries,Saint Lucia,saint_lucia,sa,39.07,64.84,93.34
+world_countries,Saint Kitts and Nevis,saint_kitts_and_nevis,sa,22.55,57.2,43.02
+world_countries,Saint Pierre and Miquelon,saint_pierre_and_miquelon,sa,16.5,40.97,75.45
+world_countries,Saudi Arabia,saudi_arabia,sa,47.17,64.18,34.91
+world_countries,São Tomé and Príncipe,sao_tome_and_principe,sa,49.75,68.7,80.27
+world_countries,San Marino,san_marino,sa,46.64,63.85,74.4
+world_countries,"Saint Helena, Ascension and Tristan Da Cunha",saint_helena_ascension_and_tristan_da_cunha,sa,79.55,78.98,56.67
+world_countries,Samoa,samoa,sa,43.63,62.99,-12.2
+world_countries,Saint Vincent and The Grenadines,saint_vincent_and_the_grenadines,sa,52.54,71.98,94.67

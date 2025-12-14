@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "benningen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Benningen", "metric_roundness": 46.57, "metric_rectangularity": 62.77, "metric_mobile_fit": 51.8, "metric_aspect_ratio": 1.045, "metric_area_km2": 20.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.236536, 47.960097 ], [ 10.2412718, 47.965622499999974 ], [ 10.2355425, 47.982076 ], [ 10.208217, 47.980968 ], [ 10.2007768, 47.9769666 ], [ 10.2027917, 47.968430799999986 ], [ 10.1964333, 47.9603109 ], [ 10.1966743, 47.956071699999988 ], [ 10.18767, 47.9508 ], [ 10.1988981, 47.95193159999998 ], [ 10.206286, 47.947715 ], [ 10.236536, 47.960097 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourg_beaudouin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourg-Beaudouin", "metric_roundness": 72.84, "metric_rectangularity": 75.58, "metric_mobile_fit": 57.29, "metric_aspect_ratio": 0.99, "metric_area_km2": 12.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.297464, 49.39467 ], [ 1.286129, 49.3869265 ], [ 1.289197, 49.37549 ], [ 1.3159561, 49.370626799999982 ], [ 1.3183735, 49.379972 ], [ 1.3252127, 49.3872266 ], [ 1.308006, 49.396337499999987 ], [ 1.297464, 49.39467 ] ] ] } }
+]
+}

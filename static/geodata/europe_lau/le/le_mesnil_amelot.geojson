@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_mesnil_amelot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Mesnil-Amelot", "metric_roundness": 53.25, "metric_rectangularity": 62.62, "metric_mobile_fit": 36.09, "metric_aspect_ratio": 1.202, "metric_area_km2": 22.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6247605, 49.0097005 ], [ 2.6274385, 49.01221 ], [ 2.6271795, 49.0155531 ], [ 2.6141707, 49.0240818 ], [ 2.6108745, 49.0314085 ], [ 2.6013125, 49.035159 ], [ 2.5845823, 49.0268929 ], [ 2.5728096, 49.014817399999977 ], [ 2.5657855, 49.012398 ], [ 2.5635375, 49.005772299999983 ], [ 2.5700216, 49.0067724 ], [ 2.575839, 49.0002825 ], [ 2.6023548, 49.006929399999976 ], [ 2.6241005, 49.0070285 ], [ 2.6247605, 49.0097005 ] ] ] } }
+]
+}

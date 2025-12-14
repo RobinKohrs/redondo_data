@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "podhorany_okres_presov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Podhorany (okres Prešov)", "metric_roundness": 26.43, "metric_rectangularity": 54.47, "metric_mobile_fit": 83.1, "metric_aspect_ratio": 0.393, "metric_area_km2": 16.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3647835, 49.0626135 ], [ 21.365819, 49.0622745 ], [ 21.3601118, 49.076567 ], [ 21.3587309, 49.0926696 ], [ 21.3624305, 49.113963499999983 ], [ 21.3557595, 49.112727499999984 ], [ 21.3384954, 49.092791399999989 ], [ 21.334764, 49.076557499999986 ], [ 21.3406552, 49.0755937 ], [ 21.3464608, 49.068395 ], [ 21.353332, 49.066004499999984 ], [ 21.3647835, 49.0626135 ] ] ] } }
+]
+}

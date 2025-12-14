@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mureils",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mureils", "metric_roundness": 35.5, "metric_rectangularity": 58.7, "metric_mobile_fit": 99.07, "metric_aspect_ratio": 0.572, "metric_area_km2": 11.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.9242563, 45.2055471 ], [ 4.930021, 45.1996435 ], [ 4.9383615, 45.1996815 ], [ 4.9446249, 45.204256899999983 ], [ 4.9418555, 45.209590499999983 ], [ 4.937758, 45.2129666 ], [ 4.9338538, 45.2272176 ], [ 4.927811, 45.236056 ], [ 4.9235165, 45.238217 ], [ 4.913313, 45.2104985 ], [ 4.9242563, 45.2055471 ] ] ] } }
+]
+}

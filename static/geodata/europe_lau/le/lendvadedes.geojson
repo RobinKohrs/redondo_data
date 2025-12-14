@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lendvadedes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lendvadedes", "metric_roundness": 29.32, "metric_rectangularity": 60.97, "metric_mobile_fit": 89.16, "metric_aspect_ratio": 0.454, "metric_area_km2": 8.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.522816, 46.565333 ], [ 16.5259592, 46.5694531 ], [ 16.5255553, 46.575492399999987 ], [ 16.514553, 46.5843114 ], [ 16.5119945, 46.5927235 ], [ 16.5073367, 46.5915037 ], [ 16.5013223, 46.5768233 ], [ 16.5021642, 46.573741299999988 ], [ 16.5096929, 46.570672599999988 ], [ 16.5084195, 46.565269 ], [ 16.516481, 46.5554315 ], [ 16.522816, 46.565333 ] ] ] } }
+]
+}

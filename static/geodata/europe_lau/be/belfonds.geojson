@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belfonds",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Belfonds", "metric_roundness": 50.16, "metric_rectangularity": 70.45, "metric_mobile_fit": 41.73, "metric_aspect_ratio": 1.145, "metric_area_km2": 32.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1012148, 48.632835 ], [ 0.0828269, 48.6070742 ], [ 0.0719412, 48.6017101 ], [ 0.0693945, 48.5955685 ], [ 0.0746865, 48.595454 ], [ 0.078111, 48.594665 ], [ 0.0898335, 48.590355 ], [ 0.09533, 48.591772 ], [ 0.105374, 48.5902535 ], [ 0.108942, 48.589205 ], [ 0.1263369, 48.60766469999998 ], [ 0.1449626, 48.615849699999984 ], [ 0.133068, 48.626473 ], [ 0.1135115, 48.631125499999982 ], [ 0.1012148, 48.632835 ] ] ] } }
+]
+}

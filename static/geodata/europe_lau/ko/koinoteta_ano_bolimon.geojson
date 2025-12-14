@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_bolimon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Βολιμών", "metric_roundness": 48.6, "metric_rectangularity": 67.39, "metric_mobile_fit": -12.08, "metric_aspect_ratio": 1.683, "metric_area_km2": 17.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6915743, 37.882311099999988 ], [ 20.6768349, 37.887424599999981 ], [ 20.6695802, 37.8839901 ], [ 20.6646263, 37.878254 ], [ 20.6645835, 37.8720807 ], [ 20.6805385, 37.859979 ], [ 20.6998676, 37.8617629 ], [ 20.7253875, 37.878304 ], [ 20.7174755, 37.888491499999986 ], [ 20.6915743, 37.882311099999988 ] ] ] } }
+]
+}

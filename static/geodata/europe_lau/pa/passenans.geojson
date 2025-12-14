@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "passenans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Passenans", "metric_roundness": 66.8, "metric_rectangularity": 69.58, "metric_mobile_fit": 39.08, "metric_aspect_ratio": 1.172, "metric_area_km2": 10.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.61729, 46.793381 ], [ 5.626018, 46.793536 ], [ 5.637426, 46.797844499999982 ], [ 5.639101, 46.7995075 ], [ 5.640564, 46.803067 ], [ 5.6443245, 46.8066495 ], [ 5.6428181, 46.8109945 ], [ 5.6342371, 46.8125899 ], [ 5.6228108, 46.808810699999988 ], [ 5.6200406, 46.8109676 ], [ 5.6203065, 46.816031 ], [ 5.6116425, 46.813024 ], [ 5.6055508, 46.806003899999979 ], [ 5.611406, 46.794989 ], [ 5.61729, 46.793381 ] ] ] } }
+]
+}

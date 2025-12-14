@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guilherand_granges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guilherand-Granges", "metric_roundness": 48.82, "metric_rectangularity": 67.57, "metric_mobile_fit": 55.82, "metric_aspect_ratio": 1.004, "metric_area_km2": 12.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.885333, 44.9409565 ], [ 4.8813685, 44.9446025 ], [ 4.8622295, 44.9385332 ], [ 4.8542861, 44.9411661 ], [ 4.8462625, 44.918307 ], [ 4.8519005, 44.916928 ], [ 4.8585531, 44.9161703 ], [ 4.862444, 44.9199239 ], [ 4.8710835, 44.9162205 ], [ 4.8719015, 44.919189499999987 ], [ 4.873797, 44.92217 ], [ 4.8855645, 44.9346515 ], [ 4.8865945, 44.9366525 ], [ 4.885333, 44.9409565 ] ] ] } }
+]
+}

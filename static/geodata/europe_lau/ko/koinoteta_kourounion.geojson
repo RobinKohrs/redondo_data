@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kourounion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κουρουνίων", "metric_roundness": 36.63, "metric_rectangularity": 53.6, "metric_mobile_fit": 93.77, "metric_aspect_ratio": 0.625, "metric_area_km2": 21.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.8914598, 38.5827812 ], [ 25.899205, 38.570849 ], [ 25.8983565, 38.54201 ], [ 25.9028796, 38.5396396 ], [ 25.9043964, 38.5346584 ], [ 25.910766, 38.5332405 ], [ 25.9108202, 38.5396246 ], [ 25.9179901, 38.5558022 ], [ 25.9281838, 38.567060599999984 ], [ 25.929869, 38.582102499999984 ], [ 25.9294605, 38.588923 ], [ 25.8990746, 38.589362199999989 ], [ 25.885029, 38.586876 ], [ 25.8914598, 38.5827812 ] ] ] } }
+]
+}

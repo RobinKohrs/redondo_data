@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_creixomil_e_mariz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Creixomil e Mariz", "metric_roundness": 49.23, "metric_rectangularity": 71.18, "metric_mobile_fit": 63.75, "metric_aspect_ratio": 0.925, "metric_area_km2": 12.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6576835, 41.545487 ], [ -8.658413, 41.550429 ], [ -8.6845545, 41.5488835 ], [ -8.686193, 41.546205 ], [ -8.689107, 41.5409375 ], [ -8.6786995, 41.5233175 ], [ -8.666451, 41.5237855 ], [ -8.6509955, 41.519588 ], [ -8.657692, 41.5369515 ], [ -8.6576835, 41.545487 ] ] ] } }
+]
+}

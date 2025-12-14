@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "biely_kostol",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Biely Kostol", "metric_roundness": 44.22, "metric_rectangularity": 68.47, "metric_mobile_fit": 70.58, "metric_aspect_ratio": 0.857, "metric_area_km2": 5.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5385943, 48.3661594 ], [ 17.5419263, 48.371879199999981 ], [ 17.5264307, 48.375557 ], [ 17.5259948, 48.371082899999983 ], [ 17.514239, 48.363227 ], [ 17.52049, 48.354084 ], [ 17.5385943, 48.3661594 ] ] ] } }
+]
+}

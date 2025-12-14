@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bainghen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bainghen", "metric_roundness": 42.64, "metric_rectangularity": 78.52, "metric_mobile_fit": 30.66, "metric_aspect_ratio": 1.256, "metric_area_km2": 16.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9117071, 50.765248 ], [ 1.890182, 50.7530241 ], [ 1.8781705, 50.750587 ], [ 1.8741358, 50.745241099999987 ], [ 1.878708, 50.738185 ], [ 1.894662, 50.736988 ], [ 1.9223374, 50.7504309 ], [ 1.9302315, 50.757213599999986 ], [ 1.9280815, 50.7616405 ], [ 1.9260053, 50.7645467 ], [ 1.9194626, 50.7629109 ], [ 1.9168415, 50.765028 ], [ 1.9117071, 50.765248 ] ] ] } }
+]
+}

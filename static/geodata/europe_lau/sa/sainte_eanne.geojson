@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_eanne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Eanne", "metric_roundness": 58.07, "metric_rectangularity": 77.35, "metric_mobile_fit": 71.49, "metric_aspect_ratio": 0.848, "metric_area_km2": 28.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1211648, 46.4164806 ], [ -0.126807, 46.415793 ], [ -0.1311126, 46.4104828 ], [ -0.168467, 46.393459 ], [ -0.1601435, 46.3864405 ], [ -0.1429014, 46.371272299999987 ], [ -0.1335255, 46.368885 ], [ -0.122112, 46.3777581 ], [ -0.113915, 46.3777963 ], [ -0.1123105, 46.3800115 ], [ -0.1155697, 46.384799099999988 ], [ -0.11093, 46.388664399999982 ], [ -0.1099726, 46.400209 ], [ -0.112375, 46.4059795 ], [ -0.1211648, 46.4164806 ] ] ] } }
+]
+}

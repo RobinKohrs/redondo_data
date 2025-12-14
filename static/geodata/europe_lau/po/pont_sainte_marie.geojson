@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pont_sainte_marie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pont-Sainte-Marie", "metric_roundness": 66.03, "metric_rectangularity": 71.13, "metric_mobile_fit": 38.5, "metric_aspect_ratio": 1.178, "metric_area_km2": 8.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.106869, 48.311804499999987 ], [ 4.1119125, 48.312343 ], [ 4.1135081, 48.317059299999983 ], [ 4.1140107, 48.3239835 ], [ 4.109292, 48.3288545 ], [ 4.0946072, 48.327766 ], [ 4.0797779, 48.318369799999985 ], [ 4.080092, 48.315369499999981 ], [ 4.0862869, 48.311560099999987 ], [ 4.0925181, 48.31323279999998 ], [ 4.1001185, 48.3095225 ], [ 4.106869, 48.311804499999987 ] ] ] } }
+]
+}

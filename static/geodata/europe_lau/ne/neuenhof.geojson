@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neuenhof",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neuenhof", "metric_roundness": 43.95, "metric_rectangularity": 72.44, "metric_mobile_fit": 70.71, "metric_aspect_ratio": 0.855, "metric_area_km2": 11.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.3142425, 47.441553499999984 ], [ 8.3289675, 47.427769 ], [ 8.3464, 47.437267 ], [ 8.3366145, 47.445006499999977 ], [ 8.3282923, 47.456213 ], [ 8.3137983, 47.455577299999987 ], [ 8.31082, 47.460036 ], [ 8.3055872, 47.4542977 ], [ 8.3109132, 47.449222699999986 ], [ 8.3079125, 47.445253 ], [ 8.3142425, 47.441553499999984 ] ] ] } }
+]
+}

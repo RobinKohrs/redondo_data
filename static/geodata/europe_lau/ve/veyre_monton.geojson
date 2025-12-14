@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "veyre_monton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Veyre-Monton", "metric_roundness": 52.96, "metric_rectangularity": 73.82, "metric_mobile_fit": 74.47, "metric_aspect_ratio": 0.818, "metric_area_km2": 24.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.182407, 45.658074499999977 ], [ 3.1889738, 45.663627299999987 ], [ 3.186197, 45.670912 ], [ 3.176444, 45.6857214 ], [ 3.183517, 45.6927505 ], [ 3.159528, 45.694009 ], [ 3.1457107, 45.6848241 ], [ 3.143315, 45.678381 ], [ 3.1454653, 45.6619272 ], [ 3.1411978, 45.6565228 ], [ 3.143268, 45.65319 ], [ 3.182407, 45.658074499999977 ] ] ] } }
+]
+}

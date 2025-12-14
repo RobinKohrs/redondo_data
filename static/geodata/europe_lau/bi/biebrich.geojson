@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "biebrich",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Biebrich", "metric_roundness": 48.18, "metric_rectangularity": 66.05, "metric_mobile_fit": 68.09, "metric_aspect_ratio": 0.882, "metric_area_km2": 7.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9394565, 50.310438099999985 ], [ 7.945816, 50.306853499999988 ], [ 7.9503375, 50.2965645 ], [ 7.9575265, 50.296166 ], [ 7.9619485, 50.294176 ], [ 7.9675469, 50.2982639 ], [ 7.9664092, 50.306424299999989 ], [ 7.969268, 50.310434 ], [ 7.952832, 50.3141035 ], [ 7.9408885, 50.315773499999985 ], [ 7.9394565, 50.310438099999985 ] ] ] } }
+]
+}

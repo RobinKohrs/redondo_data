@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "katerinice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kateřinice", "metric_roundness": 51.58, "metric_rectangularity": 68.51, "metric_mobile_fit": 31.93, "metric_aspect_ratio": 1.243, "metric_area_km2": 31.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9074696, 49.3745548 ], [ 17.9178335, 49.385092499999985 ], [ 17.900402, 49.3990745 ], [ 17.8778169, 49.4004208 ], [ 17.8624105, 49.40806 ], [ 17.8597905, 49.4067635 ], [ 17.8586165, 49.403916 ], [ 17.8494037, 49.394041799999982 ], [ 17.8514378, 49.3854242 ], [ 17.840324, 49.375514499999987 ], [ 17.8522956, 49.3771094 ], [ 17.8596459, 49.382257599999981 ], [ 17.8833885, 49.3674755 ], [ 17.9074696, 49.3745548 ] ] ] } }
+]
+}

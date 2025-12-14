@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kisasszond",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kisasszond", "metric_roundness": 56.31, "metric_rectangularity": 64.19, "metric_mobile_fit": 76.86, "metric_aspect_ratio": 0.794, "metric_area_km2": 16.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.630304, 46.3184046 ], [ 17.6367162, 46.314571599999987 ], [ 17.6500264, 46.3156648 ], [ 17.65611, 46.324587 ], [ 17.6481671, 46.3397624 ], [ 17.6321242, 46.3430288 ], [ 17.627061, 46.3492515 ], [ 17.6226582, 46.3465846 ], [ 17.6185393, 46.3263329 ], [ 17.614116, 46.324457 ], [ 17.6219916, 46.312729399999981 ], [ 17.6283355, 46.312879 ], [ 17.630304, 46.3184046 ] ] ] } }
+]
+}

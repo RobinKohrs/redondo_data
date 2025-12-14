@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cologno_monzese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cologno Monzese", "metric_roundness": 51.98, "metric_rectangularity": 56.52, "metric_mobile_fit": 55.16, "metric_aspect_ratio": 1.011, "metric_area_km2": 16.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2812381, 45.522721499999982 ], [ 9.30305, 45.52607 ], [ 9.3084743, 45.529673399999986 ], [ 9.305093, 45.536653 ], [ 9.2928707, 45.5424819 ], [ 9.2760754, 45.5454922 ], [ 9.2686095, 45.551276 ], [ 9.2628539, 45.548732499999986 ], [ 9.2604102, 45.543858299999982 ], [ 9.2646385, 45.537762099999981 ], [ 9.2653436, 45.529472699999985 ], [ 9.2586945, 45.519057499999974 ], [ 9.268408, 45.516783 ], [ 9.2812381, 45.522721499999982 ] ] ] } }
+]
+}

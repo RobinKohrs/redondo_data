@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neas_ionias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νέας Ιωνίας", "metric_roundness": 50.39, "metric_rectangularity": 62.71, "metric_mobile_fit": 40.58, "metric_aspect_ratio": 1.157, "metric_area_km2": 36.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.8746341, 39.3941336 ], [ 22.8929478, 39.396496599999985 ], [ 22.8924412, 39.374023 ], [ 22.919569, 39.3674435 ], [ 22.9222243, 39.3704397 ], [ 22.9337341, 39.3692212 ], [ 22.9435024, 39.373947199999982 ], [ 22.9432922, 39.380055599999984 ], [ 22.936111, 39.39456 ], [ 22.9358934, 39.4070415 ], [ 22.9106145, 39.421 ], [ 22.9051412, 39.4157033 ], [ 22.86334, 39.397618 ], [ 22.8746341, 39.3941336 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_katarraktou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καταρράκτου", "metric_roundness": 66.59, "metric_rectangularity": 79.13, "metric_mobile_fit": 74.05, "metric_aspect_ratio": 0.822, "metric_area_km2": 8.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.1039145, 38.249205499999981 ], [ 26.1028585, 38.2711965 ], [ 26.094387, 38.271808 ], [ 26.091787, 38.2724335 ], [ 26.0877615, 38.2708685 ], [ 26.085986, 38.269326 ], [ 26.084243, 38.2683275 ], [ 26.0772135, 38.2654175 ], [ 26.0803619, 38.2615169 ], [ 26.0819854, 38.2553514 ], [ 26.078196, 38.251476 ], [ 26.08799, 38.246927 ], [ 26.1039145, 38.249205499999981 ] ] ] } }
+]
+}

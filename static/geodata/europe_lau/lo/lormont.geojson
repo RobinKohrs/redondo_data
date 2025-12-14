@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lormont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lormont", "metric_roundness": 57.2, "metric_rectangularity": 72.27, "metric_mobile_fit": 38.11, "metric_aspect_ratio": 1.181, "metric_area_km2": 15.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.4942365, 44.8824165 ], [ -0.499006, 44.8865785 ], [ -0.5038155, 44.887814 ], [ -0.517051, 44.8878965 ], [ -0.535535, 44.889101 ], [ -0.5406449, 44.8701234 ], [ -0.5372726, 44.8671044 ], [ -0.5378505, 44.8612645 ], [ -0.5048655, 44.867887 ], [ -0.4970685, 44.876854 ], [ -0.4942365, 44.8824165 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourg_du_bost",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourg-du-Bost", "metric_roundness": 30.76, "metric_rectangularity": 60.24, "metric_mobile_fit": 94.22, "metric_aspect_ratio": 0.62, "metric_area_km2": 15.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2566009, 45.2647177 ], [ 0.2561229, 45.261254799999982 ], [ 0.26864, 45.24586 ], [ 0.2758879, 45.243649 ], [ 0.2805934, 45.246092099999984 ], [ 0.2790836, 45.2595929 ], [ 0.281584, 45.268857499999982 ], [ 0.2727963, 45.2690878 ], [ 0.2618965, 45.281424 ], [ 0.2526235, 45.2894035 ], [ 0.2490225, 45.288526499999989 ], [ 0.2468695, 45.289836 ], [ 0.24088, 45.273894 ], [ 0.2566009, 45.2647177 ] ] ] } }
+]
+}

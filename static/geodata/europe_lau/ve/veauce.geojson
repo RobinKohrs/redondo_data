@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "veauce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Veauce", "metric_roundness": 51.45, "metric_rectangularity": 66.22, "metric_mobile_fit": 26.45, "metric_aspect_ratio": 1.298, "metric_area_km2": 7.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.051814, 46.179021 ], [ 3.0401455, 46.178194 ], [ 3.0436592, 46.172788799999985 ], [ 3.0387565, 46.1607925 ], [ 3.0494115, 46.1638958 ], [ 3.0643628, 46.1616104 ], [ 3.072922, 46.169078 ], [ 3.063626, 46.171208 ], [ 3.06482, 46.173269499999989 ], [ 3.0661775, 46.1780295 ], [ 3.051814, 46.179021 ] ] ] } }
+]
+}

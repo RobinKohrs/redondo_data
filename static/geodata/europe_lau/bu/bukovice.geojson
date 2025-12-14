@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bukovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bukovice", "metric_roundness": 40.24, "metric_rectangularity": 52.93, "metric_mobile_fit": 15.61, "metric_aspect_ratio": 1.406, "metric_area_km2": 7.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5055795, 49.398288499999985 ], [ 16.4989439, 49.404795299999989 ], [ 16.5019543, 49.4132227 ], [ 16.491235, 49.4171245 ], [ 16.4776365, 49.4110156 ], [ 16.4666025, 49.411954 ], [ 16.464865, 49.40774649999998 ], [ 16.4745441, 49.4073667 ], [ 16.4774179, 49.402235499999989 ], [ 16.4844786, 49.398287299999986 ], [ 16.4967665, 49.400686499999978 ], [ 16.5055795, 49.398288499999985 ] ] ] } }
+]
+}

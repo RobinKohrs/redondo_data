@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "palmeira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Palmeira", "metric_roundness": 50.98, "metric_rectangularity": 64.44, "metric_mobile_fit": 38.28, "metric_aspect_ratio": 1.18, "metric_area_km2": 16.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4468455, 41.6034435 ], [ -8.4628435, 41.595541 ], [ -8.4525, 41.585216 ], [ -8.444576, 41.5796895 ], [ -8.4306612, 41.5836249 ], [ -8.4231975, 41.5720925 ], [ -8.411198, 41.5770245 ], [ -8.4124028, 41.5862518 ], [ -8.4193625, 41.5956541 ], [ -8.4202245, 41.603567 ], [ -8.433859, 41.604837 ], [ -8.4468455, 41.6034435 ] ] ] } }
+]
+}

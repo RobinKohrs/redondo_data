@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_aniadas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ανιάδας", "metric_roundness": 62.08, "metric_rectangularity": 67.83, "metric_mobile_fit": 81.53, "metric_aspect_ratio": 0.747, "metric_area_km2": 25.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7879795, 38.8422017 ], [ 21.7683415, 38.8406945 ], [ 21.7653104, 38.8103309 ], [ 21.771935, 38.792761 ], [ 21.7803579, 38.7916398 ], [ 21.7937341, 38.8012526 ], [ 21.8086925, 38.8071635 ], [ 21.8138005, 38.818086 ], [ 21.8008829, 38.828040099999988 ], [ 21.792355, 38.8399335 ], [ 21.7879795, 38.8422017 ] ] ] } }
+]
+}

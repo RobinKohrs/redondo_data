@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "flers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Flers", "metric_roundness": 64.1, "metric_rectangularity": 68.93, "metric_mobile_fit": 71.1, "metric_aspect_ratio": 0.852, "metric_area_km2": 15.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.835209, 50.046787 ], [ 2.8309604, 50.0504665 ], [ 2.831236, 50.063171 ], [ 2.8239981, 50.066941 ], [ 2.8124804, 50.0590861 ], [ 2.807202, 50.0624575 ], [ 2.7957075, 50.051262 ], [ 2.7945115, 50.050055 ], [ 2.800488, 50.043844 ], [ 2.806633, 50.0422352 ], [ 2.8075141, 50.039014499999986 ], [ 2.815596, 50.035853499999988 ], [ 2.8357385, 50.038959 ], [ 2.835209, 50.046787 ] ] ] } }
+]
+}

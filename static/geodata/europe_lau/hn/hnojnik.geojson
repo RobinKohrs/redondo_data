@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hnojnik",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hnojník", "metric_roundness": 53.76, "metric_rectangularity": 70.02, "metric_mobile_fit": 87.47, "metric_aspect_ratio": 0.688, "metric_area_km2": 15.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.5360011, 49.6713732 ], [ 18.552276, 49.665835 ], [ 18.557853, 49.672453499999989 ], [ 18.5553637, 49.680025499999985 ], [ 18.5581542, 49.6906873 ], [ 18.5529405, 49.697513 ], [ 18.5527145, 49.69900449999998 ], [ 18.5403593, 49.698059 ], [ 18.5312322, 49.6881789 ], [ 18.5246965, 49.685275 ], [ 18.5228945, 49.6711765 ], [ 18.5360011, 49.6713732 ] ] ] } }
+]
+}

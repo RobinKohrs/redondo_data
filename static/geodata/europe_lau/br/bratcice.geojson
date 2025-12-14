@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bratcice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bratčice", "metric_roundness": 38.26, "metric_rectangularity": 58.43, "metric_mobile_fit": 89.51, "metric_aspect_ratio": 0.667, "metric_area_km2": 13.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5096361, 49.081320799999986 ], [ 16.5143137, 49.077504499999989 ], [ 16.5051491, 49.0669428 ], [ 16.506778, 49.0638595 ], [ 16.537392, 49.05163 ], [ 16.538176, 49.0512855 ], [ 16.5417794, 49.055808 ], [ 16.5398073, 49.0636394 ], [ 16.542533, 49.0677075 ], [ 16.5371093, 49.06901 ], [ 16.524512, 49.0832785 ], [ 16.5185954, 49.087983399999978 ], [ 16.510541, 49.087144 ], [ 16.5096361, 49.081320799999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rummingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rümmingen", "metric_roundness": 26.63, "metric_rectangularity": 54.06, "metric_mobile_fit": -8.62, "metric_aspect_ratio": 1.649, "metric_area_km2": 9.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6278954, 47.6469566 ], [ 7.622319, 47.647822499999982 ], [ 7.6232126, 47.644178199999985 ], [ 7.6388701, 47.637090599999986 ], [ 7.6479645, 47.6371495 ], [ 7.6636259, 47.6419091 ], [ 7.6682874, 47.6505204 ], [ 7.6738763, 47.6505296 ], [ 7.6805225, 47.659167 ], [ 7.6745005, 47.660873 ], [ 7.6616118, 47.6512938 ], [ 7.6490926, 47.649195699999986 ], [ 7.638023, 47.651052 ], [ 7.6278954, 47.6469566 ] ] ] } }
+]
+}

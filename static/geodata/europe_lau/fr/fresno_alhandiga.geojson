@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fresno_alhandiga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fresno Alhándiga", "metric_roundness": 50.34, "metric_rectangularity": 71.01, "metric_mobile_fit": -17.83, "metric_aspect_ratio": 1.741, "metric_area_km2": 23.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.6423161, 40.727373199999988 ], [ -5.6478322, 40.7190048 ], [ -5.6563028, 40.716864 ], [ -5.665252, 40.710117499999988 ], [ -5.6412105, 40.6983945 ], [ -5.6095422, 40.698120399999986 ], [ -5.59925, 40.702812 ], [ -5.5968555, 40.713379 ], [ -5.6060835, 40.7202512 ], [ -5.6282385, 40.7279015 ], [ -5.6423161, 40.727373199999988 ] ] ] } }
+]
+}

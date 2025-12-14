@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_ilario_dello_ionio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant'Ilario dello Ionio", "metric_roundness": 32.57, "metric_rectangularity": 69.81, "metric_mobile_fit": 43.09, "metric_aspect_ratio": 1.132, "metric_area_km2": 21.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2095496, 38.2134274 ], [ 16.1865065, 38.238057 ], [ 16.1859595, 38.238890499999982 ], [ 16.1745617, 38.2376031 ], [ 16.159869, 38.22985 ], [ 16.1675058, 38.2235374 ], [ 16.1721172, 38.2150897 ], [ 16.222534, 38.188527 ], [ 16.232403, 38.199363499999983 ], [ 16.2095496, 38.2134274 ] ] ] } }
+]
+}

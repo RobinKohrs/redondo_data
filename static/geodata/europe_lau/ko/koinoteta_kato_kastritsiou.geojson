@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kato_kastritsiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κάτω Καστριτσίου", "metric_roundness": 34.65, "metric_rectangularity": 56.59, "metric_mobile_fit": -12.33, "metric_aspect_ratio": 1.686, "metric_area_km2": 11.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7777785, 38.2893235 ], [ 21.781008, 38.287066 ], [ 21.7851875, 38.2833265 ], [ 21.790548, 38.276952 ], [ 21.7966815, 38.273251 ], [ 21.8238095, 38.2800488 ], [ 21.8352015, 38.2911795 ], [ 21.8135738, 38.290226 ], [ 21.807166, 38.3007285 ], [ 21.7944345, 38.2973735 ], [ 21.7963125, 38.2912893 ], [ 21.7911962, 38.2882568 ], [ 21.7761885, 38.292753 ], [ 21.7777785, 38.2893235 ] ] ] } }
+]
+}

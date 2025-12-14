@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mizerieux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mizérieux", "metric_roundness": 38.87, "metric_rectangularity": 75.29, "metric_mobile_fit": -1.26, "metric_aspect_ratio": 1.575, "metric_area_km2": 14.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1938794, 45.7978114 ], [ 4.1825275, 45.804677499999983 ], [ 4.1342645, 45.7885865 ], [ 4.1415845, 45.7843391 ], [ 4.1426298, 45.7782871 ], [ 4.1508685, 45.7791395 ], [ 4.1557128, 45.7826403 ], [ 4.1686842, 45.7804254 ], [ 4.183358, 45.787249499999987 ], [ 4.1938794, 45.7978114 ] ] ] } }
+]
+}

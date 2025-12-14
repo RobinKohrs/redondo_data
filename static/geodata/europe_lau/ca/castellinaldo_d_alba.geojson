@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castellinaldo_d_alba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castellinaldo d'Alba", "metric_roundness": 64.48, "metric_rectangularity": 74.6, "metric_mobile_fit": 63.35, "metric_aspect_ratio": 0.929, "metric_area_km2": 15.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0163638, 44.768339 ], [ 8.0264065, 44.7622135 ], [ 8.048325, 44.762844 ], [ 8.0536104, 44.7660499 ], [ 8.054015, 44.7747405 ], [ 8.0455092, 44.7801689 ], [ 8.0427273, 44.787231 ], [ 8.044437, 44.7951275 ], [ 8.036598, 44.7896541 ], [ 8.0162673, 44.787249299999978 ], [ 8.0109385, 44.779977499999987 ], [ 8.0163638, 44.768339 ] ] ] } }
+]
+}

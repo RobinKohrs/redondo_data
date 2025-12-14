@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wickenrodt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wickenrodt", "metric_roundness": 47.33, "metric_rectangularity": 67.08, "metric_mobile_fit": 37.7, "metric_aspect_ratio": 1.186, "metric_area_km2": 12.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3798365, 49.805497499999987 ], [ 7.380538, 49.8057685 ], [ 7.37672, 49.8144728 ], [ 7.3805883, 49.821299 ], [ 7.377191, 49.826655 ], [ 7.3734195, 49.826011 ], [ 7.3578205, 49.8250945 ], [ 7.3473194, 49.8211143 ], [ 7.336028, 49.8229135 ], [ 7.3543635, 49.8098075 ], [ 7.351811, 49.806378899999984 ], [ 7.3538795, 49.802401 ], [ 7.3798365, 49.805497499999987 ] ] ] } }
+]
+}

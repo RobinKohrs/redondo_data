@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "noventa_padovana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Noventa Padovana", "metric_roundness": 31.21, "metric_rectangularity": 63.84, "metric_mobile_fit": -93.23, "metric_aspect_ratio": 2.495, "metric_area_km2": 14.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.9815146, 45.4082611 ], [ 12.002847, 45.4084225 ], [ 12.001762, 45.4124775 ], [ 11.9947535, 45.415107499999984 ], [ 11.9734621, 45.421553 ], [ 11.9592459, 45.4147357 ], [ 11.95416, 45.422889499999989 ], [ 11.9459111, 45.4227558 ], [ 11.937786, 45.4187757 ], [ 11.9336915, 45.4046131 ], [ 11.9703272, 45.4058722 ], [ 11.976028, 45.4034305 ], [ 11.9815146, 45.4082611 ] ] ] } }
+]
+}

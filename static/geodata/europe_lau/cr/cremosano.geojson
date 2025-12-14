@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cremosano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cremosano", "metric_roundness": 71.73, "metric_rectangularity": 74.39, "metric_mobile_fit": 66.27, "metric_aspect_ratio": 0.9, "metric_area_km2": 11.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6394248, 45.3749882 ], [ 9.653865, 45.3764957 ], [ 9.6651565, 45.387289499999987 ], [ 9.6583301, 45.389052599999985 ], [ 9.658459, 45.397941 ], [ 9.6465364, 45.402806 ], [ 9.6369755, 45.4019605 ], [ 9.6295155, 45.394222199999973 ], [ 9.63417, 45.3818845 ], [ 9.6394248, 45.3749882 ] ] ] } }
+]
+}

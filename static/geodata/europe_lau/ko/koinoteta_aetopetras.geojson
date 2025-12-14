@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_aetopetras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αετοπέτρας", "metric_roundness": 33.6, "metric_rectangularity": 65.9, "metric_mobile_fit": -15.44, "metric_aspect_ratio": 1.717, "metric_area_km2": 19.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6507851, 38.6137777 ], [ 21.6562597, 38.611404899999989 ], [ 21.6568639, 38.605722499999985 ], [ 21.6688196, 38.6084096 ], [ 21.6896159, 38.6026983 ], [ 21.69906, 38.596492499999989 ], [ 21.7092429, 38.5984304 ], [ 21.722571, 38.5937245 ], [ 21.7176725, 38.610052 ], [ 21.711979, 38.61913 ], [ 21.7016749, 38.6181783 ], [ 21.6701546, 38.6263955 ], [ 21.6522145, 38.617476 ], [ 21.6507851, 38.6137777 ] ] ] } }
+]
+}

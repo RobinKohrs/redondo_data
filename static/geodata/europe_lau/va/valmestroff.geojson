@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valmestroff",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valmestroff", "metric_roundness": 57.86, "metric_rectangularity": 75.56, "metric_mobile_fit": 30.27, "metric_aspect_ratio": 1.26, "metric_area_km2": 9.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2466316, 49.3522898 ], [ 6.2542472, 49.353556799999986 ], [ 6.257286, 49.3507 ], [ 6.277915, 49.348423499999988 ], [ 6.2752095, 49.355589099999982 ], [ 6.2760845, 49.3659965 ], [ 6.2727195, 49.367015499999987 ], [ 6.2492607, 49.366224699999989 ], [ 6.2433426, 49.362648299999989 ], [ 6.241955, 49.3572965 ], [ 6.2466316, 49.3522898 ] ] ] } }
+]
+}

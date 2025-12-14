@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fatouville_grestain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fatouville-Grestain", "metric_roundness": 39.49, "metric_rectangularity": 66.22, "metric_mobile_fit": 98.5, "metric_aspect_ratio": 0.548, "metric_area_km2": 24.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3440272, 49.3853876 ], [ 0.3502082, 49.3919027 ], [ 0.3480795, 49.397842499999982 ], [ 0.3525185, 49.4135365 ], [ 0.3407718, 49.425875 ], [ 0.3434974, 49.4298788 ], [ 0.340571, 49.4344645 ], [ 0.3344445, 49.433521 ], [ 0.3097635, 49.431104499999989 ], [ 0.3107435, 49.4158696 ], [ 0.3213102, 49.403733 ], [ 0.337039, 49.395160799999985 ], [ 0.3387217, 49.392283599999985 ], [ 0.334375, 49.3876278 ], [ 0.338057, 49.3836555 ], [ 0.3440272, 49.3853876 ] ] ] } }
+]
+}

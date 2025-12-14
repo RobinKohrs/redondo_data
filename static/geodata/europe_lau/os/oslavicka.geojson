@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oslavicka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oslavička", "metric_roundness": 62.32, "metric_rectangularity": 66.47, "metric_mobile_fit": 48.28, "metric_aspect_ratio": 1.08, "metric_area_km2": 10.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.9825982, 49.314125199999985 ], [ 15.9822361, 49.319564 ], [ 15.9880725, 49.3252405 ], [ 15.9804553, 49.327981699999981 ], [ 15.9782383, 49.332302699999985 ], [ 15.970365, 49.332655 ], [ 15.9619056, 49.3301473 ], [ 15.9599108, 49.321907199999984 ], [ 15.953241, 49.321603 ], [ 15.950772, 49.318391 ], [ 15.9544738, 49.3125809 ], [ 15.9702475, 49.310136 ], [ 15.987901, 49.310847 ], [ 15.9825982, 49.314125199999985 ] ] ] } }
+]
+}

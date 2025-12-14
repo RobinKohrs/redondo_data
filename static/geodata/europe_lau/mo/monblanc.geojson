@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monblanc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monblanc", "metric_roundness": 43.76, "metric_rectangularity": 64.7, "metric_mobile_fit": 51.67, "metric_aspect_ratio": 1.046, "metric_area_km2": 24.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.970169, 43.483579899999988 ], [ 0.9672925, 43.475969299999981 ], [ 0.9684323, 43.4670105 ], [ 0.9744124, 43.4643224 ], [ 0.974818, 43.455115 ], [ 0.982203, 43.448045 ], [ 1.026649, 43.447129 ], [ 1.024214, 43.4525705 ], [ 1.0138705, 43.4573857 ], [ 1.015161, 43.464015299999986 ], [ 1.009237, 43.471777499999988 ], [ 0.9809865, 43.487551 ], [ 0.976166, 43.488323 ], [ 0.970169, 43.483579899999988 ] ] ] } }
+]
+}

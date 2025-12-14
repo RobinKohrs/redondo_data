@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merzligen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merzligen", "metric_roundness": 38.36, "metric_rectangularity": 74.36, "metric_mobile_fit": 48.12, "metric_aspect_ratio": 1.081, "metric_area_km2": 5.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.269346, 47.0839755 ], [ 7.2516965, 47.096154 ], [ 7.235919, 47.0922145 ], [ 7.2598429, 47.0789852 ], [ 7.2622115, 47.075104499999988 ], [ 7.269346, 47.0839755 ] ] ] } }
+]
+}

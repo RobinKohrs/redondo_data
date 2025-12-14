@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hojanovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hojanovice", "metric_roundness": 37.33, "metric_rectangularity": 69.42, "metric_mobile_fit": 64.06, "metric_aspect_ratio": 0.922, "metric_area_km2": 7.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.2755765, 49.6012689 ], [ 15.267291, 49.607583 ], [ 15.2663375, 49.6123555 ], [ 15.2488345, 49.615543 ], [ 15.250431, 49.610095699999988 ], [ 15.248287, 49.607724 ], [ 15.2584135, 49.596769 ], [ 15.2635237, 49.59398849999998 ], [ 15.2789505, 49.5945745 ], [ 15.2755765, 49.6012689 ] ] ] } }
+]
+}

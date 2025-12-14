@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mala_trna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malá Tŕňa", "metric_roundness": 34.75, "metric_rectangularity": 58.06, "metric_mobile_fit": -5.47, "metric_aspect_ratio": 1.617, "metric_area_km2": 22.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6603654, 48.4414598 ], [ 21.6758646, 48.4336794 ], [ 21.710648, 48.438874 ], [ 21.7159465, 48.4389875 ], [ 21.709078, 48.455469099999981 ], [ 21.719559, 48.4635495 ], [ 21.714396, 48.462954499999988 ], [ 21.7058488, 48.464422 ], [ 21.6805881, 48.458436199999987 ], [ 21.656877, 48.446450499999983 ], [ 21.6446045, 48.441265499999986 ], [ 21.646394, 48.4390065 ], [ 21.6603654, 48.4414598 ] ] ] } }
+]
+}

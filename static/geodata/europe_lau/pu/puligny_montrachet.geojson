@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "puligny_montrachet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Puligny-Montrachet", "metric_roundness": 39.39, "metric_rectangularity": 74.57, "metric_mobile_fit": 10.1, "metric_aspect_ratio": 1.461, "metric_area_km2": 15.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7335705, 46.945720499999986 ], [ 4.7497105, 46.937821499999984 ], [ 4.7548415, 46.936498 ], [ 4.7585705, 46.940514499999978 ], [ 4.764069, 46.9371585 ], [ 4.7713475, 46.9353835 ], [ 4.777642, 46.937995499999985 ], [ 4.7862925, 46.9346165 ], [ 4.7885083, 46.937133499999987 ], [ 4.7879698, 46.945528399999986 ], [ 4.7809743, 46.947085799999989 ], [ 4.7783155, 46.951392499999983 ], [ 4.7346135, 46.960278499999987 ], [ 4.7335705, 46.945720499999986 ] ] ] } }
+]
+}

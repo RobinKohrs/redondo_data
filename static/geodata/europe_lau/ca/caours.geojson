@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caours",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caours", "metric_roundness": 43.44, "metric_rectangularity": 63.15, "metric_mobile_fit": 75.26, "metric_aspect_ratio": 0.81, "metric_area_km2": 15.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.868616, 50.112994 ], [ 1.8910925, 50.115914 ], [ 1.897939, 50.122736199999984 ], [ 1.8897217, 50.1337853 ], [ 1.9028075, 50.140785499999978 ], [ 1.8937784, 50.148543 ], [ 1.8896785, 50.148007 ], [ 1.8808785, 50.140792399999988 ], [ 1.8803627, 50.136612599999978 ], [ 1.8640905, 50.1297114 ], [ 1.8578915, 50.122260499999989 ], [ 1.868616, 50.112994 ] ] ] } }
+]
+}

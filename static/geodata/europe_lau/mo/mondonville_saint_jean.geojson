@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mondonville_saint_jean",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mondonville-Saint-Jean", "metric_roundness": 71.1, "metric_rectangularity": 84.48, "metric_mobile_fit": 63.79, "metric_aspect_ratio": 0.925, "metric_area_km2": 13.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8059763, 48.3642757 ], [ 1.8055087, 48.358524 ], [ 1.810549, 48.354786 ], [ 1.825083, 48.3479 ], [ 1.845709, 48.364653499999989 ], [ 1.8422315, 48.368474499999977 ], [ 1.827166, 48.376788 ], [ 1.8216175, 48.372522 ], [ 1.8208525, 48.374415499999984 ], [ 1.812666, 48.374213 ], [ 1.8059763, 48.3642757 ] ] ] } }
+]
+}

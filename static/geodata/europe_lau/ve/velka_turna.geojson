@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velka_turna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velká Turná", "metric_roundness": 50.48, "metric_rectangularity": 62.13, "metric_mobile_fit": 57.42, "metric_aspect_ratio": 0.988, "metric_area_km2": 17.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9792796, 49.364242499999982 ], [ 13.9776129, 49.3591985 ], [ 13.9632718, 49.35676549999998 ], [ 13.9573565, 49.35869 ], [ 13.9551367, 49.3497437 ], [ 13.9458792, 49.3459824 ], [ 13.9474919, 49.333753699999981 ], [ 13.9509475, 49.331906 ], [ 13.9725812, 49.334417199999983 ], [ 13.9823348, 49.3444231 ], [ 13.9929385, 49.345335 ], [ 13.994936, 49.357951 ], [ 13.9792796, 49.364242499999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tostat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tostat", "metric_roundness": 60.71, "metric_rectangularity": 70.13, "metric_mobile_fit": 73.86, "metric_aspect_ratio": 0.824, "metric_area_km2": 12.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1190465, 43.3470095 ], [ 0.1111779, 43.338777 ], [ 0.0934775, 43.3380835 ], [ 0.0939035, 43.3316015 ], [ 0.09357, 43.324079499999989 ], [ 0.0994358, 43.3224697 ], [ 0.102892, 43.3171085 ], [ 0.1068655, 43.317812 ], [ 0.120045, 43.316726 ], [ 0.123917, 43.317202 ], [ 0.1250355, 43.3201105 ], [ 0.126325, 43.3288205 ], [ 0.127781, 43.3346543 ], [ 0.1231855, 43.3469955 ], [ 0.1190465, 43.3470095 ] ] ] } }
+]
+}

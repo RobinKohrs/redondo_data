@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heilles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heilles", "metric_roundness": 63.67, "metric_rectangularity": 72.82, "metric_mobile_fit": 67.9, "metric_aspect_ratio": 0.884, "metric_area_km2": 13.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2586451, 49.329089199999984 ], [ 2.2571469, 49.3231955 ], [ 2.2711775, 49.315971 ], [ 2.2764538, 49.319012 ], [ 2.280316, 49.3263045 ], [ 2.2890321, 49.3302171 ], [ 2.2877485, 49.3345907 ], [ 2.29029, 49.335860499999981 ], [ 2.286283, 49.340711 ], [ 2.2696965, 49.34515 ], [ 2.2581161, 49.345111799999977 ], [ 2.2507305, 49.3311135 ], [ 2.2586451, 49.329089199999984 ] ] ] } }
+]
+}

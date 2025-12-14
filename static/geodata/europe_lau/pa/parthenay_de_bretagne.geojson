@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parthenay_de_bretagne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Parthenay-de-Bretagne", "metric_roundness": 57.45, "metric_rectangularity": 71.05, "metric_mobile_fit": 85.77, "metric_aspect_ratio": 0.705, "metric_area_km2": 11.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8138422, 48.1867527 ], [ -1.8215915, 48.201991799999988 ], [ -1.8297295, 48.202839499999982 ], [ -1.8307, 48.200644 ], [ -1.8343755, 48.199432499999986 ], [ -1.83501, 48.196394 ], [ -1.838141, 48.196822499999982 ], [ -1.8385845, 48.193926 ], [ -1.8443125, 48.193992 ], [ -1.844892, 48.1860475 ], [ -1.833996, 48.173469 ], [ -1.8251515, 48.173963 ], [ -1.8138422, 48.1867527 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monthelie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monthelie", "metric_roundness": 46.66, "metric_rectangularity": 76.85, "metric_mobile_fit": 79.14, "metric_aspect_ratio": 0.771, "metric_area_km2": 6.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7534212, 46.993937599999988 ], [ 4.7616545, 46.988557 ], [ 4.768637, 46.988814 ], [ 4.77317, 46.9901585 ], [ 4.7753605, 46.9920465 ], [ 4.7629061, 47.0109536 ], [ 4.7498435, 47.011126499999989 ], [ 4.7534212, 46.993937599999988 ] ] ] } }
+]
+}

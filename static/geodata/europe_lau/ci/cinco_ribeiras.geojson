@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cinco_ribeiras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cinco Ribeiras", "metric_roundness": 25.34, "metric_rectangularity": 53.67, "metric_mobile_fit": 87.44, "metric_aspect_ratio": 0.437, "metric_area_km2": 17.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -27.2960299, 38.6861733 ], [ -27.2944934, 38.698369299999989 ], [ -27.2967694, 38.7105775 ], [ -27.3106891, 38.7243933 ], [ -27.311534, 38.732572499999982 ], [ -27.313771, 38.7340075 ], [ -27.3187261, 38.726984 ], [ -27.3129687, 38.715768 ], [ -27.3149112, 38.702368 ], [ -27.3235736, 38.6845654 ], [ -27.331485, 38.677388 ], [ -27.3084235, 38.6679345 ], [ -27.2960299, 38.6861733 ] ] ] } }
+]
+}

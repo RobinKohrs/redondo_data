@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_stauroupoleos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σταυρουπόλεως", "metric_roundness": 33.71, "metric_rectangularity": 57.86, "metric_mobile_fit": 92.71, "metric_aspect_ratio": 0.49, "metric_area_km2": 5.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.9416627, 40.664722599999983 ], [ 22.932533, 40.6878285 ], [ 22.928661, 40.6861895 ], [ 22.9309382, 40.6771789 ], [ 22.9239199, 40.6738864 ], [ 22.9224959, 40.668069599999981 ], [ 22.9266232, 40.6643763 ], [ 22.9213995, 40.6612355 ], [ 22.9340165, 40.65644 ], [ 22.9392615, 40.656641 ], [ 22.9416627, 40.664722599999983 ] ] ] } }
+]
+}

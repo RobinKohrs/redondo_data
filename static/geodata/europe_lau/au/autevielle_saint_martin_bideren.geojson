@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "autevielle_saint_martin_bideren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Autevielle-Saint-Martin-Bideren", "metric_roundness": 42.03, "metric_rectangularity": 60.64, "metric_mobile_fit": 49.35, "metric_aspect_ratio": 1.069, "metric_area_km2": 11.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9724038, 43.383632800000015 ], [ -0.9648438, 43.3887824 ], [ -0.9602395, 43.387673 ], [ -0.9546745, 43.3910365 ], [ -0.9532245, 43.394993 ], [ -0.957434, 43.397437 ], [ -0.9634195, 43.3996105 ], [ -0.9687045, 43.400132 ], [ -0.971208, 43.399695 ], [ -0.9737955, 43.401783499999986 ], [ -0.9768455, 43.407815 ], [ -0.9802795, 43.4106415 ], [ -1.004736, 43.400549 ], [ -0.9829173, 43.3900871 ], [ -0.9732825, 43.375625 ], [ -0.9724038, 43.383632800000015 ] ] ] } }
+]
+}

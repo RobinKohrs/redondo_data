@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caixon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caixon", "metric_roundness": 52.68, "metric_rectangularity": 61.03, "metric_mobile_fit": 65.33, "metric_aspect_ratio": 0.909, "metric_area_km2": 15.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0221531, 43.4241507 ], [ 0.0096505, 43.422197 ], [ -0.0038055, 43.3980475 ], [ -0.000391, 43.39624 ], [ 0.0118908, 43.401028 ], [ 0.0222253, 43.3936295 ], [ 0.0378029, 43.3946105 ], [ 0.0407744, 43.3996063 ], [ 0.036911, 43.4105105 ], [ 0.035479, 43.415748 ], [ 0.0333315, 43.4170155 ], [ 0.0310155, 43.4239865 ], [ 0.0264375, 43.429247499999988 ], [ 0.0221531, 43.4241507 ] ] ] } }
+]
+}

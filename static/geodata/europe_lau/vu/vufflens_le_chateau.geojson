@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vufflens_le_chateau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vufflens-le-Château", "metric_roundness": 39.16, "metric_rectangularity": 59.25, "metric_mobile_fit": 70.99, "metric_aspect_ratio": 0.853, "metric_area_km2": 4.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.469065, 46.512420499999983 ], [ 6.4704605, 46.513818 ], [ 6.4726746, 46.520785499999988 ], [ 6.480578, 46.520849 ], [ 6.480533, 46.5234035 ], [ 6.473974, 46.529420499999986 ], [ 6.4568725, 46.534437499999974 ], [ 6.4532953, 46.5301283 ], [ 6.455753, 46.527186 ], [ 6.4603215, 46.523933 ], [ 6.4679375, 46.520067 ], [ 6.4658225, 46.5181055 ], [ 6.468514, 46.516248499999989 ], [ 6.467293, 46.514591499999987 ], [ 6.469065, 46.512420499999983 ] ] ] } }
+]
+}

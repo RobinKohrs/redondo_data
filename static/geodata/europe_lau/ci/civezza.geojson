@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "civezza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Civezza", "metric_roundness": 40.07, "metric_rectangularity": 66.98, "metric_mobile_fit": 79.8, "metric_aspect_ratio": 0.765, "metric_area_km2": 7.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9496945, 43.873169499999989 ], [ 7.953103, 43.863422 ], [ 7.9590546, 43.863028 ], [ 7.964237, 43.8678975 ], [ 7.9651935, 43.878421799999984 ], [ 7.9558959, 43.8859153 ], [ 7.9539677, 43.8874693 ], [ 7.947356, 43.8891895 ], [ 7.9416868, 43.891736 ], [ 7.934746, 43.888171 ], [ 7.9369952, 43.8859153 ], [ 7.944289, 43.8786005 ], [ 7.9496945, 43.873169499999989 ] ] ] } }
+]
+}

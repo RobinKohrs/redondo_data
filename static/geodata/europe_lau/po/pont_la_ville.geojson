@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pont_la_ville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pont-la-Ville", "metric_roundness": 41.31, "metric_rectangularity": 59.4, "metric_mobile_fit": 94.6, "metric_aspect_ratio": 0.617, "metric_area_km2": 9.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.120961, 46.692048 ], [ 7.119539, 46.69593 ], [ 7.1214955, 46.69677249999998 ], [ 7.12532, 46.702288 ], [ 7.12305, 46.71036 ], [ 7.1284745, 46.715340499999989 ], [ 7.1218065, 46.714944 ], [ 7.1137165, 46.7204985 ], [ 7.1120705, 46.717993 ], [ 7.1071451, 46.7106332 ], [ 7.099394, 46.7081047 ], [ 7.098663, 46.7042241 ], [ 7.1125096, 46.6873389 ], [ 7.1203705, 46.690265499999988 ], [ 7.120961, 46.692048 ] ] ] } }
+]
+}

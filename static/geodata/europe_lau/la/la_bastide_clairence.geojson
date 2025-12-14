@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_bastide_clairence",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Bastide-Clairence", "metric_roundness": 58.67, "metric_rectangularity": 75.35, "metric_mobile_fit": 11.4, "metric_aspect_ratio": 1.448, "metric_area_km2": 44.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.2370865, 43.40045749999998 ], [ -1.206143, 43.3964335 ], [ -1.192456, 43.3985465 ], [ -1.1929359, 43.4151372 ], [ -1.21407, 43.436545 ], [ -1.223835, 43.4391489 ], [ -1.2477315, 43.4380575 ], [ -1.2583881, 43.4355316 ], [ -1.2718031, 43.4261306 ], [ -1.277636, 43.41115 ], [ -1.2370865, 43.40045749999998 ] ] ] } }
+]
+}

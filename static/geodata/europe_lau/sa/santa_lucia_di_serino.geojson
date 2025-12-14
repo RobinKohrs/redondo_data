@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_lucia_di_serino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Lucia di Serino", "metric_roundness": 41.62, "metric_rectangularity": 69.77, "metric_mobile_fit": -3.56, "metric_aspect_ratio": 1.598, "metric_area_km2": 6.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8604285, 40.871540499999981 ], [ 14.876928, 40.8647077 ], [ 14.9004025, 40.877044 ], [ 14.8791363, 40.8836588 ], [ 14.8603495, 40.8752445 ], [ 14.8604285, 40.871540499999981 ] ] ] } }
+]
+}

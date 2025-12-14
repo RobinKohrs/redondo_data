@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "verquieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Verquières", "metric_roundness": 53.36, "metric_rectangularity": 75.64, "metric_mobile_fit": 86.32, "metric_aspect_ratio": 0.699, "metric_area_km2": 8.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.9055307, 43.845841 ], [ 4.9071714, 43.8332387 ], [ 4.912921, 43.8236105 ], [ 4.9301361, 43.8302057 ], [ 4.9273865, 43.837306 ], [ 4.9326867, 43.844317599999982 ], [ 4.925399, 43.851623 ], [ 4.9055307, 43.845841 ] ] ] } }
+]
+}

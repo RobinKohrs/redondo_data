@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vonyarcvashegy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vonyarcvashegy", "metric_roundness": 27.73, "metric_rectangularity": 62.35, "metric_mobile_fit": 80.01, "metric_aspect_ratio": 0.363, "metric_area_km2": 29.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.310657, 46.733118 ], [ 17.3345695, 46.732347 ], [ 17.3317587, 46.7553878 ], [ 17.3355586, 46.7622773 ], [ 17.3255, 46.7665967 ], [ 17.3222704, 46.801810199999977 ], [ 17.319387, 46.802885499999981 ], [ 17.3182767, 46.7980632 ], [ 17.3073435, 46.787045 ], [ 17.3047559, 46.7655202 ], [ 17.2982149, 46.758930299999989 ], [ 17.2985715, 46.7350365 ], [ 17.310657, 46.733118 ] ] ] } }
+]
+}

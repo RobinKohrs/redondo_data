@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "challand_saint_victor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Challand-Saint-Victor", "metric_roundness": 46.41, "metric_rectangularity": 67.67, "metric_mobile_fit": -22.09, "metric_aspect_ratio": 1.783, "metric_area_km2": 50.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7664185, 45.6632588 ], [ 7.7824545, 45.669170499999986 ], [ 7.787792, 45.690703499999984 ], [ 7.7803408, 45.692723599999987 ], [ 7.7656233, 45.7043458 ], [ 7.7422666, 45.6960243 ], [ 7.704389, 45.703568 ], [ 7.7006635, 45.699636499999976 ], [ 7.6940494, 45.6951009 ], [ 7.6919179, 45.688039 ], [ 7.6829065, 45.6861925 ], [ 7.6887741, 45.674715399999982 ], [ 7.7088204, 45.6805154 ], [ 7.726959, 45.667291 ], [ 7.7664185, 45.6632588 ] ] ] } }
+]
+}

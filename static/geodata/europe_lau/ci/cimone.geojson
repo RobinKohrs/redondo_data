@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cimone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cimone", "metric_roundness": 62.0, "metric_rectangularity": 69.35, "metric_mobile_fit": 62.47, "metric_aspect_ratio": 0.938, "metric_area_km2": 19.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.0696875, 45.967094 ], [ 11.0751107, 45.9753845 ], [ 11.0838267, 45.9735401 ], [ 11.0863305, 45.976994499999989 ], [ 11.0832946, 45.983116899999985 ], [ 11.0699703, 45.9918884 ], [ 11.0524927, 45.9970651 ], [ 11.044645, 45.995878 ], [ 11.0358585, 45.981488499999983 ], [ 11.0475032, 45.970473799999986 ], [ 11.0493313, 45.959664699999983 ], [ 11.0551615, 45.96054 ], [ 11.0696875, 45.967094 ] ] ] } }
+]
+}

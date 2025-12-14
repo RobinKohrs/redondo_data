@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spineto_scrivia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spineto Scrivia", "metric_roundness": 58.11, "metric_rectangularity": 64.44, "metric_mobile_fit": 44.12, "metric_aspect_ratio": 1.121, "metric_area_km2": 8.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8904135, 44.841783 ], [ 8.874345, 44.8481497 ], [ 8.876064, 44.8452542 ], [ 8.8720123, 44.8430511 ], [ 8.8554435, 44.8457335 ], [ 8.8558993, 44.8357713 ], [ 8.8697285, 44.8259235 ], [ 8.8905885, 44.8370495 ], [ 8.8904135, 44.841783 ] ] ] } }
+]
+}

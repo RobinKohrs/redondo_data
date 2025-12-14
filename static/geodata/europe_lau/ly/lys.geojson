@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lys",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lys", "metric_roundness": 44.03, "metric_rectangularity": 57.88, "metric_mobile_fit": 22.16, "metric_aspect_ratio": 1.341, "metric_area_km2": 23.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6229875, 47.3359527 ], [ 3.6036045, 47.353858499999987 ], [ 3.5783578, 47.3446637 ], [ 3.565174, 47.3435225 ], [ 3.5759865, 47.341742499999981 ], [ 3.5712845, 47.32443 ], [ 3.565529, 47.318644 ], [ 3.5863322, 47.3234 ], [ 3.631232, 47.324809 ], [ 3.6348525, 47.332235499999989 ], [ 3.6229875, 47.3359527 ] ] ] } }
+]
+}

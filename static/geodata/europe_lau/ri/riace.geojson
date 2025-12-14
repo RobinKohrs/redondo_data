@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "riace",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riace", "metric_roundness": 35.01, "metric_rectangularity": 57.2, "metric_mobile_fit": 45.79, "metric_aspect_ratio": 1.105, "metric_area_km2": 25.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5364595, 38.4100466 ], [ 16.520654, 38.4105828 ], [ 16.4964589, 38.4237815 ], [ 16.4860999, 38.4237159 ], [ 16.4704575, 38.431371 ], [ 16.4742319, 38.4263099 ], [ 16.478535, 38.408801099999984 ], [ 16.4963519, 38.393229399999981 ], [ 16.507716, 38.3909982 ], [ 16.5141114, 38.384893499999983 ], [ 16.516279, 38.377004 ], [ 16.5470905, 38.4029755 ], [ 16.5364595, 38.4100466 ] ] ] } }
+]
+}

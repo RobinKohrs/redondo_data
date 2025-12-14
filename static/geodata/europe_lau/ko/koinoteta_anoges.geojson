@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_anoges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ανωγής", "metric_roundness": 33.28, "metric_rectangularity": 52.13, "metric_mobile_fit": 98.35, "metric_aspect_ratio": 0.579, "metric_area_km2": 19.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6894827, 38.404049 ], [ 20.700711, 38.417213 ], [ 20.6934571, 38.4193152 ], [ 20.6769295, 38.4373965 ], [ 20.6742035, 38.436111 ], [ 20.670514, 38.434843499999978 ], [ 20.661706, 38.434363499999989 ], [ 20.6559345, 38.434344 ], [ 20.6692595, 38.4019713 ], [ 20.6697635, 38.3779945 ], [ 20.67183, 38.377061499999989 ], [ 20.674508, 38.376791499999989 ], [ 20.6894827, 38.404049 ] ] ] } }
+]
+}

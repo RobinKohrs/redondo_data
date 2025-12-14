@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lacapelle_del_fraisse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lacapelle-del-Fraisse", "metric_roundness": 41.64, "metric_rectangularity": 74.65, "metric_mobile_fit": 48.06, "metric_aspect_ratio": 1.082, "metric_area_km2": 31.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4658179, 44.7725185 ], [ 2.4459401, 44.774096399999983 ], [ 2.4411265, 44.782618299999989 ], [ 2.4199684, 44.788896499999986 ], [ 2.408222, 44.8007065 ], [ 2.3919271, 44.7890362 ], [ 2.3932714, 44.7830079 ], [ 2.3897224, 44.7795932 ], [ 2.4045261, 44.7760897 ], [ 2.4022818, 44.772222299999981 ], [ 2.4043935, 44.7680415 ], [ 2.4228246, 44.7658345 ], [ 2.4507105, 44.746355 ], [ 2.472559, 44.7672275 ], [ 2.4658179, 44.7725185 ] ] ] } }
+]
+}

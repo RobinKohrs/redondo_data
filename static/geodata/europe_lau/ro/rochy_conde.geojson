@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rochy_conde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rochy-Condé", "metric_roundness": 57.16, "metric_rectangularity": 66.27, "metric_mobile_fit": 44.16, "metric_aspect_ratio": 1.121, "metric_area_km2": 15.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2146505, 49.39924 ], [ 2.211962, 49.400773 ], [ 2.2152605, 49.4030675 ], [ 2.2001948, 49.4088652 ], [ 2.1920747, 49.417098 ], [ 2.1821295, 49.420699 ], [ 2.169837, 49.406516499999988 ], [ 2.167063, 49.403353099999983 ], [ 2.1680976, 49.39493479999998 ], [ 2.192548, 49.392972 ], [ 2.1974547, 49.3927213 ], [ 2.2080175, 49.3989797 ], [ 2.2130715, 49.397307 ], [ 2.2146505, 49.39924 ] ] ] } }
+]
+}

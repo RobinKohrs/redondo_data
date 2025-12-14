@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champagne_vigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champagne-Vigny", "metric_roundness": 47.7, "metric_rectangularity": 70.06, "metric_mobile_fit": 92.34, "metric_aspect_ratio": 0.639, "metric_area_km2": 16.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0281963, 45.5160856 ], [ 0.023574, 45.495614499999981 ], [ 0.046361, 45.4894543 ], [ 0.0544885, 45.4907605 ], [ 0.052389, 45.493553 ], [ 0.053834, 45.498847 ], [ 0.0565615, 45.502548 ], [ 0.056043, 45.511988 ], [ 0.0609875, 45.513169 ], [ 0.0586957, 45.518151 ], [ 0.0473717, 45.519000499999983 ], [ 0.040364, 45.530478 ], [ 0.0281963, 45.5160856 ] ] ] } }
+]
+}

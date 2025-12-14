@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schwall",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schwall", "metric_roundness": 34.33, "metric_rectangularity": 71.89, "metric_mobile_fit": 75.84, "metric_aspect_ratio": 0.804, "metric_area_km2": 4.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5598039, 50.143917499999979 ], [ 7.564694, 50.153097 ], [ 7.5482414, 50.148137099999985 ], [ 7.5402945, 50.1405575 ], [ 7.5434255, 50.1355485 ], [ 7.547453, 50.133650499999973 ], [ 7.5598039, 50.143917499999979 ] ] ] } }
+]
+}

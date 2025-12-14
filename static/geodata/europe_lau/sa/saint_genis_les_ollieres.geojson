@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_genis_les_ollieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Genis-les-Ollières", "metric_roundness": 51.82, "metric_rectangularity": 72.31, "metric_mobile_fit": 7.55, "metric_aspect_ratio": 1.487, "metric_area_km2": 7.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7133725, 45.758970499999975 ], [ 4.716834, 45.758717 ], [ 4.7156305, 45.756177 ], [ 4.7160495, 45.753963 ], [ 4.727292, 45.7526862 ], [ 4.743895, 45.75561949999998 ], [ 4.7356005, 45.7704087 ], [ 4.71517, 45.767843 ], [ 4.712333, 45.764662499999986 ], [ 4.70612, 45.760744 ], [ 4.7133725, 45.758970499999975 ] ] ] } }
+]
+}

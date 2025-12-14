@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "patokryje",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Patokryje", "metric_roundness": 60.93, "metric_rectangularity": 75.43, "metric_mobile_fit": 61.76, "metric_aspect_ratio": 0.945, "metric_area_km2": 5.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.7262446, 50.497460799999978 ], [ 13.726492, 50.505959499999989 ], [ 13.707105, 50.5077493 ], [ 13.7018409, 50.4989117 ], [ 13.7050185, 50.491154 ], [ 13.716712, 50.492766499999981 ], [ 13.7262446, 50.497460799999978 ] ] ] } }
+]
+}

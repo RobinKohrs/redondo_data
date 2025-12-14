@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_barroselas_e_carvoeiro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Barroselas e Carvoeiro", "metric_roundness": 37.15, "metric_rectangularity": 50.73, "metric_mobile_fit": 40.5, "metric_aspect_ratio": 1.158, "metric_area_km2": 33.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6970429, 41.640125 ], [ -8.6666152, 41.6420179 ], [ -8.652007, 41.633285 ], [ -8.646332, 41.63353 ], [ -8.6473143, 41.646074 ], [ -8.643282, 41.6543795 ], [ -8.6468725, 41.678697799999981 ], [ -8.6547515, 41.683033499999986 ], [ -8.6617705, 41.680188 ], [ -8.6732075, 41.6783375 ], [ -8.677484, 41.677894 ], [ -8.6692423, 41.6706756 ], [ -8.6795535, 41.6641875 ], [ -8.7030943, 41.6483495 ], [ -8.7195325, 41.652332 ], [ -8.7204025, 41.643865 ], [ -8.72251, 41.6341275 ], [ -8.7078605, 41.631896 ], [ -8.6970429, 41.640125 ] ] ] } }
+]
+}

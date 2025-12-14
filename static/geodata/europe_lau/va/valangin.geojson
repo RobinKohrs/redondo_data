@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valangin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valangin", "metric_roundness": 37.13, "metric_rectangularity": 55.06, "metric_mobile_fit": 63.75, "metric_aspect_ratio": 0.925, "metric_area_km2": 7.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.904282, 47.00464 ], [ 6.906324, 47.0068535 ], [ 6.912979, 47.009448 ], [ 6.9154834, 47.0170211 ], [ 6.910618, 47.0215332 ], [ 6.9127537, 47.027513 ], [ 6.9107448, 47.0301444 ], [ 6.9056067, 47.0202458 ], [ 6.895445, 47.02015249999998 ], [ 6.8841515, 47.015885099999984 ], [ 6.88088, 47.005491 ], [ 6.893607, 47.006973499999987 ], [ 6.899613, 47.004708 ], [ 6.904282, 47.00464 ] ] ] } }
+]
+}

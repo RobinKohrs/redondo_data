@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "barisey_au_plain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Barisey-au-Plain", "metric_roundness": 61.0, "metric_rectangularity": 69.97, "metric_mobile_fit": 69.65, "metric_aspect_ratio": 0.866, "metric_area_km2": 24.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.873142, 48.515610899999984 ], [ 5.8718635, 48.5202321 ], [ 5.8744786, 48.524666299999978 ], [ 5.8690535, 48.5318066 ], [ 5.874056, 48.539777 ], [ 5.8639305, 48.542337499999988 ], [ 5.8374756, 48.5347667 ], [ 5.82869, 48.534744499999988 ], [ 5.8246195, 48.532624499999983 ], [ 5.8341511, 48.5197427 ], [ 5.833845, 48.5105376 ], [ 5.8377785, 48.504808 ], [ 5.8594573, 48.5065594 ], [ 5.8659175, 48.5042055 ], [ 5.873142, 48.515610899999984 ] ] ] } }
+]
+}

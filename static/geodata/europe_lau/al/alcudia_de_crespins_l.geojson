@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alcudia_de_crespins_l",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alcúdia de Crespins, l'", "metric_roundness": 35.51, "metric_rectangularity": 63.68, "metric_mobile_fit": -45.89, "metric_aspect_ratio": 2.021, "metric_area_km2": 8.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.6228652, 38.975198799999987 ], [ -0.6160465, 38.9624555 ], [ -0.6039843, 38.9621954 ], [ -0.5822236, 38.969232199999986 ], [ -0.5892564, 38.9781876 ], [ -0.5963078, 38.9764969 ], [ -0.6049355, 38.978508 ], [ -0.6288335, 38.980122 ], [ -0.6228652, 38.975198799999987 ] ] ] } }
+]
+}

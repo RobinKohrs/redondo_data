@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chazelles_sur_lavieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chazelles-sur-Lavieu", "metric_roundness": 27.09, "metric_rectangularity": 69.86, "metric_mobile_fit": -23.19, "metric_aspect_ratio": 1.794, "metric_area_km2": 19.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0218865, 45.527656499999985 ], [ 4.0352997, 45.5252652 ], [ 4.0382045, 45.529614 ], [ 4.0290694, 45.5383777 ], [ 4.0319729, 45.543697099999982 ], [ 4.017131, 45.548109499999988 ], [ 3.9831726, 45.5562447 ], [ 3.9588345, 45.551625499999986 ], [ 3.9732287, 45.5457008 ], [ 3.9830442, 45.5371098 ], [ 3.9944268, 45.5375897 ], [ 4.020512, 45.528802499999976 ], [ 4.0218865, 45.527656499999985 ] ] ] } }
+]
+}

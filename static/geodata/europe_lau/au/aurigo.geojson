@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aurigo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aurigo", "metric_roundness": 47.5, "metric_rectangularity": 69.34, "metric_mobile_fit": 36.8, "metric_aspect_ratio": 1.194, "metric_area_km2": 17.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8879238, 44.0003138 ], [ 7.9016792, 43.9873589 ], [ 7.9037736, 43.9812209 ], [ 7.9171726, 43.976871199999984 ], [ 7.9352382, 43.977388 ], [ 7.9369007, 43.9870771 ], [ 7.932486, 43.9986375 ], [ 7.9121445, 44.0068775 ], [ 7.887081, 44.0046925 ], [ 7.8879238, 44.0003138 ] ] ] } }
+]
+}

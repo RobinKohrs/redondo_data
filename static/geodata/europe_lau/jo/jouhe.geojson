@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jouhe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jouhe", "metric_roundness": 47.65, "metric_rectangularity": 69.43, "metric_mobile_fit": 42.54, "metric_aspect_ratio": 1.137, "metric_area_km2": 12.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4765, 47.1484615 ], [ 5.4701206, 47.142279699999989 ], [ 5.4582085, 47.1380205 ], [ 5.4728906, 47.1355765 ], [ 5.474712, 47.124698 ], [ 5.482735, 47.125424 ], [ 5.4999295, 47.1372267 ], [ 5.5062525, 47.138329 ], [ 5.5040125, 47.153439 ], [ 5.494896, 47.152857499999982 ], [ 5.4765, 47.1484615 ] ] ] } }
+]
+}

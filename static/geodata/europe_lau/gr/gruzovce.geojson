@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gruzovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gruzovce", "metric_roundness": 32.02, "metric_rectangularity": 59.38, "metric_mobile_fit": 99.26, "metric_aspect_ratio": 0.57, "metric_area_km2": 8.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.8597116, 48.981957 ], [ 21.8617846, 48.9666987 ], [ 21.8654095, 48.9639575 ], [ 21.8751275, 48.9650015 ], [ 21.8770497, 48.9830073 ], [ 21.8883117, 48.991665199999986 ], [ 21.8867105, 48.9959675 ], [ 21.8801485, 48.996895 ], [ 21.8597116, 48.981957 ] ] ] } }
+]
+}

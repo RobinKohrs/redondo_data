@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "remelfing",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rémelfing", "metric_roundness": 61.86, "metric_rectangularity": 79.07, "metric_mobile_fit": 32.25, "metric_aspect_ratio": 1.24, "metric_area_km2": 5.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.0999435, 49.089056299999974 ], [ 7.0914945, 49.09433 ], [ 7.0816365, 49.098237699999984 ], [ 7.0771132, 49.0968769 ], [ 7.0736652, 49.0940127 ], [ 7.0700605, 49.086538 ], [ 7.0966595, 49.082456499999985 ], [ 7.0999435, 49.089056299999974 ] ] ] } }
+]
+}

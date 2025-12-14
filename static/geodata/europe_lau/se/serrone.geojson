@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "serrone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Serrone", "metric_roundness": 70.62, "metric_rectangularity": 74.85, "metric_mobile_fit": 66.8, "metric_aspect_ratio": 0.894, "metric_area_km2": 28.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.071666, 41.8541795 ], [ 13.065433, 41.831349 ], [ 13.0816316, 41.823888899999986 ], [ 13.0924547, 41.8134047 ], [ 13.1023865, 41.816303 ], [ 13.1166641, 41.835490899999989 ], [ 13.1218875, 41.847405 ], [ 13.1014875, 41.8604285 ], [ 13.071666, 41.8541795 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bellusco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bellusco", "metric_roundness": 35.37, "metric_rectangularity": 68.61, "metric_mobile_fit": 43.52, "metric_aspect_ratio": 1.127, "metric_area_km2": 13.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4115117, 45.6105648 ], [ 9.4171038, 45.6056832 ], [ 9.4378277, 45.605322799999982 ], [ 9.446823, 45.599906 ], [ 9.4429675, 45.608589 ], [ 9.445587, 45.615482499999985 ], [ 9.430466, 45.623938 ], [ 9.399874, 45.629710499999973 ], [ 9.3987879, 45.6225331 ], [ 9.4037944, 45.6153471 ], [ 9.4006605, 45.6103655 ], [ 9.4115117, 45.6105648 ] ] ] } }
+]
+}

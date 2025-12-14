@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "corlier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Corlier", "metric_roundness": 40.77, "metric_rectangularity": 55.34, "metric_mobile_fit": 83.85, "metric_aspect_ratio": 0.724, "metric_area_km2": 11.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.487957, 46.05247 ], [ 5.482644, 46.020789 ], [ 5.483283, 46.020681499999988 ], [ 5.517327, 46.023778 ], [ 5.491921, 46.0539345 ], [ 5.487957, 46.05247 ] ] ] } }
+]
+}

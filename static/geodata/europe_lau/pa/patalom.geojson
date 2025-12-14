@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "patalom",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Patalom", "metric_roundness": 40.32, "metric_rectangularity": 59.88, "metric_mobile_fit": 99.23, "metric_aspect_ratio": 0.57, "metric_area_km2": 13.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9142796, 46.4407107 ], [ 17.9226639, 46.438272399999988 ], [ 17.929454, 46.430471 ], [ 17.93434, 46.4352606 ], [ 17.9391202, 46.452151499999985 ], [ 17.9312996, 46.461313199999985 ], [ 17.929459, 46.471186 ], [ 17.9126233, 46.466017400000013 ], [ 17.9142543, 46.4543791 ], [ 17.9078544, 46.4526797 ], [ 17.9054215, 46.447655499999975 ], [ 17.9142796, 46.4407107 ] ] ] } }
+]
+}

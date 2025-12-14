@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aspach_michelbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aspach-Michelbach", "metric_roundness": 50.79, "metric_rectangularity": 76.62, "metric_mobile_fit": 64.26, "metric_aspect_ratio": 0.92, "metric_area_km2": 26.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1495025, 47.792749 ], [ 7.1359295, 47.7963422 ], [ 7.1263202, 47.795188499999981 ], [ 7.1170495, 47.7902105 ], [ 7.115161, 47.78781 ], [ 7.1169995, 47.786698 ], [ 7.1148245, 47.7855715 ], [ 7.1130416, 47.7803715 ], [ 7.095371, 47.7679853 ], [ 7.0922245, 47.7624395 ], [ 7.1256125, 47.75188 ], [ 7.1303099, 47.759246099999984 ], [ 7.1466358, 47.771278599999981 ], [ 7.142036, 47.7791794 ], [ 7.1530805, 47.788726 ], [ 7.1495025, 47.792749 ] ] ] } }
+]
+}

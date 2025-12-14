@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stara_myjava",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stará Myjava", "metric_roundness": 33.04, "metric_rectangularity": 62.51, "metric_mobile_fit": 91.34, "metric_aspect_ratio": 0.476, "metric_area_km2": 40.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5965516, 48.7823189 ], [ 17.6007443, 48.7916086 ], [ 17.623016, 48.79714 ], [ 17.619417, 48.820190599999989 ], [ 17.6144898, 48.8281422 ], [ 17.621006, 48.842225 ], [ 17.6025797, 48.8406491 ], [ 17.5929748, 48.827543299999988 ], [ 17.5751605, 48.8242525 ], [ 17.573908, 48.824174 ], [ 17.5721576, 48.8163664 ], [ 17.5767891, 48.8059126 ], [ 17.5747575, 48.777053 ], [ 17.5847235, 48.771843 ], [ 17.5965516, 48.7823189 ] ] ] } }
+]
+}

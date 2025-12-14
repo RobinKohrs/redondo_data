@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thelus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thélus", "metric_roundness": 51.1, "metric_rectangularity": 73.45, "metric_mobile_fit": 65.8, "metric_aspect_ratio": 0.904, "metric_area_km2": 21.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8006169, 50.366106699999982 ], [ 2.7873345, 50.367227499999984 ], [ 2.782762, 50.368148699999985 ], [ 2.7741252, 50.3627396 ], [ 2.7746665, 50.349613499999982 ], [ 2.792424, 50.3420308 ], [ 2.7959731, 50.3352173 ], [ 2.8034006, 50.3380614 ], [ 2.814235, 50.330845499999974 ], [ 2.827001, 50.349093 ], [ 2.8124589, 50.3565828 ], [ 2.807087, 50.362604 ], [ 2.8006169, 50.366106699999982 ] ] ] } }
+]
+}

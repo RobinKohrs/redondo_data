@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_komanou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κομάνου", "metric_roundness": 56.61, "metric_rectangularity": 84.14, "metric_mobile_fit": 83.68, "metric_aspect_ratio": 0.726, "metric_area_km2": 16.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.781046, 40.4737 ], [ 21.7715151, 40.4744118 ], [ 21.7584132, 40.4726887 ], [ 21.7528371, 40.4684466 ], [ 21.7503795, 40.4644775 ], [ 21.7544415, 40.4375995 ], [ 21.7626635, 40.439724 ], [ 21.767496, 40.441613 ], [ 21.772523, 40.443121 ], [ 21.7842795, 40.4454955 ], [ 21.7854885, 40.457881 ], [ 21.781046, 40.4737 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valras_plage",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valras-Plage", "metric_roundness": 22.86, "metric_rectangularity": 54.19, "metric_mobile_fit": 29.67, "metric_aspect_ratio": 1.266, "metric_area_km2": 5.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.27112, 43.233777 ], [ 3.311649, 43.2544425 ], [ 3.3062246, 43.2585132 ], [ 3.2908968, 43.2532963 ], [ 3.2846052, 43.255389199999982 ], [ 3.2840625, 43.2503123 ], [ 3.276461, 43.2456649 ], [ 3.2763072, 43.2408311 ], [ 3.2686655, 43.2359815 ], [ 3.27112, 43.233777 ] ] ] } }
+]
+}

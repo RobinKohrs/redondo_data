@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_phanon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Φανών", "metric_roundness": 65.32, "metric_rectangularity": 78.95, "metric_mobile_fit": 63.04, "metric_aspect_ratio": 0.932, "metric_area_km2": 19.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.9526715, 36.351504 ], [ 27.9638146, 36.3380943 ], [ 27.9646315, 36.330014 ], [ 27.9783885, 36.323551499999979 ], [ 27.9880304, 36.325333399999984 ], [ 28.0038735, 36.3441215 ], [ 27.9879003, 36.3584496 ], [ 27.982794, 36.3677965 ], [ 27.9526715, 36.351504 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "latilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Latilly", "metric_roundness": 46.89, "metric_rectangularity": 68.28, "metric_mobile_fit": 99.67, "metric_aspect_ratio": 0.566, "metric_area_km2": 22.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3315407, 49.1433113 ], [ 3.3268458, 49.150644099999987 ], [ 3.3324695, 49.16172 ], [ 3.3164865, 49.164512499999987 ], [ 3.3218005, 49.176612499999983 ], [ 3.3082729, 49.1724563 ], [ 3.293398, 49.172355 ], [ 3.2950225, 49.146975 ], [ 3.3123305, 49.1314505 ], [ 3.31888, 49.13306 ], [ 3.322571, 49.136309499999982 ], [ 3.3280615, 49.136264 ], [ 3.329799, 49.137597 ], [ 3.3315407, 49.1433113 ] ] ] } }
+]
+}

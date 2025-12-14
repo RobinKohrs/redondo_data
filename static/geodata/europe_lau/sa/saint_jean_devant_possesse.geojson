@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_devant_possesse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-devant-Possesse", "metric_roundness": 51.0, "metric_rectangularity": 64.67, "metric_mobile_fit": 70.18, "metric_aspect_ratio": 0.861, "metric_area_km2": 12.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.765376, 48.8682706 ], [ 4.769209, 48.8646375 ], [ 4.8033295, 48.855627 ], [ 4.8004614, 48.862676899999983 ], [ 4.803244, 48.8690365 ], [ 4.801008, 48.874559499999989 ], [ 4.7905731, 48.877787 ], [ 4.782936, 48.884632499999974 ], [ 4.778528, 48.8807675 ], [ 4.767097, 48.875975 ], [ 4.765376, 48.8682706 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "warmsroth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Warmsroth", "metric_roundness": 30.0, "metric_rectangularity": 59.93, "metric_mobile_fit": 42.92, "metric_aspect_ratio": 1.133, "metric_area_km2": 14.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.804889, 49.948063 ], [ 7.8196928, 49.948645199999987 ], [ 7.8210487, 49.95141659999998 ], [ 7.816594, 49.9570962 ], [ 7.8033849, 49.9596722 ], [ 7.7781683, 49.9704972 ], [ 7.7700215, 49.979991 ], [ 7.7647986, 49.9711306 ], [ 7.7697235, 49.9651235 ], [ 7.7721164, 49.957719499999989 ], [ 7.7883872, 49.9486554 ], [ 7.794734, 49.948263499999989 ], [ 7.804889, 49.948063 ] ] ] } }
+]
+}

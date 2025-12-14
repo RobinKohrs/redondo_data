@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spiesheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spiesheim", "metric_roundness": 48.55, "metric_rectangularity": 65.45, "metric_mobile_fit": 70.41, "metric_aspect_ratio": 0.858, "metric_area_km2": 17.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.116438, 49.790558 ], [ 8.1348245, 49.793805 ], [ 8.1423851, 49.8039948 ], [ 8.156861, 49.809951 ], [ 8.1466638, 49.817426199999986 ], [ 8.1460565, 49.824787 ], [ 8.1145021, 49.8209059 ], [ 8.1113315, 49.8141695 ], [ 8.1198677, 49.805360799999981 ], [ 8.114699, 49.79358 ], [ 8.116438, 49.790558 ] ] ] } }
+]
+}

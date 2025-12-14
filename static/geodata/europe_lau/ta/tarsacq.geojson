@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tarsacq",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tarsacq", "metric_roundness": 42.49, "metric_rectangularity": 69.77, "metric_mobile_fit": 64.57, "metric_aspect_ratio": 0.917, "metric_area_km2": 8.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.5515625, 43.3587368 ], [ -0.5447753, 43.3536425 ], [ -0.5318786, 43.352156099999988 ], [ -0.5299054, 43.349338599999982 ], [ -0.5345167, 43.343977399999986 ], [ -0.522386, 43.3408455 ], [ -0.5150045, 43.354187 ], [ -0.5280585, 43.362108 ], [ -0.5420995, 43.369841 ], [ -0.5515625, 43.3587368 ] ] ] } }
+]
+}

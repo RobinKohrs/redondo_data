@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kacanovy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kacanovy", "metric_roundness": 49.84, "metric_rectangularity": 63.49, "metric_mobile_fit": 17.69, "metric_aspect_ratio": 1.386, "metric_area_km2": 14.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.1763559, 50.546020399999982 ], [ 15.182123, 50.5492165 ], [ 15.172524, 50.553052 ], [ 15.1597837, 50.563627099999977 ], [ 15.1373525, 50.5591055 ], [ 15.140656, 50.553393 ], [ 15.133864, 50.550977299999985 ], [ 15.131992, 50.5503115 ], [ 15.1280775, 50.545238 ], [ 15.133864, 50.5449391 ], [ 15.1470367, 50.5442586 ], [ 15.1673878, 50.5388444 ], [ 15.176242, 50.540585 ], [ 15.1763559, 50.546020399999982 ] ] ] } }
+]
+}

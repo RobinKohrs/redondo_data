@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pouan_les_vallees",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pouan-les-Vallées", "metric_roundness": 59.94, "metric_rectangularity": 74.4, "metric_mobile_fit": 85.85, "metric_aspect_ratio": 0.704, "metric_area_km2": 37.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0817345, 48.553078499999984 ], [ 4.0696017, 48.5525004 ], [ 4.0647262, 48.5556498 ], [ 4.0499865, 48.5576065 ], [ 4.044257, 48.5541754 ], [ 4.040219, 48.555464 ], [ 4.036193, 48.524971 ], [ 4.042656, 48.5145984 ], [ 4.064032, 48.505178 ], [ 4.0727323, 48.519282899999986 ], [ 4.089007, 48.522870499999989 ], [ 4.0878969, 48.538254099999989 ], [ 4.0919295, 48.54613 ], [ 4.0817345, 48.553078499999984 ] ] ] } }
+]
+}

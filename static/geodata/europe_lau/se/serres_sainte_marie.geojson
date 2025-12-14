@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "serres_sainte_marie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Serres-Sainte-Marie", "metric_roundness": 59.88, "metric_rectangularity": 66.48, "metric_mobile_fit": 53.88, "metric_aspect_ratio": 1.024, "metric_area_km2": 18.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.559804, 43.433500699999989 ], [ -0.5632404, 43.4273556 ], [ -0.573556, 43.430281 ], [ -0.5810003, 43.4268598 ], [ -0.5872685, 43.4163305 ], [ -0.54663, 43.39864 ], [ -0.539814, 43.404622 ], [ -0.536019, 43.405173 ], [ -0.53388, 43.410986 ], [ -0.5454239, 43.4204015 ], [ -0.5412446, 43.424955899999986 ], [ -0.5500915, 43.4320995 ], [ -0.552292, 43.434117499999985 ], [ -0.5534615, 43.436523 ], [ -0.559804, 43.433500699999989 ] ] ] } }
+]
+}

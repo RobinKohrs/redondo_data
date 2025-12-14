@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pigra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pigra", "metric_roundness": 49.72, "metric_rectangularity": 55.72, "metric_mobile_fit": 65.88, "metric_aspect_ratio": 0.904, "metric_area_km2": 9.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1438386, 45.957426199999972 ], [ 9.1311688, 45.965505 ], [ 9.127888, 45.979873 ], [ 9.1190555, 45.978973499999988 ], [ 9.1132702, 45.972695099999989 ], [ 9.1136064, 45.963345499999988 ], [ 9.107662, 45.954261 ], [ 9.1127101, 45.956136099999988 ], [ 9.1228771, 45.9520485 ], [ 9.1362765, 45.953168499999983 ], [ 9.137372, 45.952609 ], [ 9.1438386, 45.957426199999972 ] ] ] } }
+]
+}

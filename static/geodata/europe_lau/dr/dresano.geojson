@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dresano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dresano", "metric_roundness": 62.93, "metric_rectangularity": 77.55, "metric_mobile_fit": 66.37, "metric_aspect_ratio": 0.899, "metric_area_km2": 6.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.373116, 45.3865435 ], [ 9.364231, 45.386422 ], [ 9.3550459, 45.377181799999981 ], [ 9.350978, 45.376357 ], [ 9.3530145, 45.367719499999986 ], [ 9.3617615, 45.3652514 ], [ 9.3782225, 45.36895 ], [ 9.373116, 45.3865435 ] ] ] } }
+]
+}

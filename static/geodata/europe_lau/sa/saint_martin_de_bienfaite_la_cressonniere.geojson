@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_martin_de_bienfaite_la_cressonniere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Martin-de-Bienfaite-la-Cressonnière", "metric_roundness": 44.22, "metric_rectangularity": 64.55, "metric_mobile_fit": 94.18, "metric_aspect_ratio": 0.621, "metric_area_km2": 27.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3629756, 49.055208 ], [ 0.3559389, 49.0524872 ], [ 0.3369089, 49.0570391 ], [ 0.3355388, 49.0541777 ], [ 0.3412032, 49.0409745 ], [ 0.327322, 49.027684 ], [ 0.3422173, 49.0253024 ], [ 0.3393523, 49.019280699999989 ], [ 0.3408546, 49.0098592 ], [ 0.335028, 49.0062755 ], [ 0.3526525, 49.006677 ], [ 0.3657495, 49.015027599999989 ], [ 0.3682465, 49.0293677 ], [ 0.3751024, 49.0379769 ], [ 0.3702793, 49.0446969 ], [ 0.3753782, 49.0466768 ], [ 0.3708245, 49.0501705 ], [ 0.366966, 49.052354 ], [ 0.3629756, 49.055208 ] ] ] } }
+]
+}

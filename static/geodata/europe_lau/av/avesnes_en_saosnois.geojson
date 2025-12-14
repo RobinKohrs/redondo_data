@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "avesnes_en_saosnois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Avesnes-en-Saosnois", "metric_roundness": 48.82, "metric_rectangularity": 67.5, "metric_mobile_fit": 28.87, "metric_aspect_ratio": 1.274, "metric_area_km2": 13.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.380218, 48.256648499999983 ], [ 0.3877375, 48.260875 ], [ 0.3767067, 48.267953 ], [ 0.3657794, 48.2694164 ], [ 0.3631692, 48.275975299999985 ], [ 0.349131, 48.2815635 ], [ 0.347488, 48.278702499999987 ], [ 0.3371347, 48.2709831 ], [ 0.3370998, 48.2623314 ], [ 0.3627605, 48.255269 ], [ 0.372991, 48.259775 ], [ 0.3791305, 48.255101499999988 ], [ 0.380218, 48.256648499999983 ] ] ] } }
+]
+}

@@ -1,0 +1,774 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Lomnička,lomnicka,lo,43.67,58.14,12.35
+europe_lau,Lomnice nad Popelkou,lomnice_nad_popelkou,lo,54.27,57.91,78.85
+europe_lau,Lomec,lomec,lo,46.5,57.09,43.05
+europe_lau,Lomnice,lomnice,lo,52.95,66.99,87.04
+europe_lau,Lopeník,lopenik,lo,46.12,56.47,28.67
+europe_lau,Lovčičky,lovcicky,lo,41.07,55.89,27.6
+europe_lau,Loučka,loucka,lo,35.46,65.64,99.83
+europe_lau,Louka,louka,lo,37.94,59.91,99.88
+europe_lau,Lovčice,lovcice,lo,32.52,54.85,96.54
+europe_lau,Lomy,lomy,lo,58.88,67.31,37.17
+europe_lau,Loukov,loukov,lo,45,70.84,67
+europe_lau,Loukovice,loukovice,lo,58.03,63.44,76.58
+europe_lau,Lomnice,lomnice,lo,35.41,62.5,88.57
+europe_lau,Lohe-Rickelshof,lohe_rickelshof,lo,44.88,79,99.21
+europe_lau,Loděnice,lodenice,lo,64.34,82.14,52.77
+europe_lau,Lohnsburg am Kobernaußerwald,lohnsburg_am_kobernausserwald,lo,22.94,52.08,87.74
+europe_lau,Lockstedt,lockstedt,lo,39.46,57.8,96.53
+europe_lau,Lohbarbek,lohbarbek,lo,41.22,67.9,97.36
+europe_lau,Looft,looft,lo,57.62,66.26,15.97
+europe_lau,Löwenstedt,lowenstedt,lo,52.7,64.82,47.62
+europe_lau,Löptin,loptin,lo,40.72,61.54,99.57
+europe_lau,Lohe-Föhrden,lohe_fohrden,lo,40.41,61.35,-15.68
+europe_lau,Loop,loop,lo,56.39,80.19,39.25
+europe_lau,Losenstein,losenstein,lo,38.7,60.93,-23.39
+europe_lau,Loit,loit,lo,52.37,73.42,81.66
+europe_lau,Lottorf,lottorf,lo,62.22,72.51,73.25
+europe_lau,Loipersbach im Burgenland,loipersbach_im_burgenland,lo,66.4,80.1,53.9
+europe_lau,"Lohheide, gemfr. Bezirk",lohheide_gemfr_bezirk,lo,34.3,65.78,86.28
+europe_lau,Loxstedt,loxstedt,lo,39.77,61.98,11.35
+europe_lau,"Lorsch, Karolingerstadt",lorsch_karolingerstadt,lo,41.41,49.43,86.74
+europe_lau,"Löningen, Stadt",loningen_stadt,lo,60.96,61.9,43.9
+europe_lau,Lorup,lorup,lo,51.74,70.82,55.94
+europe_lau,"Lohmar, Stadt",lohmar_stadt,lo,50.16,66.74,93.46
+europe_lau,Lotte,lotte,lo,22,44.16,92.78
+europe_lau,"Löhne, Stadt",lohne_stadt,lo,58.5,71.62,81.22
+europe_lau,"Lohne (Oldenburg), Stadt",lohne_oldenburg_stadt,lo,50.83,62.07,64.23
+europe_lau,"Lorch, Stadt",lorch_stadt,lo,37.88,51.5,76.66
+europe_lau,Lofer,lofer,lo,39.76,53.1,40.84
+europe_lau,"Lollar, Stadt",lollar_stadt,lo,30.52,47.89,79.91
+europe_lau,Löhnberg,lohnberg,lo,39.75,55.88,66.19
+europe_lau,Lohra,lohra,lo,54.61,60.47,67.1
+europe_lau,Lohfelden,lohfelden,lo,60.43,66.19,41.86
+europe_lau,Lonnig,lonnig,lo,62.18,69.52,83.34
+europe_lau,Löf,lof,lo,54.43,67.15,86.88
+europe_lau,Löllbach,lollbach,lo,35.31,50.74,-3.75
+europe_lau,Lohrheim,lohrheim,lo,40.3,73.18,26.58
+europe_lau,Lollschied,lollschied,lo,35.41,62.95,82.75
+europe_lau,Lochum,lochum,lo,39.98,52.51,62.66
+europe_lau,Lohnsfeld,lohnsfeld,lo,41.43,57.35,52.56
+europe_lau,Longen,longen,lo,23.48,58.1,80.19
+europe_lau,Longuich,longuich,lo,50.37,68.45,29.96
+europe_lau,Lorscheid,lorscheid,lo,50.27,65.01,61.54
+europe_lau,Lonsheim,lonsheim,lo,38.93,63.8,84.74
+europe_lau,Lösnich,losnich,lo,34.78,51.02,47.38
+europe_lau,Longkamp,longkamp,lo,34.58,53.82,96
+europe_lau,Lötzbeuren,lotzbeuren,lo,53.85,64.23,56.66
+europe_lau,Löchgau,lochgau,lo,50.89,63.97,2.29
+europe_lau,Lobmingtal,lobmingtal,lo,29.03,50.65,43.48
+europe_lau,Lohnweiler,lohnweiler,lo,53.56,62.4,75.83
+europe_lau,Lörzweiler,lorzweiler,lo,55.95,80.42,68.78
+europe_lau,Loßburg,lossburg,lo,64.26,66.43,50.59
+europe_lau,"Löffingen, Stadt",loffingen_stadt,lo,50.34,64.39,45.26
+europe_lau,Lockenhaus,lockenhaus,lo,52.8,66.46,75.31
+europe_lau,"Lörrach, Stadt",lorrach_stadt,lo,48.78,63.23,81.53
+europe_lau,Lottstetten,lottstetten,lo,57.76,64.4,68.2
+europe_lau,"Lorch, Stadt",lorch_stadt,lo,59.42,69.21,30.08
+europe_lau,Loffenau,loffenau,lo,42.87,65.58,90.03
+europe_lau,Lobbach,lobbach,lo,29.39,48.82,74.43
+europe_lau,Loitzendorf,loitzendorf,lo,52.52,70.62,8.53
+europe_lau,Loiching,loiching,lo,29.66,52.95,89.43
+europe_lau,Lonsee,lonsee,lo,46.15,57.35,45.41
+europe_lau,Lohkirchen,lohkirchen,lo,54.2,66.06,63.97
+europe_lau,"Löbau, Stadt",lobau_stadt,lo,46.85,67.84,79.14
+europe_lau,"Lommatzsch, Stadt",lommatzsch_stadt,lo,54.88,60.17,24.2
+europe_lau,Lohberg,lohberg,lo,64.59,74.58,68.65
+europe_lau,Lohmen,lohmen,lo,37.43,61.82,-9.88
+europe_lau,Lossatal,lossatal,lo,56.61,61.44,47.8
+europe_lau,Löbnitz,lobnitz,lo,37.6,51.16,-0.89
+europe_lau,Loitsche-Heinrichsberg,loitsche_heinrichsberg,lo,36.77,59.69,81.55
+europe_lau,Lorüns,loruns,lo,35.49,56.39,-2.38
+europe_lau,Losheim am See,losheim_am_see,lo,57.35,65.57,47.34
+europe_lau,Löberschütz,loberschutz,lo,33.44,54.78,11.68
+europe_lau,Löhma,lohma,lo,33.49,52.7,78.25
+europe_lau,Londerzeel,londerzeel,lo,72.54,72.61,55.87
+europe_lau,Löbichau,lobichau,lo,60.86,68.57,49.49
+europe_lau,Lödla,lodla,lo,31.97,53.16,0.69
+europe_lau,Löwenberger Land,lowenberger_land,lo,48.35,59.39,20.22
+europe_lau,Lolland,lolland,lo,47.74,70.42,57.94
+europe_lau,Lomas,lomas,lo,61.98,66.1,65.3
+europe_lau,"Losar del Barco, El",losar_del_barco_el,lo,44.45,61.39,68
+europe_lau,"Losilla, La",losilla_la,lo,55.14,58.24,39.34
+europe_lau,Lobras,lobras,lo,28.16,53.24,89.74
+europe_lau,Loja,loja,lo,48.91,60.12,70.32
+europe_lau,Ловеч,lovec,lo,59.34,66.62,46.83
+europe_lau,Лозница,loznica,lo,54.93,60.84,37.46
+europe_lau,Lotzwil,lotzwil,lo,42.33,64.77,17.29
+europe_lau,Lobón,lobon,lo,38.02,56.05,11.99
+europe_lau,Lorcha,lorcha,lo,57.81,76.09,46.47
+europe_lau,Лом,lom,lo,22.77,56.4,-106.08
+europe_lau,Logrosán,logrosan,lo,56.39,64.78,72.44
+europe_lau,Losar de la Vera,losar_de_la_vera,lo,26.68,48.36,95.07
+europe_lau,Lokeren,lokeren,lo,69.3,80.39,63.75
+europe_lau,Lousame,lousame,lo,40.91,53.34,58.16
+europe_lau,Lo-Reninge,lo_reninge,lo,49.64,66.47,66.92
+europe_lau,"Lößnitz, Stadt",lossnitz_stadt,lo,48.85,56.32,77.1
+europe_lau,"Lohr a.Main, St",lohr_a_main_st,lo,52.01,56.74,39.55
+europe_lau,Lohmen,lohmen,lo,36.64,52.16,94.37
+europe_lau,Loipersdorf-Kitzladen,loipersdorf_kitzladen,lo,48.78,58.34,26.48
+europe_lau,Loksa linn,loksa_linn,lo,50.19,75.37,94.5
+europe_lau,Lobbes,lobbes,lo,42.69,61.65,44.93
+europe_lau,Löbnitz,lobnitz,lo,48.76,63.2,25.55
+europe_lau,Lohme,lohme,lo,40.54,53.33,6.39
+europe_lau,Lontzen,lontzen,lo,53.57,71.12,15.98
+europe_lau,Löcknitz,locknitz,lo,30.03,51.56,69.58
+europe_lau,Loddin,loddin,lo,47.78,65.3,76.69
+europe_lau,Loissin,loissin,lo,65.74,82.71,25.39
+europe_lau,"Loitz, Stadt",loitz_stadt,lo,43.23,58.15,39.51
+europe_lau,Lohsa / Łaz,lohsa_laz,lo,59.93,66.13,64.83
+europe_lau,Lochau,lochau,lo,47.24,68.47,48.83
+europe_lau,"Lonnerstadt, M",lonnerstadt_m,lo,65.3,66.15,51.5
+europe_lau,Lochristi,lochristi,lo,61.5,65.17,69.86
+europe_lau,Lommel,lommel,lo,49.44,62.97,47.42
+europe_lau,Löhningen,lohningen,lo,61.09,67.59,70.97
+europe_lau,Longchamp,longchamp,lo,56.9,72.86,47.66
+europe_lau,Longeault-Pluvault,longeault_pluvault,lo,30.36,46.3,91.84
+europe_lau,Longecourt-en-Plaine,longecourt_en_plaine,lo,47,64.79,5.37
+europe_lau,Longecourt-lès-Culêtre,longecourt_les_culetre,lo,53.34,64.41,84.41
+europe_lau,Longvic,longvic,lo,54.63,63.16,40.02
+europe_lau,Losne,losne,lo,49.13,60.19,10.54
+europe_lau,Louesme,louesme,lo,49.57,74.6,75.56
+europe_lau,Lostanges,lostanges,lo,27.31,51.06,79.81
+europe_lau,Louignac,louignac,lo,55.73,63.63,49.82
+europe_lau,Loubaresse,loubaresse,lo,46.21,52.51,21.99
+europe_lau,Lohn (SH),lohn_sh,lo,58.46,69.49,66.9
+europe_lau,Lorp-Sentaraille,lorp_sentaraille,lo,51.26,74.43,78.55
+europe_lau,Lostallo,lostallo,lo,57.28,66.46,38.08
+europe_lau,Loire-les-Marais,loire_les_marais,lo,28.67,51.72,88.19
+europe_lau,Loiré-sur-Nie,loire_sur_nie,lo,48.14,67.92,70.47
+europe_lau,Loix,loix,lo,23.57,61.33,-84.19
+europe_lau,Longèves,longeves,lo,47.83,59.28,82
+europe_lau,Lonzac,lonzac,lo,56.86,74,61.03
+europe_lau,Lorignac,lorignac,lo,70.81,75.49,56.76
+europe_lau,Loulay,loulay,lo,60.24,83.95,59.8
+europe_lau,Louzignac,louzignac,lo,50.31,80.41,5.84
+europe_lau,Lozay,lozay,lo,43.86,64.05,98.69
+europe_lau,Loye-sur-Arnon,loye_sur_arnon,lo,44.72,74.09,97.6
+europe_lau,Lommis,lommis,lo,65.24,75.81,60.11
+europe_lau,Loddes,loddes,lo,57.61,66.7,80.72
+europe_lau,Loriges,loriges,lo,42.78,56.34,6.06
+europe_lau,Louchy-Montfand,louchy_montfand,lo,43.78,69.92,-10.16
+europe_lau,Louroux-Bourbonnais,louroux_bourbonnais,lo,42.81,59.19,1.89
+europe_lau,Loimaa,loimaa,lo,50.88,65.46,67.86
+europe_lau,Loppi,loppi,lo,57.43,69.43,38.54
+europe_lau,Loviisa,loviisa,lo,46.69,49.11,53.79
+europe_lau,Lohja,lohja,lo,40.94,53,88.93
+europe_lau,Louroux-de-Beaune,louroux_de_beaune,lo,56.56,69.89,70.71
+europe_lau,Lohn (GR),lohn_gr,lo,47.92,64.48,10.66
+europe_lau,Loupia,loupia,lo,30.87,69.65,-59.5
+europe_lau,Lods,lods,lo,30.06,56.61,38.91
+europe_lau,Lombard,lombard,lo,51.89,72.52,91.23
+europe_lau,Lomont-sur-Crête,lomont_sur_crete,lo,39,65.12,7.32
+europe_lau,Longechaux,longechaux,lo,64.8,73.69,37.88
+europe_lau,Longemaison,longemaison,lo,31.43,56.9,99.21
+europe_lau,Longevelle-lès-Russey,longevelle_les_russey,lo,63.23,77.27,65.61
+europe_lau,Longevelle-sur-Doubs,longevelle_sur_doubs,lo,43.78,59.17,21.79
+europe_lau,Longeville,longeville,lo,38.69,52.12,88.28
+europe_lau,Longevilles-Mont-d'Or,longevilles_mont_d_or,lo,47.77,60.53,71.94
+europe_lau,Loray,loray,lo,63.44,71.47,65.1
+europe_lau,Lougres,lougres,lo,49.33,69.74,79.3
+europe_lau,Lostorf,lostorf,lo,47.73,56.33,15.75
+europe_lau,Lompnas,lompnas,lo,54.02,76.89,69.69
+europe_lau,Loyettes,loyettes,lo,65.82,78.09,52.58
+europe_lau,Louroux-de-Bouble,louroux_de_bouble,lo,53.13,66.01,18.18
+europe_lau,Longchamps,longchamps,lo,56.77,73.05,45.86
+europe_lau,Lorleau,lorleau,lo,52.08,68.92,52.63
+europe_lau,Lolme,lolme,lo,53.56,76.44,75.95
+europe_lau,Loubejac,loubejac,lo,36.99,60.96,76.6
+europe_lau,Longirod,longirod,lo,29.91,56.44,59.31
+europe_lau,Louversey,louversey,lo,40.61,59.74,91.49
+europe_lau,Louviers,louviers,lo,55.16,65.54,42.05
+europe_lau,Louye,louye,lo,43.98,67.31,-12.03
+europe_lau,Loveresse,loveresse,lo,24.07,58.03,79.77
+europe_lau,Loriguilla,loriguilla,lo,27.24,53.7,38.31
+europe_lau,Losa del Obispo,losa_del_obispo,lo,39.69,52.18,23.4
+europe_lau,Logny-Bogny,logny_bogny,lo,70.34,75.95,58.08
+europe_lau,Longwé,longwe,lo,53.04,65.95,33.39
+europe_lau,Lonny,lonny,lo,57.19,66.92,71.7
+europe_lau,Lourenzá,lourenza,lo,34.19,62.95,96.33
+europe_lau,Lohn-Ammannsegg,lohn_ammannsegg,lo,63.6,73.89,68.45
+europe_lau,Loiu,loiu,lo,45.44,59.13,84.18
+europe_lau,Loranca de Tajuña,loranca_de_tajuna,lo,64.01,70.74,59.59
+europe_lau,Loarre,loarre,lo,65.66,71.19,51.43
+europe_lau,Loporzano,loporzano,lo,41.89,58.49,85.75
+europe_lau,Loscorrales,loscorrales,lo,41.1,64.12,99.02
+europe_lau,"Losa, La",losa_la,lo,32.32,67.39,77.4
+europe_lau,Logny-lès-Aubenton,logny_les_aubenton,lo,17.11,65.19,95.25
+europe_lau,Longpont,longpont,lo,48.78,65.4,73.32
+europe_lau,Lor,lor,lo,47.32,56.24,87.25
+europe_lau,Louâtre,louatre,lo,53.19,59.44,67.3
+europe_lau,Loupeigne,loupeigne,lo,42.59,73.02,67.93
+europe_lau,Losacino,losacino,lo,59.61,69.83,42.15
+europe_lau,Losacio,losacio,lo,49.31,72.16,11.19
+europe_lau,Lodosa,lodosa,lo,38.15,55.59,96.96
+europe_lau,Lónguida,longuida,lo,59.29,60.89,56.54
+europe_lau,Loeches,loeches,lo,47,56.37,56.34
+europe_lau,Lozoya,lozoya,lo,58.75,78.2,74.18
+europe_lau,Lominchar,lominchar,lo,51.15,76.42,-8.67
+europe_lau,Loches-sur-Ource,loches_sur_ource,lo,33.76,71.21,97.26
+europe_lau,Longchamp-sur-Aujon,longchamp_sur_aujon,lo,47.66,55.97,69.3
+europe_lau,Longeville-sur-Mogne,longeville_sur_mogne,lo,53.17,71.81,57.62
+europe_lau,Longpré-le-Sec,longpre_le_sec,lo,49.17,60.09,54.72
+europe_lau,Longsols,longsols,lo,37.23,58.17,-36.2
+europe_lau,Longueville-sur-Aube,longueville_sur_aube,lo,41.96,65.07,99.78
+europe_lau,Loma de Ucieza,loma_de_ucieza,lo,48.72,58.97,77.6
+europe_lau,Lopera,lopera,lo,40.56,61.09,78.62
+europe_lau,Lora de Estepa,lora_de_estepa,lo,41.56,59.49,95.36
+europe_lau,Lora del Río,lora_del_rio,lo,74.47,81.77,52.25
+europe_lau,Lomoviejo,lomoviejo,lo,25.85,55.2,42
+europe_lau,Longues-sur-Mer,longues_sur_mer,lo,64.89,72.34,49.32
+europe_lau,Longueville,longueville,lo,35.69,52.73,93.96
+europe_lau,Longvillers,longvillers,lo,58.74,68.73,35.2
+europe_lau,Loucelles,loucelles,lo,48.76,66.7,7.9
+europe_lau,Louvagny,louvagny,lo,56.37,79.96,20.75
+europe_lau,Louvigny,louvigny,lo,38.07,47.11,33.19
+europe_lau,Lozoyuela-Navas-Sieteiglesias,lozoyuela_navas_sieteiglesias,lo,63.68,69.66,58.26
+europe_lau,Lommiswil,lommiswil,lo,55.9,74.87,69.71
+europe_lau,Lobera de Onsella,lobera_de_onsella,lo,59.33,82.65,74.27
+europe_lau,Longares,longares,lo,58.13,74.55,73.71
+europe_lau,Longás,longas,lo,62.34,63.41,53.95
+europe_lau,Lobeira,lobeira,lo,46.21,63.33,90.37
+europe_lau,Lobios,lobios,lo,45.49,52.59,65.87
+europe_lau,Lorcières,lorcieres,lo,52.78,60.49,25.27
+europe_lau,Lordat,lordat,lo,14.92,32.02,20.73
+europe_lau,Loubaut,loubaut,lo,46.59,72.47,15.24
+europe_lau,Loubens,loubens,lo,42.33,61.18,19.89
+europe_lau,Logroño,logrono,lo,34.63,49.98,-6.42
+europe_lau,Loscos,loscos,lo,43.48,55.28,48.13
+europe_lau,Lorca,lorca,lo,50.54,62.96,67.56
+europe_lau,Lorquí,lorqui,lo,43.35,65.67,87.51
+europe_lau,Louvemont,louvemont,lo,62.17,65.38,52.43
+europe_lau,Louvières,louvieres,lo,61.8,71.22,64.84
+europe_lau,Λόφου,lophou,lo,20.71,52.25,83.86
+europe_lau,Lolif,lolif,lo,54.57,70.42,68.71
+europe_lau,Longueville,longueville,lo,55.21,64.64,23.03
+europe_lau,Λουτρός,loutros,lo,49.96,64.6,37.03
+europe_lau,Lombreuil,lombreuil,lo,71.21,76.7,54.47
+europe_lau,Lorcy,lorcy,lo,37.63,58.1,80.96
+europe_lau,Lorris,lorris,lo,53.17,79.25,37.57
+europe_lau,Loury,loury,lo,43.17,52.84,52.19
+europe_lau,Louzouer,louzouer,lo,39.9,63.84,-2.44
+europe_lau,Lorette,lorette,lo,54.17,61.52,48.9
+europe_lau,Lonay,lonay,lo,63.31,73.22,79.49
+europe_lau,Louisfert,louisfert,lo,58.73,78.01,45.94
+europe_lau,Λουβαράς,loubaras,lo,40.96,65.57,-19.67
+europe_lau,Longueville,longueville,lo,58.44,69.79,26.47
+europe_lau,Loubès-Bernac,loubes_bernac,lo,44.21,73.18,56.81
+europe_lau,Lougratte,lougratte,lo,52.84,65.22,60.06
+europe_lau,Loiré,loire,lo,59.13,62.44,63.38
+europe_lau,Longué-Jumelles,longue_jumelles,lo,41.57,58.79,75.37
+europe_lau,Louresse-Rochemenier,louresse_rochemenier,lo,34.14,54.76,84.48
+europe_lau,Longuenée-en-Anjou,longuenee_en_anjou,lo,43.91,54.22,88.61
+europe_lau,Loire-Authion,loire_authion,lo,44.19,49.58,54.49
+europe_lau,Loreux,loreux,lo,63.85,81.23,42.54
+europe_lau,Lorges,lorges,lo,39.47,43.31,73.34
+europe_lau,Locquignol,locquignol,lo,39.09,59.4,71.61
+europe_lau,Loffre,loffre,lo,55.48,80.78,51.48
+europe_lau,Lompret,lompret,lo,45.56,67.18,67.48
+europe_lau,Looberghe,looberghe,lo,72.11,73.5,63.44
+europe_lau,Loon-Plage,loon_plage,lo,45.21,58.06,55.93
+europe_lau,Loos,loos,lo,38.72,68.9,62.56
+europe_lau,Lourches,lourches,lo,66.41,75.94,48.34
+europe_lau,Louvignies-Quesnoy,louvignies_quesnoy,lo,51.65,65.55,36.99
+europe_lau,Louvil,louvil,lo,71.27,77.18,56.52
+europe_lau,Louvroil,louvroil,lo,52.97,66.32,46.48
+europe_lau,Loisy-en-Brie,loisy_en_brie,lo,24.33,65.23,63.49
+europe_lau,Loisy-sur-Marne,loisy_sur_marne,lo,47.12,52.98,72.68
+europe_lau,Loivre,loivre,lo,47.17,56.69,76.57
+europe_lau,Loubeyrat,loubeyrat,lo,57.58,73.51,14.92
+europe_lau,Loisy,loisy,lo,42.74,50.77,61.29
+europe_lau,Longlaville,longlaville,lo,54.7,69.57,46.93
+europe_lau,Longuyon,longuyon,lo,37.71,53.84,87.83
+europe_lau,Longwy,longwy,lo,59.35,65.49,70.29
+europe_lau,Lorey,lorey,lo,41.96,59.81,59.25
+europe_lau,Loromontzey,loromontzey,lo,34.58,54.34,97
+europe_lau,Logron,logron,lo,60.56,62.71,52.21
+europe_lau,Loigny-la-Bataille,loigny_la_bataille,lo,28.37,38.26,52.86
+europe_lau,Lormaye,lormaye,lo,29.59,61.55,92.43
+europe_lau,Louville-la-Chenard,louville_la_chenard,lo,64.55,66.09,73.49
+europe_lau,Louvilliers-en-Drouais,louvilliers_en_drouais,lo,61.14,71.36,76.12
+europe_lau,Louvilliers-lès-Perche,louvilliers_les_perche,lo,52.53,66.19,32.39
+europe_lau,Loconville,loconville,lo,49.74,73.4,40.5
+europe_lau,Longueil-Annel,longueil_annel,lo,73.18,70.46,48.57
+europe_lau,Longueil-Sainte-Marie,longueil_sainte_marie,lo,35.5,55.11,95.6
+europe_lau,Lormaison,lormaison,lo,50.57,86.51,97.09
+europe_lau,Loueuse,loueuse,lo,54.92,70.07,70.14
+europe_lau,Loireauxence,loireauxence,lo,57.87,61.36,74.75
+europe_lau,Loiron-Ruillé,loiron_ruille,lo,53.29,71.27,28.95
+europe_lau,Loupfougères,loupfougeres,lo,42.73,65.7,57.8
+europe_lau,Louverné,louverne,lo,48.88,69.51,88.68
+europe_lau,Louvigné,louvigne,lo,53.9,69.56,45.19
+europe_lau,Lorlanges,lorlanges,lo,61.18,69.69,67.5
+europe_lau,Loudes,loudes,lo,64.23,62.38,48.35
+europe_lau,Longchamp,longchamp,lo,46.52,66.49,92.12
+europe_lau,Longeau-Percey,longeau_percey,lo,53.75,55.89,64.32
+europe_lau,Loubressac,loubressac,lo,52.78,68.3,72.91
+europe_lau,Loupiac,loupiac,lo,64.21,63.72,50.57
+europe_lau,Lourdoueix-Saint-Michel,lourdoueix_saint_michel,lo,53.8,64.07,62.78
+europe_lau,Lourouer-Saint-Laurent,lourouer_saint_laurent,lo,63.22,78.39,68.49
+europe_lau,Loc-Brévalaire,loc_brevalaire,lo,60.8,75.36,45.7
+europe_lau,Loc-Eguiner,loc_eguiner,lo,51.11,70.09,93.12
+europe_lau,Locmaria-Plouzané,locmaria_plouzane,lo,48.71,68.52,88.62
+europe_lau,Locmélar,locmelar,lo,63.42,74.05,59.72
+europe_lau,Locquénolé,locquenole,lo,64.72,74.01,65.3
+europe_lau,Locquirec,locquirec,lo,35.25,45.68,18.62
+europe_lau,Locronan,locronan,lo,48.1,64.07,35.1
+europe_lau,Loctudy,loctudy,lo,43.47,57.68,96.52
+europe_lau,Locunolé,locunole,lo,65.6,69.26,62.45
+europe_lau,Logonna-Daoulas,logonna_daoulas,lo,30.76,61.51,-15.6
+europe_lau,Lopérec,loperec,lo,38.86,64.93,91.54
+europe_lau,Loperhet,loperhet,lo,36.45,58.02,98.27
+europe_lau,Loqueffret,loqueffret,lo,37.92,54.02,-0.9
+europe_lau,Lothey,lothey,lo,40.46,61.53,92.42
+europe_lau,Lombez,lombez,lo,63.41,68.9,35.21
+europe_lau,Loubédat,loubedat,lo,45.9,77.89,67.28
+europe_lau,Loubersan,loubersan,lo,59.11,69.3,46.77
+europe_lau,Lourties-Monbrun,lourties_monbrun,lo,54.74,57.16,74.46
+europe_lau,Louslitges,louslitges,lo,38.69,67.78,37.05
+europe_lau,Loussous-Débat,loussous_debat,lo,52.18,83.64,34.79
+europe_lau,Locarn,locarn,lo,29.41,68.1,-107.83
+europe_lau,Loc-Envel,loc_envel,lo,73.04,85.35,73.09
+europe_lau,Loguivy-Plougras,loguivy_plougras,lo,55.65,61.39,54.24
+europe_lau,Lohuec,lohuec,lo,39.4,59.07,-19.69
+europe_lau,Loscouët-sur-Meu,loscouet_sur_meu,lo,40.23,62.44,84.41
+europe_lau,Louannec,louannec,lo,54.91,60.79,66.15
+europe_lau,Louargat,louargat,lo,51.08,76.12,88.87
+europe_lau,Loudéac,loudeac,lo,53.79,67.38,37.14
+europe_lau,Losse,losse,lo,43.76,54.63,46.67
+europe_lau,Loriol-sur-Drôme,loriol_sur_drome,lo,43.56,67.44,-14.62
+europe_lau,Lohéac,loheac,lo,44.99,68.12,83.69
+europe_lau,Longaulnay,longaulnay,lo,43.16,61.07,59.32
+europe_lau,Lourmais,lourmais,lo,58.9,62.62,36.69
+europe_lau,Loutehel,loutehel,lo,45.09,63.77,58.23
+europe_lau,Louvigné-de-Bais,louvigne_de_bais,lo,56.55,67.78,25.28
+europe_lau,Louvigné-du-Désert,louvigne_du_desert,lo,50.67,57.57,51.08
+europe_lau,Louer,louer,lo,57.5,64.74,58.06
+europe_lau,Lourquen,lourquen,lo,62.05,85.17,30.82
+europe_lau,Longechenal,longechenal,lo,47.4,68.38,-5.7
+europe_lau,Londigny,londigny,lo,68.61,73.59,65.38
+europe_lau,Longré,longre,lo,60.38,73.48,73.39
+europe_lau,Lonnes,lonnes,lo,51.54,64.4,40.92
+europe_lau,Louzac-Saint-André,louzac_saint_andre,lo,57.37,67.27,61.29
+europe_lau,Lopigna,lopigna,lo,34.02,59.57,38.48
+europe_lau,Loreto-di-Tallano,loreto_di_tallano,lo,24.16,58.79,83.14
+europe_lau,Locarno,locarno,lo,39.94,58.96,81.53
+europe_lau,Losone,losone,lo,50.89,73.93,-14.52
+europe_lau,Lormont,lormont,lo,57.2,72.27,38.11
+europe_lau,Loubens,loubens,lo,55.3,69.21,28.48
+europe_lau,Louchats,louchats,lo,51.56,70.5,83.31
+europe_lau,Loupes,loupes,lo,46.58,66.16,39.12
+europe_lau,Loupiac,loupiac,lo,37.06,56.61,72.3
+europe_lau,Loupiac-de-la-Réole,loupiac_de_la_reole,lo,27.3,77.55,76.05
+europe_lau,Lodève,lodeve,lo,36.62,42.28,62.47
+europe_lau,Loupian,loupian,lo,44.68,67.59,88.2
+europe_lau,Logrian-Florian,logrian_florian,lo,52.87,62.93,72.31
+europe_lau,Loches,loches,lo,32.99,62.12,73.98
+europe_lau,Loché-sur-Indrois,loche_sur_indrois,lo,58.9,72.08,52.49
+europe_lau,Louans,louans,lo,28.99,55.28,-15.71
+europe_lau,Loreto-di-Casinca,loreto_di_casinca,lo,66.5,82.38,55.49
+europe_lau,Lozzi,lozzi,lo,58.64,77.1,34.14
+europe_lau,Λουρουκίνα,louroukina,lo,52.13,60.7,74.35
+europe_lau,Loisia,loisia,lo,59.12,77.13,49.04
+europe_lau,Lombard,lombard,lo,26.41,51.71,84.92
+europe_lau,Lourdoueix-Saint-Pierre,lourdoueix_saint_pierre,lo,34.26,55.06,35.2
+europe_lau,Longchaumois,longchaumois,lo,44.07,52.79,47.87
+europe_lau,Longcochon,longcochon,lo,38.7,62.72,33.87
+europe_lau,Longwy-sur-le-Doubs,longwy_sur_le_doubs,lo,38.06,58.91,88.13
+europe_lau,Lons-le-Saunier,lons_le_saunier,lo,50.37,64.73,69.23
+europe_lau,Loulle,loulle,lo,49.18,56.77,81.2
+europe_lau,Louvatange,louvatange,lo,58.63,69.59,70.77
+europe_lau,Lodes,lodes,lo,33.12,65.7,-62.09
+europe_lau,Longages,longages,lo,51.75,69.24,22.81
+europe_lau,Loubens-Lauragais,loubens_lauragais,lo,46.82,62.6,58.89
+europe_lau,Loudet,loudet,lo,71.15,80.61,69.07
+europe_lau,Lourde,lourde,lo,51.78,55.43,59.3
+europe_lau,Loretz-d'Argenton,loretz_d_argenton,lo,48.31,54.87,59.42
+europe_lau,Londinières,londinieres,lo,46.02,68.1,46.42
+europe_lau,Longmesnil,longmesnil,lo,51.59,70.27,89.36
+europe_lau,Longroy,longroy,lo,54.38,65.76,59.14
+europe_lau,Longueil,longueil,lo,48.57,64.37,31.48
+europe_lau,Longuerue,longuerue,lo,41.62,53.11,4.75
+europe_lau,Longueville-sur-Scie,longueville_sur_scie,lo,64.83,69.28,41.89
+europe_lau,Louvetot,louvetot,lo,43.61,59.2,-2.52
+europe_lau,Loisy,loisy,lo,41.34,51.1,71.58
+europe_lau,Longepierre,longepierre,lo,50.69,52.11,47.86
+europe_lau,Louhans,louhans,lo,57.08,65.83,51.96
+europe_lau,Lournand,lournand,lo,54.84,70.66,62.69
+europe_lau,Longchamp,longchamp,lo,39.8,65.2,44.32
+europe_lau,Longchamp-sous-Châtenois,longchamp_sous_chatenois,lo,50.83,55.7,27.27
+europe_lau,Loukovec,loukovec,lo,51.77,75.8,-2.56
+europe_lau,Loučeň,loucen,lo,58.95,61.78,59.35
+europe_lau,Longjumeau,longjumeau,lo,51.21,64.67,49.65
+europe_lau,Longpont-sur-Orge,longpont_sur_orge,lo,29.55,58.99,84.07
+europe_lau,Looze,looze,lo,34.51,56.31,96.6
+europe_lau,Loštice,lostice,lo,52.58,70.62,38.16
+europe_lau,Loučná nad Desnou,loucna_nad_desnou,lo,49.5,59.88,51.05
+europe_lau,Los Masos,los_masos,lo,44.37,65.87,80.63
+europe_lau,Loze,loze,lo,10.18,36.99,-177.21
+europe_lau,Lorgues,lorgues,lo,59.26,69.99,38.78
+europe_lau,Loděnice,lodenice,lo,39.99,53.43,77.18
+europe_lau,Lochovice,lochovice,lo,40.46,57.39,84.46
+europe_lau,Lombrès,lombres,lo,31.52,48.36,96.4
+europe_lau,Lomné,lomne,lo,67.83,75.3,28.73
+europe_lau,Lom,lom,lo,43.71,58.67,77.38
+europe_lau,Louňovice,lounovice,lo,47.06,70.39,99.49
+europe_lau,Lommoye,lommoye,lo,50.27,64.35,67.11
+europe_lau,Longnes,longnes,lo,51.61,69.03,69.23
+europe_lau,Longvilliers,longvilliers,lo,41.96,53.3,47.88
+europe_lau,Louveciennes,louveciennes,lo,40.8,68.93,84.69
+europe_lau,Lortet,lortet,lo,46.96,58.08,69.26
+europe_lau,Loubajac,loubajac,lo,46.82,60.18,39.07
+europe_lau,Loucrup,loucrup,lo,57.83,79.94,43.4
+europe_lau,Loudenvielle,loudenvielle,lo,26.93,44.46,95.6
+europe_lau,Loudervielle,loudervielle,lo,32.41,57.16,38.87
+europe_lau,Louey,louey,lo,45.82,70.81,-5.66
+europe_lau,Louit,louit,lo,54.09,85.84,24.82
+europe_lau,Lourdes,lourdes,lo,38.18,46.28,23.6
+europe_lau,Loures-Barousse,loures_barousse,lo,42.17,60.73,54.89
+europe_lau,Lobor,lobor,lo,45.81,57.12,81.05
+europe_lau,Lokve,lokve,lo,23.38,45.26,32.56
+europe_lau,Lovas,lovas,lo,43.38,67.81,87.82
+europe_lau,Lovinac,lovinac,lo,63.44,66.18,56.97
+europe_lau,Lovran,lovran,lo,47.82,68.1,17.49
+europe_lau,Lovreć,lovrec,lo,40.34,51.47,81.76
+europe_lau,Long,long,lo,52.9,71.76,71.57
+europe_lau,Longavesnes,longavesnes,lo,58.21,76.36,64.32
+europe_lau,Longpré-les-Corps-Saints,longpre_les_corps_saints,lo,30.43,49.02,10.16
+europe_lau,Longueau,longueau,lo,62.02,75.26,49.21
+europe_lau,Longueval,longueval,lo,40.64,63.48,83.4
+europe_lau,Longuevillette,longuevillette,lo,31.75,50.72,41.38
+europe_lau,Louvencourt,louvencourt,lo,75.79,79.25,53.35
+europe_lau,Louvrechy,louvrechy,lo,52.04,61.74,19.72
+europe_lau,Longuesse,longuesse,lo,48.73,57.73,34.98
+europe_lau,Louvres,louvres,lo,62.31,66.86,69.14
+europe_lau,Loriol-du-Comtat,loriol_du_comtat,lo,64,72.34,49.08
+europe_lau,Lourmarin,lourmarin,lo,67.05,71.34,74.3
+europe_lau,Loudun,loudun,lo,49.79,63.46,56.84
+europe_lau,Lombers,lombers,lo,62.31,75.2,60.39
+europe_lau,Loubers,loubers,lo,46.78,59.94,65.19
+europe_lau,Loupiac,loupiac,lo,51.56,62.33,6.38
+europe_lau,Lobeč,lobec,lo,46.76,62.89,16.55
+europe_lau,Loire-sur-Rhône,loire_sur_rhone,lo,50.15,69.8,54.19
+europe_lau,Longes,longes,lo,51.81,66.7,78.89
+europe_lau,Longessaigne,longessaigne,lo,42.58,60.55,47.46
+europe_lau,Lozanne,lozanne,lo,60.46,76.42,87.14
+europe_lau,Loisieux,loisieux,lo,61.7,73.19,53.56
+europe_lau,Logelheim,logelheim,lo,57.99,65.6,46.32
+europe_lau,Loir en Vallée,loir_en_vallee,lo,50.71,58.25,75.96
+europe_lau,Lobsann,lobsann,lo,26.88,51.09,45.62
+europe_lau,Lochwiller,lochwiller,lo,54.61,68.46,19.45
+europe_lau,Lohr,lohr,lo,40.15,53.45,12.3
+europe_lau,Lorentzen,lorentzen,lo,40.99,50.56,53.68
+europe_lau,Lommerange,lommerange,lo,40.9,62.04,68.01
+europe_lau,Longeville-lès-Metz,longeville_les_metz,lo,40.03,76.91,-27.26
+europe_lau,Longeville-lès-Saint-Avold,longeville_les_saint_avold,lo,64.03,74.47,21.23
+europe_lau,Lorquin,lorquin,lo,56.33,61.79,55.76
+europe_lau,Lorry-lès-Metz,lorry_les_metz,lo,29.78,57.07,-60.05
+europe_lau,Lorry-Mardigny,lorry_mardigny,lo,59.07,61.24,52.04
+europe_lau,Lostroff,lostroff,lo,40.7,59.34,26.77
+europe_lau,Loudrefing,loudrefing,lo,31.66,54.62,45.17
+europe_lau,Loupershouse,loupershouse,lo,49.14,56.96,47.63
+europe_lau,Loutzviller,loutzviller,lo,36.78,64.27,-35.09
+europe_lau,Louvigny,louvigny,lo,54.22,73.69,85.35
+europe_lau,Locon,locon,lo,60.14,68.13,65.08
+europe_lau,Loison-sur-Créquoise,loison_sur_crequoise,lo,37.91,63.57,67.48
+europe_lau,Loison-sous-Lens,loison_sous_lens,lo,39.85,58.37,38.74
+europe_lau,Longfossé,longfosse,lo,47.61,61.99,30.33
+europe_lau,Longuenesse,longuenesse,lo,39.21,63.73,-35.16
+europe_lau,Longueville,longueville,lo,58.71,80.32,43.89
+europe_lau,Longvilliers,longvilliers,lo,48.55,61.33,45.67
+europe_lau,Loos-en-Gohelle,loos_en_gohelle,lo,58.29,67.75,62.82
+europe_lau,Lorgies,lorgies,lo,51.33,73.94,80.29
+europe_lau,Lottinghen,lottinghen,lo,41.45,49.59,16.58
+europe_lau,Louches,louches,lo,51.97,50.92,52.36
+europe_lau,Lozinghem,lozinghem,lo,64.42,85.86,39.51
+europe_lau,Lobodice,lobodice,lo,40.26,50.72,16.67
+europe_lau,Lormes,lormes,lo,62.55,71.29,52.43
+europe_lau,Lognes,lognes,lo,46.1,61.53,46.26
+europe_lau,Longperrier,longperrier,lo,52.47,74.55,95.55
+europe_lau,Longueville,longueville,lo,52.66,68.31,25.26
+europe_lau,Lorrez-le-Bocage-Préaux,lorrez_le_bocage_preaux,lo,39.54,58.07,80.47
+europe_lau,Louan-Villegruis-Fontaine,louan_villegruis_fontaine,lo,53.42,68.3,51.06
+europe_lau,Λουκρούνου,loukrounou,lo,39.87,56.11,1.43
+europe_lau,Loosdorf,loosdorf,lo,39.37,61.45,32.27
+europe_lau,Lœuilley,loeuilley,lo,38.35,69.45,20.38
+europe_lau,Lomont,lomont,lo,38.84,52.14,7.12
+europe_lau,Longevelle,longevelle,lo,71.67,74.85,53.89
+europe_lau,Loulans-Verchamp,loulans_verchamp,lo,43.66,51.35,48.47
+europe_lau,Lohitzun-Oyhercq,lohitzun_oyhercq,lo,46.32,54.14,83.1
+europe_lau,Lombia,lombia,lo,51.51,63.94,60.4
+europe_lau,Lonçon,loncon,lo,43.68,54.26,50.93
+europe_lau,Lons,lons,lo,28.8,56.87,86.59
+europe_lau,Loubieng,loubieng,lo,68.87,75.18,59.14
+europe_lau,Louhossoa,louhossoa,lo,37.16,50.7,64.33
+europe_lau,Lourdios-Ichère,lourdios_ichere,lo,59.35,68.99,47.76
+europe_lau,Lourenties,lourenties,lo,50.14,71.63,65.95
+europe_lau,Louvie-Juzon,louvie_juzon,lo,32.96,46.42,25.72
+europe_lau,Louvie-Soubiron,louvie_soubiron,lo,17.69,54.54,-110.7
+europe_lau,Louvigny,louvigny,lo,57.83,66.35,70.86
+europe_lau,Locmalo,locmalo,lo,44.77,61.68,81.3
+europe_lau,Locmaria,locmaria,lo,43.18,65.58,4.27
+europe_lau,Locmaria-Grand-Champ,locmaria_grand_champ,lo,34.27,68.03,85.66
+europe_lau,Locmariaquer,locmariaquer,lo,33.16,55.49,72.65
+europe_lau,Locminé,locmine,lo,46.5,63.39,74.12
+europe_lau,Locmiquélic,locmiquelic,lo,28.1,51.06,42.56
+europe_lau,Locoal-Mendon,locoal_mendon,lo,54,58.36,41.63
+europe_lau,Locqueltas,locqueltas,lo,34.3,67.89,91.55
+europe_lau,Lorient,lorient,lo,52.69,67.75,71.93
+europe_lau,Loyat,loyat,lo,45.35,62.18,24.53
+europe_lau,Loisail,loisail,lo,56.23,69.97,89.5
+europe_lau,Longny les Villages,longny_les_villages,lo,42.67,52.08,38.48
+europe_lau,Lonlay-l'Abbaye,lonlay_l_abbaye,lo,68.14,71.09,41.5
+europe_lau,Lonlay-le-Tesson,lonlay_le_tesson,lo,28.09,67.38,26.64
+europe_lau,Lonrai,lonrai,lo,55.49,67.23,25.81
+europe_lau,Lougé-sur-Maire,louge_sur_maire,lo,46.78,58.93,85.35
+europe_lau,Louvières-en-Auge,louvieres_en_auge,lo,54.78,71.55,39.17
+europe_lau,Loisin,loisin,lo,47.8,66.25,46.07
+europe_lau,Lornay,lornay,lo,40.86,52.28,45.05
+europe_lau,Lovagny,lovagny,lo,60.12,71.67,37.58
+europe_lau,Loket,loket,lo,34.85,55.8,88.77
+europe_lau,Louňovice pod Blaníkem,lounovice_pod_blanikem,lo,59.24,74.12,87.52
+europe_lau,Loisey,loisey,lo,50.87,57.66,60.32
+europe_lau,Loison,loison,lo,39.41,55.55,37.07
+europe_lau,Longeaux,longeaux,lo,58.71,73.61,71.05
+europe_lau,Longchamps-sur-Aire,longchamps_sur_aire,lo,39.3,72.91,56.04
+europe_lau,Longeville-en-Barrois,longeville_en_barrois,lo,41.86,72.22,55.21
+europe_lau,Loupmont,loupmont,lo,35.13,63.97,87.75
+europe_lau,Louppy-le-Château,louppy_le_chateau,lo,36.57,43.33,49.91
+europe_lau,Louppy-sur-Loison,louppy_sur_loison,lo,34.39,64.26,57.09
+europe_lau,Louvemont-Côte-du-Poivre,louvemont_cote_du_poivre,lo,52.64,59.26,45.59
+europe_lau,Lombron,lombron,lo,51.45,69.4,43.72
+europe_lau,Longnes,longnes,lo,60.61,71.58,43.49
+europe_lau,Louailles,louailles,lo,55,69.03,34.46
+europe_lau,Loué,loue,lo,42.43,61.88,75.28
+europe_lau,Louplande,louplande,lo,51.75,67.45,48.07
+europe_lau,Louvigny,louvigny,lo,53.04,61.25,31.23
+europe_lau,Louzes,louzes,lo,26.45,48.68,-60.94
+europe_lau,Loucká,loucka,lo,37.26,76.05,-4.51
+europe_lau,Lošany,losany,lo,53.08,69.22,80.96
+europe_lau,Longare,longare,lo,52.81,67.25,55.01
+europe_lau,Lonigo,lonigo,lo,44.08,52.44,70.66
+europe_lau,Loreo,loreo,lo,39.83,65.42,67.58
+europe_lau,Locorotondo,locorotondo,lo,61.66,67.31,38.97
+europe_lau,Loreglia,loreglia,lo,37.26,63.11,99.25
+europe_lau,Locatello,locatello,lo,35.17,44.11,66.3
+europe_lau,Lovere,lovere,lo,38.71,63.62,87.21
+europe_lau,Lomello,lomello,lo,56.71,65.43,62.47
+europe_lau,Loabák - Lavangen,loabak_lavangen,lo,36.02,53.82,61.14
+europe_lau,Lorenzago di Cadore,lorenzago_di_cadore,lo,58.84,60.86,56.33
+europe_lau,Lozzo di Cadore,lozzo_di_cadore,lo,58.13,71.84,70.13
+europe_lau,Longarone,longarone,lo,46.99,62.19,11.53
+europe_lau,Łomża,lomza,lo,32.53,49.02,40.86
+europe_lau,Łobez,lobez,lo,54.19,59.49,61.25
+europe_lau,Loučany,loucany,lo,35.22,51.07,-7.49
+europe_lau,Loich,loich,lo,49.81,66.34,59.11
+europe_lau,Lona-Lases,lona_lases,lo,26.3,49.1,55.03
+europe_lau,Loreto Aprutino,loreto_aprutino,lo,55.14,74.81,59.3
+europe_lau,Londa,londa,lo,50.37,73.98,37.41
+europe_lau,Locri,locri,lo,53.65,69.08,50.77
+europe_lau,Loria,loria,lo,47.02,61.03,88.55
+europe_lau,Łomża,lomza,lo,53,66.85,81.39
+europe_lau,Loiano,loiano,lo,57.7,69.24,85.67
+europe_lau,Lodrino,lodrino,lo,63.45,72.8,69.9
+europe_lau,Lograto,lograto,lo,51.78,59.69,61.52
+europe_lau,Lonato del Garda,lonato_del_garda,lo,30.01,46.02,65.86
+europe_lau,Longhena,longhena,lo,68.54,81.72,74.88
+europe_lau,Losine,losine,lo,34.23,67,34.57
+europe_lau,Lozio,lozio,lo,53.51,63.3,21.62
+europe_lau,Loro Ciuffenna,loro_ciuffenna,lo,41.15,66.46,64.53
+europe_lau,Lødingen,lodingen,lo,32.36,45.95,35.9
+europe_lau,Lørenskog,lorenskog,lo,47.23,78.24,94.65
+europe_lau,Łomianki,lomianki,lo,58.7,69,42.15
+europe_lau,Loreggia,loreggia,lo,38.28,64.38,50.21
+europe_lau,Lozzo Atestino,lozzo_atestino,lo,61.04,74.72,87.73
+europe_lau,Lovero,lovero,lo,26.36,69.1,52.89
+europe_lau,Longi,longi,lo,17.14,40.01,81.79
+europe_lau,Longiano,longiano,lo,63.49,77.17,73.77
+europe_lau,Lodi,lodi,lo,61.58,63.25,50.74
+europe_lau,Lodi Vecchio,lodi_vecchio,lo,51.14,62.3,29.69
+europe_lau,Loket,loket,lo,40.56,50.81,29.74
+europe_lau,Løten,loten,lo,21.19,48.58,97.9
+europe_lau,Lom,lom,lo,47.19,64.92,74.24
+europe_lau,Lomnice,lomnice,lo,45.87,64.3,-7.15
+europe_lau,Łobżenica,lobzenica,lo,57.88,61.55,40.62
+europe_lau,Locate di Triulzi,locate_di_triulzi,lo,33.3,52.07,98.56
+europe_lau,Loreto,loreto,lo,55.56,69.12,12.97
+europe_lau,Loro Piceno,loro_piceno,lo,56.2,70.05,77.08
+europe_lau,Lorentzweiler,lorentzweiler,lo,39.8,64.68,2.72
+europe_lau,Loughrea,loughrea,lo,53.93,62.33,45.4
+europe_lau,Lőrinci,lorinci,lo,45.7,58.06,54.2
+europe_lau,Lövő,lovo,lo,54.26,75.04,61.48
+europe_lau,Longone Sabino,longone_sabino,lo,62.87,60.6,51.48
+europe_lau,Longford,longford,lo,43.5,57.16,36.23
+europe_lau,Lodhéřov,lodherov,lo,35.49,59.07,92.66
+europe_lau,Lövőpetri,lovopetri,lo,53.72,81.19,18.77
+europe_lau,Lőkösháza,lokoshaza,lo,53.16,70.21,22.31
+europe_lau,Loge-Fougereuse,loge_fougereuse,lo,55.2,63.09,49.52
+europe_lau,Longèves,longeves,lo,59.52,69.94,29.58
+europe_lau,Longeville-sur-Mer,longeville_sur_mer,lo,49.03,58.24,37.88
+europe_lau,Locana,locana,lo,38.31,57.74,77.39
+europe_lau,Lombardore,lombardore,lo,43.82,59.3,22.43
+europe_lau,Lombriasco,lombriasco,lo,28.55,47.16,80.04
+europe_lau,Loranzè,loranze,lo,40.45,67.9,34.26
+europe_lau,Loučovice,loucovice,lo,52.2,56.32,46
+europe_lau,Lorigné,lorigne,lo,52.13,65.18,30.4
+europe_lau,Loubigné,loubigne,lo,52.4,63.02,55.18
+europe_lau,Loubillé,loubille,lo,56.13,66.58,27.59
+europe_lau,Louin,louin,lo,26.89,49.37,47.65
+europe_lau,Louzy,louzy,lo,48.91,56.53,80.89
+europe_lau,Lonate Ceppino,lonate_ceppino,lo,32.78,64.04,90.36
+europe_lau,Lonate Pozzolo,lonate_pozzolo,lo,55.23,61.6,42.69
+europe_lau,Lozza,lozza,lo,53.58,67.64,75.81
+europe_lau,Lomnice nad Lužnicí,lomnice_nad_luznici,lo,35.27,52.51,99.86
+europe_lau,Lothárd,lothard,lo,46.22,70.67,94
+europe_lau,Lobendava,lobendava,lo,75.29,74.91,66.06
+europe_lau,Lórév,lorev,lo,57.99,73.56,71.91
+europe_lau,Locate Varesino,locate_varesino,lo,29.3,57.9,54.4
+europe_lau,Lomazzo,lomazzo,lo,44.99,73.16,98.06
+europe_lau,Longone al Segrino,longone_al_segrino,lo,19.42,46.35,81.95
+europe_lau,Lovászi,lovaszi,lo,62.94,73.8,45.76
+europe_lau,Lovászpatona,lovaszpatona,lo,46.22,55.48,13.8
+europe_lau,Lovas,lovas,lo,26.22,61.09,65.85
+europe_lau,Ločenice,locenice,lo,50.02,61.36,41.85
+europe_lau,Lókút,lokut,lo,48.47,62.31,-5.44
+europe_lau,Loretto,loretto,lo,43.95,54.16,82.91
+europe_lau,Loano,loano,lo,24.57,56.42,60.03
+europe_lau,Loučka,loucka,lo,46.32,71.13,74.31
+europe_lau,Lovasberény,lovasbereny,lo,56.27,73.19,80.44
+europe_lau,Loazzolo,loazzolo,lo,26.05,40.26,90.12
+europe_lau,Loučka,loucka,lo,33.89,53.36,-8.44
+europe_lau,Lozzolo,lozzolo,lo,21.22,55.63,75.65
+europe_lau,Lócs,locs,lo,58.77,62.65,58.5
+europe_lau,Lovászhetény,lovaszheteny,lo,45.39,69.63,88.83
+europe_lau,Longobardi,longobardi,lo,40.69,65.83,3.57
+europe_lau,Longobucco,longobucco,lo,56.36,63.89,40.86
+europe_lau,Loučim,loucim,lo,51.1,77.88,73.95
+europe_lau,Louka,louka,lo,56.64,65.13,78.43
+europe_lau,Lorsica,lorsica,lo,34.76,55.94,26.71
+europe_lau,Loučná pod Klínovcem,loucna_pod_klinovcem,lo,35.58,62.52,-31.08
+europe_lau,Lom u Tachova,lom_u_tachova,lo,60.03,68.81,22.83
+europe_lau,Lopar,lopar,lo,43.3,50.71,14.94
+europe_lau,Lónya,lonya,lo,46.03,64.92,71.52
+europe_lau,Lovčovice,lovcovice,lo,37.08,49.25,34.39
+europe_lau,Loučky,loucky,lo,63.54,77.91,65.33
+europe_lau,Lomnička,lomnicka,lo,48.57,67.26,82.42
+europe_lau,Lodno,lodno,lo,54.68,81.32,37.67
+europe_lau,Lopušné Pažite,lopusne_pazite,lo,49.38,70.7,52.36
+europe_lau,Łosice,losice,lo,59.84,64.31,54.47
+europe_lau,Łochów,lochow,lo,43.98,59.41,55.44
+europe_lau,Loznica,loznica,lo,57.55,63.04,54.32
+europe_lau,Lošonec,losonec,lo,34.03,54.12,-6.81
+europe_lau,Logreşti,logresti,lo,27.96,55.5,92.81
+europe_lau,Ložín,lozin,lo,42.77,77.94,24.36
+europe_lau,Lomné,lomne,lo,48.4,62.15,61.73
+europe_lau,Lokca,lokca,lo,24.59,49.03,94
+europe_lau,Lomná,lomna,lo,41,56.35,57.27
+europe_lau,Lodín,lodin,lo,44.33,62.16,6.06
+europe_lau,Lochenice,lochenice,lo,56.71,69.82,61.67
+europe_lau,Lovrenc na Pohorju,lovrenc_na_pohorju,lo,46.92,71.96,72.29
+europe_lau,Lopašov,lopasov,lo,43.66,61.16,65.32
+europe_lau,Lom,lom,lo,24.61,64.3,87.33
+europe_lau,Lovčice,lovcice,lo,42.76,53.15,70.59
+europe_lau,Louka u Litvínova,louka_u_litvinova,lo,40.22,61.94,95.27
+europe_lau,Loukov,loukov,lo,40.12,50.92,78.19
+europe_lau,Louriçal,lourical,lo,58.7,65.13,51.6
+europe_lau,Log - Dragomer,log_dragomer,lo,47.37,64.03,18.42
+europe_lau,Lovce,lovce,lo,22.89,76.28,79.12
+europe_lau,Lozna,lozna,lo,62.1,75.86,66.5
+europe_lau,Lovinobaňa,lovinobana,lo,43.45,54.84,78.1
+europe_lau,Louredo,louredo,lo,52.48,67.13,26.18
+europe_lau,Lopúchov,lopuchov,lo,51.63,74.69,81.26
+europe_lau,Louro,louro,lo,62.67,67.77,66.81
+europe_lau,Lousado,lousado,lo,56.63,71.21,77.17
+europe_lau,Loureira,loureira,lo,52.2,63.93,58.66
+europe_lau,Lom,lom,lo,46.78,69.7,0.37
+europe_lau,Loures,loures,lo,55.46,66.03,42.82
+europe_lau,Lousa,lousa,lo,59.35,77.43,77.53
+europe_lau,Lomma,lomma,lo,40.11,52.13,88.01
+europe_lau,Lozice,lozice,lo,44.1,68.09,0.84
+europe_lau,Lok,lok,lo,63.91,75.57,42.96
+europe_lau,Lontov,lontov,lo,50.21,60.37,45.32
+europe_lau,Lochen am See,lochen_am_see,lo,50.03,67.58,69.18
+europe_lau,Lopătari,lopatari,lo,32.32,50.96,99.89
+europe_lau,Lozorno,lozorno,lo,26.96,51.41,34.05
+europe_lau,Lom nad Rimavicou,lom_nad_rimavicou,lo,30.17,62.22,-20.44
+europe_lau,Lopadea Nouă,lopadea_noua,lo,61.13,66.17,51.61
+europe_lau,Lovča,lovca,lo,42.04,63.71,93.95
+europe_lau,Lovčica-Trubín,lovcica_trubin,lo,49.26,77.68,52.1
+europe_lau,Logatec,logatec,lo,44.21,59.14,82.72
+europe_lau,Loška dolina,loska_dolina,lo,58.34,69.14,78.01
+europe_lau,Loški Potok,loski_potok,lo,38,60.31,71.39
+europe_lau,Losiná,losina,lo,68.58,69.35,57.56
+europe_lau,Louňová,lounova,lo,35.88,59.22,98.07
+europe_lau,Łoniów,loniow,lo,42.25,65.43,36.9
+europe_lau,Łomazy,lomazy,lo,34.15,57.15,-0.31
+europe_lau,Longa,longa,lo,48.37,81.45,84.16
+europe_lau,Lobão da Beira,lobao_da_beira,lo,56.84,67.37,64.51
+europe_lau,Lordosa,lordosa,lo,47.07,75.44,-9.48
+europe_lau,Longos,longos,lo,60.49,69.85,37.42
+europe_lau,Lordelo,lordelo,lo,52.84,64.84,16.61
+europe_lau,Loppa,loppa,lo,26.43,45.78,-7.4
+europe_lau,Loivo,loivo,lo,30.03,76.96,-123.68
+europe_lau,Lousa,lousa,lo,57.53,67.56,69.12
+europe_lau,Loza,loza,lo,42.58,55.23,77.68
+europe_lau,Lochousice,lochousice,lo,55.41,62.91,25.52
+europe_lau,Loon op Zand,loon_op_zand,lo,61.93,80.03,51.46
+europe_lau,Lourosa,lourosa,lo,48.56,66.97,66.54
+europe_lau,Loureiro,loureiro,lo,53.65,64.12,89
+europe_lau,Łopiennik Górny,lopiennik_gorny,lo,31.57,63.81,-7.16
+europe_lau,Loulé (São Clemente),loule_sao_clemente,lo,39.27,53.18,38.53
+europe_lau,Loulé (São Sebastião),loule_sao_sebastiao,lo,65.8,78.94,73.31
+europe_lau,Łososina Dolna,lososina_dolna,lo,52.82,70.51,47.5
+europe_lau,Louriçal do Campo,lourical_do_campo,lo,27.48,62.08,92.67
+europe_lau,Лозово,lozovo,lo,40.6,59.75,83.07
+europe_lau,Lomba da Fazenda,lomba_da_fazenda,lo,28.28,64.5,72.16
+europe_lau,Lomba da Maia,lomba_da_maia,lo,53.21,64.8,76.43
+europe_lau,Lomba de São Pedro,lomba_de_sao_pedro,lo,13.18,38.32,95.26
+europe_lau,Łódź,lodz,lo,67,73.24,43.65
+europe_lau,Loureiro,loureiro,lo,63.66,67.95,64.62
+europe_lau,Loiri Porto San Paolo,loiri_porto_san_paolo,lo,31.83,55.89,-43.92
+europe_lau,Lomagna,lomagna,lo,52.34,68.37,92.46
+europe_lau,Loivos do Monte,loivos_do_monte,lo,39.09,57.81,66.51
+europe_lau,Loceri,loceri,lo,39.63,57.81,65.55
+europe_lau,Loculi,loculi,lo,53.18,71.9,74.45
+europe_lau,Lodè,lode,lo,52.65,66.34,85.25
+europe_lau,Lotzorai,lotzorai,lo,40.94,61.69,23.9
+europe_lau,Lomba,lomba,lo,26.8,48.04,95.57
+europe_lau,Lodares,lodares,lo,55.73,73.2,23.69
+europe_lau,Longueira/Almograve,longueira_almograve,lo,39.87,61.54,97.28
+europe_lau,Łowicz,lowicz,lo,44.05,60.86,82.49
+europe_lau,Łowicz,lowicz,lo,41.94,48.85,47.88
+europe_lau,Loužnice,louznice,lo,42.15,62.71,72.84
+europe_lau,Louny,louny,lo,42.9,55.3,67.97
+europe_lau,Lozna,lozna,lo,39.34,51.39,90.26
+europe_lau,Lomba,lomba,lo,30.35,48.5,43.35
+europe_lau,Lovrin,lovrin,lo,62.6,65.97,52.65
+europe_lau,Longroiva,longroiva,lo,34.87,61.46,92.81
+europe_lau,Łodygowice,lodygowice,lo,49.95,68.71,91.45
+europe_lau,Lodine,lodine,lo,50.56,67.43,-7.04
+europe_lau,Longos Vales,longos_vales,lo,61.4,76.28,61.72
+europe_lau,Lordelo,lordelo,lo,46.28,64.59,72.28
+europe_lau,Losser,losser,lo,38.11,61.57,96.42
+europe_lau,Lordelo,lordelo,lo,62.48,76.33,42.91
+europe_lau,Louredo,louredo,lo,44.08,70.75,55.88
+europe_lau,Lochem,lochem,lo,41.52,58.23,18.17
+europe_lau,Łopuszno,lopuszno,lo,51.67,55.14,47.52
+europe_lau,Longomel,longomel,lo,50.02,66.16,60.05
+europe_lau,Lomba,lomba,lo,56.81,73.05,45.44
+europe_lau,Louredo,louredo,lo,60.19,72.75,31.37
+europe_lau,Loamneş,loamnes,lo,57.78,64.34,26.95
+europe_lau,Loriga,loriga,lo,24.39,46.08,9.83
+europe_lau,Lourosa,lourosa,lo,53.27,66.75,12.98
+europe_lau,Longano,longano,lo,47.58,63.66,90.37
+europe_lau,Lopik,lopik,lo,40.94,73.3,-4.45
+europe_lau,Lombo,lombo,lo,39.74,56.13,-11.77
+europe_lau,Lorvão,lorvao,lo,43.96,52.03,40.42
+europe_lau,Lovečkovice,loveckovice,lo,44.83,59.58,33.72
+europe_lau,Lovosice,lovosice,lo,36.92,53.77,6.97
+europe_lau,Lokvičići,lokvicici,lo,42.79,68.24,83.72
+europe_lau,Loppersum,loppersum,lo,53.04,60.91,42.93
+europe_lau,Loose,loose,lo,39.41,59.63,-1.61
+europe_lau,"Löwenstein, Stadt",lowenstein_stadt,lo,41.33,58.79,14.2
+europe_lau,Loubières,loubieres,lo,42.85,80.66,34.78
+europe_lau,Lovatens,lovatens,lo,46.91,66.41,88.09

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "frinco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frinco", "metric_roundness": 42.5, "metric_rectangularity": 63.79, "metric_mobile_fit": 98.61, "metric_aspect_ratio": 0.576, "metric_area_km2": 14.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.172628, 44.9779315 ], [ 8.1822618, 44.9740587 ], [ 8.1906038, 44.9782828 ], [ 8.1859055, 44.9842637 ], [ 8.1860585, 44.990886499999988 ], [ 8.189605, 44.9960599 ], [ 8.1893445, 45.007479499999988 ], [ 8.167001, 45.0142095 ], [ 8.1578793, 45.004178199999984 ], [ 8.1609732, 44.9976183 ], [ 8.1691899, 44.9919 ], [ 8.166685, 44.9848875 ], [ 8.172628, 44.9779315 ] ] ] } }
+]
+}

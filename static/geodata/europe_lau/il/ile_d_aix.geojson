@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ile_d_aix",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Île-d'Aix", "metric_roundness": 35.91, "metric_rectangularity": 52.56, "metric_mobile_fit": 68.45, "metric_aspect_ratio": 0.878, "metric_area_km2": 2.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.1763382, 46.0222932 ], [ -1.1776287, 46.0083292 ], [ -1.1716353, 46.0116484 ], [ -1.1701096, 46.018774399999984 ], [ -1.1548906, 46.018849599999989 ], [ -1.1577886, 46.0228419 ], [ -1.1674741, 46.0263138 ], [ -1.1763382, 46.0222932 ] ] ] } }
+]
+}

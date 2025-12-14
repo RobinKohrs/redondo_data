@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geiswiller_zoebersdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Geiswiller-Zœbersdorf", "metric_roundness": 38.04, "metric_rectangularity": 46.11, "metric_mobile_fit": 24.75, "metric_aspect_ratio": 1.315, "metric_area_km2": 11.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5206775, 48.7982335 ], [ 7.5062128, 48.79725029999998 ], [ 7.4922375, 48.8052895 ], [ 7.4871475, 48.8031325 ], [ 7.4939517, 48.7955259 ], [ 7.4902522, 48.786827699999989 ], [ 7.491477, 48.7837325 ], [ 7.5040245, 48.778664499999984 ], [ 7.5122225, 48.780587 ], [ 7.5149192, 48.789900099999983 ], [ 7.540291, 48.7927375 ], [ 7.5361765, 48.798330499999985 ], [ 7.5206775, 48.7982335 ] ] ] } }
+]
+}

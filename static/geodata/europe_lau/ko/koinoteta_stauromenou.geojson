@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_stauromenou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σταυρωμένου", "metric_roundness": 47.89, "metric_rectangularity": 64.21, "metric_mobile_fit": 70.21, "metric_aspect_ratio": 0.86, "metric_area_km2": 12.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.1000879, 35.168298199999988 ], [ 26.1025153, 35.1591102 ], [ 26.099964, 35.152250499999987 ], [ 26.0954348, 35.1462657 ], [ 26.0973215, 35.141512 ], [ 26.1100003, 35.1436449 ], [ 26.11542, 35.1495045 ], [ 26.1202127, 35.1473027 ], [ 26.129975, 35.1493865 ], [ 26.134071, 35.1643415 ], [ 26.1277746, 35.164135699999989 ], [ 26.1229305, 35.178222 ], [ 26.1000879, 35.168298199999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hurecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hurecourt", "metric_roundness": 50.9, "metric_rectangularity": 65.99, "metric_mobile_fit": 13.58, "metric_aspect_ratio": 1.427, "metric_area_km2": 10.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0717769, 47.9090998 ], [ 6.0603989, 47.9107185 ], [ 6.0523705, 47.916786 ], [ 6.0488165, 47.916719 ], [ 6.043353, 47.913291 ], [ 6.0419995, 47.9111735 ], [ 6.038437, 47.910025499999982 ], [ 6.040552, 47.901045499999981 ], [ 6.0393805, 47.8977065 ], [ 6.0762326, 47.896110799999981 ], [ 6.0824405, 47.8998455 ], [ 6.0717769, 47.9090998 ] ] ] } }
+]
+}

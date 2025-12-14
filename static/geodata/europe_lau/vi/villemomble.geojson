@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villemomble",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villemomble", "metric_roundness": 40.0, "metric_rectangularity": 58.13, "metric_mobile_fit": 39.43, "metric_aspect_ratio": 1.168, "metric_area_km2": 8.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5149428, 48.888490199999985 ], [ 2.5097522, 48.8906395 ], [ 2.507636, 48.8985165 ], [ 2.499844, 48.895741 ], [ 2.4959987, 48.890384199999986 ], [ 2.486802, 48.887031 ], [ 2.493969, 48.885218099999982 ], [ 2.4981288, 48.878450899999983 ], [ 2.5091355, 48.877914499999989 ], [ 2.5204325, 48.8745725 ], [ 2.5298465, 48.874288 ], [ 2.518196, 48.891177 ], [ 2.5149428, 48.888490199999985 ] ] ] } }
+]
+}

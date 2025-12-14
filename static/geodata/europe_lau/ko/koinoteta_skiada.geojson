@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_skiada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σκιαδά", "metric_roundness": 57.36, "metric_rectangularity": 74.52, "metric_mobile_fit": 56.66, "metric_aspect_ratio": 0.996, "metric_area_km2": 18.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.705045, 39.322764 ], [ 20.7026075, 39.319018 ], [ 20.7020195, 39.316374 ], [ 20.738181, 39.3021105 ], [ 20.743816, 39.327455 ], [ 20.7513155, 39.33815 ], [ 20.7152705, 39.3404035 ], [ 20.7152601, 39.3362759 ], [ 20.7064076, 39.3341795 ], [ 20.7049315, 39.325606 ], [ 20.705045, 39.322764 ] ] ] } }
+]
+}

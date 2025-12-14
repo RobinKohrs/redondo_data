@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "komorany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Komořany", "metric_roundness": 28.03, "metric_rectangularity": 61.49, "metric_mobile_fit": 99.49, "metric_aspect_ratio": 0.568, "metric_area_km2": 12.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.9287995, 49.202724 ], [ 16.918065, 49.2105513 ], [ 16.919641, 49.217491 ], [ 16.900573, 49.227817 ], [ 16.8920715, 49.223714 ], [ 16.8944165, 49.220226 ], [ 16.896455, 49.218200499999988 ], [ 16.893369, 49.215627 ], [ 16.9062292, 49.2081282 ], [ 16.9166185, 49.18554 ], [ 16.924238, 49.185709499999987 ], [ 16.9287995, 49.202724 ] ] ] } }
+]
+}

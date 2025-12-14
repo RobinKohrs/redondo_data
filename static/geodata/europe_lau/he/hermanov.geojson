@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hermanov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heřmanov", "metric_roundness": 53.2, "metric_rectangularity": 71.54, "metric_mobile_fit": 17.3, "metric_aspect_ratio": 1.389, "metric_area_km2": 12.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1596305, 49.391228 ], [ 16.1576308, 49.386961799999987 ], [ 16.1598235, 49.3816345 ], [ 16.1677348, 49.37476419999998 ], [ 16.1813522, 49.370065499999988 ], [ 16.18628, 49.37126 ], [ 16.204931, 49.3778205 ], [ 16.202983, 49.382379499999985 ], [ 16.2000495, 49.382353 ], [ 16.1984985, 49.383416 ], [ 16.1829171, 49.3912484 ], [ 16.162031, 49.392227499999983 ], [ 16.1596305, 49.391228 ] ] ] } }
+]
+}

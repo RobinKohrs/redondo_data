@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourg_fidele",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourg-Fidèle", "metric_roundness": 54.08, "metric_rectangularity": 70.38, "metric_mobile_fit": 25.08, "metric_aspect_ratio": 1.312, "metric_area_km2": 35.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.525892, 49.879534 ], [ 4.5321405, 49.875445 ], [ 4.532049, 49.873327499999981 ], [ 4.588947, 49.875842499999983 ], [ 4.5835786, 49.8965544 ], [ 4.588954, 49.904496 ], [ 4.5548739, 49.9032347 ], [ 4.5403728, 49.9092789 ], [ 4.5296531, 49.894520699999987 ], [ 4.5196202, 49.895091099999988 ], [ 4.5157535, 49.880967499999983 ], [ 4.525892, 49.879534 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_zophoron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ζωφόρων", "metric_roundness": 49.11, "metric_rectangularity": 68.74, "metric_mobile_fit": 12.02, "metric_aspect_ratio": 1.442, "metric_area_km2": 6.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.2781585, 35.2131885 ], [ 25.246865, 35.207256 ], [ 25.2497459, 35.201062199999988 ], [ 25.2608345, 35.19331 ], [ 25.2659423, 35.191922399999989 ], [ 25.269651, 35.1964884 ], [ 25.284403, 35.203460499999984 ], [ 25.2781585, 35.2131885 ] ] ] } }
+]
+}

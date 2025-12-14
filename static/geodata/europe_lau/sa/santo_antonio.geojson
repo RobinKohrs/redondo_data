@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santo_antonio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santo António", "metric_roundness": 57.36, "metric_rectangularity": 70.76, "metric_mobile_fit": 41.89, "metric_aspect_ratio": 1.144, "metric_area_km2": 2.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.158845, 38.7246245 ], [ -9.1606355, 38.724266 ], [ -9.1544555, 38.7155035 ], [ -9.143436, 38.715058499999984 ], [ -9.1411505, 38.716899 ], [ -9.1420736, 38.724063399999984 ], [ -9.148125, 38.728352 ], [ -9.150027, 38.725261 ], [ -9.156375, 38.724871 ], [ -9.158845, 38.7246245 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_pierre_de_semilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Pierre-de-Semilly", "metric_roundness": 32.48, "metric_rectangularity": 62.7, "metric_mobile_fit": -44.86, "metric_aspect_ratio": 2.011, "metric_area_km2": 10.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.999769, 49.1286665 ], [ -1.031792, 49.1195855 ], [ -1.0267442, 49.1158053 ], [ -1.010209, 49.11892779999998 ], [ -0.9930843, 49.114053399999989 ], [ -0.98309, 49.115244 ], [ -0.973633, 49.1173235 ], [ -0.975932, 49.120901499999981 ], [ -0.9779905, 49.126061 ], [ -0.979114, 49.127559 ], [ -0.981335, 49.128846499999987 ], [ -0.983122, 49.1329785 ], [ -0.999769, 49.1286665 ] ] ] } }
+]
+}

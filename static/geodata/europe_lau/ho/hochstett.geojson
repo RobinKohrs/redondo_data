@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hochstett",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hochstett", "metric_roundness": 46.76, "metric_rectangularity": 69.45, "metric_mobile_fit": 86.87, "metric_aspect_ratio": 0.694, "metric_area_km2": 4.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.669238, 48.765543 ], [ 7.6868305, 48.773733 ], [ 7.6849805, 48.7831495 ], [ 7.672812, 48.784482499999982 ], [ 7.6668915, 48.767098 ], [ 7.669238, 48.765543 ] ] ] } }
+]
+}

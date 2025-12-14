@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "durnau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dürnau", "metric_roundness": 40.3, "metric_rectangularity": 77.71, "metric_mobile_fit": 93.36, "metric_aspect_ratio": 0.496, "metric_area_km2": 12.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6489155, 48.623009499999988 ], [ 9.6453666, 48.629784399999984 ], [ 9.643104, 48.6531845 ], [ 9.6335605, 48.6586145 ], [ 9.6272935, 48.655318499999986 ], [ 9.6221817, 48.648016799999986 ], [ 9.6238819, 48.6322335 ], [ 9.6300645, 48.624062499999987 ], [ 9.6489155, 48.623009499999988 ] ] ] } }
+]
+}

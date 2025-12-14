@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_moutherot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Moutherot", "metric_roundness": 50.75, "metric_rectangularity": 72.3, "metric_mobile_fit": 59.43, "metric_aspect_ratio": 0.968, "metric_area_km2": 2.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7270266, 47.236938099999982 ], [ 5.735777, 47.2396351 ], [ 5.740918, 47.2472865 ], [ 5.73934, 47.249494 ], [ 5.7254716, 47.2462706 ], [ 5.723011, 47.240115 ], [ 5.7270266, 47.236938099999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "larnage",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Larnage", "metric_roundness": 33.5, "metric_rectangularity": 71.32, "metric_mobile_fit": 88.19, "metric_aspect_ratio": 0.444, "metric_area_km2": 17.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8791961, 45.0856667 ], [ 4.8792115, 45.0953545 ], [ 4.8746145, 45.0973322 ], [ 4.8700733, 45.107263699999983 ], [ 4.8667855, 45.126049 ], [ 4.861263, 45.1262105 ], [ 4.8509341, 45.1152714 ], [ 4.8467024, 45.105549699999983 ], [ 4.8562955, 45.080540499999984 ], [ 4.8656285, 45.074577 ], [ 4.8791961, 45.0856667 ] ] ] } }
+]
+}

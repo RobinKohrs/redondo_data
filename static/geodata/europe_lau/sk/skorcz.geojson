@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "skorcz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Skórcz", "metric_roundness": 54.4, "metric_rectangularity": 68.44, "metric_mobile_fit": 65.07, "metric_aspect_ratio": 0.912, "metric_area_km2": 9.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.5062985, 53.789964 ], [ 18.505484, 53.785729 ], [ 18.5081065, 53.784353499999987 ], [ 18.511139, 53.7837645 ], [ 18.5145105, 53.782495499999989 ], [ 18.5192748, 53.7880995 ], [ 18.5338271, 53.79077 ], [ 18.5344045, 53.8035861 ], [ 18.5241693, 53.805512199999988 ], [ 18.5162424, 53.799737 ], [ 18.503315, 53.7973904 ], [ 18.4988752, 53.7933926 ], [ 18.50004, 53.788616 ], [ 18.5062985, 53.789964 ] ] ] } }
+]
+}

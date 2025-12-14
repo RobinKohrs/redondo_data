@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jinosov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jinošov", "metric_roundness": 51.63, "metric_rectangularity": 60.91, "metric_mobile_fit": 61.23, "metric_aspect_ratio": 0.95, "metric_area_km2": 11.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1789559, 49.230179 ], [ 16.1698057, 49.225184199999987 ], [ 16.1697809, 49.2221928 ], [ 16.1747792, 49.22401739999998 ], [ 16.1918175, 49.2183168 ], [ 16.205312, 49.2272305 ], [ 16.2091214, 49.231336899999974 ], [ 16.20669, 49.242663499999985 ], [ 16.19966, 49.245352499999989 ], [ 16.1797976, 49.236447 ], [ 16.1727685, 49.236439499999975 ], [ 16.1789559, 49.230179 ] ] ] } }
+]
+}

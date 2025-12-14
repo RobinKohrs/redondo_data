@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fahrdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fahrdorf", "metric_roundness": 53.72, "metric_rectangularity": 62.09, "metric_mobile_fit": 57.43, "metric_aspect_ratio": 0.988, "metric_area_km2": 30.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5836835, 54.483679299999984 ], [ 9.5921952, 54.4868323 ], [ 9.6021319, 54.4793787 ], [ 9.620299, 54.4740745 ], [ 9.6228113, 54.478544799999987 ], [ 9.633381, 54.478169 ], [ 9.6300642, 54.482093399999989 ], [ 9.6315146, 54.4928198 ], [ 9.6264844, 54.497215299999986 ], [ 9.628766, 54.5121435 ], [ 9.5812405, 54.501923 ], [ 9.5686091, 54.4956074 ], [ 9.5712455, 54.4891195 ], [ 9.5836835, 54.483679299999984 ] ] ] } }
+]
+}

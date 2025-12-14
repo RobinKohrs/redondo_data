@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ordizan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ordizan", "metric_roundness": 53.25, "metric_rectangularity": 63.74, "metric_mobile_fit": 27.99, "metric_aspect_ratio": 1.283, "metric_area_km2": 11.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1262375, 43.113312599999986 ], [ 0.12053, 43.11549 ], [ 0.116661, 43.1131075 ], [ 0.120862, 43.109141 ], [ 0.1260515, 43.106587499999989 ], [ 0.1280895, 43.104598 ], [ 0.1292595, 43.1032215 ], [ 0.129525, 43.1002505 ], [ 0.132303, 43.0970395 ], [ 0.1552335, 43.094917 ], [ 0.1599505, 43.1122515 ], [ 0.151576, 43.119559 ], [ 0.1262375, 43.113312599999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "volken",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Volken", "metric_roundness": 34.14, "metric_rectangularity": 74.36, "metric_mobile_fit": 47.76, "metric_aspect_ratio": 1.085, "metric_area_km2": 6.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.6174355, 47.566678 ], [ 8.631146, 47.5652875 ], [ 8.6386714, 47.5793404 ], [ 8.649141, 47.586310499999989 ], [ 8.6416435, 47.587513 ], [ 8.6284782, 47.58585 ], [ 8.613397, 47.5679605 ], [ 8.6174355, 47.566678 ] ] ] } }
+]
+}

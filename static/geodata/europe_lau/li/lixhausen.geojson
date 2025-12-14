@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lixhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lixhausen", "metric_roundness": 44.67, "metric_rectangularity": 70.14, "metric_mobile_fit": 4.6, "metric_aspect_ratio": 1.517, "metric_area_km2": 7.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5745395, 48.79788 ], [ 7.567595, 48.801357 ], [ 7.5547321, 48.799002799999982 ], [ 7.546498, 48.801193499999982 ], [ 7.5361765, 48.798330499999985 ], [ 7.540291, 48.7927375 ], [ 7.540627, 48.790110499999983 ], [ 7.5439395, 48.787118499999984 ], [ 7.546298, 48.783584 ], [ 7.5554791, 48.789171 ], [ 7.57709, 48.791678 ], [ 7.5745395, 48.79788 ] ] ] } }
+]
+}

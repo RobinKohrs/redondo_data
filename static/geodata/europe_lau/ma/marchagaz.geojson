@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marchagaz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marchagaz", "metric_roundness": 74.39, "metric_rectangularity": 76.4, "metric_mobile_fit": 38.36, "metric_aspect_ratio": 1.179, "metric_area_km2": 15.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.2576316, 40.278490599999984 ], [ -6.2691099, 40.2866774 ], [ -6.2865085, 40.2864692 ], [ -6.3025669, 40.2774577 ], [ -6.296867, 40.2607605 ], [ -6.2777202, 40.257594399999988 ], [ -6.264497, 40.263914 ], [ -6.258587, 40.2695655 ], [ -6.2576316, 40.278490599999984 ] ] ] } }
+]
+}

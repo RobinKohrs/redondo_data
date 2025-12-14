@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_bauzille_de_la_sylve",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Bauzille-de-la-Sylve", "metric_roundness": 53.08, "metric_rectangularity": 64.33, "metric_mobile_fit": 36.0, "metric_aspect_ratio": 1.203, "metric_area_km2": 16.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.5463063, 43.629003 ], [ 3.533919, 43.606844499999987 ], [ 3.5399694, 43.5994685 ], [ 3.5476405, 43.595843 ], [ 3.5533684, 43.600024399999988 ], [ 3.5694235, 43.6011525 ], [ 3.5858837, 43.6046105 ], [ 3.5889935, 43.613089 ], [ 3.5527084, 43.6216299 ], [ 3.5496195, 43.6267965 ], [ 3.5463063, 43.629003 ] ] ] } }
+]
+}

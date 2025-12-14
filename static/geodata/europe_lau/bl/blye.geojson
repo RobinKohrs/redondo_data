@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blye",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Blye", "metric_roundness": 51.54, "metric_rectangularity": 77.37, "metric_mobile_fit": 89.5, "metric_aspect_ratio": 0.668, "metric_area_km2": 22.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.7059146, 46.6156991 ], [ 5.7189363, 46.6312013 ], [ 5.718874, 46.636629 ], [ 5.6911605, 46.650854 ], [ 5.679953, 46.639837 ], [ 5.6800555, 46.6372675 ], [ 5.676338, 46.629993 ], [ 5.67495, 46.625485499999989 ], [ 5.6752495, 46.6218745 ], [ 5.6772815, 46.620915499999988 ], [ 5.6757525, 46.615197 ], [ 5.6885006, 46.6091584 ], [ 5.7065185, 46.6056015 ], [ 5.7059146, 46.6156991 ] ] ] } }
+]
+}

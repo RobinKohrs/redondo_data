@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "estancarbon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Estancarbon", "metric_roundness": 32.68, "metric_rectangularity": 60.15, "metric_mobile_fit": -25.71, "metric_aspect_ratio": 1.82, "metric_area_km2": 11.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8122944, 43.103946099999987 ], [ 0.809598, 43.112921 ], [ 0.7938635, 43.1128395 ], [ 0.770768, 43.112837 ], [ 0.770861, 43.121168499999982 ], [ 0.7586495, 43.12045 ], [ 0.7545147, 43.1176762 ], [ 0.75753, 43.104501499999984 ], [ 0.7734194, 43.1042926 ], [ 0.7871255, 43.097987 ], [ 0.803512, 43.103336 ], [ 0.8122944, 43.103946099999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "houtkerque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Houtkerque", "metric_roundness": 48.44, "metric_rectangularity": 71.5, "metric_mobile_fit": 76.95, "metric_aspect_ratio": 0.793, "metric_area_km2": 33.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5704055, 50.8975725 ], [ 2.5502025, 50.871944 ], [ 2.5597892, 50.861099699999983 ], [ 2.5644759, 50.859450299999985 ], [ 2.5791909, 50.8664666 ], [ 2.5907558, 50.8665265 ], [ 2.607278, 50.872581499999988 ], [ 2.6091386, 50.8798104 ], [ 2.6051606, 50.8881374 ], [ 2.6089788, 50.8960474 ], [ 2.604694, 50.9063375 ], [ 2.5704055, 50.8975725 ] ] ] } }
+]
+}

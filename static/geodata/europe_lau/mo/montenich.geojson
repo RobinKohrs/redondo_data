@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montenich",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Möntenich", "metric_roundness": 34.68, "metric_rectangularity": 63.33, "metric_mobile_fit": 58.96, "metric_aspect_ratio": 0.973, "metric_area_km2": 9.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2885015, 50.225988199999982 ], [ 7.2971605, 50.2106065 ], [ 7.3101443, 50.207953 ], [ 7.3176525, 50.214029399999987 ], [ 7.315089, 50.2202565 ], [ 7.3068754, 50.220663 ], [ 7.29536, 50.2350834 ], [ 7.291504, 50.235782 ], [ 7.279725, 50.236632899999989 ], [ 7.2740405, 50.231824 ], [ 7.2885015, 50.225988199999982 ] ] ] } }
+]
+}

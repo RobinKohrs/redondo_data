@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "albano_sant_alessandro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Albano Sant'Alessandro", "metric_roundness": 49.0, "metric_rectangularity": 64.24, "metric_mobile_fit": 38.72, "metric_aspect_ratio": 1.175, "metric_area_km2": 11.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.758247, 45.683276 ], [ 9.7784865, 45.678211 ], [ 9.7815655, 45.673002 ], [ 9.784238, 45.6731635 ], [ 9.785623, 45.678187799999989 ], [ 9.7900985, 45.678127499999981 ], [ 9.7880445, 45.68101979999998 ], [ 9.7894446, 45.6906604 ], [ 9.796687, 45.695426499999982 ], [ 9.7814795, 45.7012575 ], [ 9.7590055, 45.6939175 ], [ 9.749151, 45.687324499999981 ], [ 9.758247, 45.683276 ] ] ] } }
+]
+}

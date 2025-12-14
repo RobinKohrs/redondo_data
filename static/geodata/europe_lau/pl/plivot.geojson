@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "plivot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plivot", "metric_roundness": 58.57, "metric_rectangularity": 75.56, "metric_mobile_fit": 55.57, "metric_aspect_ratio": 1.007, "metric_area_km2": 29.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.098038, 49.0004685 ], [ 4.104553, 49.001085499999988 ], [ 4.1014685, 49.012329 ], [ 4.103691, 49.012235 ], [ 4.1032555, 49.0186945 ], [ 4.102027, 49.024349 ], [ 4.092624, 49.027175 ], [ 4.0712792, 49.0295891 ], [ 4.058657, 49.025890499999988 ], [ 4.0485215, 48.993264499999981 ], [ 4.066348, 48.993086 ], [ 4.098038, 49.0004685 ] ] ] } }
+]
+}

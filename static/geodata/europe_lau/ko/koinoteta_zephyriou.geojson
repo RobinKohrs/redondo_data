@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_zephyriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ζεφυρίου", "metric_roundness": 36.41, "metric_rectangularity": 67.25, "metric_mobile_fit": 91.68, "metric_aspect_ratio": 0.479, "metric_area_km2": 2.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.7227826, 38.0763659 ], [ 23.715935, 38.080724 ], [ 23.7109869, 38.073127099999986 ], [ 23.7140105, 38.0664815 ], [ 23.7149835, 38.0645485 ], [ 23.7156435, 38.062381 ], [ 23.7190925, 38.061349 ], [ 23.7200475, 38.0629565 ], [ 23.7227826, 38.0763659 ] ] ] } }
+]
+}

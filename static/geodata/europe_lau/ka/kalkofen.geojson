@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kalkofen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kalkofen", "metric_roundness": 43.36, "metric_rectangularity": 70.03, "metric_mobile_fit": 40.57, "metric_aspect_ratio": 1.157, "metric_area_km2": 4.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8341405, 49.7297832 ], [ 7.8440695, 49.727527 ], [ 7.84803, 49.728223 ], [ 7.8540805, 49.731308 ], [ 7.8543425, 49.7333395 ], [ 7.8306216, 49.7428335 ], [ 7.8269455, 49.7416455 ], [ 7.8341405, 49.7297832 ] ] ] } }
+]
+}

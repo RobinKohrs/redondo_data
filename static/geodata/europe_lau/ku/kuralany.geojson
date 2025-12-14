@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kuralany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kuraľany", "metric_roundness": 50.44, "metric_rectangularity": 78.45, "metric_mobile_fit": 54.22, "metric_aspect_ratio": 1.02, "metric_area_km2": 23.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.5433507, 47.990348799999985 ], [ 18.534966, 47.9914061 ], [ 18.5234965, 47.9802815 ], [ 18.554594, 47.9631155 ], [ 18.5876265, 47.997906 ], [ 18.562104, 48.0040585 ], [ 18.558432, 48.005188 ], [ 18.5433507, 47.990348799999985 ] ] ] } }
+]
+}

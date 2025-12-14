@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lagata",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lagata", "metric_roundness": 43.06, "metric_rectangularity": 73.84, "metric_mobile_fit": 92.82, "metric_aspect_ratio": 0.491, "metric_area_km2": 42.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.8197585, 41.2335871 ], [ -0.8250068, 41.2071364 ], [ -0.8167789, 41.1976615 ], [ -0.8213, 41.182743 ], [ -0.8136557, 41.1760598 ], [ -0.8016001, 41.171687899999988 ], [ -0.7801, 41.1822545 ], [ -0.7772614, 41.1937296 ], [ -0.7781342, 41.2049518 ], [ -0.7852, 41.223160199999988 ], [ -0.7993782, 41.2429774 ], [ -0.8064745, 41.2474232 ], [ -0.826662, 41.243351 ], [ -0.8197585, 41.2335871 ] ] ] } }
+]
+}

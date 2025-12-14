@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ricarville_du_val",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ricarville-du-Val", "metric_roundness": 45.59, "metric_rectangularity": 73.09, "metric_mobile_fit": 71.55, "metric_aspect_ratio": 0.847, "metric_area_km2": 13.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2522941, 49.781604499999986 ], [ 1.2589675, 49.7807555 ], [ 1.2648039, 49.7860078 ], [ 1.2634513, 49.7913734 ], [ 1.2772714, 49.790937 ], [ 1.2838912, 49.794512599999976 ], [ 1.2904543, 49.804079099999989 ], [ 1.2864675, 49.809733 ], [ 1.2675204, 49.8132916 ], [ 1.247762, 49.78784 ], [ 1.2522941, 49.781604499999986 ] ] ] } }
+]
+}

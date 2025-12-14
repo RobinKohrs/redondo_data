@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velilla_de_jiloca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velilla de Jiloca", "metric_roundness": 25.78, "metric_rectangularity": 57.85, "metric_mobile_fit": 67.4, "metric_aspect_ratio": 0.889, "metric_area_km2": 17.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.612806, 41.2755209 ], [ -1.611963, 41.2661364 ], [ -1.6160224, 41.2558524 ], [ -1.6162725, 41.244804499999987 ], [ -1.609036, 41.2489775 ], [ -1.591978, 41.259651 ], [ -1.5828915, 41.270279 ], [ -1.56637, 41.27829 ], [ -1.5616345, 41.27969 ], [ -1.5608105, 41.2917215 ], [ -1.567834, 41.291088 ], [ -1.612806, 41.2755209 ] ] ] } }
+]
+}

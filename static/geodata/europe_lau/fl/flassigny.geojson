@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "flassigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Flassigny", "metric_roundness": 44.24, "metric_rectangularity": 65.39, "metric_mobile_fit": 10.72, "metric_aspect_ratio": 1.455, "metric_area_km2": 15.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4597818, 49.484105299999989 ], [ 5.4555585, 49.480931499999976 ], [ 5.4400032, 49.4867608 ], [ 5.425989, 49.486134 ], [ 5.415158, 49.482015 ], [ 5.4182835, 49.470231 ], [ 5.4166935, 49.469013 ], [ 5.415774, 49.466565 ], [ 5.4164785, 49.464524 ], [ 5.415959, 49.4627845 ], [ 5.4512218, 49.4716948 ], [ 5.46426, 49.471159499999978 ], [ 5.4688571, 49.479475 ], [ 5.463083, 49.48191 ], [ 5.4597818, 49.484105299999989 ] ] ] } }
+]
+}

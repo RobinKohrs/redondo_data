@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_baltas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βάλτας", "metric_roundness": 38.25, "metric_rectangularity": 66.93, "metric_mobile_fit": -44.04, "metric_aspect_ratio": 2.003, "metric_area_km2": 18.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6425713, 37.1197177 ], [ 21.6048214, 37.1219219 ], [ 21.6030287, 37.1179859 ], [ 21.6075096, 37.1040086 ], [ 21.6036785, 37.097391 ], [ 21.6144071, 37.095109199999989 ], [ 21.6277263, 37.0991788 ], [ 21.6404359, 37.0978547 ], [ 21.6563319, 37.1028683 ], [ 21.670367, 37.1012815 ], [ 21.664077, 37.111708499999985 ], [ 21.655214, 37.113845 ], [ 21.6425713, 37.1197177 ] ] ] } }
+]
+}

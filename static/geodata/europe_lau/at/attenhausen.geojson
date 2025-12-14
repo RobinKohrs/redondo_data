@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "attenhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Attenhausen", "metric_roundness": 58.6, "metric_rectangularity": 68.05, "metric_mobile_fit": 26.05, "metric_aspect_ratio": 1.302, "metric_area_km2": 14.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8580067, 50.303316799999983 ], [ 7.8536592, 50.301060799999988 ], [ 7.856615, 50.2971535 ], [ 7.8568318, 50.2849047 ], [ 7.8637554, 50.280888399999988 ], [ 7.8749205, 50.2799185 ], [ 7.8824595, 50.283557 ], [ 7.89037, 50.28787 ], [ 7.901345, 50.2976855 ], [ 7.8998375, 50.299415 ], [ 7.8976915, 50.301875499999987 ], [ 7.891582, 50.3002405 ], [ 7.8890495, 50.299778 ], [ 7.8853055, 50.300629 ], [ 7.8580067, 50.303316799999983 ] ] ] } }
+]
+}

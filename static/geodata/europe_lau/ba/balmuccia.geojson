@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balmuccia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balmuccia", "metric_roundness": 37.66, "metric_rectangularity": 53.14, "metric_mobile_fit": 71.62, "metric_aspect_ratio": 0.846, "metric_area_km2": 19.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.1540206, 45.819488 ], [ 8.167201, 45.8274855 ], [ 8.1584427, 45.8372953 ], [ 8.15906, 45.840258 ], [ 8.145874, 45.847598 ], [ 8.1426758, 45.844135199999982 ], [ 8.14387, 45.8253731 ], [ 8.1365304, 45.823085899999981 ], [ 8.128244, 45.829365499999987 ], [ 8.1241787, 45.828139199999981 ], [ 8.1194425, 45.8186141 ], [ 8.106076, 45.813696 ], [ 8.128472, 45.8089478 ], [ 8.148451, 45.797265 ], [ 8.1540206, 45.819488 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hlohova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hlohová", "metric_roundness": 55.98, "metric_rectangularity": 72.8, "metric_mobile_fit": 0.37, "metric_aspect_ratio": 1.559, "metric_area_km2": 15.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.0919654, 49.527692099999989 ], [ 13.1044035, 49.531568 ], [ 13.1011825, 49.536929 ], [ 13.0984767, 49.540271 ], [ 13.0893253, 49.5426163 ], [ 13.0647865, 49.542795899999973 ], [ 13.0547369, 49.5402286 ], [ 13.0508355, 49.530350499999983 ], [ 13.0526713, 49.5258782 ], [ 13.067799, 49.5248305 ], [ 13.0801031, 49.524119899999988 ], [ 13.0876145, 49.520492499999982 ], [ 13.0919654, 49.527692099999989 ] ] ] } }
+]
+}

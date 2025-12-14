@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourlon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourlon", "metric_roundness": 60.56, "metric_rectangularity": 72.53, "metric_mobile_fit": 43.07, "metric_aspect_ratio": 1.132, "metric_area_km2": 29.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1465423, 50.1788049 ], [ 3.156376, 50.1815625 ], [ 3.1443295, 50.189960499999984 ], [ 3.1459697, 50.1950547 ], [ 3.1429015, 50.196489 ], [ 3.1311895, 50.199491499999979 ], [ 3.099237, 50.1901715 ], [ 3.090057, 50.171756 ], [ 3.0958805, 50.16313 ], [ 3.100963, 50.161967499999982 ], [ 3.1147264, 50.167268599999986 ], [ 3.1375115, 50.16694 ], [ 3.1465423, 50.1788049 ] ] ] } }
+]
+}

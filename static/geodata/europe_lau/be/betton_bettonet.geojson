@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "betton_bettonet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Betton-Bettonet", "metric_roundness": 17.94, "metric_rectangularity": 65.22, "metric_mobile_fit": 62.79, "metric_aspect_ratio": 0.935, "metric_area_km2": 6.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1733794, 45.5251849 ], [ 6.1710108, 45.5237859 ], [ 6.161086, 45.517924 ], [ 6.1665223, 45.5172944 ], [ 6.1710035, 45.512148499999981 ], [ 6.1852075, 45.522094 ], [ 6.192962, 45.5294825 ], [ 6.1955745, 45.5338515 ], [ 6.1978165, 45.5356655 ], [ 6.1999535, 45.5387445 ], [ 6.2045565, 45.5422325 ], [ 6.2050815, 45.5442415 ], [ 6.207515, 45.54695 ], [ 6.183591, 45.5347605 ], [ 6.1733794, 45.5251849 ] ] ] } }
+]
+}

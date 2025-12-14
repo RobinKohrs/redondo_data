@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pierremont_sur_amance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pierremont-sur-Amance", "metric_roundness": 58.76, "metric_rectangularity": 77.49, "metric_mobile_fit": 89.22, "metric_aspect_ratio": 0.67, "metric_area_km2": 36.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.657989, 47.831143 ], [ 5.6471535, 47.8248675 ], [ 5.6336947, 47.805587499999987 ], [ 5.6358652, 47.792710899999982 ], [ 5.6499374, 47.779252499999984 ], [ 5.6766125, 47.7791555 ], [ 5.682134, 47.808807099999989 ], [ 5.6855775, 47.812791499999989 ], [ 5.6807608, 47.820202199999983 ], [ 5.6813103, 47.8243016 ], [ 5.6751595, 47.827040499999988 ], [ 5.657989, 47.831143 ] ] ] } }
+]
+}

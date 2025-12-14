@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "clastres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Clastres", "metric_roundness": 47.0, "metric_rectangularity": 68.02, "metric_mobile_fit": 52.15, "metric_aspect_ratio": 1.041, "metric_area_km2": 19.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2257477, 49.7602744 ], [ 3.2072395, 49.750556 ], [ 3.2071383, 49.7400314 ], [ 3.203259, 49.736162099999987 ], [ 3.2050335, 49.7340605 ], [ 3.20738, 49.732985499999977 ], [ 3.208836, 49.735454 ], [ 3.2279935, 49.737106 ], [ 3.235155, 49.7364655 ], [ 3.241602, 49.738012499999989 ], [ 3.2525086, 49.7420006 ], [ 3.2506425, 49.751045 ], [ 3.252984, 49.763308 ], [ 3.2258905, 49.76385 ], [ 3.2257477, 49.7602744 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sanchey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sanchey", "metric_roundness": 37.14, "metric_rectangularity": 64.14, "metric_mobile_fit": 93.8, "metric_aspect_ratio": 0.624, "metric_area_km2": 11.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3535968, 48.176094299999988 ], [ 6.35985, 48.1596645 ], [ 6.3633101, 48.1529204 ], [ 6.3717076, 48.1490165 ], [ 6.388685, 48.159258499999986 ], [ 6.3739906, 48.1637774 ], [ 6.3755885, 48.177086499999987 ], [ 6.371575, 48.180916 ], [ 6.368221, 48.181931499999983 ], [ 6.3612325, 48.1864925 ], [ 6.358468, 48.185551499999988 ], [ 6.3535968, 48.176094299999988 ] ] ] } }
+]
+}

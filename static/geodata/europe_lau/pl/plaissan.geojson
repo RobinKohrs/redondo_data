@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "plaissan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plaissan", "metric_roundness": 61.94, "metric_rectangularity": 68.36, "metric_mobile_fit": 48.6, "metric_aspect_ratio": 1.077, "metric_area_km2": 10.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.522976, 43.573644 ], [ 3.5190995, 43.569380499999987 ], [ 3.5149256, 43.562972699999989 ], [ 3.5091525, 43.562766 ], [ 3.511416, 43.5574744 ], [ 3.5209853, 43.5513483 ], [ 3.520447, 43.5458615 ], [ 3.5404375, 43.549928 ], [ 3.5504255, 43.555621699999989 ], [ 3.5495505, 43.560505 ], [ 3.522976, 43.573644 ] ] ] } }
+]
+}

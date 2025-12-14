@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montseron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montseron", "metric_roundness": 55.19, "metric_rectangularity": 59.19, "metric_mobile_fit": 58.57, "metric_aspect_ratio": 0.977, "metric_area_km2": 16.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.3241365, 43.039933 ], [ 1.32204, 43.03658 ], [ 1.3165545, 43.037839 ], [ 1.3149325, 43.032296099999989 ], [ 1.2921225, 43.028251499999989 ], [ 1.2916435, 43.0143 ], [ 1.3140263, 43.0120338 ], [ 1.319442, 43.005452 ], [ 1.3349105, 43.004286 ], [ 1.3385645, 43.0079426 ], [ 1.3392706, 43.0166121 ], [ 1.3292455, 43.0211362 ], [ 1.3305295, 43.039221 ], [ 1.3241365, 43.039933 ] ] ] } }
+]
+}

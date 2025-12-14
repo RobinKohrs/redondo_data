@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moiry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moiry", "metric_roundness": 55.39, "metric_rectangularity": 66.21, "metric_mobile_fit": 46.79, "metric_aspect_ratio": 1.095, "metric_area_km2": 9.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2823635, 49.609515199999983 ], [ 5.269164, 49.6114865 ], [ 5.268352, 49.611609499999986 ], [ 5.2649522, 49.6066957 ], [ 5.2684716, 49.602194099999984 ], [ 5.2678523, 49.594302199999987 ], [ 5.261473, 49.590489 ], [ 5.2921505, 49.591908499999981 ], [ 5.2971445, 49.600064 ], [ 5.2823635, 49.609515199999983 ] ] ] } }
+]
+}

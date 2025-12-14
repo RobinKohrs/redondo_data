@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "drymou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Δρύμου", "metric_roundness": 58.17, "metric_rectangularity": 66.72, "metric_mobile_fit": 66.15, "metric_aspect_ratio": 0.901, "metric_area_km2": 10.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.4940444, 34.9197061 ], [ 32.4862657, 34.9145484 ], [ 32.4878585, 34.910232 ], [ 32.5011535, 34.906904 ], [ 32.5016901, 34.9109202 ], [ 32.509009299999988, 34.9116869 ], [ 32.5198605, 34.922519 ], [ 32.5188428, 34.9315469 ], [ 32.514146, 34.9374775 ], [ 32.4902085, 34.9343545 ], [ 32.4940444, 34.9197061 ] ] ] } }
+]
+}

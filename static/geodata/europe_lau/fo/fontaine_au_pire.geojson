@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fontaine_au_pire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fontaine-au-Pire", "metric_roundness": 52.12, "metric_rectangularity": 65.81, "metric_mobile_fit": 47.81, "metric_aspect_ratio": 1.084, "metric_area_km2": 18.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3910516, 50.127282099999967 ], [ 3.395545, 50.1296955 ], [ 3.3786065, 50.134510399999989 ], [ 3.3594745, 50.146099 ], [ 3.3546915, 50.147035 ], [ 3.356254, 50.1412115 ], [ 3.351806, 50.142213499999983 ], [ 3.3492988, 50.124038399999989 ], [ 3.3425044, 50.1211115 ], [ 3.34051, 50.11732 ], [ 3.3556515, 50.1145025 ], [ 3.383846, 50.116204 ], [ 3.3910516, 50.127282099999967 ] ] ] } }
+]
+}

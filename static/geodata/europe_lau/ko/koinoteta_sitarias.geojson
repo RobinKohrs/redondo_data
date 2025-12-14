@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sitarias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σιταριάς", "metric_roundness": 71.21, "metric_rectangularity": 80.67, "metric_mobile_fit": 48.94, "metric_aspect_ratio": 1.073, "metric_area_km2": 19.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.5689896, 40.7904618 ], [ 21.5457955, 40.804142 ], [ 21.5408735, 40.8019495 ], [ 21.5360515, 40.798974 ], [ 21.5285895, 40.793097 ], [ 21.5268635, 40.792224 ], [ 21.5240305, 40.791432 ], [ 21.5225268, 40.7870685 ], [ 21.5259435, 40.774480499999989 ], [ 21.5469264, 40.767352 ], [ 21.5746675, 40.782778 ], [ 21.5689896, 40.7904618 ] ] ] } }
+]
+}

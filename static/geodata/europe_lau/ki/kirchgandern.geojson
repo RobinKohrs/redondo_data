@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kirchgandern",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kirchgandern", "metric_roundness": 48.21, "metric_rectangularity": 67.47, "metric_mobile_fit": 29.89, "metric_aspect_ratio": 1.264, "metric_area_km2": 10.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9665179, 51.395315 ], [ 9.9544155, 51.3895021 ], [ 9.947614, 51.382065 ], [ 9.959577, 51.379534 ], [ 9.9745054, 51.377929499999986 ], [ 9.9825405, 51.379952 ], [ 9.98426, 51.3860775 ], [ 9.9880966, 51.3911555 ], [ 9.9873965, 51.397922499999972 ], [ 9.9665179, 51.395315 ] ] ] } }
+]
+}

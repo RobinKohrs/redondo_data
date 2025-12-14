@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fremereville_sous_les_cotes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frémeréville-sous-les-Côtes", "metric_roundness": 38.07, "metric_rectangularity": 72.88, "metric_mobile_fit": 76.25, "metric_aspect_ratio": 0.8, "metric_area_km2": 15.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6758247, 48.821606299999985 ], [ 5.66808, 48.820649499999988 ], [ 5.6599285, 48.819087 ], [ 5.6499809, 48.8097596 ], [ 5.6431129, 48.807902 ], [ 5.634233, 48.79116 ], [ 5.6369385, 48.7878825 ], [ 5.6402495, 48.786441499999981 ], [ 5.646287, 48.786129 ], [ 5.6543586, 48.789300199999985 ], [ 5.6690774, 48.801504 ], [ 5.6773221, 48.8111287 ], [ 5.6756, 48.816779199999985 ], [ 5.6758247, 48.821606299999985 ] ] ] } }
+]
+}

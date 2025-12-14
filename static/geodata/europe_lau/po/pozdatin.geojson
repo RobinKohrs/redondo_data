@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pozdatin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pozďatín", "metric_roundness": 40.38, "metric_rectangularity": 55.52, "metric_mobile_fit": 38.87, "metric_aspect_ratio": 1.174, "metric_area_km2": 13.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.0238695, 49.252269 ], [ 16.0207818, 49.248829 ], [ 16.0312252, 49.2423001 ], [ 16.0261956, 49.234847099999982 ], [ 16.036707, 49.224391 ], [ 16.040423, 49.22247 ], [ 16.074351, 49.2344745 ], [ 16.0637844, 49.235708 ], [ 16.0574945, 49.2412105 ], [ 16.0411258, 49.245345799999988 ], [ 16.035377, 49.250354 ], [ 16.0238695, 49.252269 ] ] ] } }
+]
+}

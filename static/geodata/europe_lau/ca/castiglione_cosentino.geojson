@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castiglione_cosentino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castiglione Cosentino", "metric_roundness": 61.06, "metric_rectangularity": 73.75, "metric_mobile_fit": 33.8, "metric_aspect_ratio": 1.225, "metric_area_km2": 22.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2757235, 39.3458708 ], [ 16.292677, 39.344336399999989 ], [ 16.297013, 39.35159 ], [ 16.3082505, 39.357085899999987 ], [ 16.3069996, 39.368604 ], [ 16.3127095, 39.3743365 ], [ 16.2919196, 39.37884 ], [ 16.256804, 39.379635 ], [ 16.2619189, 39.3671448 ], [ 16.259816, 39.353858 ], [ 16.2757235, 39.3458708 ] ] ] } }
+]
+}

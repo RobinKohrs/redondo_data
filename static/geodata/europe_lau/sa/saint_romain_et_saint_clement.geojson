@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_romain_et_saint_clement",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Romain-et-Saint-Clément", "metric_roundness": 34.4, "metric_rectangularity": 62.13, "metric_mobile_fit": 93.59, "metric_aspect_ratio": 0.498, "metric_area_km2": 29.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.884891, 45.459129499999982 ], [ 0.8739605, 45.459732499999987 ], [ 0.8736112, 45.4443984 ], [ 0.852083, 45.431685 ], [ 0.8572488, 45.4124603 ], [ 0.8488716, 45.4003114 ], [ 0.8640265, 45.394773499999985 ], [ 0.8813593, 45.3997652 ], [ 0.8878758, 45.408321799999982 ], [ 0.8860788, 45.422664399999981 ], [ 0.881681, 45.4296906 ], [ 0.8950001, 45.4372709 ], [ 0.8908305, 45.447805 ], [ 0.884891, 45.459129499999982 ] ] ] } }
+]
+}

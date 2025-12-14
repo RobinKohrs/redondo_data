@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schwerin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schwerin", "metric_roundness": 54.22, "metric_rectangularity": 65.8, "metric_mobile_fit": 36.81, "metric_aspect_ratio": 1.194, "metric_area_km2": 16.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.6129144, 52.149873299999989 ], [ 13.6452724, 52.134257 ], [ 13.659434, 52.133945 ], [ 13.6635518, 52.1429446 ], [ 13.6582928, 52.1503995 ], [ 13.6627277, 52.1575543 ], [ 13.6455101, 52.156648499999989 ], [ 13.630103, 52.159960499999976 ], [ 13.6129144, 52.149873299999989 ] ] ] } }
+]
+}

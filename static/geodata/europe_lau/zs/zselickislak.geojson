@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zselickislak",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zselickislak", "metric_roundness": 19.59, "metric_rectangularity": 65.83, "metric_mobile_fit": 67.3, "metric_aspect_ratio": 0.235, "metric_area_km2": 22.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.7874771, 46.275874299999984 ], [ 17.7997452, 46.2548575 ], [ 17.8110165, 46.256997 ], [ 17.8045339, 46.2727653 ], [ 17.8072606, 46.282951399999988 ], [ 17.8060795, 46.310781 ], [ 17.810833, 46.321373 ], [ 17.8031475, 46.3290784 ], [ 17.791188, 46.3243966 ], [ 17.7928912, 46.3157996 ], [ 17.7857247, 46.315357499999983 ], [ 17.7893578, 46.300680199999988 ], [ 17.7875215, 46.2906445 ], [ 17.7874771, 46.275874299999984 ] ] ] } }
+]
+}

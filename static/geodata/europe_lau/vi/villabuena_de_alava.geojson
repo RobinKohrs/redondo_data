@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villabuena_de_alava",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villabuena de Álava", "metric_roundness": 46.36, "metric_rectangularity": 57.17, "metric_mobile_fit": 74.03, "metric_aspect_ratio": 0.822, "metric_area_km2": 15.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.650802, 42.5336226 ], [ -2.649702, 42.541589899999984 ], [ -2.6457904, 42.5456329 ], [ -2.646545, 42.551056 ], [ -2.6509535, 42.5586785 ], [ -2.6654554, 42.5570745 ], [ -2.686106, 42.545001 ], [ -2.679873, 42.537219199999988 ], [ -2.6655272, 42.5329042 ], [ -2.6567902, 42.5211261 ], [ -2.6501345, 42.517969499999985 ], [ -2.646428, 42.5202445 ], [ -2.640678, 42.520668 ], [ -2.650802, 42.5336226 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "printzheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Printzheim", "metric_roundness": 47.01, "metric_rectangularity": 64.54, "metric_mobile_fit": 10.65, "metric_aspect_ratio": 1.456, "metric_area_km2": 10.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4683172, 48.8018922 ], [ 7.4663277, 48.797858299999987 ], [ 7.4689763, 48.7926061 ], [ 7.4563949, 48.789402 ], [ 7.451074, 48.784119 ], [ 7.459396, 48.784192 ], [ 7.491477, 48.7837325 ], [ 7.4902522, 48.786827699999989 ], [ 7.4939517, 48.7955259 ], [ 7.4871475, 48.8031325 ], [ 7.4683172, 48.8018922 ] ] ] } }
+]
+}

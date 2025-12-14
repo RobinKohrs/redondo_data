@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cambiac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cambiac", "metric_roundness": 52.57, "metric_rectangularity": 76.04, "metric_mobile_fit": 60.14, "metric_aspect_ratio": 0.961, "metric_area_km2": 14.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7850821, 43.5081278 ], [ 1.7800691, 43.502056299999985 ], [ 1.7720548, 43.50183 ], [ 1.770038, 43.4892265 ], [ 1.7881755, 43.4733865 ], [ 1.7975061, 43.4798191 ], [ 1.8160625, 43.4805365 ], [ 1.7908855, 43.506576 ], [ 1.7850821, 43.5081278 ] ] ] } }
+]
+}

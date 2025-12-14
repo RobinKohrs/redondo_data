@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fino_del_monte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fino del Monte", "metric_roundness": 33.04, "metric_rectangularity": 63.17, "metric_mobile_fit": 88.55, "metric_aspect_ratio": 0.448, "metric_area_km2": 8.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.997618, 45.8895765 ], [ 10.01, 45.914858 ], [ 10.00281, 45.923030499999989 ], [ 9.9873082, 45.9156915 ], [ 9.989724, 45.887782 ], [ 9.997618, 45.8895765 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hurtigheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hurtigheim", "metric_roundness": 30.96, "metric_rectangularity": 54.25, "metric_mobile_fit": -30.09, "metric_aspect_ratio": 1.863, "metric_area_km2": 10.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5955865, 48.625455 ], [ 7.5761291, 48.621806899999989 ], [ 7.574329, 48.617622 ], [ 7.5840251, 48.6166509 ], [ 7.586779, 48.6121155 ], [ 7.5928335, 48.61355 ], [ 7.60156, 48.6125135 ], [ 7.613337, 48.609403499999985 ], [ 7.617531, 48.6073515 ], [ 7.6253735, 48.606857499999983 ], [ 7.631398, 48.607975499999988 ], [ 7.632877, 48.609026 ], [ 7.6047195, 48.627628499999986 ], [ 7.5955865, 48.625455 ] ] ] } }
+]
+}

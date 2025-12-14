@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "herbligen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Herbligen", "metric_roundness": 26.71, "metric_rectangularity": 50.24, "metric_mobile_fit": -25.93, "metric_aspect_ratio": 1.822, "metric_area_km2": 5.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5906105, 46.831814 ], [ 7.5925632, 46.828943199999983 ], [ 7.603396, 46.8255038 ], [ 7.606629, 46.8197105 ], [ 7.6202494, 46.8216573 ], [ 7.630768, 46.820131499999981 ], [ 7.6349882, 46.8205078 ], [ 7.6357506, 46.823285799999987 ], [ 7.6172377, 46.8266126 ], [ 7.6070606, 46.8360463 ], [ 7.602775, 46.8366635 ], [ 7.5906105, 46.831814 ] ] ] } }
+]
+}

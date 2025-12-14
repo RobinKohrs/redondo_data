@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zarzosa_de_rio_pisuerga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zarzosa de Río Pisuerga", "metric_roundness": 43.95, "metric_rectangularity": 62.9, "metric_mobile_fit": 92.83, "metric_aspect_ratio": 0.634, "metric_area_km2": 19.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.238566, 42.555007299999986 ], [ -4.2538685, 42.568413 ], [ -4.2542086, 42.5616049 ], [ -4.2777135, 42.544655 ], [ -4.2789645, 42.5427325 ], [ -4.278091, 42.539955 ], [ -4.2774385, 42.535381 ], [ -4.279635, 42.533790499999988 ], [ -4.277532, 42.529804 ], [ -4.2753785, 42.528721 ], [ -4.272169, 42.519951 ], [ -4.252368, 42.5279718 ], [ -4.237918, 42.533825 ], [ -4.238566, 42.555007299999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "adrada_de_piron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Adrada de Pirón", "metric_roundness": 42.52, "metric_rectangularity": 66.46, "metric_mobile_fit": 27.29, "metric_aspect_ratio": 1.29, "metric_area_km2": 18.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.0430407, 41.0709981 ], [ -4.0543784, 41.0733203 ], [ -4.0699555, 41.0708847 ], [ -4.0805315, 41.077953499999985 ], [ -4.0752664, 41.0594981 ], [ -4.0770845, 41.0535125 ], [ -4.0662204, 41.0529018 ], [ -4.053091, 41.046328 ], [ -4.0381037, 41.0438828 ], [ -4.029914, 41.046851 ], [ -4.022259, 41.054138 ], [ -4.0430407, 41.0709981 ] ] ] } }
+]
+}

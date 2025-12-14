@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "obora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Obora", "metric_roundness": 53.48, "metric_rectangularity": 67.93, "metric_mobile_fit": 14.18, "metric_aspect_ratio": 1.421, "metric_area_km2": 9.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6001665, 49.445995499999988 ], [ 16.6234709, 49.451001099999985 ], [ 16.6262105, 49.448981499999988 ], [ 16.6295226, 49.454113299999989 ], [ 16.6128275, 49.4613425 ], [ 16.594166, 49.465131499999984 ], [ 16.591668, 49.464439499999983 ], [ 16.5876996, 49.460850699999988 ], [ 16.5894995, 49.447404 ], [ 16.6001665, 49.445995499999988 ] ] ] } }
+]
+}

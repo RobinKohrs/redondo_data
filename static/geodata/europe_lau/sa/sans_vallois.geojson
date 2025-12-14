@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sans_vallois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sans-Vallois", "metric_roundness": 33.04, "metric_rectangularity": 55.87, "metric_mobile_fit": 98.3, "metric_aspect_ratio": 0.579, "metric_area_km2": 9.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1073995, 48.143468499999983 ], [ 6.1101527, 48.1475776 ], [ 6.1078333, 48.1575505 ], [ 6.1171303, 48.166801899999982 ], [ 6.1137191, 48.1748427 ], [ 6.1072665, 48.175385 ], [ 6.085851, 48.17139 ], [ 6.0965243, 48.16187129999998 ], [ 6.0996165, 48.139982 ], [ 6.100246, 48.139376499999983 ], [ 6.1073995, 48.143468499999983 ] ] ] } }
+]
+}

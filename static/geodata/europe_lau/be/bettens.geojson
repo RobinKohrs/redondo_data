@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bettens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bettens", "metric_roundness": 64.36, "metric_rectangularity": 72.09, "metric_mobile_fit": 61.88, "metric_aspect_ratio": 0.944, "metric_area_km2": 8.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.589815, 46.626397499999989 ], [ 6.583208, 46.628831 ], [ 6.583209, 46.631251 ], [ 6.5744493, 46.6349932 ], [ 6.566577, 46.632537 ], [ 6.564133, 46.631834499999989 ], [ 6.557766, 46.621871499999983 ], [ 6.561201, 46.621808 ], [ 6.559629, 46.617343 ], [ 6.5697602, 46.619182699999989 ], [ 6.5809455, 46.612621 ], [ 6.583624, 46.6116695 ], [ 6.5878165, 46.616505 ], [ 6.589815, 46.626397499999989 ] ] ] } }
+]
+}

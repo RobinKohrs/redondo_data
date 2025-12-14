@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lestelle_betharram",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lestelle-Bétharram", "metric_roundness": 44.63, "metric_rectangularity": 64.51, "metric_mobile_fit": 85.38, "metric_aspect_ratio": 0.709, "metric_area_km2": 16.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2322527, 43.123288399999986 ], [ -0.2202709, 43.1151928 ], [ -0.2256493, 43.106849899999986 ], [ -0.215485, 43.104274200000013 ], [ -0.1919335, 43.1046995 ], [ -0.193834, 43.1150215 ], [ -0.2058733, 43.122903699999981 ], [ -0.2058548, 43.1297086 ], [ -0.2143765, 43.145796499999989 ], [ -0.2278386, 43.14005359999998 ], [ -0.229614, 43.133811 ], [ -0.2322527, 43.123288399999986 ] ] ] } }
+]
+}

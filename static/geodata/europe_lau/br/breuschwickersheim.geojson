@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "breuschwickersheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Breuschwickersheim", "metric_roundness": 64.98, "metric_rectangularity": 73.1, "metric_mobile_fit": 67.96, "metric_aspect_ratio": 0.883, "metric_area_km2": 12.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6101505, 48.570967 ], [ 7.610717, 48.576494499999981 ], [ 7.616301, 48.580621699999988 ], [ 7.6100895, 48.591565 ], [ 7.5868235, 48.58805 ], [ 7.583834, 48.5808855 ], [ 7.5876566, 48.5783412 ], [ 7.579917, 48.5752935 ], [ 7.5862068, 48.567593699999982 ], [ 7.601236, 48.56430049999998 ], [ 7.6101505, 48.570967 ] ] ] } }
+]
+}

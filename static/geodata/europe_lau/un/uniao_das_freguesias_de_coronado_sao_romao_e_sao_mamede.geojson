@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_coronado_sao_romao_e_sao_mamede",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Coronado (São Romão e São Mamede)", "metric_roundness": 58.54, "metric_rectangularity": 76.96, "metric_mobile_fit": 69.79, "metric_aspect_ratio": 0.865, "metric_area_km2": 19.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5470441, 41.280873 ], [ -8.5669105, 41.3026695 ], [ -8.5702185, 41.3018595 ], [ -8.582309, 41.2958286 ], [ -8.590871, 41.288186 ], [ -8.591085, 41.284958499999988 ], [ -8.5904554, 41.2800218 ], [ -8.5795745, 41.2679325 ], [ -8.5754296, 41.260385 ], [ -8.566962, 41.258299 ], [ -8.561107, 41.2611065 ], [ -8.5569901, 41.271454899999981 ], [ -8.5400335, 41.278178 ], [ -8.5470441, 41.280873 ] ] ] } }
+]
+}

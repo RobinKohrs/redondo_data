@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eccica_suarella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eccica-Suarella", "metric_roundness": 19.24, "metric_rectangularity": 55.4, "metric_mobile_fit": -99.51, "metric_aspect_ratio": 2.558, "metric_area_km2": 25.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8424692, 41.9059382 ], [ 8.848889, 41.9036865 ], [ 8.873943, 41.9158471 ], [ 8.8964171, 41.9202151 ], [ 8.9204181, 41.918504299999988 ], [ 8.950647, 41.921069 ], [ 8.9526018, 41.9249151 ], [ 8.9502235, 41.930983 ], [ 8.9382881, 41.9309869 ], [ 8.929804, 41.9341575 ], [ 8.9143446, 41.9328581 ], [ 8.9041059, 41.937159 ], [ 8.8916376, 41.929945 ], [ 8.8731131, 41.9321212 ], [ 8.8636975, 41.9262575 ], [ 8.837547, 41.9118175 ], [ 8.8424692, 41.9059382 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "studena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Studená", "metric_roundness": 47.13, "metric_rectangularity": 68.35, "metric_mobile_fit": -11.17, "metric_aspect_ratio": 1.674, "metric_area_km2": 7.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.669935, 49.958966499999988 ], [ 13.6562583, 49.965986099999981 ], [ 13.630675, 49.9644725 ], [ 13.630968, 49.961335 ], [ 13.6361258, 49.954079899999982 ], [ 13.6494036, 49.950900099999977 ], [ 13.6619425, 49.9554885 ], [ 13.667121, 49.958114 ], [ 13.669935, 49.958966499999988 ] ] ] } }
+]
+}

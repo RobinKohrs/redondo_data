@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_etienne_la_thillaye",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Étienne-la-Thillaye", "metric_roundness": 59.85, "metric_rectangularity": 70.58, "metric_mobile_fit": 33.29, "metric_aspect_ratio": 1.23, "metric_area_km2": 30.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1371928, 49.3049419 ], [ 0.130236, 49.307498 ], [ 0.121929, 49.3133575 ], [ 0.117655, 49.312065499999989 ], [ 0.1002848, 49.2989988 ], [ 0.0800425, 49.2920775 ], [ 0.0863978, 49.2861836 ], [ 0.0881415, 49.278792499999987 ], [ 0.0994348, 49.275657699999989 ], [ 0.107005, 49.279165599999985 ], [ 0.1233692, 49.280752499999977 ], [ 0.13094, 49.275119499999981 ], [ 0.1433685, 49.2797835 ], [ 0.1521335, 49.291631 ], [ 0.1371928, 49.3049419 ] ] ] } }
+]
+}

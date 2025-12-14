@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mechow",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mechow", "metric_roundness": 33.71, "metric_rectangularity": 42.76, "metric_mobile_fit": 82.39, "metric_aspect_ratio": 0.739, "metric_area_km2": 12.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.7964026, 53.7023533 ], [ 10.8016895, 53.702105499999988 ], [ 10.8065489, 53.7060588 ], [ 10.8267231, 53.707346599999987 ], [ 10.831627, 53.710355 ], [ 10.8246643, 53.7114808 ], [ 10.8109493, 53.7206191 ], [ 10.807149, 53.727113599999981 ], [ 10.807982, 53.7376775 ], [ 10.799058, 53.734198899999981 ], [ 10.7958934, 53.7164001 ], [ 10.7872265, 53.703919 ], [ 10.7964026, 53.7023533 ] ] ] } }
+]
+}

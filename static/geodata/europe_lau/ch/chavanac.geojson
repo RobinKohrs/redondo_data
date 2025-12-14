@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chavanac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chavanac", "metric_roundness": 59.27, "metric_rectangularity": 70.78, "metric_mobile_fit": 46.85, "metric_aspect_ratio": 1.094, "metric_area_km2": 19.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.0703855, 45.6200147 ], [ 2.0773485, 45.611116 ], [ 2.0866768, 45.6138809 ], [ 2.0908017, 45.6004295 ], [ 2.0967615, 45.598025 ], [ 2.0981194, 45.6025728 ], [ 2.1105792, 45.6070082 ], [ 2.1131871, 45.613233199999989 ], [ 2.1268503, 45.6226263 ], [ 2.1240194, 45.6293625 ], [ 2.105071, 45.633398499999984 ], [ 2.08877, 45.6341263 ], [ 2.0833166, 45.6263397 ], [ 2.073513, 45.622488 ], [ 2.0703855, 45.6200147 ] ] ] } }
+]
+}

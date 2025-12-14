@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valnegra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valnegra", "metric_roundness": 32.53, "metric_rectangularity": 53.65, "metric_mobile_fit": 98.81, "metric_aspect_ratio": 0.574, "metric_area_km2": 4.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.6872513, 45.946169399999981 ], [ 9.6958375, 45.946597 ], [ 9.6847866, 45.9640367 ], [ 9.6894551, 45.9688174 ], [ 9.685644, 45.9717245 ], [ 9.6795565, 45.9656855 ], [ 9.6747214, 45.9564132 ], [ 9.678446, 45.9519215 ], [ 9.6872513, 45.946169399999981 ] ] ] } }
+]
+}

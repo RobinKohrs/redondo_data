@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_scolasse_sur_sarthe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Scolasse-sur-Sarthe", "metric_roundness": 53.74, "metric_rectangularity": 75.4, "metric_mobile_fit": 13.45, "metric_aspect_ratio": 1.428, "metric_area_km2": 34.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3969278, 48.5713125 ], [ 0.4187855, 48.566663 ], [ 0.4220755, 48.588486 ], [ 0.4212165, 48.589731 ], [ 0.3838311, 48.5981177 ], [ 0.368108, 48.5969615 ], [ 0.3633255, 48.594714499999974 ], [ 0.3528288, 48.589457599999982 ], [ 0.3579061, 48.5820029 ], [ 0.350931, 48.5757468 ], [ 0.349438, 48.565375 ], [ 0.3617345, 48.564466 ], [ 0.3969278, 48.5713125 ] ] ] } }
+]
+}

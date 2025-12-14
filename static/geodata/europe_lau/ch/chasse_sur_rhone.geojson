@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chasse_sur_rhone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chasse-sur-Rhône", "metric_roundness": 31.47, "metric_rectangularity": 57.42, "metric_mobile_fit": -56.92, "metric_aspect_ratio": 2.132, "metric_area_km2": 16.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.805591, 45.588886 ], [ 4.804056, 45.587525 ], [ 4.790571, 45.586966 ], [ 4.777129, 45.5873955 ], [ 4.7827953, 45.580531499999985 ], [ 4.8084395, 45.572351499999982 ], [ 4.8123195, 45.570286 ], [ 4.815607, 45.5662355 ], [ 4.8203064, 45.5690749 ], [ 4.8391381, 45.5706286 ], [ 4.8433504, 45.579028699999988 ], [ 4.8486415, 45.579917499999986 ], [ 4.8296552, 45.587565 ], [ 4.81082, 45.589716 ], [ 4.805591, 45.588886 ] ] ] } }
+]
+}

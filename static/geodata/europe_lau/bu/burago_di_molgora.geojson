@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "burago_di_molgora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Burago di Molgora", "metric_roundness": 63.68, "metric_rectangularity": 75.94, "metric_mobile_fit": 53.22, "metric_aspect_ratio": 1.03, "metric_area_km2": 6.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4019235, 45.589632 ], [ 9.4015938, 45.5938462 ], [ 9.4002125, 45.59602 ], [ 9.3975625, 45.5970721 ], [ 9.3777635, 45.6052946 ], [ 9.3734843, 45.6000232 ], [ 9.3729392, 45.592032399999979 ], [ 9.3755925, 45.589074 ], [ 9.3805895, 45.585609299999987 ], [ 9.397543, 45.5865965 ], [ 9.4019235, 45.589632 ] ] ] } }
+]
+}

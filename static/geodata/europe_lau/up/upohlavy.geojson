@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "upohlavy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Úpohlavy", "metric_roundness": 56.89, "metric_rectangularity": 69.15, "metric_mobile_fit": 46.03, "metric_aspect_ratio": 1.102, "metric_area_km2": 9.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0439755, 50.445994 ], [ 14.0468576, 50.4522032 ], [ 14.0523726, 50.453857399999983 ], [ 14.0523293, 50.459682799999975 ], [ 14.056789, 50.4610175 ], [ 14.0447157, 50.4672729 ], [ 14.0282535, 50.4700265 ], [ 14.020438, 50.466733 ], [ 14.0202705, 50.4619712 ], [ 14.015754, 50.46106349999998 ], [ 14.0151835, 50.45782 ], [ 14.0348578, 50.4558752 ], [ 14.038623, 50.446503499999984 ], [ 14.0439755, 50.445994 ] ] ] } }
+]
+}

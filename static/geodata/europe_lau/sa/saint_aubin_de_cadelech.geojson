@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_aubin_de_cadelech",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Aubin-de-Cadelech", "metric_roundness": 62.51, "metric_rectangularity": 72.23, "metric_mobile_fit": 53.71, "metric_aspect_ratio": 1.025, "metric_area_km2": 26.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5236285, 44.688422 ], [ 0.5136649, 44.696839299999986 ], [ 0.4935942, 44.7048853 ], [ 0.4865828, 44.7035483 ], [ 0.479887, 44.7087985 ], [ 0.4795426, 44.7009711 ], [ 0.4721962, 44.6951498 ], [ 0.462833, 44.67364 ], [ 0.4666957, 44.673738299999982 ], [ 0.4705325, 44.6695785 ], [ 0.4864061, 44.666645 ], [ 0.495626, 44.669802499999975 ], [ 0.5122853, 44.678281399999982 ], [ 0.521652, 44.678583499999988 ], [ 0.5236285, 44.688422 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brieres_les_scelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brières-les-Scellés", "metric_roundness": 67.35, "metric_rectangularity": 68.95, "metric_mobile_fit": 40.96, "metric_aspect_ratio": 1.153, "metric_area_km2": 19.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.124699, 48.4491671 ], [ 2.1382192, 48.452979799999987 ], [ 2.164842, 48.454094 ], [ 2.1695953, 48.464931399999983 ], [ 2.164886, 48.470229 ], [ 2.1585632, 48.470794099999985 ], [ 2.161583, 48.474731 ], [ 2.14865, 48.480689 ], [ 2.1397686, 48.479613 ], [ 2.1276979, 48.468021799999981 ], [ 2.1209155, 48.467641499999985 ], [ 2.1147875, 48.462146499999982 ], [ 2.124699, 48.4491671 ] ] ] } }
+]
+}

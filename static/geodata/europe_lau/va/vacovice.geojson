@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vacovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vacovice", "metric_roundness": 56.29, "metric_rectangularity": 72.84, "metric_mobile_fit": 65.61, "metric_aspect_ratio": 0.906, "metric_area_km2": 6.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.7697953, 49.147172499999982 ], [ 13.7730958, 49.143915199999988 ], [ 13.7672011, 49.136187699999986 ], [ 13.769335, 49.1311985 ], [ 13.779389, 49.13512859999998 ], [ 13.7937155, 49.135735499999981 ], [ 13.7940006, 49.144703899999989 ], [ 13.786025, 49.150540499999984 ], [ 13.7697953, 49.147172499999982 ] ] ] } }
+]
+}

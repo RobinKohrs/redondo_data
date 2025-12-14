@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zasovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zašovice", "metric_roundness": 27.24, "metric_rectangularity": 48.22, "metric_mobile_fit": 61.97, "metric_aspect_ratio": 0.943, "metric_area_km2": 8.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.7334185, 49.247868499999989 ], [ 15.7363973, 49.252435399999982 ], [ 15.7455235, 49.254934 ], [ 15.739884, 49.25995 ], [ 15.7306377, 49.26323 ], [ 15.727535, 49.269054 ], [ 15.7242312, 49.2653312 ], [ 15.7139251, 49.264215799999988 ], [ 15.7013655, 49.278435 ], [ 15.7049386, 49.266811699999984 ], [ 15.717843, 49.2505935 ], [ 15.7334185, 49.247868499999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "escurial_de_la_sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Escurial de la Sierra", "metric_roundness": 51.38, "metric_rectangularity": 69.4, "metric_mobile_fit": 81.22, "metric_aspect_ratio": 0.75, "metric_area_km2": 35.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.923613, 40.6200525 ], [ -5.935189, 40.6294709 ], [ -5.9397254, 40.637111499999989 ], [ -5.9490265, 40.639512 ], [ -5.9511173, 40.6441379 ], [ -5.9566445, 40.643989499999989 ], [ -5.9610221, 40.6347381 ], [ -5.9758756, 40.624868499999984 ], [ -5.9832465, 40.616066 ], [ -5.9854939, 40.5959915 ], [ -5.9764475, 40.582985 ], [ -5.9707835, 40.581528 ], [ -5.951151, 40.5992447 ], [ -5.9365688, 40.6002893 ], [ -5.92926, 40.6050955 ], [ -5.923613, 40.6200525 ] ] ] } }
+]
+}

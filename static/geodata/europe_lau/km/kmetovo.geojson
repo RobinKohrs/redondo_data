@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kmetovo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kmeťovo", "metric_roundness": 55.67, "metric_rectangularity": 71.32, "metric_mobile_fit": 21.76, "metric_aspect_ratio": 1.345, "metric_area_km2": 12.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.2751177, 48.157213299999988 ], [ 18.2857284, 48.1596871 ], [ 18.2985888, 48.1681824 ], [ 18.297854, 48.172696399999985 ], [ 18.2916, 48.1756235 ], [ 18.2544035, 48.1791255 ], [ 18.262274, 48.160185 ], [ 18.2751177, 48.157213299999988 ] ] ] } }
+]
+}

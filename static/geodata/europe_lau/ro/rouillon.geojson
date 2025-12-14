@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rouillon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rouillon", "metric_roundness": 67.84, "metric_rectangularity": 75.66, "metric_mobile_fit": 48.83, "metric_aspect_ratio": 1.074, "metric_area_km2": 20.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1663975, 47.9942407 ], [ 0.1630739, 48.005934 ], [ 0.1468801, 48.014774499999973 ], [ 0.140222, 48.0147525 ], [ 0.1307615, 48.0133155 ], [ 0.1213915, 48.012958499999989 ], [ 0.119542, 48.0122935 ], [ 0.1164733, 48.007796599999985 ], [ 0.1187923, 48.0000411 ], [ 0.1287835, 47.9900698 ], [ 0.1388299, 47.9891065 ], [ 0.143436, 47.984226 ], [ 0.1525705, 47.98367649999998 ], [ 0.1663975, 47.9942407 ] ] ] } }
+]
+}

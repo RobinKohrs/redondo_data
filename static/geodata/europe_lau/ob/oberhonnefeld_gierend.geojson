@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberhonnefeld_gierend",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberhonnefeld-Gierend", "metric_roundness": 51.27, "metric_rectangularity": 69.65, "metric_mobile_fit": 51.22, "metric_aspect_ratio": 1.05, "metric_area_km2": 10.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5081736, 50.5645665 ], [ 7.492284, 50.5565495 ], [ 7.5050097, 50.5514502 ], [ 7.528506, 50.548654 ], [ 7.52782, 50.554158699999974 ], [ 7.5312485, 50.5571085 ], [ 7.5319085, 50.56387 ], [ 7.5299645, 50.5646485 ], [ 7.526423, 50.566160499999974 ], [ 7.5220835, 50.568299499999988 ], [ 7.519996, 50.569335 ], [ 7.5157165, 50.571633 ], [ 7.508244, 50.570983499999983 ], [ 7.50596, 50.5716915 ], [ 7.5008665, 50.5726215 ], [ 7.5081736, 50.5645665 ] ] ] } }
+]
+}

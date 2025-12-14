@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nieby",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nieby", "metric_roundness": 47.2, "metric_rectangularity": 63.3, "metric_mobile_fit": 50.31, "metric_aspect_ratio": 1.059, "metric_area_km2": 25.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.9206308, 54.771530899999988 ], [ 9.930698, 54.764594499999987 ], [ 9.9404029, 54.7650453 ], [ 9.9468751, 54.770356199999988 ], [ 9.963617, 54.769817499999988 ], [ 9.9559965, 54.7799305 ], [ 9.909116, 54.798852 ], [ 9.9025462, 54.7896206 ], [ 9.9036732, 54.782103 ], [ 9.900684, 54.774349099999981 ], [ 9.9066945, 54.7687865 ], [ 9.9206308, 54.771530899999988 ] ] ] } }
+]
+}

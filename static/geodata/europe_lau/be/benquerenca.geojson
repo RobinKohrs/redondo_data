@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "benquerenca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Benquerença", "metric_roundness": 37.32, "metric_rectangularity": 58.44, "metric_mobile_fit": 69.25, "metric_aspect_ratio": 0.87, "metric_area_km2": 49.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.2407618, 40.2053778 ], [ -7.2337333, 40.1972364 ], [ -7.2267552, 40.2009463 ], [ -7.2170518, 40.1989607 ], [ -7.2048956, 40.2024634 ], [ -7.193199, 40.2009445 ], [ -7.221641, 40.23751 ], [ -7.240171, 40.258456 ], [ -7.258081, 40.2673266 ], [ -7.273073, 40.265706499999986 ], [ -7.2635838, 40.2281438 ], [ -7.2721952, 40.2130247 ], [ -7.2691956, 40.2093603 ], [ -7.2519575, 40.205616 ], [ -7.2407618, 40.2053778 ] ] ] } }
+]
+}

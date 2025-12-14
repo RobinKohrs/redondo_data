@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "silva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Silva", "metric_roundness": 40.66, "metric_rectangularity": 56.59, "metric_mobile_fit": 26.92, "metric_aspect_ratio": 1.293, "metric_area_km2": 4.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6262795, 41.577635 ], [ -8.6330438, 41.5761851 ], [ -8.6380915, 41.57908 ], [ -8.6385442, 41.574726 ], [ -8.646812, 41.5715685 ], [ -8.6331137, 41.5643232 ], [ -8.617788, 41.562291 ], [ -8.6189145, 41.563516 ], [ -8.6262795, 41.577635 ] ] ] } }
+]
+}

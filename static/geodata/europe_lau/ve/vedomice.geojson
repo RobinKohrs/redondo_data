@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vedomice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vědomice", "metric_roundness": 57.7, "metric_rectangularity": 67.4, "metric_mobile_fit": 42.84, "metric_aspect_ratio": 1.134, "metric_area_km2": 12.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2670059, 50.4543794 ], [ 14.253401, 50.447832199999986 ], [ 14.2402515, 50.4375015 ], [ 14.2641061, 50.4277429 ], [ 14.2753842, 50.428466799999988 ], [ 14.28529, 50.4325955 ], [ 14.2876825, 50.437142 ], [ 14.2783867, 50.4394126 ], [ 14.2663409, 50.4372857 ], [ 14.2673461, 50.440970399999983 ], [ 14.2783804, 50.4455283 ], [ 14.2713965, 50.453641 ], [ 14.2670059, 50.4543794 ] ] ] } }
+]
+}

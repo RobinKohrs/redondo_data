@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lesdain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lesdain", "metric_roundness": 26.34, "metric_rectangularity": 63.97, "metric_mobile_fit": 84.09, "metric_aspect_ratio": 0.403, "metric_area_km2": 20.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2866925, 50.0857983 ], [ 3.2887031, 50.101036 ], [ 3.285318, 50.112653 ], [ 3.259411, 50.1142605 ], [ 3.2583419, 50.1009266 ], [ 3.2641639, 50.0834444 ], [ 3.2760407, 50.076206599999985 ], [ 3.2868014, 50.0615409 ], [ 3.2911088, 50.0605478 ], [ 3.2921149, 50.0641331 ], [ 3.289073, 50.0689235 ], [ 3.2866925, 50.0857983 ] ] ] } }
+]
+}

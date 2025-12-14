@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aspin_aure",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aspin-Aure", "metric_roundness": 35.76, "metric_rectangularity": 64.1, "metric_mobile_fit": 55.01, "metric_aspect_ratio": 1.012, "metric_area_km2": 22.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3129165, 42.956622199999984 ], [ 0.2998585, 42.9597815 ], [ 0.3005137, 42.943331699999987 ], [ 0.3114069, 42.938453099999975 ], [ 0.3098345, 42.92552 ], [ 0.3525716, 42.916164499999987 ], [ 0.3601744, 42.924462199999986 ], [ 0.350061, 42.9355215 ], [ 0.3129165, 42.956622199999984 ] ] ] } }
+]
+}

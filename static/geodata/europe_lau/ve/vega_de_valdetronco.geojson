@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vega_de_valdetronco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vega de Valdetronco", "metric_roundness": 35.43, "metric_rectangularity": 58.17, "metric_mobile_fit": 17.62, "metric_aspect_ratio": 1.386, "metric_area_km2": 30.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.0823877, 41.5794109 ], [ -5.074982, 41.5869814 ], [ -5.063907, 41.591221 ], [ -5.0988358, 41.5989766 ], [ -5.1264921, 41.6149249 ], [ -5.1273465, 41.620724 ], [ -5.133127, 41.6201935 ], [ -5.1418541, 41.6147607 ], [ -5.1479555, 41.6061393 ], [ -5.157195, 41.6022985 ], [ -5.154215, 41.5993391 ], [ -5.1459262, 41.5996283 ], [ -5.1392985, 41.5932689 ], [ -5.1259291, 41.5872357 ], [ -5.113869, 41.5704 ], [ -5.0823877, 41.5794109 ] ] ] } }
+]
+}

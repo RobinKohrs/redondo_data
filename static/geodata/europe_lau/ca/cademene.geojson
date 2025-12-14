@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cademene",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cademène", "metric_roundness": 22.54, "metric_rectangularity": 65.96, "metric_mobile_fit": 98.93, "metric_aspect_ratio": 0.552, "metric_area_km2": 7.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0429065, 47.111134 ], [ 6.0298914, 47.1104725 ], [ 6.0238005, 47.100896 ], [ 6.0228984, 47.0941806 ], [ 6.0152906, 47.0893245 ], [ 6.0147335, 47.076376 ], [ 6.019244, 47.0767715 ], [ 6.021695, 47.0779085 ], [ 6.024037, 47.080355499999989 ], [ 6.024091, 47.083055499999986 ], [ 6.0341375, 47.091536699999985 ], [ 6.0332892, 47.097005 ], [ 6.037102, 47.0996585 ], [ 6.0429065, 47.111134 ] ] ] } }
+]
+}

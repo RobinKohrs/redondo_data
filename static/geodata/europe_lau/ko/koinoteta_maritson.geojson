@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_maritson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μαριτσών", "metric_roundness": 46.08, "metric_rectangularity": 70.79, "metric_mobile_fit": -1.1, "metric_aspect_ratio": 1.573, "metric_area_km2": 37.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.1377384, 36.3541011 ], [ 28.155507, 36.358944 ], [ 28.1505837, 36.3652063 ], [ 28.122355, 36.380806 ], [ 28.1124559, 36.3753802 ], [ 28.1040125, 36.37724 ], [ 28.0963188, 36.3703356 ], [ 28.0891134, 36.370035399999985 ], [ 28.0824471, 36.3646788 ], [ 28.064303, 36.357941 ], [ 28.078395, 36.335841 ], [ 28.0920183, 36.3385931 ], [ 28.11704, 36.334126 ], [ 28.1377384, 36.3541011 ] ] ] } }
+]
+}

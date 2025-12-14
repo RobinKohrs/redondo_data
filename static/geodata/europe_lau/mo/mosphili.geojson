@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mosphili",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Μοσφίλι", "metric_roundness": 47.93, "metric_rectangularity": 61.4, "metric_mobile_fit": 64.64, "metric_aspect_ratio": 0.916, "metric_area_km2": 2.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.6165845, 35.172098 ], [ 32.622143, 35.1687945 ], [ 32.6261081, 35.1694984 ], [ 32.6275911, 35.1749877 ], [ 32.635426, 35.181263 ], [ 32.6304783, 35.1849988 ], [ 32.622244, 35.185606299999989 ], [ 32.6214395, 35.174238 ], [ 32.6165845, 35.172098 ] ] ] } }
+]
+}

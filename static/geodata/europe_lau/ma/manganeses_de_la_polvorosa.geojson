@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "manganeses_de_la_polvorosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Manganeses de la Polvorosa", "metric_roundness": 52.37, "metric_rectangularity": 66.47, "metric_mobile_fit": 10.94, "metric_aspect_ratio": 1.453, "metric_area_km2": 29.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.7501683, 42.0569903 ], [ -5.7548329, 42.0560602 ], [ -5.7771935, 42.046842 ], [ -5.7825415, 42.0424855 ], [ -5.785441, 42.0372695 ], [ -5.7928347, 42.027948399999985 ], [ -5.7787455, 42.0197335 ], [ -5.737213, 42.018402 ], [ -5.7274423, 42.0194428 ], [ -5.7178905, 42.025154 ], [ -5.7173363, 42.0283213 ], [ -5.7268618, 42.029842499999987 ], [ -5.7357655, 42.040329 ], [ -5.749888, 42.053989699999981 ], [ -5.7481415, 42.0561255 ], [ -5.7501683, 42.0569903 ] ] ] } }
+]
+}

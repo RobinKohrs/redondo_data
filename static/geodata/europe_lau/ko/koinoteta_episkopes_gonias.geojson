@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_episkopes_gonias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Επισκοπής Γωνιάς", "metric_roundness": 37.74, "metric_rectangularity": 59.34, "metric_mobile_fit": 36.6, "metric_aspect_ratio": 1.197, "metric_area_km2": 7.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4569881, 36.3717496 ], [ 25.4725183, 36.3700825 ], [ 25.479012, 36.362493799999982 ], [ 25.4861125, 36.361397 ], [ 25.4816156, 36.3692773 ], [ 25.4863005, 36.384429 ], [ 25.471692, 36.384631 ], [ 25.454105, 36.384523 ], [ 25.4517735, 36.3842995 ], [ 25.4569881, 36.3717496 ] ] ] } }
+]
+}

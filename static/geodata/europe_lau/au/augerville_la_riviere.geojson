@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "augerville_la_riviere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Augerville-la-Rivière", "metric_roundness": 54.83, "metric_rectangularity": 69.94, "metric_mobile_fit": 12.67, "metric_aspect_ratio": 1.436, "metric_area_km2": 9.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4010454, 48.257537 ], [ 2.3988412, 48.2515948 ], [ 2.412139, 48.245527 ], [ 2.433932, 48.244441 ], [ 2.4362915, 48.246551499999988 ], [ 2.4370365, 48.248799 ], [ 2.4407435, 48.2512685 ], [ 2.440141, 48.253202 ], [ 2.429623, 48.256320599999988 ], [ 2.421714, 48.263872 ], [ 2.4010454, 48.257537 ] ] ] } }
+]
+}

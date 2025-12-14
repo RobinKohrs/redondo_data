@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spotorno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spotorno", "metric_roundness": 36.34, "metric_rectangularity": 59.46, "metric_mobile_fit": -24.51, "metric_aspect_ratio": 1.808, "metric_area_km2": 15.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.4181889, 44.2225628 ], [ 8.4214485, 44.2278601 ], [ 8.436243, 44.236729 ], [ 8.4133655, 44.2448245 ], [ 8.369646, 44.2370875 ], [ 8.3784825, 44.2287945 ], [ 8.3774688, 44.2312961 ], [ 8.3840426, 44.231434 ], [ 8.4002591, 44.222562799999984 ], [ 8.4078226, 44.2184252 ], [ 8.415807, 44.218692 ], [ 8.4181889, 44.2225628 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vieil_moutier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vieil-Moutier", "metric_roundness": 47.95, "metric_rectangularity": 72.72, "metric_mobile_fit": 89.73, "metric_aspect_ratio": 0.665, "metric_area_km2": 14.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.928217, 50.6556265 ], [ 1.9194064, 50.675005299999988 ], [ 1.9116959, 50.680313299999973 ], [ 1.8995025, 50.679880499999982 ], [ 1.9042976, 50.6711412 ], [ 1.8947211, 50.6687805 ], [ 1.8937823, 50.665154799999982 ], [ 1.901724, 50.655223 ], [ 1.9023515, 50.649525499999982 ], [ 1.9211475, 50.647499499999988 ], [ 1.928217, 50.6556265 ] ] ] } }
+]
+}

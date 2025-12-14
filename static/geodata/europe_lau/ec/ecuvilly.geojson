@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ecuvilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Écuvilly", "metric_roundness": 28.08, "metric_rectangularity": 45.18, "metric_mobile_fit": -1.42, "metric_aspect_ratio": 1.577, "metric_area_km2": 13.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9171175, 49.6523773 ], [ 2.9045693, 49.6520985 ], [ 2.8997603, 49.6552619 ], [ 2.8861915, 49.649165 ], [ 2.913561, 49.632978499999986 ], [ 2.9312447, 49.6464697 ], [ 2.94433, 49.647207 ], [ 2.9394362, 49.655733699999985 ], [ 2.9489693, 49.656648199999985 ], [ 2.9533575, 49.660561 ], [ 2.9171175, 49.6523773 ] ] ] } }
+]
+}

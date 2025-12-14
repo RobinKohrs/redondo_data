@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lys_lez_lannoy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lys-lez-Lannoy", "metric_roundness": 53.32, "metric_rectangularity": 73.9, "metric_mobile_fit": 63.28, "metric_aspect_ratio": 0.93, "metric_area_km2": 7.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2112415, 50.668262 ], [ 3.2149175, 50.666802 ], [ 3.209328, 50.6635605 ], [ 3.218459, 50.661286 ], [ 3.2280635, 50.669126799999972 ], [ 3.2351905, 50.6709325 ], [ 3.2143135, 50.6856775 ], [ 3.2109351, 50.679669399999973 ], [ 3.199407, 50.6711345 ], [ 3.204447, 50.667951499999987 ], [ 3.206108, 50.666046 ], [ 3.2112415, 50.668262 ] ] ] } }
+]
+}

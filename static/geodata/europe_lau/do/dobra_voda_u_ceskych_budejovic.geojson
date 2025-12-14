@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dobra_voda_u_ceskych_budejovic",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dobrá Voda u Českých Budějovic", "metric_roundness": 43.7, "metric_rectangularity": 72.72, "metric_mobile_fit": 42.44, "metric_aspect_ratio": 1.138, "metric_area_km2": 3.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5202935, 48.97367149999998 ], [ 14.5157125, 48.961136499999988 ], [ 14.5299827, 48.9610819 ], [ 14.532402, 48.964486 ], [ 14.535046, 48.970483 ], [ 14.538203, 48.974055 ], [ 14.5202935, 48.97367149999998 ] ] ] } }
+]
+}

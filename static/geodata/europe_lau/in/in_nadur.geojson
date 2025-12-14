@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "in_nadur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "In-Nadur", "metric_roundness": 59.37, "metric_rectangularity": 71.32, "metric_mobile_fit": 58.65, "metric_aspect_ratio": 0.976, "metric_area_km2": 10.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2774315, 36.03634 ], [ 14.2966545, 36.034032 ], [ 14.3026143, 36.035833599999982 ], [ 14.3053024, 36.0435385 ], [ 14.3152345, 36.049420499999982 ], [ 14.3098535, 36.058854499999988 ], [ 14.3004395, 36.0574811 ], [ 14.2904009, 36.0654736 ], [ 14.28624, 36.0619175 ], [ 14.277281, 36.038278 ], [ 14.2774315, 36.03634 ] ] ] } }
+]
+}

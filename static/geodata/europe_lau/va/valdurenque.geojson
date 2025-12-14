@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valdurenque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valdurenque", "metric_roundness": 41.54, "metric_rectangularity": 48.52, "metric_mobile_fit": 79.24, "metric_aspect_ratio": 0.77, "metric_area_km2": 10.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3144314, 43.5864926 ], [ 2.3088797, 43.5812112 ], [ 2.3010465, 43.580929 ], [ 2.2907964, 43.5715552 ], [ 2.297091, 43.5610735 ], [ 2.3065432, 43.5642254 ], [ 2.3235185, 43.5499715 ], [ 2.3161865, 43.5688027 ], [ 2.3191925, 43.5700905 ], [ 2.3252778, 43.5708537 ], [ 2.3296769, 43.5772296 ], [ 2.3192807, 43.583911099999987 ], [ 2.319401, 43.586553499999987 ], [ 2.3144314, 43.5864926 ] ] ] } }
+]
+}

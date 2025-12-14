@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cochirleanca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cochirleanca", "metric_roundness": 42.9, "metric_rectangularity": 73.29, "metric_mobile_fit": -2.18, "metric_aspect_ratio": 1.584, "metric_area_km2": 157.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.0137015, 45.1798873 ], [ 27.0664895, 45.1587435 ], [ 27.084413, 45.179623299999989 ], [ 27.1146723, 45.2025909 ], [ 27.1196058, 45.211282799999978 ], [ 27.1182515, 45.2148775 ], [ 27.1014641, 45.2165374 ], [ 27.079151, 45.2305695 ], [ 27.0696766, 45.2247031 ], [ 26.969678, 45.244988499999984 ], [ 26.925685, 45.207212 ], [ 26.9656212, 45.1899228 ], [ 26.993402, 45.1824655 ], [ 27.0137015, 45.1798873 ] ] ] } }
+]
+}

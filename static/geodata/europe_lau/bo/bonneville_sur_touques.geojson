@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonneville_sur_touques",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonneville-sur-Touques", "metric_roundness": 57.6, "metric_rectangularity": 64.58, "metric_mobile_fit": 67.9, "metric_aspect_ratio": 0.884, "metric_area_km2": 15.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1358273, 49.334657 ], [ 0.1403195, 49.341324499999985 ], [ 0.1370767, 49.3402221 ], [ 0.1322205, 49.3447755 ], [ 0.102747, 49.3387685 ], [ 0.0959755, 49.3303668 ], [ 0.1043859, 49.328156 ], [ 0.1075985, 49.31826 ], [ 0.1114567, 49.318087299999988 ], [ 0.117655, 49.312065499999989 ], [ 0.121929, 49.3133575 ], [ 0.1267604, 49.316376399999989 ], [ 0.1287749, 49.3224145 ], [ 0.136657, 49.327000499999983 ], [ 0.1358273, 49.334657 ] ] ] } }
+]
+}

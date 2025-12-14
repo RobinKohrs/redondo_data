@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_proastiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Προαστίου", "metric_roundness": 54.39, "metric_rectangularity": 68.76, "metric_mobile_fit": 68.38, "metric_aspect_ratio": 0.879, "metric_area_km2": 14.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.2702085, 36.8529915 ], [ 22.284028, 36.863095 ], [ 22.272394, 36.8750855 ], [ 22.2711695, 36.882233 ], [ 22.2633175, 36.8825214 ], [ 22.256526, 36.893342 ], [ 22.2494526, 36.8832016 ], [ 22.239708, 36.8791125 ], [ 22.2401255, 36.871364799999988 ], [ 22.2473332, 36.8673516 ], [ 22.2469202, 36.8599538 ], [ 22.25745, 36.857149 ], [ 22.2702085, 36.8529915 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "camparada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Camparada", "metric_roundness": 49.09, "metric_rectangularity": 68.41, "metric_mobile_fit": 65.36, "metric_aspect_ratio": 0.909, "metric_area_km2": 3.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.3360596, 45.652793699999975 ], [ 9.325089, 45.6640915 ], [ 9.3208189, 45.657723 ], [ 9.3140785, 45.660703 ], [ 9.3181078, 45.652819699999981 ], [ 9.323886, 45.649631 ], [ 9.329942, 45.647188 ], [ 9.3360596, 45.652793699999975 ] ] ] } }
+]
+}

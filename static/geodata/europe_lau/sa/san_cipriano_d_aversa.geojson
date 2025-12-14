@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_cipriano_d_aversa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Cipriano d'Aversa", "metric_roundness": 42.72, "metric_rectangularity": 53.2, "metric_mobile_fit": 14.4, "metric_aspect_ratio": 1.418, "metric_area_km2": 11.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0988578, 40.9859351 ], [ 14.1149292, 40.984742399999988 ], [ 14.112237, 40.9789425 ], [ 14.1286845, 40.979142 ], [ 14.1275512, 40.985937199999988 ], [ 14.1235676, 40.9887766 ], [ 14.12366, 40.995375 ], [ 14.1466925, 40.995813 ], [ 14.1481296, 40.998967799999988 ], [ 14.142345, 41.005456 ], [ 14.1209358, 41.0050354 ], [ 14.1119522, 40.9984597 ], [ 14.0983035, 40.998283499999985 ], [ 14.0988578, 40.9859351 ] ] ] } }
+]
+}

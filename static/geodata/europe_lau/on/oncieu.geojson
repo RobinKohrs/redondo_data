@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oncieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oncieu", "metric_roundness": 33.8, "metric_rectangularity": 57.08, "metric_mobile_fit": 94.96, "metric_aspect_ratio": 0.512, "metric_area_km2": 15.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4796981, 45.9452098 ], [ 5.489057, 45.948127 ], [ 5.4853145, 45.9538101 ], [ 5.4869523, 45.9621597 ], [ 5.4784056, 45.967326199999988 ], [ 5.48091, 45.97037 ], [ 5.4728535, 45.989773 ], [ 5.46658, 45.991883 ], [ 5.4642987, 45.978213599999989 ], [ 5.4566246, 45.9677837 ], [ 5.4546666, 45.958572099999969 ], [ 5.466004, 45.9501655 ], [ 5.4796981, 45.9452098 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sete_cidades",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sete Cidades", "metric_roundness": 72.95, "metric_rectangularity": 82.08, "metric_mobile_fit": 49.74, "metric_aspect_ratio": 1.065, "metric_area_km2": 29.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -25.7669111, 37.875446 ], [ -25.7767445, 37.880124 ], [ -25.7902795, 37.878742 ], [ -25.8105193, 37.8729516 ], [ -25.81608, 37.863977 ], [ -25.8124366, 37.850325 ], [ -25.8050345, 37.844294 ], [ -25.7856079, 37.8371992 ], [ -25.775389, 37.8374845 ], [ -25.762654, 37.842427 ], [ -25.7581707, 37.843364699999988 ], [ -25.759052, 37.8472255 ], [ -25.759598, 37.8481385 ], [ -25.7626735, 37.8691785 ], [ -25.7669111, 37.875446 ] ] ] } }
+]
+}

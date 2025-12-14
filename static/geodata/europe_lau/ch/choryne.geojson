@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "choryne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Choryně", "metric_roundness": 45.78, "metric_rectangularity": 66.23, "metric_mobile_fit": 84.37, "metric_aspect_ratio": 0.719, "metric_area_km2": 21.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.8776302, 49.5020564 ], [ 17.8767546, 49.4944716 ], [ 17.898182, 49.481618499999982 ], [ 17.9004755, 49.483963 ], [ 17.908167, 49.4828718 ], [ 17.9216037, 49.490804299999979 ], [ 17.925956, 49.498471 ], [ 17.9090986, 49.5092454 ], [ 17.9188819, 49.5205921 ], [ 17.912851, 49.526071 ], [ 17.9013626, 49.518735 ], [ 17.8994493, 49.5114557 ], [ 17.8867165, 49.508596499999982 ], [ 17.8776302, 49.5020564 ] ] ] } }
+]
+}

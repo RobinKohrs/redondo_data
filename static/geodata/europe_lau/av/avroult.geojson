@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "avroult",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Avroult", "metric_roundness": 45.1, "metric_rectangularity": 62.29, "metric_mobile_fit": 60.44, "metric_aspect_ratio": 0.958, "metric_area_km2": 11.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1284035, 50.617724 ], [ 2.1349735, 50.619994 ], [ 2.1647601, 50.630243199999988 ], [ 2.165638, 50.637889 ], [ 2.1518885, 50.6441455 ], [ 2.141875, 50.640155499999977 ], [ 2.1344365, 50.641418 ], [ 2.1252645, 50.617416 ], [ 2.1284035, 50.617724 ] ] ] } }
+]
+}

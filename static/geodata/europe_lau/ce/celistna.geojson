@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "celistna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Čelistná", "metric_roundness": 52.55, "metric_rectangularity": 72.73, "metric_mobile_fit": 83.64, "metric_aspect_ratio": 0.726, "metric_area_km2": 7.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.218452, 49.354283499999987 ], [ 15.2218015, 49.367935 ], [ 15.2078125, 49.370701499999981 ], [ 15.1983653, 49.3639698 ], [ 15.1960185, 49.357592499999981 ], [ 15.199763, 49.347575 ], [ 15.218452, 49.354283499999987 ] ] ] } }
+]
+}

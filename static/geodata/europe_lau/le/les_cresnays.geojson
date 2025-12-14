@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_cresnays",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Cresnays", "metric_roundness": 45.88, "metric_rectangularity": 74.37, "metric_mobile_fit": -12.45, "metric_aspect_ratio": 1.687, "metric_area_km2": 22.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.1453505, 48.719552 ], [ -1.1457256, 48.714345399999985 ], [ -1.138057, 48.7028065 ], [ -1.1389445, 48.6997778 ], [ -1.1356134, 48.698990499999987 ], [ -1.082225, 48.697751499999981 ], [ -1.0803379, 48.7050469 ], [ -1.089217, 48.716399499999987 ], [ -1.1006128, 48.7148809 ], [ -1.1219744, 48.723327399999988 ], [ -1.1332843, 48.720317099999988 ], [ -1.1399045, 48.7214755 ], [ -1.1453505, 48.719552 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cholenice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cholenice", "metric_roundness": 38.72, "metric_rectangularity": 61.7, "metric_mobile_fit": 62.86, "metric_aspect_ratio": 0.934, "metric_area_km2": 11.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.2942425, 50.3346176 ], [ 15.2774997, 50.328204699999979 ], [ 15.263278, 50.317828 ], [ 15.266803, 50.311738 ], [ 15.2732373, 50.309410699999987 ], [ 15.2745295, 50.303411 ], [ 15.2822289, 50.3097297 ], [ 15.2831471, 50.3176833 ], [ 15.2891421, 50.3227504 ], [ 15.3059775, 50.321222 ], [ 15.308921, 50.329992499999982 ], [ 15.2942425, 50.3346176 ] ] ] } }
+]
+}

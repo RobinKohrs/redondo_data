@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rivedoux_plage",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rivedoux-Plage", "metric_roundness": 45.67, "metric_rectangularity": 60.41, "metric_mobile_fit": 40.39, "metric_aspect_ratio": 1.159, "metric_area_km2": 10.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.3038328, 46.158010199999985 ], [ -1.2961773, 46.15795 ], [ -1.2906443, 46.1508095 ], [ -1.2846422, 46.1496764 ], [ -1.2835755, 46.14513849999998 ], [ -1.2779959, 46.145175699999989 ], [ -1.2557937, 46.163005199999986 ], [ -1.2744641, 46.160661299999987 ], [ -1.2814197, 46.164874499999982 ], [ -1.2838275, 46.173859 ], [ -1.3013155, 46.1658675 ], [ -1.3038328, 46.158010199999985 ] ] ] } }
+]
+}

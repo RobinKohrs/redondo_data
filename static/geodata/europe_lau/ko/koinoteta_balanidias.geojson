@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_balanidias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βαλανιδιάς", "metric_roundness": 65.77, "metric_rectangularity": 73.78, "metric_mobile_fit": 55.42, "metric_aspect_ratio": 1.008, "metric_area_km2": 11.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6411325, 39.537237599999983 ], [ 20.6365895, 39.5340571 ], [ 20.62177, 39.533661 ], [ 20.6204225, 39.5273265 ], [ 20.618909, 39.52473 ], [ 20.6178325, 39.521584499999982 ], [ 20.616965, 39.5182745 ], [ 20.616726, 39.515363 ], [ 20.6296877, 39.5098662 ], [ 20.6522455, 39.516791 ], [ 20.652505, 39.53306 ], [ 20.6411325, 39.537237599999983 ] ] ] } }
+]
+}

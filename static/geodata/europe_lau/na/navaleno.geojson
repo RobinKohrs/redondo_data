@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "navaleno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Navaleno", "metric_roundness": 43.03, "metric_rectangularity": 66.14, "metric_mobile_fit": 73.92, "metric_aspect_ratio": 0.823, "metric_area_km2": 44.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.0327149, 41.888714 ], [ -3.0381525, 41.8857615 ], [ -3.0370216, 41.8746917 ], [ -3.0265555, 41.8643866 ], [ -3.0294535, 41.839073 ], [ -3.0263386, 41.8295053 ], [ -3.0185975, 41.8227678 ], [ -2.9843099, 41.8243799 ], [ -2.9652615, 41.83095549999998 ], [ -2.9713127, 41.8384915 ], [ -2.9822017, 41.843592199999989 ], [ -3.0026955, 41.8822976 ], [ -3.0167835, 41.886902 ], [ -3.0327149, 41.888714 ] ] ] } }
+]
+}

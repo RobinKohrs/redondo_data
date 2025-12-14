@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "terre_de_bas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Terre-de-Bas", "metric_roundness": 60.31, "metric_rectangularity": 73.6, "metric_mobile_fit": 43.27, "metric_aspect_ratio": 1.13, "metric_area_km2": 7.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -61.6243631, 15.865692799999989 ], [ -61.635601499999979, 15.8698987 ], [ -61.6405445, 15.8634061 ], [ -61.6468212, 15.860749 ], [ -61.649629499999982, 15.847703899999988 ], [ -61.6350047, 15.8404652 ], [ -61.6307146, 15.8410288 ], [ -61.6212109, 15.8537156 ], [ -61.6172634, 15.8526386 ], [ -61.615059, 15.8550319 ], [ -61.6249146, 15.8619787 ], [ -61.6243631, 15.865692799999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vauxtin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vauxtin", "metric_roundness": 53.28, "metric_rectangularity": 65.34, "metric_mobile_fit": 10.66, "metric_aspect_ratio": 1.456, "metric_area_km2": 5.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.603967, 49.3524155 ], [ 3.600708, 49.351910499999974 ], [ 3.5961825, 49.349622499999988 ], [ 3.591352, 49.351703 ], [ 3.5875574, 49.345786699999977 ], [ 3.593825, 49.338137 ], [ 3.603862, 49.3390684 ], [ 3.6194655, 49.346631 ], [ 3.603967, 49.3524155 ] ] ] } }
+]
+}

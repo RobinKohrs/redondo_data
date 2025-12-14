@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "solomiac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Solomiac", "metric_roundness": 40.87, "metric_rectangularity": 69.31, "metric_mobile_fit": 86.97, "metric_aspect_ratio": 0.693, "metric_area_km2": 26.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.864443, 43.7878185 ], [ 0.8794979, 43.776472399999989 ], [ 0.893159, 43.774683 ], [ 0.8972925, 43.788533 ], [ 0.9048244, 43.809431699999976 ], [ 0.9147815, 43.818574 ], [ 0.875709, 43.832395 ], [ 0.8753915, 43.8201 ], [ 0.8715051, 43.8130067 ], [ 0.8769338, 43.8072893 ], [ 0.8758865, 43.800104 ], [ 0.8666955, 43.798158 ], [ 0.8689972, 43.793416599999986 ], [ 0.859378, 43.794097 ], [ 0.864443, 43.7878185 ] ] ] } }
+]
+}

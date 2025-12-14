@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "odos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Odos", "metric_roundness": 41.18, "metric_rectangularity": 60.78, "metric_mobile_fit": 98.64, "metric_aspect_ratio": 0.549, "metric_area_km2": 16.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.038101, 43.18762 ], [ 0.0478864, 43.186289 ], [ 0.0583135, 43.170759 ], [ 0.0709035, 43.174421 ], [ 0.0666305, 43.1931894 ], [ 0.069788, 43.1958315 ], [ 0.0619518, 43.213085299999989 ], [ 0.063391, 43.217594 ], [ 0.0519278, 43.2170389 ], [ 0.0467565, 43.212518 ], [ 0.0363879, 43.1947861 ], [ 0.0401241, 43.1916066 ], [ 0.0356425, 43.187657 ], [ 0.038101, 43.18762 ] ] ] } }
+]
+}

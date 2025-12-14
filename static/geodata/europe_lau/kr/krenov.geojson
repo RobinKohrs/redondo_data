@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krenov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Křenov", "metric_roundness": 44.61, "metric_rectangularity": 74.77, "metric_mobile_fit": -1.69, "metric_aspect_ratio": 1.579, "metric_area_km2": 25.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5934283, 49.6800834 ], [ 16.606823, 49.671209499999989 ], [ 16.6293356, 49.6657621 ], [ 16.6448845, 49.6725605 ], [ 16.655366, 49.678183499999975 ], [ 16.6555015, 49.681057 ], [ 16.6202235, 49.693325 ], [ 16.600683, 49.695883699999989 ], [ 16.582281, 49.691917499999988 ], [ 16.5819755, 49.6832895 ], [ 16.5934283, 49.6800834 ] ] ] } }
+]
+}

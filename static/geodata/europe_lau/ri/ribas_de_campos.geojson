@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ribas_de_campos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ribas de Campos", "metric_roundness": 50.09, "metric_rectangularity": 59.25, "metric_mobile_fit": 64.96, "metric_aspect_ratio": 0.913, "metric_area_km2": 28.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.5411326, 42.1290164 ], [ -4.5075164, 42.13614279999998 ], [ -4.4889, 42.1299925 ], [ -4.4855585, 42.13719949999998 ], [ -4.4928528, 42.140709699999988 ], [ -4.50162, 42.150340299999989 ], [ -4.5030932, 42.1582048 ], [ -4.5148925, 42.1788445 ], [ -4.529475, 42.1726392 ], [ -4.54475, 42.160938 ], [ -4.5396612, 42.155418 ], [ -4.5469192, 42.138734399999983 ], [ -4.5441985, 42.1307605 ], [ -4.5411326, 42.1290164 ] ] ] } }
+]
+}

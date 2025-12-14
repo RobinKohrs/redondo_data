@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "charmois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Charmois", "metric_roundness": 50.29, "metric_rectangularity": 75.74, "metric_mobile_fit": 51.71, "metric_aspect_ratio": 1.045, "metric_area_km2": 12.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3911132, 48.520970399999989 ], [ 6.4051587, 48.524367 ], [ 6.409461, 48.522612499999987 ], [ 6.4112696, 48.527355499999977 ], [ 6.39066, 48.547473 ], [ 6.374917, 48.5472645 ], [ 6.3694307, 48.541579399999968 ], [ 6.3786165, 48.527641 ], [ 6.3911132, 48.520970399999989 ] ] ] } }
+]
+}

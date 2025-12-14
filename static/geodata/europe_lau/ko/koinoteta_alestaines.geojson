@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_alestaines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αλεσταίνης", "metric_roundness": 54.75, "metric_rectangularity": 75.65, "metric_mobile_fit": 9.95, "metric_aspect_ratio": 1.463, "metric_area_km2": 12.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9646302, 37.8699809 ], [ 21.9733065, 37.864168 ], [ 21.9787545, 37.861992 ], [ 21.9824945, 37.8613365 ], [ 21.9849645, 37.8612185 ], [ 21.993306, 37.8627615 ], [ 21.9968155, 37.862571 ], [ 22.012848, 37.872825 ], [ 22.0089459, 37.877647899999985 ], [ 21.9966695, 37.883419499999981 ], [ 21.9897337, 37.883229399999983 ], [ 21.9807449, 37.8872342 ], [ 21.97374, 37.8834695 ], [ 21.9646302, 37.8699809 ] ] ] } }
+]
+}

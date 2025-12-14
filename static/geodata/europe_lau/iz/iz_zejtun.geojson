@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "iz_zejtun",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Iż-Żejtun", "metric_roundness": 57.32, "metric_rectangularity": 72.57, "metric_mobile_fit": 27.41, "metric_aspect_ratio": 1.288, "metric_area_km2": 8.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5207085, 35.8669625 ], [ 14.5186475, 35.864128 ], [ 14.5155155, 35.861492499999983 ], [ 14.522468, 35.8535995 ], [ 14.526729, 35.846771 ], [ 14.5470423, 35.846474299999983 ], [ 14.5520345, 35.849388 ], [ 14.5495969, 35.8588869 ], [ 14.544979, 35.864147 ], [ 14.5426505, 35.8646545 ], [ 14.540313, 35.863815 ], [ 14.5344404, 35.866884899999981 ], [ 14.5268115, 35.869446 ], [ 14.5207085, 35.8669625 ] ] ] } }
+]
+}

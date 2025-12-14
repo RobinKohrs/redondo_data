@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "granges_d_ans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Granges-d'Ans", "metric_roundness": 51.34, "metric_rectangularity": 71.14, "metric_mobile_fit": 87.13, "metric_aspect_ratio": 0.691, "metric_area_km2": 24.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1063073, 45.192529399999984 ], [ 1.1286263, 45.1897886 ], [ 1.1405225, 45.1980095 ], [ 1.1336234, 45.205518 ], [ 1.1330032, 45.2202802 ], [ 1.1284635, 45.230546 ], [ 1.1150164, 45.2368296 ], [ 1.1085725, 45.234709 ], [ 1.1099794, 45.2294093 ], [ 1.1053403, 45.2236013 ], [ 1.0933755, 45.2219445 ], [ 1.0945587, 45.2135082 ], [ 1.1000865, 45.2086347 ], [ 1.101013, 45.188778 ], [ 1.1063073, 45.192529399999984 ] ] ] } }
+]
+}

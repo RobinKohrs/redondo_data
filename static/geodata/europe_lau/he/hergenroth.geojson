@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hergenroth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hergenroth", "metric_roundness": 42.29, "metric_rectangularity": 59.48, "metric_mobile_fit": 13.23, "metric_aspect_ratio": 1.43, "metric_area_km2": 4.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9802017, 50.5824917 ], [ 7.971806, 50.5885825 ], [ 7.9653138, 50.584839299999985 ], [ 7.948475, 50.585599499999987 ], [ 7.965907, 50.5744962 ], [ 7.9741557, 50.5758535 ], [ 7.9765365, 50.579995 ], [ 7.9802017, 50.5824917 ] ] ] } }
+]
+}

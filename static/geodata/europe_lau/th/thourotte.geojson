@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thourotte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thourotte", "metric_roundness": 64.56, "metric_rectangularity": 72.85, "metric_mobile_fit": 44.17, "metric_aspect_ratio": 1.121, "metric_area_km2": 9.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.879646, 49.490207 ], [ 2.861374, 49.479276 ], [ 2.874711, 49.468015499999979 ], [ 2.8810943, 49.4716394 ], [ 2.8877834, 49.468013299999974 ], [ 2.8904015, 49.471088 ], [ 2.8996575, 49.484222499999973 ], [ 2.8935084, 49.4884876 ], [ 2.8841045, 49.488076 ], [ 2.879646, 49.490207 ] ] ] } }
+]
+}

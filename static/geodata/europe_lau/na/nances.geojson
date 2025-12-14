@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nances",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nances", "metric_roundness": 53.0, "metric_rectangularity": 72.24, "metric_mobile_fit": 90.88, "metric_aspect_ratio": 0.654, "metric_area_km2": 20.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.8205305, 45.566972499999984 ], [ 5.81734, 45.579409499999983 ], [ 5.8193155, 45.5843 ], [ 5.8152205, 45.606805499999986 ], [ 5.8111345, 45.605087 ], [ 5.8089, 45.6052465 ], [ 5.806741, 45.6066195 ], [ 5.7834945, 45.595612599999988 ], [ 5.7801992, 45.591548 ], [ 5.7855877, 45.580835299999983 ], [ 5.8035885, 45.563627 ], [ 5.8205305, 45.566972499999984 ] ] ] } }
+]
+}

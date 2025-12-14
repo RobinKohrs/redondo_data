@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bous",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bous", "metric_roundness": 25.81, "metric_rectangularity": 68.87, "metric_mobile_fit": -172.73, "metric_aspect_ratio": 3.29, "metric_area_km2": 17.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.81978, 49.269710499999981 ], [ 6.8268528, 49.274405199999983 ], [ 6.8556725, 49.2721065 ], [ 6.8569475, 49.285792 ], [ 6.8497585, 49.282100099999987 ], [ 6.8429511, 49.285211199999985 ], [ 6.7981909, 49.2837486 ], [ 6.7833365, 49.286030499999988 ], [ 6.779464, 49.279342899999982 ], [ 6.7746515, 49.2776705 ], [ 6.7804685, 49.2743685 ], [ 6.81978, 49.269710499999981 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "betting",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Betting", "metric_roundness": 54.29, "metric_rectangularity": 73.84, "metric_mobile_fit": 81.55, "metric_aspect_ratio": 0.747, "metric_area_km2": 10.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.796163, 49.138952499999981 ], [ 6.802579, 49.1353455 ], [ 6.7993313, 49.129800199999977 ], [ 6.8002165, 49.1218645 ], [ 6.803414, 49.120791 ], [ 6.8088065, 49.115946 ], [ 6.8119675, 49.115233499999981 ], [ 6.8242515, 49.1221246 ], [ 6.828318, 49.129012 ], [ 6.8230969, 49.1353988 ], [ 6.8242615, 49.143357 ], [ 6.8237885, 49.1434 ], [ 6.796163, 49.138952499999981 ] ] ] } }
+]
+}

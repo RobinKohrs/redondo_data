@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_artigues_de_lussac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Artigues-de-Lussac", "metric_roundness": 50.83, "metric_rectangularity": 75.08, "metric_mobile_fit": 58.44, "metric_aspect_ratio": 0.978, "metric_area_km2": 20.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1524072, 44.9530933 ], [ -0.1418589, 44.964273399999989 ], [ -0.1293005, 44.959862499999986 ], [ -0.1164477, 44.971554499999982 ], [ -0.1180744, 44.9753578 ], [ -0.1154361, 44.979329899999989 ], [ -0.120951, 44.99042 ], [ -0.1280375, 44.994367 ], [ -0.1725005, 44.964696 ], [ -0.1524072, 44.9530933 ] ] ] } }
+]
+}

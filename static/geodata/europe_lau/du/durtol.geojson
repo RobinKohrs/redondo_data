@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "durtol",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Durtol", "metric_roundness": 33.65, "metric_rectangularity": 46.43, "metric_mobile_fit": 23.31, "metric_aspect_ratio": 1.329, "metric_area_km2": 8.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0623728, 45.796670799999987 ], [ 3.0779105, 45.805715499999984 ], [ 3.07438, 45.8069295 ], [ 3.0582618, 45.8011031 ], [ 3.0441397, 45.8031166 ], [ 3.043748, 45.806358 ], [ 3.0368376, 45.8054291 ], [ 3.0328775, 45.800716 ], [ 3.0377332, 45.7975957 ], [ 3.0401894, 45.7833111 ], [ 3.0532025, 45.786013 ], [ 3.0623728, 45.796670799999987 ] ] ] } }
+]
+}

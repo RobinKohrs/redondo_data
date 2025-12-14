@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arnara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arnara", "metric_roundness": 44.95, "metric_rectangularity": 65.62, "metric_mobile_fit": 96.15, "metric_aspect_ratio": 0.601, "metric_area_km2": 21.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.361957, 41.5950024 ], [ 13.3677385, 41.5881938 ], [ 13.3644678, 41.580272199999989 ], [ 13.38015, 41.554863 ], [ 13.3907379, 41.563619 ], [ 13.391649, 41.5726029 ], [ 13.3974144, 41.57728 ], [ 13.400847, 41.586468 ], [ 13.3991615, 41.592814 ], [ 13.3992575, 41.599734 ], [ 13.371751, 41.606606499999984 ], [ 13.359271, 41.604709 ], [ 13.361957, 41.5950024 ] ] ] } }
+]
+}

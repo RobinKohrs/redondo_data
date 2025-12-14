@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gau_algesheim_stadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gau-Algesheim, Stadt", "metric_roundness": 53.37, "metric_rectangularity": 73.38, "metric_mobile_fit": 81.51, "metric_aspect_ratio": 0.747, "metric_area_km2": 32.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9918083, 49.9248105 ], [ 8.0024075, 49.9256755 ], [ 8.0071943, 49.9303074 ], [ 8.036677, 49.9418965 ], [ 8.0375797, 49.9495705 ], [ 8.0228578, 49.9718903 ], [ 7.9829, 49.9640455 ], [ 7.983308, 49.955835499999985 ], [ 7.9936064, 49.9393688 ], [ 7.985016, 49.9336285 ], [ 7.9918083, 49.9248105 ] ] ] } }
+]
+}

@@ -1,0 +1,537 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Tatiná,tatina,ta,52.01,55.35,53.35
+europe_lau,Tasovice,tasovice,ta,66.64,72.55,40.33
+europe_lau,Tatobity,tatobity,ta,51.41,67.51,25.11
+europe_lau,Taufkirchen an der Trattnach,taufkirchen_an_der_trattnach,ta,62.23,65.58,50.32
+europe_lau,Tasov,tasov,ta,34.81,53.96,92.79
+europe_lau,Tatenice,tatenice,ta,52.23,56.74,31.92
+europe_lau,Tasov,tasov,ta,54.82,56.88,75.01
+europe_lau,Tasovice,tasovice,ta,46.31,53.61,69.21
+europe_lau,Tavíkovice,tavikovice,ta,47.66,68.85,-0.51
+europe_lau,Taiskirchen im Innkreis,taiskirchen_im_innkreis,ta,61.45,62.99,55.03
+europe_lau,Talkau,talkau,ta,52.47,58.9,73.47
+europe_lau,Tasdorf,tasdorf,ta,43.19,81.54,-8.1
+europe_lau,Tackesdorf,tackesdorf,ta,57.31,67.66,78.23
+europe_lau,Tappendorf,tappendorf,ta,31.16,60.49,5.08
+europe_lau,Tating,tating,ta,63.98,66.77,70.27
+europe_lau,Taufkirchen an der Pram,taufkirchen_an_der_pram,ta,55.05,71.82,79.05
+europe_lau,Tangstedt,tangstedt,ta,51.32,72.05,67.2
+europe_lau,Tarbek,tarbek,ta,63.14,68.39,77.69
+europe_lau,Tappenbeck,tappenbeck,ta,34.71,49.98,92.61
+europe_lau,Taarstedt,taarstedt,ta,53.59,71.24,63.21
+europe_lau,Tastrup,tastrup,ta,71.56,72.65,67.44
+europe_lau,Tarp,tarp,ta,23.46,55.15,91.04
+europe_lau,Tarmstedt,tarmstedt,ta,53.29,68.38,40.66
+europe_lau,Tangstedt,tangstedt,ta,52.7,65.75,8.19
+europe_lau,Tamsweg,tamsweg,ta,46.18,56.43,43.49
+europe_lau,"Taunusstein, Stadt",taunusstein_stadt,ta,37.61,52.78,84.32
+europe_lau,Taxenbach,taxenbach,ta,37.12,56.25,90.05
+europe_lau,"Tann (Rhön), Stadt",tann_rhon_stadt,ta,53.15,65.13,70.72
+europe_lau,Taben-Rodt,taben_rodt,ta,49.89,53.73,46.25
+europe_lau,Tawern,tawern,ta,67.87,72.69,53.81
+europe_lau,Talling,talling,ta,43.17,64.19,76.22
+europe_lau,Tamm,tamm,ta,38.05,56.22,9.31
+europe_lau,Tadten,tadten,ta,31.9,67.76,69.55
+europe_lau,Talheim,talheim,ta,35.66,54.83,-16.8
+europe_lau,Tarrenz,tarrenz,ta,40.5,59.85,57.1
+europe_lau,Talheim,talheim,ta,48.67,70.47,42.43
+europe_lau,"Tauberbischofsheim, Stadt",tauberbischofsheim_stadt,ta,47.9,53.03,80.64
+europe_lau,Täferrot,taferrot,ta,65.39,75.35,50.51
+europe_lau,Tannhausen,tannhausen,ta,33.08,52.87,-35.94
+europe_lau,"Tann, M",tann_m,ta,42.16,51.48,82.59
+europe_lau,Tannheim,tannheim,ta,53.09,69.43,40.06
+europe_lau,Taufkirchen (Vils),taufkirchen_vils,ta,36.58,47.96,29.24
+europe_lau,Tacherting,tacherting,ta,44.31,64.07,25.62
+europe_lau,Taching a.See,taching_a_see,ta,56.94,72.15,48.79
+europe_lau,Taufkirchen,taufkirchen,ta,52.76,61.43,51.25
+europe_lau,Taufkirchen,taufkirchen,ta,46.84,59.91,36.1
+europe_lau,"Tambach-Dietharz/Thür. Wald, Stadt",tambach_dietharz_thur_wald_stadt,ta,42.84,58.95,72.19
+europe_lau,"Taucha, Stadt",taucha_stadt,ta,50.34,62.74,39.95
+europe_lau,Tautenburg,tautenburg,ta,54.07,67.87,23.44
+europe_lau,Tautendorf,tautendorf,ta,29.81,53.35,92.2
+europe_lau,Tautenhain,tautenhain,ta,39.49,55.92,77.99
+europe_lau,"Tangerhütte, Stadt",tangerhutte_stadt,ta,46.96,61.35,36.45
+europe_lau,"Tangermünde, Stadt",tangermunde_stadt,ta,21.35,51.35,86.3
+europe_lau,Tagmersheim,tagmersheim,ta,41.25,69.06,0.96
+europe_lau,Tapfheim,tapfheim,ta,52.24,66.9,52.24
+europe_lau,"Tanna, Stadt",tanna_stadt,ta,40.57,54.6,-3.07
+europe_lau,Tastungen,tastungen,ta,45.77,63.35,72.72
+europe_lau,Tårnby,tarnby,ta,46.55,66.07,24
+europe_lau,Tabernas,tabernas,ta,66.42,73.14,32.4
+europe_lau,Taberno,taberno,ta,31.03,58.84,90.08
+europe_lau,Tahal,tahal,ta,32.16,60.2,83.66
+europe_lau,Tarifa,tarifa,ta,44.02,64.48,49.7
+europe_lau,Tamarón,tamaron,ta,52.62,69.81,-10.26
+europe_lau,Tardajos,tardajos,ta,37.9,53.49,43.52
+europe_lau,Tarazona de la Mancha,tarazona_de_la_mancha,ta,47.91,67.01,32.8
+europe_lau,Tavèrnoles,tavernoles,ta,40.53,55.16,11.72
+europe_lau,Tagamanent,tagamanent,ta,62.44,61.55,59.56
+europe_lau,Talamanca,talamanca,ta,30.99,61.41,-70.78
+europe_lau,Taradell,taradell,ta,55.92,63.11,28.09
+europe_lau,Tavertet,tavertet,ta,48.81,62.22,19.93
+europe_lau,Tales,tales,ta,37.04,53.3,58.08
+europe_lau,Talayuelas,talayuelas,ta,58.73,69.09,77.33
+europe_lau,Tarancón,tarancon,ta,49.68,63.29,26.83
+europe_lau,"Tallada d'Empordà, La",tallada_d_emporda_la,ta,29.43,57.84,92.72
+europe_lau,Talarrubias,talarrubias,ta,54.61,62.64,79.23
+europe_lau,Talavera la Real,talavera_la_real,ta,39.51,56.48,21.31
+europe_lau,Táliga,taliga,ta,54.81,69.06,71.63
+europe_lau,Tamurejo,tamurejo,ta,21.55,54.78,86.8
+europe_lau,"Taha, La",taha_la,ta,30.56,43.92,90.12
+europe_lau,Tàrbena,tarbena,ta,44.08,66.71,30.74
+europe_lau,Talaván,talavan,ta,34.27,50.07,79.69
+europe_lau,Talaveruela de la Vera,talaveruela_de_la_vera,ta,13.18,66.38,69.52
+europe_lau,Talayuela,talayuela,ta,31.17,35.29,50.66
+europe_lau,Tannenberg,tannenberg,ta,36.37,53.82,8.03
+europe_lau,Tauche,tauche,ta,46.53,56.13,78.92
+europe_lau,Tarnow,tarnow,ta,48.28,58.18,44.64
+europe_lau,Tallinn,tallinn,ta,41.62,52.28,23.92
+europe_lau,Tapa vald,tapa_vald,ta,30.68,41.55,-5.79
+europe_lau,Tartu linn,tartu_linn,ta,46.71,55.81,16.26
+europe_lau,Tartu vald,tartu_vald,ta,36.61,51.41,-18.38
+europe_lau,Taura,taura,ta,49.31,57.76,8.92
+europe_lau,Tauberrettersheim,tauberrettersheim,ta,66.47,70.43,71.52
+europe_lau,Tauer/Turjej,tauer_turjej,ta,46.3,71.48,98.83
+europe_lau,Tantow,tantow,ta,60.45,68.49,29.66
+europe_lau,"Tännesberg, M",tannesberg_m,ta,52.73,68.99,33.63
+europe_lau,Tannheim,tannheim,ta,45.4,66.58,98.6
+europe_lau,Taipalsaari,taipalsaari,ta,66.49,69.08,57.45
+europe_lau,Taivalkoski,taivalkoski,ta,54.34,64.58,52.04
+europe_lau,Taivassalo,taivassalo,ta,41.08,49.58,44.94
+europe_lau,Tammela,tammela,ta,55.96,63.68,74.43
+europe_lau,Tampere,tampere,ta,41.89,65.21,89.35
+europe_lau,Talairan,talairan,ta,39.71,54.82,91.26
+europe_lau,Taurize,taurize,ta,54.73,64.74,79.64
+europe_lau,Taillant,taillant,ta,42.9,63.59,92.94
+europe_lau,Taillebourg,taillebourg,ta,31.68,39.84,39.46
+europe_lau,Talmont-sur-Gironde,talmont_sur_gironde,ta,55.64,73.11,71.98
+europe_lau,Tanzac,tanzac,ta,64.68,78.77,20.7
+europe_lau,Taillecourt,taillecourt,ta,58.14,68.98,40.94
+europe_lau,Tallans,tallans,ta,34.24,66.74,86.12
+europe_lau,Taugon,taugon,ta,45.26,64.91,70.54
+europe_lau,Tallenay,tallenay,ta,39.94,76.01,55.98
+europe_lau,Tarcenay-Foucherans,tarcenay_foucherans,ta,33.69,55.9,35.86
+europe_lau,Tafers,tafers,ta,27.46,62.59,-24.09
+europe_lau,Tabuenca,tabuenca,ta,44.49,60.39,41.32
+europe_lau,Talamantes,talamantes,ta,63.13,70.08,28.71
+europe_lau,Tarazona,tarazona,ta,36.93,41.19,63.08
+europe_lau,Tauste,tauste,ta,45.14,61.09,11.17
+europe_lau,Talissieu,talissieu,ta,50.9,72.64,59.46
+europe_lau,Tabre,tabre,ta,37.03,62.29,-11.71
+europe_lau,Tarascon-sur-Ariège,tarascon_sur_ariege,ta,36.91,44.54,24.12
+europe_lau,Taurignan-Castet,taurignan_castet,ta,36.77,39.58,66.43
+europe_lau,Taurignan-Vieux,taurignan_vieux,ta,40.17,60.57,96.63
+europe_lau,Tägerwilen,tagerwilen,ta,46.7,67.02,70.32
+europe_lau,Tardes,tardes,ta,43.51,60.85,24.95
+europe_lau,Talizat,talizat,ta,48.13,62.36,94.7
+europe_lau,Tanavelle,tanavelle,ta,47.65,70.47,2.01
+europe_lau,Tartonne,tartonne,ta,60.12,73.61,49.09
+europe_lau,Talencieux,talencieux,ta,63.8,68.26,64.17
+europe_lau,Tauriers,tauriers,ta,57.12,67,20.14
+europe_lau,Tattendorf,tattendorf,ta,46.43,71.48,36.81
+europe_lau,Tailly,tailly,ta,48.06,66.86,75.8
+europe_lau,Talant,talant,ta,33.73,59.95,67.01
+europe_lau,Talmay,talmay,ta,63.68,69.33,61.89
+europe_lau,Tanay,tanay,ta,54.59,63.29,42.44
+europe_lau,Tarsul,tarsul,ta,54.01,67.67,52.66
+europe_lau,Tart-le-Bas,tart_le_bas,ta,31.46,64.41,68.49
+europe_lau,Tart,tart,ta,34.09,64.27,37.56
+europe_lau,Tauriac-de-Camarès,tauriac_de_camares,ta,57.91,64.99,25.21
+europe_lau,Tauriac-de-Naucelle,tauriac_de_naucelle,ta,50.99,64.11,37.58
+europe_lau,Taussac,taussac,ta,35.26,47.23,81.01
+europe_lau,Tayrac,tayrac,ta,53.18,67.49,76.17
+europe_lau,Tamins,tamins,ta,52.38,59.98,55.91
+europe_lau,Tägerig,tagerig,ta,64.55,77.88,60.66
+europe_lau,Tallard,tallard,ta,53.12,54.57,52.26
+europe_lau,Tamniès,tamnies,ta,48.62,64.81,40.32
+europe_lau,Target,target,ta,62.07,68.96,51.82
+europe_lau,Taxat-Senat,taxat_senat,ta,51.61,58.1,55.64
+europe_lau,Tarascon,tarascon,ta,38.08,56.66,96.44
+europe_lau,Taillefontaine,taillefontaine,ta,63.21,71.61,75.65
+europe_lau,Tannières,tannieres,ta,30.31,68.91,48.09
+europe_lau,Tartiers,tartiers,ta,48.09,66.21,77.18
+europe_lau,Tavaux-et-Pontséricourt,tavaux_et_pontsericourt,ta,57.29,69.33,77.02
+europe_lau,Tajahuerce,tajahuerce,ta,41.37,53.37,60.12
+europe_lau,Tajueco,tajueco,ta,61.6,72.77,60.99
+europe_lau,Talveila,talveila,ta,22.84,52.89,78.64
+europe_lau,Tardelcuende,tardelcuende,ta,61.92,70.31,45.29
+europe_lau,Taroda,taroda,ta,53.07,58.59,77.88
+europe_lau,Taboada,taboada,ta,49.8,66.53,28.97
+europe_lau,Tavannes,tavannes,ta,40.9,73.39,-9.02
+europe_lau,Tavernes Blanques,tavernes_blanques,ta,58.63,82.5,44.84
+europe_lau,Tavernes de la Valldigna,tavernes_de_la_valldigna,ta,56.32,72.34,68.19
+europe_lau,Tabanera de Cerrato,tabanera_de_cerrato,ta,57.89,65.16,38.93
+europe_lau,Tabanera de Valdavia,tabanera_de_valdavia,ta,55.88,69.6,51.3
+europe_lau,Támara de Campos,tamara_de_campos,ta,45.04,62.57,95.63
+europe_lau,Tariego de Cerrato,tariego_de_cerrato,ta,58.19,69.71,62.46
+europe_lau,Tamarite de Litera,tamarite_de_litera,ta,30.96,47.62,99.56
+europe_lau,Tardienta,tardienta,ta,41.37,64.72,64.16
+europe_lau,Tabanera la Luenga,tabanera_la_luenga,ta,34.17,51.56,0.89
+europe_lau,Tamajón,tamajon,ta,43.16,61.55,98.8
+europe_lau,Taragudo,taragudo,ta,59.22,72.47,80.13
+europe_lau,Taravilla,taravilla,ta,55.85,64.64,44.91
+europe_lau,Tartanedo,tartanedo,ta,53.66,58.48,54.37
+europe_lau,Tagnon,tagnon,ta,64.82,66.76,57.25
+europe_lau,Taillette,taillette,ta,38.65,60.79,42.14
+europe_lau,Tailly,tailly,ta,39.57,56.65,86.22
+europe_lau,Taizy,taizy,ta,48.6,62.79,12.07
+europe_lau,Tannay,tannay,ta,48.99,63.54,84.97
+europe_lau,Tarzy,tarzy,ta,47.04,67.21,70.49
+europe_lau,Talarn,talarn,ta,33.99,47.49,92.2
+europe_lau,Talavera,talavera,ta,46.23,55.11,37.44
+europe_lau,Tàrrega,tarrega,ta,46.89,52.34,72.21
+europe_lau,Tarrés,tarres,ta,50.04,65.4,85.58
+europe_lau,Tarroja de Segarra,tarroja_de_segarra,ta,36.8,72.22,96.25
+europe_lau,Tabera de Abajo,tabera_de_abajo,ta,53.58,64.38,65.43
+europe_lau,"Tala, La",tala_la,ta,56.08,68.57,77.47
+europe_lau,Tamames,tamames,ta,40.55,68.41,5.46
+europe_lau,Tarazona de Guareña,tarazona_de_guarena,ta,72.54,74.72,44.28
+europe_lau,Tardáguila,tardaguila,ta,34.84,56.69,94.43
+europe_lau,Tarragona,tarragona,ta,28.04,52.52,-35.91
+europe_lau,Tafalla,tafalla,ta,54.55,68.46,56.05
+europe_lau,Tábara,tabara,ta,27.98,43.85,-28.28
+europe_lau,Tapioles,tapioles,ta,68.05,70.99,27.13
+europe_lau,Talamanca de Jarama,talamanca_de_jarama,ta,37.33,56.67,72.78
+europe_lau,Talavera de la Reina,talavera_de_la_reina,ta,18.75,37.26,-82.75
+europe_lau,Tacoronte,tacoronte,ta,32.24,59.43,95.97
+europe_lau,"Tanque, El",tanque_el,ta,30.42,46.85,85.46
+europe_lau,Tazacorte,tazacorte,ta,20.9,58.32,98.52
+europe_lau,Taboadela,taboadela,ta,48.26,61.36,71.21
+europe_lau,Tamariz de Campos,tamariz_de_campos,ta,47.28,56.8,72.09
+europe_lau,Täuffelen,tauffelen,ta,39.45,62.57,78.32
+europe_lau,Tapia de Casariego,tapia_de_casariego,ta,47.81,55.04,75.33
+europe_lau,Taramundi,taramundi,ta,52.03,67.29,91.18
+europe_lau,Taller,taller,ta,44.25,64.58,93.94
+europe_lau,Tarnos,tarnos,ta,31.21,53.59,43.79
+europe_lau,Tanques,tanques,ta,24.71,52.13,82.12
+europe_lau,Tanville,tanville,ta,39.68,76.32,0.28
+europe_lau,Tailhac,tailhac,ta,42.1,60.9,78.31
+europe_lau,Taissy,taissy,ta,57.66,71.18,43.98
+europe_lau,Talus-Saint-Prix,talus_saint_prix,ta,45.2,62.73,63.56
+europe_lau,Tanconville,tanconville,ta,37.24,58.49,-4.68
+europe_lau,Tantonville,tantonville,ta,55.78,66.58,79.19
+europe_lau,Ταύρου,taurou,ta,32.83,56.83,-50.25
+europe_lau,Τάλα,tala,ta,59.5,73.07,24.97
+europe_lau,Tartas,tartas,ta,49.54,60.92,16.71
+europe_lau,Tauriac,tauriac,ta,36.52,52.31,-6.14
+europe_lau,Taillepied,taillepied,ta,47.62,63.84,45.71
+europe_lau,Tamerville,tamerville,ta,43.28,56.07,14.06
+europe_lau,Tanis,tanis,ta,42.32,59.17,76.08
+europe_lau,Tarentaise,tarentaise,ta,48.66,67.68,51.08
+europe_lau,Tartaras,tartaras,ta,53.11,63.61,36.11
+europe_lau,Tavers,tavers,ta,56.3,65.31,67.9
+europe_lau,Taillebourg,taillebourg,ta,27.2,57.07,2.01
+europe_lau,Tayrac,tayrac,ta,43.2,66.83,8.23
+europe_lau,Talcy,talcy,ta,44.45,53.89,54.17
+europe_lau,Tauxigny-Saint-Bauld,tauxigny_saint_bauld,ta,43.97,58.29,83.87
+europe_lau,Tavant,tavant,ta,34.02,49.2,5.43
+europe_lau,Tartegnin,tartegnin,ta,23.01,54.64,77.27
+europe_lau,Tavel,tavel,ta,34.52,65.39,-66.82
+europe_lau,Tachoires,tachoires,ta,23.89,52.89,-118.07
+europe_lau,Tarsac,tarsac,ta,47.3,68.99,16.64
+europe_lau,Tasque,tasque,ta,55.12,62.7,29.72
+europe_lau,Taybosc,taybosc,ta,65.01,70.06,58.7
+europe_lau,Tarnac,tarnac,ta,53.59,57.39,52.51
+europe_lau,Taussac-la-Billière,taussac_la_billiere,ta,45.34,51.55,79.84
+europe_lau,Tabanac,tabanac,ta,33.23,66.48,71.85
+europe_lau,Taillecavat,taillecavat,ta,61.83,67.89,58.29
+europe_lau,Talais,talais,ta,44.83,60.57,5.06
+europe_lau,Talence,talence,ta,55.79,68.93,87.55
+europe_lau,Targon,targon,ta,62.28,67.73,62.33
+europe_lau,Tarnès,tarnes,ta,63.21,69.84,53.47
+europe_lau,Täsch,tasch,ta,29.1,51.15,-57.3
+europe_lau,Tauriac,tauriac,ta,57.39,70.23,59.27
+europe_lau,Tayac,tayac,ta,67.65,71.93,28.65
+europe_lau,Taglio-Isolaccio,taglio_isolaccio,ta,30.03,63.33,-95.19
+europe_lau,Talasani,talasani,ta,32.9,68.33,-25.01
+europe_lau,Tallone,tallone,ta,29.29,62.29,48.82
+europe_lau,Tarrano,tarrano,ta,60.57,75.9,84.17
+europe_lau,Taulé,taule,ta,46.41,62.76,85.18
+europe_lau,Tannay,tannay,ta,21.81,61.35,-80.22
+europe_lau,Tarabel,tarabel,ta,57.91,68.18,42.07
+europe_lau,Taden,taden,ta,41.57,61.53,30.46
+europe_lau,Tasso,tasso,ta,46.31,61.99,95.79
+europe_lau,Tavaco,tavaco,ta,52.82,65.74,86.45
+europe_lau,Tavera,tavera,ta,22.22,50.32,22.62
+europe_lau,Tassenières,tassenieres,ta,52.24,60.77,67.53
+europe_lau,Tavaux,tavaux,ta,60.97,70.36,41.64
+europe_lau,Taxenne,taxenne,ta,59.97,70.09,57.11
+europe_lau,Taizé-Aizie,taize_aizie,ta,45.97,59.16,44.43
+europe_lau,Taponnat-Fleurignac,taponnat_fleurignac,ta,53.77,59.95,77.65
+europe_lau,Taillis,taillis,ta,51.84,64.32,82.78
+europe_lau,Talensac,talensac,ta,46.51,63.98,57.64
+europe_lau,Tain-l'Hermitage,tain_l_hermitage,ta,45.4,64.15,40.73
+europe_lau,Taulignan,taulignan,ta,53.72,75.24,93.8
+europe_lau,Taillades,taillades,ta,34.71,62.74,33.29
+europe_lau,Taverny,taverny,ta,43.5,58.34,62.39
+europe_lau,Tatce,tatce,ta,47.92,59.86,58.93
+europe_lau,Tancrou,tancrou,ta,29.9,63.02,-89.19
+europe_lau,Taïx,taix,ta,55.16,74.44,6.74
+europe_lau,Tanus,tanus,ta,44.87,52.03,32.12
+europe_lau,Tauriac,tauriac,ta,52.14,60.88,24
+europe_lau,Taluyers,taluyers,ta,49.12,66.93,71.36
+europe_lau,Taponas,taponas,ta,54.34,66.02,70.67
+europe_lau,Tarare,tarare,ta,35.41,56.54,56.18
+europe_lau,Tassin-la-Demi-Lune,tassin_la_demi_lune,ta,26.95,47.75,-54.61
+europe_lau,Tachlovice,tachlovice,ta,51.02,64.29,69.49
+europe_lau,Tailly,tailly,ta,35.37,60.01,-21.73
+europe_lau,Talmas,talmas,ta,56.6,70.24,36.56
+europe_lau,Taintrux,taintrux,ta,65.76,76.33,57.81
+europe_lau,Tallud-Sainte-Gemme,tallud_sainte_gemme,ta,32.87,55.31,-10.79
+europe_lau,Talmont-Saint-Hilaire,talmont_saint_hilaire,ta,63.48,69.15,37.87
+europe_lau,Tagolsheim,tagolsheim,ta,57.23,75.59,3.51
+europe_lau,Tagsdorf,tagsdorf,ta,32.8,43.37,74.66
+europe_lau,Talcy,talcy,ta,41.34,71.86,90.27
+europe_lau,Tanlay,tanlay,ta,37.09,50.87,27.19
+europe_lau,Tannerre-en-Puisaye,tannerre_en_puisaye,ta,50.23,59.9,57.93
+europe_lau,Tanneron,tanneron,ta,67.06,73.07,54.17
+europe_lau,Taradeau,taradeau,ta,45.61,62.03,87.37
+europe_lau,Tavernes,tavernes,ta,72.07,75.09,46.35
+europe_lau,Tacoignières,tacoignieres,ta,51.09,68.05,83.3
+europe_lau,Tajan,tajan,ta,26.83,51.58,72.02
+europe_lau,Talazac,talazac,ta,28.79,63.24,-46.3
+europe_lau,Tarasteix,tarasteix,ta,55.49,79.39,16.08
+europe_lau,Tarbes,tarbes,ta,46.66,63.39,79.43
+europe_lau,Tartécourt,tartecourt,ta,27.99,56.34,-15.99
+europe_lau,Taupont,taupont,ta,41.62,61.52,99.18
+europe_lau,Talmontiers,talmontiers,ta,51.33,69.04,60.49
+europe_lau,Tartigny,tartigny,ta,47.94,70.75,23.23
+europe_lau,Tallende,tallende,ta,39.35,76.66,90.87
+europe_lau,Tauves,tauves,ta,56.23,71.35,18.04
+europe_lau,Taillancourt,taillancourt,ta,28.63,55.84,45.4
+europe_lau,Tannois,tannois,ta,35.39,51.45,91.42
+europe_lau,Taillet,taillet,ta,42.09,65.32,14.22
+europe_lau,Tarerach,tarerach,ta,41.05,60.32,81.79
+europe_lau,Targassonne,targassonne,ta,55.95,70.11,57.63
+europe_lau,Taulis,taulis,ta,31.53,58.49,14.74
+europe_lau,Taurinya,taurinya,ta,21.49,59.66,91.31
+europe_lau,Tautavel,tautavel,ta,41.11,60.45,-8.12
+europe_lau,Taconnay,taconnay,ta,42.41,58.36,95.67
+europe_lau,Talon,talon,ta,42.92,55.21,51.26
+europe_lau,Tamnay-en-Bazois,tamnay_en_bazois,ta,68.04,74.25,60.56
+europe_lau,Tannay,tannay,ta,50.72,79.76,6.34
+europe_lau,Tazilly,tazilly,ta,50.31,59.11,45.63
+europe_lau,Taizé,taize,ta,50.1,67.83,-7.84
+europe_lau,Tancon,tancon,ta,28.67,51.49,54.26
+europe_lau,Tavernay,tavernay,ta,55.72,76.76,79.8
+europe_lau,Taisnières-en-Thiérache,taisnieres_en_thierache,ta,63.5,74.15,59.68
+europe_lau,Taisnières-sur-Hon,taisnieres_sur_hon,ta,46.54,66.15,46.06
+europe_lau,Tassé,tasse,ta,40.38,55.46,-15.43
+europe_lau,Tancarville,tancarville,ta,35.8,46.31,92.33
+europe_lau,Talange,talange,ta,54.83,65.07,57.32
+europe_lau,Tarquimpol,tarquimpol,ta,62.83,68.79,48.88
+europe_lau,Tassillé,tassille,ta,61.14,71.45,54.89
+europe_lau,Tabaille-Usquain,tabaille_usquain,ta,25.53,56.05,-100.83
+europe_lau,Tadousse-Ussau,tadousse_ussau,ta,55.97,83.68,80.94
+europe_lau,Tardets-Sorholus,tardets_sorholus,ta,50.91,74.03,33.24
+europe_lau,Taron-Sadirac-Viellenave,taron_sadirac_viellenave,ta,58.41,60.8,58.6
+europe_lau,Tarsacq,tarsacq,ta,42.49,69.77,64.57
+europe_lau,Tangry,tangry,ta,58.96,71.45,59.95
+europe_lau,Talloires-Montmin,talloires_montmin,ta,37.19,62.55,61.58
+europe_lau,Taninges,taninges,ta,52.15,59.1,61.51
+europe_lau,Tardinghen,tardinghen,ta,55.95,71.2,26.4
+europe_lau,Taglio di Po,taglio_di_po,ta,9.4,32.73,55.98
+europe_lau,Tarnobrzeg,tarnobrzeg,ta,30.78,65.68,70.2
+europe_lau,Tagliacozzo,tagliacozzo,ta,34.51,48.84,29.47
+europe_lau,Tandel,tandel,ta,63.42,71.89,48.15
+europe_lau,Tachov,tachov,ta,47.9,56,39.09
+europe_lau,Taibon Agordino,taibon_agordino,ta,32.62,60.93,59.74
+europe_lau,Tambre,tambre,ta,34.28,46.43,85.03
+europe_lau,Tarnów Opolski,tarnow_opolski,ta,38.21,64.37,-23.44
+europe_lau,Taipana,taipana,ta,42.67,63.78,57.92
+europe_lau,Talmassons,talmassons,ta,60.36,66.78,62.85
+europe_lau,Tarcento,tarcento,ta,55.47,71.24,78.74
+europe_lau,Tarvisio,tarvisio,ta,54.71,63.08,60.34
+europe_lau,Tavagnacco,tavagnacco,ta,46.97,57.59,60.47
+europe_lau,Taranto,taranto,ta,39.61,47.72,48.38
+europe_lau,Taverna,taverna,ta,40.61,48.66,73.07
+europe_lau,Taleggio,taleggio,ta,56.08,70.96,86.51
+europe_lau,Tavernola Bergamasca,tavernola_bergamasca,ta,48.94,59.48,79.02
+europe_lau,Tarzo,tarzo,ta,56.87,66.65,58.52
+europe_lau,Tachov,tachov,ta,46.41,62.77,79.22
+europe_lau,Taurano,taurano,ta,32.07,54.8,-14.73
+europe_lau,Taurasi,taurasi,ta,47.62,65.61,94.31
+europe_lau,Taurianova,taurianova,ta,58.26,66.26,24.07
+europe_lau,Taurisano,taurisano,ta,42.05,56.79,81.27
+europe_lau,Taviano,taviano,ta,35.76,53.48,-5.93
+europe_lau,Tarczyn,tarczyn,ta,46.69,61.59,6.58
+europe_lau,Taranta Peligna,taranta_peligna,ta,20.81,56.66,72.24
+europe_lau,Tarnowiec,tarnowiec,ta,53.89,67.5,84.4
+europe_lau,Talamona,talamona,ta,48.13,66.08,86.95
+europe_lau,Tartano,tartano,ta,37.76,54.75,83.61
+europe_lau,Tavoleto,tavoleto,ta,35.16,49.88,36.08
+europe_lau,Tavullia,tavullia,ta,27.4,38.82,56
+europe_lau,Tavazzano con Villavesco,tavazzano_con_villavesco,ta,52.47,58.73,49.1
+europe_lau,Taormina,taormina,ta,24.77,43.69,47.42
+europe_lau,Tavernole sul Mella,tavernole_sul_mella,ta,46.55,67.51,20.53
+europe_lau,Talamello,talamello,ta,67.58,74.65,41.58
+europe_lau,Tavenna,tavenna,ta,50.01,63.18,37.59
+europe_lau,Tarnówka,tarnowka,ta,49.09,63.32,75.6
+europe_lau,Tarnowo Podgórne,tarnowo_podgorne,ta,43.17,56.58,22.14
+europe_lau,Tauragės rajono savivaldybė,taurages_rajono_savivaldybe,ta,46.39,56.18,15.97
+europe_lau,Tass,tass,ta,29.28,58.5,31.69
+europe_lau,Tárkány,tarkany,ta,48.74,57.77,47.08
+europe_lau,Tarsia,tarsia,ta,48.53,59.12,68.11
+europe_lau,Tápiószőlős,tapioszolos,ta,59.34,76.68,60.83
+europe_lau,Tarnaszentmiklós,tarnaszentmiklos,ta,56.31,67,54.76
+europe_lau,Tanakajd,tanakajd,ta,28.2,69.96,81.09
+europe_lau,Taksony,taksony,ta,42.85,75.08,51.67
+europe_lau,Tarano,tarano,ta,49.82,58.59,57.05
+europe_lau,Tállya,tallya,ta,34.87,56.86,44.62
+europe_lau,Tarany,tarany,ta,55.39,68.46,76.16
+europe_lau,Tard,tard,ta,59.38,68.03,82.31
+europe_lau,Tatrovice,tatrovice,ta,65.9,68.73,64.62
+europe_lau,Taktaszada,taktaszada,ta,38.87,53.74,34.08
+europe_lau,Tarcal,tarcal,ta,59.77,75.8,77.38
+europe_lau,Tagliolo Monferrato,tagliolo_monferrato,ta,28.77,59.21,88.74
+europe_lau,Tassarolo,tassarolo,ta,58.4,75.19,47.39
+europe_lau,Taino,taino,ta,67.12,79.99,66.95
+europe_lau,Taktabáj,taktabaj,ta,39.37,65.26,25.2
+europe_lau,Tagyon,tagyon,ta,46.46,66.08,37.09
+europe_lau,Tarnazsadány,tarnazsadany,ta,48.4,65.79,5.22
+europe_lau,Tápiószecső,tapioszecso,ta,44.9,62.16,76.21
+europe_lau,Tahitótfalu,tahitotfalu,ta,39.05,47.51,58.85
+europe_lau,Tallaght Central,tallaght_central,ta,53.18,62.23,59.9
+europe_lau,Tallaght South,tallaght_south,ta,39.13,61.76,95.05
+europe_lau,Takácsi,takacsi,ta,46.11,65.3,84.68
+europe_lau,Tarnalelesz,tarnalelesz,ta,17.26,31.86,87.42
+europe_lau,Tápiógyörgye,tapiogyorgye,ta,47.46,62.2,81.15
+europe_lau,Taliándörögd,taliandorogd,ta,50.41,58.58,49.91
+europe_lau,Táplánszentkereszt,taplanszentkereszt,ta,43.53,79.61,95.15
+europe_lau,Táborfalva,taborfalva,ta,39.08,45.46,46.54
+europe_lau,Tab,tab,ta,47.75,60.63,32.66
+europe_lau,Tát,tat,ta,42.59,59.72,-11.95
+europe_lau,Tarnaszentmária,tarnaszentmaria,ta,53.02,62.74,62.4
+europe_lau,Tápszentmiklós,tapszentmiklos,ta,42.45,60.53,81.56
+europe_lau,Tatárszentgyörgy,tatarszentgyorgy,ta,54.76,63.17,59.38
+europe_lau,Tárnok,tarnok,ta,55.95,75.66,48.83
+europe_lau,Tarnaméra,tarnamera,ta,43.67,63.61,69.26
+europe_lau,Tarpa,tarpa,ta,47.94,62.1,17.36
+europe_lau,Táska,taska,ta,19.92,50.46,77.94
+europe_lau,Tatabánya,tatabanya,ta,51.68,68.51,69.12
+europe_lau,Taktaharkány,taktaharkany,ta,53.6,71.98,29.62
+europe_lau,Tarantasca,tarantasca,ta,35.83,58.9,96.71
+europe_lau,Talla,talla,ta,50.7,63.4,35.55
+europe_lau,Tápióság,tapiosag,ta,56.17,75.2,66.32
+europe_lau,Tarnaörs,tarnaors,ta,37.18,71.95,15.16
+europe_lau,Tápiószele,tapioszele,ta,41.36,53.1,69.94
+europe_lau,Táp,tap,ta,39.71,65.9,68.21
+europe_lau,Tavagnasco,tavagnasco,ta,49.2,70.79,4.33
+europe_lau,Taszár,taszar,ta,60.64,73.67,62.03
+europe_lau,Taggia,taggia,ta,37.29,51.93,83.96
+europe_lau,Tavernerio,tavernerio,ta,42.72,64.38,99.89
+europe_lau,Tar,tar,ta,41.57,57.47,13.9
+europe_lau,Tarnabod,tarnabod,ta,36.21,59.76,-24.15
+europe_lau,Tarhos,tarhos,ta,58.35,75.33,35.18
+europe_lau,Tabajd,tabajd,ta,56.97,89.77,51.02
+europe_lau,Tataháza,tatahaza,ta,55.86,85.09,54.03
+europe_lau,Tápiószentmárton,tapioszentmarton,ta,40.48,57.96,62.06
+europe_lau,Tardona,tardona,ta,53.56,72.16,33.2
+europe_lau,Tarján,tarjan,ta,59.37,66.46,57.15
+europe_lau,Tábor,tabor,ta,50.94,67.78,11.32
+europe_lau,Tápióbicske,tapiobicske,ta,57.85,73.99,80.82
+europe_lau,Taktakenéz,taktakenez,ta,71.47,79.65,40.49
+europe_lau,Tác,tac,ta,44.24,68.84,44.98
+europe_lau,Tapolca,tapolca,ta,41.96,48.99,44.16
+europe_lau,Tálknafjarðarhreppur,talknafjardarhreppur,ta,29.13,55.11,52.52
+europe_lau,Tamási,tamasi,ta,37.75,55.97,92.62
+europe_lau,Tapsony,tapsony,ta,54.2,68.15,67.8
+europe_lau,Tázlár,tazlar,ta,60.27,72.6,61.83
+europe_lau,Tarjánpuszta,tarjanpuszta,ta,36.04,59.65,96.78
+europe_lau,Tar-Vabriga - Torre-Abrega,tar_vabriga_torre_abrega,ta,47.11,58.62,54.33
+europe_lau,Tarrós,tarros,ta,51.33,58.87,43.9
+europe_lau,Tata,tata,ta,61.62,66.81,68.59
+europe_lau,Tarquinia,tarquinia,ta,54.44,62.98,71.13
+europe_lau,Tákos,takos,ta,48.96,63,39.83
+europe_lau,Tardos,tardos,ta,39.76,64.06,91.65
+europe_lau,Tálín,talin,ta,51.79,65.97,40.78
+europe_lau,Tabdi,tabdi,ta,39.22,51.38,5.85
+europe_lau,Tajov,tajov,ta,24.76,44.14,-56.82
+europe_lau,Tarcea,tarcea,ta,50.56,62.99,75.99
+europe_lau,Tărcaia,tarcaia,ta,26.02,59.99,60.71
+europe_lau,Tăuteu,tauteu,ta,50.43,59.9,83.33
+europe_lau,Tămăşeu,tamaseu,ta,50.07,70.41,46.36
+europe_lau,Ţaga,taga,ta,36.31,55.19,-13.33
+europe_lau,Tatranská Javorina,tatranska_javorina,ta,34.96,62.08,92.61
+europe_lau,Tabor,tabor,ta,63,67.3,67.41
+europe_lau,Târlişua,tarlisua,ta,51.13,64.95,91.56
+europe_lau,Tătuleşti,tatulesti,ta,52.51,64.2,66.61
+europe_lau,Ťapešovo,tapesovo,ta,44.51,69.97,71.92
+europe_lau,Târguşor,targusor,ta,33.59,61.34,18.12
+europe_lau,Ţânţăreni,tantareni,ta,23.12,53.15,57.57
+europe_lau,Tašuľa,tasula,ta,43.16,65.27,25.56
+europe_lau,Taíde,taide,ta,27.7,50.59,37.15
+europe_lau,Tajná,tajna,ta,52.54,68.29,28.47
+europe_lau,Târgşoru Vechi,targsoru_vechi,ta,53.18,62.85,43.52
+europe_lau,Tărlungeni,tarlungeni,ta,29.5,62.18,39.98
+europe_lau,Täby,taby,ta,65.07,72.14,64.2
+europe_lau,Tancos,tancos,ta,25.29,49.03,65.57
+europe_lau,Tachty,tachty,ta,30.04,59.35,51.24
+europe_lau,Tabuaças,tabuacas,ta,49.71,60.19,56.12
+europe_lau,Tarnov,tarnov,ta,42.21,52.27,54.87
+europe_lau,Talea,talea,ta,45.47,52.51,62.25
+europe_lau,Tătaru,tataru,ta,46.34,48.91,43.55
+europe_lau,Tătărani,tatarani,ta,40.39,58.53,6.61
+europe_lau,Tanum,tanum,ta,44.83,64.3,88
+europe_lau,Tašov,tasov,ta,53.14,69.18,3.96
+europe_lau,Tamaşi,tamasi,ta,62.89,68.67,68.61
+europe_lau,Tătărăşti,tatarasti,ta,40.04,68.99,94.7
+europe_lau,Târgu Trotuş,targu_trotus,ta,52.52,67.62,61.16
+europe_lau,Târnova,tarnova,ta,50.09,67.63,7.68
+europe_lau,Tălpaş,talpas,ta,50.84,68.74,90.91
+europe_lau,Tansa,tansa,ta,32.24,45.74,60.78
+europe_lau,Tătăruşi,tatarusi,ta,42.6,61.61,48.29
+europe_lau,Tămădău Mare,tamadau_mare,ta,41.84,61.69,87.12
+europe_lau,Tărtăşeşti,tartasesti,ta,37.08,77.03,66.11
+europe_lau,Tănăsoaia,tanasoaia,ta,44.8,65.13,-16.64
+europe_lau,Tătăranu,tataranu,ta,66.24,72.76,53.56
+europe_lau,Tâmboeşti,tamboesti,ta,26.27,57.11,-42.78
+europe_lau,Tarłów,tarlow,ta,45.42,61.29,59.54
+europe_lau,Tabuaço,tabuaco,ta,51.24,59.19,37.59
+europe_lau,Tadasuni,tadasuni,ta,26.5,53.83,95.72
+europe_lau,Tarnogród,tarnogrod,ta,38.16,57.85,-28.04
+europe_lau,Tabua,tabua,ta,19.36,64.41,96.9
+europe_lau,Talhadas,talhadas,ta,63.98,70.88,43.02
+europe_lau,Tavigliano,tavigliano,ta,22.82,60.69,74.51
+europe_lau,Tâmna,tamna,ta,57.08,65.71,64.99
+europe_lau,Talsu novads,talsu_novads,ta,65.32,63.99,59.01
+europe_lau,Tarnawatka,tarnawatka,ta,47.13,67.5,3.87
+europe_lau,Talpa,talpa,ta,50.64,63.56,53.76
+europe_lau,Tătărăştii de Jos,tatarastii_de_jos,ta,44.62,54.13,87.35
+europe_lau,Tătărăştii de Sus,tatarastii_de_sus,ta,43.14,66.05,51.1
+europe_lau,Tarnów,tarnow,ta,33.34,61.71,-4.67
+europe_lau,Tarnów,tarnow,ta,62.59,68.64,19.63
+europe_lau,Taceno,taceno,ta,38.9,58.65,89.88
+europe_lau,Tal-Pieta',tal_pieta,ta,67.14,77.43,70.68
+europe_lau,Tas-Sliema,tas_sliema,ta,45.29,64.54,17.53
+europe_lau,Ta' Xbiex,ta_xbiex,ta,52.17,73.66,2.61
+europe_lau,Tanvald,tanvald,ta,35.72,71,-6.38
+europe_lau,Tarna Mare,tarna_mare,ta,38.23,62.92,-16.07
+europe_lau,Târşolţ,tarsolt,ta,45.06,57.82,38.08
+europe_lau,Tăureni,taureni,ta,46.75,68.02,64.12
+europe_lau,Tarnowskie Góry,tarnowskie_gory,ta,50.9,62.09,86.25
+europe_lau,Talana,talana,ta,31.18,51.46,32.74
+europe_lau,Tabuado,tabuado,ta,70.25,74.42,56.7
+europe_lau,Ta' Kerċem,ta_kercem,ta,50,58.3,17.71
+europe_lau,Ta' Sannat,ta_sannat,ta,35.42,72.6,-27.34
+europe_lau,Tangil,tangil,ta,57.38,70.97,65.72
+europe_lau,Tavarede,tavarede,ta,70.11,74.71,61.89
+europe_lau,Tamel (São Veríssimo),tamel_sao_verissimo,ta,38.99,61.17,92.07
+europe_lau,Tadim,tadim,ta,49.23,56.23,63.5
+europe_lau,Târnava,tarnava,ta,50.88,61.25,58.06
+europe_lau,Tanacu,tanacu,ta,38.05,52.67,83.73
+europe_lau,Tăcuta,tacuta,ta,33.63,59.57,60.59
+europe_lau,Tătărăni,tatarani,ta,54.91,71.7,76.97
+europe_lau,Tarouquela,tarouquela,ta,48.13,65.4,48.88
+europe_lau,Tamanhos,tamanhos,ta,56.18,69.14,22.19
+europe_lau,Tarcău,tarcau,ta,55.75,65.04,83.46
+europe_lau,Taşca,tasca,ta,53.91,64.78,53.38
+europe_lau,Tauţ,taut,ta,58.68,64.28,63.4
+europe_lau,Tazlău,tazlau,ta,46.87,68.95,-20.49
+europe_lau,Tămăşeni,tamaseni,ta,43.45,73.06,75.46
+europe_lau,Târnova,tarnova,ta,62.33,66.4,71.61
+europe_lau,Talhas,talhas,ta,60.66,74.62,82.47
+europe_lau,Tapéus,tapeus,ta,38.98,66.39,-31.59
+europe_lau,Tábua,tabua,ta,54.24,63.71,26.6
+europe_lau,Tárnokréti,tarnokreti,ta,40.82,66.9,25.25
+europe_lau,Tarsdorf,tarsdorf,ta,61.76,69.55,60.43

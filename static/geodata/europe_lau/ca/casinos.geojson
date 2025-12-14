@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "casinos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Casinos", "metric_roundness": 60.09, "metric_rectangularity": 77.3, "metric_mobile_fit": 37.69, "metric_aspect_ratio": 1.186, "metric_area_km2": 69.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7462377, 39.6676891 ], [ -0.6962475, 39.688636099999982 ], [ -0.6886616, 39.6969369 ], [ -0.7053356, 39.709747299999982 ], [ -0.7147483, 39.7254537 ], [ -0.7349194, 39.735567 ], [ -0.7932585, 39.7203715 ], [ -0.78983, 39.704631499999984 ], [ -0.7893595, 39.698181 ], [ -0.7462377, 39.6676891 ] ] ] } }
+]
+}

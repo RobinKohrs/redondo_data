@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mittelpollnitz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mittelpöllnitz", "metric_roundness": 44.46, "metric_rectangularity": 66.46, "metric_mobile_fit": 54.86, "metric_aspect_ratio": 1.014, "metric_area_km2": 12.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.9194134, 50.7647607 ], [ 11.89753, 50.758946 ], [ 11.902031, 50.744907 ], [ 11.9045005, 50.745903 ], [ 11.9075025, 50.7454575 ], [ 11.9115955, 50.7455265 ], [ 11.9135865, 50.745597499999981 ], [ 11.920624, 50.747641 ], [ 11.9214832, 50.756040199999987 ], [ 11.9384294, 50.7589435 ], [ 11.9426979, 50.765775399999988 ], [ 11.9312572, 50.7730891 ], [ 11.919923, 50.7721545 ], [ 11.9194134, 50.7647607 ] ] ] } }
+]
+}

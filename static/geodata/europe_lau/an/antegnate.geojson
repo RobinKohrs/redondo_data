@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "antegnate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Antegnate", "metric_roundness": 46.75, "metric_rectangularity": 65.5, "metric_mobile_fit": 10.75, "metric_aspect_ratio": 1.455, "metric_area_km2": 19.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7911902, 45.475219599999988 ], [ 9.829748, 45.4820225 ], [ 9.8247565, 45.5007495 ], [ 9.8084151, 45.498409899999984 ], [ 9.8029084, 45.501168 ], [ 9.7922521, 45.500230699999982 ], [ 9.7650515, 45.484805499999986 ], [ 9.7836222, 45.478792 ], [ 9.7869705, 45.4699935 ], [ 9.7911902, 45.475219599999988 ] ] ] } }
+]
+}

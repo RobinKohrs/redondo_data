@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "emtinghausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Emtinghausen", "metric_roundness": 51.63, "metric_rectangularity": 63.88, "metric_mobile_fit": 89.27, "metric_aspect_ratio": 0.67, "metric_area_km2": 58.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0013548, 52.9310761 ], [ 8.9964108, 52.9352992 ], [ 8.9951975, 52.9409486 ], [ 8.970704, 52.952582 ], [ 8.9513738, 52.9352347 ], [ 8.930196, 52.926457 ], [ 8.9376371, 52.907606099999988 ], [ 8.9453546, 52.8986113 ], [ 8.9514092, 52.896757199999975 ], [ 8.9521305, 52.8889085 ], [ 8.9657282, 52.896890199999987 ], [ 8.9818035, 52.888527499999988 ], [ 8.9896425, 52.8980428 ], [ 9.00115, 52.92496 ], [ 9.0013548, 52.9310761 ] ] ] } }
+]
+}

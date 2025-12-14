@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mont_dauphin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mont-Dauphin", "metric_roundness": 52.89, "metric_rectangularity": 70.07, "metric_mobile_fit": 66.81, "metric_aspect_ratio": 0.894, "metric_area_km2": 1.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.623886, 44.6634796 ], [ 6.6308519, 44.6721854 ], [ 6.6249409, 44.6738068 ], [ 6.6178635, 44.6693907 ], [ 6.623886, 44.6634796 ] ] ] } }
+]
+}

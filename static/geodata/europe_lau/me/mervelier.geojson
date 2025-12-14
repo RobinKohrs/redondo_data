@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mervelier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mervelier", "metric_roundness": 49.24, "metric_rectangularity": 66.1, "metric_mobile_fit": 14.19, "metric_aspect_ratio": 1.421, "metric_area_km2": 20.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.543927, 47.347589 ], [ 7.539507, 47.34744 ], [ 7.5368255, 47.350185499999988 ], [ 7.5217949, 47.3478501 ], [ 7.5022867, 47.353807199999984 ], [ 7.486932, 47.347991 ], [ 7.4879289, 47.3364968 ], [ 7.4979471, 47.335998 ], [ 7.5065445, 47.3283984 ], [ 7.5277405, 47.32267 ], [ 7.5344623, 47.333748799999981 ], [ 7.5488062, 47.340659699999989 ], [ 7.552207, 47.345296499999982 ], [ 7.543927, 47.347589 ] ] ] } }
+]
+}

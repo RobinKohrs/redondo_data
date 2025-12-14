@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "auzebosc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Auzebosc", "metric_roundness": 54.63, "metric_rectangularity": 70.63, "metric_mobile_fit": 64.74, "metric_aspect_ratio": 0.915, "metric_area_km2": 11.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7230669, 49.608359799999981 ], [ 0.7148792, 49.601493499999982 ], [ 0.7159759, 49.5974649 ], [ 0.713438, 49.5947995 ], [ 0.727344, 49.5925235 ], [ 0.7243885, 49.587669 ], [ 0.7284, 49.587947 ], [ 0.7330445, 49.587434499999986 ], [ 0.7372877, 49.59361429999997 ], [ 0.7486099, 49.5974522 ], [ 0.7521815, 49.605276 ], [ 0.7461005, 49.6089375 ], [ 0.7436985, 49.614874499999985 ], [ 0.7230669, 49.608359799999981 ] ] ] } }
+]
+}

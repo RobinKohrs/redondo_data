@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ruppach_goldhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ruppach-Goldhausen", "metric_roundness": 52.79, "metric_rectangularity": 72.96, "metric_mobile_fit": 4.06, "metric_aspect_ratio": 1.522, "metric_area_km2": 10.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.898222, 50.456551 ], [ 7.905824, 50.4672565 ], [ 7.8829254, 50.471895599999968 ], [ 7.864644, 50.467843 ], [ 7.860691, 50.462377499999988 ], [ 7.8656836, 50.456814199999982 ], [ 7.8769296, 50.4569755 ], [ 7.879381, 50.453017499999987 ], [ 7.898222, 50.456551 ] ] ] } }
+]
+}

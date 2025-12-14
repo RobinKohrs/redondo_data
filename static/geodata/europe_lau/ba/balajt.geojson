@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "balajt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Balajt", "metric_roundness": 52.37, "metric_rectangularity": 72.49, "metric_mobile_fit": 22.48, "metric_aspect_ratio": 1.338, "metric_area_km2": 20.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7729985, 48.316628599999987 ], [ 20.7930294, 48.3134831 ], [ 20.804821, 48.315101 ], [ 20.827086, 48.3358135 ], [ 20.8242935, 48.337650499999988 ], [ 20.8174015, 48.344405699999989 ], [ 20.802932, 48.342740899999988 ], [ 20.7871689, 48.3327335 ], [ 20.7779973, 48.3336019 ], [ 20.7695905, 48.330092 ], [ 20.764867, 48.3274195 ], [ 20.7729985, 48.316628599999987 ] ] ] } }
+]
+}

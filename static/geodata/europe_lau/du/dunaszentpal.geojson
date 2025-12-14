@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dunaszentpal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dunaszentpál", "metric_roundness": 57.48, "metric_rectangularity": 63.55, "metric_mobile_fit": 37.85, "metric_aspect_ratio": 1.184, "metric_area_km2": 21.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5148335, 47.791782 ], [ 17.5128141, 47.7863733 ], [ 17.5078992, 47.7833639 ], [ 17.4755724, 47.784308899999985 ], [ 17.4679951, 47.7812574 ], [ 17.46521, 47.775101499999984 ], [ 17.467842, 47.7721065 ], [ 17.5001034, 47.7576831 ], [ 17.51748, 47.76031 ], [ 17.5167918, 47.7656874 ], [ 17.5255671, 47.779361099999981 ], [ 17.515478, 47.7919425 ], [ 17.5148335, 47.791782 ] ] ] } }
+]
+}

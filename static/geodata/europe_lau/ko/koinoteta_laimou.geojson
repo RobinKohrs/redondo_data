@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_laimou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Λαιμού", "metric_roundness": 49.23, "metric_rectangularity": 65.16, "metric_mobile_fit": 23.89, "metric_aspect_ratio": 1.324, "metric_area_km2": 54.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.154091, 40.8288769 ], [ 21.1419233, 40.8442096 ], [ 21.1431796, 40.849847 ], [ 21.152443, 40.8569435 ], [ 21.119612, 40.854683 ], [ 21.0711025, 40.8550245 ], [ 21.07064, 40.8227406 ], [ 21.0770825, 40.8142715 ], [ 21.0861825, 40.8063905 ], [ 21.093884, 40.8020625 ], [ 21.1081379, 40.813856199999989 ], [ 21.1177335, 40.8168868 ], [ 21.1666385, 40.8197245 ], [ 21.154091, 40.8288769 ] ] ] } }
+]
+}

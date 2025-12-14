@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "avondance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Avondance", "metric_roundness": 60.39, "metric_rectangularity": 84.96, "metric_mobile_fit": 52.55, "metric_aspect_ratio": 1.037, "metric_area_km2": 5.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1071688, 50.4851181 ], [ 2.098514, 50.4868578 ], [ 2.087679, 50.484917 ], [ 2.0950467, 50.473091899999986 ], [ 2.1016117, 50.4708359 ], [ 2.1082375, 50.472692 ], [ 2.113789, 50.475977 ], [ 2.1071688, 50.4851181 ] ] ] } }
+]
+}

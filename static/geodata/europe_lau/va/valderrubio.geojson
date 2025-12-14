@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valderrubio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valderrubio", "metric_roundness": 41.73, "metric_rectangularity": 72.46, "metric_mobile_fit": 95.09, "metric_aspect_ratio": 0.513, "metric_area_km2": 8.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.832389, 37.2329235 ], [ -3.8241785, 37.220962 ], [ -3.8236225, 37.216432399999988 ], [ -3.818862, 37.2182103 ], [ -3.8106191, 37.2312323 ], [ -3.8155553, 37.238584 ], [ -3.8129629, 37.2454506 ], [ -3.8181458, 37.2524661 ], [ -3.8338545, 37.2499355 ], [ -3.832389, 37.2329235 ] ] ] } }
+]
+}

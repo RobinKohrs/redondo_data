@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_palaiou_loutrou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Παλαιού Λουτρού", "metric_roundness": 29.58, "metric_rectangularity": 75.59, "metric_mobile_fit": 66.74, "metric_aspect_ratio": 0.895, "metric_area_km2": 4.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7833015, 37.111853 ], [ 21.7790815, 37.1175675 ], [ 21.7730285, 37.12278 ], [ 21.7709, 37.125043 ], [ 21.7591145, 37.136170499999984 ], [ 21.7545615, 37.1269135 ], [ 21.7697555, 37.1106157 ], [ 21.784029, 37.109921 ], [ 21.7833015, 37.111853 ] ] ] } }
+]
+}

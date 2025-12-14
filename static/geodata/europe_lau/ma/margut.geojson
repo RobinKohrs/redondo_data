@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "margut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Margut", "metric_roundness": 52.03, "metric_rectangularity": 78.08, "metric_mobile_fit": 18.68, "metric_aspect_ratio": 1.376, "metric_area_km2": 18.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.245045, 49.591398 ], [ 5.2466965, 49.590046 ], [ 5.2442768, 49.5807909 ], [ 5.2595477, 49.570939599999988 ], [ 5.2638705, 49.568151 ], [ 5.2721655, 49.570172099999986 ], [ 5.292647, 49.568007499999979 ], [ 5.2915754, 49.5834833 ], [ 5.2949875, 49.5868765 ], [ 5.2921505, 49.591908499999981 ], [ 5.261473, 49.590489 ], [ 5.2595477, 49.5905955 ], [ 5.245045, 49.591398 ] ] ] } }
+]
+}

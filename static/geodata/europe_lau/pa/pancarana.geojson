@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pancarana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pancarana", "metric_roundness": 61.65, "metric_rectangularity": 78.22, "metric_mobile_fit": 27.22, "metric_aspect_ratio": 1.29, "metric_area_km2": 10.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0347312, 45.061270799999988 ], [ 9.0541975, 45.0624605 ], [ 9.055015, 45.067924199999979 ], [ 9.066931, 45.069241499999983 ], [ 9.0675606, 45.0748576 ], [ 9.0639345, 45.081738 ], [ 9.062213, 45.083647499999984 ], [ 9.0577915, 45.0836855 ], [ 9.044555, 45.080595 ], [ 9.0299367, 45.075428 ], [ 9.0266061, 45.0711806 ], [ 9.029562, 45.069022499999988 ], [ 9.0347312, 45.061270799999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "satteins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Satteins", "metric_roundness": 54.74, "metric_rectangularity": 77.64, "metric_mobile_fit": 47.45, "metric_aspect_ratio": 1.088, "metric_area_km2": 27.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.683923, 47.2173255 ], [ 9.69135, 47.2245905 ], [ 9.694453, 47.227812 ], [ 9.6966325, 47.2316465 ], [ 9.6995175, 47.233225 ], [ 9.706628, 47.237116 ], [ 9.708507, 47.238913 ], [ 9.6946184, 47.2489038 ], [ 9.6633105, 47.243644499999988 ], [ 9.6583665, 47.239023499999988 ], [ 9.6471446, 47.234720099999976 ], [ 9.6390235, 47.226061499999979 ], [ 9.6566585, 47.2160355 ], [ 9.669397, 47.205536 ], [ 9.683923, 47.2173255 ] ] ] } }
+]
+}

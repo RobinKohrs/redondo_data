@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rochetrejoux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rochetrejoux", "metric_roundness": 50.9, "metric_rectangularity": 65.42, "metric_mobile_fit": 29.24, "metric_aspect_ratio": 1.27, "metric_area_km2": 20.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9784781, 46.772876599999982 ], [ -0.964963, 46.7761816 ], [ -0.9672851, 46.7819934 ], [ -0.9809833, 46.791584799999981 ], [ -0.9857167, 46.8004655 ], [ -0.999757, 46.803856 ], [ -1.0285027, 46.7811745 ], [ -0.987141, 46.771491 ], [ -0.9814935, 46.769602499999984 ], [ -0.9784781, 46.772876599999982 ] ] ] } }
+]
+}

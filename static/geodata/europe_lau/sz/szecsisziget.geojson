@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szecsisziget",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szécsisziget", "metric_roundness": 50.65, "metric_rectangularity": 64.37, "metric_mobile_fit": 72.67, "metric_aspect_ratio": 0.836, "metric_area_km2": 12.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6124108, 46.5761793 ], [ 16.6082156, 46.582709499999986 ], [ 16.6093186, 46.5906368 ], [ 16.5999513, 46.5889003 ], [ 16.5958125, 46.582123 ], [ 16.5924046, 46.5775697 ], [ 16.5850144, 46.57484539999998 ], [ 16.582523, 46.5664785 ], [ 16.5915365, 46.557699 ], [ 16.6168869, 46.5638327 ], [ 16.6225715, 46.573583499999984 ], [ 16.6124108, 46.5761793 ] ] ] } }
+]
+}

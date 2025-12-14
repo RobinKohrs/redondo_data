@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santo_antonio_da_charneca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santo António da Charneca", "metric_roundness": 23.19, "metric_rectangularity": 51.07, "metric_mobile_fit": 93.54, "metric_aspect_ratio": 0.627, "metric_area_km2": 12.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.0217453, 38.6060394 ], [ -9.018443, 38.587018 ], [ -9.0054306, 38.5939 ], [ -9.0124495, 38.601214499999983 ], [ -9.0103732, 38.6250401 ], [ -9.0204813, 38.6263024 ], [ -9.023748, 38.6332215 ], [ -9.0330352, 38.6397161 ], [ -9.0488065, 38.641061499999985 ], [ -9.0431625, 38.631845499999983 ], [ -9.0217453, 38.6060394 ] ] ] } }
+]
+}

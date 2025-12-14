@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_hallotiere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Hallotière", "metric_roundness": 61.61, "metric_rectangularity": 67.73, "metric_mobile_fit": 51.01, "metric_aspect_ratio": 1.052, "metric_area_km2": 9.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4927498, 49.5178812 ], [ 1.4937965, 49.524152 ], [ 1.4833081, 49.5292551 ], [ 1.4717025, 49.5282961 ], [ 1.4632972, 49.531698399999989 ], [ 1.4583455, 49.5291085 ], [ 1.459583, 49.52542649999998 ], [ 1.459602, 49.520261499999982 ], [ 1.4643315, 49.5188135 ], [ 1.4670235, 49.518743 ], [ 1.466994, 49.516398499999987 ], [ 1.471672, 49.50983 ], [ 1.482306, 49.513184 ], [ 1.4927498, 49.5178812 ] ] ] } }
+]
+}

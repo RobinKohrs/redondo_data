@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_genouph",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Genouph", "metric_roundness": 48.23, "metric_rectangularity": 69.29, "metric_mobile_fit": 0.14, "metric_aspect_ratio": 1.561, "metric_area_km2": 10.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.563228, 47.3743685 ], [ 0.5664575, 47.364880499999984 ], [ 0.5853561, 47.368458599999983 ], [ 0.5905695, 47.3645725 ], [ 0.5994205, 47.363176 ], [ 0.604047, 47.3634705 ], [ 0.606534, 47.364317 ], [ 0.609677, 47.367468 ], [ 0.605919, 47.3833265 ], [ 0.5945085, 47.381816499999985 ], [ 0.5914675, 47.379611499999982 ], [ 0.5766485, 47.377092499999982 ], [ 0.563228, 47.3743685 ] ] ] } }
+]
+}

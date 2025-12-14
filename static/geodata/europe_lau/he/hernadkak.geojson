@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hernadkak",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hernádkak", "metric_roundness": 14.95, "metric_rectangularity": 39.25, "metric_mobile_fit": -135.25, "metric_aspect_ratio": 2.915, "metric_area_km2": 24.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.919751, 48.0978535 ], [ 20.9232035, 48.1004258 ], [ 20.937236, 48.0996575 ], [ 20.9418211, 48.0943852 ], [ 20.9371878, 48.0899497 ], [ 20.9451964, 48.0860685 ], [ 20.950536, 48.078380499999987 ], [ 20.9890004, 48.0888913 ], [ 21.046517, 48.0989145 ], [ 21.04058, 48.107969 ], [ 20.9681198, 48.095052499999987 ], [ 20.9339055, 48.1037075 ], [ 20.917383, 48.102385 ], [ 20.919751, 48.0978535 ] ] ] } }
+]
+}

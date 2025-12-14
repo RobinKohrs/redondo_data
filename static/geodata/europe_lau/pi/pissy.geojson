@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pissy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pissy", "metric_roundness": 64.04, "metric_rectangularity": 70.69, "metric_mobile_fit": 36.2, "metric_aspect_ratio": 1.201, "metric_area_km2": 16.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.106786, 49.857169 ], [ 2.1147738, 49.8581797 ], [ 2.1352735, 49.852874 ], [ 2.1529765, 49.8668615 ], [ 2.146028, 49.877484 ], [ 2.1335868, 49.8802149 ], [ 2.1231425, 49.878029 ], [ 2.1097045, 49.8671155 ], [ 2.1020535, 49.865357499999988 ], [ 2.106786, 49.857169 ] ] ] } }
+]
+}

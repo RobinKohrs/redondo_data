@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_subportela_deocriste_e_portela_susa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Subportela, Deocriste e Portela Susã", "metric_roundness": 40.84, "metric_rectangularity": 60.58, "metric_mobile_fit": 33.03, "metric_aspect_ratio": 1.232, "metric_area_km2": 30.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.7287113, 41.6851102 ], [ -8.7257568, 41.677502 ], [ -8.7271045, 41.672634499999987 ], [ -8.719154, 41.6707695 ], [ -8.7060713, 41.6707178 ], [ -8.6973406, 41.6645774 ], [ -8.6795535, 41.6641875 ], [ -8.6692423, 41.6706756 ], [ -8.677484, 41.677894 ], [ -8.6771613, 41.6868442 ], [ -8.6810419, 41.692465299999988 ], [ -8.7022017, 41.696975699999989 ], [ -8.718863, 41.7085265 ], [ -8.7240035, 41.711426 ], [ -8.7262575, 41.7045968 ], [ -8.747185, 41.700006499999986 ], [ -8.7287113, 41.6851102 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tramery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tramery", "metric_roundness": 38.18, "metric_rectangularity": 71.45, "metric_mobile_fit": 38.21, "metric_aspect_ratio": 1.18, "metric_area_km2": 8.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7931109, 49.22798539999998 ], [ 3.7816425, 49.216848499999983 ], [ 3.786747, 49.2105775 ], [ 3.8107253, 49.2194976 ], [ 3.8211335, 49.23105 ], [ 3.812048, 49.2324285 ], [ 3.7931109, 49.22798539999998 ] ] ] } }
+]
+}

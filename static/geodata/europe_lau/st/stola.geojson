@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Štôla", "metric_roundness": 40.38, "metric_rectangularity": 71.73, "metric_mobile_fit": 80.49, "metric_aspect_ratio": 0.758, "metric_area_km2": 5.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.146134, 49.085903 ], [ 20.1480492, 49.090120699999986 ], [ 20.1402894, 49.1015325 ], [ 20.1269139, 49.107902399999986 ], [ 20.1225946, 49.100269699999984 ], [ 20.1236268, 49.097085199999981 ], [ 20.1269139, 49.0945548 ], [ 20.135549, 49.0875035 ], [ 20.1368165, 49.08611 ], [ 20.146134, 49.085903 ] ] ] } }
+]
+}

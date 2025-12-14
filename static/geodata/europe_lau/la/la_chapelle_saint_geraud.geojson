@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chapelle_saint_geraud",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chapelle-Saint-Géraud", "metric_roundness": 45.29, "metric_rectangularity": 73.98, "metric_mobile_fit": 74.49, "metric_aspect_ratio": 0.818, "metric_area_km2": 35.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.9512998, 45.0242812 ], [ 1.9588946, 45.0334504 ], [ 1.9624045, 45.0446059 ], [ 1.983026, 45.060958 ], [ 1.962455, 45.081229 ], [ 1.9572879, 45.074971099999985 ], [ 1.9431297, 45.0746587 ], [ 1.9453496, 45.0692522 ], [ 1.9436948, 45.0632701 ], [ 1.9318745, 45.059533 ], [ 1.9335621, 45.051524199999982 ], [ 1.913351, 45.0403485 ], [ 1.9204817, 45.026148299999988 ], [ 1.93284, 45.021027499999988 ], [ 1.9512998, 45.0242812 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_leger_des_vignes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Léger-des-Vignes", "metric_roundness": 41.58, "metric_rectangularity": 54.44, "metric_mobile_fit": 28.37, "metric_aspect_ratio": 1.279, "metric_area_km2": 19.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.459199, 46.863631 ], [ 3.4593115, 46.869028499999985 ], [ 3.452518, 46.867205 ], [ 3.4495805, 46.8647145 ], [ 3.4291859, 46.849621299999981 ], [ 3.4278304, 46.841618 ], [ 3.4202418, 46.8400265 ], [ 3.420884, 46.833724 ], [ 3.4369664, 46.8397351 ], [ 3.4648193, 46.834745699999985 ], [ 3.4648844, 46.8407808 ], [ 3.486259, 46.843838 ], [ 3.4796041, 46.8464769 ], [ 3.4798364, 46.8507475 ], [ 3.4698185, 46.8570935 ], [ 3.459199, 46.863631 ] ] ] } }
+]
+}

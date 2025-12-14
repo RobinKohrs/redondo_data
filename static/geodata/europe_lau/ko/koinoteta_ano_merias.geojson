@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_merias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Μεριάς", "metric_roundness": 39.13, "metric_rectangularity": 69.15, "metric_mobile_fit": 6.18, "metric_aspect_ratio": 1.501, "metric_area_km2": 21.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.902221, 36.6415849 ], [ 24.8605843, 36.6661125 ], [ 24.8382586, 36.658758299999988 ], [ 24.851211, 36.640721 ], [ 24.8612647, 36.6318093 ], [ 24.8810483, 36.6294569 ], [ 24.89344, 36.631294499999989 ], [ 24.906823, 36.63482 ], [ 24.902221, 36.6415849 ] ] ] } }
+]
+}

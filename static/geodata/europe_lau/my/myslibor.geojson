@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "myslibor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mysliboř", "metric_roundness": 44.13, "metric_rectangularity": 60.78, "metric_mobile_fit": 94.68, "metric_aspect_ratio": 0.616, "metric_area_km2": 17.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4916912, 49.209305099999987 ], [ 15.495786, 49.2171735 ], [ 15.4723255, 49.233085 ], [ 15.4659542, 49.2301054 ], [ 15.4668601, 49.2196705 ], [ 15.458754, 49.212453 ], [ 15.460245, 49.206134 ], [ 15.4665654, 49.2005136 ], [ 15.4776909, 49.1996731 ], [ 15.4887275, 49.193344 ], [ 15.496208, 49.1961565 ], [ 15.4916912, 49.209305099999987 ] ] ] } }
+]
+}

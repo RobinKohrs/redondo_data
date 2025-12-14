@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gilzem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gilzem", "metric_roundness": 53.56, "metric_rectangularity": 67.59, "metric_mobile_fit": 66.86, "metric_aspect_ratio": 0.894, "metric_area_km2": 11.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5191376, 49.876978799999982 ], [ 6.511637, 49.870957 ], [ 6.5081125, 49.863226 ], [ 6.5326255, 49.857750499999973 ], [ 6.542722, 49.862875 ], [ 6.5430575, 49.8829455 ], [ 6.5191376, 49.876978799999982 ] ] ] } }
+]
+}

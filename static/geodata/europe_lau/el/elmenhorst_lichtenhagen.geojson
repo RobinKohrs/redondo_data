@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "elmenhorst_lichtenhagen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Elmenhorst/Lichtenhagen", "metric_roundness": 46.1, "metric_rectangularity": 63.39, "metric_mobile_fit": 81.88, "metric_aspect_ratio": 0.744, "metric_area_km2": 35.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.9930987, 54.145385499999989 ], [ 11.996752, 54.1396807 ], [ 12.0111605, 54.130196599999984 ], [ 12.019676, 54.128796 ], [ 12.030884, 54.1274816 ], [ 12.0319171, 54.133723 ], [ 12.0365745, 54.1368287 ], [ 12.0227037, 54.153288299999986 ], [ 12.0323225, 54.161826499999982 ], [ 11.9984845, 54.17497 ], [ 11.9875615, 54.172617 ], [ 11.9868364, 54.164832399999987 ], [ 11.9784153, 54.1549931 ], [ 11.9762725, 54.147053 ], [ 11.9930987, 54.145385499999989 ] ] ] } }
+]
+}

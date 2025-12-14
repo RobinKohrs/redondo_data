@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cogula",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cogula", "metric_roundness": 24.32, "metric_rectangularity": 68.57, "metric_mobile_fit": -48.94, "metric_aspect_ratio": 2.052, "metric_area_km2": 7.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.2505465, 40.810241 ], [ -7.2517355, 40.81596 ], [ -7.2562698, 40.8194137 ], [ -7.267123, 40.819346 ], [ -7.294796, 40.8107105 ], [ -7.304335, 40.799572499999989 ], [ -7.2992577, 40.8034644 ], [ -7.2947101, 40.8011423 ], [ -7.2891815, 40.803819499999982 ], [ -7.2505465, 40.810241 ] ] ] } }
+]
+}

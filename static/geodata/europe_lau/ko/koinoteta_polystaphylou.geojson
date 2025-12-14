@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_polystaphylou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πολυσταφύλου", "metric_roundness": 47.8, "metric_rectangularity": 71.65, "metric_mobile_fit": 78.14, "metric_aspect_ratio": 0.781, "metric_area_km2": 18.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7152705, 39.3404035 ], [ 20.7513155, 39.33815 ], [ 20.7545822, 39.3516427 ], [ 20.7588335, 39.375389 ], [ 20.745152, 39.381269499999988 ], [ 20.742266, 39.3806705 ], [ 20.7386475, 39.3794055 ], [ 20.7362925, 39.377472 ], [ 20.734575, 39.3749185 ], [ 20.72868, 39.3582409 ], [ 20.721624, 39.3507555 ], [ 20.7152705, 39.3404035 ] ] ] } }
+]
+}

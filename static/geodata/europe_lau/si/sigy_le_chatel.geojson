@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sigy_le_chatel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sigy-le-Châtel", "metric_roundness": 65.39, "metric_rectangularity": 74.51, "metric_mobile_fit": 29.99, "metric_aspect_ratio": 1.263, "metric_area_km2": 14.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5487605, 46.546811 ], [ 4.5626831, 46.544277299999983 ], [ 4.5923195, 46.5449665 ], [ 4.592276, 46.5512535 ], [ 4.5940465, 46.550949 ], [ 4.5899404, 46.5597731 ], [ 4.5804776, 46.56129 ], [ 4.577129, 46.568803 ], [ 4.572372, 46.5689415 ], [ 4.5637235, 46.5665 ], [ 4.5607425, 46.567008499999986 ], [ 4.55393, 46.564756499999987 ], [ 4.54908, 46.54982 ], [ 4.5487605, 46.546811 ] ] ] } }
+]
+}

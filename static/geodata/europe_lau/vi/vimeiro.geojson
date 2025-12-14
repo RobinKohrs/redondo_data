@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vimeiro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vimeiro", "metric_roundness": 42.07, "metric_rectangularity": 72.04, "metric_mobile_fit": 45.01, "metric_aspect_ratio": 1.112, "metric_area_km2": 11.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.2867245, 39.207917 ], [ -9.2955221, 39.1983434 ], [ -9.3025236, 39.198312799999989 ], [ -9.322575, 39.185616 ], [ -9.3210577, 39.1771271 ], [ -9.3149625, 39.1750632 ], [ -9.2983934, 39.182319 ], [ -9.2910216, 39.1808345 ], [ -9.277488, 39.1931425 ], [ -9.2754195, 39.193289 ], [ -9.2867245, 39.207917 ] ] ] } }
+]
+}

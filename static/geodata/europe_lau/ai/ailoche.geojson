@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ailoche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ailoche", "metric_roundness": 29.57, "metric_rectangularity": 83.8, "metric_mobile_fit": 61.63, "metric_aspect_ratio": 0.946, "metric_area_km2": 13.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2305025, 45.7065736 ], [ 8.2228398, 45.7076177 ], [ 8.2066802, 45.7218014 ], [ 8.1976765, 45.7253331 ], [ 8.195415, 45.7229455 ], [ 8.1942348, 45.720414699999985 ], [ 8.1943532, 45.7160615 ], [ 8.1956771, 45.7122255 ], [ 8.1976765, 45.709703 ], [ 8.2342965, 45.685932 ], [ 8.2408148, 45.6933496 ], [ 8.24762, 45.694943 ], [ 8.237253, 45.701621 ], [ 8.2305025, 45.7065736 ] ] ] } }
+]
+}

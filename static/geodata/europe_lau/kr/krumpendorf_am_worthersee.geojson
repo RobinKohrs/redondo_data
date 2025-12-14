@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krumpendorf_am_worthersee",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Krumpendorf am Wörthersee", "metric_roundness": 45.43, "metric_rectangularity": 62.25, "metric_mobile_fit": 55.1, "metric_aspect_ratio": 1.011, "metric_area_km2": 24.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2227292, 46.6487628 ], [ 14.2149144, 46.640862599999984 ], [ 14.181318, 46.6336115 ], [ 14.1873173, 46.621266199999987 ], [ 14.18167, 46.615360499999987 ], [ 14.1948548, 46.6130648 ], [ 14.2406475, 46.621133 ], [ 14.2387772, 46.6339066 ], [ 14.2274124, 46.6442662 ], [ 14.2327003, 46.6519774 ], [ 14.2229065, 46.653343 ], [ 14.2227292, 46.6487628 ] ] ] } }
+]
+}

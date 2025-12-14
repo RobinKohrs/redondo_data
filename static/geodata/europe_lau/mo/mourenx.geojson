@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mourenx",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mourenx", "metric_roundness": 49.19, "metric_rectangularity": 66.23, "metric_mobile_fit": 43.78, "metric_aspect_ratio": 1.125, "metric_area_km2": 11.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.6146304, 43.3655546 ], [ -0.6002126, 43.3735192 ], [ -0.594618, 43.382321 ], [ -0.6074277, 43.387180299999983 ], [ -0.6203819, 43.3843044 ], [ -0.6271214, 43.378972799999978 ], [ -0.6327111, 43.3796482 ], [ -0.636823, 43.374003 ], [ -0.6337619, 43.3599035 ], [ -0.6158885, 43.3615395 ], [ -0.6146304, 43.3655546 ] ] ] } }
+]
+}

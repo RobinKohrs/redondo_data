@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villafans",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villafans", "metric_roundness": 60.18, "metric_rectangularity": 71.83, "metric_mobile_fit": 59.09, "metric_aspect_ratio": 0.972, "metric_area_km2": 13.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4557445, 47.582014 ], [ 6.46551, 47.568067 ], [ 6.472559, 47.570563 ], [ 6.495958, 47.569411 ], [ 6.4968085, 47.571767 ], [ 6.4834871, 47.5755588 ], [ 6.4919509, 47.584037599999981 ], [ 6.4881655, 47.5965755 ], [ 6.465172, 47.593703 ], [ 6.4557445, 47.582014 ] ] ] } }
+]
+}

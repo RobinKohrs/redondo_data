@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cravanche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cravanche", "metric_roundness": 33.38, "metric_rectangularity": 63.36, "metric_mobile_fit": -39.45, "metric_aspect_ratio": 1.957, "metric_area_km2": 2.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.81395, 47.648368 ], [ 6.816831, 47.646587 ], [ 6.8251659, 47.6510315 ], [ 6.834071, 47.647764099999989 ], [ 6.8365216, 47.6554974 ], [ 6.810636, 47.6526585 ], [ 6.81395, 47.648368 ] ] ] } }
+]
+}

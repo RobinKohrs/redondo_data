@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guerigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guérigny", "metric_roundness": 34.93, "metric_rectangularity": 49.11, "metric_mobile_fit": 13.2, "metric_aspect_ratio": 1.43, "metric_area_km2": 16.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2488195, 47.093971499999981 ], [ 3.2072213, 47.1004116 ], [ 3.192848, 47.111366 ], [ 3.1933535, 47.106048 ], [ 3.1918095, 47.10417 ], [ 3.187562, 47.1022675 ], [ 3.1864638, 47.086466099999988 ], [ 3.190657, 47.0814625 ], [ 3.199101, 47.081820799999988 ], [ 3.2123458, 47.088184 ], [ 3.2492995, 47.083441 ], [ 3.2488195, 47.093971499999981 ] ] ] } }
+]
+}

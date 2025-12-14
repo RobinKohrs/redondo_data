@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thenorgues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thénorgues", "metric_roundness": 46.02, "metric_rectangularity": 66.35, "metric_mobile_fit": -18.98, "metric_aspect_ratio": 1.752, "metric_area_km2": 21.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.9592466, 49.4050611 ], [ 4.9580089, 49.4080861 ], [ 4.9140545, 49.418382 ], [ 4.91186, 49.418563 ], [ 4.9005664, 49.418371699999987 ], [ 4.8913512, 49.407779099999985 ], [ 4.8912925, 49.396434299999981 ], [ 4.8977855, 49.3933295 ], [ 4.9120092, 49.4000418 ], [ 4.9361711, 49.395649299999988 ], [ 4.950087, 49.397148 ], [ 4.9592466, 49.4050611 ] ] ] } }
+]
+}

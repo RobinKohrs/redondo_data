@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "becheln",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Becheln", "metric_roundness": 44.97, "metric_rectangularity": 52.14, "metric_mobile_fit": 29.05, "metric_aspect_ratio": 1.272, "metric_area_km2": 9.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.722682, 50.284698 ], [ 7.7289385, 50.285839499999987 ], [ 7.7393725, 50.282849499999983 ], [ 7.7372779, 50.287730400000015 ], [ 7.7180631, 50.2973495 ], [ 7.7029577, 50.2997272 ], [ 7.6998975, 50.297588 ], [ 7.7031147, 50.292197699999988 ], [ 7.6937169, 50.2857558 ], [ 7.7035379, 50.281495899999989 ], [ 7.7053605, 50.276795 ], [ 7.722682, 50.284698 ] ] ] } }
+]
+}

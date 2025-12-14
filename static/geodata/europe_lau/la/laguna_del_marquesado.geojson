@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laguna_del_marquesado",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laguna del Marquesado", "metric_roundness": 46.57, "metric_rectangularity": 77.35, "metric_mobile_fit": 80.65, "metric_aspect_ratio": 0.756, "metric_area_km2": 65.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6424116, 40.163966 ], [ -1.6381827, 40.171345599999988 ], [ -1.623739, 40.17696 ], [ -1.6421082, 40.1961254 ], [ -1.6529077, 40.2085442 ], [ -1.694153, 40.2393 ], [ -1.6999845, 40.236221499999985 ], [ -1.7077295, 40.227623 ], [ -1.698883, 40.213948 ], [ -1.7096579, 40.1961254 ], [ -1.71282, 40.190895 ], [ -1.696086, 40.1766261 ], [ -1.6843108, 40.1614203 ], [ -1.6760256, 40.1576903 ], [ -1.671823, 40.149288 ], [ -1.6424116, 40.163966 ] ] ] } }
+]
+}

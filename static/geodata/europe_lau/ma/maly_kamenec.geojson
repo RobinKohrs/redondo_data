@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maly_kamenec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Malý Kamenec", "metric_roundness": 47.19, "metric_rectangularity": 63.93, "metric_mobile_fit": 18.07, "metric_aspect_ratio": 1.382, "metric_area_km2": 12.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.798807, 48.3419873 ], [ 21.810802, 48.338276 ], [ 21.8124022, 48.344135 ], [ 21.8071504, 48.3536077 ], [ 21.786448, 48.3535045 ], [ 21.7810065, 48.3602472 ], [ 21.7737433, 48.3607843 ], [ 21.7661034, 48.3457962 ], [ 21.765602, 48.339059499999983 ], [ 21.7673995, 48.339151 ], [ 21.798807, 48.3419873 ] ] ] } }
+]
+}

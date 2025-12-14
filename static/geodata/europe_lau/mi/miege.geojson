@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "miege",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Miège", "metric_roundness": 62.22, "metric_rectangularity": 73.58, "metric_mobile_fit": 73.45, "metric_aspect_ratio": 0.828, "metric_area_km2": 4.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.547013, 46.3051084 ], [ 7.558847, 46.3092815 ], [ 7.5565383, 46.3205075 ], [ 7.5500515, 46.324745 ], [ 7.5440262, 46.3202334 ], [ 7.535306, 46.3202425 ], [ 7.5356923, 46.315339 ], [ 7.5410035, 46.311962 ], [ 7.547013, 46.3051084 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dannemois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dannemois", "metric_roundness": 51.43, "metric_rectangularity": 68.01, "metric_mobile_fit": 36.24, "metric_aspect_ratio": 1.2, "metric_area_km2": 18.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4423975, 48.4693434 ], [ 2.4468532, 48.461365 ], [ 2.444672, 48.4526405 ], [ 2.4508195, 48.4515565 ], [ 2.452303, 48.450116499999986 ], [ 2.4629665, 48.444981499999983 ], [ 2.4660725, 48.444034 ], [ 2.468437, 48.444076 ], [ 2.4979435, 48.4572665 ], [ 2.499644, 48.4590505 ], [ 2.4796872, 48.463470699999988 ], [ 2.4578939, 48.475667099999981 ], [ 2.4450575, 48.4754395 ], [ 2.4423975, 48.4693434 ] ] ] } }
+]
+}

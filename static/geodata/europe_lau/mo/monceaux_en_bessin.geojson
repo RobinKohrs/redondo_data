@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monceaux_en_bessin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monceaux-en-Bessin", "metric_roundness": 51.03, "metric_rectangularity": 61.81, "metric_mobile_fit": 64.0, "metric_aspect_ratio": 0.923, "metric_area_km2": 11.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.6838786, 49.253447599999987 ], [ -0.684583, 49.2630865 ], [ -0.6985675, 49.265863 ], [ -0.7067695, 49.247675 ], [ -0.688879, 49.237813 ], [ -0.668665, 49.242028 ], [ -0.667126, 49.2440315 ], [ -0.6838786, 49.253447599999987 ] ] ] } }
+]
+}

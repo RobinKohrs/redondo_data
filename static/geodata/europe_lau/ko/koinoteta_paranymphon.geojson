@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_paranymphon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Παρανύμφων", "metric_roundness": 48.37, "metric_rectangularity": 72.92, "metric_mobile_fit": 80.26, "metric_aspect_ratio": 0.76, "metric_area_km2": 33.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.1096387, 34.9833582 ], [ 25.0986285, 34.9757801 ], [ 25.0934765, 34.966658099999989 ], [ 25.104046, 34.935688 ], [ 25.1183386, 34.9464057 ], [ 25.1322894, 34.9519715 ], [ 25.151923, 34.952695 ], [ 25.1501909, 34.9707428 ], [ 25.1434311, 34.9790278 ], [ 25.137743, 34.9987135 ], [ 25.1330899, 34.9947495 ], [ 25.1241009, 34.9962028 ], [ 25.1097895, 34.992728499999984 ], [ 25.1096387, 34.9833582 ] ] ] } }
+]
+}

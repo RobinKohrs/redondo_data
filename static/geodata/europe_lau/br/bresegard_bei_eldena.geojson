@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bresegard_bei_eldena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bresegard bei Eldena", "metric_roundness": 39.35, "metric_rectangularity": 61.04, "metric_mobile_fit": -38.08, "metric_aspect_ratio": 1.943, "metric_area_km2": 32.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3301195, 53.25693949999998 ], [ 11.3391774, 53.254446299999984 ], [ 11.3484874, 53.2467396 ], [ 11.372009, 53.238569 ], [ 11.397088, 53.234071 ], [ 11.4018518, 53.235625199999987 ], [ 11.4191768, 53.2564699 ], [ 11.4137954, 53.262078699999975 ], [ 11.3954355, 53.2620315 ], [ 11.3490542, 53.2588549 ], [ 11.3282165, 53.261686499999989 ], [ 11.3301195, 53.25693949999998 ] ] ] } }
+]
+}

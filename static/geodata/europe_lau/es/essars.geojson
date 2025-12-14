@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "essars",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Essars", "metric_roundness": 59.84, "metric_rectangularity": 74.33, "metric_mobile_fit": 47.69, "metric_aspect_ratio": 1.086, "metric_area_km2": 9.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.676194, 50.5421385 ], [ 2.6797285, 50.544327 ], [ 2.678825, 50.545908 ], [ 2.676304, 50.548023 ], [ 2.678138, 50.548511499999982 ], [ 2.679555, 50.549674 ], [ 2.6762635, 50.5523835 ], [ 2.670116, 50.5565558 ], [ 2.6603228, 50.5547928 ], [ 2.648223, 50.558396 ], [ 2.6450635, 50.550537 ], [ 2.6509904, 50.541812799999974 ], [ 2.671719, 50.538105 ], [ 2.676194, 50.5421385 ] ] ] } }
+]
+}

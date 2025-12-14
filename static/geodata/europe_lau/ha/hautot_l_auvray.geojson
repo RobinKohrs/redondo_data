@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hautot_l_auvray",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hautot-l'Auvray", "metric_roundness": 54.62, "metric_rectangularity": 74.43, "metric_mobile_fit": 83.08, "metric_aspect_ratio": 0.732, "metric_area_km2": 17.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.753091, 49.778196 ], [ 0.751208, 49.7785305 ], [ 0.743487, 49.776633499999988 ], [ 0.7343097, 49.755170499999984 ], [ 0.751776, 49.748324 ], [ 0.7622845, 49.751389499999974 ], [ 0.7737535, 49.766414 ], [ 0.7734775, 49.777004 ], [ 0.7695965, 49.783143 ], [ 0.753091, 49.778196 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rening",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Réning", "metric_roundness": 45.35, "metric_rectangularity": 65.91, "metric_mobile_fit": 53.9, "metric_aspect_ratio": 1.023, "metric_area_km2": 9.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8386878, 48.9548336 ], [ 6.8261915, 48.95536 ], [ 6.8241636, 48.948263 ], [ 6.833134, 48.936169 ], [ 6.8454983, 48.944231 ], [ 6.8638905, 48.9472555 ], [ 6.8564894, 48.9584467 ], [ 6.8583715, 48.9616605 ], [ 6.8386878, 48.9548336 ] ] ] } }
+]
+}

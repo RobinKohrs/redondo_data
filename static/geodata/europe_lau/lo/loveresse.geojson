@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "loveresse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Loveresse", "metric_roundness": 24.07, "metric_rectangularity": 58.03, "metric_mobile_fit": 79.77, "metric_aspect_ratio": 0.36, "metric_area_km2": 10.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2355505, 47.237255 ], [ 7.245845, 47.2172145 ], [ 7.247105, 47.2155705 ], [ 7.2500475, 47.216052499999989 ], [ 7.2515554, 47.2170317 ], [ 7.251673, 47.220025799999981 ], [ 7.2477334, 47.2340563 ], [ 7.248373, 47.2488769 ], [ 7.2466535, 47.260237499999988 ], [ 7.2424045, 47.258791 ], [ 7.240447, 47.259345 ], [ 7.2312376, 47.2544116 ], [ 7.227977, 47.238842 ], [ 7.2355505, 47.237255 ] ] ] } }
+]
+}

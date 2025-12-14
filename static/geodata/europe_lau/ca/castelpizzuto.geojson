@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castelpizzuto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castelpizzuto", "metric_roundness": 62.08, "metric_rectangularity": 68.55, "metric_mobile_fit": 40.22, "metric_aspect_ratio": 1.16, "metric_area_km2": 28.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2774415, 41.507231499999989 ], [ 14.3136452, 41.506670799999981 ], [ 14.3285661, 41.5133378 ], [ 14.333529, 41.5213955 ], [ 14.3200175, 41.5297205 ], [ 14.3166329, 41.535702099999988 ], [ 14.2931325, 41.5473 ], [ 14.2835344, 41.5386817 ], [ 14.270559, 41.5393325 ], [ 14.2774415, 41.507231499999989 ] ] ] } }
+]
+}

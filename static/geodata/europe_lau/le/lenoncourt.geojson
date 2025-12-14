@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lenoncourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lenoncourt", "metric_roundness": 51.78, "metric_rectangularity": 64.52, "metric_mobile_fit": 81.64, "metric_aspect_ratio": 0.746, "metric_area_km2": 26.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.292734, 48.649443 ], [ 6.3262015, 48.660067 ], [ 6.3241525, 48.6650505 ], [ 6.3261288, 48.6795906 ], [ 6.3201155, 48.68261 ], [ 6.3028137, 48.683130899999988 ], [ 6.2997035, 48.6898841 ], [ 6.2905333, 48.6854575 ], [ 6.2866444, 48.6883122 ], [ 6.2842435, 48.6957975 ], [ 6.2827775, 48.694386 ], [ 6.2831537, 48.6899786 ], [ 6.2751445, 48.6851297 ], [ 6.2738265, 48.679233 ], [ 6.292734, 48.649443 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_batheias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βάθειας", "metric_roundness": 37.12, "metric_rectangularity": 53.7, "metric_mobile_fit": 89.2, "metric_aspect_ratio": 0.67, "metric_area_km2": 8.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.471086, 36.446222399999989 ], [ 22.4763845, 36.453828799999975 ], [ 22.471514, 36.46965 ], [ 22.466848, 36.4670035 ], [ 22.461799, 36.4655665 ], [ 22.455036, 36.462429 ], [ 22.4442125, 36.4592515 ], [ 22.4580773, 36.451141599999978 ], [ 22.4576517, 36.4410987 ], [ 22.4630637, 36.435071 ], [ 22.4730455, 36.431053 ], [ 22.471086, 36.446222399999989 ] ] ] } }
+]
+}

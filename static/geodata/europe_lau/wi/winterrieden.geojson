@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "winterrieden",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Winterrieden", "metric_roundness": 66.26, "metric_rectangularity": 75.81, "metric_mobile_fit": 66.47, "metric_aspect_ratio": 0.898, "metric_area_km2": 21.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.1962641, 48.1323814 ], [ 10.192711, 48.123436499999983 ], [ 10.1914375, 48.116251 ], [ 10.197102, 48.108041 ], [ 10.2147189, 48.1107092 ], [ 10.2183247, 48.104668799999985 ], [ 10.230286, 48.102347499999986 ], [ 10.2382035, 48.110018599999982 ], [ 10.2402229, 48.124664 ], [ 10.2335102, 48.1315181 ], [ 10.2128518, 48.132660499999986 ], [ 10.209404, 48.1386205 ], [ 10.1962641, 48.1323814 ] ] ] } }
+]
+}

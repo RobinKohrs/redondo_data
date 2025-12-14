@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_kremlin_bicetre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Kremlin-Bicêtre", "metric_roundness": 44.77, "metric_rectangularity": 67.66, "metric_mobile_fit": 52.39, "metric_aspect_ratio": 1.039, "metric_area_km2": 3.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3564645, 48.815955 ], [ 2.354239, 48.813343 ], [ 2.3502965, 48.811064 ], [ 2.344862, 48.8054075 ], [ 2.343722, 48.80318 ], [ 2.347784, 48.801496 ], [ 2.367223, 48.808032 ], [ 2.3642045, 48.8163985 ], [ 2.3564645, 48.815955 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chaintre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chaintré", "metric_roundness": 29.03, "metric_rectangularity": 64.38, "metric_mobile_fit": -77.42, "metric_aspect_ratio": 2.337, "metric_area_km2": 6.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.752746, 46.260573199999989 ], [ 4.750255, 46.258285 ], [ 4.7665175, 46.251907 ], [ 4.7978045, 46.255147 ], [ 4.797107, 46.256963 ], [ 4.7949585, 46.2567845 ], [ 4.777856, 46.2617445 ], [ 4.7738315, 46.2616965 ], [ 4.7692065, 46.2635285 ], [ 4.760319, 46.2657215 ], [ 4.756826, 46.2659765 ], [ 4.7517365, 46.26388 ], [ 4.752746, 46.260573199999989 ] ] ] } }
+]
+}

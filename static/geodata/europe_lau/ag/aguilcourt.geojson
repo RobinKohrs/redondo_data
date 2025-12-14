@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aguilcourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aguilcourt", "metric_roundness": 64.6, "metric_rectangularity": 79.17, "metric_mobile_fit": 41.91, "metric_aspect_ratio": 1.143, "metric_area_km2": 25.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9746005, 49.379404 ], [ 3.9866395, 49.378916499999988 ], [ 3.995388, 49.386038499999984 ], [ 3.9939198, 49.3888711 ], [ 3.9977375, 49.393553 ], [ 3.990906, 49.3993715 ], [ 3.962626, 49.4132165 ], [ 3.9539927, 49.4059768 ], [ 3.934719, 49.3984055 ], [ 3.9444147, 49.3880724 ], [ 3.9613105, 49.3773465 ], [ 3.9746005, 49.379404 ] ] ] } }
+]
+}

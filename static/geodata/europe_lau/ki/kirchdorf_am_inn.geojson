@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kirchdorf_am_inn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kirchdorf am Inn", "metric_roundness": 46.55, "metric_rectangularity": 68.3, "metric_mobile_fit": 58.46, "metric_aspect_ratio": 0.978, "metric_area_km2": 30.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.2515603, 48.283089299999986 ], [ 13.260582, 48.2752225 ], [ 13.2675226, 48.275810899999989 ], [ 13.2783008, 48.2712225 ], [ 13.3012125, 48.27681 ], [ 13.3049809, 48.2893854 ], [ 13.3152798, 48.301007599999984 ], [ 13.3126439, 48.305108 ], [ 13.3171215, 48.30822 ], [ 13.3179941, 48.313196499999989 ], [ 13.314484, 48.316422 ], [ 13.2536855, 48.293156 ], [ 13.2515603, 48.283089299999986 ] ] ] } }
+]
+}

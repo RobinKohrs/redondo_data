@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zsennye",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zsennye", "metric_roundness": 44.98, "metric_rectangularity": 62.43, "metric_mobile_fit": 69.3, "metric_aspect_ratio": 0.869, "metric_area_km2": 10.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8380606, 47.1015127 ], [ 16.8428088, 47.107430099999988 ], [ 16.8298317, 47.116048299999989 ], [ 16.8264847, 47.1265041 ], [ 16.8216185, 47.130634 ], [ 16.8133255, 47.1309349 ], [ 16.8089552, 47.118320099999977 ], [ 16.8033945, 47.112678 ], [ 16.8332305, 47.100086 ], [ 16.8380606, 47.1015127 ] ] ] } }
+]
+}

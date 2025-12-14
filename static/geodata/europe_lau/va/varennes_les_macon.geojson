@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "varennes_les_macon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Varennes-lès-Mâcon", "metric_roundness": 55.18, "metric_rectangularity": 60.55, "metric_mobile_fit": 48.13, "metric_aspect_ratio": 1.081, "metric_area_km2": 10.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8109975, 46.2599235 ], [ 4.8119525, 46.261858 ], [ 4.8164865, 46.26540049999997 ], [ 4.822498, 46.270226 ], [ 4.8249665, 46.2731415 ], [ 4.8264885, 46.276322 ], [ 4.8151948, 46.279657199999981 ], [ 4.7905068, 46.27738489999998 ], [ 4.787218, 46.273447 ], [ 4.7966303, 46.2723315 ], [ 4.7934377, 46.2620996 ], [ 4.797107, 46.256963 ], [ 4.7978045, 46.255147 ], [ 4.8108185, 46.254549 ], [ 4.8109975, 46.2599235 ] ] ] } }
+]
+}

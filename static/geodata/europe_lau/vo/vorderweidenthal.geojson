@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vorderweidenthal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vorderweidenthal", "metric_roundness": 54.73, "metric_rectangularity": 75.86, "metric_mobile_fit": 24.99, "metric_aspect_ratio": 1.313, "metric_area_km2": 23.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8874825, 49.142267499999988 ], [ 7.8845189, 49.1368508 ], [ 7.853279, 49.131321 ], [ 7.8641595, 49.116021 ], [ 7.8756647, 49.114329 ], [ 7.9047975, 49.118009 ], [ 7.911942, 49.1208115 ], [ 7.919951, 49.129260399999986 ], [ 7.910432, 49.137184 ], [ 7.8969915, 49.147565 ], [ 7.8874825, 49.142267499999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szabas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szabás", "metric_roundness": 32.49, "metric_rectangularity": 62.69, "metric_mobile_fit": -13.42, "metric_aspect_ratio": 1.697, "metric_area_km2": 37.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.477286, 46.2963665 ], [ 17.4507771, 46.299348099999982 ], [ 17.444767, 46.296655 ], [ 17.4031698, 46.2927161 ], [ 17.3950385, 46.288617 ], [ 17.37786, 46.2650035 ], [ 17.3839079, 46.2588465 ], [ 17.403949, 46.269921 ], [ 17.4211817, 46.2630361 ], [ 17.4428048, 46.267157399999988 ], [ 17.4555971, 46.2808371 ], [ 17.477061, 46.29499 ], [ 17.477286, 46.2963665 ] ] ] } }
+]
+}

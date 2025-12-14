@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "igney",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Igney", "metric_roundness": 50.54, "metric_rectangularity": 74.21, "metric_mobile_fit": 13.88, "metric_aspect_ratio": 1.424, "metric_area_km2": 10.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.8122435, 48.620607 ], [ 6.8340645, 48.6274965 ], [ 6.8428275, 48.629720499999983 ], [ 6.8427165, 48.632201499999987 ], [ 6.8416185, 48.635214 ], [ 6.8393095, 48.637429499999982 ], [ 6.8188131, 48.641427299999982 ], [ 6.7979775, 48.639548499999989 ], [ 6.808935, 48.623037 ], [ 6.8122435, 48.620607 ] ] ] } }
+]
+}

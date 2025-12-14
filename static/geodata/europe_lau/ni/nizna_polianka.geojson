@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nizna_polianka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nižná Polianka", "metric_roundness": 60.75, "metric_rectangularity": 85.15, "metric_mobile_fit": 71.22, "metric_aspect_ratio": 0.85, "metric_area_km2": 13.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.3891785, 49.402988 ], [ 21.392456, 49.398530399999984 ], [ 21.4079775, 49.3939385 ], [ 21.4226048, 49.401984 ], [ 21.430276, 49.414135 ], [ 21.409057, 49.425386 ], [ 21.3891785, 49.402988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alpicat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alpicat", "metric_roundness": 64.87, "metric_rectangularity": 73.88, "metric_mobile_fit": 61.98, "metric_aspect_ratio": 0.943, "metric_area_km2": 27.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.5254732, 41.6665139 ], [ 0.5291806, 41.6619299 ], [ 0.5676622, 41.6461448 ], [ 0.5710701, 41.6532465 ], [ 0.5782582, 41.6563733 ], [ 0.5778915, 41.661623 ], [ 0.5864335, 41.671109 ], [ 0.5731952, 41.6773814 ], [ 0.5664675, 41.683365099999989 ], [ 0.569478, 41.690787 ], [ 0.5541128, 41.6944503 ], [ 0.5286725, 41.677172 ], [ 0.5254732, 41.6665139 ] ] ] } }
+]
+}

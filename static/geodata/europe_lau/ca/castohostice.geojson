@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castohostice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Častohostice", "metric_roundness": 42.46, "metric_rectangularity": 69.5, "metric_mobile_fit": 7.15, "metric_aspect_ratio": 1.491, "metric_area_km2": 7.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.8114785, 49.021521799999981 ], [ 15.7992162, 49.023004399999984 ], [ 15.794487, 49.021035499999982 ], [ 15.7975304, 49.018556 ], [ 15.7975916, 49.0124997 ], [ 15.8114785, 49.006408 ], [ 15.8140225, 49.005292 ], [ 15.8176692, 49.00968959999998 ], [ 15.8273541, 49.0077958 ], [ 15.834753, 49.013293 ], [ 15.8114785, 49.021521799999981 ] ] ] } }
+]
+}

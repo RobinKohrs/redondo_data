@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "eichstetten_am_kaiserstuhl",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Eichstetten am Kaiserstuhl", "metric_roundness": 55.35, "metric_rectangularity": 64.93, "metric_mobile_fit": 41.12, "metric_aspect_ratio": 1.151, "metric_area_km2": 27.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.756955, 48.08265 ], [ 7.7553323, 48.087209 ], [ 7.7618375, 48.0993444 ], [ 7.7563805, 48.107925 ], [ 7.748961, 48.1120824 ], [ 7.7338934, 48.108052199999989 ], [ 7.7189181, 48.1103653 ], [ 7.700403, 48.106459 ], [ 7.6958405, 48.0920035 ], [ 7.7214964, 48.085077799999986 ], [ 7.738929, 48.084716599999986 ], [ 7.7462089, 48.0788185 ], [ 7.7460714, 48.074904499999988 ], [ 7.7526245, 48.073793 ], [ 7.756955, 48.08265 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castiglione_del_genovesi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castiglione del Genovesi", "metric_roundness": 50.6, "metric_rectangularity": 66.47, "metric_mobile_fit": 85.84, "metric_aspect_ratio": 0.704, "metric_area_km2": 18.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8395466, 40.749041099999985 ], [ 14.820091, 40.731308 ], [ 14.8214065, 40.726943 ], [ 14.822466, 40.724999 ], [ 14.8289296, 40.725476 ], [ 14.8300507, 40.7180597 ], [ 14.8360234, 40.7142108 ], [ 14.8382073, 40.7077722 ], [ 14.847752, 40.7075405 ], [ 14.8552042, 40.708959899999989 ], [ 14.851826, 40.715298299999986 ], [ 14.8610711, 40.7227537 ], [ 14.8623765, 40.733883 ], [ 14.8540206, 40.737627599999989 ], [ 14.8480375, 40.753053 ], [ 14.8395466, 40.749041099999985 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_riviere_saint_sauveur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Rivière-Saint-Sauveur", "metric_roundness": 27.7, "metric_rectangularity": 47.12, "metric_mobile_fit": 87.62, "metric_aspect_ratio": 0.686, "metric_area_km2": 12.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2739244, 49.4115292 ], [ 0.2517006, 49.412649099999975 ], [ 0.24282, 49.4034123 ], [ 0.2446871, 49.399374499999986 ], [ 0.2542173, 49.401965399999987 ], [ 0.262873, 49.394994499999981 ], [ 0.2564915, 49.388558499999988 ], [ 0.2681866, 49.3905482 ], [ 0.2731307, 49.403216799999981 ], [ 0.2845566, 49.407852399999989 ], [ 0.2855975, 49.429114 ], [ 0.2818765, 49.4288615 ], [ 0.275546, 49.428732 ], [ 0.2739244, 49.4115292 ] ] ] } }
+]
+}

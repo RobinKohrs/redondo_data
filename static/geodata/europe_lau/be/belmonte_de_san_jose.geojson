@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belmonte_de_san_jose",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Belmonte de San José", "metric_roundness": 55.78, "metric_rectangularity": 73.98, "metric_mobile_fit": 68.1, "metric_aspect_ratio": 0.882, "metric_area_km2": 59.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0351758, 40.908683499999988 ], [ -0.088562, 40.9193265 ], [ -0.085125, 40.8966511 ], [ -0.0901882, 40.8949542 ], [ -0.0959915, 40.8860418 ], [ -0.1094445, 40.8791425 ], [ -0.0862253, 40.867868 ], [ -0.0753815, 40.8552515 ], [ -0.0475158, 40.848561299999986 ], [ -0.034902, 40.8510935 ], [ -0.0269334, 40.875091 ], [ -0.0330414, 40.8907538 ], [ -0.0295645, 40.9049225 ], [ -0.0351758, 40.908683499999988 ] ] ] } }
+]
+}

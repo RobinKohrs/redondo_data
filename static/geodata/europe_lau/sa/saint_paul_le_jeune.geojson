@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_paul_le_jeune",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Paul-le-Jeune", "metric_roundness": 60.49, "metric_rectangularity": 66.14, "metric_mobile_fit": 44.74, "metric_aspect_ratio": 1.115, "metric_area_km2": 27.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.1416838, 44.3262605 ], [ 4.1428715, 44.3133515 ], [ 4.1637321, 44.312323899999988 ], [ 4.1779905, 44.3177405 ], [ 4.1893725, 44.3328215 ], [ 4.1648928, 44.3431117 ], [ 4.1519279, 44.3535464 ], [ 4.1286307, 44.351882699999983 ], [ 4.1251096, 44.3430696 ], [ 4.1267455, 44.337731 ], [ 4.1416838, 44.3262605 ] ] ] } }
+]
+}

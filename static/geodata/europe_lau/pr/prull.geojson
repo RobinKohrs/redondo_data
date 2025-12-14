@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prull",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Prüll", "metric_roundness": 38.17, "metric_rectangularity": 65.82, "metric_mobile_fit": 2.48, "metric_aspect_ratio": 1.538, "metric_area_km2": 4.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.4417616, 49.7656457 ], [ 11.4537055, 49.767250899999986 ], [ 11.4480578, 49.775417499999989 ], [ 11.4397274, 49.779982699999977 ], [ 11.41957, 49.7755436 ], [ 11.4417616, 49.7656457 ] ] ] } }
+]
+}

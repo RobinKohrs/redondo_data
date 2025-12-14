@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "moulle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Moulle", "metric_roundness": 22.06, "metric_rectangularity": 68.07, "metric_mobile_fit": 44.3, "metric_aspect_ratio": 1.12, "metric_area_km2": 13.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1742215, 50.7805974 ], [ 2.1865967, 50.7911107 ], [ 2.1933282, 50.793242299999982 ], [ 2.1966943, 50.803913799999989 ], [ 2.203232, 50.809102 ], [ 2.140782, 50.781424499999986 ], [ 2.14378, 50.7782815 ], [ 2.146119, 50.776886 ], [ 2.148196, 50.77384 ], [ 2.1529295, 50.774744 ], [ 2.1554935, 50.773851 ], [ 2.1742215, 50.7805974 ] ] ] } }
+]
+}

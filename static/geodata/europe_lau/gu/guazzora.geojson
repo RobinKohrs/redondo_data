@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guazzora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guazzora", "metric_roundness": 34.36, "metric_rectangularity": 51.11, "metric_mobile_fit": 22.08, "metric_aspect_ratio": 1.342, "metric_area_km2": 3.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8548135, 45.0197285 ], [ 8.8551148, 45.018206099999979 ], [ 8.8526387, 45.0180614 ], [ 8.851878, 45.021304 ], [ 8.8430213, 45.020347899999983 ], [ 8.8407159, 45.0097752 ], [ 8.8338355, 45.0092645 ], [ 8.8357207, 45.0063943 ], [ 8.839294, 45.007071499999988 ], [ 8.8541687, 45.0131 ], [ 8.8599043, 45.012719 ], [ 8.8621335, 45.017119 ], [ 8.8548135, 45.0197285 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "braux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Braux", "metric_roundness": 39.58, "metric_rectangularity": 64.12, "metric_mobile_fit": 96.48, "metric_aspect_ratio": 0.598, "metric_area_km2": 22.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.7191147, 43.998347 ], [ 6.7101628, 44.0114447 ], [ 6.7002065, 44.017439 ], [ 6.6750945, 43.9976255 ], [ 6.6830576, 43.9858398 ], [ 6.6923794, 43.9794432 ], [ 6.6918771, 43.9682124 ], [ 6.69448, 43.962455499999983 ], [ 6.703542, 43.9684403 ], [ 6.7130762, 43.9853898 ], [ 6.7207721, 43.986050200000015 ], [ 6.7202995, 43.991032 ], [ 6.7191147, 43.998347 ] ] ] } }
+]
+}

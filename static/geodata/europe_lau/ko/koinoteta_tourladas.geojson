@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_tourladas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Τουρλάδας", "metric_roundness": 35.62, "metric_rectangularity": 65.31, "metric_mobile_fit": -23.19, "metric_aspect_ratio": 1.794, "metric_area_km2": 19.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.131566, 37.886782499999988 ], [ 22.1395865, 37.8815005 ], [ 22.1652736, 37.8824594 ], [ 22.1927405, 37.892937 ], [ 22.2011227, 37.8965478 ], [ 22.2018241, 37.9070667 ], [ 22.1910029, 37.9123983 ], [ 22.181217, 37.909326 ], [ 22.1734408, 37.9039781 ], [ 22.156211, 37.899113 ], [ 22.1422078, 37.899153399999989 ], [ 22.1366775, 37.904242499999988 ], [ 22.131566, 37.886782499999988 ] ] ] } }
+]
+}

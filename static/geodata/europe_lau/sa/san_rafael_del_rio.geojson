@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_rafael_del_rio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Rafael del Río", "metric_roundness": 42.99, "metric_rectangularity": 56.46, "metric_mobile_fit": 17.87, "metric_aspect_ratio": 1.384, "metric_area_km2": 36.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3041526, 40.59045 ], [ 0.3114307, 40.5798841 ], [ 0.3354429, 40.5663872 ], [ 0.3460845, 40.5847375 ], [ 0.3481638, 40.5937646 ], [ 0.3705227, 40.5835077 ], [ 0.392416, 40.604168 ], [ 0.3298315, 40.611046 ], [ 0.3111155, 40.616905 ], [ 0.3003575, 40.5916175 ], [ 0.3041526, 40.59045 ] ] ] } }
+]
+}

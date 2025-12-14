@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "paskova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pašková", "metric_roundness": 42.99, "metric_rectangularity": 69.12, "metric_mobile_fit": 53.46, "metric_aspect_ratio": 1.028, "metric_area_km2": 13.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3703925, 48.581187499999984 ], [ 20.3838115, 48.576050699999982 ], [ 20.3967065, 48.5786033 ], [ 20.4002182, 48.5758261 ], [ 20.4065323, 48.576792499999982 ], [ 20.403343, 48.5861806 ], [ 20.395377, 48.594668499999983 ], [ 20.3847492, 48.600353299999973 ], [ 20.3651895, 48.60243 ], [ 20.3703925, 48.581187499999984 ] ] ] } }
+]
+}

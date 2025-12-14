@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ammeldingen_bei_neuerburg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ammeldingen bei Neuerburg", "metric_roundness": 36.74, "metric_rectangularity": 58.98, "metric_mobile_fit": 99.4, "metric_aspect_ratio": 0.569, "metric_area_km2": 10.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.278836, 50.0290351 ], [ 6.2827411, 50.043970599999987 ], [ 6.28751, 50.046212 ], [ 6.2834008, 50.0487027 ], [ 6.2843941, 50.054484099999989 ], [ 6.278918, 50.062828 ], [ 6.257065, 50.0437855 ], [ 6.2613996, 50.0362428 ], [ 6.2707485, 50.03302 ], [ 6.275357, 50.02844 ], [ 6.278836, 50.0290351 ] ] ] } }
+]
+}

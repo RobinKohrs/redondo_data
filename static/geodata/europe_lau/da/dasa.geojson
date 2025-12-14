@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dasa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dasà", "metric_roundness": 25.78, "metric_rectangularity": 45.18, "metric_mobile_fit": -43.96, "metric_aspect_ratio": 2.002, "metric_area_km2": 11.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1649285, 38.557331499999989 ], [ 16.1780239, 38.5633671 ], [ 16.189773, 38.5634274 ], [ 16.1962407, 38.5586205 ], [ 16.2138225, 38.5534455 ], [ 16.2146752, 38.5572545 ], [ 16.1955855, 38.5693675 ], [ 16.1877929, 38.5689157 ], [ 16.1753282, 38.578124599999988 ], [ 16.167821, 38.5794325 ], [ 16.1481343, 38.560280899999981 ], [ 16.152228, 38.5569065 ], [ 16.1649285, 38.557331499999989 ] ] ] } }
+]
+}

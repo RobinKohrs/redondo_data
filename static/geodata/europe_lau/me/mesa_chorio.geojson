@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mesa_chorio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Μέσα Χωριό", "metric_roundness": 37.72, "metric_rectangularity": 69.36, "metric_mobile_fit": -5.4, "metric_aspect_ratio": 1.616, "metric_area_km2": 5.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.4815719, 34.805865099999977 ], [ 32.4864465, 34.8113545 ], [ 32.4778315, 34.819313 ], [ 32.4746577, 34.8143234 ], [ 32.4632024, 34.814763299999981 ], [ 32.4558817, 34.8112045 ], [ 32.4493245, 34.8017495 ], [ 32.4603105, 34.8004575 ], [ 32.4815719, 34.805865099999977 ] ] ] } }
+]
+}

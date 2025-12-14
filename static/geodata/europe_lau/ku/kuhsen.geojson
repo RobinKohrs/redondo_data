@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kuhsen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kühsen", "metric_roundness": 59.41, "metric_rectangularity": 73.1, "metric_mobile_fit": 72.12, "metric_aspect_ratio": 0.841, "metric_area_km2": 20.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.6183393, 53.67206849999998 ], [ 10.635614, 53.671024 ], [ 10.6357921, 53.679869 ], [ 10.63038, 53.6915955 ], [ 10.600472, 53.6997995 ], [ 10.5905488, 53.688032299999975 ], [ 10.5915795, 53.683032 ], [ 10.5955031, 53.674761399999973 ], [ 10.607207, 53.667952 ], [ 10.6183393, 53.67206849999998 ] ] ] } }
+]
+}

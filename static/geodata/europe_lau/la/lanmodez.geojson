@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lanmodez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lanmodez", "metric_roundness": 47.59, "metric_rectangularity": 68.67, "metric_mobile_fit": 91.08, "metric_aspect_ratio": 0.652, "metric_area_km2": 8.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.1015835, 48.830367 ], [ -3.0992565, 48.8305995 ], [ -3.0843732, 48.8471318 ], [ -3.0889735, 48.856861199999983 ], [ -3.093968, 48.8587965 ], [ -3.0969492, 48.853842299999982 ], [ -3.1093844, 48.8519639 ], [ -3.1125253, 48.848386499999989 ], [ -3.1121631, 48.840986699999981 ], [ -3.1029535, 48.830479 ], [ -3.1015835, 48.830367 ] ] ] } }
+]
+}

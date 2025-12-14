@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kdousov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kdousov", "metric_roundness": 40.4, "metric_rectangularity": 67.04, "metric_mobile_fit": 1.39, "metric_aspect_ratio": 1.549, "metric_area_km2": 4.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.6505246, 48.9884066 ], [ 15.64985, 48.993307 ], [ 15.6291325, 48.991568 ], [ 15.6297201, 48.988204199999984 ], [ 15.652309, 48.979066399999979 ], [ 15.6627375, 48.985687499999976 ], [ 15.6621755, 48.9880125 ], [ 15.6505246, 48.9884066 ] ] ] } }
+]
+}

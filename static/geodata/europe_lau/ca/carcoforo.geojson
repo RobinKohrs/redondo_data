@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carcoforo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carcoforo", "metric_roundness": 59.08, "metric_rectangularity": 77.11, "metric_mobile_fit": 17.98, "metric_aspect_ratio": 1.383, "metric_area_km2": 46.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0443645, 45.93631 ], [ 8.0292435, 45.930085 ], [ 8.0151905, 45.9287091 ], [ 7.9967585, 45.9144085 ], [ 8.0056701, 45.902928599999981 ], [ 8.0198114, 45.894418199999983 ], [ 8.0474998, 45.8913886 ], [ 8.0766105, 45.911839899999976 ], [ 8.083695, 45.9132875 ], [ 8.086036, 45.922406 ], [ 8.0650485, 45.935086499999983 ], [ 8.0443645, 45.93631 ] ] ] } }
+]
+}

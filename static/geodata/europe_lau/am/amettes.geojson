@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "amettes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Amettes", "metric_roundness": 54.32, "metric_rectangularity": 79.97, "metric_mobile_fit": 72.01, "metric_aspect_ratio": 0.842, "metric_area_km2": 16.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4189285, 50.522814 ], [ 2.392155, 50.542206 ], [ 2.3861042, 50.545058699999984 ], [ 2.3730345, 50.539019499999981 ], [ 2.3782297, 50.532822599999989 ], [ 2.3780196, 50.5261983 ], [ 2.381899, 50.5192895 ], [ 2.3860491, 50.518669 ], [ 2.3916683, 50.510984199999982 ], [ 2.39938, 50.510426 ], [ 2.4132085, 50.518502 ], [ 2.4189285, 50.522814 ] ] ] } }
+]
+}

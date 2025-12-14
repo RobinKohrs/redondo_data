@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schweisweiler",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schweisweiler", "metric_roundness": 38.63, "metric_rectangularity": 67.13, "metric_mobile_fit": 47.41, "metric_aspect_ratio": 1.088, "metric_area_km2": 11.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8165052, 49.5760442 ], [ 7.8248847, 49.5812625 ], [ 7.850158, 49.58803 ], [ 7.8476921, 49.591290399999984 ], [ 7.851636, 49.598808299999988 ], [ 7.8447085, 49.603932 ], [ 7.8353765, 49.601372 ], [ 7.8223741, 49.593837199999989 ], [ 7.8196357, 49.589222099999979 ], [ 7.8121239, 49.5873713 ], [ 7.8048145, 49.580140499999985 ], [ 7.8087665, 49.5780655 ], [ 7.8165052, 49.5760442 ] ] ] } }
+]
+}

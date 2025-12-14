@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "miralcamp",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Miralcamp", "metric_roundness": 59.17, "metric_rectangularity": 75.13, "metric_mobile_fit": 38.78, "metric_aspect_ratio": 1.175, "metric_area_km2": 26.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.882321, 41.583828 ], [ 0.8819765, 41.5816545 ], [ 0.8888485, 41.5743585 ], [ 0.9154534, 41.5881016 ], [ 0.9228205, 41.587841499999982 ], [ 0.9288197, 41.595867299999988 ], [ 0.928597, 41.6007275 ], [ 0.9050145, 41.611937 ], [ 0.8949371, 41.616705699999983 ], [ 0.8810789, 41.6165682 ], [ 0.862303, 41.60674 ], [ 0.882321, 41.583828 ] ] ] } }
+]
+}

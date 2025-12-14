@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villafranca_tirrena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villafranca Tirrena", "metric_roundness": 31.53, "metric_rectangularity": 64.36, "metric_mobile_fit": 84.36, "metric_aspect_ratio": 0.719, "metric_area_km2": 22.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4332707, 38.22488629999998 ], [ 15.4413726, 38.221724399999985 ], [ 15.4445156, 38.2204978 ], [ 15.4720373, 38.1909202 ], [ 15.479098, 38.18824 ], [ 15.4796243, 38.2067384 ], [ 15.4773707, 38.210921299999988 ], [ 15.4815112, 38.215687199999984 ], [ 15.4794739, 38.22347 ], [ 15.460244, 38.232711 ], [ 15.443921, 38.248745 ], [ 15.4413726, 38.2476714 ], [ 15.4261465, 38.241257 ], [ 15.4332707, 38.22488629999998 ] ] ] } }
+]
+}

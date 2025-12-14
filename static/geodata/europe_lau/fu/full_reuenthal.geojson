@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "full_reuenthal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Full-Reuenthal", "metric_roundness": 55.63, "metric_rectangularity": 71.74, "metric_mobile_fit": 64.37, "metric_aspect_ratio": 0.919, "metric_area_km2": 9.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.184461, 47.604809499999973 ], [ 8.193359, 47.6013192 ], [ 8.1976535, 47.593264499999989 ], [ 8.2117217, 47.6011738 ], [ 8.2149873, 47.6115222 ], [ 8.2212655, 47.615515 ], [ 8.2073739, 47.6202719 ], [ 8.1980548, 47.6186045 ], [ 8.191039, 47.6128795 ], [ 8.184461, 47.604809499999973 ] ] ] } }
+]
+}

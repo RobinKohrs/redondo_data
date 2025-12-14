@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lukavica_okres_zvolen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lukavica (okres Zvolen)", "metric_roundness": 46.97, "metric_rectangularity": 71.72, "metric_mobile_fit": 73.82, "metric_aspect_ratio": 0.824, "metric_area_km2": 11.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.2131542, 48.6530095 ], [ 19.2011555, 48.6586195 ], [ 19.1945645, 48.651786 ], [ 19.1933755, 48.6423736 ], [ 19.196964, 48.6384145 ], [ 19.2022344, 48.637344699999979 ], [ 19.2172716, 48.6381469 ], [ 19.2227845, 48.629058 ], [ 19.2296401, 48.639791599999981 ], [ 19.2302565, 48.646045899999983 ], [ 19.2178765, 48.654014499999988 ], [ 19.2131542, 48.6530095 ] ] ] } }
+]
+}

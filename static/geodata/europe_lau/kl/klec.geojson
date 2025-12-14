@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "klec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Klec", "metric_roundness": 27.94, "metric_rectangularity": 74.45, "metric_mobile_fit": 88.95, "metric_aspect_ratio": 0.452, "metric_area_km2": 15.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.757951, 49.0845464 ], [ 14.761048, 49.0823648 ], [ 14.7627832, 49.072793899999986 ], [ 14.7718195, 49.073264 ], [ 14.7723796, 49.0871426 ], [ 14.757951, 49.1153547 ], [ 14.755732, 49.1196935 ], [ 14.74077, 49.117721 ], [ 14.742183, 49.1106879 ], [ 14.740005, 49.1048354 ], [ 14.7509895, 49.089450499999984 ], [ 14.757951, 49.0845464 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chiddes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chiddes", "metric_roundness": 33.7, "metric_rectangularity": 61.17, "metric_mobile_fit": -43.03, "metric_aspect_ratio": 1.993, "metric_area_km2": 15.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.497358, 46.453340499999982 ], [ 4.5150775, 46.447063 ], [ 4.5259303, 46.443453099999985 ], [ 4.5380569, 46.450116599999987 ], [ 4.5413845, 46.455195499999988 ], [ 4.541728, 46.457259 ], [ 4.5447, 46.461477 ], [ 4.535543, 46.464155499999983 ], [ 4.5117882, 46.4637181 ], [ 4.500337, 46.467336699999983 ], [ 4.4756115, 46.464912 ], [ 4.497358, 46.453340499999982 ] ] ] } }
+]
+}

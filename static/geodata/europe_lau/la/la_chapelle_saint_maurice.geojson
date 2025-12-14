@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chapelle_saint_maurice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chapelle-Saint-Maurice", "metric_roundness": 52.54, "metric_rectangularity": 82.46, "metric_mobile_fit": 72.59, "metric_aspect_ratio": 0.837, "metric_area_km2": 13.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.168692, 45.767839 ], [ 6.170657, 45.77112 ], [ 6.1710108, 45.7736607 ], [ 6.171304, 45.7757665 ], [ 6.1735095, 45.77968 ], [ 6.1710108, 45.780191699999989 ], [ 6.13911, 45.7867245 ], [ 6.1363208, 45.777178499999984 ], [ 6.1406269, 45.7689069 ], [ 6.1376115, 45.76133 ], [ 6.1428995, 45.761511 ], [ 6.147667, 45.7599495 ], [ 6.1525375, 45.7594725 ], [ 6.1562375, 45.7571395 ], [ 6.166239, 45.755718 ], [ 6.168692, 45.767839 ] ] ] } }
+]
+}

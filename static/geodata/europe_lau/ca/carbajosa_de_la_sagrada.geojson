@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carbajosa_de_la_sagrada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carbajosa de la Sagrada", "metric_roundness": 35.29, "metric_rectangularity": 65.98, "metric_mobile_fit": 73.38, "metric_aspect_ratio": 0.829, "metric_area_km2": 24.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.631774, 40.9354989 ], [ -5.6391442, 40.9486014 ], [ -5.6491624, 40.9478929 ], [ -5.6549675, 40.9506185 ], [ -5.664153, 40.934997499999987 ], [ -5.6517778, 40.9190481 ], [ -5.6395942, 40.9146772 ], [ -5.6344773, 40.9076989 ], [ -5.6289055, 40.9088194 ], [ -5.6169513, 40.903956199999989 ], [ -5.614461, 40.895275 ], [ -5.6101393, 40.8970442 ], [ -5.6052093, 40.9060979 ], [ -5.603454, 40.919365 ], [ -5.615888, 40.9233245 ], [ -5.631774, 40.9354989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_louis_les_bitche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Louis-lès-Bitche", "metric_roundness": 39.07, "metric_rectangularity": 50.43, "metric_mobile_fit": 55.62, "metric_aspect_ratio": 1.006, "metric_area_km2": 10.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.36197, 48.9979679 ], [ 7.3531956, 49.0023347 ], [ 7.3443845, 49.0005135 ], [ 7.340729, 48.998245 ], [ 7.3384845, 48.9960055 ], [ 7.3368385, 48.992961 ], [ 7.3382465, 48.98857 ], [ 7.3346925, 48.986521 ], [ 7.3305985, 48.986621 ], [ 7.3264455, 48.985895 ], [ 7.3461156, 48.984598499999983 ], [ 7.3522553, 48.9757928 ], [ 7.3618285, 48.97064049999998 ], [ 7.3606821, 48.985727 ], [ 7.3664621, 48.992544199999976 ], [ 7.3750465, 48.9969175 ], [ 7.36197, 48.9979679 ] ] ] } }
+]
+}

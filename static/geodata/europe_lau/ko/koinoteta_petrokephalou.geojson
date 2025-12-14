@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_petrokephalou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πετροκεφάλου", "metric_roundness": 47.36, "metric_rectangularity": 67.31, "metric_mobile_fit": 30.64, "metric_aspect_ratio": 1.256, "metric_area_km2": 4.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.0451135, 35.2452375 ], [ 25.0583245, 35.2573585 ], [ 25.0521765, 35.259451 ], [ 25.0338925, 35.262703 ], [ 25.034763, 35.257502499999987 ], [ 25.032948, 35.252457 ], [ 25.0322065, 35.2497755 ], [ 25.0320665, 35.247553 ], [ 25.0309175, 35.244886 ], [ 25.0451135, 35.2452375 ] ] ] } }
+]
+}

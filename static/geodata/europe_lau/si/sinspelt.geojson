@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sinspelt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sinspelt", "metric_roundness": 36.79, "metric_rectangularity": 45.01, "metric_mobile_fit": 22.27, "metric_aspect_ratio": 1.34, "metric_area_km2": 5.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3295996, 49.969986299999988 ], [ 6.3412605, 49.980713499999979 ], [ 6.3246717, 49.978373 ], [ 6.3185205, 49.98465 ], [ 6.3136483, 49.982963699999985 ], [ 6.308425, 49.986126 ], [ 6.3028592, 49.9847537 ], [ 6.3058165, 49.980704 ], [ 6.3155578, 49.9758607 ], [ 6.3142055, 49.967693499999989 ], [ 6.3295996, 49.969986299999988 ] ] ] } }
+]
+}

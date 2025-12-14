@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rajecko",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ráječko", "metric_roundness": 44.09, "metric_rectangularity": 71.3, "metric_mobile_fit": 6.5, "metric_aspect_ratio": 1.497, "metric_area_km2": 11.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.672097, 49.402652499999988 ], [ 16.6519245, 49.403020299999987 ], [ 16.6383815, 49.3984445 ], [ 16.632255, 49.393061499999988 ], [ 16.6352204, 49.384250199999983 ], [ 16.6399254, 49.381203 ], [ 16.6443174, 49.3867758 ], [ 16.6740679, 49.3918039 ], [ 16.6824505, 49.397053499999984 ], [ 16.681135, 49.3986745 ], [ 16.672097, 49.402652499999988 ] ] ] } }
+]
+}

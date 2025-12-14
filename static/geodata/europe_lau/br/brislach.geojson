@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brislach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brislach", "metric_roundness": 43.94, "metric_rectangularity": 53.92, "metric_mobile_fit": 12.97, "metric_aspect_ratio": 1.433, "metric_area_km2": 20.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.543541, 47.4141105 ], [ 7.554645, 47.414352 ], [ 7.5660915, 47.413431499999987 ], [ 7.5803125, 47.414683499999988 ], [ 7.5686147, 47.422700099999979 ], [ 7.5685855, 47.436472 ], [ 7.5584252, 47.442489 ], [ 7.548398, 47.443697 ], [ 7.5472113, 47.4363362 ], [ 7.523084, 47.423706 ], [ 7.5130335, 47.41998 ], [ 7.52234, 47.414029 ], [ 7.5263385, 47.411930499999983 ], [ 7.543541, 47.4141105 ] ] ] } }
+]
+}

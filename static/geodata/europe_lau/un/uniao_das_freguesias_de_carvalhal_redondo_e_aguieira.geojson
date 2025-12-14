@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_carvalhal_redondo_e_aguieira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Carvalhal Redondo e Aguieira", "metric_roundness": 47.13, "metric_rectangularity": 75.67, "metric_mobile_fit": 29.81, "metric_aspect_ratio": 1.264, "metric_area_km2": 23.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.876834, 40.542319 ], [ -7.884168, 40.551611 ], [ -7.8951326, 40.5544556 ], [ -7.9189938, 40.5456514 ], [ -7.9313714, 40.538472799999987 ], [ -7.9359844, 40.5305794 ], [ -7.940535, 40.528177 ], [ -7.9390325, 40.5161665 ], [ -7.90994, 40.519974199999986 ], [ -7.8983703, 40.5243563 ], [ -7.8906922, 40.5310766 ], [ -7.882003, 40.529056 ], [ -7.876834, 40.542319 ] ] ] } }
+]
+}

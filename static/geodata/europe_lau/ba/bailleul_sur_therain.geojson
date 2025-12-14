@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bailleul_sur_therain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bailleul-sur-Thérain", "metric_roundness": 40.23, "metric_rectangularity": 70.96, "metric_mobile_fit": 16.32, "metric_aspect_ratio": 1.399, "metric_area_km2": 21.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2420694, 49.367916699999981 ], [ 2.265655, 49.383955499999985 ], [ 2.2487656, 49.3925527 ], [ 2.2302892, 49.3933452 ], [ 2.2264091, 49.401926 ], [ 2.2155471, 49.394999299999988 ], [ 2.2130715, 49.397307 ], [ 2.2080175, 49.3989797 ], [ 2.1974547, 49.3927213 ], [ 2.192548, 49.392972 ], [ 2.1964995, 49.387488 ], [ 2.2072425, 49.383727 ], [ 2.212922, 49.383103799999986 ], [ 2.236829, 49.369139499999989 ], [ 2.2420694, 49.367916699999981 ] ] ] } }
+]
+}

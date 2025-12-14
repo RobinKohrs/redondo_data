@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "docelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Docelles", "metric_roundness": 45.12, "metric_rectangularity": 67.35, "metric_mobile_fit": 92.99, "metric_aspect_ratio": 0.633, "metric_area_km2": 20.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6097851, 48.1347685 ], [ 6.6224635, 48.1238935 ], [ 6.6353489, 48.11813919999998 ], [ 6.644917, 48.139371 ], [ 6.642209, 48.141631 ], [ 6.6324568, 48.1468376 ], [ 6.645088, 48.15706 ], [ 6.6314315, 48.159586499999989 ], [ 6.605796, 48.158791 ], [ 6.6097851, 48.1347685 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "warringholz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Warringholz", "metric_roundness": 56.91, "metric_rectangularity": 66.53, "metric_mobile_fit": 80.33, "metric_aspect_ratio": 0.759, "metric_area_km2": 18.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.451128, 54.080122 ], [ 9.4616513, 54.066240599999986 ], [ 9.4603825, 54.0624325 ], [ 9.4627623, 54.058339499999981 ], [ 9.4683022, 54.0586309 ], [ 9.481926, 54.064918499999983 ], [ 9.4791025, 54.069539 ], [ 9.492321, 54.078366599999988 ], [ 9.4932605, 54.085210499999988 ], [ 9.474561, 54.090899 ], [ 9.453435, 54.087686 ], [ 9.451128, 54.080122 ] ] ] } }
+]
+}

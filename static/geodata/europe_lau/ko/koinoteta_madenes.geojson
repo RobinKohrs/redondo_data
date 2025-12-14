@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_madenes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μαδένης", "metric_roundness": 40.16, "metric_rectangularity": 54.86, "metric_mobile_fit": 90.14, "metric_aspect_ratio": 0.661, "metric_area_km2": 4.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9638018, 37.022358 ], [ 21.9706487, 37.0350946 ], [ 21.9777425, 37.03691 ], [ 21.9708423, 37.0461744 ], [ 21.966121, 37.0479555 ], [ 21.9582488, 37.046749 ], [ 21.955523, 37.0400215 ], [ 21.9601113, 37.0352585 ], [ 21.9605295, 37.021125499999989 ], [ 21.9638018, 37.022358 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hyncice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hynčice", "metric_roundness": 58.06, "metric_rectangularity": 81.45, "metric_mobile_fit": 75.69, "metric_aspect_ratio": 0.806, "metric_area_km2": 6.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.302338, 50.6260233 ], [ 16.2965598, 50.630173 ], [ 16.295078, 50.636275 ], [ 16.2832621, 50.6329899 ], [ 16.2760299, 50.626970099999987 ], [ 16.275948, 50.623944 ], [ 16.280984, 50.617047499999984 ], [ 16.283748, 50.615495 ], [ 16.288863, 50.6169675 ], [ 16.293771, 50.6175885 ], [ 16.2974195, 50.618728 ], [ 16.302338, 50.6260233 ] ] ] } }
+]
+}

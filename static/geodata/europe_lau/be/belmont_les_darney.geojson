@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "belmont_les_darney",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Belmont-lès-Darney", "metric_roundness": 49.25, "metric_rectangularity": 72.74, "metric_mobile_fit": 75.93, "metric_aspect_ratio": 0.803, "metric_area_km2": 9.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0103525, 48.093963 ], [ 6.00027, 48.09141 ], [ 6.0025475, 48.072975 ], [ 6.0103525, 48.0763709 ], [ 6.0147082, 48.0782661 ], [ 6.0212266, 48.076462399999983 ], [ 6.0301395, 48.083361 ], [ 6.0279446, 48.089334699999981 ], [ 6.0296051, 48.09352 ], [ 6.0255775, 48.097818 ], [ 6.0103525, 48.093963 ] ] ] } }
+]
+}

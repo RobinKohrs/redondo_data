@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mairos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mairos", "metric_roundness": 62.24, "metric_rectangularity": 77.34, "metric_mobile_fit": 54.0, "metric_aspect_ratio": 1.023, "metric_area_km2": 21.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.3573785, 41.8420145 ], [ -7.3659618, 41.8310966 ], [ -7.3696125, 41.8180275 ], [ -7.3594181, 41.816932 ], [ -7.3566625, 41.8116104 ], [ -7.3604785, 41.807758 ], [ -7.3209505, 41.816341 ], [ -7.319509, 41.8294441 ], [ -7.3260245, 41.844272 ], [ -7.3573785, 41.8420145 ] ] ] } }
+]
+}

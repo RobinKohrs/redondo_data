@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "esporoes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Esporões", "metric_roundness": 39.21, "metric_rectangularity": 78.29, "metric_mobile_fit": -59.83, "metric_aspect_ratio": 2.161, "metric_area_km2": 7.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.3917985, 41.519023 ], [ -8.41649, 41.5166955 ], [ -8.4365245, 41.512232 ], [ -8.432395, 41.5049275 ], [ -8.42163, 41.5034935 ], [ -8.4041687, 41.5042611 ], [ -8.3938075, 41.5100235 ], [ -8.3917135, 41.517928499999989 ], [ -8.3917985, 41.519023 ] ] ] } }
+]
+}

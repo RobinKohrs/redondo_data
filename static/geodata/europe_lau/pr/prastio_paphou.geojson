@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prastio_paphou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Πραστιό Πάφου", "metric_roundness": 40.78, "metric_rectangularity": 62.03, "metric_mobile_fit": 79.21, "metric_aspect_ratio": 0.77, "metric_area_km2": 9.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.7001575, 34.802672 ], [ 32.6880902, 34.787586099999984 ], [ 32.671528, 34.7791895 ], [ 32.6785227, 34.7776778 ], [ 32.684813, 34.76542 ], [ 32.696917, 34.7688326 ], [ 32.706472, 34.782673 ], [ 32.705055699999988, 34.7908191 ], [ 32.7019667, 34.7934786 ], [ 32.7060485, 34.799155 ], [ 32.7001575, 34.802672 ] ] ] } }
+]
+}

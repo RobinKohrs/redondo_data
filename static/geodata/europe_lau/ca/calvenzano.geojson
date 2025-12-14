@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "calvenzano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Calvenzano", "metric_roundness": 68.13, "metric_rectangularity": 90.92, "metric_mobile_fit": 73.45, "metric_aspect_ratio": 0.828, "metric_area_km2": 13.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.586865, 45.4862105 ], [ 9.5908475, 45.4760725 ], [ 9.5944383, 45.473897099999981 ], [ 9.6086605, 45.475457 ], [ 9.619528, 45.480925499999984 ], [ 9.6129155, 45.502492 ], [ 9.6080143, 45.504629899999983 ], [ 9.5832275, 45.498345 ], [ 9.586865, 45.4862105 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "binasco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Binasco", "metric_roundness": 45.5, "metric_rectangularity": 64.34, "metric_mobile_fit": -0.3, "metric_aspect_ratio": 1.566, "metric_area_km2": 8.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0920365, 45.3232522 ], [ 9.1149371, 45.3255875 ], [ 9.12081, 45.321908 ], [ 9.1234111, 45.3249304 ], [ 9.112514, 45.337953 ], [ 9.1016975, 45.340303499999983 ], [ 9.082446, 45.334675 ], [ 9.0863156, 45.329058799999984 ], [ 9.0849665, 45.3253135 ], [ 9.0920365, 45.3232522 ] ] ] } }
+]
+}

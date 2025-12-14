@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nosate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nosate", "metric_roundness": 47.22, "metric_rectangularity": 64.11, "metric_mobile_fit": 84.52, "metric_aspect_ratio": 0.717, "metric_area_km2": 10.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7235392, 45.543110399999989 ], [ 8.7331129, 45.5493003 ], [ 8.739189, 45.560191499999988 ], [ 8.7289099, 45.562296 ], [ 8.7210441, 45.5733089 ], [ 8.7159105, 45.564007299999986 ], [ 8.7068965, 45.558316 ], [ 8.70643, 45.555454 ], [ 8.7110195, 45.541333 ], [ 8.7235392, 45.543110399999989 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gehlert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gehlert", "metric_roundness": 66.17, "metric_rectangularity": 74.95, "metric_mobile_fit": 77.93, "metric_aspect_ratio": 0.783, "metric_area_km2": 12.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.846726, 50.627578899999982 ], [ 7.8454725, 50.633633 ], [ 7.8398834, 50.6419559 ], [ 7.8307876, 50.6472069 ], [ 7.8190057, 50.64332 ], [ 7.8120585, 50.626810499999984 ], [ 7.8234142, 50.619402699999988 ], [ 7.827176, 50.61913 ], [ 7.826491, 50.621464 ], [ 7.8369005, 50.62183049999998 ], [ 7.8391755, 50.622639 ], [ 7.8436185, 50.623903 ], [ 7.846726, 50.627578899999982 ] ] ] } }
+]
+}

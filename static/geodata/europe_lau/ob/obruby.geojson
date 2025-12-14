@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "obruby",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Obruby", "metric_roundness": 37.11, "metric_rectangularity": 55.72, "metric_mobile_fit": 93.39, "metric_aspect_ratio": 0.629, "metric_area_km2": 11.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.096661, 50.4608485 ], [ 15.0919278, 50.4705635 ], [ 15.0926875, 50.4777025 ], [ 15.0832243, 50.466659199999988 ], [ 15.068248, 50.4622307 ], [ 15.0629185, 50.464115 ], [ 15.0674066, 50.453834699999987 ], [ 15.079542, 50.4435315 ], [ 15.0872249, 50.4486249 ], [ 15.092348, 50.448442 ], [ 15.09614, 50.449776499999984 ], [ 15.096661, 50.4608485 ] ] ] } }
+]
+}

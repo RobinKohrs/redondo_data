@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kacerov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kaceřov", "metric_roundness": 58.19, "metric_rectangularity": 66.3, "metric_mobile_fit": 52.27, "metric_aspect_ratio": 1.04, "metric_area_km2": 13.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.5277723, 50.144311199999983 ], [ 12.5234448, 50.148220399999964 ], [ 12.528488, 50.150812 ], [ 12.5133255, 50.1506067 ], [ 12.511219, 50.160013 ], [ 12.4940465, 50.156728799999989 ], [ 12.485074, 50.149041499999989 ], [ 12.4884165, 50.133257 ], [ 12.5027273, 50.1339675 ], [ 12.5142605, 50.1385415 ], [ 12.5277723, 50.144311199999983 ] ] ] } }
+]
+}

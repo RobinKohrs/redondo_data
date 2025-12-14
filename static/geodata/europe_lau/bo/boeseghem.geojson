@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boeseghem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boëseghem", "metric_roundness": 48.46, "metric_rectangularity": 58.28, "metric_mobile_fit": 70.03, "metric_aspect_ratio": 0.862, "metric_area_km2": 17.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4615125, 50.6879935 ], [ 2.4527445, 50.6870379 ], [ 2.4419494, 50.6797306 ], [ 2.4145095, 50.6694295 ], [ 2.4161275, 50.665831499999975 ], [ 2.421645, 50.665648 ], [ 2.4289825, 50.657015 ], [ 2.43499, 50.655934 ], [ 2.4407905, 50.656108 ], [ 2.4472925, 50.654847 ], [ 2.450816, 50.6534445 ], [ 2.4548079, 50.655494499999989 ], [ 2.457566, 50.6675925 ], [ 2.4615125, 50.6879935 ] ] ] } }
+]
+}

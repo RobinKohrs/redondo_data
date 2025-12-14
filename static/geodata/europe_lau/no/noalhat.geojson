@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "noalhat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Noalhat", "metric_roundness": 57.23, "metric_rectangularity": 75.36, "metric_mobile_fit": 57.2, "metric_aspect_ratio": 0.99, "metric_area_km2": 10.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4807353, 45.9212091 ], [ 3.4700761, 45.927383 ], [ 3.445723, 45.9307905 ], [ 3.4454257, 45.924843399999986 ], [ 3.4517465, 45.913141 ], [ 3.448842, 45.9097505 ], [ 3.4702127, 45.9059902 ], [ 3.4800845, 45.9183005 ], [ 3.4807353, 45.9212091 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "colleretto_castelnuovo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Colleretto Castelnuovo", "metric_roundness": 22.93, "metric_rectangularity": 53.3, "metric_mobile_fit": 98.3, "metric_aspect_ratio": 0.545, "metric_area_km2": 13.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6848883, 45.4382044 ], [ 7.6770237, 45.4451351 ], [ 7.6608573, 45.4494023 ], [ 7.6636645, 45.45432 ], [ 7.6685075, 45.4561555 ], [ 7.663918, 45.460843 ], [ 7.6441845, 45.458297 ], [ 7.6528578, 45.445007699999984 ], [ 7.6712731, 45.429357199999984 ], [ 7.676226, 45.4158003 ], [ 7.674614, 45.408478 ], [ 7.683689, 45.4159035 ], [ 7.6848883, 45.4382044 ] ] ] } }
+]
+}

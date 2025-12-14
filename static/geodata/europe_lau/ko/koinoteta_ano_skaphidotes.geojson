@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_skaphidotes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Σκαφιδωτής", "metric_roundness": 31.05, "metric_rectangularity": 68.18, "metric_mobile_fit": 87.69, "metric_aspect_ratio": 0.686, "metric_area_km2": 10.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6233365, 39.297242 ], [ 20.6323459, 39.2817286 ], [ 20.6464396, 39.266337599999986 ], [ 20.6497535, 39.257008 ], [ 20.6589745, 39.2605715 ], [ 20.6504377, 39.2913 ], [ 20.6423564, 39.297170099999981 ], [ 20.633886, 39.2972465 ], [ 20.6233365, 39.297242 ] ] ] } }
+]
+}

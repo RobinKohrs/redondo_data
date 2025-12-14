@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kriegsheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kriegsheim", "metric_roundness": 57.65, "metric_rectangularity": 65.96, "metric_mobile_fit": 35.09, "metric_aspect_ratio": 1.212, "metric_area_km2": 8.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7563295, 48.759355 ], [ 7.753412, 48.761435 ], [ 7.7478375, 48.762733499999989 ], [ 7.7454455, 48.7639785 ], [ 7.741756, 48.7613985 ], [ 7.7361875, 48.764192 ], [ 7.732986, 48.764203 ], [ 7.728153, 48.765557 ], [ 7.7197405, 48.7659115 ], [ 7.719376, 48.7618745 ], [ 7.720369, 48.7597575 ], [ 7.7208925, 48.751932 ], [ 7.7342217, 48.745803899999984 ], [ 7.7476635, 48.75178649999998 ], [ 7.7563295, 48.759355 ] ] ] } }
+]
+}

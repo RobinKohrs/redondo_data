@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cerniky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Černíky", "metric_roundness": 38.1, "metric_rectangularity": 59.66, "metric_mobile_fit": 17.82, "metric_aspect_ratio": 1.384, "metric_area_km2": 9.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8304094, 50.0951668 ], [ 14.8332673, 50.1013833 ], [ 14.8410015, 50.102018 ], [ 14.834448, 50.106266399999988 ], [ 14.819735, 50.108627 ], [ 14.8064098, 50.1107379 ], [ 14.802589, 50.1142378 ], [ 14.7958045, 50.1129885 ], [ 14.7909305, 50.1072851 ], [ 14.7996822, 50.101494 ], [ 14.8128797, 50.101805 ], [ 14.8182275, 50.091054 ], [ 14.8201605, 50.091037 ], [ 14.8304094, 50.0951668 ] ] ] } }
+]
+}

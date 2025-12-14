@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thiernu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thiernu", "metric_roundness": 69.33, "metric_rectangularity": 76.56, "metric_mobile_fit": 69.5, "metric_aspect_ratio": 0.868, "metric_area_km2": 14.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7593045, 49.7634195 ], [ 3.766043, 49.7589755 ], [ 3.7674025, 49.755591499999987 ], [ 3.769548, 49.752998 ], [ 3.777181, 49.755287499999987 ], [ 3.786047, 49.750188 ], [ 3.799349, 49.76059 ], [ 3.798225, 49.764915 ], [ 3.7923847, 49.773558399999985 ], [ 3.7873875, 49.7762985 ], [ 3.778742, 49.780003 ], [ 3.7666782, 49.775255899999983 ], [ 3.759316, 49.768773 ], [ 3.7593045, 49.7634195 ] ] ] } }
+]
+}

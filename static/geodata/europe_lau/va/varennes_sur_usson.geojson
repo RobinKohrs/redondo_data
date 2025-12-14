@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "varennes_sur_usson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Varennes-sur-Usson", "metric_roundness": 39.66, "metric_rectangularity": 53.66, "metric_mobile_fit": 34.16, "metric_aspect_ratio": 1.221, "metric_area_km2": 13.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3271455, 45.519413 ], [ 3.3290969, 45.5307315 ], [ 3.34998, 45.543231 ], [ 3.3501595, 45.549572499999989 ], [ 3.3458675, 45.549431 ], [ 3.3396295, 45.547913 ], [ 3.3354375, 45.546195499999989 ], [ 3.3267275, 45.546093499999984 ], [ 3.3246705, 45.545616499999987 ], [ 3.314742, 45.541745 ], [ 3.3083835, 45.536896499999983 ], [ 3.3044555, 45.5355815 ], [ 3.297592, 45.534741 ], [ 3.3018773, 45.5269164 ], [ 3.306129, 45.52513 ], [ 3.3271455, 45.519413 ] ] ] } }
+]
+}

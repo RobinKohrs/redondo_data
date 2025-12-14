@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osmanville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Osmanville", "metric_roundness": 51.02, "metric_rectangularity": 74.78, "metric_mobile_fit": 49.86, "metric_aspect_ratio": 1.064, "metric_area_km2": 27.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0808285, 49.349919299999982 ], [ -1.098755, 49.348740899999981 ], [ -1.1157235, 49.351438 ], [ -1.1130309, 49.328484499999988 ], [ -1.105523, 49.322531 ], [ -1.0754814, 49.316214 ], [ -1.060345, 49.318584499999986 ], [ -1.0614435, 49.322827499999988 ], [ -1.0582145, 49.339578 ], [ -1.075435, 49.3411756 ], [ -1.0766565, 49.347265499999978 ], [ -1.0808285, 49.349919299999982 ] ] ] } }
+]
+}

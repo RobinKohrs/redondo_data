@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vallerois_lorioz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vallerois-Lorioz", "metric_roundness": 32.56, "metric_rectangularity": 64.58, "metric_mobile_fit": 54.09, "metric_aspect_ratio": 1.022, "metric_area_km2": 13.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.121066, 47.5746745 ], [ 6.1386993, 47.5706516 ], [ 6.148156, 47.5589867 ], [ 6.170735, 47.546524 ], [ 6.17298, 47.549062 ], [ 6.1735343, 47.5636959 ], [ 6.1710108, 47.5661787 ], [ 6.1695295, 47.567636 ], [ 6.163301, 47.571669 ], [ 6.1572915, 47.574163499999983 ], [ 6.155377, 47.574362 ], [ 6.1504485, 47.578936499999976 ], [ 6.1492785, 47.581180499999981 ], [ 6.1214245, 47.5750235 ], [ 6.121066, 47.5746745 ] ] ] } }
+]
+}

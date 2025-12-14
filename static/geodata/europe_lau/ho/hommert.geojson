@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hommert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hommert", "metric_roundness": 50.68, "metric_rectangularity": 72.04, "metric_mobile_fit": 11.66, "metric_aspect_ratio": 1.446, "metric_area_km2": 7.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.18483, 48.6732841 ], [ 7.1948217, 48.6754343 ], [ 7.1954042, 48.679270399999979 ], [ 7.1916984, 48.684888499999985 ], [ 7.1764515, 48.685731499999989 ], [ 7.1741165, 48.684836499999982 ], [ 7.169883, 48.68056 ], [ 7.167254, 48.6808025 ], [ 7.162156, 48.678768 ], [ 7.1553695, 48.679647 ], [ 7.1697372, 48.667448 ], [ 7.1829675, 48.670051 ], [ 7.18483, 48.6732841 ] ] ] } }
+]
+}

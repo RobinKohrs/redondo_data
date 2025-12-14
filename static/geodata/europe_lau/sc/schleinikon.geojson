@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schleinikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schleinikon", "metric_roundness": 27.1, "metric_rectangularity": 53.64, "metric_mobile_fit": 88.08, "metric_aspect_ratio": 0.443, "metric_area_km2": 12.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.404207, 47.482195 ], [ 8.406001, 47.482351 ], [ 8.4008722, 47.487295699999983 ], [ 8.4012992, 47.512287599999986 ], [ 8.3975498, 47.5231484 ], [ 8.393299, 47.52572 ], [ 8.391881, 47.525138 ], [ 8.3891444, 47.507043199999984 ], [ 8.3770276, 47.4874671 ], [ 8.378243, 47.481563 ], [ 8.39332, 47.4818085 ], [ 8.404207, 47.482195 ] ] ] } }
+]
+}

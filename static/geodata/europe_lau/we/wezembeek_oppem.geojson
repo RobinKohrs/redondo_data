@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wezembeek_oppem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wezembeek-Oppem", "metric_roundness": 55.25, "metric_rectangularity": 70.38, "metric_mobile_fit": 78.98, "metric_aspect_ratio": 0.773, "metric_area_km2": 17.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.494292, 50.8299483 ], [ 4.5032643, 50.8281976 ], [ 4.5126702, 50.8335283 ], [ 4.5100575, 50.838348499999974 ], [ 4.5067949, 50.847933499999989 ], [ 4.499405, 50.8556058 ], [ 4.4862689, 50.861540899999987 ], [ 4.480747, 50.860953 ], [ 4.4800858, 50.854744599999989 ], [ 4.471365, 50.841528599999982 ], [ 4.4876065, 50.827789499999987 ], [ 4.494292, 50.8299483 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "morrens_vd",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Morrens (VD)", "metric_roundness": 40.95, "metric_rectangularity": 60.24, "metric_mobile_fit": 93.32, "metric_aspect_ratio": 0.629, "metric_area_km2": 8.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6305806, 46.6089191 ], [ 6.6263565, 46.603472499999988 ], [ 6.623795, 46.5984975 ], [ 6.6209285, 46.595598 ], [ 6.6175565, 46.595915499999968 ], [ 6.6139405, 46.5908695 ], [ 6.616341, 46.581495 ], [ 6.628943, 46.578977 ], [ 6.6360437, 46.588404899999986 ], [ 6.6413625, 46.5904895 ], [ 6.6337103, 46.5979224 ], [ 6.638529, 46.608246 ], [ 6.6305806, 46.6089191 ] ] ] } }
+]
+}

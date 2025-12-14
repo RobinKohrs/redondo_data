@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "labastide_beauvoir",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Labastide-Beauvoir", "metric_roundness": 57.42, "metric_rectangularity": 75.13, "metric_mobile_fit": 77.96, "metric_aspect_ratio": 0.783, "metric_area_km2": 19.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6487067, 43.4920441 ], [ 1.6419195, 43.478513 ], [ 1.6535611, 43.4681494 ], [ 1.6585215, 43.467453 ], [ 1.6647483, 43.4681174 ], [ 1.6773354, 43.462486299999981 ], [ 1.6783775, 43.468884 ], [ 1.6849041, 43.485117299999985 ], [ 1.6803495, 43.48987 ], [ 1.6758735, 43.498701 ], [ 1.671445, 43.500032 ], [ 1.6691845, 43.496863 ], [ 1.6657525, 43.500086 ], [ 1.661474, 43.5016325 ], [ 1.6568235, 43.502322 ], [ 1.645147, 43.495912 ], [ 1.6487067, 43.4920441 ] ] ] } }
+]
+}

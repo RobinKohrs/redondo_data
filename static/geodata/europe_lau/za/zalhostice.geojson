@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zalhostice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Žalhostice", "metric_roundness": 50.42, "metric_rectangularity": 60.56, "metric_mobile_fit": 49.84, "metric_aspect_ratio": 1.064, "metric_area_km2": 5.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0781635, 50.532649 ], [ 14.0765235, 50.528064 ], [ 14.0823319, 50.520618299999988 ], [ 14.080455, 50.516297 ], [ 14.0933821, 50.518607 ], [ 14.1022075, 50.523851 ], [ 14.107846, 50.527304 ], [ 14.0971922, 50.5266986 ], [ 14.0923135, 50.53501 ], [ 14.0781635, 50.532649 ] ] ] } }
+]
+}

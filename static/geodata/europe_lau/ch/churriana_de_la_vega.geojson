@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "churriana_de_la_vega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Churriana de la Vega", "metric_roundness": 45.78, "metric_rectangularity": 58.61, "metric_mobile_fit": 78.65, "metric_aspect_ratio": 0.776, "metric_area_km2": 10.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.66066, 37.159763 ], [ -3.65797, 37.148536499999985 ], [ -3.6456084, 37.1396432 ], [ -3.6372745, 37.128784 ], [ -3.6323135, 37.1359865 ], [ -3.6298345, 37.138397 ], [ -3.6317274, 37.1430263 ], [ -3.6256537, 37.154212699999988 ], [ -3.630377, 37.1602705 ], [ -3.6539613, 37.1612569 ], [ -3.654979, 37.1647415 ], [ -3.660326, 37.1630095 ], [ -3.66066, 37.159763 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ecluzelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Écluzelles", "metric_roundness": 46.43, "metric_rectangularity": 66.19, "metric_mobile_fit": -10.01, "metric_aspect_ratio": 1.663, "metric_area_km2": 7.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4366913, 48.7153382 ], [ 1.419058, 48.716161 ], [ 1.4116417, 48.714241799999982 ], [ 1.4096891, 48.7105448 ], [ 1.4017005, 48.7068935 ], [ 1.410578, 48.701075499999988 ], [ 1.4221239, 48.700490799999976 ], [ 1.4301504, 48.7069704 ], [ 1.4386154, 48.706589699999988 ], [ 1.441181, 48.7121585 ], [ 1.4366913, 48.7153382 ] ] ] } }
+]
+}

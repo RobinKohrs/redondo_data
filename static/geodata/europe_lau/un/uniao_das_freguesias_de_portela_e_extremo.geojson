@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_portela_e_extremo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Portela e Extremo", "metric_roundness": 50.76, "metric_rectangularity": 58.59, "metric_mobile_fit": 50.64, "metric_aspect_ratio": 1.056, "metric_area_km2": 21.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4944505, 41.966033 ], [ -8.470862, 41.9399155 ], [ -8.4596022, 41.9393026 ], [ -8.455628, 41.93542 ], [ -8.4548, 41.9343985 ], [ -8.4436186, 41.9518298 ], [ -8.4386485, 41.973693 ], [ -8.4631445, 41.9711715 ], [ -8.4723486, 41.9727669 ], [ -8.4837398, 41.9665602 ], [ -8.490401, 41.966082 ], [ -8.4944505, 41.966033 ] ] ] } }
+]
+}

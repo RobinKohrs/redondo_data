@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krucov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kručov", "metric_roundness": 59.47, "metric_rectangularity": 71.2, "metric_mobile_fit": 62.98, "metric_aspect_ratio": 0.933, "metric_area_km2": 19.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.5779298, 49.1096262 ], [ 21.5988745, 49.1001185 ], [ 21.6076401, 49.103223399999983 ], [ 21.6166722, 49.1127223 ], [ 21.6263382, 49.1159866 ], [ 21.6302604, 49.120737599999984 ], [ 21.6279155, 49.126869499999977 ], [ 21.6172314, 49.1257339 ], [ 21.601401, 49.1368965 ], [ 21.594245, 49.137362499999981 ], [ 21.5915193, 49.122375699999985 ], [ 21.577183, 49.1131865 ], [ 21.5779298, 49.1096262 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sarpourenx",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sarpourenx", "metric_roundness": 48.62, "metric_rectangularity": 58.47, "metric_mobile_fit": 41.38, "metric_aspect_ratio": 1.149, "metric_area_km2": 6.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7021925, 43.459233 ], [ -0.7047345, 43.458037499999975 ], [ -0.719261, 43.460487 ], [ -0.7221235, 43.46207 ], [ -0.7245905, 43.465471 ], [ -0.726622, 43.4653685 ], [ -0.7296673, 43.4593643 ], [ -0.725468, 43.450049 ], [ -0.7225305, 43.4458148 ], [ -0.71587, 43.443684 ], [ -0.695191, 43.457578 ], [ -0.6996585, 43.4591615 ], [ -0.7021925, 43.459233 ] ] ] } }
+]
+}

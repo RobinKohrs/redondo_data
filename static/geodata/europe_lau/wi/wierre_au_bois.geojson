@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wierre_au_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wierre-au-Bois", "metric_roundness": 67.82, "metric_rectangularity": 74.18, "metric_mobile_fit": 68.46, "metric_aspect_ratio": 0.878, "metric_area_km2": 9.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7766381, 50.662342399999986 ], [ 1.7720065, 50.664061499999967 ], [ 1.7669341, 50.6577454 ], [ 1.7531566, 50.656021899999985 ], [ 1.7519585, 50.650343 ], [ 1.7542982, 50.6459118 ], [ 1.7631811, 50.641057 ], [ 1.7743473, 50.6418865 ], [ 1.783812, 50.646857 ], [ 1.7825714, 50.655420599999978 ], [ 1.777735, 50.6579345 ], [ 1.7766381, 50.662342399999986 ] ] ] } }
+]
+}

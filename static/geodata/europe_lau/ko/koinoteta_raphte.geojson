@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_raphte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ράφτη", "metric_roundness": 53.05, "metric_rectangularity": 74.97, "metric_mobile_fit": 51.91, "metric_aspect_ratio": 1.043, "metric_area_km2": 17.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.933209, 37.589449 ], [ 21.9361992, 37.582836199999988 ], [ 21.948522, 37.574924 ], [ 21.9598368, 37.5762764 ], [ 21.9793381, 37.5938049 ], [ 21.9893615, 37.599368499999983 ], [ 21.9730729, 37.6054906 ], [ 21.9709255, 37.6175635 ], [ 21.9541503, 37.6100582 ], [ 21.9462835, 37.5955734 ], [ 21.9405735, 37.594165499999988 ], [ 21.933209, 37.589449 ] ] ] } }
+]
+}

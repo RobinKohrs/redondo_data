@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pozuelo_de_tabara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pozuelo de Tábara", "metric_roundness": 52.33, "metric_rectangularity": 75.67, "metric_mobile_fit": 28.01, "metric_aspect_ratio": 1.282, "metric_area_km2": 45.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.8743377, 41.7575762 ], [ -5.8701489, 41.7749381 ], [ -5.8714139, 41.7845985 ], [ -5.8834617, 41.7905497 ], [ -5.8850614, 41.795108 ], [ -5.8981612, 41.7998382 ], [ -5.927473, 41.803478 ], [ -5.9592325, 41.7877235 ], [ -5.947071, 41.7812455 ], [ -5.9393995, 41.7739865 ], [ -5.8914655, 41.7540435 ], [ -5.8862895, 41.7531395 ], [ -5.880342, 41.7516745 ], [ -5.8743377, 41.7575762 ] ] ] } }
+]
+}

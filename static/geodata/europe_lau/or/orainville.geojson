@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orainville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orainville", "metric_roundness": 51.52, "metric_rectangularity": 61.92, "metric_mobile_fit": 63.05, "metric_aspect_ratio": 0.932, "metric_area_km2": 20.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0370985, 49.384126 ], [ 4.0303283, 49.385036 ], [ 4.0284635, 49.389378499999985 ], [ 4.0150396, 49.386074199999989 ], [ 3.9977375, 49.393553 ], [ 3.9939198, 49.3888711 ], [ 3.995388, 49.386038499999984 ], [ 3.9866395, 49.378916499999988 ], [ 3.9939516, 49.377609399999983 ], [ 4.0006094, 49.3697582 ], [ 4.0070465, 49.3685398 ], [ 4.0127325, 49.3583025 ], [ 4.035498, 49.359906 ], [ 4.0370985, 49.384126 ] ] ] } }
+]
+}

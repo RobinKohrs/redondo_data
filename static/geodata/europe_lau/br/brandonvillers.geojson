@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brandonvillers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brandonvillers", "metric_roundness": 49.23, "metric_rectangularity": 67.46, "metric_mobile_fit": 22.13, "metric_aspect_ratio": 1.341, "metric_area_km2": 26.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5481609, 48.5747844 ], [ 4.5547457, 48.5711735 ], [ 4.5627885, 48.573353 ], [ 4.5828043, 48.5740754 ], [ 4.6002732, 48.5831655 ], [ 4.6047975, 48.588305 ], [ 4.5997567, 48.5926233 ], [ 4.5995359, 48.596744099999988 ], [ 4.5695308, 48.5963967 ], [ 4.5527075, 48.605898 ], [ 4.5419067, 48.5905856 ], [ 4.5410618, 48.578566099999989 ], [ 4.534389, 48.574549 ], [ 4.5481609, 48.5747844 ] ] ] } }
+]
+}

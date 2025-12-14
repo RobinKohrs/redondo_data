@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "verdese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Verdèse", "metric_roundness": 27.02, "metric_rectangularity": 63.49, "metric_mobile_fit": 3.05, "metric_aspect_ratio": 1.532, "metric_area_km2": 1.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.362142, 42.3919685 ], [ 9.364495, 42.3879 ], [ 9.377826, 42.3924849 ], [ 9.3829436, 42.395988099999983 ], [ 9.385294, 42.399061 ], [ 9.383218, 42.3979035 ], [ 9.374961, 42.3971015 ], [ 9.373021, 42.396049 ], [ 9.369455, 42.395322 ], [ 9.3672855, 42.3959885 ], [ 9.362142, 42.3919685 ] ] ] } }
+]
+}

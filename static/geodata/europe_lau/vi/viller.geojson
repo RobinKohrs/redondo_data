@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "viller",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Viller", "metric_roundness": 62.22, "metric_rectangularity": 71.8, "metric_mobile_fit": 55.49, "metric_aspect_ratio": 1.008, "metric_area_km2": 17.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6224365, 48.9808655 ], [ 6.6358759, 48.9789694 ], [ 6.6356216, 48.974164699999982 ], [ 6.638319, 48.971952499999979 ], [ 6.6570568, 48.9782017 ], [ 6.6706835, 48.99158 ], [ 6.6625397, 48.9945313 ], [ 6.664031, 49.001478 ], [ 6.6565825, 49.002522 ], [ 6.6541905, 49.0033735 ], [ 6.6488205, 49.0029465 ], [ 6.638208, 48.995529 ], [ 6.622797, 48.994112 ], [ 6.6224365, 48.9808655 ] ] ] } }
+]
+}

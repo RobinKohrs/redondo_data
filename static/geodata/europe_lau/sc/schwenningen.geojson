@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schwenningen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schwenningen", "metric_roundness": 53.35, "metric_rectangularity": 67.87, "metric_mobile_fit": 69.56, "metric_aspect_ratio": 0.867, "metric_area_km2": 42.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9508617, 48.1147279 ], [ 8.953761, 48.107279 ], [ 8.9618084, 48.0920995 ], [ 8.976729, 48.086516 ], [ 8.9808317, 48.0927861 ], [ 9.0005761, 48.0923732 ], [ 9.0124877, 48.1002477 ], [ 9.0222759, 48.0988462 ], [ 9.027002, 48.10968 ], [ 9.0030669, 48.1349789 ], [ 8.99864, 48.145153 ], [ 8.9835913, 48.124639799999983 ], [ 8.9553515, 48.119916499999981 ], [ 8.9508617, 48.1147279 ] ] ] } }
+]
+}

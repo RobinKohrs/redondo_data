@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "agethorst",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Agethorst", "metric_roundness": 43.78, "metric_rectangularity": 66.1, "metric_mobile_fit": 61.66, "metric_aspect_ratio": 0.946, "metric_area_km2": 18.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.407644, 54.006183499999985 ], [ 9.41293, 54.0058075 ], [ 9.4227294, 54.011319499999985 ], [ 9.4394447, 54.0116635 ], [ 9.4531025, 54.025086 ], [ 9.4565246, 54.0316565 ], [ 9.44062, 54.0389395 ], [ 9.4315715, 54.0333205 ], [ 9.4269674, 54.0263743 ], [ 9.4069995, 54.0220685 ], [ 9.4031801, 54.0184917 ], [ 9.405352, 54.012406499999983 ], [ 9.407644, 54.006183499999985 ] ] ] } }
+]
+}

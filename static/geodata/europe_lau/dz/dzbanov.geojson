@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dzbanov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Džbánov", "metric_roundness": 52.96, "metric_rectangularity": 68.08, "metric_mobile_fit": 80.78, "metric_aspect_ratio": 0.755, "metric_area_km2": 16.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1742409, 49.91675189999998 ], [ 16.1781752, 49.919894599999978 ], [ 16.185225, 49.9200235 ], [ 16.174074, 49.927845499999975 ], [ 16.1547674, 49.9323053 ], [ 16.1546006, 49.928766699999976 ], [ 16.1490354, 49.9248819 ], [ 16.1445235, 49.908802 ], [ 16.1477656, 49.9043885 ], [ 16.145056, 49.898717 ], [ 16.167106, 49.8975775 ], [ 16.1742409, 49.91675189999998 ] ] ] } }
+]
+}

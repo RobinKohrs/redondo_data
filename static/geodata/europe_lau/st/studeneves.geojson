@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "studeneves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Studeněves", "metric_roundness": 68.58, "metric_rectangularity": 76.82, "metric_mobile_fit": 37.75, "metric_aspect_ratio": 1.185, "metric_area_km2": 6.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.030444, 50.227036 ], [ 14.0336695, 50.2181365 ], [ 14.05374, 50.219120499999988 ], [ 14.0586826, 50.2203841 ], [ 14.0582958, 50.2280125 ], [ 14.046693, 50.233382499999983 ], [ 14.030444, 50.227036 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dehesas_viejas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dehesas Viejas", "metric_roundness": 56.34, "metric_rectangularity": 65.98, "metric_mobile_fit": 61.53, "metric_aspect_ratio": 0.947, "metric_area_km2": 21.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.5788799, 37.473515299999988 ], [ -3.5766257, 37.464413199999981 ], [ -3.553211, 37.4690078 ], [ -3.5440265, 37.472602 ], [ -3.5314515, 37.4802586 ], [ -3.5377684, 37.4890492 ], [ -3.5482769, 37.497338 ], [ -3.553211, 37.5065388 ], [ -3.567031, 37.511067499999989 ], [ -3.5701886, 37.5094151 ], [ -3.5717151, 37.4992762 ], [ -3.5674098, 37.4919887 ], [ -3.5837027, 37.4848553 ], [ -3.5871435, 37.475843 ], [ -3.5788799, 37.473515299999988 ] ] ] } }
+]
+}

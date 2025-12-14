@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zbinohy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zbinohy", "metric_roundness": 30.79, "metric_rectangularity": 55.56, "metric_mobile_fit": -0.86, "metric_aspect_ratio": 1.571, "metric_area_km2": 9.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.5036945, 49.4830625 ], [ 15.501758, 49.483994499999987 ], [ 15.4964196, 49.486288099999982 ], [ 15.4920215, 49.492907 ], [ 15.4688849, 49.495038799999982 ], [ 15.4621365, 49.49941 ], [ 15.4567896, 49.4941051 ], [ 15.4670998, 49.4903769 ], [ 15.4694159, 49.4811769 ], [ 15.506637, 49.478544499999984 ], [ 15.5072535, 49.482864499999984 ], [ 15.5036945, 49.4830625 ] ] ] } }
+]
+}

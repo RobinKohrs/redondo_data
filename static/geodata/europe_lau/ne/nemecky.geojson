@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nemecky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nemečky", "metric_roundness": 45.68, "metric_rectangularity": 71.59, "metric_mobile_fit": 86.08, "metric_aspect_ratio": 0.702, "metric_area_km2": 14.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.1200163, 48.666832899999989 ], [ 18.1311165, 48.670902 ], [ 18.1333787, 48.6753886 ], [ 18.1263585, 48.679243 ], [ 18.1202405, 48.68407 ], [ 18.1186869, 48.688342699999986 ], [ 18.1052755, 48.696905 ], [ 18.0964945, 48.691207499999983 ], [ 18.094812, 48.682536599999985 ], [ 18.1038344, 48.6681562 ], [ 18.1082408, 48.663589699999989 ], [ 18.118525, 48.660613 ], [ 18.1200163, 48.666832899999989 ] ] ] } }
+]
+}

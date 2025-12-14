@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tramaced",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tramaced", "metric_roundness": 57.07, "metric_rectangularity": 86.14, "metric_mobile_fit": 45.39, "metric_aspect_ratio": 1.109, "metric_area_km2": 27.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2878995, 41.991379 ], [ -0.3146728, 41.978557599999981 ], [ -0.3330655, 41.975128 ], [ -0.334659, 41.973366 ], [ -0.3372105, 41.9717675 ], [ -0.3383966, 41.9694536 ], [ -0.3407613, 41.9616409 ], [ -0.322788, 41.945975 ], [ -0.2873976, 41.9600055 ], [ -0.2730614, 41.9694536 ], [ -0.2878995, 41.991379 ] ] ] } }
+]
+}

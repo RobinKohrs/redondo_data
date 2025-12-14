@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_giovanni_teatino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Giovanni Teatino", "metric_roundness": 54.45, "metric_rectangularity": 65.52, "metric_mobile_fit": 51.18, "metric_aspect_ratio": 1.051, "metric_area_km2": 30.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.1636063, 42.3927506 ], [ 14.1820145, 42.3896373 ], [ 14.2213305, 42.4194505 ], [ 14.2223631, 42.4272155 ], [ 14.2072039, 42.4257792 ], [ 14.1995817, 42.4289056 ], [ 14.194375, 42.435565299999986 ], [ 14.1854754, 42.4270794 ], [ 14.171526, 42.436618 ], [ 14.1662381, 42.431872 ], [ 14.1699704, 42.427085399999989 ], [ 14.156925, 42.4167875 ], [ 14.1602697, 42.41638 ], [ 14.1555029, 42.407709399999987 ], [ 14.1579695, 42.396822 ], [ 14.1636063, 42.3927506 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_mamouros_alva_e_ribolhos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Mamouros, Alva e Ribolhos", "metric_roundness": 40.11, "metric_rectangularity": 49.15, "metric_mobile_fit": 77.17, "metric_aspect_ratio": 0.791, "metric_area_km2": 41.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.9981878, 40.8499704 ], [ -7.9928153, 40.8465732 ], [ -7.9717243, 40.839889099999986 ], [ -7.9629498, 40.8399627 ], [ -7.9625073, 40.8348767 ], [ -7.969377, 40.821213 ], [ -7.944989, 40.8187885 ], [ -7.9449785, 40.818866 ], [ -7.9445472, 40.8264662 ], [ -7.9327169, 40.8435834 ], [ -7.9313728, 40.8505664 ], [ -7.9341178, 40.859277399999989 ], [ -7.9206495, 40.8896085 ], [ -7.9274994, 40.8888812 ], [ -7.936059, 40.893573 ], [ -7.9550331, 40.8686648 ], [ -7.9918385, 40.861287 ], [ -7.9988405, 40.8541215 ], [ -7.9981878, 40.8499704 ] ] ] } }
+]
+}

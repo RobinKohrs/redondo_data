@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "crassier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Crassier", "metric_roundness": 28.26, "metric_rectangularity": 63.4, "metric_mobile_fit": 96.6, "metric_aspect_ratio": 0.597, "metric_area_km2": 4.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.170136, 46.366436 ], [ 6.17441, 46.362377499999987 ], [ 6.1802845, 46.364593 ], [ 6.1748539, 46.3673301 ], [ 6.1762715, 46.371718499999986 ], [ 6.1710108, 46.3794985 ], [ 6.1683209, 46.3834765 ], [ 6.1694175, 46.386352 ], [ 6.1675315, 46.387482499999983 ], [ 6.1615894, 46.3873988 ], [ 6.158578, 46.379539499999986 ], [ 6.170136, 46.366436 ] ] ] } }
+]
+}

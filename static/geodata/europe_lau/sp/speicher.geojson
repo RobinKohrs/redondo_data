@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "speicher",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Speicher", "metric_roundness": 43.51, "metric_rectangularity": 73.3, "metric_mobile_fit": 99.94, "metric_aspect_ratio": 0.563, "metric_area_km2": 17.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4291445, 47.401125299999983 ], [ 9.4345521, 47.3990166 ], [ 9.4342935, 47.392116 ], [ 9.4424481, 47.3907792 ], [ 9.451428, 47.393258 ], [ 9.4547742, 47.406649099999989 ], [ 9.462182, 47.4175515 ], [ 9.4517585, 47.431094 ], [ 9.434888, 47.4344995 ], [ 9.4319598, 47.4136578 ], [ 9.425805, 47.407152499999988 ], [ 9.4291445, 47.401125299999983 ] ] ] } }
+]
+}

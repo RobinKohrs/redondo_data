@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krekov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Křekov", "metric_roundness": 24.99, "metric_rectangularity": 54.8, "metric_mobile_fit": 94.02, "metric_aspect_ratio": 0.503, "metric_area_km2": 9.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9860075, 49.117759 ], [ 17.9860424, 49.121158 ], [ 17.9794493, 49.1253842 ], [ 17.9781014, 49.12948189999998 ], [ 17.9680021, 49.1355693 ], [ 17.970841, 49.146161299999989 ], [ 17.9676725, 49.149662 ], [ 17.9677472, 49.1462364 ], [ 17.956402, 49.140628 ], [ 17.9553662, 49.1313031 ], [ 17.9699433, 49.119580599999971 ], [ 17.974739, 49.109733 ], [ 17.9860075, 49.117759 ] ] ] } }
+]
+}

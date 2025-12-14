@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "polisot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Polisot", "metric_roundness": 37.25, "metric_rectangularity": 68.45, "metric_mobile_fit": -51.05, "metric_aspect_ratio": 2.073, "metric_area_km2": 23.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.334806, 48.078644399999988 ], [ 4.3231852, 48.072777699999989 ], [ 4.315237, 48.0650065 ], [ 4.3283935, 48.059792 ], [ 4.3465933, 48.0633345 ], [ 4.3709895, 48.0636459 ], [ 4.3759472, 48.070180699999987 ], [ 4.3944485, 48.072774 ], [ 4.392771, 48.079639499999978 ], [ 4.3748989, 48.0853241 ], [ 4.338238, 48.084046 ], [ 4.334806, 48.078644399999988 ] ] ] } }
+]
+}

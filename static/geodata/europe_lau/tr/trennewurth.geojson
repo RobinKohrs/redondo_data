@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trennewurth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trennewurth", "metric_roundness": 44.13, "metric_rectangularity": 60.96, "metric_mobile_fit": 75.75, "metric_aspect_ratio": 0.805, "metric_area_km2": 22.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0387118, 53.994335199999988 ], [ 9.0435305, 53.997839 ], [ 9.0467903, 54.002319299999975 ], [ 9.0458889, 54.005967799999986 ], [ 9.0120654, 54.011901 ], [ 9.006414, 54.018775399999988 ], [ 9.0052875, 54.024858499999986 ], [ 8.9954265, 54.0042612 ], [ 8.994374, 53.991209499999989 ], [ 9.0087017, 53.988007499999988 ], [ 9.033749, 53.9888973 ], [ 9.0373085, 53.986590499999984 ], [ 9.0387118, 53.994335199999988 ] ] ] } }
+]
+}

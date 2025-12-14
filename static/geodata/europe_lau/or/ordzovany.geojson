@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ordzovany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ordzovany", "metric_roundness": 29.27, "metric_rectangularity": 59.18, "metric_mobile_fit": 91.79, "metric_aspect_ratio": 0.645, "metric_area_km2": 29.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7784838, 49.0604827 ], [ 20.7669145, 49.052665499999975 ], [ 20.7765431, 49.0344701 ], [ 20.772967, 49.0242955 ], [ 20.7744167, 49.018078 ], [ 20.78064, 49.015732 ], [ 20.7820234, 49.023870699999989 ], [ 20.789432, 49.0274805 ], [ 20.8017098, 49.0412088 ], [ 20.8073558, 49.0606055 ], [ 20.827354, 49.074368 ], [ 20.8076517, 49.077185199999988 ], [ 20.778135, 49.067589 ], [ 20.7784838, 49.0604827 ] ] ] } }
+]
+}

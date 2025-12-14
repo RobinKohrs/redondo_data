@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villar_de_corneja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villar de Corneja", "metric_roundness": 38.02, "metric_rectangularity": 76.68, "metric_mobile_fit": -17.65, "metric_aspect_ratio": 1.739, "metric_area_km2": 12.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.460939, 40.4748449 ], [ -5.465586, 40.46595 ], [ -5.433742, 40.469227 ], [ -5.41571, 40.479156499999988 ], [ -5.4156311, 40.4878015 ], [ -5.4618395, 40.485134 ], [ -5.460939, 40.4748449 ] ] ] } }
+]
+}

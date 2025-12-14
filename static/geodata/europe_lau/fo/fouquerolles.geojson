@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fouquerolles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fouquerolles", "metric_roundness": 42.09, "metric_rectangularity": 63.15, "metric_mobile_fit": 33.04, "metric_aspect_ratio": 1.232, "metric_area_km2": 23.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2371569, 49.449270399999982 ], [ 2.2416557, 49.454459399999983 ], [ 2.241519, 49.4648215 ], [ 2.240757, 49.4669405 ], [ 2.236715, 49.473299799999985 ], [ 2.212318, 49.4750885 ], [ 2.2019631, 49.473042899999982 ], [ 2.2028926, 49.460879399999989 ], [ 2.1870415, 49.457797 ], [ 2.1861673, 49.452506599999985 ], [ 2.1780015, 49.4415075 ], [ 2.2012655, 49.447108799999981 ], [ 2.225694, 49.447543 ], [ 2.2371569, 49.449270399999982 ] ] ] } }
+]
+}

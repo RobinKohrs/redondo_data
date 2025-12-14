@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thurey_le_mont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thurey-le-Mont", "metric_roundness": 38.57, "metric_rectangularity": 70.18, "metric_mobile_fit": -57.63, "metric_aspect_ratio": 2.139, "metric_area_km2": 11.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1134516, 47.3743419 ], [ 6.119695, 47.368456 ], [ 6.1560635, 47.36726 ], [ 6.1598345, 47.369927 ], [ 6.159428, 47.3725975 ], [ 6.1544665, 47.381992 ], [ 6.1503095, 47.3822645 ], [ 6.1461116, 47.3810744 ], [ 6.1312112, 47.3841008 ], [ 6.1173326, 47.378309499999986 ], [ 6.111802, 47.378665 ], [ 6.106645, 47.376987 ], [ 6.1134516, 47.3743419 ] ] ] } }
+]
+}

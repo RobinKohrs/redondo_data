@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ulmeni",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ulmeni", "metric_roundness": 37.87, "metric_rectangularity": 80.37, "metric_mobile_fit": 82.11, "metric_aspect_ratio": 0.741, "metric_area_km2": 40.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.6493841, 45.0344877 ], [ 26.6488019, 45.04189479999998 ], [ 26.6184647, 45.072177 ], [ 26.5949092, 45.061332799999988 ], [ 26.6025148, 45.057102 ], [ 26.5984754, 45.0500768 ], [ 26.6109703, 45.0386557 ], [ 26.6157669, 45.0261405 ], [ 26.6238405, 45.0204965 ], [ 26.642908, 45.0012185 ], [ 26.6693559, 45.0099213 ], [ 26.6580335, 45.02393 ], [ 26.6493841, 45.0344877 ] ] ] } }
+]
+}

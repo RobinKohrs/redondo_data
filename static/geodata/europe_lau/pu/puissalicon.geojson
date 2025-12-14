@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "puissalicon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Puissalicon", "metric_roundness": 52.0, "metric_rectangularity": 74.09, "metric_mobile_fit": 65.25, "metric_aspect_ratio": 0.91, "metric_area_km2": 24.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2378726, 43.468024899999989 ], [ 3.2126938, 43.4596321 ], [ 3.207822, 43.451297 ], [ 3.2297025, 43.431229 ], [ 3.2391015, 43.432104 ], [ 3.2510552, 43.4473344 ], [ 3.2613105, 43.450421 ], [ 3.268037, 43.458416 ], [ 3.2575077, 43.4671291 ], [ 3.2515575, 43.479264499999985 ], [ 3.2378726, 43.468024899999989 ] ] ] } }
+]
+}

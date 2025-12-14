@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grosseutersdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Großeutersdorf", "metric_roundness": 59.45, "metric_rectangularity": 71.38, "metric_mobile_fit": 65.54, "metric_aspect_ratio": 0.907, "metric_area_km2": 8.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.545531, 50.7975515 ], [ 11.5426375, 50.7892807 ], [ 11.5354785, 50.784774 ], [ 11.5472783, 50.7823086 ], [ 11.5566555, 50.774072499999988 ], [ 11.5604295, 50.777169499999978 ], [ 11.5662415, 50.783902099999985 ], [ 11.5691645, 50.793547499999981 ], [ 11.5620575, 50.7975365 ], [ 11.545531, 50.7975515 ] ] ] } }
+]
+}

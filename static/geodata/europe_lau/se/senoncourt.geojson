@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "senoncourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Senoncourt", "metric_roundness": 50.75, "metric_rectangularity": 78.27, "metric_mobile_fit": 89.85, "metric_aspect_ratio": 0.664, "metric_area_km2": 26.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0781265, 47.8182355 ], [ 6.082203, 47.8209825 ], [ 6.0755704, 47.8249553 ], [ 6.0798185, 47.8383005 ], [ 6.0773456, 47.843947899999989 ], [ 6.0613417, 47.8590507 ], [ 6.0365395, 47.858093 ], [ 6.0404384, 47.8492282 ], [ 6.0418564, 47.8325897 ], [ 6.0467415, 47.8246597 ], [ 6.0455865, 47.8144995 ], [ 6.0549617, 47.812888299999976 ], [ 6.0640655, 47.8184169 ], [ 6.0739145, 47.817196499999987 ], [ 6.0781265, 47.8182355 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "somogyviszlo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Somogyviszló", "metric_roundness": 73.48, "metric_rectangularity": 86.24, "metric_mobile_fit": 54.82, "metric_aspect_ratio": 1.014, "metric_area_km2": 25.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.7761756, 46.108525299999989 ], [ 17.782368, 46.1152925 ], [ 17.7833187, 46.120660899999983 ], [ 17.779585, 46.12969 ], [ 17.7755888, 46.136989299999989 ], [ 17.752284, 46.139535 ], [ 17.7389151, 46.1336739 ], [ 17.732409, 46.119146 ], [ 17.7307265, 46.112067 ], [ 17.7344647, 46.1086249 ], [ 17.7757835, 46.103597 ], [ 17.7761756, 46.108525299999989 ] ] ] } }
+]
+}

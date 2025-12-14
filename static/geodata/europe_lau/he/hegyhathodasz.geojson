@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hegyhathodasz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hegyháthodász", "metric_roundness": 36.58, "metric_rectangularity": 51.3, "metric_mobile_fit": 69.28, "metric_aspect_ratio": 0.87, "metric_area_km2": 16.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6570146, 46.9459825 ], [ 16.6391925, 46.935589 ], [ 16.630324, 46.925389 ], [ 16.650987, 46.920702499999983 ], [ 16.6679972, 46.9328056 ], [ 16.6819135, 46.933930499999988 ], [ 16.671211, 46.95162 ], [ 16.6748585, 46.959307 ], [ 16.675216, 46.9612035 ], [ 16.657369, 46.959858 ], [ 16.6570146, 46.9459825 ] ] ] } }
+]
+}

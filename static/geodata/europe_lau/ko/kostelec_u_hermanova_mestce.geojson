@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kostelec_u_hermanova_mestce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kostelec u Heřmanova Městce", "metric_roundness": 52.58, "metric_rectangularity": 69.43, "metric_mobile_fit": 75.56, "metric_aspect_ratio": 0.807, "metric_area_km2": 17.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.63329, 49.9257005 ], [ 15.6333, 49.918589 ], [ 15.627616, 49.904817 ], [ 15.6412345, 49.902441 ], [ 15.653109, 49.9080485 ], [ 15.6625809, 49.907522199999988 ], [ 15.6700014, 49.9107989 ], [ 15.6683481, 49.918890499999982 ], [ 15.6638865, 49.9238255 ], [ 15.6580372, 49.928214 ], [ 15.6582019, 49.936262199999987 ], [ 15.640779, 49.9317645 ], [ 15.63329, 49.9257005 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hladke_zivotice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hladké Životice", "metric_roundness": 44.05, "metric_rectangularity": 69.27, "metric_mobile_fit": 8.83, "metric_aspect_ratio": 1.474, "metric_area_km2": 38.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9362407, 49.671310499999983 ], [ 17.9715475, 49.657965 ], [ 17.9873987, 49.66529689999998 ], [ 18.001067, 49.667327 ], [ 18.0200783, 49.6697092 ], [ 18.0222662, 49.6727207 ], [ 18.0188075, 49.679177 ], [ 18.0105761, 49.678445 ], [ 17.9980463, 49.6820351 ], [ 17.990302, 49.687965 ], [ 17.983426, 49.6875128 ], [ 17.9527955, 49.699327 ], [ 17.9280345, 49.680489 ], [ 17.9362407, 49.671310499999983 ] ] ] } }
+]
+}

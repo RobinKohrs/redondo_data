@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chodes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chodes", "metric_roundness": 36.45, "metric_rectangularity": 44.22, "metric_mobile_fit": 36.48, "metric_aspect_ratio": 1.198, "metric_area_km2": 17.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4715126, 41.4783326 ], [ -1.4651671, 41.4834685 ], [ -1.4531373, 41.4822569 ], [ -1.437917, 41.465735 ], [ -1.4250985, 41.472209 ], [ -1.4314426, 41.4807829 ], [ -1.4447509, 41.4893455 ], [ -1.4486218, 41.5003647 ], [ -1.4472505, 41.507988 ], [ -1.4537711, 41.4994527 ], [ -1.4774635, 41.499389 ], [ -1.4851058, 41.4941388 ], [ -1.492656, 41.4815635 ], [ -1.4715126, 41.4783326 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zelivsko",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Želivsko", "metric_roundness": 57.03, "metric_rectangularity": 73.59, "metric_mobile_fit": 83.56, "metric_aspect_ratio": 0.727, "metric_area_km2": 7.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.5677064, 49.648550799999981 ], [ 16.560332, 49.6505023 ], [ 16.554449, 49.647759 ], [ 16.555396, 49.6307425 ], [ 16.5586725, 49.630170499999984 ], [ 16.5617065, 49.629466499999985 ], [ 16.5641005, 49.6266125 ], [ 16.5729775, 49.6311515 ], [ 16.5812635, 49.6364355 ], [ 16.5677064, 49.648550799999981 ] ] ] } }
+]
+}

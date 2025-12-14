@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_boleonon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βωλεώνων", "metric_roundness": 61.47, "metric_rectangularity": 75.83, "metric_mobile_fit": 61.4, "metric_aspect_ratio": 0.949, "metric_area_km2": 13.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.6025153, 35.2943596 ], [ 24.5922248, 35.2926389 ], [ 24.5759345, 35.2957215 ], [ 24.5735764, 35.2844052 ], [ 24.5800818, 35.279255799999987 ], [ 24.577803, 35.2714265 ], [ 24.583581, 35.2644305 ], [ 24.5999623, 35.2631333 ], [ 24.6001495, 35.2714053 ], [ 24.6069125, 35.2739575 ], [ 24.6100649, 35.2778151 ], [ 24.6114405, 35.2910825 ], [ 24.6025153, 35.2943596 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "euzet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Euzet", "metric_roundness": 62.07, "metric_rectangularity": 74.52, "metric_mobile_fit": 28.48, "metric_aspect_ratio": 1.278, "metric_area_km2": 13.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.2602865, 44.076188499999986 ], [ 4.2338905, 44.0868823 ], [ 4.2170975, 44.0820244 ], [ 4.2136315, 44.0777305 ], [ 4.2166009, 44.0753744 ], [ 4.2177125, 44.064683 ], [ 4.22502, 44.0664258 ], [ 4.2353999, 44.0606486 ], [ 4.2507175, 44.063973499999989 ], [ 4.2602865, 44.076188499999986 ] ] ] } }
+]
+}

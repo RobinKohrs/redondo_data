@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "estriegana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Estriégana", "metric_roundness": 50.75, "metric_rectangularity": 68.11, "metric_mobile_fit": 51.15, "metric_aspect_ratio": 1.051, "metric_area_km2": 28.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.5112484, 41.0730321 ], [ -2.5260648, 41.076607 ], [ -2.5398331, 41.086333 ], [ -2.5473367, 41.0864067 ], [ -2.564922, 41.075798 ], [ -2.5604781, 41.0641659 ], [ -2.5451635, 41.0582083 ], [ -2.5442916, 41.0482073 ], [ -2.5282989, 41.0495482 ], [ -2.5061875, 41.0392225 ], [ -2.5008487, 41.0458178 ], [ -2.4991535, 41.06448 ], [ -2.5112484, 41.0730321 ] ] ] } }
+]
+}

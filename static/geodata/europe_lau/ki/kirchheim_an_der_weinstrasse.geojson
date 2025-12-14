@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kirchheim_an_der_weinstrasse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kirchheim an der Weinstraße", "metric_roundness": 46.65, "metric_rectangularity": 70.09, "metric_mobile_fit": 70.42, "metric_aspect_ratio": 0.858, "metric_area_km2": 16.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2058215, 49.555886 ], [ 8.199969, 49.555029 ], [ 8.19944, 49.556818 ], [ 8.1709702, 49.552816299999989 ], [ 8.1706885, 49.545896499999984 ], [ 8.1668545, 49.529085 ], [ 8.166425, 49.526826 ], [ 8.168689, 49.526054 ], [ 8.1752455, 49.527143 ], [ 8.18151, 49.52684 ], [ 8.1863625, 49.527137499999988 ], [ 8.197953, 49.5290755 ], [ 8.1932271, 49.5397977 ], [ 8.207115, 49.5479555 ], [ 8.206425, 49.553108 ], [ 8.2058215, 49.555886 ] ] ] } }
+]
+}

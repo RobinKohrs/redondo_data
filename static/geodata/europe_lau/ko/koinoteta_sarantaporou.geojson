@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sarantaporou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σαρανταπόρου", "metric_roundness": 54.66, "metric_rectangularity": 68.68, "metric_mobile_fit": 45.25, "metric_aspect_ratio": 1.11, "metric_area_km2": 44.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0328297, 40.059674099999988 ], [ 22.0444347, 40.0489992 ], [ 22.072355, 40.043168 ], [ 22.1030055, 40.042522 ], [ 22.088919, 40.0713744 ], [ 22.0758516, 40.087822 ], [ 22.0535985, 40.0980055 ], [ 22.046403, 40.0952525 ], [ 22.0241311, 40.077016799999988 ], [ 22.022528, 40.06312 ], [ 22.0328297, 40.059674099999988 ] ] ] } }
+]
+}

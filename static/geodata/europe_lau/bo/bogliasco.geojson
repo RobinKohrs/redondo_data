@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bogliasco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bogliasco", "metric_roundness": 33.17, "metric_rectangularity": 63.6, "metric_mobile_fit": 79.37, "metric_aspect_ratio": 0.769, "metric_area_km2": 9.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0865797, 44.38349179999998 ], [ 9.0888765, 44.392036799999985 ], [ 9.0849105, 44.399898199999988 ], [ 9.093715, 44.404813499999989 ], [ 9.094989, 44.407495 ], [ 9.0883815, 44.4096179 ], [ 9.0678881, 44.3925577 ], [ 9.0638524, 44.3835409 ], [ 9.0583215, 44.380093 ], [ 9.0767915, 44.3755355 ], [ 9.0865797, 44.38349179999998 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lapethiou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Λαπηθιού", "metric_roundness": 45.41, "metric_rectangularity": 71.01, "metric_mobile_fit": 2.79, "metric_aspect_ratio": 1.535, "metric_area_km2": 6.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.589478, 34.9144595 ], [ 32.5813464, 34.9093907 ], [ 32.574076, 34.896586 ], [ 32.5918928, 34.8948805 ], [ 32.5963634, 34.8978445 ], [ 32.6060445, 34.8969509 ], [ 32.6084175, 34.904561 ], [ 32.6107128, 34.9078192 ], [ 32.601876, 34.909696499999988 ], [ 32.589478, 34.9144595 ] ] ] } }
+]
+}

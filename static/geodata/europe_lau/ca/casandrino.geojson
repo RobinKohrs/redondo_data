@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "casandrino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Casandrino", "metric_roundness": 44.12, "metric_rectangularity": 86.19, "metric_mobile_fit": 98.38, "metric_aspect_ratio": 0.546, "metric_area_km2": 5.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2511245, 40.914918 ], [ 14.257192, 40.9208995 ], [ 14.250025, 40.940488499999987 ], [ 14.2410068, 40.9380613 ], [ 14.2374505, 40.92853 ], [ 14.2428165, 40.9131875 ], [ 14.2511245, 40.914918 ] ] ] } }
+]
+}

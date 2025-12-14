@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "casavatore",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Casavatore", "metric_roundness": 69.88, "metric_rectangularity": 78.32, "metric_mobile_fit": 73.53, "metric_aspect_ratio": 0.827, "metric_area_km2": 2.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.280618, 40.905132499999986 ], [ 14.2713164, 40.9049234 ], [ 14.269275, 40.902208 ], [ 14.2691426, 40.895052099999987 ], [ 14.2728418, 40.8913508 ], [ 14.2782569, 40.8913145 ], [ 14.284265, 40.8982895 ], [ 14.280618, 40.905132499999986 ] ] ] } }
+]
+}

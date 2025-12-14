@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castillon_canton_de_lembeye",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castillon (Canton de Lembeye)", "metric_roundness": 37.32, "metric_rectangularity": 61.19, "metric_mobile_fit": -20.16, "metric_aspect_ratio": 1.764, "metric_area_km2": 8.92 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1400077, 43.4868165 ], [ -0.1487443, 43.4920391 ], [ -0.1543785, 43.491325 ], [ -0.151526, 43.483649 ], [ -0.1316725, 43.473135 ], [ -0.1294885, 43.4726015 ], [ -0.1281835, 43.4738445 ], [ -0.126054, 43.473129 ], [ -0.116422, 43.4765315 ], [ -0.111387, 43.477455 ], [ -0.10712, 43.480474 ], [ -0.1084323, 43.485935099999978 ], [ -0.1213365, 43.489484499999989 ], [ -0.1400077, 43.4868165 ] ] ] } }
+]
+}

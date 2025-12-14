@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_creusot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Creusot", "metric_roundness": 66.24, "metric_rectangularity": 78.14, "metric_mobile_fit": 35.84, "metric_aspect_ratio": 1.204, "metric_area_km2": 38.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.4402866, 46.7871439 ], [ 4.4474592, 46.7898533 ], [ 4.4511675, 46.787626 ], [ 4.4561113, 46.7904408 ], [ 4.4599086, 46.8041584 ], [ 4.4519533, 46.8144598 ], [ 4.460013, 46.820522499999981 ], [ 4.443522, 46.8262715 ], [ 4.4234518, 46.8208923 ], [ 4.3979775, 46.8250755 ], [ 4.3909995, 46.807111499999984 ], [ 4.3937253, 46.800455799999988 ], [ 4.4030443, 46.7933958 ], [ 4.423386, 46.787042 ], [ 4.4402866, 46.7871439 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "espinosa_de_los_caballeros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Espinosa de los Caballeros", "metric_roundness": 50.12, "metric_rectangularity": 70.26, "metric_mobile_fit": 17.3, "metric_aspect_ratio": 1.389, "metric_area_km2": 34.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.6787041, 40.9991156 ], [ -4.6734398, 40.9954512 ], [ -4.6328645, 41.010608499999982 ], [ -4.6236215, 41.006939 ], [ -4.6265304, 41.0153184 ], [ -4.6390719, 41.029725399999975 ], [ -4.6521442, 41.034176099999989 ], [ -4.6596955, 41.0404015 ], [ -4.6801218, 41.027829899999986 ], [ -4.6907536, 41.027100499999982 ], [ -4.701336, 41.0300736 ], [ -4.7012777, 41.0239292 ], [ -4.7063994, 41.0184435 ], [ -4.6991925, 41.0111656 ], [ -4.696438, 40.999794 ], [ -4.6787041, 40.9991156 ] ] ] } }
+]
+}

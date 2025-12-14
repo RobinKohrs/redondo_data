@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bueil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bueil", "metric_roundness": 58.41, "metric_rectangularity": 72.65, "metric_mobile_fit": 72.57, "metric_aspect_ratio": 0.837, "metric_area_km2": 11.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.461806, 48.94192229999998 ], [ 1.4555518, 48.94414219999998 ], [ 1.44778, 48.9432833 ], [ 1.4462685, 48.946746 ], [ 1.4294105, 48.94252 ], [ 1.432318, 48.9308045 ], [ 1.431159, 48.9213145 ], [ 1.4479595, 48.92464 ], [ 1.453604, 48.925491 ], [ 1.455967, 48.926901 ], [ 1.45977, 48.927828 ], [ 1.45924, 48.930925 ], [ 1.4595455, 48.933048 ], [ 1.461311, 48.937555499999988 ], [ 1.461806, 48.94192229999998 ] ] ] } }
+]
+}

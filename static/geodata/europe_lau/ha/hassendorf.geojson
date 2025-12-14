@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hassendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hassendorf", "metric_roundness": 39.95, "metric_rectangularity": 71.87, "metric_mobile_fit": 92.6, "metric_aspect_ratio": 0.488, "metric_area_km2": 32.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.2927474, 53.121434199999989 ], [ 9.2666685, 53.1350445 ], [ 9.2626865, 53.133581499999977 ], [ 9.2519378, 53.118929099999988 ], [ 9.2492731, 53.105573 ], [ 9.2657419, 53.086468799999984 ], [ 9.250124, 53.081618 ], [ 9.259931, 53.082488 ], [ 9.28417, 53.0839485 ], [ 9.287813, 53.101958 ], [ 9.2927474, 53.121434199999989 ] ] ] } }
+]
+}

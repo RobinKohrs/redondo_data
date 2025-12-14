@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kuhs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kuhs", "metric_roundness": 51.7, "metric_rectangularity": 65.21, "metric_mobile_fit": 49.37, "metric_aspect_ratio": 1.069, "metric_area_km2": 39.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.2946553, 53.8765727 ], [ 12.2659531, 53.8815326 ], [ 12.2378764, 53.8721836 ], [ 12.2334514, 53.8678266 ], [ 12.22537, 53.8714965 ], [ 12.2229324, 53.867735499999988 ], [ 12.2144202, 53.8647047 ], [ 12.2196768, 53.8483675 ], [ 12.2361118, 53.846971099999976 ], [ 12.2606905, 53.8372585 ], [ 12.2685463, 53.8540805 ], [ 12.2946465, 53.873482499999987 ], [ 12.2946553, 53.8765727 ] ] ] } }
+]
+}

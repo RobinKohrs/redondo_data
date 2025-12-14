@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bovelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bovelles", "metric_roundness": 65.63, "metric_rectangularity": 72.65, "metric_mobile_fit": 47.67, "metric_aspect_ratio": 1.086, "metric_area_km2": 16.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1413175, 49.906432 ], [ 2.1235885, 49.8958757 ], [ 2.1179545, 49.8855715 ], [ 2.1231425, 49.878029 ], [ 2.1335868, 49.8802149 ], [ 2.146028, 49.877484 ], [ 2.1581605, 49.879597 ], [ 2.1667451, 49.8880458 ], [ 2.165809, 49.8909545 ], [ 2.1549514, 49.8945875 ], [ 2.1510145, 49.900557 ], [ 2.1413175, 49.906432 ] ] ] } }
+]
+}

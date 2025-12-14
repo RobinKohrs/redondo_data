@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "racecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Racécourt", "metric_roundness": 32.41, "metric_rectangularity": 55.63, "metric_mobile_fit": 93.59, "metric_aspect_ratio": 0.627, "metric_area_km2": 16.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1939831, 48.2451181 ], [ 6.1949387, 48.2517479 ], [ 6.2083451, 48.2476333 ], [ 6.2180305, 48.249981 ], [ 6.216375, 48.252015 ], [ 6.2116712, 48.257808399999988 ], [ 6.2151973, 48.264204799999987 ], [ 6.2117577, 48.272216799999988 ], [ 6.213941, 48.277265499999984 ], [ 6.1853005, 48.269600499999989 ], [ 6.178186, 48.254005899999981 ], [ 6.1838672, 48.2463575 ], [ 6.1810065, 48.2349305 ], [ 6.1939831, 48.2451181 ] ] ] } }
+]
+}

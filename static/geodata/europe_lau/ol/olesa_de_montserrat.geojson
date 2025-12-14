@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "olesa_de_montserrat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Olesa de Montserrat", "metric_roundness": 55.4, "metric_rectangularity": 68.77, "metric_mobile_fit": 61.64, "metric_aspect_ratio": 0.946, "metric_area_km2": 29.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.909288, 41.570743499999985 ], [ 1.9006955, 41.573948 ], [ 1.8844435, 41.5790735 ], [ 1.8793252, 41.5689763 ], [ 1.8802239, 41.562779799999987 ], [ 1.873821, 41.5442631 ], [ 1.8826147, 41.5414667 ], [ 1.8927555, 41.533465499999984 ], [ 1.9117055, 41.532865 ], [ 1.9215338, 41.5370418 ], [ 1.9322435, 41.53669 ], [ 1.928973, 41.5476763 ], [ 1.9213312, 41.5570855 ], [ 1.920542, 41.5714495 ], [ 1.909288, 41.570743499999985 ] ] ] } }
+]
+}

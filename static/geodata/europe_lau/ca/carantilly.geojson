@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carantilly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carantilly", "metric_roundness": 45.78, "metric_rectangularity": 69.17, "metric_mobile_fit": 92.4, "metric_aspect_ratio": 0.639, "metric_area_km2": 25.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.2570035, 49.087587 ], [ -1.2605115, 49.087872499999982 ], [ -1.2738715, 49.069067 ], [ -1.264954, 49.0584825 ], [ -1.2531979, 49.047423 ], [ -1.239779, 49.0416191 ], [ -1.233851, 49.043161 ], [ -1.2259755, 49.049502 ], [ -1.2290691, 49.057305899999967 ], [ -1.2380049, 49.0652805 ], [ -1.240446, 49.090763 ], [ -1.2570035, 49.087587 ] ] ] } }
+]
+}

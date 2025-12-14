@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kampanou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καμπανού", "metric_roundness": 35.44, "metric_rectangularity": 62.31, "metric_mobile_fit": 13.11, "metric_aspect_ratio": 1.431, "metric_area_km2": 9.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.8157943, 35.2956046 ], [ 23.826104, 35.292973 ], [ 23.8206985, 35.297786 ], [ 23.8148735, 35.3117517 ], [ 23.800427, 35.318585 ], [ 23.779662, 35.3128105 ], [ 23.8034795, 35.2921075 ], [ 23.8157943, 35.2956046 ] ] ] } }
+]
+}

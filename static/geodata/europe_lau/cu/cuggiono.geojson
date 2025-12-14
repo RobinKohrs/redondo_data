@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuggiono",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cuggiono", "metric_roundness": 50.45, "metric_rectangularity": 64.98, "metric_mobile_fit": 33.93, "metric_aspect_ratio": 1.223, "metric_area_km2": 29.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7947637, 45.5137527 ], [ 8.7875531, 45.507396299999975 ], [ 8.757101, 45.498064499999984 ], [ 8.7725085, 45.485419499999985 ], [ 8.787505, 45.486235 ], [ 8.7982255, 45.4911288 ], [ 8.8208133, 45.4939555 ], [ 8.8315055, 45.5012925 ], [ 8.833459, 45.5029965 ], [ 8.815677, 45.527209 ], [ 8.8040009, 45.529169599999975 ], [ 8.7960485, 45.526392 ], [ 8.7939735, 45.522995 ], [ 8.7947637, 45.5137527 ] ] ] } }
+]
+}

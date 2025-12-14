@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aiguefonde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aiguefonde", "metric_roundness": 43.39, "metric_rectangularity": 60.55, "metric_mobile_fit": 94.85, "metric_aspect_ratio": 0.614, "metric_area_km2": 36.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3279416, 43.476108 ], [ 2.3496906, 43.4883041 ], [ 2.3536429, 43.4946437 ], [ 2.3481813, 43.5097528 ], [ 2.3359005, 43.514409 ], [ 2.3260075, 43.521616 ], [ 2.306087, 43.5190425 ], [ 2.3107416, 43.5048113 ], [ 2.2989355, 43.493032899999982 ], [ 2.3029228, 43.4660581 ], [ 2.3006195, 43.4569755 ], [ 2.3196519, 43.4628412 ], [ 2.3247725, 43.467199 ], [ 2.3279416, 43.476108 ] ] ] } }
+]
+}

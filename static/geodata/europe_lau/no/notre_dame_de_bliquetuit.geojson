@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "notre_dame_de_bliquetuit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Notre-Dame-de-Bliquetuit", "metric_roundness": 54.25, "metric_rectangularity": 68.34, "metric_mobile_fit": 90.71, "metric_aspect_ratio": 0.655, "metric_area_km2": 22.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7736715, 49.4916175 ], [ 0.774751, 49.499883 ], [ 0.773145, 49.5057245 ], [ 0.7683535, 49.510791499999989 ], [ 0.7646175, 49.513393 ], [ 0.758995, 49.51633 ], [ 0.7501165, 49.519627 ], [ 0.742657, 49.5058125 ], [ 0.732624, 49.49651 ], [ 0.7369234, 49.4781322 ], [ 0.750584, 49.4777178 ], [ 0.7608729, 49.483222099999985 ], [ 0.7749165, 49.485691 ], [ 0.7739485, 49.487075 ], [ 0.7736715, 49.4916175 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "breuvery_sur_coole",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Breuvery-sur-Coole", "metric_roundness": 28.2, "metric_rectangularity": 60.93, "metric_mobile_fit": 13.84, "metric_aspect_ratio": 1.424, "metric_area_km2": 23.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3166174, 48.867557299999987 ], [ 4.3087111, 48.87156 ], [ 4.2999773, 48.870701 ], [ 4.2778528, 48.8528502 ], [ 4.2619305, 48.8454195 ], [ 4.2684015, 48.837821 ], [ 4.2757366, 48.841023 ], [ 4.2830427, 48.8350364 ], [ 4.2891948, 48.83892669999998 ], [ 4.299425, 48.838282 ], [ 4.3136611, 48.8552818 ], [ 4.3224574, 48.857662499999982 ], [ 4.345321, 48.871302 ], [ 4.3423415, 48.873564 ], [ 4.3358425, 48.871258499999989 ], [ 4.3166174, 48.867557299999987 ] ] ] } }
+]
+}

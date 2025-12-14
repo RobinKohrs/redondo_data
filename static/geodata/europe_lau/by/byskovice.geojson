@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "byskovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Býškovice", "metric_roundness": 43.09, "metric_rectangularity": 68.3, "metric_mobile_fit": 55.48, "metric_aspect_ratio": 1.008, "metric_area_km2": 14.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.697181, 49.4566853 ], [ 17.706211, 49.452912 ], [ 17.7136946, 49.4598854 ], [ 17.729739, 49.46056249999998 ], [ 17.7337588, 49.4689805 ], [ 17.741319, 49.473047 ], [ 17.7416707, 49.479276699999986 ], [ 17.737464, 49.48476 ], [ 17.7307915, 49.483614499999987 ], [ 17.7127405, 49.477646 ], [ 17.7095582, 49.475493299999982 ], [ 17.7094409, 49.471182399999982 ], [ 17.692285, 49.4632765 ], [ 17.697181, 49.4566853 ] ] ] } }
+]
+}

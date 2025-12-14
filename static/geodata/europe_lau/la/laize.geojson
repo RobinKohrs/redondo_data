@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "laize",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laizé", "metric_roundness": 55.89, "metric_rectangularity": 75.56, "metric_mobile_fit": 92.98, "metric_aspect_ratio": 0.633, "metric_area_km2": 22.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.8172921, 46.3645834 ], [ 4.8216195, 46.3762365 ], [ 4.8189643, 46.382464299999981 ], [ 4.822405, 46.399128 ], [ 4.8105506, 46.403391199999987 ], [ 4.798217, 46.4037055 ], [ 4.7908859, 46.4004451 ], [ 4.795232, 46.3941449 ], [ 4.7928654, 46.388548799999981 ], [ 4.782876, 46.382299 ], [ 4.7838025, 46.368191 ], [ 4.78988, 46.367430499999983 ], [ 4.8118045, 46.360608 ], [ 4.8172921, 46.3645834 ] ] ] } }
+]
+}

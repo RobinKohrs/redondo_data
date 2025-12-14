@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hrabuvka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hrabůvka", "metric_roundness": 22.54, "metric_rectangularity": 48.2, "metric_mobile_fit": 20.3, "metric_aspect_ratio": 1.359, "metric_area_km2": 6.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.7012, 49.568399499999984 ], [ 17.6982442, 49.576684799999988 ], [ 17.7031131, 49.5828457 ], [ 17.68969, 49.585067 ], [ 17.6565485, 49.590608499999981 ], [ 17.6736909, 49.5837137 ], [ 17.673639, 49.580765 ], [ 17.6837152, 49.576684799999988 ], [ 17.6831575, 49.571137 ], [ 17.7012, 49.568399499999984 ] ] ] } }
+]
+}

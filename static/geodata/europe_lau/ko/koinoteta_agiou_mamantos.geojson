@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agiou_mamantos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγίου Μάμαντος", "metric_roundness": 31.22, "metric_rectangularity": 67.12, "metric_mobile_fit": 85.47, "metric_aspect_ratio": 0.417, "metric_area_km2": 28.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24.761804, 35.3368065 ], [ 24.748265, 35.332493 ], [ 24.7455729, 35.3127032 ], [ 24.729721, 35.299352 ], [ 24.7344184, 35.2801352 ], [ 24.7313323, 35.271858299999984 ], [ 24.733428, 35.2608115 ], [ 24.74581, 35.258329 ], [ 24.7698345, 35.300195 ], [ 24.7695254, 35.320832599999989 ], [ 24.763754, 35.3357215 ], [ 24.761804, 35.3368065 ] ] ] } }
+]
+}

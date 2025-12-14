@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rodershausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rodershausen", "metric_roundness": 52.67, "metric_rectangularity": 68.25, "metric_mobile_fit": 24.17, "metric_aspect_ratio": 1.321, "metric_area_km2": 12.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1771948, 49.9798141 ], [ 6.184747, 49.978984499999989 ], [ 6.2201275, 49.9849245 ], [ 6.2156955, 49.9884299 ], [ 6.2192405, 49.995823499999979 ], [ 6.2198575, 49.996576499999975 ], [ 6.213581, 49.996719 ], [ 6.2006305, 50.001386 ], [ 6.1904028, 49.9967804 ], [ 6.1790895, 49.998715 ], [ 6.1812862, 49.988403199999986 ], [ 6.1741055, 49.983637 ], [ 6.1771948, 49.9798141 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cavallerleone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cavallerleone", "metric_roundness": 57.69, "metric_rectangularity": 69.09, "metric_mobile_fit": 50.54, "metric_aspect_ratio": 1.057, "metric_area_km2": 32.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6258508, 44.7340403 ], [ 7.6182595, 44.7261585 ], [ 7.624442, 44.715588499999988 ], [ 7.6327192, 44.7162405 ], [ 7.6426845, 44.7129337 ], [ 7.6771671, 44.7282024 ], [ 7.685395, 44.74109 ], [ 7.6808381, 44.746464 ], [ 7.6700854, 44.7508429 ], [ 7.6420838, 44.7505798 ], [ 7.6235695, 44.7580465 ], [ 7.6258508, 44.7340403 ] ] ] } }
+]
+}

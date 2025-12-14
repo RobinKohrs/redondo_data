@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "emmelshausen_stadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Emmelshausen, Stadt", "metric_roundness": 38.37, "metric_rectangularity": 46.87, "metric_mobile_fit": 63.94, "metric_aspect_ratio": 0.923, "metric_area_km2": 19.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5652795, 50.157659 ], [ 7.5418145, 50.1634329 ], [ 7.5237215, 50.1725595 ], [ 7.5169788, 50.1746147 ], [ 7.5116061, 50.179068599999979 ], [ 7.50973, 50.179182499999982 ], [ 7.5197623, 50.1668606 ], [ 7.516179, 50.1558395 ], [ 7.5182507, 50.1452924 ], [ 7.5158085, 50.140936 ], [ 7.5402945, 50.1405575 ], [ 7.5482414, 50.148137099999985 ], [ 7.564694, 50.153097 ], [ 7.5653815, 50.153312499999977 ], [ 7.5652795, 50.157659 ] ] ] } }
+]
+}

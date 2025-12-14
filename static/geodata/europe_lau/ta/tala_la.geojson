@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tala_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tala, La", "metric_roundness": 56.08, "metric_rectangularity": 68.57, "metric_mobile_fit": 77.47, "metric_aspect_ratio": 0.788, "metric_area_km2": 21.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.5251671, 40.576274 ], [ -5.5168305, 40.5773315 ], [ -5.5174505, 40.580967 ], [ -5.5173585, 40.582950499999988 ], [ -5.5162585, 40.585415 ], [ -5.513241, 40.5868605 ], [ -5.510113, 40.5904045 ], [ -5.5027382, 40.5985304 ], [ -5.5058871, 40.6118139 ], [ -5.5266645, 40.6154175 ], [ -5.5502154, 40.597707899999989 ], [ -5.5414347, 40.5775288 ], [ -5.534461, 40.5696525 ], [ -5.5251671, 40.576274 ] ] ] } }
+]
+}

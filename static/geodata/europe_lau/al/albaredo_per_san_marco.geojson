@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "albaredo_per_san_marco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Albaredo per San Marco", "metric_roundness": 40.49, "metric_rectangularity": 69.57, "metric_mobile_fit": 85.52, "metric_aspect_ratio": 0.707, "metric_area_km2": 39.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.625347, 46.046727499999989 ], [ 9.632299, 46.046581 ], [ 9.6405332, 46.0531538 ], [ 9.6434815, 46.0599735 ], [ 9.6474282, 46.077164499999981 ], [ 9.644095, 46.089419 ], [ 9.603222, 46.111072 ], [ 9.581668, 46.106557 ], [ 9.5945333, 46.0943736 ], [ 9.6046438, 46.0727506 ], [ 9.621886, 46.047278 ], [ 9.625347, 46.046727499999989 ] ] ] } }
+]
+}

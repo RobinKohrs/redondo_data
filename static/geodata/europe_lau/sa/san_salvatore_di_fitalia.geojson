@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_salvatore_di_fitalia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Salvatore di Fitalia", "metric_roundness": 46.57, "metric_rectangularity": 70.22, "metric_mobile_fit": 75.03, "metric_aspect_ratio": 0.812, "metric_area_km2": 24.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8049544, 38.071043599999982 ], [ 14.7903817, 38.077101 ], [ 14.7803055, 38.087097 ], [ 14.773028, 38.0916195 ], [ 14.7697524, 38.082692 ], [ 14.759552, 38.0737115 ], [ 14.7588706, 38.06711 ], [ 14.7649495, 38.053088 ], [ 14.7837975, 38.0446902 ], [ 14.7859046, 38.0410554 ], [ 14.802148, 38.038631499999987 ], [ 14.7992774, 38.054643099999986 ], [ 14.8135365, 38.058178 ], [ 14.8049544, 38.071043599999982 ] ] ] } }
+]
+}

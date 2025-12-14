@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villar_loubiere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villar-Loubière", "metric_roundness": 70.64, "metric_rectangularity": 74.16, "metric_mobile_fit": 64.0, "metric_aspect_ratio": 0.922, "metric_area_km2": 43.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.1031945, 44.825097199999988 ], [ 6.1190339, 44.814264099999988 ], [ 6.138047, 44.8083865 ], [ 6.1458508, 44.8157668 ], [ 6.1494601, 44.8236941 ], [ 6.1637228, 44.8227901 ], [ 6.169664, 44.852389 ], [ 6.1573676, 44.8585427 ], [ 6.1452639, 44.8585039 ], [ 6.1329638, 44.863995599999988 ], [ 6.1122635, 44.844837 ], [ 6.1017599, 44.842595199999984 ], [ 6.097325, 44.8382275 ], [ 6.1031945, 44.825097199999988 ] ] ] } }
+]
+}

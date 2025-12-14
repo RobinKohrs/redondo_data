@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "suja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Šuja", "metric_roundness": 40.65, "metric_rectangularity": 76.4, "metric_mobile_fit": 92.98, "metric_aspect_ratio": 0.492, "metric_area_km2": 5.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.6407245, 49.073328499999988 ], [ 18.6381238, 49.0775489 ], [ 18.6333437, 49.078159599999985 ], [ 18.624691, 49.0717632 ], [ 18.62373, 49.065609 ], [ 18.6249004, 49.055544699999984 ], [ 18.636614, 49.058598 ], [ 18.6407245, 49.073328499999988 ] ] ] } }
+]
+}

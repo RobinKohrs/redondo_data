@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_bouliastes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βουλιάστης", "metric_roundness": 40.98, "metric_rectangularity": 72.98, "metric_mobile_fit": -7.85, "metric_aspect_ratio": 1.641, "metric_area_km2": 10.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8415176, 39.4347869 ], [ 20.8305175, 39.4395475 ], [ 20.8055731, 39.4336462 ], [ 20.792998, 39.426852 ], [ 20.800006, 39.4157065 ], [ 20.8246563, 39.4253401 ], [ 20.8436465, 39.423649 ], [ 20.8415176, 39.4347869 ] ] ] } }
+]
+}

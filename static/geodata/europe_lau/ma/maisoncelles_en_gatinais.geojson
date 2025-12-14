@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "maisoncelles_en_gatinais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Maisoncelles-en-Gâtinais", "metric_roundness": 56.84, "metric_rectangularity": 67.68, "metric_mobile_fit": 53.24, "metric_aspect_ratio": 1.03, "metric_area_km2": 19.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6285395, 48.166537 ], [ 2.6307985, 48.173949499999985 ], [ 2.632612, 48.1735855 ], [ 2.6352805, 48.1818515 ], [ 2.63862, 48.178066 ], [ 2.6454565, 48.186186 ], [ 2.648615, 48.1859525 ], [ 2.644531, 48.1887965 ], [ 2.640789, 48.192717499999986 ], [ 2.631218, 48.2007895 ], [ 2.6242974, 48.1958222 ], [ 2.6082962, 48.1954219 ], [ 2.5956985, 48.1712205 ], [ 2.6077175, 48.1688805 ], [ 2.622427, 48.167002 ], [ 2.6285395, 48.166537 ] ] ] } }
+]
+}

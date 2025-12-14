@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "morel_filet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mörel-Filet", "metric_roundness": 33.48, "metric_rectangularity": 41.75, "metric_mobile_fit": 59.84, "metric_aspect_ratio": 0.964, "metric_area_km2": 18.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0658902, 46.3498562 ], [ 8.0579952, 46.3607567 ], [ 8.069458, 46.3684845 ], [ 8.066448, 46.372306499999986 ], [ 8.063685, 46.3705225 ], [ 8.0563345, 46.369167 ], [ 8.0496618, 46.3669414 ], [ 8.027716, 46.344474 ], [ 8.06943, 46.3348706 ], [ 8.0818011, 46.3263694 ], [ 8.0918805, 46.328946 ], [ 8.0658902, 46.3498562 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chavenay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chavenay", "metric_roundness": 59.55, "metric_rectangularity": 66.62, "metric_mobile_fit": 42.52, "metric_aspect_ratio": 1.137, "metric_area_km2": 14.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.961375, 48.851887499999982 ], [ 1.9698245, 48.841474399999981 ], [ 1.9687955, 48.834825 ], [ 1.970089, 48.834874 ], [ 1.983644, 48.833531 ], [ 1.9856296, 48.8388561 ], [ 2.0011189, 48.844229699999985 ], [ 2.0057475, 48.8494665 ], [ 2.0081445, 48.852631499999987 ], [ 1.9906185, 48.859534499999988 ], [ 1.9746815, 48.8578958 ], [ 1.969076, 48.860593499999986 ], [ 1.961375, 48.851887499999982 ] ] ] } }
+]
+}

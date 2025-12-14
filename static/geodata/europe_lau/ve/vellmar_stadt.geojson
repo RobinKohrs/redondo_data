@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vellmar_stadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vellmar, Stadt", "metric_roundness": 56.92, "metric_rectangularity": 67.5, "metric_mobile_fit": 41.93, "metric_aspect_ratio": 1.143, "metric_area_km2": 35.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.467672, 51.3430514 ], [ 9.496891, 51.351697 ], [ 9.5005298, 51.364294199999982 ], [ 9.4920349, 51.368520799999985 ], [ 9.4853995, 51.378258499999987 ], [ 9.4586133, 51.3776191 ], [ 9.4440258, 51.3817049 ], [ 9.4310645, 51.3796995 ], [ 9.4297562, 51.3733194 ], [ 9.4391173, 51.371333599999986 ], [ 9.4437818, 51.3658343 ], [ 9.4427571, 51.3503074 ], [ 9.4400375, 51.349578 ], [ 9.467672, 51.3430514 ] ] ] } }
+]
+}

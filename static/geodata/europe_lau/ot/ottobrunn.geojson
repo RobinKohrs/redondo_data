@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ottobrunn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ottobrunn", "metric_roundness": 42.54, "metric_rectangularity": 60.03, "metric_mobile_fit": 17.37, "metric_aspect_ratio": 1.389, "metric_area_km2": 11.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.6695851, 48.0593979 ], [ 11.693809, 48.066204499999984 ], [ 11.6895061, 48.0704026 ], [ 11.691179, 48.073598 ], [ 11.6681563, 48.0690045 ], [ 11.6581209, 48.074650499999976 ], [ 11.6464775, 48.075462 ], [ 11.6457715, 48.071449899999983 ], [ 11.6493987, 48.0690148 ], [ 11.64634, 48.054101 ], [ 11.671182, 48.052346 ], [ 11.6695851, 48.0593979 ] ] ] } }
+]
+}

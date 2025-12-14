@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spisske_hanusovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spišské Hanušovce", "metric_roundness": 46.21, "metric_rectangularity": 65.97, "metric_mobile_fit": 39.8, "metric_aspect_ratio": 1.164, "metric_area_km2": 33.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.3496097, 49.308644699999988 ], [ 20.359953, 49.303981 ], [ 20.366905, 49.3065948 ], [ 20.3791966, 49.3020615 ], [ 20.3862765, 49.3072885 ], [ 20.3714625, 49.328189499999986 ], [ 20.3503838, 49.3361346 ], [ 20.3259495, 49.3378188 ], [ 20.317347, 49.340958 ], [ 20.3167859, 49.3215033 ], [ 20.3273505, 49.302709499999985 ], [ 20.3496097, 49.308644699999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_melisses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μελίσσης", "metric_roundness": 36.83, "metric_rectangularity": 66.9, "metric_mobile_fit": 95.5, "metric_aspect_ratio": 0.518, "metric_area_km2": 10.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9566825, 39.316168 ], [ 21.9583932, 39.328204 ], [ 21.9659445, 39.336005 ], [ 21.9666605, 39.3446496 ], [ 21.963759, 39.35028 ], [ 21.9477703, 39.3470863 ], [ 21.940967, 39.3354765 ], [ 21.9431385, 39.31188 ], [ 21.9566825, 39.316168 ] ] ] } }
+]
+}

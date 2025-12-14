@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kurimske_jestrabi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kuřimské Jestřabí", "metric_roundness": 62.65, "metric_rectangularity": 72.24, "metric_mobile_fit": 61.56, "metric_aspect_ratio": 0.947, "metric_area_km2": 12.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.3144275, 49.353633499999987 ], [ 16.3022444, 49.345861199999987 ], [ 16.2991593, 49.337154299999987 ], [ 16.3094235, 49.3293445 ], [ 16.3299706, 49.335386199999988 ], [ 16.3365785, 49.345223 ], [ 16.3356525, 49.352308 ], [ 16.3247921, 49.351282499999989 ], [ 16.32331, 49.3550915 ], [ 16.3144275, 49.353633499999987 ] ] ] } }
+]
+}

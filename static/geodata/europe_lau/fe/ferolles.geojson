@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ferolles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Férolles", "metric_roundness": 37.06, "metric_rectangularity": 65.65, "metric_mobile_fit": -40.8, "metric_aspect_ratio": 1.97, "metric_area_km2": 37.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1410236, 47.8376917 ], [ 2.1265598, 47.8319709 ], [ 2.120681, 47.836162 ], [ 2.1000105, 47.841218 ], [ 2.0806655, 47.836005 ], [ 2.0777439, 47.8320862 ], [ 2.0769265, 47.808657 ], [ 2.0822353, 47.8107638 ], [ 2.0878159, 47.8086863 ], [ 2.1185665, 47.8098107 ], [ 2.131763, 47.820213399999986 ], [ 2.157256, 47.818701499999989 ], [ 2.1724904, 47.8330723 ], [ 2.155326, 47.8381685 ], [ 2.1410236, 47.8376917 ] ] ] } }
+]
+}

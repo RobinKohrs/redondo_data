@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gumieres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gumières", "metric_roundness": 47.86, "metric_rectangularity": 59.08, "metric_mobile_fit": 57.65, "metric_aspect_ratio": 0.986, "metric_area_km2": 33.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9464662, 45.544768 ], [ 3.958556, 45.513791499999982 ], [ 3.964837, 45.503217 ], [ 3.998095, 45.513078 ], [ 4.020512, 45.528802499999976 ], [ 3.9944268, 45.5375897 ], [ 3.9830442, 45.5371098 ], [ 3.9732287, 45.5457008 ], [ 3.9588345, 45.551625499999986 ], [ 3.9544755, 45.5558275 ], [ 3.9464662, 45.544768 ] ] ] } }
+]
+}

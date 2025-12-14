@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sazovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sazovice", "metric_roundness": 48.27, "metric_rectangularity": 65.16, "metric_mobile_fit": 16.72, "metric_aspect_ratio": 1.395, "metric_area_km2": 9.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.573138, 49.247775499999982 ], [ 17.5563185, 49.2447845 ], [ 17.5518419, 49.239955 ], [ 17.543286, 49.24215 ], [ 17.5449135, 49.240005499999981 ], [ 17.5557772, 49.2335671 ], [ 17.5600445, 49.227352 ], [ 17.574756, 49.2308677 ], [ 17.5823175, 49.237378 ], [ 17.5869305, 49.24476749999998 ], [ 17.573138, 49.247775499999982 ] ] ] } }
+]
+}

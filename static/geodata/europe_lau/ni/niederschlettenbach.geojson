@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niederschlettenbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niederschlettenbach", "metric_roundness": 65.57, "metric_rectangularity": 72.45, "metric_mobile_fit": 68.94, "metric_aspect_ratio": 0.873, "metric_area_km2": 16.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8369315, 49.0994945 ], [ 7.82693, 49.091514699999983 ], [ 7.8291232, 49.0852336 ], [ 7.8235854, 49.0822614 ], [ 7.8271655, 49.075356499999977 ], [ 7.8357088, 49.0784251 ], [ 7.849567, 49.0678498 ], [ 7.8579804, 49.0696322 ], [ 7.8588294, 49.0752308 ], [ 7.863741, 49.079567399999988 ], [ 7.8616962, 49.0877378 ], [ 7.865771, 49.096469 ], [ 7.8369315, 49.0994945 ] ] ] } }
+]
+}

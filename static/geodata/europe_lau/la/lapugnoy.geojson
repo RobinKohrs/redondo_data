@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lapugnoy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lapugnoy", "metric_roundness": 47.19, "metric_rectangularity": 70.29, "metric_mobile_fit": 80.83, "metric_aspect_ratio": 0.754, "metric_area_km2": 20.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5243816, 50.5347582 ], [ 2.5248767, 50.5298977 ], [ 2.5210418, 50.5240144 ], [ 2.5086535, 50.518182 ], [ 2.5080085, 50.514462499999986 ], [ 2.519983, 50.5028807 ], [ 2.529166, 50.498737 ], [ 2.5426983, 50.504055699999988 ], [ 2.5445715, 50.5134165 ], [ 2.558965, 50.525826 ], [ 2.5429712, 50.5294381 ], [ 2.5405605, 50.536413399999979 ], [ 2.532019, 50.541696499999986 ], [ 2.5243816, 50.5347582 ] ] ] } }
+]
+}

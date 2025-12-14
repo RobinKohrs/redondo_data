@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pero",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pero", "metric_roundness": 45.45, "metric_rectangularity": 60.6, "metric_mobile_fit": 43.03, "metric_aspect_ratio": 1.132, "metric_area_km2": 10.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.0760345, 45.516116199999978 ], [ 9.0686635, 45.5213794 ], [ 9.0571991, 45.523783399999985 ], [ 9.0560568, 45.5176252 ], [ 9.0584748, 45.5120526 ], [ 9.064334, 45.5117945 ], [ 9.0692265, 45.505802 ], [ 9.0768388, 45.4982143 ], [ 9.0871964, 45.498166 ], [ 9.0921071, 45.5054188 ], [ 9.0974458, 45.5080597 ], [ 9.0945475, 45.516417 ], [ 9.0760345, 45.516116199999978 ] ] ] } }
+]
+}

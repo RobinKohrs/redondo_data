@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monteleone_d_orvieto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monteleone d'Orvieto", "metric_roundness": 43.97, "metric_rectangularity": 59.91, "metric_mobile_fit": 61.12, "metric_aspect_ratio": 0.951, "metric_area_km2": 44.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.0476446, 42.9346932 ], [ 12.0309075, 42.9268151 ], [ 12.016883, 42.9106118 ], [ 12.0056318, 42.9087043 ], [ 12.0135134, 42.896738599999985 ], [ 12.0120746, 42.8896224 ], [ 12.0301125, 42.881303 ], [ 12.0366307, 42.8791238 ], [ 12.0505564, 42.8823641 ], [ 12.0642094, 42.8905874 ], [ 12.0669885, 42.895559499999983 ], [ 12.0719049, 42.928494399999977 ], [ 12.0859, 42.9409225 ], [ 12.0624725, 42.9347162 ], [ 12.0508405, 42.940737 ], [ 12.0476446, 42.9346932 ] ] ] } }
+]
+}

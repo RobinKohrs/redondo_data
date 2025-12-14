@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "morvilliers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Morvilliers", "metric_roundness": 43.7, "metric_rectangularity": 72.07, "metric_mobile_fit": -9.96, "metric_aspect_ratio": 1.662, "metric_area_km2": 36.06 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.596687, 48.371162 ], [ 4.633193, 48.3604905 ], [ 4.6506506, 48.367885 ], [ 4.6723228, 48.3719346 ], [ 4.6796295, 48.37753 ], [ 4.6666258, 48.3923033 ], [ 4.6620455, 48.393231499999985 ], [ 4.6567705, 48.3926255 ], [ 4.6495171, 48.397067799999974 ], [ 4.638988, 48.395591 ], [ 4.6083507, 48.384327299999981 ], [ 4.5881005, 48.384331499999988 ], [ 4.596687, 48.371162 ] ] ] } }
+]
+}

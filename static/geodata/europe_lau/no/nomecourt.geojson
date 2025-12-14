@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nomecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nomécourt", "metric_roundness": 61.33, "metric_rectangularity": 76.48, "metric_mobile_fit": 68.96, "metric_aspect_ratio": 0.873, "metric_area_km2": 25.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.0504873, 48.444613399999987 ], [ 5.047299, 48.4372475 ], [ 5.0526259, 48.4259071 ], [ 5.0582577, 48.4225158 ], [ 5.057461, 48.4191378 ], [ 5.075008, 48.413408 ], [ 5.0740308, 48.422337 ], [ 5.0803441, 48.424487699999986 ], [ 5.0859426, 48.43213249999998 ], [ 5.0930567, 48.433881 ], [ 5.1031275, 48.446603499999974 ], [ 5.0859833, 48.453157399999981 ], [ 5.069062, 48.4558435 ], [ 5.0504873, 48.444613399999987 ] ] ] } }
+]
+}

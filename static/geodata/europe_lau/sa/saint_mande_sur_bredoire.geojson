@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_mande_sur_bredoire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Mandé-sur-Brédoire", "metric_roundness": 47.97, "metric_rectangularity": 68.32, "metric_mobile_fit": -2.37, "metric_aspect_ratio": 1.586, "metric_area_km2": 47.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3064763, 46.031905599999988 ], [ -0.3156869, 46.0219403 ], [ -0.3158145, 46.0170426 ], [ -0.3015625, 46.0142015 ], [ -0.296062, 46.0134958 ], [ -0.2836959, 46.0212825 ], [ -0.2603282, 46.020893 ], [ -0.224338, 46.034345499999986 ], [ -0.2417452, 46.038765399999988 ], [ -0.2330435, 46.0484605 ], [ -0.252633, 46.0518835 ], [ -0.2592145, 46.0543425 ], [ -0.2730345, 46.057315 ], [ -0.3006441, 46.0555933 ], [ -0.3244575, 46.0435295 ], [ -0.3064763, 46.031905599999988 ] ] ] } }
+]
+}

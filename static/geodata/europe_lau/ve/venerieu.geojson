@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "venerieu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vénérieu", "metric_roundness": 47.07, "metric_rectangularity": 67.78, "metric_mobile_fit": 50.2, "metric_aspect_ratio": 1.061, "metric_area_km2": 12.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.2659805, 45.675109799999987 ], [ 5.2595477, 45.6716331 ], [ 5.2583095, 45.6713995 ], [ 5.253725, 45.6685345 ], [ 5.2595477, 45.6632956 ], [ 5.2773085, 45.642440499999985 ], [ 5.303295, 45.6578705 ], [ 5.2816997, 45.6643548 ], [ 5.2738205, 45.674537499999985 ], [ 5.2659805, 45.675109799999987 ] ] ] } }
+]
+}

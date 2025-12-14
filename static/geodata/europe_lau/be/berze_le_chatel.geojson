@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "berze_le_chatel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Berzé-le-Châtel", "metric_roundness": 48.06, "metric_rectangularity": 61.3, "metric_mobile_fit": 64.76, "metric_aspect_ratio": 0.915, "metric_area_km2": 11.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.698023, 46.4007115 ], [ 4.695412, 46.4029975 ], [ 4.6829319, 46.4090773 ], [ 4.656341, 46.4016745 ], [ 4.6804685, 46.389639099999989 ], [ 4.684937, 46.377655499999989 ], [ 4.6959041, 46.381421899999985 ], [ 4.695667, 46.388239 ], [ 4.698023, 46.4007115 ] ] ] } }
+]
+}

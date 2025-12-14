@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bordezac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bordezac", "metric_roundness": 57.19, "metric_rectangularity": 60.38, "metric_mobile_fit": 59.82, "metric_aspect_ratio": 0.964, "metric_area_km2": 18.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.094769, 44.3338875 ], [ 4.0841003, 44.3289875 ], [ 4.0742932, 44.329435499999988 ], [ 4.0601375, 44.3201635 ], [ 4.0604077, 44.3162548 ], [ 4.0728163, 44.310699199999988 ], [ 4.0798855, 44.301178 ], [ 4.0922216, 44.301525 ], [ 4.0986427, 44.297334399999983 ], [ 4.1069505, 44.3047735 ], [ 4.0993664, 44.3172002 ], [ 4.1094225, 44.3308435 ], [ 4.103866, 44.333902 ], [ 4.094769, 44.3338875 ] ] ] } }
+]
+}

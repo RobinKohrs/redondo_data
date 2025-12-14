@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_moncao_e_troviscoso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Monção e Troviscoso", "metric_roundness": 47.31, "metric_rectangularity": 58.49, "metric_mobile_fit": 16.18, "metric_aspect_ratio": 1.401, "metric_area_km2": 15.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4628485, 42.053267 ], [ -8.4553975, 42.057965 ], [ -8.4538175, 42.061159 ], [ -8.4482595, 42.066959499999989 ], [ -8.441918, 42.0751213 ], [ -8.4406165, 42.08202 ], [ -8.4539015, 42.082901 ], [ -8.4965325, 42.079773 ], [ -8.4845958, 42.0769613 ], [ -8.4841943, 42.0632424 ], [ -8.478866, 42.0602905 ], [ -8.4628485, 42.053267 ] ] ] } }
+]
+}

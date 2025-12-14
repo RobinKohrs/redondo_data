@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "l_ecouvotte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "L'Écouvotte", "metric_roundness": 67.84, "metric_rectangularity": 73.93, "metric_mobile_fit": 54.12, "metric_aspect_ratio": 1.021, "metric_area_km2": 4.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.258175, 47.3506475 ], [ 6.2526255, 47.35178149999998 ], [ 6.245931, 47.3490355 ], [ 6.242858, 47.3468875 ], [ 6.240207, 47.3424785 ], [ 6.24466, 47.3415602 ], [ 6.2457229, 47.336713 ], [ 6.2524576, 47.3375368 ], [ 6.261124, 47.336678 ], [ 6.2629723, 47.347126099999983 ], [ 6.260793, 47.351099499999982 ], [ 6.258175, 47.3506475 ] ] ] } }
+]
+}

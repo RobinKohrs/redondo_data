@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "buonabitacolo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Buonabitacolo", "metric_roundness": 41.22, "metric_rectangularity": 75.97, "metric_mobile_fit": 97.29, "metric_aspect_ratio": 0.535, "metric_area_km2": 26.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.6461383, 40.2615567 ], [ 15.6387145, 40.2813255 ], [ 15.6339567, 40.299398799999985 ], [ 15.6244225, 40.316143499999988 ], [ 15.6193735, 40.3114826 ], [ 15.6133566, 40.310568 ], [ 15.6031195, 40.297239 ], [ 15.6066751, 40.2912512 ], [ 15.6042665, 40.2804956 ], [ 15.6087394, 40.2677688 ], [ 15.6226168, 40.258307 ], [ 15.6358002, 40.254847499999983 ], [ 15.6433915, 40.257063 ], [ 15.6461383, 40.2615567 ] ] ] } }
+]
+}

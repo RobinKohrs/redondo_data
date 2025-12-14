@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bir_tawil_disputed_territory",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bir Tawil (Disputed Territory)", "metric_roundness": 29.21, "metric_rectangularity": 69.56, "metric_mobile_fit": -146.57, "metric_aspect_ratio": 3.028, "metric_area_km2": 2321.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.9920395, 22.002419799999988 ], [ 33.749999599999988, 22.0021925 ], [ 33.679224399999988, 22.002126099999987 ], [ 33.182633, 22.0016598 ], [ 33.5639799, 21.7254822 ], [ 33.679224399999988, 21.7376827 ], [ 33.749999599999988, 21.745175 ], [ 33.9592449, 21.7674389 ], [ 33.9920395, 21.7709286 ], [ 34.00521, 21.77233 ], [ 34.0273133, 21.834912599999985 ], [ 34.08562, 22.0 ], [ 34.0865291, 22.002508499999987 ], [ 33.9920395, 22.002419799999988 ] ] ] } }
+]
+}

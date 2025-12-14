@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_marie_de_cuines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Marie-de-Cuines", "metric_roundness": 44.9, "metric_rectangularity": 78.46, "metric_mobile_fit": 76.51, "metric_aspect_ratio": 0.797, "metric_area_km2": 30.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2598925, 45.3081417 ], [ 6.2809375, 45.293246 ], [ 6.299421, 45.302254 ], [ 6.3239855, 45.321689 ], [ 6.3204085, 45.3339235 ], [ 6.3134779, 45.335383199999988 ], [ 6.303677, 45.3497615 ], [ 6.2867617, 45.331310699999989 ], [ 6.2743545, 45.3223835 ], [ 6.2598925, 45.3081417 ] ] ] } }
+]
+}

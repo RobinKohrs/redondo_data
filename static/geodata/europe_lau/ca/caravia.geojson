@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caravia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caravia", "metric_roundness": 65.1, "metric_rectangularity": 75.07, "metric_mobile_fit": 61.79, "metric_aspect_ratio": 0.945, "metric_area_km2": 25.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.1633795, 43.4594355 ], [ -5.1683775, 43.476284 ], [ -5.1913305, 43.4775632 ], [ -5.214872, 43.4737085 ], [ -5.2149847, 43.4529281 ], [ -5.2007075, 43.4379745 ], [ -5.1982215, 43.437905 ], [ -5.196723, 43.439185499999986 ], [ -5.1932985, 43.4391965 ], [ -5.1633795, 43.4594355 ] ] ] } }
+]
+}

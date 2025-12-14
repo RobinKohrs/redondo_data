@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_jean_de_gonville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Jean-de-Gonville", "metric_roundness": 45.72, "metric_rectangularity": 69.71, "metric_mobile_fit": 39.3, "metric_aspect_ratio": 1.17, "metric_area_km2": 25.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.963979, 46.2188386 ], [ 5.956321, 46.2258907 ], [ 5.9334966, 46.2342163 ], [ 5.919953, 46.2391565 ], [ 5.918613, 46.2355515 ], [ 5.914735, 46.2328365 ], [ 5.9049015, 46.223375499999989 ], [ 5.9334966, 46.212323099999985 ], [ 5.9396743, 46.199768099999986 ], [ 5.9503826, 46.2009666 ], [ 5.964203, 46.198032499999989 ], [ 5.971615, 46.2022437 ], [ 5.9701755, 46.207367699999985 ], [ 5.974414, 46.214752 ], [ 5.963979, 46.2188386 ] ] ] } }
+]
+}

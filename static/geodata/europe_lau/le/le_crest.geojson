@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_crest",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Crest", "metric_roundness": 52.4, "metric_rectangularity": 70.26, "metric_mobile_fit": 27.22, "metric_aspect_ratio": 1.29, "metric_area_km2": 14.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1594006, 45.699146099999986 ], [ 3.156164, 45.7008705 ], [ 3.1461551, 45.6973524 ], [ 3.1178675, 45.6985345 ], [ 3.1128159, 45.695444199999983 ], [ 3.11207, 45.683505 ], [ 3.119525, 45.675176 ], [ 3.143315, 45.678381 ], [ 3.1457107, 45.6848241 ], [ 3.159528, 45.694009 ], [ 3.1594006, 45.699146099999986 ] ] ] } }
+]
+}

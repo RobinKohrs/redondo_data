@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "toulouges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Toulouges", "metric_roundness": 46.75, "metric_rectangularity": 58.74, "metric_mobile_fit": 44.23, "metric_aspect_ratio": 1.12, "metric_area_km2": 14.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7984235, 42.655185499999988 ], [ 2.8089233, 42.6592427 ], [ 2.8188729, 42.6568454 ], [ 2.8442245, 42.6642535 ], [ 2.8481779, 42.668949699999985 ], [ 2.8407103, 42.6752783 ], [ 2.8398878, 42.68324519999998 ], [ 2.8269745, 42.689616 ], [ 2.8266907, 42.6801852 ], [ 2.8110183, 42.678898 ], [ 2.8091897, 42.670878 ], [ 2.795721, 42.661043 ], [ 2.7984235, 42.655185499999988 ] ] ] } }
+]
+}

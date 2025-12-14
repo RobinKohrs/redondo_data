@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourget_en_huile",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourget-en-Huile", "metric_roundness": 41.08, "metric_rectangularity": 71.14, "metric_mobile_fit": 81.37, "metric_aspect_ratio": 0.749, "metric_area_km2": 13.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.207537, 45.499751 ], [ 6.1989183, 45.4998481 ], [ 6.1938245, 45.496892 ], [ 6.1991371, 45.493905799999986 ], [ 6.1920673, 45.4862507 ], [ 6.1932676, 45.4806193 ], [ 6.2100044, 45.4726391 ], [ 6.220204, 45.461301 ], [ 6.2332355, 45.475483499999989 ], [ 6.207537, 45.499751 ] ] ] } }
+]
+}

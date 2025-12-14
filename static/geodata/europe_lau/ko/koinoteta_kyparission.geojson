@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kyparission",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κυπαρισσίων", "metric_roundness": 62.45, "metric_rectangularity": 69.74, "metric_mobile_fit": 44.02, "metric_aspect_ratio": 1.122, "metric_area_km2": 9.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.0478255, 37.444277499999977 ], [ 22.046593, 37.4411625 ], [ 22.0550263, 37.432853699999988 ], [ 22.0752035, 37.431005 ], [ 22.081288, 37.438523 ], [ 22.0836395, 37.442114499999988 ], [ 22.0848088, 37.447097 ], [ 22.078531, 37.458040499999989 ], [ 22.0696745, 37.4513849 ], [ 22.050803, 37.448883 ], [ 22.0478255, 37.444277499999977 ] ] ] } }
+]
+}

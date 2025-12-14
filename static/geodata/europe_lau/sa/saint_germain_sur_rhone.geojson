@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_germain_sur_rhone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Germain-sur-Rhône", "metric_roundness": 57.23, "metric_rectangularity": 65.59, "metric_mobile_fit": 71.73, "metric_aspect_ratio": 0.845, "metric_area_km2": 16.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.828557, 46.055455499999987 ], [ 5.8329547, 46.060835399999988 ], [ 5.8444565, 46.0593778 ], [ 5.8509875, 46.066332 ], [ 5.8427909, 46.0709516 ], [ 5.8312366, 46.086325799999983 ], [ 5.8216965, 46.089890499999989 ], [ 5.811412, 46.078424 ], [ 5.8115655, 46.076108 ], [ 5.8076225, 46.063937 ], [ 5.808075, 46.060861 ], [ 5.812978, 46.057918499999985 ], [ 5.813609, 46.0542965 ], [ 5.828557, 46.055455499999987 ] ] ] } }
+]
+}

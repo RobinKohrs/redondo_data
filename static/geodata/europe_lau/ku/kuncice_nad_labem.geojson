@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kuncice_nad_labem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kunčice nad Labem", "metric_roundness": 24.26, "metric_rectangularity": 48.26, "metric_mobile_fit": 48.11, "metric_aspect_ratio": 1.081, "metric_area_km2": 7.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.6207151, 50.588319099999985 ], [ 15.61313, 50.589426 ], [ 15.613145, 50.584338499999987 ], [ 15.633942, 50.5752223 ], [ 15.643945, 50.56742 ], [ 15.6462745, 50.566806 ], [ 15.6563175, 50.566285 ], [ 15.651999, 50.569944 ], [ 15.6439096, 50.5760004 ], [ 15.6340145, 50.5916455 ], [ 15.6207151, 50.588319099999985 ] ] ] } }
+]
+}

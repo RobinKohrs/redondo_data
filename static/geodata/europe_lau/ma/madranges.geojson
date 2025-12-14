@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "madranges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Madranges", "metric_roundness": 46.03, "metric_rectangularity": 57.42, "metric_mobile_fit": 51.88, "metric_aspect_ratio": 1.044, "metric_area_km2": 25.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7896159, 45.4465162 ], [ 1.7937005, 45.445460499999989 ], [ 1.809653, 45.455943799999986 ], [ 1.8177609, 45.4689561 ], [ 1.834107, 45.478307 ], [ 1.8117065, 45.4806335 ], [ 1.8027137, 45.4851192 ], [ 1.781899, 45.4815685 ], [ 1.77433, 45.479005099999988 ], [ 1.7696517, 45.4689885 ], [ 1.7732531, 45.462180599999982 ], [ 1.7804387, 45.4606561 ], [ 1.781724, 45.4418035 ], [ 1.7896159, 45.4465162 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fresne_le_plan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fresne-le-Plan", "metric_roundness": 53.79, "metric_rectangularity": 58.91, "metric_mobile_fit": 70.41, "metric_aspect_ratio": 0.858, "metric_area_km2": 15.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2790885, 49.4249515 ], [ 1.2800938, 49.4170903 ], [ 1.270446, 49.411108 ], [ 1.2708705, 49.410573 ], [ 1.289691, 49.406540499999984 ], [ 1.2918785, 49.404648 ], [ 1.294093, 49.404712 ], [ 1.2967255, 49.4039265 ], [ 1.2977395, 49.398051 ], [ 1.297464, 49.39467 ], [ 1.308006, 49.396337499999987 ], [ 1.3112649, 49.411599 ], [ 1.3131519, 49.413403799999983 ], [ 1.3153865, 49.411112 ], [ 1.3096375, 49.4287335 ], [ 1.2790885, 49.4249515 ] ] ] } }
+]
+}

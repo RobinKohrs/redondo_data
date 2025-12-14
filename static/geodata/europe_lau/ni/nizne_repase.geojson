@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nizne_repase",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nižné Repaše", "metric_roundness": 44.6, "metric_rectangularity": 70.97, "metric_mobile_fit": 90.68, "metric_aspect_ratio": 0.656, "metric_area_km2": 24.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.7312364, 49.090532499999981 ], [ 20.7264627, 49.096637799999989 ], [ 20.7307846, 49.1017701 ], [ 20.7344465, 49.1219125 ], [ 20.7237979, 49.118694899999987 ], [ 20.709644, 49.119556 ], [ 20.7051599, 49.108608399999987 ], [ 20.687392, 49.0870925 ], [ 20.6948016, 49.0809139 ], [ 20.7148345, 49.074924 ], [ 20.7264635, 49.085103499999988 ], [ 20.7312364, 49.090532499999981 ] ] ] } }
+]
+}

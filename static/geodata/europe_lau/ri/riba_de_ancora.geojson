@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "riba_de_ancora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riba de Âncora", "metric_roundness": 51.37, "metric_rectangularity": 68.95, "metric_mobile_fit": 28.93, "metric_aspect_ratio": 1.273, "metric_area_km2": 15.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.8301735, 41.809750099999981 ], [ -8.83985, 41.805457 ], [ -8.839741, 41.804126 ], [ -8.8340905, 41.8016165 ], [ -8.8243175, 41.803776899999988 ], [ -8.8077614, 41.8021299 ], [ -8.791578, 41.8056005 ], [ -8.7937208, 41.827403299999986 ], [ -8.7965045, 41.829476499999984 ], [ -8.804244, 41.82981849999998 ], [ -8.81958, 41.829874 ], [ -8.8301735, 41.809750099999981 ] ] ] } }
+]
+}

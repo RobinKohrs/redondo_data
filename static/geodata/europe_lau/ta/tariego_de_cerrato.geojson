@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tariego_de_cerrato",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tariego de Cerrato", "metric_roundness": 58.19, "metric_rectangularity": 69.71, "metric_mobile_fit": 62.46, "metric_aspect_ratio": 0.938, "metric_area_km2": 36.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.5053238, 41.9022436 ], [ -4.505447, 41.8943316 ], [ -4.4919732, 41.8735054 ], [ -4.476053, 41.8562775 ], [ -4.4722847, 41.8639302 ], [ -4.4574393, 41.868568 ], [ -4.435158, 41.8888475 ], [ -4.4554374, 41.896816 ], [ -4.4576855, 41.912071 ], [ -4.4785794, 41.9069942 ], [ -4.4884025, 41.9117274 ], [ -4.4995345, 41.910408 ], [ -4.5053238, 41.9022436 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_monselie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Monselie", "metric_roundness": 45.12, "metric_rectangularity": 54.95, "metric_mobile_fit": 34.74, "metric_aspect_ratio": 1.215, "metric_area_km2": 17.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5827007, 45.3307863 ], [ 2.578133, 45.33180849999998 ], [ 2.5593687, 45.3305922 ], [ 2.5463949, 45.336106399999984 ], [ 2.5350493, 45.337037699999989 ], [ 2.5301595, 45.3300485 ], [ 2.5392918, 45.326245 ], [ 2.5329915, 45.318866799999981 ], [ 2.523816, 45.316970499999982 ], [ 2.5340295, 45.3029635 ], [ 2.5618132, 45.316958399999976 ], [ 2.5769343, 45.318953 ], [ 2.5820605, 45.325818 ], [ 2.5827007, 45.3307863 ] ] ] } }
+]
+}

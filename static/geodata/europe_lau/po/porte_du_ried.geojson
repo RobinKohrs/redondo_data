@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "porte_du_ried",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Porte du Ried", "metric_roundness": 42.6, "metric_rectangularity": 74.18, "metric_mobile_fit": 64.68, "metric_aspect_ratio": 0.916, "metric_area_km2": 21.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4513758, 48.1311898 ], [ 7.456434, 48.133559 ], [ 7.4352237, 48.1421662 ], [ 7.4247724, 48.132234 ], [ 7.4134471, 48.1309952 ], [ 7.4035718, 48.120018599999987 ], [ 7.397959, 48.106451 ], [ 7.4108918, 48.1060451 ], [ 7.4172025, 48.099536499999985 ], [ 7.4200071, 48.1036454 ], [ 7.4244525, 48.104029499999989 ], [ 7.4400617, 48.12076889999998 ], [ 7.44553, 48.121103499999982 ], [ 7.4513758, 48.1311898 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "retonval",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rétonval", "metric_roundness": 47.48, "metric_rectangularity": 68.11, "metric_mobile_fit": 91.78, "metric_aspect_ratio": 0.645, "metric_area_km2": 13.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5834785, 49.828086 ], [ 1.5859475, 49.825407 ], [ 1.5820175, 49.8236675 ], [ 1.5768, 49.823545 ], [ 1.5903135, 49.794633499999982 ], [ 1.6025625, 49.797613 ], [ 1.6004102, 49.803258599999985 ], [ 1.6109515, 49.807674099999986 ], [ 1.609676, 49.8195808 ], [ 1.585342, 49.8288155 ], [ 1.5834785, 49.828086 ] ] ] } }
+]
+}

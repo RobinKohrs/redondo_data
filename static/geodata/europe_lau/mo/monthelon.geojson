@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monthelon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monthelon", "metric_roundness": 26.01, "metric_rectangularity": 60.4, "metric_mobile_fit": 68.14, "metric_aspect_ratio": 0.881, "metric_area_km2": 6.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.9478965, 48.995303 ], [ 3.9518865, 48.9983945 ], [ 3.947573, 49.0002595 ], [ 3.950285, 49.011419 ], [ 3.945834, 49.010148 ], [ 3.9463195, 49.007827 ], [ 3.942019, 49.006176499999981 ], [ 3.9402535, 49.0043125 ], [ 3.919002, 48.991513499999989 ], [ 3.9179355, 48.986139499999986 ], [ 3.9355884, 48.9886703 ], [ 3.945479, 48.9943915 ], [ 3.9478965, 48.995303 ] ] ] } }
+]
+}

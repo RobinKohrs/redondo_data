@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "canico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Caniço", "metric_roundness": 52.68, "metric_rectangularity": 69.91, "metric_mobile_fit": 12.89, "metric_aspect_ratio": 1.434, "metric_area_km2": 17.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -16.8508776, 32.6371678 ], [ -16.8315091, 32.6416311 ], [ -16.8142391, 32.6525804 ], [ -16.8078365, 32.6601435 ], [ -16.8179535, 32.662523 ], [ -16.8311905, 32.6706505 ], [ -16.845571, 32.666328 ], [ -16.858198, 32.6671003 ], [ -16.8648485, 32.662326 ], [ -16.8586242, 32.6573364 ], [ -16.862224, 32.651367399999984 ], [ -16.8577725, 32.639787 ], [ -16.8508776, 32.6371678 ] ] ] } }
+]
+}

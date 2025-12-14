@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cabezabellosa_de_la_calzada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cabezabellosa de la Calzada", "metric_roundness": 44.46, "metric_rectangularity": 63.49, "metric_mobile_fit": 33.32, "metric_aspect_ratio": 1.229, "metric_area_km2": 15.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.4659015, 41.0440183 ], [ -5.488112, 41.056679 ], [ -5.4909015, 41.0555495 ], [ -5.4946295, 41.055366499999984 ], [ -5.496075, 41.0564995 ], [ -5.4994025, 41.055435 ], [ -5.501796, 41.0490958 ], [ -5.4984555, 41.0256425 ], [ -5.4742543, 41.028526899999981 ], [ -5.4612471, 41.0331656 ], [ -5.451211, 41.0300255 ], [ -5.4659015, 41.0440183 ] ] ] } }
+]
+}

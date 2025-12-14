@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nesle_le_repons",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nesle-le-Repons", "metric_roundness": 42.74, "metric_rectangularity": 64.94, "metric_mobile_fit": 99.54, "metric_aspect_ratio": 0.567, "metric_area_km2": 11.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7235436, 49.0339514 ], [ 3.7300988, 49.0436701 ], [ 3.7247791, 49.0521629 ], [ 3.725971, 49.055998 ], [ 3.7234045, 49.059721499999988 ], [ 3.7110643, 49.061103 ], [ 3.7101996, 49.0522029 ], [ 3.700575, 49.0507275 ], [ 3.7020706, 49.0432154 ], [ 3.7069111, 49.04218849999998 ], [ 3.7065126, 49.036658599999988 ], [ 3.7093136, 49.031351699999988 ], [ 3.7165221, 49.026976 ], [ 3.725246, 49.027498499999986 ], [ 3.7235436, 49.0339514 ] ] ] } }
+]
+}

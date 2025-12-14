@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "micakovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mičakovce", "metric_roundness": 25.95, "metric_rectangularity": 50.52, "metric_mobile_fit": 88.29, "metric_aspect_ratio": 0.445, "metric_area_km2": 10.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.5310684, 49.085712199999989 ], [ 21.5371447, 49.103931399999986 ], [ 21.530754, 49.106401 ], [ 21.5267447, 49.104394799999987 ], [ 21.521389, 49.094297499999989 ], [ 21.5188665, 49.0903463 ], [ 21.5229178, 49.076270799999989 ], [ 21.521311, 49.069667 ], [ 21.5221615, 49.06421 ], [ 21.547561, 49.075012499999978 ], [ 21.5310684, 49.085712199999989 ] ] ] } }
+]
+}

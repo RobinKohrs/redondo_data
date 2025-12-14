@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_freches_e_torres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Freches e Torres", "metric_roundness": 37.62, "metric_rectangularity": 57.77, "metric_mobile_fit": 43.39, "metric_aspect_ratio": 1.129, "metric_area_km2": 41.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.293997, 40.755616 ], [ -7.3304685, 40.757243 ], [ -7.3660369, 40.7535623 ], [ -7.3702565, 40.75089 ], [ -7.3708055, 40.7471255 ], [ -7.3621146, 40.7407744 ], [ -7.3746906, 40.718271699999981 ], [ -7.3760085, 40.7039085 ], [ -7.3678944, 40.7021753 ], [ -7.3352615, 40.705254 ], [ -7.3301111, 40.7376532 ], [ -7.2999244, 40.7421208 ], [ -7.295936, 40.7453875 ], [ -7.293997, 40.755616 ] ] ] } }
+]
+}

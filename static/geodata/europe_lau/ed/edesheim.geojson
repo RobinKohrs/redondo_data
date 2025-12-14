@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "edesheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Edesheim", "metric_roundness": 53.54, "metric_rectangularity": 75.44, "metric_mobile_fit": 12.85, "metric_aspect_ratio": 1.434, "metric_area_km2": 20.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.121765, 49.2733815 ], [ 8.1216498, 49.2651098 ], [ 8.107856, 49.2643115 ], [ 8.108857, 49.251922 ], [ 8.1366028, 49.252463899999988 ], [ 8.138896, 49.2485885 ], [ 8.1454705, 49.2502025 ], [ 8.1660795, 49.2535845 ], [ 8.1630363, 49.258198899999989 ], [ 8.163059, 49.272178499999988 ], [ 8.1608428, 49.2750862 ], [ 8.1485275, 49.273729 ], [ 8.121765, 49.2733815 ] ] ] } }
+]
+}

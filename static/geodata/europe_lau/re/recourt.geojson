@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "recourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Récourt", "metric_roundness": 62.97, "metric_rectangularity": 79.43, "metric_mobile_fit": 60.54, "metric_aspect_ratio": 0.957, "metric_area_km2": 8.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0331548, 50.266414499999982 ], [ 3.0263271, 50.2672898 ], [ 3.0186495, 50.264396 ], [ 3.0115876, 50.2567863 ], [ 3.0184855, 50.248116499999988 ], [ 3.0422905, 50.2508985 ], [ 3.0423215, 50.2531515 ], [ 3.0434675, 50.2550295 ], [ 3.0419265, 50.259894 ], [ 3.0363885, 50.2694115 ], [ 3.0331548, 50.266414499999982 ] ] ] } }
+]
+}

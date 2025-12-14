@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villegats",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villegats", "metric_roundness": 53.92, "metric_rectangularity": 72.47, "metric_mobile_fit": 54.93, "metric_aspect_ratio": 1.013, "metric_area_km2": 8.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4703267, 48.990097 ], [ 1.4702928, 48.9941731 ], [ 1.4788912, 48.9996232 ], [ 1.480403, 49.0055555 ], [ 1.480029, 49.0075305 ], [ 1.4740505, 49.009688499999989 ], [ 1.4498872, 49.0009547 ], [ 1.4473915, 48.997082 ], [ 1.4537185, 48.988312499999978 ], [ 1.461698, 48.988866 ], [ 1.4703267, 48.990097 ] ] ] } }
+]
+}

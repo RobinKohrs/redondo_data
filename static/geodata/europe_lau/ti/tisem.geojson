@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tisem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tisem", "metric_roundness": 40.1, "metric_rectangularity": 77.64, "metric_mobile_fit": 49.06, "metric_aspect_ratio": 1.072, "metric_area_km2": 8.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6015885, 49.745717499999984 ], [ 14.6242479, 49.754797799999984 ], [ 14.624469, 49.760314 ], [ 14.6229035, 49.7658305 ], [ 14.5898124, 49.756857499999981 ], [ 14.5882981, 49.7528372 ], [ 14.5948792, 49.749593499999989 ], [ 14.591832, 49.7440295 ], [ 14.6015885, 49.745717499999984 ] ] ] } }
+]
+}

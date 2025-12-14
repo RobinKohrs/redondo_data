@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zadni_stritez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zadní Střítež", "metric_roundness": 53.32, "metric_rectangularity": 73.18, "metric_mobile_fit": 89.07, "metric_aspect_ratio": 0.672, "metric_area_km2": 11.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.910888, 49.5111785 ], [ 14.9017804, 49.504901 ], [ 14.9007342, 49.494356499999981 ], [ 14.9092576, 49.483271099999982 ], [ 14.925723, 49.482306 ], [ 14.9305967, 49.484826499999983 ], [ 14.926683, 49.5006945 ], [ 14.910888, 49.5111785 ] ] ] } }
+]
+}

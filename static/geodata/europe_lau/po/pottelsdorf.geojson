@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pottelsdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pöttelsdorf", "metric_roundness": 39.66, "metric_rectangularity": 70.19, "metric_mobile_fit": 88.66, "metric_aspect_ratio": 0.676, "metric_area_km2": 17.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4081075, 47.75436449999998 ], [ 16.424518, 47.7458043 ], [ 16.4329992, 47.73440979999998 ], [ 16.440122, 47.729907499999989 ], [ 16.445405, 47.736021599999987 ], [ 16.4509403, 47.7538762 ], [ 16.425817, 47.7708285 ], [ 16.4232345, 47.772091499999988 ], [ 16.4195325, 47.772518499999975 ], [ 16.4081075, 47.75436449999998 ] ] ] } }
+]
+}

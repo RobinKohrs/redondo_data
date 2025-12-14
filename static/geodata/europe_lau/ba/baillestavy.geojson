@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "baillestavy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Baillestavy", "metric_roundness": 48.3, "metric_rectangularity": 59.28, "metric_mobile_fit": 73.05, "metric_aspect_ratio": 0.832, "metric_area_km2": 32.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.5233565, 42.5832949 ], [ 2.5110295, 42.5820921 ], [ 2.5038465, 42.596021 ], [ 2.4961327, 42.587796599999983 ], [ 2.4953508, 42.5670579 ], [ 2.505034, 42.5519121 ], [ 2.5063695, 42.5403095 ], [ 2.5290548, 42.5443201 ], [ 2.5415739, 42.5507101 ], [ 2.5525215, 42.546888499999987 ], [ 2.55829, 42.559797499999981 ], [ 2.532428, 42.5805905 ], [ 2.5233565, 42.5832949 ] ] ] } }
+]
+}

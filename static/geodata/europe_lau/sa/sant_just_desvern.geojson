@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sant_just_desvern",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sant Just Desvern", "metric_roundness": 38.07, "metric_rectangularity": 65.89, "metric_mobile_fit": 50.66, "metric_aspect_ratio": 1.056, "metric_area_km2": 13.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1030111, 41.4021453 ], [ 2.1003995, 41.4076969 ], [ 2.0847727, 41.4088887 ], [ 2.0777745, 41.402867 ], [ 2.0613436, 41.393832799999984 ], [ 2.0583335, 41.382223499999988 ], [ 2.0522275, 41.379406 ], [ 2.0645423, 41.3790937 ], [ 2.0756915, 41.3728065 ], [ 2.0850334, 41.3876451 ], [ 2.097792, 41.393957 ], [ 2.1030111, 41.4021453 ] ] ] } }
+]
+}

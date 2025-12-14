@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jablonne_nad_orlici",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jablonné nad Orlicí", "metric_roundness": 22.55, "metric_rectangularity": 42.72, "metric_mobile_fit": -51.89, "metric_aspect_ratio": 2.081, "metric_area_km2": 10.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.6389343, 50.025181599999982 ], [ 16.6221588, 50.027664 ], [ 16.6062165, 50.039093099999988 ], [ 16.5996535, 50.038884 ], [ 16.58482, 50.039361 ], [ 16.5886313, 50.027979799999983 ], [ 16.5863455, 50.0189 ], [ 16.6030548, 50.0210742 ], [ 16.6136156, 50.025992199999983 ], [ 16.6332227, 50.023049099999987 ], [ 16.651115, 50.023808 ], [ 16.6500445, 50.0266525 ], [ 16.6389343, 50.025181599999982 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_skalaniou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σκαλανίου", "metric_roundness": 52.14, "metric_rectangularity": 74.25, "metric_mobile_fit": 71.13, "metric_aspect_ratio": 0.851, "metric_area_km2": 16.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.1880196, 35.3051048 ], [ 25.1764998, 35.3021508 ], [ 25.1660595, 35.307171 ], [ 25.165352, 35.280320499999988 ], [ 25.174081, 35.2808462 ], [ 25.1822045, 35.275206899999986 ], [ 25.199189, 35.2698165 ], [ 25.2043051, 35.2757443 ], [ 25.2035355, 35.2938135 ], [ 25.203612, 35.299723 ], [ 25.1880196, 35.3051048 ] ] ] } }
+]
+}

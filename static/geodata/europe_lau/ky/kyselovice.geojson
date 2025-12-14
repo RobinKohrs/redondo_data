@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kyselovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kyselovice", "metric_roundness": 49.59, "metric_rectangularity": 78.34, "metric_mobile_fit": 95.1, "metric_aspect_ratio": 0.513, "metric_area_km2": 16.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.3903005, 49.352907 ], [ 17.401374, 49.350641099999983 ], [ 17.4115695, 49.356184 ], [ 17.4160255, 49.356585 ], [ 17.415514, 49.3590075 ], [ 17.4146125, 49.362153499999984 ], [ 17.4132873, 49.3659332 ], [ 17.4187606, 49.37439 ], [ 17.4171965, 49.37852 ], [ 17.4114549, 49.3851297 ], [ 17.3915319, 49.387620499999976 ], [ 17.389601, 49.3809975 ], [ 17.3903005, 49.352907 ] ] ] } }
+]
+}

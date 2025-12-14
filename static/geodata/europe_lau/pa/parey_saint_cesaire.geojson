@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parey_saint_cesaire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Parey-Saint-Césaire", "metric_roundness": 37.59, "metric_rectangularity": 60.32, "metric_mobile_fit": 48.6, "metric_aspect_ratio": 1.076, "metric_area_km2": 13.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0456428, 48.5222438 ], [ 6.0371235, 48.516474 ], [ 6.061158, 48.514423 ], [ 6.0663615, 48.518804499999987 ], [ 6.0722341, 48.523234099999989 ], [ 6.082712, 48.521741199999987 ], [ 6.085119, 48.528543 ], [ 6.0792109, 48.5341715 ], [ 6.0805745, 48.54395 ], [ 6.067477, 48.5371235 ], [ 6.057784, 48.5356277 ], [ 6.0400935, 48.524525499999989 ], [ 6.0456428, 48.5222438 ] ] ] } }
+]
+}

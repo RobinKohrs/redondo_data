@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ereira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ereira", "metric_roundness": 36.74, "metric_rectangularity": 58.2, "metric_mobile_fit": 4.89, "metric_aspect_ratio": 1.514, "metric_area_km2": 11.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.7105645, 40.1617225 ], [ -8.7143495, 40.159871 ], [ -8.7363515, 40.147202 ], [ -8.7196849, 40.148039 ], [ -8.7004743, 40.140904899999981 ], [ -8.691511, 40.1493184 ], [ -8.6824975, 40.1498575 ], [ -8.6872922, 40.1680996 ], [ -8.708655, 40.162743499999983 ], [ -8.7105645, 40.1617225 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ringgenberg_be",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ringgenberg (BE)", "metric_roundness": 52.87, "metric_rectangularity": 85.54, "metric_mobile_fit": 30.35, "metric_aspect_ratio": 1.259, "metric_area_km2": 17.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9187115, 46.7110085 ], [ 7.9150123, 46.719397599999979 ], [ 7.9060495, 46.724867499999988 ], [ 7.897071, 46.721189 ], [ 7.881684, 46.717471499999988 ], [ 7.860797, 46.704174 ], [ 7.8710649, 46.6933261 ], [ 7.8845125, 46.6940715 ], [ 7.9187115, 46.7110085 ] ] ] } }
+]
+}

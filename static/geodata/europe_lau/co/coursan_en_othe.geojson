@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "coursan_en_othe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Coursan-en-Othe", "metric_roundness": 33.36, "metric_rectangularity": 75.49, "metric_mobile_fit": 58.25, "metric_aspect_ratio": 0.98, "metric_area_km2": 19.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8159905, 48.095753499999979 ], [ 3.809858, 48.097313499999984 ], [ 3.805651, 48.100514499999989 ], [ 3.7988624, 48.09277789999998 ], [ 3.7994855, 48.086116 ], [ 3.8055119, 48.0842061 ], [ 3.826356, 48.063513499999985 ], [ 3.8363566, 48.0592779 ], [ 3.857026, 48.061591 ], [ 3.8593481, 48.063742599999983 ], [ 3.8545466, 48.070268899999981 ], [ 3.8452215, 48.0757285 ], [ 3.8159905, 48.095753499999979 ] ] ] } }
+]
+}

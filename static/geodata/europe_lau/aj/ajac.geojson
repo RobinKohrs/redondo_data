@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ajac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ajac", "metric_roundness": 40.86, "metric_rectangularity": 66.79, "metric_mobile_fit": -18.63, "metric_aspect_ratio": 1.749, "metric_area_km2": 9.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.124984, 43.054974499999986 ], [ 2.1267243, 43.052004799999985 ], [ 2.1228312, 43.0453453 ], [ 2.1136875, 43.039698 ], [ 2.1173115, 43.036417 ], [ 2.1403391, 43.035248799999984 ], [ 2.145231, 43.037459 ], [ 2.1608895, 43.051393 ], [ 2.1510695, 43.053712 ], [ 2.124984, 43.054974499999986 ] ] ] } }
+]
+}

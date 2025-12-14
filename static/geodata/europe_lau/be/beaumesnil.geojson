@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beaumesnil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beaumesnil", "metric_roundness": 36.4, "metric_rectangularity": 58.94, "metric_mobile_fit": -19.43, "metric_aspect_ratio": 1.757, "metric_area_km2": 11.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.967144, 48.88689 ], [ -0.940908, 48.902050299999985 ], [ -0.9394765, 48.907083499999985 ], [ -0.942931, 48.9077525 ], [ -0.9494535, 48.906259499999983 ], [ -0.9689466, 48.899335199999989 ], [ -0.9800608, 48.9042245 ], [ -0.9952275, 48.8998114 ], [ -0.990666, 48.891104099999986 ], [ -0.985605, 48.8884725 ], [ -0.967144, 48.88689 ] ] ] } }
+]
+}

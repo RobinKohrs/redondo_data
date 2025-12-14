@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lohe_rickelshof",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lohe-Rickelshof", "metric_roundness": 44.88, "metric_rectangularity": 79.0, "metric_mobile_fit": 99.21, "metric_aspect_ratio": 0.555, "metric_area_km2": 15.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.081844, 54.168395 ], [ 9.0837005, 54.1727925 ], [ 9.0845, 54.174685 ], [ 9.0777108, 54.176552399999984 ], [ 9.0811506, 54.194996 ], [ 9.055814, 54.199626 ], [ 9.0552445, 54.181565 ], [ 9.0548644, 54.1695335 ], [ 9.0591255, 54.168354 ], [ 9.081844, 54.168395 ] ] ] } }
+]
+}

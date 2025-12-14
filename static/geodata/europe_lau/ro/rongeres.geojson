@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rongeres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rongères", "metric_roundness": 68.96, "metric_rectangularity": 73.68, "metric_mobile_fit": 73.98, "metric_aspect_ratio": 0.823, "metric_area_km2": 18.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4620922, 46.2820529 ], [ 3.4714544, 46.287892899999989 ], [ 3.471365, 46.294634 ], [ 3.4688365, 46.3107608 ], [ 3.46176, 46.316684 ], [ 3.4512221, 46.309343399999975 ], [ 3.434169, 46.3104315 ], [ 3.4345662, 46.302667299999989 ], [ 3.4302166, 46.2976445 ], [ 3.430226, 46.291889 ], [ 3.441145, 46.2831 ], [ 3.4620922, 46.2820529 ] ] ] } }
+]
+}

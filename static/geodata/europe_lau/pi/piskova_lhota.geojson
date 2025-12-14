@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "piskova_lhota",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Písková Lhota", "metric_roundness": 36.29, "metric_rectangularity": 67.14, "metric_mobile_fit": 99.36, "metric_aspect_ratio": 0.569, "metric_area_km2": 11.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.8705655, 50.3578048 ], [ 14.8818868, 50.3585187 ], [ 14.8850934, 50.3637617 ], [ 14.8907325, 50.36629 ], [ 14.8876293, 50.373830299999987 ], [ 14.8889305, 50.380448 ], [ 14.875959, 50.3830775 ], [ 14.865057, 50.3687195 ], [ 14.8582945, 50.3519225 ], [ 14.8605579, 50.3530838 ], [ 14.8642198, 50.3484384 ], [ 14.872303, 50.346705 ], [ 14.8705655, 50.3578048 ] ] ] } }
+]
+}

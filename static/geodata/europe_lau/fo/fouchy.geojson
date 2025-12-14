@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fouchy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fouchy", "metric_roundness": 30.98, "metric_rectangularity": 58.39, "metric_mobile_fit": -17.55, "metric_aspect_ratio": 1.738, "metric_area_km2": 19.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2582675, 48.3252016 ], [ 7.2502345, 48.324403499999988 ], [ 7.2377803, 48.3234957 ], [ 7.2051926, 48.3142229 ], [ 7.2033505, 48.309893 ], [ 7.233842, 48.308841599999973 ], [ 7.2422113, 48.303008 ], [ 7.2595605, 48.305204 ], [ 7.2602172, 48.313112099999984 ], [ 7.2734054, 48.3170338 ], [ 7.2796633, 48.323057199999987 ], [ 7.275114, 48.332207 ], [ 7.268115, 48.3308 ], [ 7.2582675, 48.3252016 ] ] ] } }
+]
+}

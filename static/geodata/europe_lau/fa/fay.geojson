@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fay", "metric_roundness": 62.51, "metric_rectangularity": 73.81, "metric_mobile_fit": 32.15, "metric_aspect_ratio": 1.241, "metric_area_km2": 10.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8172872, 49.8819914 ], [ 2.8238395, 49.890191499999986 ], [ 2.8178005, 49.8929955 ], [ 2.81261, 49.8912112 ], [ 2.8004119, 49.896015299999981 ], [ 2.787905, 49.8952485 ], [ 2.783113, 49.887761 ], [ 2.789638, 49.880996 ], [ 2.8037475, 49.874871 ], [ 2.8172872, 49.8819914 ] ] ] } }
+]
+}

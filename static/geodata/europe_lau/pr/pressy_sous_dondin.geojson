@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pressy_sous_dondin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pressy-sous-Dondin", "metric_roundness": 48.35, "metric_rectangularity": 73.02, "metric_mobile_fit": -12.04, "metric_aspect_ratio": 1.683, "metric_area_km2": 25.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.54047, 46.4840145 ], [ 4.5127321, 46.485039499999978 ], [ 4.484288, 46.493278499999981 ], [ 4.4682307, 46.472102899999982 ], [ 4.469956, 46.468483499999984 ], [ 4.471971, 46.4667355 ], [ 4.4756115, 46.464912 ], [ 4.500337, 46.467336699999983 ], [ 4.5117882, 46.4637181 ], [ 4.535543, 46.464155499999983 ], [ 4.54047, 46.4840145 ] ] ] } }
+]
+}

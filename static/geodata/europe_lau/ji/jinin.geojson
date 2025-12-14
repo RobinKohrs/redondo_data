@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "jinin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jinín", "metric_roundness": 57.19, "metric_rectangularity": 67.41, "metric_mobile_fit": 17.64, "metric_aspect_ratio": 1.386, "metric_area_km2": 12.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.0033803, 49.238829 ], [ 13.985375, 49.240372499999985 ], [ 13.9645875, 49.22715 ], [ 13.974153, 49.218884 ], [ 14.0034525, 49.2198185 ], [ 14.0004171, 49.2247507 ], [ 14.010198, 49.2352045 ], [ 14.0033803, 49.238829 ] ] ] } }
+]
+}

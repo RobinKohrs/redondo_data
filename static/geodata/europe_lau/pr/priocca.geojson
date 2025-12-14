@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "priocca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Priocca", "metric_roundness": 69.45, "metric_rectangularity": 75.94, "metric_mobile_fit": 78.54, "metric_aspect_ratio": 0.777, "metric_area_km2": 17.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0557301, 44.8104985 ], [ 8.0453685, 44.7993045 ], [ 8.044437, 44.7951275 ], [ 8.0427273, 44.787231 ], [ 8.0455092, 44.7801689 ], [ 8.054015, 44.7747405 ], [ 8.0731238, 44.777564099999978 ], [ 8.0818845, 44.7830755 ], [ 8.0791092, 44.7986188 ], [ 8.071154, 44.806322 ], [ 8.0557301, 44.8104985 ] ] ] } }
+]
+}

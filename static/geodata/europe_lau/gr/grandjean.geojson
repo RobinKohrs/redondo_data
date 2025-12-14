@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grandjean",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grandjean", "metric_roundness": 30.24, "metric_rectangularity": 50.13, "metric_mobile_fit": -17.99, "metric_aspect_ratio": 1.742, "metric_area_km2": 12.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.56941, 45.8852175 ], [ -0.5839659, 45.8735645 ], [ -0.6029634, 45.8787874 ], [ -0.6124675, 45.8887925 ], [ -0.626829, 45.8825055 ], [ -0.6241586, 45.876947799999989 ], [ -0.626981, 45.865339 ], [ -0.6053837, 45.867743 ], [ -0.5999621, 45.8709002 ], [ -0.5949995, 45.868383499999986 ], [ -0.5803522, 45.867230699999986 ], [ -0.5682826, 45.87789129999998 ], [ -0.568888, 45.883792499999984 ], [ -0.56941, 45.8852175 ] ] ] } }
+]
+}

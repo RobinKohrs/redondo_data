@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_malo_des_trois_fontaines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Malo-des-Trois-Fontaines", "metric_roundness": 50.18, "metric_rectangularity": 65.22, "metric_mobile_fit": 69.61, "metric_aspect_ratio": 0.866, "metric_area_km2": 36.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.459833, 48.035688799999974 ], [ -2.4790717, 48.036435499999989 ], [ -2.4912019, 48.027694 ], [ -2.507462, 48.025257499999981 ], [ -2.4970935, 48.01911 ], [ -2.4935955, 48.010716699999989 ], [ -2.4854736, 48.0063154 ], [ -2.4864428, 47.9977908 ], [ -2.480896, 47.988829499999987 ], [ -2.474729, 47.9889035 ], [ -2.4625225, 47.9992234 ], [ -2.444968, 48.004809 ], [ -2.441496, 48.0078584 ], [ -2.4419545, 48.0182205 ], [ -2.44176, 48.03976 ], [ -2.459833, 48.035688799999974 ] ] ] } }
+]
+}

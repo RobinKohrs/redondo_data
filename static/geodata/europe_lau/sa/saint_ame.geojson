@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_ame",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Amé", "metric_roundness": 58.05, "metric_rectangularity": 70.25, "metric_mobile_fit": 31.31, "metric_aspect_ratio": 1.249, "metric_area_km2": 17.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6319909, 48.011018199999988 ], [ 6.6430068, 48.011959 ], [ 6.6496408, 48.0092117 ], [ 6.6595955, 48.013561 ], [ 6.6762746, 48.0224271 ], [ 6.6779251, 48.028757 ], [ 6.6742525, 48.0334625 ], [ 6.6666068, 48.036707799999988 ], [ 6.657911, 48.036408 ], [ 6.640742, 48.036932899999982 ], [ 6.6335536, 48.0222708 ], [ 6.6261395, 48.014792 ], [ 6.6319909, 48.011018199999988 ] ] ] } }
+]
+}

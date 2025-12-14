@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grefrath_sport_und_freizeitgemeinde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grefrath, Sport- und Freizeitgemeinde", "metric_roundness": 48.3, "metric_rectangularity": 65.06, "metric_mobile_fit": 71.13, "metric_aspect_ratio": 0.851, "metric_area_km2": 79.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.4053585, 51.309862399999986 ], [ 6.3863725, 51.331301 ], [ 6.358896, 51.3797595 ], [ 6.3471925, 51.3758549 ], [ 6.3427228, 51.3761344 ], [ 6.3333663, 51.3767194 ], [ 6.320402, 51.3644537 ], [ 6.3040535, 51.359500499999982 ], [ 6.3135172, 51.3443589 ], [ 6.3111933, 51.332838599999988 ], [ 6.3189646, 51.3309987 ], [ 6.3143799, 51.3219387 ], [ 6.3192295, 51.311633 ], [ 6.3427228, 51.31666629999998 ], [ 6.3703615, 51.322587699999985 ], [ 6.377763, 51.305419299999983 ], [ 6.387375, 51.3054385 ], [ 6.4053585, 51.309862399999986 ] ] ] } }
+]
+}

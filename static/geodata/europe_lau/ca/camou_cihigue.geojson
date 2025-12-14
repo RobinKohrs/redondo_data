@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "camou_cihigue",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Camou-Cihigue", "metric_roundness": 36.25, "metric_rectangularity": 65.2, "metric_mobile_fit": -20.03, "metric_aspect_ratio": 1.763, "metric_area_km2": 18.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.9349819, 43.105198899999984 ], [ -0.9124163, 43.1123948 ], [ -0.9018345, 43.1107716 ], [ -0.893915, 43.114795 ], [ -0.891648, 43.12648 ], [ -0.9096157, 43.1343115 ], [ -0.937522, 43.124254 ], [ -0.9587375, 43.1142245 ], [ -0.961958, 43.1145305 ], [ -0.9349819, 43.105198899999984 ] ] ] } }
+]
+}

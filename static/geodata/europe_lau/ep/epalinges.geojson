@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "epalinges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Epalinges", "metric_roundness": 54.67, "metric_rectangularity": 71.38, "metric_mobile_fit": 59.27, "metric_aspect_ratio": 0.97, "metric_area_km2": 9.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.656068, 46.5486083 ], [ 6.64698, 46.5464665 ], [ 6.6734601, 46.538615 ], [ 6.685521, 46.5514083 ], [ 6.6847344, 46.5555586 ], [ 6.6714092, 46.5599049 ], [ 6.6702073, 46.565945 ], [ 6.6635487, 46.564029399999988 ], [ 6.661112, 46.560175 ], [ 6.656068, 46.5486083 ] ] ] } }
+]
+}

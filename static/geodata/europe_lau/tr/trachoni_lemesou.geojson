@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trachoni_lemesou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Τραχώνι Λεμεσού", "metric_roundness": 54.25, "metric_rectangularity": 69.71, "metric_mobile_fit": 13.45, "metric_aspect_ratio": 1.428, "metric_area_km2": 6.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.9679605, 34.647689 ], [ 32.975446, 34.6540245 ], [ 32.976157, 34.654822 ], [ 32.9698488, 34.661340699999982 ], [ 32.9475935, 34.6655275 ], [ 32.9466775, 34.6542247 ], [ 32.9425357, 34.652314 ], [ 32.943629, 34.6461605 ], [ 32.9679605, 34.647689 ] ] ] } }
+]
+}

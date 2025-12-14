@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ta_xbiex",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ta' Xbiex", "metric_roundness": 52.17, "metric_rectangularity": 73.66, "metric_mobile_fit": 2.61, "metric_aspect_ratio": 1.536, "metric_area_km2": 0.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4940987, 35.9014793 ], [ 14.49245, 35.9007035 ], [ 14.4934105, 35.897186499999989 ], [ 14.4958195, 35.8977015 ], [ 14.5001925, 35.8973695 ], [ 14.500592, 35.899982499999986 ], [ 14.4967925, 35.901009 ], [ 14.4940987, 35.9014793 ] ] ] } }
+]
+}

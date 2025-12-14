@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "travedona_monate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Travedona-Monate", "metric_roundness": 45.78, "metric_rectangularity": 65.29, "metric_mobile_fit": 26.91, "metric_aspect_ratio": 1.293, "metric_area_km2": 19.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.6924665, 45.814275 ], [ 8.6856513, 45.8123015 ], [ 8.6768975, 45.8139245 ], [ 8.658659, 45.820811 ], [ 8.6402735, 45.815516 ], [ 8.6402845, 45.813815 ], [ 8.6449853, 45.8128527 ], [ 8.6540399, 45.7992057 ], [ 8.673955, 45.7882645 ], [ 8.68078, 45.789265 ], [ 8.6900921, 45.792544 ], [ 8.692586, 45.797050599999984 ], [ 8.700658, 45.7960965 ], [ 8.6924665, 45.814275 ] ] ] } }
+]
+}

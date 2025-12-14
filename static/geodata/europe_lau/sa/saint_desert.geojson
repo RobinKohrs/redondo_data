@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_desert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Désert", "metric_roundness": 52.17, "metric_rectangularity": 67.54, "metric_mobile_fit": 9.44, "metric_aspect_ratio": 1.468, "metric_area_km2": 10.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6967715, 46.747193 ], [ 4.7042386, 46.751106799999988 ], [ 4.7100858, 46.747654399999973 ], [ 4.7208785, 46.7467125 ], [ 4.7238595, 46.7489905 ], [ 4.725701, 46.752146499999967 ], [ 4.7316155, 46.755579 ], [ 4.7373865, 46.760078 ], [ 4.716283, 46.7672395 ], [ 4.693398, 46.7636185 ], [ 4.6967715, 46.747193 ] ] ] } }
+]
+}

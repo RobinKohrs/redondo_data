@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "frechencourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fréchencourt", "metric_roundness": 59.05, "metric_rectangularity": 68.1, "metric_mobile_fit": 45.5, "metric_aspect_ratio": 1.108, "metric_area_km2": 13.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.444702, 49.9549563 ], [ 2.462214, 49.958927 ], [ 2.4580536, 49.9643905 ], [ 2.444444, 49.969710699999972 ], [ 2.4455875, 49.974418 ], [ 2.4239885, 49.9776535 ], [ 2.4168213, 49.96486119999998 ], [ 2.422795, 49.956518 ], [ 2.439414, 49.951289 ], [ 2.444702, 49.9549563 ] ] ] } }
+]
+}

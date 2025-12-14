@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merlscheid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merlscheid", "metric_roundness": 52.65, "metric_rectangularity": 74.02, "metric_mobile_fit": 28.05, "metric_aspect_ratio": 1.282, "metric_area_km2": 8.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.376418, 50.1182535 ], [ 6.379615, 50.124704 ], [ 6.3756285, 50.12973 ], [ 6.3686534, 50.132699 ], [ 6.3584775, 50.130593 ], [ 6.3487163, 50.1282491 ], [ 6.343858, 50.122742 ], [ 6.3459542, 50.1206701 ], [ 6.3430495, 50.114413 ], [ 6.3547975, 50.116792499999981 ], [ 6.376418, 50.1182535 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bor_u_skutce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bor u Skutče", "metric_roundness": 43.63, "metric_rectangularity": 64.08, "metric_mobile_fit": 42.28, "metric_aspect_ratio": 1.14, "metric_area_km2": 10.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1201282, 49.817264 ], [ 16.131214, 49.8117239 ], [ 16.1336508, 49.819652 ], [ 16.149607, 49.8273035 ], [ 16.14931, 49.829081 ], [ 16.1491795, 49.833471 ], [ 16.1394389, 49.8358489 ], [ 16.119315, 49.8349115 ], [ 16.1152647, 49.829169 ], [ 16.1146127, 49.8219363 ], [ 16.106988, 49.815649 ], [ 16.1201282, 49.817264 ] ] ] } }
+]
+}

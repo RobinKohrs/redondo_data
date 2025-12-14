@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cubierettes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cubiérettes", "metric_roundness": 40.72, "metric_rectangularity": 80.35, "metric_mobile_fit": 84.88, "metric_aspect_ratio": 0.411, "metric_area_km2": 23.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8021781, 44.450535599999981 ], [ 3.7985619, 44.462435 ], [ 3.7941083, 44.4683998 ], [ 3.783375, 44.4718694 ], [ 3.7794942, 44.4711667 ], [ 3.7728725, 44.4588847 ], [ 3.7714428, 44.447851 ], [ 3.7741935, 44.426631 ], [ 3.7823995, 44.423105 ], [ 3.7882545, 44.4184865 ], [ 3.791608, 44.4171375 ], [ 3.797069, 44.4196375 ], [ 3.8029755, 44.4194685 ], [ 3.8021781, 44.450535599999981 ] ] ] } }
+]
+}

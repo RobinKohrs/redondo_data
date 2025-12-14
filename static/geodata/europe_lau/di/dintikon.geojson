@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dintikon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dintikon", "metric_roundness": 33.63, "metric_rectangularity": 58.14, "metric_mobile_fit": 95.5, "metric_aspect_ratio": 0.607, "metric_area_km2": 7.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2153605, 47.367649 ], [ 8.2164815, 47.3628115 ], [ 8.2132385, 47.3610075 ], [ 8.209286, 47.362293 ], [ 8.206712, 47.360052499999988 ], [ 8.2091125, 47.3548735 ], [ 8.213295, 47.3512205 ], [ 8.211823, 47.345546 ], [ 8.2247268, 47.3496689 ], [ 8.2287497, 47.359845 ], [ 8.2351548, 47.3641613 ], [ 8.227617, 47.377262499999986 ], [ 8.2227315, 47.3745975 ], [ 8.2153605, 47.367649 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stockem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stockem", "metric_roundness": 53.13, "metric_rectangularity": 61.66, "metric_mobile_fit": 65.94, "metric_aspect_ratio": 0.903, "metric_area_km2": 9.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.3799424, 49.9168279 ], [ 6.379401, 49.9118685 ], [ 6.3861255, 49.91076 ], [ 6.3864832, 49.9172395 ], [ 6.4082765, 49.919741 ], [ 6.4111023, 49.9257039 ], [ 6.4000284, 49.9289778 ], [ 6.3977125, 49.933769 ], [ 6.388579, 49.937188 ], [ 6.374031, 49.9235505 ], [ 6.3799424, 49.9168279 ] ] ] } }
+]
+}

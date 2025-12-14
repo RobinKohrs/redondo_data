@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "douchy_les_mines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Douchy-les-Mines", "metric_roundness": 62.3, "metric_rectangularity": 69.09, "metric_mobile_fit": 45.59, "metric_aspect_ratio": 1.107, "metric_area_km2": 22.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4180025, 50.288425499999981 ], [ 3.412884, 50.297003 ], [ 3.408807, 50.308024499999981 ], [ 3.3952835, 50.314244 ], [ 3.3870052, 50.316416299999979 ], [ 3.372526, 50.310938 ], [ 3.367348, 50.304556 ], [ 3.3616537, 50.2951691 ], [ 3.367004, 50.2850025 ], [ 3.3742788, 50.2916002 ], [ 3.3831476, 50.2891293 ], [ 3.3899706, 50.2932256 ], [ 3.3918672, 50.286395899999988 ], [ 3.396523, 50.2838895 ], [ 3.4180025, 50.288425499999981 ] ] ] } }
+]
+}

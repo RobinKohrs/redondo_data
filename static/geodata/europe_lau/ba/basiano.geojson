@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "basiano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Basiano", "metric_roundness": 34.65, "metric_rectangularity": 58.44, "metric_mobile_fit": 51.17, "metric_aspect_ratio": 1.051, "metric_area_km2": 9.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.4757221, 45.577147499999981 ], [ 9.467171, 45.593596 ], [ 9.4501815, 45.5917745 ], [ 9.444632, 45.59194 ], [ 9.442569, 45.585584499999982 ], [ 9.4472998, 45.5846153 ], [ 9.4493755, 45.5806975 ], [ 9.4814265, 45.564923 ], [ 9.485618, 45.5697638 ], [ 9.483633, 45.572672499999982 ], [ 9.4757221, 45.577147499999981 ] ] ] } }
+]
+}

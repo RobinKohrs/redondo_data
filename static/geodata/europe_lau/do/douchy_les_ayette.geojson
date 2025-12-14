@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "douchy_les_ayette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Douchy-lès-Ayette", "metric_roundness": 44.05, "metric_rectangularity": 61.68, "metric_mobile_fit": 31.74, "metric_aspect_ratio": 1.245, "metric_area_km2": 13.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7196865, 50.1669877 ], [ 2.734302, 50.181946 ], [ 2.7235605, 50.1885055 ], [ 2.7042745, 50.1850309 ], [ 2.6885787, 50.176241399999988 ], [ 2.6828795, 50.178153 ], [ 2.6803229, 50.177350599999983 ], [ 2.680184, 50.172227 ], [ 2.694933, 50.1758944 ], [ 2.7032798, 50.1742415 ], [ 2.7016353, 50.1701446 ], [ 2.6939149, 50.167045099999982 ], [ 2.6967775, 50.1606685 ], [ 2.7196865, 50.1669877 ] ] ] } }
+]
+}

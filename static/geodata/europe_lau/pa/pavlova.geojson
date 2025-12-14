@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pavlova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pavlová", "metric_roundness": 55.77, "metric_rectangularity": 74.23, "metric_mobile_fit": 24.18, "metric_aspect_ratio": 1.321, "metric_area_km2": 17.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.6630983, 47.894112599999978 ], [ 18.6928019, 47.8879701 ], [ 18.709826, 47.890671 ], [ 18.7029272, 47.9015992 ], [ 18.711659, 47.909895 ], [ 18.70263, 47.910122499999986 ], [ 18.6880868, 47.9099153 ], [ 18.6725732, 47.915007599999988 ], [ 18.6649921, 47.909678299999989 ], [ 18.6583945, 47.898882 ], [ 18.6630983, 47.894112599999978 ] ] ] } }
+]
+}

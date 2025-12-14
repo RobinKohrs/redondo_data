@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "versainville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Versainville", "metric_roundness": 63.62, "metric_rectangularity": 81.41, "metric_mobile_fit": 44.01, "metric_aspect_ratio": 1.122, "metric_area_km2": 18.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1508088, 48.9170411 ], [ -0.15002, 48.928342 ], [ -0.154999, 48.929722 ], [ -0.1722305, 48.932758499999984 ], [ -0.1812425, 48.93283 ], [ -0.1951345, 48.92947 ], [ -0.192603, 48.922636 ], [ -0.1867472, 48.907941199999989 ], [ -0.1796345, 48.905107 ], [ -0.147782, 48.9124195 ], [ -0.1508088, 48.9170411 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nagykutas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nagykutas", "metric_roundness": 59.89, "metric_rectangularity": 84.48, "metric_mobile_fit": 88.29, "metric_aspect_ratio": 0.68, "metric_area_km2": 17.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.8138405, 46.948974499999977 ], [ 16.786103, 46.94737 ], [ 16.7865465, 46.931905 ], [ 16.7952521, 46.919087699999984 ], [ 16.8022679, 46.914114 ], [ 16.8156115, 46.915534 ], [ 16.8202628, 46.9206442 ], [ 16.820795, 46.925689499999983 ], [ 16.8207575, 46.931523 ], [ 16.8196605, 46.938433499999981 ], [ 16.8138405, 46.948974499999977 ] ] ] } }
+]
+}

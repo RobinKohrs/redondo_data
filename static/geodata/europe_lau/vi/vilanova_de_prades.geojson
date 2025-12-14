@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vilanova_de_prades",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vilanova de Prades", "metric_roundness": 44.24, "metric_rectangularity": 65.88, "metric_mobile_fit": -3.46, "metric_aspect_ratio": 1.597, "metric_area_km2": 37.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9848586, 41.35951 ], [ 0.9663295, 41.3585845 ], [ 0.951563, 41.351900499999985 ], [ 0.904933, 41.347575 ], [ 0.9088785, 41.3409051 ], [ 0.9074965, 41.3266535 ], [ 0.9354715, 41.320453 ], [ 0.9515702, 41.3175151 ], [ 0.9640597, 41.3262345 ], [ 0.9759598, 41.3293332 ], [ 0.9847582, 41.344323099999983 ], [ 0.994263, 41.352605499999989 ], [ 0.9848586, 41.35951 ] ] ] } }
+]
+}

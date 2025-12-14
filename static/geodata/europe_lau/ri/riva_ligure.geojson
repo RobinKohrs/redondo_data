@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "riva_ligure",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riva Ligure", "metric_roundness": 46.34, "metric_rectangularity": 58.04, "metric_mobile_fit": 59.53, "metric_aspect_ratio": 0.967, "metric_area_km2": 4.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8728608, 43.8358792 ], [ 7.885379, 43.836636 ], [ 7.885534, 43.8441485 ], [ 7.88095, 43.843879299999983 ], [ 7.8751515, 43.849913 ], [ 7.8647365, 43.8458975 ], [ 7.8664344, 43.8399762 ], [ 7.8606752, 43.8351801 ], [ 7.8609635, 43.831376 ], [ 7.8728608, 43.8358792 ] ] ] } }
+]
+}

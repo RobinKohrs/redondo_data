@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "holzgunz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Holzgünz", "metric_roundness": 65.47, "metric_rectangularity": 74.05, "metric_mobile_fit": 78.12, "metric_aspect_ratio": 0.781, "metric_area_km2": 26.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.2708955, 48.018569 ], [ 10.2725945, 48.034570699999989 ], [ 10.254172, 48.043803499999981 ], [ 10.2304, 48.0422825 ], [ 10.2330431, 48.0393482 ], [ 10.2318085, 48.036082599999979 ], [ 10.2241489, 48.0318963 ], [ 10.226472, 48.010983 ], [ 10.229889, 48.0037045 ], [ 10.232439, 48.004752 ], [ 10.2347395, 48.0023335 ], [ 10.2419135, 48.00409 ], [ 10.2708955, 48.018569 ] ] ] } }
+]
+}

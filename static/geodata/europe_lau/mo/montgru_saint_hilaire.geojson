@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montgru_saint_hilaire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montgru-Saint-Hilaire", "metric_roundness": 34.41, "metric_rectangularity": 80.43, "metric_mobile_fit": 86.45, "metric_aspect_ratio": 0.427, "metric_area_km2": 7.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3218005, 49.176612499999983 ], [ 3.3164865, 49.164512499999987 ], [ 3.3324695, 49.16172 ], [ 3.333791, 49.1655375 ], [ 3.332691, 49.1688715 ], [ 3.3362542, 49.17753559999997 ], [ 3.3354708, 49.1875028 ], [ 3.3325315, 49.1905805 ], [ 3.328823, 49.19152 ], [ 3.3230745, 49.191981 ], [ 3.3218005, 49.176612499999983 ] ] ] } }
+]
+}

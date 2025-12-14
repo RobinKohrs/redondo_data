@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sukov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sukov", "metric_roundness": 51.41, "metric_rectangularity": 68.68, "metric_mobile_fit": 90.57, "metric_aspect_ratio": 0.657, "metric_area_km2": 19.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.8693506, 49.237101 ], [ 21.8554882, 49.2316477 ], [ 21.8479027, 49.222328499999982 ], [ 21.848496, 49.21625 ], [ 21.8505009, 49.2089766 ], [ 21.8566905, 49.205371 ], [ 21.8716757, 49.206114199999988 ], [ 21.8873105, 49.210615299999986 ], [ 21.887054, 49.224247 ], [ 21.8734535, 49.244559 ], [ 21.8693506, 49.237101 ] ] ] } }
+]
+}

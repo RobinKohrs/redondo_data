@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reilhaguet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reilhaguet", "metric_roundness": 59.68, "metric_rectangularity": 67.67, "metric_mobile_fit": 71.66, "metric_aspect_ratio": 0.846, "metric_area_km2": 31.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.488377, 44.760397 ], [ 1.5044501, 44.7569605 ], [ 1.540546, 44.7689975 ], [ 1.5289212, 44.7889983 ], [ 1.5119466, 44.7990864 ], [ 1.5068295, 44.808389 ], [ 1.4898801, 44.7982719 ], [ 1.4863686, 44.7900712 ], [ 1.4911298, 44.7843848 ], [ 1.4792575, 44.766398 ], [ 1.488377, 44.760397 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "abaigar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Abáigar", "metric_roundness": 59.03, "metric_rectangularity": 64.67, "metric_mobile_fit": 62.97, "metric_aspect_ratio": 0.933, "metric_area_km2": 8.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.1476208, 42.6531627 ], [ -2.153895, 42.646526499999986 ], [ -2.1508375, 42.63636 ], [ -2.140856, 42.634861 ], [ -2.134972, 42.636124 ], [ -2.1288525, 42.631447 ], [ -2.127562, 42.6287725 ], [ -2.1230015, 42.638229499999987 ], [ -2.120378, 42.6416585 ], [ -2.1221995, 42.6440315 ], [ -2.1294315, 42.648568499999989 ], [ -2.129398, 42.6552045 ], [ -2.1476208, 42.6531627 ] ] ] } }
+]
+}

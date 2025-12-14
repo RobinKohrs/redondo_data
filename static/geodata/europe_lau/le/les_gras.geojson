@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_gras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Gras", "metric_roundness": 41.13, "metric_rectangularity": 64.36, "metric_mobile_fit": 24.64, "metric_aspect_ratio": 1.316, "metric_area_km2": 32.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5065313, 46.9668297 ], [ 6.5647273, 46.9798347 ], [ 6.584231, 46.987606 ], [ 6.5734109, 46.989959899999988 ], [ 6.5735629, 46.997512 ], [ 6.5560621, 47.001305099999989 ], [ 6.5538739, 47.012201399999981 ], [ 6.5424166, 47.0085357 ], [ 6.512351, 46.9885685 ], [ 6.5122649, 46.9827356 ], [ 6.496692, 46.9741935 ], [ 6.5065313, 46.9668297 ] ] ] } }
+]
+}

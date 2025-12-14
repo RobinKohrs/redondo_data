@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fuhlendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fuhlendorf", "metric_roundness": 42.65, "metric_rectangularity": 60.93, "metric_mobile_fit": 5.1, "metric_aspect_ratio": 1.511, "metric_area_km2": 18.39 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.8586075, 53.9555954 ], [ 9.851464, 53.951584499999989 ], [ 9.867774, 53.940081 ], [ 9.877872, 53.9313105 ], [ 9.9063873, 53.932581199999973 ], [ 9.906652, 53.9381871 ], [ 9.9167445, 53.9440655 ], [ 9.9124432, 53.9467591 ], [ 9.8967886, 53.9457149 ], [ 9.8705925, 53.956731 ], [ 9.8586075, 53.9555954 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_laurent_de_la_salanque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Laurent-de-la-Salanque", "metric_roundness": 19.03, "metric_rectangularity": 38.85, "metric_mobile_fit": 86.34, "metric_aspect_ratio": 0.426, "metric_area_km2": 29.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.9973, 42.8010705 ], [ 2.9743775, 42.7773995 ], [ 2.977541, 42.771353 ], [ 2.973497, 42.769438 ], [ 2.9788305, 42.765535 ], [ 2.98123, 42.762062 ], [ 2.9854025, 42.763609 ], [ 2.998251, 42.765829 ], [ 3.0126585, 42.769888 ], [ 3.0162625, 42.7705395 ], [ 3.0239695, 42.7707145 ], [ 3.0259275, 42.7714205 ], [ 3.017887, 42.7767486 ], [ 3.0186897, 42.7812741 ], [ 3.015295, 42.7850423 ], [ 3.0180028, 42.807197699999989 ], [ 3.012575, 42.8523675 ], [ 2.9973, 42.8010705 ] ] ] } }
+]
+}

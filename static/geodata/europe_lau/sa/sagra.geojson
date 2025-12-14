@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sagra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sagra", "metric_roundness": 42.68, "metric_rectangularity": 54.65, "metric_mobile_fit": 53.07, "metric_aspect_ratio": 1.032, "metric_area_km2": 8.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0693125, 38.806928 ], [ -0.0555139, 38.810241399999988 ], [ -0.045991, 38.807186 ], [ -0.0490685, 38.8158953 ], [ -0.0555478, 38.816511899999988 ], [ -0.0658015, 38.8370285 ], [ -0.0858545, 38.815934 ], [ -0.0693125, 38.806928 ] ] ] } }
+]
+}

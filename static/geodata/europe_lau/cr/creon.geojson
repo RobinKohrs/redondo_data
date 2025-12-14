@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "creon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Créon", "metric_roundness": 52.68, "metric_rectangularity": 62.48, "metric_mobile_fit": 70.74, "metric_aspect_ratio": 0.855, "metric_area_km2": 16.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3447536, 44.7572304 ], [ -0.347342, 44.752888 ], [ -0.3346035, 44.7505638 ], [ -0.3297458, 44.7550447 ], [ -0.3351617, 44.773814099999981 ], [ -0.3220185, 44.7809167 ], [ -0.324776, 44.7874885 ], [ -0.3430418, 44.7839237 ], [ -0.3514085, 44.7865545 ], [ -0.3640023, 44.7731962 ], [ -0.366493, 44.7668465 ], [ -0.352075, 44.758360499999988 ], [ -0.3447536, 44.7572304 ] ] ] } }
+]
+}

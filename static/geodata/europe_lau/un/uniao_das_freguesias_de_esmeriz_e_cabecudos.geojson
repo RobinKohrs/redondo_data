@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_esmeriz_e_cabecudos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Esmeriz e Cabeçudos", "metric_roundness": 60.84, "metric_rectangularity": 73.18, "metric_mobile_fit": 40.39, "metric_aspect_ratio": 1.159, "metric_area_km2": 12.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5218161, 41.366038699999983 ], [ -8.5168797, 41.3672538 ], [ -8.512708, 41.358481 ], [ -8.5005527, 41.3678684 ], [ -8.4925725, 41.3697065 ], [ -8.4973439, 41.3838222 ], [ -8.5023275, 41.386234 ], [ -8.5156145, 41.387676 ], [ -8.5210526, 41.3875864 ], [ -8.537646, 41.374894499999989 ], [ -8.5218161, 41.366038699999983 ] ] ] } }
+]
+}

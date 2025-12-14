@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "merasice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merašice", "metric_roundness": 48.34, "metric_rectangularity": 62.96, "metric_mobile_fit": 71.85, "metric_aspect_ratio": 0.844, "metric_area_km2": 11.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.964675, 48.464799499999984 ], [ 17.9417685, 48.4756375 ], [ 17.932605, 48.4804975 ], [ 17.9253195, 48.4759215 ], [ 17.9247781, 48.4732723 ], [ 17.9381743, 48.459409099999981 ], [ 17.9323821, 48.455877099999988 ], [ 17.940274, 48.449382 ], [ 17.9450665, 48.4491525 ], [ 17.9563556, 48.460406 ], [ 17.9621475, 48.459892499999981 ], [ 17.964675, 48.464799499999984 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aves", "metric_roundness": 42.04, "metric_rectangularity": 64.53, "metric_mobile_fit": 33.94, "metric_aspect_ratio": 1.223, "metric_area_km2": 10.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4047891, 41.3565605 ], [ -8.3936965, 41.361992 ], [ -8.3949448, 41.3689383 ], [ -8.386783, 41.3814165 ], [ -8.399914, 41.384212 ], [ -8.400744, 41.384106 ], [ -8.4114215, 41.376089 ], [ -8.4206346, 41.3675615 ], [ -8.4318495, 41.362910499999984 ], [ -8.4278233, 41.3578783 ], [ -8.417955, 41.356746 ], [ -8.4047891, 41.3565605 ] ] ] } }
+]
+}

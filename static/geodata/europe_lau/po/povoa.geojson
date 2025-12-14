@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "povoa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Póvoa", "metric_roundness": 55.5, "metric_rectangularity": 74.1, "metric_mobile_fit": 55.53, "metric_aspect_ratio": 1.007, "metric_area_km2": 41.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.350876, 41.6009605 ], [ -6.3559059, 41.5810118 ], [ -6.352045, 41.566005 ], [ -6.3071498, 41.554281 ], [ -6.28946, 41.5544885 ], [ -6.2877515, 41.57031 ], [ -6.3004588, 41.586312199999988 ], [ -6.30303, 41.5943805 ], [ -6.307214, 41.596442 ], [ -6.322895, 41.6037025 ], [ -6.3274625, 41.6048975 ], [ -6.350876, 41.6009605 ] ] ] } }
+]
+}

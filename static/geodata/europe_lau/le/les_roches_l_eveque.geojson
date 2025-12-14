@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_roches_l_eveque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Roches-l'Évêque", "metric_roundness": 38.69, "metric_rectangularity": 55.77, "metric_mobile_fit": 85.42, "metric_aspect_ratio": 0.708, "metric_area_km2": 5.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.8749875, 47.793447 ], [ 0.875778, 47.7913875 ], [ 0.875497, 47.7894955 ], [ 0.8763875, 47.7862235 ], [ 0.8786325, 47.784677 ], [ 0.883807, 47.783347 ], [ 0.886425, 47.780366499999985 ], [ 0.887127, 47.7766425 ], [ 0.88704, 47.772548 ], [ 0.8901785, 47.7724075 ], [ 0.896125, 47.781925499999986 ], [ 0.8968875, 47.7933607 ], [ 0.873075, 47.794996499999982 ], [ 0.8749875, 47.793447 ] ] ] } }
+]
+}

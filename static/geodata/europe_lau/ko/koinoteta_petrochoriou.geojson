@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_petrochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Πετροχωρίου", "metric_roundness": 44.24, "metric_rectangularity": 85.74, "metric_mobile_fit": 95.18, "metric_aspect_ratio": 0.514, "metric_area_km2": 14.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.5300509, 39.314751499999986 ], [ 21.5214475, 39.3008145 ], [ 21.5218225, 39.298253 ], [ 21.5222635, 39.2913155 ], [ 21.5240185, 39.28424 ], [ 21.525289, 39.280407 ], [ 21.525748, 39.2772915 ], [ 21.5259395, 39.272204 ], [ 21.540233, 39.272992 ], [ 21.550481, 39.278099499999989 ], [ 21.541824, 39.315896499999987 ], [ 21.5300509, 39.314751499999986 ] ] ] } }
+]
+}

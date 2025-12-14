@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "irura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Irura", "metric_roundness": 57.65, "metric_rectangularity": 67.54, "metric_mobile_fit": 44.26, "metric_aspect_ratio": 1.12, "metric_area_km2": 5.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.040882, 43.1593095 ], [ -2.0445544, 43.1646125 ], [ -2.0548647, 43.1754691 ], [ -2.0574755, 43.176853 ], [ -2.0704909, 43.167120499999982 ], [ -2.0665915, 43.15757 ], [ -2.040882, 43.1593095 ] ] ] } }
+]
+}

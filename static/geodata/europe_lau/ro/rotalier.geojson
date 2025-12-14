@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rotalier",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rotalier", "metric_roundness": 50.75, "metric_rectangularity": 72.42, "metric_mobile_fit": 78.81, "metric_aspect_ratio": 0.774, "metric_area_km2": 9.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.4839505, 46.571805499999989 ], [ 5.4925825, 46.583272 ], [ 5.4823988, 46.592436699999979 ], [ 5.4714288, 46.5974901 ], [ 5.4653636, 46.5874983 ], [ 5.459849, 46.585164499999983 ], [ 5.4643208, 46.5785091 ], [ 5.4729528, 46.575132499999988 ], [ 5.473681, 46.5692075 ], [ 5.48036, 46.568437499999987 ], [ 5.4839505, 46.571805499999989 ] ] ] } }
+]
+}

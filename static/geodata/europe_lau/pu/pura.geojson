@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pura", "metric_roundness": 66.19, "metric_rectangularity": 75.24, "metric_mobile_fit": 67.28, "metric_aspect_ratio": 0.89, "metric_area_km2": 6.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.8638565, 45.9931555 ], [ 8.8554005, 45.991121 ], [ 8.8560425, 45.9889985 ], [ 8.8513825, 45.987465 ], [ 8.8576214, 45.9817891 ], [ 8.857569, 45.975691 ], [ 8.8634245, 45.9716315 ], [ 8.8654565, 45.9723525 ], [ 8.868922, 45.9746205 ], [ 8.874933, 45.9784665 ], [ 8.8789425, 45.982725 ], [ 8.8704145, 45.9921905 ], [ 8.8638565, 45.9931555 ] ] ] } }
+]
+}

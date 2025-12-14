@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gerstengrund",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gerstengrund", "metric_roundness": 59.27, "metric_rectangularity": 68.36, "metric_mobile_fit": 80.2, "metric_aspect_ratio": 0.76, "metric_area_km2": 11.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.035053, 50.701402 ], [ 10.033123, 50.6940399 ], [ 10.0423964, 50.6849199 ], [ 10.0553954, 50.6821347 ], [ 10.0603125, 50.683577 ], [ 10.06119, 50.690862499999987 ], [ 10.0674215, 50.6964009 ], [ 10.0632228, 50.7008892 ], [ 10.0655515, 50.706586 ], [ 10.0578964, 50.7060314 ], [ 10.059788, 50.710703 ], [ 10.035053, 50.701402 ] ] ] } }
+]
+}

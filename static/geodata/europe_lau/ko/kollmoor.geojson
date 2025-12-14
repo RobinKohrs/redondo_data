@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kollmoor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kollmoor", "metric_roundness": 52.64, "metric_rectangularity": 71.64, "metric_mobile_fit": 26.52, "metric_aspect_ratio": 1.297, "metric_area_km2": 9.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5874826, 53.914445099999988 ], [ 9.598619, 53.9164355 ], [ 9.6124917, 53.9181987 ], [ 9.6204275, 53.9258065 ], [ 9.6181307, 53.929171 ], [ 9.6088265, 53.9306045 ], [ 9.6041648, 53.932244199999985 ], [ 9.5858305, 53.924985899999974 ], [ 9.5817238, 53.9221766 ], [ 9.5812165, 53.9171415 ], [ 9.5874826, 53.914445099999988 ] ] ] } }
+]
+}

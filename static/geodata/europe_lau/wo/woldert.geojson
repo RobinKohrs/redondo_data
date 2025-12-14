@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "woldert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Woldert", "metric_roundness": 65.15, "metric_rectangularity": 71.97, "metric_mobile_fit": 58.09, "metric_aspect_ratio": 0.982, "metric_area_km2": 13.32 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6475655, 50.619544 ], [ 7.6474318, 50.6080467 ], [ 7.631633, 50.6053995 ], [ 7.6327942, 50.599849699999986 ], [ 7.639199, 50.594358499999984 ], [ 7.6439835, 50.594073 ], [ 7.646265, 50.5939365 ], [ 7.648064, 50.593829 ], [ 7.6505995, 50.593677 ], [ 7.65291, 50.591978499999982 ], [ 7.6577125, 50.593249 ], [ 7.665228, 50.5945865 ], [ 7.674267, 50.61215 ], [ 7.6475655, 50.619544 ] ] ] } }
+]
+}

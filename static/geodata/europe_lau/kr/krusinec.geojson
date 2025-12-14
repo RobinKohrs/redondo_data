@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krusinec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Krušinec", "metric_roundness": 46.92, "metric_rectangularity": 67.8, "metric_mobile_fit": 86.16, "metric_aspect_ratio": 0.701, "metric_area_km2": 5.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6651155, 49.226775499999981 ], [ 21.67014, 49.2391235 ], [ 21.6589428, 49.245350699999982 ], [ 21.647965, 49.247494 ], [ 21.647091, 49.236527 ], [ 21.6604285, 49.226021 ], [ 21.6651155, 49.226775499999981 ] ] ] } }
+]
+}

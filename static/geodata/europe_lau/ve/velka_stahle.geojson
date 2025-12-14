@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velka_stahle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velká Štáhle", "metric_roundness": 59.86, "metric_rectangularity": 73.78, "metric_mobile_fit": 67.8, "metric_aspect_ratio": 0.885, "metric_area_km2": 23.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.3448636, 49.9384921 ], [ 17.3325325, 49.92463 ], [ 17.3461484, 49.9135656 ], [ 17.3529414, 49.917692699999989 ], [ 17.3679309, 49.9204674 ], [ 17.384938, 49.9374005 ], [ 17.3850848, 49.9442923 ], [ 17.357177, 49.9518085 ], [ 17.354672, 49.950497 ], [ 17.351139, 49.950709499999988 ], [ 17.344504, 49.946125 ], [ 17.3424055, 49.943447 ], [ 17.3448636, 49.9384921 ] ] ] } }
+]
+}

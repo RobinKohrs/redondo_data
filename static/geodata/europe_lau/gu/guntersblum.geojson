@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guntersblum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guntersblum", "metric_roundness": 47.05, "metric_rectangularity": 65.93, "metric_mobile_fit": 12.99, "metric_aspect_ratio": 1.433, "metric_area_km2": 40.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.336232, 49.8138875 ], [ 8.3257137, 49.8201396 ], [ 8.315352, 49.821183499999989 ], [ 8.312735, 49.8021685 ], [ 8.3156315, 49.784205 ], [ 8.3545495, 49.781842 ], [ 8.3681131, 49.789360599999988 ], [ 8.377878, 49.7993485 ], [ 8.400055, 49.803675 ], [ 8.3846495, 49.8173465 ], [ 8.3595502, 49.8116322 ], [ 8.3373905, 49.811650499999985 ], [ 8.336232, 49.8138875 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "campo_de_ourique",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Campo de Ourique", "metric_roundness": 52.71, "metric_rectangularity": 77.72, "metric_mobile_fit": 21.71, "metric_aspect_ratio": 1.345, "metric_area_km2": 2.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.1751395, 38.71214 ], [ -9.1716179, 38.714673299999987 ], [ -9.1670321, 38.7128929 ], [ -9.15423, 38.715196 ], [ -9.1544555, 38.7155035 ], [ -9.1606355, 38.724266 ], [ -9.174915, 38.722998 ], [ -9.1751395, 38.71214 ] ] ] } }
+]
+}

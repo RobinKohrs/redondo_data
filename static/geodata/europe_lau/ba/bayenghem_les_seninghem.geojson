@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bayenghem_les_seninghem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bayenghem-lès-Seninghem", "metric_roundness": 53.39, "metric_rectangularity": 67.11, "metric_mobile_fit": 61.63, "metric_aspect_ratio": 0.946, "metric_area_km2": 8.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.0663484, 50.6953437 ], [ 2.091169, 50.6996225 ], [ 2.0931686, 50.702376199999989 ], [ 2.089268, 50.7096145 ], [ 2.0841562, 50.7097801 ], [ 2.0786066, 50.7135128 ], [ 2.0663484, 50.715091899999976 ], [ 2.0623415, 50.715608 ], [ 2.0652855, 50.709948299999979 ], [ 2.0642035, 50.694974 ], [ 2.0663484, 50.6953437 ] ] ] } }
+]
+}

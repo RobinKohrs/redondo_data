@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nerignac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nérignac", "metric_roundness": 49.67, "metric_rectangularity": 71.96, "metric_mobile_fit": 46.13, "metric_aspect_ratio": 1.101, "metric_area_km2": 9.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.7347481, 46.288360499999982 ], [ 0.7448748, 46.2917509 ], [ 0.748542, 46.296195499999982 ], [ 0.7418852, 46.310072399999981 ], [ 0.7332131, 46.307929799999982 ], [ 0.7324979, 46.301997299999989 ], [ 0.7121455, 46.299909499999984 ], [ 0.7133665, 46.287238 ], [ 0.7347481, 46.288360499999982 ] ] ] } }
+]
+}

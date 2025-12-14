@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mascaraas_haron",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mascaraàs-Haron", "metric_roundness": 64.28, "metric_rectangularity": 69.73, "metric_mobile_fit": 68.88, "metric_aspect_ratio": 0.874, "metric_area_km2": 16.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.2102206, 43.5271699 ], [ -0.2013545, 43.5240495 ], [ -0.198993, 43.532665 ], [ -0.199271, 43.538992 ], [ -0.2029739, 43.5439648 ], [ -0.2069535, 43.5568375 ], [ -0.2086165, 43.55775 ], [ -0.2202001, 43.5579092 ], [ -0.2259604, 43.549153 ], [ -0.2347559, 43.5487191 ], [ -0.239802, 43.544666 ], [ -0.2380105, 43.5361925 ], [ -0.230583, 43.5302715 ], [ -0.2280345, 43.524308499999989 ], [ -0.2102206, 43.5271699 ] ] ] } }
+]
+}

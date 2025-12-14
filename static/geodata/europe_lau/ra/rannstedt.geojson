@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rannstedt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rannstedt", "metric_roundness": 65.51, "metric_rectangularity": 80.86, "metric_mobile_fit": 38.92, "metric_aspect_ratio": 1.173, "metric_area_km2": 7.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.5283848, 51.0781334 ], [ 11.532015, 51.0768508 ], [ 11.5559084, 51.0817646 ], [ 11.5588378, 51.086894799999975 ], [ 11.5569119, 51.0903854 ], [ 11.5430641, 51.094206399999983 ], [ 11.5326618, 51.0918926 ], [ 11.5264209, 51.0852362 ], [ 11.5283848, 51.0781334 ] ] ] } }
+]
+}

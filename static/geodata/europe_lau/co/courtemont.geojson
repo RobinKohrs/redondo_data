@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courtemont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courtémont", "metric_roundness": 28.68, "metric_rectangularity": 51.31, "metric_mobile_fit": -47.77, "metric_aspect_ratio": 2.04, "metric_area_km2": 26.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.820469, 49.141423499999981 ], [ 4.8213865, 49.1431125 ], [ 4.82747, 49.1442355 ], [ 4.8305555, 49.1454305 ], [ 4.8329165, 49.147493499999982 ], [ 4.8247935, 49.1523915 ], [ 4.7506665, 49.14687 ], [ 4.741269, 49.1469325 ], [ 4.7361715, 49.147662 ], [ 4.7392875, 49.145579 ], [ 4.7414775, 49.144052 ], [ 4.7675105, 49.1213665 ], [ 4.7866935, 49.13188 ], [ 4.816316, 49.139755 ], [ 4.820469, 49.141423499999981 ] ] ] } }
+]
+}

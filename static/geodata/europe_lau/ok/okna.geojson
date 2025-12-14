@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "okna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Okna", "metric_roundness": 59.12, "metric_rectangularity": 72.96, "metric_mobile_fit": 6.73, "metric_aspect_ratio": 1.495, "metric_area_km2": 14.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6626225, 50.5208027 ], [ 14.6753724, 50.516565299999989 ], [ 14.6825415, 50.5222905 ], [ 14.6773466, 50.5271056 ], [ 14.6789228, 50.5348614 ], [ 14.6767529, 50.537361599999976 ], [ 14.6510855, 50.537124 ], [ 14.6368686, 50.5345619 ], [ 14.633628, 50.528731 ], [ 14.6358987, 50.5211897 ], [ 14.6420865, 50.5204485 ], [ 14.6626225, 50.5208027 ] ] ] } }
+]
+}

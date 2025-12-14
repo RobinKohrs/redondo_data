@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monfreville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monfréville", "metric_roundness": 49.78, "metric_rectangularity": 56.48, "metric_mobile_fit": 35.5, "metric_aspect_ratio": 1.207, "metric_area_km2": 16.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0057585, 49.31865 ], [ -1.011221, 49.3259073 ], [ -1.0253435, 49.323030499999987 ], [ -1.0375495, 49.317033899999984 ], [ -1.0614435, 49.322827499999988 ], [ -1.060345, 49.318584499999986 ], [ -1.0567652, 49.305344399999981 ], [ -1.0357741, 49.2958413 ], [ -1.023351, 49.3073973 ], [ -1.012439, 49.3106247 ], [ -1.0097157, 49.3178585 ], [ -1.006433, 49.318451 ], [ -1.0057585, 49.31865 ] ] ] } }
+]
+}

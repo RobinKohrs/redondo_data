@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szurdokpuspoki",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szurdokpüspöki", "metric_roundness": 42.15, "metric_rectangularity": 61.9, "metric_mobile_fit": 1.17, "metric_aspect_ratio": 1.551, "metric_area_km2": 59.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.7444364, 47.8735767 ], [ 19.6984203, 47.885741 ], [ 19.683704, 47.873883899999989 ], [ 19.6604045, 47.874375 ], [ 19.6558722, 47.8616274 ], [ 19.6586265, 47.850054499999985 ], [ 19.724938, 47.8405665 ], [ 19.7625335, 47.867584 ], [ 19.7659838, 47.886201299999989 ], [ 19.759374, 47.888201 ], [ 19.7444364, 47.8735767 ] ] ] } }
+]
+}

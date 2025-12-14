@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villevaude",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villevaudé", "metric_roundness": 52.8, "metric_rectangularity": 65.64, "metric_mobile_fit": 47.74, "metric_aspect_ratio": 1.085, "metric_area_km2": 22.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.6651439, 48.9253011 ], [ 2.6620886, 48.930493599999984 ], [ 2.645189, 48.930333 ], [ 2.6371119, 48.906965599999985 ], [ 2.6447655, 48.9037705 ], [ 2.657496, 48.897292 ], [ 2.6748293, 48.8966402 ], [ 2.693005, 48.899931 ], [ 2.6927515, 48.902628 ], [ 2.6904435, 48.9040275 ], [ 2.689652, 48.907948499999982 ], [ 2.6878975, 48.9106495 ], [ 2.6726662, 48.9176829 ], [ 2.671072, 48.923289 ], [ 2.6651439, 48.9253011 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kelniky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kelníky", "metric_roundness": 33.06, "metric_rectangularity": 59.46, "metric_mobile_fit": 98.85, "metric_aspect_ratio": 0.551, "metric_area_km2": 9.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6424788, 49.128424 ], [ 17.639486, 49.120226499999987 ], [ 17.637252, 49.119468499999989 ], [ 17.6347245, 49.118195499999985 ], [ 17.6325575, 49.116814 ], [ 17.6314773, 49.1079072 ], [ 17.6452925, 49.099851 ], [ 17.6529461, 49.1046264 ], [ 17.6501207, 49.118931299999986 ], [ 17.6601845, 49.1310175 ], [ 17.659548, 49.133 ], [ 17.65721, 49.1339535 ], [ 17.6424788, 49.128424 ] ] ] } }
+]
+}

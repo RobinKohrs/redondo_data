@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vale_das_fontes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vale das Fontes", "metric_roundness": 49.15, "metric_rectangularity": 75.17, "metric_mobile_fit": 76.28, "metric_aspect_ratio": 0.8, "metric_area_km2": 31.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.1202954, 41.748435399999984 ], [ -7.1501508, 41.728222299999985 ], [ -7.1515155, 41.71919 ], [ -7.1482704, 41.7143988 ], [ -7.1305807, 41.705982499999983 ], [ -7.124298, 41.6979645 ], [ -7.1109015, 41.711274 ], [ -7.1111583, 41.725418 ], [ -7.1014429, 41.727386099999983 ], [ -7.1010766, 41.731507899999983 ], [ -7.0902954, 41.7297034 ], [ -7.0868925, 41.7470325 ], [ -7.114808, 41.7582745 ], [ -7.1202954, 41.748435399999984 ] ] ] } }
+]
+}

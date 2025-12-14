@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "souanyas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Souanyas", "metric_roundness": 50.71, "metric_rectangularity": 70.41, "metric_mobile_fit": -16.31, "metric_aspect_ratio": 1.726, "metric_area_km2": 8.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.2619335, 42.54302 ], [ 2.2728522, 42.540659199999986 ], [ 2.2867182, 42.5429666 ], [ 2.2961905, 42.5401075 ], [ 2.3009587, 42.5412896 ], [ 2.3030592, 42.5469762 ], [ 2.294753, 42.5576655 ], [ 2.2703989, 42.554046799999988 ], [ 2.26393, 42.549369 ], [ 2.2619335, 42.54302 ] ] ] } }
+]
+}

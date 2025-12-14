@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fresneda_de_cuellar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fresneda de Cuéllar", "metric_roundness": 55.73, "metric_rectangularity": 67.3, "metric_mobile_fit": 80.84, "metric_aspect_ratio": 0.754, "metric_area_km2": 18.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.4511878, 41.288509399999981 ], [ -4.4425676, 41.3021976 ], [ -4.432465, 41.305681199999988 ], [ -4.4313305, 41.310001499999984 ], [ -4.4384443, 41.3142631 ], [ -4.4372037, 41.3212869 ], [ -4.457919, 41.331527199999989 ], [ -4.47452, 41.3233795 ], [ -4.473908, 41.322269499999983 ], [ -4.4698233, 41.3130763 ], [ -4.4678085, 41.295898500000014 ], [ -4.4511878, 41.288509399999981 ] ] ] } }
+]
+}

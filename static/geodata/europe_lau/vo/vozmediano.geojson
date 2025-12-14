@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vozmediano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vozmediano", "metric_roundness": 61.93, "metric_rectangularity": 72.32, "metric_mobile_fit": 66.28, "metric_aspect_ratio": 0.9, "metric_area_km2": 29.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8643984, 41.847719699999985 ], [ -1.8724568, 41.8408154 ], [ -1.8721273, 41.8313876 ], [ -1.8585661, 41.8228633 ], [ -1.8256455, 41.819331 ], [ -1.8194003, 41.8292892 ], [ -1.8181575, 41.8548477 ], [ -1.822001, 41.8642923 ], [ -1.8321255, 41.863319499999989 ], [ -1.8643984, 41.847719699999985 ] ] ] } }
+]
+}

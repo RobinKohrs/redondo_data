@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_adjots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Adjots", "metric_roundness": 64.55, "metric_rectangularity": 69.52, "metric_mobile_fit": 60.32, "metric_aspect_ratio": 0.959, "metric_area_km2": 22.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1904294, 46.0607957 ], [ 0.1914047, 46.06656 ], [ 0.2166005, 46.0613155 ], [ 0.2283226, 46.0816376 ], [ 0.2210656, 46.0869364 ], [ 0.226674, 46.0900795 ], [ 0.217136, 46.0945415 ], [ 0.1973545, 46.095553 ], [ 0.1775315, 46.083210499999986 ], [ 0.177759, 46.0757895 ], [ 0.1826265, 46.0717789 ], [ 0.1872205, 46.0588245 ], [ 0.1904294, 46.0607957 ] ] ] } }
+]
+}

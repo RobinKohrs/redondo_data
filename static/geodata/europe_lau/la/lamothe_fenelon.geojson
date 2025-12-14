@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lamothe_fenelon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lamothe-Fénelon", "metric_roundness": 55.57, "metric_rectangularity": 68.52, "metric_mobile_fit": 50.2, "metric_aspect_ratio": 1.061, "metric_area_km2": 28.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.4025125, 44.84905 ], [ 1.3985695, 44.823326 ], [ 1.4005232, 44.814550499999989 ], [ 1.4080175, 44.80923 ], [ 1.415922, 44.81386 ], [ 1.4230625, 44.809481 ], [ 1.449762, 44.8118945 ], [ 1.4427201, 44.8220544 ], [ 1.457289, 44.8313094 ], [ 1.460743, 44.8385255 ], [ 1.4472292, 44.8417397 ], [ 1.4397952, 44.837659099999989 ], [ 1.4309269, 44.8408789 ], [ 1.4253484, 44.839666299999983 ], [ 1.4028625, 44.850806499999983 ], [ 1.4025125, 44.84905 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_front_de_pradoux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Front-de-Pradoux", "metric_roundness": 38.28, "metric_rectangularity": 60.76, "metric_mobile_fit": 93.35, "metric_aspect_ratio": 0.629, "metric_area_km2": 17.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3468985, 45.070568 ], [ 0.3474502, 45.061646399999979 ], [ 0.340647, 45.04654 ], [ 0.3543859, 45.045780199999989 ], [ 0.360285, 45.0421945 ], [ 0.37233, 45.037136499999988 ], [ 0.3767065, 45.0372135 ], [ 0.3758362, 45.0425707 ], [ 0.365384, 45.051909699999982 ], [ 0.3795525, 45.05661 ], [ 0.3809845, 45.068602 ], [ 0.3578134, 45.074934699999979 ], [ 0.350156, 45.082433 ], [ 0.3441586, 45.0785236 ], [ 0.343301, 45.074895 ], [ 0.3468985, 45.070568 ] ] ] } }
+]
+}

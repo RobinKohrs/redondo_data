@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kojatin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kojatín", "metric_roundness": 27.62, "metric_rectangularity": 47.39, "metric_mobile_fit": 92.82, "metric_aspect_ratio": 0.634, "metric_area_km2": 10.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.0261956, 49.234847099999982 ], [ 16.0312252, 49.2423001 ], [ 16.0207818, 49.248829 ], [ 16.0238695, 49.252269 ], [ 16.0058515, 49.2589905 ], [ 16.0030915, 49.235379 ], [ 16.0223534, 49.231024499999982 ], [ 16.036707, 49.224391 ], [ 16.0261956, 49.234847099999982 ] ] ] } }
+]
+}

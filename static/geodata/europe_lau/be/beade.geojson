@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beade",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beade", "metric_roundness": 46.47, "metric_rectangularity": 62.89, "metric_mobile_fit": 93.34, "metric_aspect_ratio": 0.629, "metric_area_km2": 11.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.1326912, 42.3369377 ], [ -8.1374089, 42.3419972 ], [ -8.143132, 42.342371 ], [ -8.1508106, 42.3286283 ], [ -8.1436446, 42.3252229 ], [ -8.133195, 42.306183 ], [ -8.1207459, 42.3107971 ], [ -8.120618, 42.3269385 ], [ -8.12002, 42.329136 ], [ -8.121813, 42.3359415 ], [ -8.1326912, 42.3369377 ] ] ] } }
+]
+}

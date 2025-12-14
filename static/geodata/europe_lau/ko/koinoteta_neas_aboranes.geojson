@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_neas_aboranes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Νέας Αβόρανης", "metric_roundness": 34.07, "metric_rectangularity": 65.04, "metric_mobile_fit": 92.62, "metric_aspect_ratio": 0.636, "metric_area_km2": 11.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.442877, 38.6165485 ], [ 21.4410469, 38.606642599999979 ], [ 21.4356075, 38.598099 ], [ 21.4456524, 38.597048 ], [ 21.458905, 38.6002295 ], [ 21.4651348, 38.6070432 ], [ 21.4608032, 38.6126604 ], [ 21.4663974, 38.6204104 ], [ 21.4645896, 38.6263345 ], [ 21.4685357, 38.633322499999984 ], [ 21.465719, 38.637483499999988 ], [ 21.450605, 38.630196 ], [ 21.442877, 38.6165485 ] ] ] } }
+]
+}

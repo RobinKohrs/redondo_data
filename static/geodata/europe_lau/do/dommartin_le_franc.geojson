@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dommartin_le_franc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dommartin-le-Franc", "metric_roundness": 29.34, "metric_rectangularity": 58.57, "metric_mobile_fit": 5.49, "metric_aspect_ratio": 1.508, "metric_area_km2": 22.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.9596973, 48.43283779999998 ], [ 4.9323319, 48.4343694 ], [ 4.916678, 48.4439875 ], [ 4.906916, 48.435439 ], [ 4.90581, 48.433843499999988 ], [ 4.9066074, 48.4321248 ], [ 4.917862, 48.427446 ], [ 4.9265244, 48.4273256 ], [ 4.9505324, 48.4195194 ], [ 4.9596973, 48.4133528 ], [ 4.966289, 48.4089175 ], [ 4.9765802, 48.4077657 ], [ 4.9881005, 48.412189499999982 ], [ 4.9855975, 48.4208305 ], [ 4.976488, 48.431898 ], [ 4.9596973, 48.43283779999998 ] ] ] } }
+]
+}

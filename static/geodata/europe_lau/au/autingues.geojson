@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "autingues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Autingues", "metric_roundness": 34.51, "metric_rectangularity": 64.11, "metric_mobile_fit": 99.67, "metric_aspect_ratio": 0.566, "metric_area_km2": 7.05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.991736, 50.8377671 ], [ 1.9969278, 50.846728299999988 ], [ 1.9943869, 50.8492881 ], [ 1.9975463, 50.854040899999987 ], [ 1.996132, 50.8574425 ], [ 1.9921825, 50.8550105 ], [ 1.9899765, 50.854547 ], [ 1.983297, 50.851156 ], [ 1.9726688, 50.83292969999998 ], [ 1.9800878, 50.8331552 ], [ 1.9868707, 50.829677499999988 ], [ 1.9950825, 50.834977 ], [ 1.991736, 50.8377671 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saubraz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saubraz", "metric_roundness": 34.38, "metric_rectangularity": 64.02, "metric_mobile_fit": 56.77, "metric_aspect_ratio": 0.995, "metric_area_km2": 8.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.335687, 46.507037 ], [ 6.337258, 46.509886 ], [ 6.3408385, 46.5100285 ], [ 6.3427228, 46.5114995 ], [ 6.3462093, 46.515261 ], [ 6.3503975, 46.516751 ], [ 6.3302666, 46.5210472 ], [ 6.313669, 46.5338735 ], [ 6.307391, 46.528638 ], [ 6.315045, 46.517855 ], [ 6.3183945, 46.5146945 ], [ 6.3370495, 46.5041265 ], [ 6.335687, 46.507037 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alagoa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alagoa", "metric_roundness": 67.26, "metric_rectangularity": 71.12, "metric_mobile_fit": 58.63, "metric_aspect_ratio": 0.976, "metric_area_km2": 29.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.5249915, 39.3393619 ], [ -7.5163775, 39.336152 ], [ -7.5085904, 39.3413074 ], [ -7.5124976, 39.346690599999988 ], [ -7.5104615, 39.3497766 ], [ -7.4974094, 39.3469343 ], [ -7.499515, 39.3673985 ], [ -7.5060265, 39.381799 ], [ -7.5222126, 39.384556 ], [ -7.5485336, 39.3800914 ], [ -7.5524859, 39.370959499999984 ], [ -7.5585265, 39.367657 ], [ -7.5249915, 39.3393619 ] ] ] } }
+]
+}

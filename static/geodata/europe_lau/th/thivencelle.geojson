@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thivencelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thivencelle", "metric_roundness": 55.43, "metric_rectangularity": 74.6, "metric_mobile_fit": 20.73, "metric_aspect_ratio": 1.355, "metric_area_km2": 9.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6068992, 50.448389899999974 ], [ 3.6195663, 50.440015199999976 ], [ 3.615052, 50.436591 ], [ 3.6311165, 50.4372755 ], [ 3.641985, 50.44084 ], [ 3.648795, 50.444940499999987 ], [ 3.648504, 50.447241 ], [ 3.638658, 50.452837 ], [ 3.6281905, 50.456277 ], [ 3.6068992, 50.448389899999974 ] ] ] } }
+]
+}

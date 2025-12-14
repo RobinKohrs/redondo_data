@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neauphe_sur_dive",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neauphe-sur-Dive", "metric_roundness": 34.74, "metric_rectangularity": 62.05, "metric_mobile_fit": 48.9, "metric_aspect_ratio": 1.074, "metric_area_km2": 31.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0611045, 48.82667 ], [ 0.0906514, 48.8417556 ], [ 0.1024928, 48.8404983 ], [ 0.1143502, 48.845849699999988 ], [ 0.1255935, 48.8472345 ], [ 0.1277183, 48.8592723 ], [ 0.1323282, 48.864199499999984 ], [ 0.127313, 48.869852 ], [ 0.1162025, 48.875975 ], [ 0.1029052, 48.8718007 ], [ 0.0912408, 48.8608881 ], [ 0.068611, 48.850299 ], [ 0.0527102, 48.836791799999979 ], [ 0.0546127, 48.832839 ], [ 0.0518905, 48.8299465 ], [ 0.0611045, 48.82667 ] ] ] } }
+]
+}

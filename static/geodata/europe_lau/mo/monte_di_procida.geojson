@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monte_di_procida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monte di Procida", "metric_roundness": 47.01, "metric_rectangularity": 67.28, "metric_mobile_fit": 74.09, "metric_aspect_ratio": 0.822, "metric_area_km2": 5.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.064634, 40.797025399999988 ], [ 14.0552661, 40.8060668 ], [ 14.0446885, 40.811 ], [ 14.0407096, 40.7990634 ], [ 14.0445912, 40.7920047 ], [ 14.0513489, 40.7889377 ], [ 14.0648855, 40.788725 ], [ 14.064634, 40.797025399999988 ] ] ] } }
+]
+}

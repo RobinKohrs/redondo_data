@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villefranche_de_lauragais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villefranche-de-Lauragais", "metric_roundness": 52.78, "metric_rectangularity": 59.06, "metric_mobile_fit": 56.69, "metric_aspect_ratio": 0.996, "metric_area_km2": 19.9 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7184608, 43.394999099999986 ], [ 1.7328745, 43.386052 ], [ 1.7359271, 43.401298299999986 ], [ 1.7470655, 43.4175035 ], [ 1.7331375, 43.4277785 ], [ 1.7311566, 43.418134 ], [ 1.6998657, 43.4173463 ], [ 1.6939715, 43.411537 ], [ 1.691898, 43.408514 ], [ 1.689883, 43.4069205 ], [ 1.692383, 43.40379 ], [ 1.697607, 43.4007115 ], [ 1.703721, 43.393444 ], [ 1.7184608, 43.394999099999986 ] ] ] } }
+]
+}

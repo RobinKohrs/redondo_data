@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pontchardon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pontchardon", "metric_roundness": 46.38, "metric_rectangularity": 63.93, "metric_mobile_fit": -16.39, "metric_aspect_ratio": 1.726, "metric_area_km2": 11.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2455493, 48.9266861 ], [ 0.2500291, 48.9228746 ], [ 0.2656887, 48.9258219 ], [ 0.2693518, 48.921674499999988 ], [ 0.2730505, 48.921697 ], [ 0.2774923, 48.9245433 ], [ 0.2837006, 48.922361399999986 ], [ 0.2858641, 48.926439 ], [ 0.2837145, 48.929712 ], [ 0.2726165, 48.9404425 ], [ 0.2470172, 48.9361271 ], [ 0.237265, 48.9318335 ], [ 0.236546, 48.924674 ], [ 0.2455493, 48.9266861 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_joseph_de_riviere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Joseph-de-Rivière", "metric_roundness": 44.09, "metric_rectangularity": 61.84, "metric_mobile_fit": 85.24, "metric_aspect_ratio": 0.71, "metric_area_km2": 35.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6648824, 45.3561689 ], [ 5.6764399, 45.345955 ], [ 5.6855753, 45.3474963 ], [ 5.714985, 45.335884 ], [ 5.7237295, 45.344669499999974 ], [ 5.7146709, 45.3537401 ], [ 5.707188, 45.374963699999974 ], [ 5.7078121, 45.3812905 ], [ 5.685616, 45.3941115 ], [ 5.680461, 45.3897049 ], [ 5.676728, 45.3940175 ], [ 5.670658, 45.386591 ], [ 5.6660505, 45.37903 ], [ 5.668892, 45.3730124 ], [ 5.6662035, 45.362458499999981 ], [ 5.6648824, 45.3561689 ] ] ] } }
+]
+}

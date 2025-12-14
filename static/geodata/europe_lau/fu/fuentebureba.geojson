@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fuentebureba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fuentebureba", "metric_roundness": 48.85, "metric_rectangularity": 69.07, "metric_mobile_fit": 92.76, "metric_aspect_ratio": 0.635, "metric_area_km2": 15.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.2183353, 42.623497599999986 ], [ -3.225485, 42.649006 ], [ -3.2453065, 42.646630599999988 ], [ -3.251293, 42.638382 ], [ -3.2530565, 42.6129725 ], [ -3.244529, 42.6087685 ], [ -3.2412525, 42.6159975 ], [ -3.234688, 42.617855 ], [ -3.232762, 42.6178325 ], [ -3.228487, 42.61911 ], [ -3.2203555, 42.6199915 ], [ -3.2183353, 42.623497599999986 ] ] ] } }
+]
+}

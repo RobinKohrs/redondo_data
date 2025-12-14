@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "horne_dubove",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Horné Dubové", "metric_roundness": 49.9, "metric_rectangularity": 78.15, "metric_mobile_fit": 78.4, "metric_aspect_ratio": 0.779, "metric_area_km2": 16.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5758815, 48.522544 ], [ 17.5660333, 48.5281416 ], [ 17.5571535, 48.538422499999989 ], [ 17.5465406, 48.529635199999987 ], [ 17.5462126, 48.525085799999985 ], [ 17.5396565, 48.518418499999981 ], [ 17.549271, 48.508537 ], [ 17.5601216, 48.5001872 ], [ 17.5641415, 48.4999865 ], [ 17.584832, 48.516219 ], [ 17.5758815, 48.522544 ] ] ] } }
+]
+}

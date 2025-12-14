@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "habsburg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Habsburg", "metric_roundness": 35.72, "metric_rectangularity": 48.56, "metric_mobile_fit": 52.87, "metric_aspect_ratio": 1.034, "metric_area_km2": 4.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.1832231, 47.457006799999988 ], [ 8.195898, 47.452462499999982 ], [ 8.1923085, 47.455553 ], [ 8.1918485, 47.45865 ], [ 8.1976765, 47.464184 ], [ 8.199431, 47.46585 ], [ 8.200897, 47.469087 ], [ 8.19897, 47.471627499999983 ], [ 8.192137, 47.467609799999984 ], [ 8.1777576, 47.4649518 ], [ 8.1715924, 47.4586893 ], [ 8.172773, 47.454026399999989 ], [ 8.1756045, 47.453996499999988 ], [ 8.1832231, 47.457006799999988 ] ] ] } }
+]
+}

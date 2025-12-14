@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lounovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Louňovice", "metric_roundness": 47.06, "metric_rectangularity": 70.39, "metric_mobile_fit": 99.49, "metric_aspect_ratio": 0.568, "metric_area_km2": 9.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.7771034, 49.9742427 ], [ 14.7748981, 49.9876957 ], [ 14.7707245, 49.991481 ], [ 14.7578222, 49.990829899999987 ], [ 14.751289, 49.977076499999981 ], [ 14.7579385, 49.96883769999998 ], [ 14.7566295, 49.963861 ], [ 14.7620165, 49.962230499999983 ], [ 14.7771034, 49.9742427 ] ] ] } }
+]
+}

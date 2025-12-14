@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "machemont",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Machemont", "metric_roundness": 32.8, "metric_rectangularity": 66.3, "metric_mobile_fit": 82.72, "metric_aspect_ratio": 0.39, "metric_area_km2": 14.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8841045, 49.488076 ], [ 2.88956, 49.499261 ], [ 2.8819663, 49.510488699999989 ], [ 2.8876006, 49.522125399999986 ], [ 2.880865, 49.525718 ], [ 2.87846, 49.526681 ], [ 2.881432, 49.532371 ], [ 2.870914, 49.530891 ], [ 2.8692019, 49.524180399999985 ], [ 2.863061, 49.519854399999986 ], [ 2.8629755, 49.499587 ], [ 2.8663467, 49.498756499999985 ], [ 2.8685761, 49.4939125 ], [ 2.879646, 49.490207 ], [ 2.8841045, 49.488076 ] ] ] } }
+]
+}

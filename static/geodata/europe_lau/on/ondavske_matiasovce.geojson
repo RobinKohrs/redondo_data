@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ondavske_matiasovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ondavské Matiašovce", "metric_roundness": 61.72, "metric_rectangularity": 69.05, "metric_mobile_fit": 79.77, "metric_aspect_ratio": 0.765, "metric_area_km2": 23.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7700197, 48.950454899999976 ], [ 21.764011, 48.952795 ], [ 21.7622187, 48.950142199999988 ], [ 21.7538084, 48.952278899999975 ], [ 21.7458973, 48.9598731 ], [ 21.7260585, 48.958547499999987 ], [ 21.726337, 48.95414 ], [ 21.7284656, 48.9408386 ], [ 21.7249368, 48.9336707 ], [ 21.734309, 48.9274835 ], [ 21.740943, 48.9202905 ], [ 21.7611756, 48.928217599999989 ], [ 21.7700474, 48.9360819 ], [ 21.7710265, 48.9403405 ], [ 21.7700197, 48.950454899999976 ] ] ] } }
+]
+}

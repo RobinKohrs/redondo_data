@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grajal_de_campos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grajal de Campos", "metric_roundness": 68.57, "metric_rectangularity": 80.5, "metric_mobile_fit": 54.57, "metric_aspect_ratio": 1.017, "metric_area_km2": 46.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.0021545, 42.2891045 ], [ -4.9866925, 42.293831 ], [ -4.9878492, 42.3115866 ], [ -4.9812525, 42.331475199999986 ], [ -4.982124, 42.3376465 ], [ -4.9842175, 42.337845 ], [ -5.0071592, 42.334098399999981 ], [ -5.0191435, 42.341006499999985 ], [ -5.0363658, 42.34131 ], [ -5.0456362, 42.3273583 ], [ -5.0530402, 42.3083748 ], [ -5.038364, 42.297104 ], [ -5.0021545, 42.2891045 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_fessey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Fessey", "metric_roundness": 45.32, "metric_rectangularity": 64.35, "metric_mobile_fit": 84.54, "metric_aspect_ratio": 0.717, "metric_area_km2": 11.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.502553, 47.799563 ], [ 6.50526, 47.7974405 ], [ 6.5060235, 47.795251 ], [ 6.5253799, 47.800466700000015 ], [ 6.533048, 47.80653 ], [ 6.5276229, 47.820513 ], [ 6.527958, 47.826662 ], [ 6.51372, 47.826722499999974 ], [ 6.5083431, 47.8130078 ], [ 6.4995515, 47.801336499999984 ], [ 6.4994425, 47.799944499999981 ], [ 6.502553, 47.799563 ] ] ] } }
+]
+}

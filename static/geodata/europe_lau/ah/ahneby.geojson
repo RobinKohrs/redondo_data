@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ahneby",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ahneby", "metric_roundness": 48.54, "metric_rectangularity": 70.59, "metric_mobile_fit": 40.58, "metric_aspect_ratio": 1.157, "metric_area_km2": 10.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7106401, 54.713731799999977 ], [ 9.7164447, 54.707296499999984 ], [ 9.717581, 54.696887499999988 ], [ 9.7406105, 54.697593 ], [ 9.74723, 54.697426 ], [ 9.7482118, 54.7055997 ], [ 9.7393434, 54.7121631 ], [ 9.711888, 54.715655 ], [ 9.7106401, 54.713731799999977 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "briastre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Briastre", "metric_roundness": 46.63, "metric_rectangularity": 53.25, "metric_mobile_fit": 71.51, "metric_aspect_ratio": 0.847, "metric_area_km2": 16.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4831987, 50.142074099999988 ], [ 3.51354, 50.153748 ], [ 3.5040204, 50.1630128 ], [ 3.4908784, 50.168278399999977 ], [ 3.46965, 50.168435 ], [ 3.4664023, 50.1583001 ], [ 3.474117, 50.1564151 ], [ 3.47139, 50.146862399999989 ], [ 3.4781309, 50.142156 ], [ 3.473097, 50.1327925 ], [ 3.481222, 50.133292 ], [ 3.4831987, 50.142074099999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "orino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Orino", "metric_roundness": 62.38, "metric_rectangularity": 72.3, "metric_mobile_fit": 30.91, "metric_aspect_ratio": 1.253, "metric_area_km2": 7.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.7044895, 45.8754359 ], [ 8.7198971, 45.871575 ], [ 8.73538, 45.87383849999997 ], [ 8.7341539, 45.8871153 ], [ 8.7214117, 45.8894284 ], [ 8.7032355, 45.879672499999984 ], [ 8.7044895, 45.8754359 ] ] ] } }
+]
+}

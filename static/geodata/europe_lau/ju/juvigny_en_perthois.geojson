@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "juvigny_en_perthois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Juvigny-en-Perthois", "metric_roundness": 69.39, "metric_rectangularity": 79.07, "metric_mobile_fit": 41.64, "metric_aspect_ratio": 1.146, "metric_area_km2": 14.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.1717367, 48.608447899999973 ], [ 5.1577155, 48.610486 ], [ 5.1436992, 48.602440399999985 ], [ 5.1414115, 48.5940975 ], [ 5.1618633, 48.584221199999988 ], [ 5.174201, 48.586399499999985 ], [ 5.178155, 48.589039 ], [ 5.1772301, 48.594402399999986 ], [ 5.1869265, 48.5942255 ], [ 5.1854289, 48.5993843 ], [ 5.176477, 48.6037955 ], [ 5.1717367, 48.608447899999973 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_ano_bolou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Άνω Βόλου", "metric_roundness": 24.89, "metric_rectangularity": 48.64, "metric_mobile_fit": 74.86, "metric_aspect_ratio": 0.814, "metric_area_km2": 3.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.9620844, 39.3682933 ], [ 22.9635175, 39.364051299999986 ], [ 22.9677485, 39.364667 ], [ 22.9859825, 39.373369499999981 ], [ 22.985907, 39.375807499999986 ], [ 22.985056, 39.381513 ], [ 22.985026, 39.3834705 ], [ 22.9845295, 39.386748499999989 ], [ 22.9804025, 39.385933 ], [ 22.9775319, 39.3778523 ], [ 22.97254, 39.3728245 ], [ 22.9620844, 39.3682933 ] ] ] } }
+]
+}

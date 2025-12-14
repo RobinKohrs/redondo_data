@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cussy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cussy", "metric_roundness": 31.86, "metric_rectangularity": 58.0, "metric_mobile_fit": -15.54, "metric_aspect_ratio": 1.718, "metric_area_km2": 5.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.7425595, 49.286518499999985 ], [ -0.7594565, 49.2904805 ], [ -0.7654644, 49.2907444 ], [ -0.780091, 49.276245 ], [ -0.7706495, 49.276903 ], [ -0.7419055, 49.284782 ], [ -0.7425595, 49.286518499999985 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montferrat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montferrat", "metric_roundness": 33.9, "metric_rectangularity": 71.27, "metric_mobile_fit": 46.92, "metric_aspect_ratio": 1.093, "metric_area_km2": 26.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5849489, 45.4917556 ], [ 5.5556991, 45.473804199999982 ], [ 5.542376, 45.456317 ], [ 5.5636282, 45.454525499999988 ], [ 5.5786255, 45.456924 ], [ 5.5806645, 45.461784 ], [ 5.5950106, 45.4701394 ], [ 5.61761, 45.490810499999974 ], [ 5.6041026, 45.491910399999981 ], [ 5.5956893, 45.4990816 ], [ 5.5856065, 45.5027755 ], [ 5.5849489, 45.4917556 ] ] ] } }
+]
+}

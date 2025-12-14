@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "loc_envel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Loc-Envel", "metric_roundness": 73.04, "metric_rectangularity": 85.35, "metric_mobile_fit": 73.09, "metric_aspect_ratio": 0.832, "metric_area_km2": 7.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.403866, 48.5186415 ], [ -3.4094, 48.520112 ], [ -3.41437, 48.520267 ], [ -3.4170765, 48.519594 ], [ -3.418027, 48.5178715 ], [ -3.420232, 48.516953 ], [ -3.4228787, 48.5080678 ], [ -3.421024, 48.501401499999986 ], [ -3.4029996, 48.4997888 ], [ -3.3982727, 48.5026514 ], [ -3.3971735, 48.5088715 ], [ -3.401355, 48.519259499999983 ], [ -3.403866, 48.5186415 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schaarbeek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schaarbeek", "metric_roundness": 53.29, "metric_rectangularity": 65.0, "metric_mobile_fit": 64.9, "metric_aspect_ratio": 0.913, "metric_area_km2": 19.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.368003, 50.8575175 ], [ 4.3721345, 50.856899 ], [ 4.3821845, 50.851921 ], [ 4.3842645, 50.85146349999998 ], [ 4.3960815, 50.843384 ], [ 4.3999875, 50.8436625 ], [ 4.4117175, 50.852108 ], [ 4.388482, 50.881019 ], [ 4.3709285, 50.871249299999981 ], [ 4.3623909, 50.869742799999976 ], [ 4.35725, 50.86047749999998 ], [ 4.368003, 50.8575175 ] ] ] } }
+]
+}

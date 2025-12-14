@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "birsfelden",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Birsfelden", "metric_roundness": 54.73, "metric_rectangularity": 60.26, "metric_mobile_fit": 69.66, "metric_aspect_ratio": 0.866, "metric_area_km2": 5.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.632647, 47.5613995 ], [ 7.6184177, 47.557965299999985 ], [ 7.6214675, 47.5423135 ], [ 7.627398, 47.540442 ], [ 7.631844, 47.55049 ], [ 7.636599, 47.550266 ], [ 7.6453055, 47.552615 ], [ 7.634097, 47.5611135 ], [ 7.632647, 47.5613995 ] ] ] } }
+]
+}

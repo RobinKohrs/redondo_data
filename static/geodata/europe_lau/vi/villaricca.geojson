@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villaricca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villaricca", "metric_roundness": 32.77, "metric_rectangularity": 77.42, "metric_mobile_fit": -87.29, "metric_aspect_ratio": 2.435, "metric_area_km2": 6.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.1194495, 40.903417 ], [ 14.1412947, 40.9046148 ], [ 14.1539235, 40.910799 ], [ 14.1504825, 40.9136435 ], [ 14.1358169, 40.915270899999989 ], [ 14.1149265, 40.913058 ], [ 14.11203, 40.9022705 ], [ 14.1194495, 40.903417 ] ] ] } }
+]
+}

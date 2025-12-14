@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_rouret",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Rouret", "metric_roundness": 55.11, "metric_rectangularity": 65.16, "metric_mobile_fit": 63.54, "metric_aspect_ratio": 0.927, "metric_area_km2": 13.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.9926683, 43.6850655 ], [ 6.9997284, 43.679307 ], [ 6.9939222, 43.6763836 ], [ 6.99351, 43.6693805 ], [ 7.0023724, 43.6691619 ], [ 7.0137494, 43.664162699999984 ], [ 7.0281515, 43.665426 ], [ 7.0191083, 43.6886143 ], [ 7.024856, 43.6941385 ], [ 7.0055024, 43.69583 ], [ 6.987556, 43.685493 ], [ 6.9926683, 43.6850655 ] ] ] } }
+]
+}

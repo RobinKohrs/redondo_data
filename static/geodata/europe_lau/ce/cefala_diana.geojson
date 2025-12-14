@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cefala_diana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cefalà Diana", "metric_roundness": 56.89, "metric_rectangularity": 71.21, "metric_mobile_fit": 73.52, "metric_aspect_ratio": 0.827, "metric_area_km2": 14.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.4505556, 37.926603199999988 ], [ 13.4469789, 37.9206895 ], [ 13.445706, 37.906634 ], [ 13.4614294, 37.9042799 ], [ 13.4666473, 37.8969425 ], [ 13.4738063, 37.893917599999988 ], [ 13.4845715, 37.896189 ], [ 13.4791032, 37.918487199999987 ], [ 13.471776, 37.930983499999975 ], [ 13.4505556, 37.926603199999988 ] ] ] } }
+]
+}

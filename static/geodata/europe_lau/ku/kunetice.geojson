@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kunetice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kunětice", "metric_roundness": 35.86, "metric_rectangularity": 57.76, "metric_mobile_fit": 92.96, "metric_aspect_ratio": 0.633, "metric_area_km2": 9.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.8207282, 50.0764972 ], [ 15.813542, 50.0734734 ], [ 15.811325, 50.066024 ], [ 15.8149815, 50.057549 ], [ 15.8186055, 50.058245 ], [ 15.8238084, 50.0619955 ], [ 15.8226638, 50.0677436 ], [ 15.8358315, 50.0706938 ], [ 15.8433596, 50.0760838 ], [ 15.8373855, 50.0848586 ], [ 15.824739, 50.090036499999989 ], [ 15.823138, 50.0867395 ], [ 15.8207282, 50.0764972 ] ] ] } }
+]
+}

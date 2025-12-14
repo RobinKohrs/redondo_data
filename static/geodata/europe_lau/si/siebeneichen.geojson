@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "siebeneichen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Siebeneichen", "metric_roundness": 58.42, "metric_rectangularity": 77.08, "metric_mobile_fit": 82.98, "metric_aspect_ratio": 0.733, "metric_area_km2": 13.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.6226847, 53.5238635 ], [ 10.59966, 53.523392 ], [ 10.603316, 53.5049719 ], [ 10.6017085, 53.502848 ], [ 10.6041818, 53.497698699999987 ], [ 10.6273085, 53.500137499999987 ], [ 10.6250369, 53.5108318 ], [ 10.631898, 53.517619499999988 ], [ 10.6226847, 53.5238635 ] ] ] } }
+]
+}

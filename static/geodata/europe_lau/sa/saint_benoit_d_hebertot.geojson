@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_benoit_d_hebertot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Benoît-d'Hébertot", "metric_roundness": 46.39, "metric_rectangularity": 57.04, "metric_mobile_fit": 21.2, "metric_aspect_ratio": 1.35, "metric_area_km2": 17.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.3070535, 49.3187935 ], [ 0.278965, 49.3322455 ], [ 0.2793575, 49.334453499999974 ], [ 0.2789025, 49.336872499999984 ], [ 0.277614, 49.338153 ], [ 0.2755975, 49.338703 ], [ 0.2705315, 49.33645 ], [ 0.2640675, 49.339529 ], [ 0.2509005, 49.33505 ], [ 0.2469977, 49.328811099999989 ], [ 0.2563545, 49.321808499999989 ], [ 0.2566685, 49.311012 ], [ 0.2640547, 49.310545 ], [ 0.2793206, 49.3175203 ], [ 0.298154, 49.3144105 ], [ 0.3070535, 49.3187935 ] ] ] } }
+]
+}

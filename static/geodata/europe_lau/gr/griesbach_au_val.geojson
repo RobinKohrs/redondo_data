@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "griesbach_au_val",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Griesbach-au-Val", "metric_roundness": 49.01, "metric_rectangularity": 69.13, "metric_mobile_fit": 79.5, "metric_aspect_ratio": 0.767, "metric_area_km2": 11.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.174419, 48.042553 ], [ 7.166328, 48.041491 ], [ 7.15825, 48.029571 ], [ 7.1564646, 48.0243657 ], [ 7.159867, 48.014234 ], [ 7.1680405, 48.0162385 ], [ 7.1703915, 48.015511 ], [ 7.171513, 48.0174925 ], [ 7.173897, 48.019331 ], [ 7.1749605, 48.021403499999977 ], [ 7.180635, 48.023962499999982 ], [ 7.1850855, 48.029274 ], [ 7.188096, 48.02987 ], [ 7.1889645, 48.0342035 ], [ 7.1851475, 48.041614 ], [ 7.174419, 48.042553 ] ] ] } }
+]
+}

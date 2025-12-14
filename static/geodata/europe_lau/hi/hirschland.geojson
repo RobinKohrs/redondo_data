@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hirschland",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hirschland", "metric_roundness": 59.64, "metric_rectangularity": 70.0, "metric_mobile_fit": 74.36, "metric_aspect_ratio": 0.819, "metric_area_km2": 24.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1299205, 48.850075499999974 ], [ 7.1136448, 48.856771 ], [ 7.0999875, 48.846666 ], [ 7.1025826, 48.84333339999997 ], [ 7.1011925, 48.833949199999985 ], [ 7.1079565, 48.821803499999987 ], [ 7.1398075, 48.8174955 ], [ 7.1468853, 48.822291899999989 ], [ 7.1419591, 48.834488699999987 ], [ 7.1441998, 48.8414504 ], [ 7.148854, 48.8445925 ], [ 7.1299205, 48.850075499999974 ] ] ] } }
+]
+}

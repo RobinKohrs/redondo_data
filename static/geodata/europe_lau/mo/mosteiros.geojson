@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mosteiros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mosteiros", "metric_roundness": 59.84, "metric_rectangularity": 65.81, "metric_mobile_fit": 48.21, "metric_aspect_ratio": 1.08, "metric_area_km2": 14.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -25.8211566, 37.899505399999988 ], [ -25.8255863, 37.8842454 ], [ -25.831479, 37.8786011 ], [ -25.8389141, 37.877012499999985 ], [ -25.8387195, 37.873944 ], [ -25.81608, 37.863977 ], [ -25.8105193, 37.8729516 ], [ -25.7902795, 37.878742 ], [ -25.7939951, 37.891157799999988 ], [ -25.8018885, 37.897273499999983 ], [ -25.8211566, 37.899505399999988 ] ] ] } }
+]
+}

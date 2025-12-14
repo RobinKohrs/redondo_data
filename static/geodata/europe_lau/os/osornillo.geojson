@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osornillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Osornillo", "metric_roundness": 51.62, "metric_rectangularity": 80.75, "metric_mobile_fit": 36.35, "metric_aspect_ratio": 1.199, "metric_area_km2": 33.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.3090041, 42.3521257 ], [ -4.2742645, 42.358551 ], [ -4.2795075, 42.3626409 ], [ -4.276521, 42.365036 ], [ -4.2800038, 42.3758535 ], [ -4.2733626, 42.376279199999985 ], [ -4.2720997, 42.380677 ], [ -4.278874, 42.3897729 ], [ -4.321608, 42.379871499999986 ], [ -4.3334395, 42.37489 ], [ -4.3451916, 42.359822699999988 ], [ -4.3388622, 42.349317899999988 ], [ -4.330609, 42.344734 ], [ -4.3090041, 42.3521257 ] ] ] } }
+]
+}

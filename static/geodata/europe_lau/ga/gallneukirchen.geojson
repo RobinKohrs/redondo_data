@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gallneukirchen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gallneukirchen", "metric_roundness": 72.03, "metric_rectangularity": 66.9, "metric_mobile_fit": 49.45, "metric_aspect_ratio": 1.068, "metric_area_km2": 12.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4029159, 48.350689 ], [ 14.4128265, 48.349677 ], [ 14.4134336, 48.3431826 ], [ 14.4317032, 48.3424033 ], [ 14.4313116, 48.3500619 ], [ 14.4367065, 48.355401799999989 ], [ 14.4425285, 48.355702 ], [ 14.432031, 48.365662499999985 ], [ 14.4207946, 48.3675961 ], [ 14.4084706, 48.364238699999987 ], [ 14.4020395, 48.3587365 ], [ 14.4029159, 48.350689 ] ] ] } }
+]
+}

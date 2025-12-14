@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_pharakladas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Φαρακλάδας", "metric_roundness": 36.32, "metric_rectangularity": 71.75, "metric_mobile_fit": 53.91, "metric_aspect_ratio": 1.023, "metric_area_km2": 15.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6435196, 37.1880374 ], [ 21.6510105, 37.1852575 ], [ 21.6536945, 37.1942035 ], [ 21.6362059, 37.200619 ], [ 21.6228273, 37.2133151 ], [ 21.622959, 37.2173875 ], [ 21.6195675, 37.219168 ], [ 21.6175895, 37.220555499999989 ], [ 21.612941, 37.224463 ], [ 21.596033, 37.2135275 ], [ 21.6081565, 37.204176499999988 ], [ 21.6318267, 37.1814156 ], [ 21.6378865, 37.179584 ], [ 21.6435196, 37.1880374 ] ] ] } }
+]
+}

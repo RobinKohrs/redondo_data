@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "weissendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Weißendorf", "metric_roundness": 55.28, "metric_rectangularity": 67.52, "metric_mobile_fit": 62.42, "metric_aspect_ratio": 0.938, "metric_area_km2": 9.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.9829167, 50.6670274 ], [ 11.9894176, 50.6643996 ], [ 12.0132997, 50.6676922 ], [ 12.0039968, 50.6813192 ], [ 11.985701, 50.686944700000012 ], [ 11.9819703, 50.677553599999989 ], [ 11.9838569, 50.673536499999983 ], [ 11.9799187, 50.671979 ], [ 11.9829167, 50.6670274 ] ] ] } }
+]
+}

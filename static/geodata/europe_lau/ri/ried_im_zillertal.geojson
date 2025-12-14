@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ried_im_zillertal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ried im Zillertal", "metric_roundness": 20.13, "metric_rectangularity": 42.91, "metric_mobile_fit": 71.57, "metric_aspect_ratio": 0.847, "metric_area_km2": 21.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.8041328, 47.2753519 ], [ 11.8028482, 47.265302599999984 ], [ 11.8077465, 47.2537215 ], [ 11.811232, 47.256791499999984 ], [ 11.826072, 47.283643 ], [ 11.8381561, 47.293202 ], [ 11.8761935, 47.299054 ], [ 11.8743075, 47.30782 ], [ 11.8607571, 47.3124788 ], [ 11.8508735, 47.305119 ], [ 11.8337767, 47.3049927 ], [ 11.8275805, 47.2991558 ], [ 11.820049, 47.298341 ], [ 11.8041328, 47.2753519 ] ] ] } }
+]
+}

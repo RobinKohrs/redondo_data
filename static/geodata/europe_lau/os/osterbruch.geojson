@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osterbruch",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Osterbruch", "metric_roundness": 35.92, "metric_rectangularity": 81.69, "metric_mobile_fit": 80.03, "metric_aspect_ratio": 0.363, "metric_area_km2": 29.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9292664, 53.774836799999989 ], [ 8.9277095, 53.7531125 ], [ 8.9590645, 53.7464665 ], [ 8.9610355, 53.778643 ], [ 8.9586605, 53.800745 ], [ 8.9478483, 53.79917469999998 ], [ 8.9357099, 53.7927749 ], [ 8.9332175, 53.790384 ], [ 8.934725, 53.7850615 ], [ 8.9292664, 53.774836799999989 ] ] ] } }
+]
+}

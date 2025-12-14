@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hered",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heréd", "metric_roundness": 57.76, "metric_rectangularity": 68.36, "metric_mobile_fit": 50.63, "metric_aspect_ratio": 1.056, "metric_area_km2": 31.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.6147555, 47.6993625 ], [ 19.6255059, 47.7016825 ], [ 19.6341301, 47.693522099999988 ], [ 19.6482775, 47.69208 ], [ 19.6585675, 47.7026258 ], [ 19.6733, 47.703229 ], [ 19.6727147, 47.7181192 ], [ 19.6438495, 47.7364405 ], [ 19.6152457, 47.7122576 ], [ 19.6067295, 47.711911 ], [ 19.603665, 47.70151 ], [ 19.6147555, 47.6993625 ] ] ] } }
+]
+}

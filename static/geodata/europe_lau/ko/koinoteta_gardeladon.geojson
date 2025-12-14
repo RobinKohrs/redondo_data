@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_gardeladon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Γαρδελάδων", "metric_roundness": 25.78, "metric_rectangularity": 51.46, "metric_mobile_fit": 27.95, "metric_aspect_ratio": 1.283, "metric_area_km2": 9.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.7723653, 39.650652699999988 ], [ 19.7807215, 39.650871 ], [ 19.7896385, 39.656918 ], [ 19.7740838, 39.666739 ], [ 19.7678845, 39.681404 ], [ 19.7543495, 39.6834532 ], [ 19.7349685, 39.680255 ], [ 19.7372532, 39.6775872 ], [ 19.7508762, 39.6750156 ], [ 19.7668408, 39.6630058 ], [ 19.7681848, 39.6591349 ], [ 19.764962, 39.654376 ], [ 19.7723653, 39.650652699999988 ] ] ] } }
+]
+}

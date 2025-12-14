@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chomle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chomle", "metric_roundness": 60.38, "metric_rectangularity": 72.66, "metric_mobile_fit": 55.35, "metric_aspect_ratio": 1.009, "metric_area_km2": 5.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.6271028, 49.8659185 ], [ 13.6241338, 49.8594772 ], [ 13.6310885, 49.855180499999989 ], [ 13.6490585, 49.8593335 ], [ 13.6397015, 49.871104499999987 ], [ 13.625358, 49.870405 ], [ 13.6271028, 49.8659185 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borgosatollo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Borgosatollo", "metric_roundness": 53.79, "metric_rectangularity": 61.47, "metric_mobile_fit": 74.8, "metric_aspect_ratio": 0.815, "metric_area_km2": 16.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.247814, 45.4626115 ], [ 10.2482284, 45.466429199999986 ], [ 10.2591843, 45.4705704 ], [ 10.255523, 45.4814565 ], [ 10.2429671, 45.500210799999984 ], [ 10.234205, 45.499041 ], [ 10.2352741, 45.4939075 ], [ 10.2268146, 45.481045299999984 ], [ 10.2141135, 45.4741545 ], [ 10.214518, 45.4691336 ], [ 10.217923, 45.46748 ], [ 10.2224658, 45.470232 ], [ 10.2288365, 45.4634861 ], [ 10.244641, 45.461413 ], [ 10.247814, 45.4626115 ] ] ] } }
+]
+}

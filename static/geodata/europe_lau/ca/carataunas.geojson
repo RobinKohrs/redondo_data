@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carataunas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carataunas", "metric_roundness": 26.44, "metric_rectangularity": 49.41, "metric_mobile_fit": 23.37, "metric_aspect_ratio": 1.329, "metric_area_km2": 7.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.4141213, 36.9261245 ], [ -3.4040851, 36.9123895 ], [ -3.391102, 36.9085278 ], [ -3.3882542, 36.9076808 ], [ -3.3819335, 36.912901899999987 ], [ -3.3681855, 36.91267 ], [ -3.3790927, 36.9173525 ], [ -3.380838, 36.923771 ], [ -3.391102, 36.924623599999983 ], [ -3.406836, 36.925930599999987 ], [ -3.4123237, 36.9303879 ], [ -3.413023, 36.935318 ], [ -3.413984, 36.9324495 ], [ -3.4141213, 36.9261245 ] ] ] } }
+]
+}

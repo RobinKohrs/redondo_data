@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cambronne_les_ribecourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cambronne-lès-Ribécourt", "metric_roundness": 35.95, "metric_rectangularity": 50.31, "metric_mobile_fit": 91.0, "metric_aspect_ratio": 0.652, "metric_area_km2": 16.94 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.8935084, 49.4884876 ], [ 2.8996575, 49.484222499999973 ], [ 2.9036059, 49.489069299999983 ], [ 2.903591, 49.495547599999988 ], [ 2.9071332, 49.4981132 ], [ 2.925395, 49.494744 ], [ 2.917944, 49.504526699999985 ], [ 2.91032, 49.507771399999982 ], [ 2.8986187, 49.524306 ], [ 2.8870293, 49.5285413 ], [ 2.880865, 49.525718 ], [ 2.8876006, 49.522125399999986 ], [ 2.8819663, 49.510488699999989 ], [ 2.88956, 49.499261 ], [ 2.8841045, 49.488076 ], [ 2.8935084, 49.4884876 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "plogoff",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plogoff", "metric_roundness": 23.05, "metric_rectangularity": 71.63, "metric_mobile_fit": -133.9, "metric_aspect_ratio": 2.902, "metric_area_km2": 26.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.706426, 48.046589 ], [ -4.7130045, 48.042010199999986 ], [ -4.7394745, 48.040244 ], [ -4.7262051, 48.0336268 ], [ -4.7120643, 48.03347 ], [ -4.6985472, 48.027206 ], [ -4.6654731, 48.0263646 ], [ -4.6537741, 48.0220552 ], [ -4.633019, 48.029321 ], [ -4.6346075, 48.038253 ], [ -4.706426, 48.046589 ] ] ] } }
+]
+}

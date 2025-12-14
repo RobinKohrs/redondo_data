@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valines", "metric_roundness": 72.33, "metric_rectangularity": 73.81, "metric_mobile_fit": 49.81, "metric_aspect_ratio": 1.064, "metric_area_km2": 13.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6098552, 50.0808404 ], [ 1.6115505, 50.071001 ], [ 1.624034, 50.067978 ], [ 1.639628, 50.0697542 ], [ 1.6499682, 50.0784537 ], [ 1.6494665, 50.0817955 ], [ 1.6404716, 50.082196399999987 ], [ 1.6389472, 50.0870194 ], [ 1.6238885, 50.092161 ], [ 1.6119315, 50.088221499999989 ], [ 1.6098552, 50.0808404 ] ] ] } }
+]
+}

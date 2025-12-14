@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "adrada_de_haza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Adrada de Haza", "metric_roundness": 42.32, "metric_rectangularity": 73.15, "metric_mobile_fit": 26.74, "metric_aspect_ratio": 1.295, "metric_area_km2": 18.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.8473133, 41.5861588 ], [ -3.8277925, 41.58062 ], [ -3.825263, 41.5817375 ], [ -3.8009922, 41.5930047 ], [ -3.7948294, 41.602660299999989 ], [ -3.786731, 41.607578 ], [ -3.7974017, 41.6131664 ], [ -3.8113279, 41.6156021 ], [ -3.830549, 41.605831 ], [ -3.8329915, 41.604374 ], [ -3.8339185, 41.6009715 ], [ -3.83919, 41.5974465 ], [ -3.8418915, 41.594715 ], [ -3.8473133, 41.5861588 ] ] ] } }
+]
+}

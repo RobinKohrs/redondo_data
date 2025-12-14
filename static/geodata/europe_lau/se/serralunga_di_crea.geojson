@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "serralunga_di_crea",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Serralunga di Crea", "metric_roundness": 50.03, "metric_rectangularity": 63.66, "metric_mobile_fit": 29.0, "metric_aspect_ratio": 1.273, "metric_area_km2": 17.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.3095905, 45.1119595 ], [ 8.30516, 45.111338499999981 ], [ 8.2682433, 45.111383 ], [ 8.2648897, 45.108746399999987 ], [ 8.2641245, 45.103067499999987 ], [ 8.2671546, 45.095285 ], [ 8.2757582, 45.0885163 ], [ 8.2933496, 45.0891921 ], [ 8.3057575, 45.0812785 ], [ 8.3090754, 45.1017525 ], [ 8.3131505, 45.108087 ], [ 8.319433, 45.111393 ], [ 8.3095905, 45.1119595 ] ] ] } }
+]
+}

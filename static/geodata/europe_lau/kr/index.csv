@@ -1,0 +1,457 @@
+category,name,slug,prefix,roundness,rectangularity,mobile_fit
+europe_lau,Kramolna,kramolna,kr,55.31,67.96,75.32
+europe_lau,Kratochvilka,kratochvilka,kr,45.44,72.34,31.71
+europe_lau,Králova Lhota,kralova_lhota,kr,43.6,66.61,35.76
+europe_lau,Kruh,kruh,kr,57.36,69.14,79.88
+europe_lau,Krásný Les,krasny_les,kr,37.22,58.61,92.16
+europe_lau,Křenov,krenov,kr,44.61,74.77,-1.69
+europe_lau,Krasová,krasova,kr,43.8,58.98,45
+europe_lau,Krhov,krhov,kr,40.6,66.72,98.77
+europe_lau,Křetín,kretin,kr,41.3,49.99,52.3
+europe_lau,Křtěnov,krtenov,kr,55.36,59.5,54.86
+europe_lau,Křtiny,krtiny,kr,53.27,71.85,91.76
+europe_lau,Krásensko,krasensko,kr,24.41,55.49,32.76
+europe_lau,Křenovice,krenovice,kr,57.08,64.9,34.15
+europe_lau,Křižanovice,krizanovice,kr,37.8,64.77,97.41
+europe_lau,Křižanovice u Vyškova,krizanovice_u_vyskova,kr,66.89,74.34,62.82
+europe_lau,Krumvíř,krumvir,kr,59.97,68.56,53.54
+europe_lau,Křepice,krepice,kr,45.83,66.75,95.36
+europe_lau,Kremsmünster,kremsmunster,kr,59.54,61.88,61.33
+europe_lau,Křekov,krekov,kr,24.99,54.8,94.02
+europe_lau,Krahulčí,krahulci,kr,32.15,57.41,-49.61
+europe_lau,Krasonice,krasonice,kr,36.73,59.31,-6.77
+europe_lau,Králíky,kraliky,kr,43.34,62,60.95
+europe_lau,Krasíkov,krasikov,kr,26.02,82.94,-127.51
+europe_lau,Křídla,kridla,kr,48.87,74.38,-5.32
+europe_lau,Kronstorf,kronstorf,kr,32.82,45.12,85.28
+europe_lau,Kroměříž,kromeriz,kr,44.39,54.29,79.72
+europe_lau,Kralice nad Oslavou,kralice_nad_oslavou,kr,34.8,55.14,26.97
+europe_lau,Kramolín,kramolin,kr,46.83,70.34,96.1
+europe_lau,Krhov,krhov,kr,31.68,50.25,3.31
+europe_lau,Krokočín,krokocin,kr,44.02,58.34,30.46
+europe_lau,Krasov,krasov,kr,39.48,59.77,-26.74
+europe_lau,Krnov,krnov,kr,35.46,55.23,24
+europe_lau,Křišťanovice,kristanovice,kr,68.83,76.45,64.16
+europe_lau,Krmelín,krmelin,kr,37.16,69.78,34.7
+europe_lau,Krty,krty,kr,64.82,66.4,75.66
+europe_lau,Krychnov,krychnov,kr,45.18,67.82,98.87
+europe_lau,Krempel,krempel,kr,41.89,78.5,-52.52
+europe_lau,Kronprinzenkoog,kronprinzenkoog,kr,19.83,54.28,76.45
+europe_lau,Krumstedt,krumstedt,kr,25.38,60.74,-42.65
+europe_lau,Kravsko,kravsko,kr,60.5,69.86,75.26
+europe_lau,Krhovice,krhovice,kr,35.19,62.35,58.03
+europe_lau,Křepice,krepice,kr,51.58,70.55,73.8
+europe_lau,Kralice na Hané,kralice_na_hane,kr,51.13,62.95,45.69
+europe_lau,Krumsín,krumsin,kr,51.45,64.04,50.11
+europe_lau,Krempdorf,krempdorf,kr,65.57,90.06,45.83
+europe_lau,"Krempe, Stadt",krempe_stadt,kr,33.47,67.46,97.46
+europe_lau,Kremperheide,kremperheide,kr,58.95,68.96,72.61
+europe_lau,Krempermoor,krempermoor,kr,23.53,44.3,15.8
+europe_lau,Kronsmoor,kronsmoor,kr,42.59,71.14,54.09
+europe_lau,Krummendiek,krummendiek,kr,22.78,43.41,34.6
+europe_lau,Krásné,krasne,kr,74,79.29,59.77
+europe_lau,Krásněves,krasneves,kr,48.08,57.14,31.65
+europe_lau,Křižánky,krizanky,kr,43.63,57.51,21.77
+europe_lau,Křižanov,krizanov,kr,61.59,73.25,69.43
+europe_lau,Křižínkov,krizinkov,kr,43.04,69.93,-33.97
+europe_lau,Křoví,krovi,kr,50.35,72.55,55.48
+europe_lau,Kröppelshagen-Fahrendorf,kroppelshagen_fahrendorf,kr,41.86,62.51,63.77
+europe_lau,Krüzen,kruzen,kr,52.5,68.49,78.74
+europe_lau,Krukow,krukow,kr,53.84,60.9,69.09
+europe_lau,Krummesse,krummesse,kr,34.22,49.03,94.36
+europe_lau,Krokau,krokau,kr,37.9,58.51,45.1
+europe_lau,Krummbek,krummbek,kr,28.64,54.51,87.32
+europe_lau,Krogaspe,krogaspe,kr,53.13,70.91,81.77
+europe_lau,Kronshagen,kronshagen,kr,59.41,72.18,39.11
+europe_lau,Krummwisch,krummwisch,kr,42.79,68.8,-21.38
+europe_lau,Krebeck,krebeck,kr,36.94,50.25,45.33
+europe_lau,Kropp,kropp,kr,45.37,70.45,99.22
+europe_lau,Kronsgaard,kronsgaard,kr,41.69,60.36,75.6
+europe_lau,Krems II,krems_ii,kr,44.9,60.55,37.02
+europe_lau,Krenglbach,krenglbach,kr,52.85,69.55,45.4
+europe_lau,Krispl,krispl,kr,61.62,75.14,62.3
+europe_lau,"Kreuztal, Stadt",kreuztal_stadt,kr,47.71,54.7,75.42
+europe_lau,Kranenburg,kranenburg,kr,57.06,60.96,32.46
+europe_lau,Krummendeich,krummendeich,kr,61.4,84.01,76.59
+europe_lau,Krummhörn,krummhorn,kr,42.97,65.14,87.66
+europe_lau,"Krefeld, Stadt",krefeld_stadt,kr,57.23,66.21,37.27
+europe_lau,Kreuzau,kreuzau,kr,42.46,47.83,64.13
+europe_lau,Krensdorf,krensdorf,kr,69.05,74.47,72.22
+europe_lau,"Kronberg im Taunus, Stadt",kronberg_im_taunus_stadt,kr,37.01,65.75,50.09
+europe_lau,Kriftel,kriftel,kr,44.48,74.15,86.11
+europe_lau,Krimml,krimml,kr,45.18,66.66,77.76
+europe_lau,Kraam,kraam,kr,55.41,69.22,14.88
+europe_lau,Krunkel,krunkel,kr,31.3,53.22,-13.16
+europe_lau,Kronweiler,kronweiler,kr,57.84,62.43,68.13
+europe_lau,Krummenau,krummenau,kr,54.48,62.89,39.55
+europe_lau,Kretz,kretz,kr,38.01,64,68.68
+europe_lau,Kruft,kruft,kr,36.65,59.48,70.22
+europe_lau,Kratzenburg,kratzenburg,kr,67.04,85.7,52.53
+europe_lau,Kraubath an der Mur,kraubath_an_der_mur,kr,36.71,56.6,68.21
+europe_lau,Kroppach,kroppach,kr,45.61,76.76,86.63
+europe_lau,Kruchten,kruchten,kr,40.43,60.44,21.65
+europe_lau,Krottendorf-Gaisfeld,krottendorf_gaisfeld,kr,47.46,67.73,31.41
+europe_lau,Kriegsfeld,kriegsfeld,kr,49.99,61.86,79.14
+europe_lau,Krümmel,krummel,kr,40.85,63.84,82.02
+europe_lau,Kröv,krov,kr,51.85,63.68,75.34
+europe_lau,Krakau,krakau,kr,53.06,64.34,20.44
+europe_lau,Krickenbach,krickenbach,kr,47.08,64.83,78.23
+europe_lau,Krautscheid,krautscheid,kr,44.26,63.71,49.64
+europe_lau,Kradenbach,kradenbach,kr,52.97,82.47,70.32
+europe_lau,Krieglach,krieglach,kr,36.17,48.99,75.56
+europe_lau,Kreimbach-Kaulbach,kreimbach_kaulbach,kr,37.18,72.79,71.18
+europe_lau,Krottelbach,krottelbach,kr,52.27,75.58,-11.07
+europe_lau,Kröppen,kroppen,kr,45.29,66.23,88.2
+europe_lau,Krähenberg,krahenberg,kr,46.58,78.51,48.34
+europe_lau,"Krautheim, Stadt",krautheim_stadt,kr,42.97,56.86,53.8
+europe_lau,Kreßberg,kressberg,kr,53.43,64.51,50.44
+europe_lau,Kronau,kronau,kr,53.19,80.8,55.48
+europe_lau,"Kraichtal, Stadt",kraichtal_stadt,kr,48.78,62.55,1.95
+europe_lau,Krün,krun,kr,27.67,40.69,67.58
+europe_lau,Kreuth,kreuth,kr,40.62,48.93,9.78
+europe_lau,Kressbronn am Bodensee,kressbronn_am_bodensee,kr,47.33,55.56,42.51
+europe_lau,Krauchenwies,krauchenwies,kr,51.67,69.87,35.76
+europe_lau,Kranzberg,kranzberg,kr,36.36,50.75,16.39
+europe_lau,Kramsach,kramsach,kr,49.79,58.32,40.14
+europe_lau,Kröning,kroning,kr,52.52,60.38,61.98
+europe_lau,"Kraiburg a.Inn, M",kraiburg_a_inn_m,kr,37.77,51.72,48.73
+europe_lau,Krailling,krailling,kr,29.49,47.22,-8.81
+europe_lau,Krembz,krembz,kr,51.17,57.03,67.6
+europe_lau,Krusenhagen,krusenhagen,kr,57.92,63.35,50.37
+europe_lau,Krauschwitz i.d. O.L. / Krušwica,krauschwitz_i_d_o_l_kruswica,kr,26.73,59.74,7.05
+europe_lau,Kreba-Neudorf / Chrjebja-Nowa Wjes,kreba_neudorf_chrjebja_nowa_wjes,kr,44.76,60.08,48.43
+europe_lau,Krackow,krackow,kr,44.49,59.8,36.73
+europe_lau,Krien,krien,kr,35.74,56.8,15.64
+europe_lau,Kröslin,kroslin,kr,20.94,50.89,39
+europe_lau,Kruckow,kruckow,kr,45.33,56.67,40.14
+europe_lau,Kretzschau,kretzschau,kr,46.14,59.7,55.75
+europe_lau,Kreischa,kreischa,kr,52.86,58.14,65
+europe_lau,"Krumbach (Schwaben), St",krumbach_schwaben_st,kr,52.48,63.3,83.77
+europe_lau,Kraainem,kraainem,kr,21.94,54.32,99.04
+europe_lau,Krostitz,krostitz,kr,58.98,59.97,41.43
+europe_lau,Kraftisried,kraftisried,kr,29.08,52.16,92.74
+europe_lau,Kronburg,kronburg,kr,29.74,59.49,69.26
+europe_lau,"Kroppenstedt, Stadt",kroppenstedt_stadt,kr,70.76,69.96,62.24
+europe_lau,Krausnick-Groß Wasserburg,krausnick_gross_wasserburg,kr,51.13,59.75,43.56
+europe_lau,Kremitzaue,kremitzaue,kr,58.58,67.52,72.9
+europe_lau,"Kranichfeld, Stadt",kranichfeld_stadt,kr,59.52,67.8,66.54
+europe_lau,Kraftshofer Forst,kraftshofer_forst,kr,41.81,46.82,43.72
+europe_lau,Krölpa,krolpa,kr,27.78,44.61,97.54
+europe_lau,Krombach,krombach,kr,38.51,61.09,48.96
+europe_lau,Krauthausen,krauthausen,kr,30.12,45.31,10.59
+europe_lau,Kraftsdorf,kraftsdorf,kr,42.42,62.19,-12.43
+europe_lau,Kriebitzsch,kriebitzsch,kr,52.07,55.72,65.96
+europe_lau,Krayenberggemeinde,krayenberggemeinde,kr,49.22,61.04,46.96
+europe_lau,"Kremmen, Stadt",kremmen_stadt,kr,32.35,47.21,42.87
+europe_lau,Kroppen,kroppen,kr,66.71,75.43,71.93
+europe_lau,Крумовград,krumovgrad,kr,47.26,53.71,57.03
+europe_lau,Kriens,kriens,kr,60.5,75.94,51.78
+europe_lau,Kripan,kripan,kr,53.71,76,89.72
+europe_lau,Krauchthal,krauchthal,kr,42.33,57.45,81.31
+europe_lau,Кричим,kricim,kr,36.78,62.54,90.95
+europe_lau,Krems in Kärnten,krems_in_karnten,kr,54.21,60.6,40.66
+europe_lau,Kruisem,kruisem,kr,37.75,53.38,-11.25
+europe_lau,Kruibeke,kruibeke,kr,58.71,68.81,72.63
+europe_lau,Криводол,krivodol,kr,29.21,51.72,66.88
+europe_lau,Kriebstein,kriebstein,kr,38.12,56.34,-13.86
+europe_lau,"Kreuzwertheim, M",kreuzwertheim_m,kr,25.78,47.99,98.7
+europe_lau,"Krakow am See, Stadt",krakow_am_see_stadt,kr,41,57.4,85.14
+europe_lau,Kritzmow,kritzmow,kr,35.86,67.21,94.81
+europe_lau,"Kröpelin, Stadt",kropelin_stadt,kr,40.15,62.24,84.66
+europe_lau,"Kronach, St",kronach_st,kr,47.91,56.94,67.68
+europe_lau,Krumpendorf am Wörthersee,krumpendorf_am_worthersee,kr,45.43,62.25,55.1
+europe_lau,Kramerhof,kramerhof,kr,35.73,67.1,86.15
+europe_lau,Крушари,krusari,kr,64.3,65.97,65.68
+europe_lau,Krugsdorf,krugsdorf,kr,56.37,63.72,63.16
+europe_lau,Krummin,krummin,kr,36.42,57.49,23.08
+europe_lau,Krusenfelde,krusenfelde,kr,39.48,58.52,87.99
+europe_lau,Krombach,krombach,kr,45.69,59.73,82.42
+europe_lau,Krumbach,krumbach,kr,44.52,59.45,14.17
+europe_lau,Kreien,kreien,kr,52.92,59.87,65.41
+europe_lau,Kremmin,kremmin,kr,62.04,69.32,56.45
+europe_lau,Kritzow,kritzow,kr,38.97,62.5,-5.76
+europe_lau,Kreuther Forst,kreuther_forst,kr,55.3,67.54,69.09
+europe_lau,Kratzeburg,kratzeburg,kr,49.03,56.41,61.18
+europe_lau,Kriesow,kriesow,kr,41.78,68.92,72.91
+europe_lau,Krummennaab,krummennaab,kr,35.71,42.98,84.17
+europe_lau,Кресна,kresna,kr,42.41,64.68,-21.08
+europe_lau,Kreuzlingen,kreuzlingen,kr,56.2,70.07,42.75
+europe_lau,Kristiinankaupunki,kristiinankaupunki,kr,30.34,54.9,91.78
+europe_lau,Kruunupyy,kruunupyy,kr,27.37,47.35,57.3
+europe_lau,Kriegstetten,kriegstetten,kr,52.69,65.78,81.8
+europe_lau,Krattigen,krattigen,kr,34.04,64.89,56.14
+europe_lau,Kriechenwil,kriechenwil,kr,45.88,53.66,63.71
+europe_lau,Krems an der Donau,krems_an_der_donau,kr,25.52,39.35,-4.87
+europe_lau,Κρίδεια,krideia,kr,41.45,64.99,76.64
+europe_lau,Křižanov,krizanov,kr,44.91,70.51,14.4
+europe_lau,KRUJË,kruje,kr,55.64,60.38,28.13
+europe_lau,Κρηνί,kreni,kr,44.13,63.21,86.87
+europe_lau,Kradolf-Schönenberg,kradolf_schonenberg,kr,48.89,57.49,53.28
+europe_lau,Krchleby,krchleby,kr,50.12,60.9,44.13
+europe_lau,Křečkov,kreckov,kr,34.44,61.96,-42.32
+europe_lau,Křinec,krinec,kr,32.5,41.42,31.96
+europe_lau,Krásná Hora nad Vltavou,krasna_hora_nad_vltavou,kr,53.32,59.23,36.6
+europe_lau,Křepenice,krepenice,kr,42.33,66.32,67.82
+europe_lau,Krejnice,krejnice,kr,38.35,59.2,19.97
+europe_lau,Křešín,kresin,kr,44.81,65.56,41.23
+europe_lau,Královice,kralovice,kr,49.17,70.78,47.1
+europe_lau,Krajníčko,krajnicko,kr,51.81,60.52,61.03
+europe_lau,Kreuttal,kreuttal,kr,46.12,63.12,24.89
+europe_lau,Kratušín,kratusin,kr,51.55,70.25,8.31
+europe_lau,Krásno,krasno,kr,39.8,66.81,-57
+europe_lau,Krásná,krasna,kr,50.48,61.14,5.93
+europe_lau,Krašlovice,kraslovice,kr,52.68,69.73,45.09
+europe_lau,Kraljevec Na Sutli,kraljevec_na_sutli,kr,52.46,62.22,52.8
+europe_lau,Kraljevica,kraljevica,kr,51.47,75.71,55.97
+europe_lau,Krapina,krapina,kr,40.37,46.06,64.98
+europe_lau,Krapinske Toplice,krapinske_toplice,kr,53.99,70.64,73.47
+europe_lau,Križ,kriz,kr,49.12,66.55,72.07
+europe_lau,Križevci,krizevci,kr,43.6,47.72,60.07
+europe_lau,Krk,krk,kr,42.68,64.68,-6.35
+europe_lau,Krnjak,krnjak,kr,55.41,60.06,71.27
+europe_lau,Kršan,krsan,kr,45.05,66.57,92.94
+europe_lau,Křížkový Újezdec,krizkovy_ujezdec,kr,64.19,70.95,59.84
+europe_lau,Kreuzstetten,kreuzstetten,kr,44.82,63.2,29.45
+europe_lau,Krty-Hradec,krty_hradec,kr,51.61,60.55,30.37
+europe_lau,Krhová,krhova,kr,40.39,64.29,69.73
+europe_lau,Kruth,kruth,kr,47.65,55.45,77.02
+europe_lau,Krumau am Kamp,krumau_am_kamp,kr,70.18,73.56,45.56
+europe_lau,Krummnußbaum,krummnussbaum,kr,33.03,57.65,-19.22
+europe_lau,Králův Dvůr,kraluv_dvur,kr,43.79,53.59,80.11
+europe_lau,Κρίτου Τέρα,kritou_tera,kr,52.34,54.24,52.82
+europe_lau,Královec,kralovec,kr,45.47,67.24,59.14
+europe_lau,Κρίτου Μαρόττου,kritou_marottou,kr,27.63,62.23,81
+europe_lau,Kravaře,kravare,kr,35.85,55.18,57.88
+europe_lau,Krhanice,krhanice,kr,56.8,69.54,46.68
+europe_lau,Krchleby,krchleby,kr,26.97,39.97,91.59
+europe_lau,Křesetice,kresetice,kr,56.84,76.1,46.61
+europe_lau,Krňany,krnany,kr,51.02,59.58,75.71
+europe_lau,Křečovice,krecovice,kr,31.48,54.32,19.43
+europe_lau,Křivsoudov,krivsoudov,kr,41.66,61.34,86.85
+europe_lau,Kralupy nad Vltavou,kralupy_nad_vltavou,kr,57.84,59.72,55.41
+europe_lau,Křenek,krenek,kr,47.12,74.1,51.78
+europe_lau,Krakovany,krakovany,kr,43.05,63.11,-2.25
+europe_lau,Krupá,krupa,kr,42.95,55.09,88.6
+europe_lau,Křečhoř,krechor,kr,51.96,64.3,35.85
+europe_lau,Krautergersheim,krautergersheim,kr,47.3,72.26,-3.73
+europe_lau,Krautwiller,krautwiller,kr,47.36,63.55,11.14
+europe_lau,Kriegsheim,kriegsheim,kr,57.65,65.96,35.09
+europe_lau,Krośnice,krosnice,kr,37.28,53.07,35.48
+europe_lau,Krátošice,kratosice,kr,48.93,73.83,21.62
+europe_lau,Králova Lhota,kralova_lhota,kr,71.2,69.84,57.42
+europe_lau,Krasne,krasne,kr,42.14,51.57,75.51
+europe_lau,Krzeszów,krzeszow,kr,37.31,57.35,71.01
+europe_lau,Krahulov,krahulov,kr,43.77,67.75,2.26
+europe_lau,Krzęcin,krzecin,kr,55.27,66.03,71.13
+europe_lau,Krapkowice,krapkowice,kr,31.05,43.12,95.82
+europe_lau,Kruklanki,kruklanki,kr,51.21,58.99,47.24
+europe_lau,Krynki,krynki,kr,47.19,62.01,67.69
+europe_lau,Křtomil,krtomil,kr,45.19,73.29,61.68
+europe_lau,Krásná,krasna,kr,33.97,71.71,83.5
+europe_lau,Krypno,krypno,kr,62.47,67.03,41.92
+europe_lau,Krasnopol,krasnopol,kr,46.9,61.11,82.94
+europe_lau,Křišťanov,kristanov,kr,44.21,64.33,11.57
+europe_lau,Křídlůvky,kridluvky,kr,28.18,64.18,94.98
+europe_lau,Krotoszyce,krotoszyce,kr,59.19,63.13,71.74
+europe_lau,Křenice,krenice,kr,66.47,70.94,58.23
+europe_lau,Krajková,krajkova,kr,46.25,57.27,69.72
+europe_lau,Královské Poříčí,kralovske_porici,kr,55.97,64.97,71.71
+europe_lau,Kraslice,kraslice,kr,52.72,62.94,68.35
+europe_lau,Krødsherad,krodsherad,kr,51.5,65.62,70
+europe_lau,Kraśnik,krasnik,kr,26.09,48.68,9.45
+europe_lau,Kraśnik,krasnik,kr,52.71,56.99,55.84
+europe_lau,Kruszwica,kruszwica,kr,57.31,66.68,73.91
+europe_lau,Kravaře,kravare,kr,65.67,76.82,72.87
+europe_lau,Krompach,krompach,kr,55.46,64.8,60.02
+europe_lau,Krzywda,krzywda,kr,54.56,62.33,42.56
+europe_lau,Krasíkovice,krasikovice,kr,40.04,60.39,80.25
+europe_lau,Krempna,krempna,kr,59.46,64.3,55.11
+europe_lau,Krobia,krobia,kr,60.55,69.08,60.58
+europe_lau,Krzywiń,krzywin,kr,54.76,63.11,36.88
+europe_lau,Krzemieniewo,krzemieniewo,kr,56.27,67.22,73.02
+europe_lau,Krčmaň,krcman,kr,51.65,62.65,43.91
+europe_lau,Kragerø,kragero,kr,53.81,68.43,68.55
+europe_lau,Kristiansand,kristiansand,kr,39.71,43.71,50.16
+europe_lau,Krościenko Wyżne,kroscienko_wyzne,kr,60.46,78.57,77.6
+europe_lau,Krynica Morska,krynica_morska,kr,6.14,48.46,-18.52
+europe_lau,Krokowa,krokowa,kr,43.81,60.28,0.88
+europe_lau,Krasnosielc,krasnosielc,kr,62.69,67.6,57.25
+europe_lau,Krosno,krosno,kr,49.66,72.33,68.68
+europe_lau,Krasiczyn,krasiczyn,kr,57.34,68.28,63.36
+europe_lau,Krzywcza,krzywcza,kr,46.89,57.36,61.33
+europe_lau,Krzyż Wielkopolski,krzyz_wielkopolski,kr,48.62,70.55,98.38
+europe_lau,Krasne,krasne,kr,44.89,63.38,27.67
+europe_lau,Krzynowłoga Mała,krzynowloga_mala,kr,55.3,62.62,36.84
+europe_lau,Krajenka,krajenka,kr,45.08,61.24,44.68
+europe_lau,Krzykosy,krzykosy,kr,52.52,69.53,-9.33
+europe_lau,Kretingos rajono savivaldybė,kretingos_rajono_savivaldybe,kr,66.25,74.83,64.21
+europe_lau,Křižovatka,krizovatka,kr,31.47,54.52,86.56
+europe_lau,Křemže,kremze,kr,44.45,50.7,62.19
+europe_lau,Křeč,krec,kr,58.44,71.27,60.64
+europe_lau,Křelovice,krelovice,kr,51.03,55.08,63.96
+europe_lau,Kraborovice,kraborovice,kr,57.48,61.57,66.75
+europe_lau,Křešín,kresin,kr,42.31,57.07,22.72
+europe_lau,Křižanovice,krizanovice,kr,64.12,75.19,29.66
+europe_lau,Krchleby,krchleby,kr,43.88,70.06,-7.21
+europe_lau,Kroučová,kroucova,kr,33.39,48.72,-14.95
+europe_lau,Krupá,krupa,kr,45.07,58.26,92.43
+europe_lau,Krušovice,krusovice,kr,51.18,66.42,60.71
+europe_lau,Křivoklát,krivoklat,kr,26.72,51.53,94.12
+europe_lau,Krásná Ves,krasna_ves,kr,42,58.08,83.37
+europe_lau,Krnsko,krnsko,kr,50.55,70.4,70.01
+europe_lau,Kropáčova Vrutice,kropacova_vrutice,kr,28.69,47.68,-24.3
+europe_lau,Kraselov,kraselov,kr,40.59,57.6,12.82
+europe_lau,Krašić,krasic,kr,26.46,46.76,93.31
+europe_lau,Kravarsko,kravarsko,kr,37.83,46.69,82.53
+europe_lau,Křenovy,krenovy,kr,49.13,64.83,83.7
+europe_lau,Krasznokvajda,krasznokvajda,kr,31.45,49.26,97.59
+europe_lau,Kráľovce,kralovce,kr,34.81,65.79,-28.3
+europe_lau,Kremná,kremna,kr,45.11,62.17,57.33
+europe_lau,Křinice,krinice,kr,40.28,66.19,13.7
+europe_lau,Krušovce,krusovce,kr,58.03,70.24,66.67
+europe_lau,Krásno,krasno,kr,47.83,86.39,33.93
+europe_lau,Krásno nad Kysucou,krasno_nad_kysucou,kr,45.78,57.65,38.35
+europe_lau,Kragujevac,kragujevac,kr,45.39,62.38,43.41
+europe_lau,Kraljevo,kraljevo,kr,47.43,62.01,63.09
+europe_lau,Krupanj,krupanj,kr,43.69,54.37,36.3
+europe_lau,Križovany nad Dudváhom,krizovany_nad_dudvahom,kr,35.64,63.39,60.34
+europe_lau,Krivoklát,krivoklat,kr,40.58,51.94,6.77
+europe_lau,Krasňany,krasnany,kr,23.8,60.07,11.2
+europe_lau,Krásnovce,krasnovce,kr,47.84,71.88,56.41
+europe_lau,Krčava,krcava,kr,58.93,70.28,66.03
+europe_lau,Kristy,kristy,kr,36.92,46.03,84.47
+europe_lau,Kráľov Brod,kralov_brod,kr,36.5,47.78,13.23
+europe_lau,Kráľová nad Váhom,kralova_nad_vahom,kr,38.27,64.63,78.89
+europe_lau,Kráľová pri Senci,kralova_pri_senci,kr,27.63,51.3,-63.88
+europe_lau,Kružná,kruzna,kr,56.23,65.57,19.72
+europe_lau,Krajná Bystrá,krajna_bystra,kr,48.35,70.25,98.6
+europe_lau,Krajná Poľana,krajna_polana,kr,56.66,81.15,72.36
+europe_lau,Krajná Porúbka,krajna_porubka,kr,42.56,63.27,88.08
+europe_lau,Krajné Čierno,krajne_cierno,kr,41.96,64.45,20.68
+europe_lau,Krišľovce,krislovce,kr,61.25,74.91,36.28
+europe_lau,Krušinec,krusinec,kr,46.92,67.8,86.16
+europe_lau,Kružlová,kruzlova,kr,74.15,74.96,42.29
+europe_lau,Kručov,krucov,kr,59.47,71.2,62.98
+europe_lau,Kraľovany,kralovany,kr,47.56,69.61,76.19
+europe_lau,Krivá,kriva,kr,30.18,61.13,47.01
+europe_lau,Krušetnica,krusetnica,kr,33.82,56.52,99.88
+europe_lau,Kráľovce-Krnišov,kralovce_krnisov,kr,43.47,70.86,85.92
+europe_lau,Kriváň,krivan,kr,66.95,74.41,36.14
+europe_lau,Krupina,krupina,kr,57.54,69.85,80.32
+europe_lau,Križevci,krizevci,kr,60.53,65.88,67.85
+europe_lau,Kráľova Lehota,kralova_lehota,kr,57.87,74.55,35.8
+europe_lau,Krásná Hora,krasna_hora,kr,28.33,47.71,81.97
+europe_lau,Krátká Ves,kratka_ves,kr,49.08,69.23,47.67
+europe_lau,Krucemburk,krucemburk,kr,44.85,57.8,26.76
+europe_lau,Kravany (okres Poprad),kravany_okres_poprad,kr,22.64,58.41,75
+europe_lau,Krížová Ves,krizova_ves,kr,54.93,65.75,82
+europe_lau,Kráľovský Chlmec,kralovsky_chlmec,kr,51.19,64.58,35.57
+europe_lau,Kravany (okres Trebišov),kravany_okres_trebisov,kr,58.67,77.73,64.68
+europe_lau,Krišovská Liesková,krisovska_lieskova,kr,50.01,65.27,61.69
+europe_lau,Kračúnovce,kracunovce,kr,46.89,66.73,9.53
+europe_lau,Krivé,krive,kr,56.61,65.52,53.23
+europe_lau,Kríže,krize,kr,37.25,60.17,94.61
+europe_lau,Kružlov,kruzlov,kr,54.96,64.59,52.47
+europe_lau,Krná,krna,kr,59.25,77.77,81.98
+europe_lau,Kružberk,kruzberk,kr,48.19,57.4,78.92
+europe_lau,Kráľ,kral,kr,23.64,52.59,83.24
+europe_lau,Kraskovo,kraskovo,kr,61.33,71.36,68.71
+europe_lau,Krokava,krokava,kr,44.39,67.48,78.74
+europe_lau,Kružno,kruzno,kr,44.83,58.4,83.74
+europe_lau,Krásné,krasne,kr,49.55,72.22,89.09
+europe_lau,Krouna,krouna,kr,41.08,49.37,23.25
+europe_lau,Kravany nad Dunajom,kravany_nad_dunajom,kr,56.03,66.91,39.4
+europe_lau,Krajné,krajne,kr,53.16,76,48.07
+europe_lau,Krivosúd-Bodovka,krivosud_bodovka,kr,53.91,64.86,73.95
+europe_lau,Krpeľany,krpelany,kr,40.32,61.32,83.37
+europe_lau,Kráľovičove Kračany,kralovicove_kracany,kr,29.75,62.26,89.9
+europe_lau,Kristianstad,kristianstad,kr,40.28,58.33,82.14
+europe_lau,Křenovice,krenovice,kr,58.99,70.47,85.55
+europe_lau,Krásna Lúka,krasna_luka,kr,41.39,61.6,68.66
+europe_lau,Krivany,krivany,kr,30.71,56.69,99.54
+europe_lau,Krížovany,krizovany,kr,59.39,78.19,68.29
+europe_lau,Krásný Les,krasny_les,kr,48.85,71.46,34.95
+europe_lau,Kryštofovo Údolí,krystofovo_udoli,kr,40.01,57.56,56.21
+europe_lau,Křižany,krizany,kr,37.63,66.95,-61.59
+europe_lau,Krásny Brod,krasny_brod,kr,51.15,73.85,48.39
+europe_lau,Kramfors,kramfors,kr,48.02,60.15,15.19
+europe_lau,Krokom,krokom,kr,48.45,58.12,88.34
+europe_lau,Krásna Ves,krasna_ves,kr,25.01,48.13,92.39
+europe_lau,Krnča,krnca,kr,33.39,78.21,68.9
+europe_lau,Krtovce,krtovce,kr,49.85,65.08,71.75
+europe_lau,Krompachy,krompachy,kr,65.71,71.73,48.7
+europe_lau,Krškany,krskany,kr,54.71,66.24,54.48
+europe_lau,Krakovany,krakovany,kr,32.33,52.26,62.23
+europe_lau,Krásnohorská Dlhá Lúka,krasnohorska_dlha_luka,kr,48.37,77.15,51.23
+europe_lau,Krásnohorské Podhradie,krasnohorske_podhradie,kr,63.39,65.5,64.67
+europe_lau,Kristinehamn,kristinehamn,kr,51.13,65.72,75.68
+europe_lau,Králíky,kraliky,kr,60.88,65.58,49.74
+europe_lau,Kratonohy,kratonohy,kr,47.81,58.44,74.16
+europe_lau,Králiky,kraliky,kr,33.2,63.17,20.6
+europe_lau,Krupka,krupka,kr,65.14,69.6,65.93
+europe_lau,Krahule,krahule,kr,39.31,55.74,18.17
+europe_lau,Kremnica,kremnica,kr,40.74,56.83,25.58
+europe_lau,Kremnické Bane,kremnicke_bane,kr,44.39,58.57,84.75
+europe_lau,Kruševac,krusevac,kr,53.44,66.97,59.14
+europe_lau,Křičeň,kricen,kr,47.57,66.88,51.53
+europe_lau,Kranj,kranj,kr,31.25,37.03,63.74
+europe_lau,Kranjska Gora,kranjska_gora,kr,48.64,63.77,-0.3
+europe_lau,Krško,krsko,kr,44.8,64.53,90.73
+europe_lau,Krchleby,krchleby,kr,39.17,51.01,25.07
+europe_lau,Kramolín,kramolin,kr,62.19,65.91,76.98
+europe_lau,Krasocin,krasocin,kr,48.37,61.71,58.03
+europe_lau,Kroczyce,kroczyce,kr,51.54,55.94,39.68
+europe_lau,Krzeszowice,krzeszowice,kr,56.15,66.79,68.09
+europe_lau,Krimpen aan den IJssel,krimpen_aan_den_i_jssel,kr,27.7,58,-35.06
+europe_lau,Krustpils novads,krustpils_novads,kr,34.36,53.75,-35.23
+europe_lau,Krāslavas novads,kraslavas_novads,kr,50.33,63.39,5.95
+europe_lau,Krimuldas novads,krimuldas_novads,kr,43.21,57.77,92.43
+europe_lau,Krasnystaw,krasnystaw,kr,49.33,68.38,32.56
+europe_lau,Krasnystaw,krasnystaw,kr,37.73,45.43,22.95
+europe_lau,Kraśniczyn,krasniczyn,kr,43.26,65.05,-6.28
+europe_lau,Krynice,krynice,kr,35.16,70.92,-65.82
+europe_lau,Krzeszyce,krzeszyce,kr,53,69.78,35.04
+europe_lau,Krosno Odrzańskie,krosno_odrzanskie,kr,30.42,47.49,14.79
+europe_lau,Křimov,krimov,kr,46.8,60.87,44.11
+europe_lau,Krakov,krakov,kr,61.99,69.79,41.5
+europe_lau,Krakovec,krakovec,kr,37.75,51.96,62.65
+europe_lau,Kraków,krakow,kr,39.51,62.21,-16.87
+europe_lau,Krynica-Zdrój,krynica_zdroj,kr,43.93,54.1,70.13
+europe_lau,Krásné Údolí,krasne_udoli,kr,65.21,74.56,70.16
+europe_lau,Крушево,krusevo,kr,32.24,51.76,91.44
+europe_lau,Krasnobród,krasnobrod,kr,36.31,50.58,-15.12
+europe_lau,Křenice,krenice,kr,51.76,77.19,75.7
+europe_lau,Krzczonów,krzczonow,kr,48.31,52.34,68.77
+europe_lau,Krotoszyn,krotoszyn,kr,43.28,50.68,16.95
+europe_lau,Kraszewice,kraszewice,kr,55.1,62.55,31.82
+europe_lau,Krásný Dvůr,krasny_dvur,kr,42.98,65.96,-23.26
+europe_lau,Kryry,kryry,kr,41.92,54.64,5.73
+europe_lau,Kralovice,kralovice,kr,39.29,52.6,8.9
+europe_lau,Krašovice,krasovice,kr,35.48,50.57,12.67
+europe_lau,Krsy,krsy,kr,38.85,54.06,-13.76
+europe_lau,Křelovice,krelovice,kr,40.22,54.9,73.71
+europe_lau,Krościenko nad Dunajcem,kroscienko_nad_dunajcem,kr,54.22,74.22,27.1
+europe_lau,Kramsk,kramsk,kr,54.4,67.12,21.65
+europe_lau,Krzymów,krzymow,kr,54.48,62.65,50.22
+europe_lau,Krumbach,krumbach,kr,45.46,63.29,86.6
+europe_lau,Кратово,kratovo,kr,33.5,55.56,-35.59
+europe_lau,Крива Паланка,kriva_palanka,kr,48.21,66.2,46.67
+europe_lau,Krimpenerwaard,krimpenerwaard,kr,40.6,65.47,16.19
+europe_lau,Kristiansund,kristiansund,kr,57.19,64.91,79.7
+europe_lau,Krabčice,krabcice,kr,63.75,75.3,38.89
+europe_lau,Křesín,kresin,kr,40.82,45.85,38.07
+europe_lau,Křešice,kresice,kr,33.87,40.77,85.54
+europe_lau,Křenovice,krenovice,kr,36.25,52.43,54.09
+europe_lau,Krośniewice,krosniewice,kr,53.23,70.06,23.17
+europe_lau,Krzyżanów,krzyzanow,kr,51.5,67.26,66.17
+europe_lau,Kryštofovy Hamry,krystofovy_hamry,kr,56.21,62.09,33.89
+europe_lau,Křelov-Břuchotín,krelov_bruchotin,kr,38.31,61.44,-24.99
+europe_lau,Krupski Młyn,krupski_mlyn,kr,47.54,71.84,40.81
+europe_lau,Kruszyna,kruszyna,kr,54.94,58.24,26.56
+europe_lau,Krzepice,krzepice,kr,62.9,63.3,49.21
+europe_lau,Krzanowice,krzanowice,kr,51.47,63.32,69.69
+europe_lau,Krzyżanowice,krzyzanowice,kr,27.78,59.93,73.59
+europe_lau,Krásná Lípa,krasna_lipa,kr,60.73,63.16,53.11
+europe_lau,Krtov,krtov,kr,44.96,60.17,25.98
+europe_lau,Кривогаштани,krivogastani,kr,41.58,58.76,91.19
+europe_lau,Kranenburg,kranenburg,kr,53.42,60.8,84.58

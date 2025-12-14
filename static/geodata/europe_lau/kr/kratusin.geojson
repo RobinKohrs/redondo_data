@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kratusin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kratušín", "metric_roundness": 51.55, "metric_rectangularity": 70.25, "metric_mobile_fit": 8.31, "metric_aspect_ratio": 1.479, "metric_area_km2": 8.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.920898, 49.021094799999986 ], [ 13.9122092, 49.0223242 ], [ 13.9089518, 49.0179435 ], [ 13.891888, 49.01567 ], [ 13.8968235, 49.008951499999988 ], [ 13.9124043, 49.0060545 ], [ 13.930346, 49.0085365 ], [ 13.9327423, 49.0198566 ], [ 13.9263965, 49.024166 ], [ 13.920898, 49.021094799999986 ] ] ] } }
+]
+}

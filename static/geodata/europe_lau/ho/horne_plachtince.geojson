@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "horne_plachtince",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Horné Plachtince", "metric_roundness": 46.94, "metric_rectangularity": 77.65, "metric_mobile_fit": 59.7, "metric_aspect_ratio": 0.966, "metric_area_km2": 23.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.2460795, 48.271877499999988 ], [ 19.2323645, 48.265276 ], [ 19.2326205, 48.2614505 ], [ 19.226594, 48.2588505 ], [ 19.2395555, 48.2477065 ], [ 19.2523332, 48.241312699999988 ], [ 19.253315, 48.2360635 ], [ 19.270864, 48.230239399999988 ], [ 19.2875345, 48.234579 ], [ 19.2833836, 48.2437823 ], [ 19.26568, 48.2576361 ], [ 19.255555, 48.2722675 ], [ 19.2460795, 48.271877499999988 ] ] ] } }
+]
+}

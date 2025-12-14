@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "horni_radechova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Horní Radechová", "metric_roundness": 43.38, "metric_rectangularity": 64.83, "metric_mobile_fit": 67.5, "metric_aspect_ratio": 0.888, "metric_area_km2": 13.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1342219, 50.4758104 ], [ 16.1354669, 50.4605435 ], [ 16.1394457, 50.4567307 ], [ 16.1465498, 50.457155899999975 ], [ 16.1473765, 50.452622399999981 ], [ 16.1518055, 50.4496305 ], [ 16.1570125, 50.450888499999984 ], [ 16.168859, 50.459364 ], [ 16.175784, 50.459785499999988 ], [ 16.1611645, 50.4654185 ], [ 16.1509423, 50.4786932 ], [ 16.1395725, 50.481697 ], [ 16.131075, 50.4804715 ], [ 16.1342219, 50.4758104 ] ] ] } }
+]
+}

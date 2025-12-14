@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hejobaba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hejőbába", "metric_roundness": 63.09, "metric_rectangularity": 77.41, "metric_mobile_fit": 55.57, "metric_aspect_ratio": 1.007, "metric_area_km2": 42.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.92997, 47.923681 ], [ 20.927431, 47.9253495 ], [ 20.9158085, 47.917075 ], [ 20.911843, 47.9150545 ], [ 20.9266344, 47.8885809 ], [ 20.932205, 47.883492499999988 ], [ 20.9489674, 47.887946599999978 ], [ 20.9737424, 47.904032899999983 ], [ 20.988952, 47.919937 ], [ 20.9745159, 47.9312885 ], [ 20.9594206, 47.9348293 ], [ 20.954063, 47.930142199999977 ], [ 20.9420365, 47.928128 ], [ 20.92997, 47.923681 ] ] ] } }
+]
+}

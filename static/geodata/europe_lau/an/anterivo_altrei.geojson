@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "anterivo_altrei",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Anterivo/Altrei", "metric_roundness": 43.17, "metric_rectangularity": 68.39, "metric_mobile_fit": 44.39, "metric_aspect_ratio": 1.119, "metric_area_km2": 22.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.3873807, 46.2617693 ], [ 11.3966047, 46.265354 ], [ 11.3944084, 46.2734963 ], [ 11.386814, 46.280108 ], [ 11.3792494, 46.291557499999989 ], [ 11.3589255, 46.296122 ], [ 11.3473297, 46.2948763 ], [ 11.34037, 46.297887 ], [ 11.3381478, 46.287366 ], [ 11.3425721, 46.282006199999984 ], [ 11.3558883, 46.275963699999984 ], [ 11.3588125, 46.265672 ], [ 11.3702475, 46.26245 ], [ 11.3873807, 46.2617693 ] ] ] } }
+]
+}

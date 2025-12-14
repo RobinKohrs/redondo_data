@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chalandry_elaire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chalandry-Elaire", "metric_roundness": 38.2, "metric_rectangularity": 59.37, "metric_mobile_fit": 37.18, "metric_aspect_ratio": 1.191, "metric_area_km2": 12.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7413658, 49.696767899999983 ], [ 4.7547425, 49.6952905 ], [ 4.773074, 49.70557 ], [ 4.7683826, 49.7127164 ], [ 4.7742206, 49.717847099999986 ], [ 4.78165, 49.717401 ], [ 4.781397, 49.719382 ], [ 4.7823705, 49.722808 ], [ 4.7660347, 49.7206942 ], [ 4.7526087, 49.713035499999982 ], [ 4.7317045, 49.710519 ], [ 4.7384565, 49.7012025 ], [ 4.7413658, 49.696767899999983 ] ] ] } }
+]
+}

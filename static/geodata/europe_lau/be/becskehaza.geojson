@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "becskehaza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Becskeháza", "metric_roundness": 34.58, "metric_rectangularity": 51.14, "metric_mobile_fit": 86.54, "metric_aspect_ratio": 0.697, "metric_area_km2": 10.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8138741, 48.529413599999984 ], [ 20.812776, 48.523272 ], [ 20.8297819, 48.5158284 ], [ 20.822955, 48.5056915 ], [ 20.8269605, 48.509004499999989 ], [ 20.8340366, 48.514749399999985 ], [ 20.8424264, 48.517085099999974 ], [ 20.847901, 48.539065 ], [ 20.8337576, 48.534723499999984 ], [ 20.821112, 48.5353395 ], [ 20.8138741, 48.529413599999984 ] ] ] } }
+]
+}

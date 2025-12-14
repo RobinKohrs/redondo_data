@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "champs_sur_yonne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Champs-sur-Yonne", "metric_roundness": 44.0, "metric_rectangularity": 68.54, "metric_mobile_fit": 79.51, "metric_aspect_ratio": 0.767, "metric_area_km2": 9.57 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.6064982, 47.734392 ], [ 3.6042806, 47.748990699999986 ], [ 3.623222, 47.7586735 ], [ 3.601041, 47.765483499999981 ], [ 3.5969599, 47.762367899999987 ], [ 3.5957784, 47.758550899999989 ], [ 3.5877796, 47.7487119 ], [ 3.5873024, 47.7453701 ], [ 3.5903115, 47.740548499999974 ], [ 3.592669, 47.738723499999985 ], [ 3.595446, 47.7377945 ], [ 3.5998905, 47.734013 ], [ 3.6064982, 47.734392 ] ] ] } }
+]
+}

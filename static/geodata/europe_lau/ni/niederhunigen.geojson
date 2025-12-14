@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niederhunigen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niederhünigen", "metric_roundness": 43.82, "metric_rectangularity": 71.29, "metric_mobile_fit": 66.29, "metric_aspect_ratio": 0.9, "metric_area_km2": 11.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6423845, 46.8878555 ], [ 7.6259143, 46.8800047 ], [ 7.6303, 46.872989 ], [ 7.6450185, 46.8685803 ], [ 7.644272, 46.856341499999985 ], [ 7.6491555, 46.854389499999989 ], [ 7.6549915, 46.854558499999989 ], [ 7.667559, 46.858969 ], [ 7.6699541, 46.862367299999974 ], [ 7.6506527, 46.87319249999998 ], [ 7.65319, 46.8801112 ], [ 7.6508425, 46.8832615 ], [ 7.6423845, 46.8878555 ] ] ] } }
+]
+}

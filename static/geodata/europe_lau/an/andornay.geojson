@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "andornay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Andornay", "metric_roundness": 52.44, "metric_rectangularity": 62.97, "metric_mobile_fit": 62.98, "metric_aspect_ratio": 0.933, "metric_area_km2": 3.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5880455, 47.653266 ], [ 6.5935725, 47.6515325 ], [ 6.6098845, 47.6571035 ], [ 6.5995055, 47.6673025 ], [ 6.597171, 47.667299 ], [ 6.5880455, 47.653266 ] ] ] } }
+]
+}

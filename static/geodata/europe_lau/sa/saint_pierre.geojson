@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_pierre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Pierre", "metric_roundness": 30.95, "metric_rectangularity": 58.98, "metric_mobile_fit": 67.63, "metric_aspect_ratio": 0.886, "metric_area_km2": 10.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.921973, 43.893394 ], [ 6.932976, 43.8947115 ], [ 6.9375895, 43.896326499999986 ], [ 6.9422735, 43.897262 ], [ 6.9416139, 43.9037291 ], [ 6.9369983, 43.9061644 ], [ 6.9311123, 43.90927 ], [ 6.9292657, 43.910244299999988 ], [ 6.9118916, 43.928034299999986 ], [ 6.8996615, 43.926743 ], [ 6.9060609, 43.923218 ], [ 6.9119946, 43.90927 ], [ 6.9133158, 43.9061644 ], [ 6.918674, 43.893569 ], [ 6.921973, 43.893394 ] ] ] } }
+]
+}

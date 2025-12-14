@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lavelanet_de_comminges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lavelanet-de-Comminges", "metric_roundness": 61.6, "metric_rectangularity": 77.53, "metric_mobile_fit": 66.51, "metric_aspect_ratio": 0.897, "metric_area_km2": 26.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1359797, 43.2377776 ], [ 1.1353484, 43.2429543 ], [ 1.1437439, 43.2500883 ], [ 1.1288955, 43.265792 ], [ 1.1121955, 43.278445499999989 ], [ 1.084884, 43.252797 ], [ 1.1007836, 43.2358511 ], [ 1.1080404, 43.2379137 ], [ 1.1237595, 43.230678 ], [ 1.1359797, 43.2377776 ] ] ] } }
+]
+}

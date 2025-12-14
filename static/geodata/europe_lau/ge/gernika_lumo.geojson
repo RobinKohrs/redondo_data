@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gernika_lumo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gernika-Lumo", "metric_roundness": 56.87, "metric_rectangularity": 72.84, "metric_mobile_fit": 37.58, "metric_aspect_ratio": 1.187, "metric_area_km2": 16.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.6783857, 43.3240619 ], [ -2.6883473, 43.322881 ], [ -2.7067765, 43.3272365 ], [ -2.7098634, 43.317623299999987 ], [ -2.7176715, 43.307795 ], [ -2.6857315, 43.29549 ], [ -2.6727807, 43.308291 ], [ -2.6714934, 43.3176819 ], [ -2.665898, 43.319709 ], [ -2.6726976, 43.322519399999983 ], [ -2.672717, 43.3258615 ], [ -2.676298, 43.3269935 ], [ -2.6783857, 43.3240619 ] ] ] } }
+]
+}

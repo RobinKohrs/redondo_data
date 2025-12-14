@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castel_san_giorgio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castel San Giorgio", "metric_roundness": 45.5, "metric_rectangularity": 73.42, "metric_mobile_fit": 7.45, "metric_aspect_ratio": 1.488, "metric_area_km2": 23.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.6809738, 40.765367299999987 ], [ 14.694518, 40.76841 ], [ 14.6985495, 40.7724916 ], [ 14.7098677, 40.775067 ], [ 14.7161236, 40.7809766 ], [ 14.7172776, 40.7882712 ], [ 14.714363, 40.793323099999988 ], [ 14.7169295, 40.797955 ], [ 14.6993233, 40.793378499999989 ], [ 14.675587, 40.794223 ], [ 14.6556925, 40.78575 ], [ 14.656766, 40.7775181 ], [ 14.6532406, 40.7719714 ], [ 14.6565475, 40.766946499999989 ], [ 14.6809738, 40.765367299999987 ] ] ] } }
+]
+}

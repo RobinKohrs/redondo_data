@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chapelle_sur_coise",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chapelle-sur-Coise", "metric_roundness": 57.53, "metric_rectangularity": 67.83, "metric_mobile_fit": 77.29, "metric_aspect_ratio": 0.79, "metric_area_km2": 13.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5004195, 45.666976 ], [ 4.4979085, 45.665134 ], [ 4.49413, 45.665342 ], [ 4.48811, 45.662397 ], [ 4.4849795, 45.6627725 ], [ 4.4834295, 45.6608675 ], [ 4.4810895, 45.660102 ], [ 4.478716, 45.639438499999976 ], [ 4.503094, 45.639124099999989 ], [ 4.5081592, 45.635891899999976 ], [ 4.514396, 45.640605 ], [ 4.5129815, 45.6486425 ], [ 4.5048693, 45.6586377 ], [ 4.5023, 45.667479499999985 ], [ 4.5004195, 45.666976 ] ] ] } }
+]
+}

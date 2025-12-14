@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beauregard_de_terrasson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beauregard-de-Terrasson", "metric_roundness": 61.72, "metric_rectangularity": 64.25, "metric_mobile_fit": 40.17, "metric_aspect_ratio": 1.161, "metric_area_km2": 16.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.2336847, 45.1707061 ], [ 1.2185255, 45.165962 ], [ 1.210986, 45.1713155 ], [ 1.2079182, 45.163926599999982 ], [ 1.211563, 45.160750899999989 ], [ 1.2119266, 45.155868 ], [ 1.2042925, 45.148972 ], [ 1.2156903, 45.140852599999988 ], [ 1.2281862, 45.144084799999987 ], [ 1.2331495, 45.142629899999989 ], [ 1.2522105, 45.153481 ], [ 1.2544375, 45.158499 ], [ 1.2336847, 45.1707061 ] ] ] } }
+]
+}

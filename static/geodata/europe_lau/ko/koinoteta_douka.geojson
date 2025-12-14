@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_douka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Δούκα", "metric_roundness": 24.82, "metric_rectangularity": 51.54, "metric_mobile_fit": -11.5, "metric_aspect_ratio": 1.678, "metric_area_km2": 17.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.658595, 37.699138 ], [ 21.6619075, 37.697066 ], [ 21.6672935, 37.6942965 ], [ 21.6810464, 37.7087869 ], [ 21.7159832, 37.716002 ], [ 21.7287266, 37.7241156 ], [ 21.73245, 37.730012 ], [ 21.681383, 37.729548 ], [ 21.6720015, 37.724186 ], [ 21.6702426, 37.7097708 ], [ 21.6567145, 37.700862 ], [ 21.658595, 37.699138 ] ] ] } }
+]
+}

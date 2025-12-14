@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_peristeriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Περιστερίου", "metric_roundness": 51.21, "metric_rectangularity": 69.83, "metric_mobile_fit": 65.01, "metric_aspect_ratio": 0.912, "metric_area_km2": 31.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.4961618, 37.793152 ], [ 21.4932964, 37.8053389 ], [ 21.504731, 37.818982 ], [ 21.5010609, 37.8273522 ], [ 21.495316, 37.82944 ], [ 21.4752568, 37.8287007 ], [ 21.4589095, 37.81583 ], [ 21.4522931, 37.801906 ], [ 21.4427055, 37.7940905 ], [ 21.4492753, 37.7911114 ], [ 21.4490145, 37.779605 ], [ 21.4630965, 37.775728 ], [ 21.489864, 37.786611 ], [ 21.4961618, 37.793152 ] ] ] } }
+]
+}

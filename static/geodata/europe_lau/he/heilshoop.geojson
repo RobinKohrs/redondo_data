@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heilshoop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heilshoop", "metric_roundness": 54.25, "metric_rectangularity": 68.85, "metric_mobile_fit": 40.44, "metric_aspect_ratio": 1.158, "metric_area_km2": 25.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.5716081, 53.8900765 ], [ 10.5729135, 53.89366 ], [ 10.5475415, 53.897218099999975 ], [ 10.5342776, 53.896417299999989 ], [ 10.5215836, 53.9049586 ], [ 10.5093855, 53.903014 ], [ 10.509641, 53.890627 ], [ 10.526193, 53.8756525 ], [ 10.5383232, 53.872628599999985 ], [ 10.5537805, 53.873135 ], [ 10.561632, 53.878594799999988 ], [ 10.5560923, 53.8844134 ], [ 10.5640445, 53.885877 ], [ 10.5716081, 53.8900765 ] ] ] } }
+]
+}

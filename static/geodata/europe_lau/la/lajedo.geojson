@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lajedo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lajedo", "metric_roundness": 54.4, "metric_rectangularity": 77.27, "metric_mobile_fit": 82.34, "metric_aspect_ratio": 0.739, "metric_area_km2": 11.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -31.2582468, 39.3985043 ], [ -31.255012599999986, 39.3848174 ], [ -31.2478522, 39.3761295 ], [ -31.230853, 39.37115 ], [ -31.22781, 39.4008045 ], [ -31.252045, 39.4029775 ], [ -31.2582468, 39.3985043 ] ] ] } }
+]
+}

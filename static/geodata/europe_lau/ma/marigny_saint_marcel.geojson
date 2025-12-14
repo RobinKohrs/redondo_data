@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "marigny_saint_marcel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marigny-Saint-Marcel", "metric_roundness": 50.15, "metric_rectangularity": 66.54, "metric_mobile_fit": 15.31, "metric_aspect_ratio": 1.409, "metric_area_km2": 14.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0103525, 45.8248254 ], [ 6.0147115, 45.826581 ], [ 6.0140167, 45.829620499999983 ], [ 6.0103525, 45.830443599999974 ], [ 5.9943589, 45.834036499999989 ], [ 5.9933755, 45.837003499999987 ], [ 5.972254, 45.844939 ], [ 5.9661505, 45.8424822 ], [ 5.9622837, 45.839057 ], [ 5.9613977, 45.8313637 ], [ 5.9656715, 45.8299364 ], [ 5.9656445, 45.8248885 ], [ 5.9661635, 45.8210445 ], [ 5.9948535, 45.818583 ], [ 6.0103525, 45.8248254 ] ] ] } }
+]
+}

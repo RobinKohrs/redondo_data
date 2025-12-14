@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brion_sur_ource",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brion-sur-Ource", "metric_roundness": 49.41, "metric_rectangularity": 64.22, "metric_mobile_fit": 73.77, "metric_aspect_ratio": 0.825, "metric_area_km2": 30.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6817274, 47.9003101 ], [ 4.6963557, 47.9116296 ], [ 4.702979, 47.922105 ], [ 4.655402, 47.926837 ], [ 4.651984, 47.9251955 ], [ 4.646711, 47.9148185 ], [ 4.6474245, 47.91278 ], [ 4.640953, 47.911693 ], [ 4.6450282, 47.904955099999981 ], [ 4.6521559, 47.9012567 ], [ 4.6594761, 47.879804799999974 ], [ 4.670643, 47.8764205 ], [ 4.675977, 47.877573499999983 ], [ 4.6817274, 47.9003101 ] ] ] } }
+]
+}

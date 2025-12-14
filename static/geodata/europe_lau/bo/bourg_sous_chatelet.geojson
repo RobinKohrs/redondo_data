@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourg_sous_chatelet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourg-sous-Châtelet", "metric_roundness": 23.36, "metric_rectangularity": 73.76, "metric_mobile_fit": 72.67, "metric_aspect_ratio": 0.289, "metric_area_km2": 1.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.952335, 47.716624499999988 ], [ 6.946611, 47.7129775 ], [ 6.947072, 47.7113825 ], [ 6.94501, 47.7099325 ], [ 6.9454525, 47.707347499999983 ], [ 6.9441585, 47.7055065 ], [ 6.9438265, 47.703222499999988 ], [ 6.944402, 47.699866 ], [ 6.946194, 47.698218499999975 ], [ 6.950611, 47.6968275 ], [ 6.952335, 47.716624499999988 ] ] ] } }
+]
+}

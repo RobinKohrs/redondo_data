@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bocka",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bocka", "metric_roundness": 62.41, "metric_rectangularity": 78.65, "metric_mobile_fit": 59.19, "metric_aspect_ratio": 0.971, "metric_area_km2": 14.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.958437, 50.8119665 ], [ 11.9601735, 50.808012 ], [ 11.9622695, 50.806015 ], [ 11.9668855, 50.8060195 ], [ 11.9732265, 50.8035275 ], [ 11.9798865, 50.802445 ], [ 11.9879825, 50.8120309 ], [ 11.997664, 50.816227499999982 ], [ 11.9654535, 50.831821 ], [ 11.952536, 50.823702399999988 ], [ 11.955729, 50.8170178 ], [ 11.954038, 50.811653 ], [ 11.958437, 50.8119665 ] ] ] } }
+]
+}

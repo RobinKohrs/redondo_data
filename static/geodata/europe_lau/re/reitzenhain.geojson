@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "reitzenhain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Reitzenhain", "metric_roundness": 53.12, "metric_rectangularity": 63.7, "metric_mobile_fit": 67.79, "metric_aspect_ratio": 0.885, "metric_area_km2": 14.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.802797, 50.145167099999981 ], [ 7.809582, 50.1454695 ], [ 7.810853, 50.1465165 ], [ 7.8015107, 50.1506818 ], [ 7.7961906, 50.1622877 ], [ 7.7983503, 50.1688176 ], [ 7.793356, 50.172151 ], [ 7.7823905, 50.173655499999988 ], [ 7.774538, 50.1668965 ], [ 7.774279, 50.162837299999985 ], [ 7.7675073, 50.1580489 ], [ 7.775708, 50.148566 ], [ 7.796175, 50.142263 ], [ 7.8001155, 50.142955499999985 ], [ 7.802797, 50.145167099999981 ] ] ] } }
+]
+}

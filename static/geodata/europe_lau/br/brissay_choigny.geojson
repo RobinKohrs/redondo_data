@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brissay_choigny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brissay-Choigny", "metric_roundness": 33.4, "metric_rectangularity": 55.85, "metric_mobile_fit": -32.84, "metric_aspect_ratio": 1.891, "metric_area_km2": 21.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3637445, 49.7337825 ], [ 3.3668334, 49.731213100000012 ], [ 3.37184, 49.7083425 ], [ 3.4185685, 49.718267 ], [ 3.4231465, 49.720281899999989 ], [ 3.428506, 49.71592 ], [ 3.4434351, 49.7231855 ], [ 3.4359035, 49.7300605 ], [ 3.4096087, 49.726505099999976 ], [ 3.3893197, 49.733325 ], [ 3.367973, 49.735588499999977 ], [ 3.3637445, 49.7337825 ] ] ] } }
+]
+}

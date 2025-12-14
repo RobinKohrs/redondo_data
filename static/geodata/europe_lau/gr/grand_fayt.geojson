@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grand_fayt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Grand-Fayt", "metric_roundness": 55.22, "metric_rectangularity": 75.99, "metric_mobile_fit": 42.79, "metric_aspect_ratio": 1.135, "metric_area_km2": 21.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8039391, 50.1214145 ], [ 3.7902576, 50.1251442 ], [ 3.7793204, 50.1237347 ], [ 3.766063, 50.107731499999971 ], [ 3.770426, 50.106549 ], [ 3.7726035, 50.104549 ], [ 3.7772815, 50.102195 ], [ 3.791735, 50.0966185 ], [ 3.7933125, 50.094917 ], [ 3.8089188, 50.1033962 ], [ 3.823282, 50.118127 ], [ 3.8245784, 50.1229249 ], [ 3.813927, 50.127685 ], [ 3.8110035, 50.12799 ], [ 3.8039391, 50.1214145 ] ] ] } }
+]
+}

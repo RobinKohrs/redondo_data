@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_marais_la_chapelle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Marais-la-Chapelle", "metric_roundness": 36.57, "metric_rectangularity": 48.75, "metric_mobile_fit": 58.37, "metric_aspect_ratio": 0.979, "metric_area_km2": 5.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0165224, 48.8832855 ], [ -0.029692, 48.8933335 ], [ -0.0379472, 48.8877853 ], [ -0.0322018, 48.8837025 ], [ -0.033323, 48.877587299999988 ], [ -0.0310725, 48.873731499999984 ], [ -0.024299, 48.877024099999986 ], [ -0.019095, 48.8749215 ], [ -0.0127943, 48.8768056 ], [ -0.00665, 48.871993499999981 ], [ -0.0061835, 48.8722275 ], [ -0.008749, 48.878921 ], [ -0.009855, 48.8837995 ], [ -0.0165224, 48.8832855 ] ] ] } }
+]
+}

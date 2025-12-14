@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gualtieri_sicamino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gualtieri Sicaminò", "metric_roundness": 28.18, "metric_rectangularity": 48.03, "metric_mobile_fit": 91.47, "metric_aspect_ratio": 0.648, "metric_area_km2": 24.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.3543706, 38.1129922 ], [ 15.3623515, 38.1374602 ], [ 15.3612578, 38.1427974 ], [ 15.343641, 38.143265 ], [ 15.3186145, 38.17205 ], [ 15.3137184, 38.173193 ], [ 15.304442, 38.160062 ], [ 15.3167152, 38.1588476 ], [ 15.3243013, 38.1374123 ], [ 15.3296654, 38.1308777 ], [ 15.3311065, 38.111579 ], [ 15.3422435, 38.102882499999986 ], [ 15.3543706, 38.1129922 ] ] ] } }
+]
+}

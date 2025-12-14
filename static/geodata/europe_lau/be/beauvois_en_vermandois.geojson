@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beauvois_en_vermandois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beauvois-en-Vermandois", "metric_roundness": 61.04, "metric_rectangularity": 65.96, "metric_mobile_fit": 57.15, "metric_aspect_ratio": 0.991, "metric_area_km2": 18.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.1176467, 49.8428951 ], [ 3.118719, 49.846298 ], [ 3.1044285, 49.8502945 ], [ 3.0998252, 49.8466089 ], [ 3.08432, 49.846237 ], [ 3.08356, 49.8426748 ], [ 3.077608, 49.83965 ], [ 3.0850399, 49.8389076 ], [ 3.0874489, 49.8335207 ], [ 3.0888795, 49.8240175 ], [ 3.0824205, 49.819499 ], [ 3.0849495, 49.817971 ], [ 3.1033285, 49.820934 ], [ 3.1139242, 49.8221545 ], [ 3.120269, 49.827212 ], [ 3.1272685, 49.8389845 ], [ 3.1176467, 49.8428951 ] ] ] } }
+]
+}

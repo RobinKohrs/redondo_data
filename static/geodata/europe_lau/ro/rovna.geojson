@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rovna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rovná", "metric_roundness": 52.69, "metric_rectangularity": 57.46, "metric_mobile_fit": 56.16, "metric_aspect_ratio": 1.001, "metric_area_km2": 10.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.9367418, 49.297295899999988 ], [ 13.9406021, 49.293989799999984 ], [ 13.9382965, 49.2901205 ], [ 13.9411945, 49.2760445 ], [ 13.9580215, 49.2775975 ], [ 13.9697215, 49.292594 ], [ 13.948058, 49.296922 ], [ 13.9472041, 49.301261299999979 ], [ 13.9337998, 49.3009537 ], [ 13.9310269, 49.299049299999986 ], [ 13.933149, 49.2956535 ], [ 13.9367418, 49.297295899999988 ] ] ] } }
+]
+}

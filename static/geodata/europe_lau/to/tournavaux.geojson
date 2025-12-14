@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tournavaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tournavaux", "metric_roundness": 54.77, "metric_rectangularity": 72.34, "metric_mobile_fit": 38.94, "metric_aspect_ratio": 1.173, "metric_area_km2": 3.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.791924, 49.8781522 ], [ 4.7835865, 49.879383 ], [ 4.7808941, 49.8768749 ], [ 4.771116, 49.8764535 ], [ 4.7707934, 49.8722222 ], [ 4.7768515, 49.86855 ], [ 4.7936135, 49.866846499999987 ], [ 4.791924, 49.8781522 ] ] ] } }
+]
+}

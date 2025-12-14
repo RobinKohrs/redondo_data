@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "venaria_reale",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Venaria Reale", "metric_roundness": 34.04, "metric_rectangularity": 65.05, "metric_mobile_fit": 77.61, "metric_aspect_ratio": 0.786, "metric_area_km2": 40.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6416804, 45.131558399999989 ], [ 7.637883, 45.158147499999984 ], [ 7.6243755, 45.1580072 ], [ 7.6034405, 45.169439 ], [ 7.5874225, 45.175772 ], [ 7.5839977, 45.1724872 ], [ 7.5846573, 45.1638437 ], [ 7.592286, 45.149334599999989 ], [ 7.6010869, 45.1413867 ], [ 7.607207, 45.1199925 ], [ 7.622897, 45.1138145 ], [ 7.6525339, 45.1127573 ], [ 7.654255, 45.124539 ], [ 7.6416804, 45.131558399999989 ] ] ] } }
+]
+}

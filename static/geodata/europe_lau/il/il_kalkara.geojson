@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "il_kalkara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Il-Kalkara", "metric_roundness": 49.28, "metric_rectangularity": 63.17, "metric_mobile_fit": 36.3, "metric_aspect_ratio": 1.199, "metric_area_km2": 2.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.5401104, 35.894556099999988 ], [ 14.5344404, 35.8955606 ], [ 14.5240509, 35.8986867 ], [ 14.525751, 35.8879815 ], [ 14.531114, 35.8843155 ], [ 14.5344404, 35.8865098 ], [ 14.540987, 35.885731 ], [ 14.5413001, 35.8878925 ], [ 14.545329, 35.8906865 ], [ 14.5401104, 35.894556099999988 ] ] ] } }
+]
+}

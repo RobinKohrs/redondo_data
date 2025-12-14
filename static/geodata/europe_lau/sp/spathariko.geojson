@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spathariko",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Σπαθαρικό", "metric_roundness": 39.66, "metric_rectangularity": 65.29, "metric_mobile_fit": 37.36, "metric_aspect_ratio": 1.189, "metric_area_km2": 10.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.8964287, 35.2363206 ], [ 33.8999809, 35.2317944 ], [ 33.9029685, 35.233882 ], [ 33.9040785, 35.2473185 ], [ 33.903916, 35.24751 ], [ 33.8721505, 35.243115 ], [ 33.8617705, 35.2234025 ], [ 33.8670149, 35.218443699999987 ], [ 33.8872365, 35.2264995 ], [ 33.8964287, 35.2363206 ] ] ] } }
+]
+}

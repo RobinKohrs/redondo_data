@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "torrazzo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Torrazzo", "metric_roundness": 27.72, "metric_rectangularity": 72.87, "metric_mobile_fit": 31.39, "metric_aspect_ratio": 1.249, "metric_area_km2": 11.97 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9592401, 45.5030421 ], [ 7.9206025, 45.514344 ], [ 7.9193078, 45.509190799999985 ], [ 7.9298305, 45.502883 ], [ 7.9426955, 45.4961025 ], [ 7.9663195, 45.48203 ], [ 7.973455, 45.4859225 ], [ 7.9768684, 45.492502899999984 ], [ 7.974213, 45.495522 ], [ 7.9592401, 45.5030421 ] ] ] } }
+]
+}

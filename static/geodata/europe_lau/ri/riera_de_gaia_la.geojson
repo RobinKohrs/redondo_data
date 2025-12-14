@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "riera_de_gaia_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riera de Gaià, La", "metric_roundness": 61.69, "metric_rectangularity": 76.4, "metric_mobile_fit": 34.45, "metric_aspect_ratio": 1.218, "metric_area_km2": 15.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.3549485, 41.176931499999988 ], [ 1.340924, 41.1730425 ], [ 1.3293405, 41.163328 ], [ 1.3344968, 41.1563591 ], [ 1.3553214, 41.152712199999989 ], [ 1.36285, 41.146427 ], [ 1.3711347, 41.1532642 ], [ 1.3772258, 41.1626439 ], [ 1.3786915, 41.170783 ], [ 1.3660185, 41.1763255 ], [ 1.3549485, 41.176931499999988 ] ] ] } }
+]
+}

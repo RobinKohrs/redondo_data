@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agiou_ioanne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγίου Ιωάννη", "metric_roundness": 31.86, "metric_rectangularity": 54.71, "metric_mobile_fit": -2.27, "metric_aspect_ratio": 1.585, "metric_area_km2": 9.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.7884439, 36.8571961 ], [ 22.7734431, 36.8489133 ], [ 22.766158, 36.856602 ], [ 22.764273, 36.852106 ], [ 22.764247, 36.8489345 ], [ 22.763001, 36.8459315 ], [ 22.7593375, 36.841111 ], [ 22.7549065, 36.832645 ], [ 22.7901043, 36.838614799999988 ], [ 22.8035385, 36.855020499999988 ], [ 22.7884439, 36.8571961 ] ] ] } }
+]
+}

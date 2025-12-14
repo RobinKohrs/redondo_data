@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_teresa_di_riva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Teresa di Riva", "metric_roundness": 44.87, "metric_rectangularity": 59.47, "metric_mobile_fit": 80.44, "metric_aspect_ratio": 0.758, "metric_area_km2": 9.07 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.380127, 37.9572315 ], [ 15.3499025, 37.965574 ], [ 15.3516794, 37.9623525 ], [ 15.3473431, 37.9556933 ], [ 15.3551089, 37.948066 ], [ 15.3483739, 37.9385403 ], [ 15.348583, 37.934205499999983 ], [ 15.3540035, 37.932764 ], [ 15.3571095, 37.9314705 ], [ 15.380127, 37.9572315 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ukk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ukk", "metric_roundness": 57.88, "metric_rectangularity": 80.88, "metric_mobile_fit": 47.89, "metric_aspect_ratio": 1.084, "metric_area_km2": 30.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.2246385, 47.0549706 ], [ 17.2009686, 47.0486473 ], [ 17.1946875, 47.0499665 ], [ 17.1972255, 47.0372652 ], [ 17.20929, 47.018364 ], [ 17.2558925, 47.0358895 ], [ 17.2598624, 47.0449378 ], [ 17.2528935, 47.0530873 ], [ 17.251603, 47.059015 ], [ 17.2342155, 47.0593535 ], [ 17.2318475, 47.0591985 ], [ 17.226881, 47.0578535 ], [ 17.2246385, 47.0549706 ] ] ] } }
+]
+}

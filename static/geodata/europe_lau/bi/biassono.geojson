@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "biassono",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Biassono", "metric_roundness": 36.9, "metric_rectangularity": 41.91, "metric_mobile_fit": 54.52, "metric_aspect_ratio": 1.017, "metric_area_km2": 10.42 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.299834, 45.634148499999981 ], [ 9.288035, 45.643507499999977 ], [ 9.253413, 45.6288965 ], [ 9.261562, 45.617118 ], [ 9.279353, 45.622717 ], [ 9.2798303, 45.6295791 ], [ 9.2964987, 45.6316164 ], [ 9.2949067, 45.616563399999983 ], [ 9.298017, 45.611597 ], [ 9.2964664, 45.6177205 ], [ 9.2985975, 45.621761499999984 ], [ 9.299834, 45.634148499999981 ] ] ] } }
+]
+}

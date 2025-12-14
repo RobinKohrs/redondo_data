@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pavone_canavese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pavone Canavese", "metric_roundness": 56.61, "metric_rectangularity": 65.61, "metric_mobile_fit": 36.84, "metric_aspect_ratio": 1.194, "metric_area_km2": 23.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8817431, 45.4259942 ], [ 7.8700152, 45.4332498 ], [ 7.8657615, 45.440782199999987 ], [ 7.8684366, 45.4457243 ], [ 7.8585855, 45.44875 ], [ 7.8494965, 45.4448885 ], [ 7.8358525, 45.437217 ], [ 7.8296295, 45.440917 ], [ 7.8221027, 45.428514 ], [ 7.821797, 45.415747499999988 ], [ 7.8435851, 45.420983299999982 ], [ 7.849779, 45.412759 ], [ 7.8631413, 45.4140682 ], [ 7.883038, 45.421405 ], [ 7.8817431, 45.4259942 ] ] ] } }
+]
+}

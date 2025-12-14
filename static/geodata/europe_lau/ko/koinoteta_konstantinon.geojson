@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_konstantinon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κωνσταντίνων", "metric_roundness": 56.1, "metric_rectangularity": 71.64, "metric_mobile_fit": 21.56, "metric_aspect_ratio": 1.347, "metric_area_km2": 9.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9228604, 37.2866431 ], [ 21.930731, 37.272465499999981 ], [ 21.962969, 37.2774495 ], [ 21.9625, 37.27985 ], [ 21.9626375, 37.282226499999986 ], [ 21.9599394, 37.2827412 ], [ 21.9538705, 37.2943315 ], [ 21.9424976, 37.2915624 ], [ 21.936176, 37.2961585 ], [ 21.9228604, 37.2866431 ] ] ] } }
+]
+}

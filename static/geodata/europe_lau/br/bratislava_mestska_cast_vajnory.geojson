@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bratislava_mestska_cast_vajnory",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bratislava - mestská časť Vajnory", "metric_roundness": 31.15, "metric_rectangularity": 57.3, "metric_mobile_fit": 62.61, "metric_aspect_ratio": 0.936, "metric_area_km2": 29.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.1771721, 48.218402 ], [ 17.1828708, 48.209346599999989 ], [ 17.187111, 48.192438 ], [ 17.189229, 48.189477 ], [ 17.1996155, 48.1899605 ], [ 17.2157205, 48.191272 ], [ 17.224455, 48.191746 ], [ 17.2304818, 48.1985977 ], [ 17.2271685, 48.2040445 ], [ 17.2085684, 48.2188111 ], [ 17.1703183, 48.2380256 ], [ 17.1638515, 48.2438177 ], [ 17.1541125, 48.238539 ], [ 17.1771721, 48.218402 ] ] ] } }
+]
+}

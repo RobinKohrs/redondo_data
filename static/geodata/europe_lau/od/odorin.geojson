@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "odorin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Odorín", "metric_roundness": 39.66, "metric_rectangularity": 64.1, "metric_mobile_fit": 21.24, "metric_aspect_ratio": 1.35, "metric_area_km2": 21.68 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6084009, 48.9418951 ], [ 20.6002045, 48.939143 ], [ 20.602632, 48.932398 ], [ 20.6211405, 48.931383 ], [ 20.6461801, 48.9148655 ], [ 20.6664795, 48.9178 ], [ 20.667814, 48.9182365 ], [ 20.6558978, 48.936253499999985 ], [ 20.6450673, 48.9436196 ], [ 20.631038, 48.9470295 ], [ 20.6198083, 48.9441221 ], [ 20.6086595, 48.9477645 ], [ 20.6084009, 48.9418951 ] ] ] } }
+]
+}

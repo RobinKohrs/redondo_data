@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "remondo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Remondo", "metric_roundness": 44.89, "metric_rectangularity": 73.68, "metric_mobile_fit": 96.09, "metric_aspect_ratio": 0.523, "metric_area_km2": 15.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.471806, 41.335282299999989 ], [ -4.4722513, 41.3427592 ], [ -4.4759847, 41.3527526 ], [ -4.4840215, 41.365665 ], [ -4.4958647, 41.3629969 ], [ -4.4995937, 41.3568634 ], [ -4.4977605, 41.3492903 ], [ -4.5017856, 41.3483027 ], [ -4.5020625, 41.343453 ], [ -4.4934103, 41.3269144 ], [ -4.473908, 41.322269499999983 ], [ -4.47452, 41.3233795 ], [ -4.471806, 41.335282299999989 ] ] ] } }
+]
+}

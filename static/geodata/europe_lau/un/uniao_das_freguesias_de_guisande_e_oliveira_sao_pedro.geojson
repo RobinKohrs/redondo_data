@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_guisande_e_oliveira_sao_pedro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Guisande e Oliveira (São Pedro)", "metric_roundness": 53.38, "metric_rectangularity": 83.35, "metric_mobile_fit": 35.31, "metric_aspect_ratio": 1.209, "metric_area_km2": 8.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.4397853, 41.4813258 ], [ -8.452063, 41.490795 ], [ -8.4613655, 41.4871 ], [ -8.471427, 41.482267 ], [ -8.479598, 41.475166 ], [ -8.462976, 41.4661325 ], [ -8.449503, 41.472909499999979 ], [ -8.4397853, 41.4813258 ] ] ] } }
+]
+}

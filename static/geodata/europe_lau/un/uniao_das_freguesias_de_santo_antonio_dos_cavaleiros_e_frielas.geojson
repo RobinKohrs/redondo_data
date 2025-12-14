@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_santo_antonio_dos_cavaleiros_e_frielas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Santo António dos Cavaleiros e Frielas", "metric_roundness": 35.35, "metric_rectangularity": 50.37, "metric_mobile_fit": 29.6, "metric_aspect_ratio": 1.266, "metric_area_km2": 14.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.1337519, 38.8218751 ], [ -9.1337934, 38.832622099999988 ], [ -9.128832, 38.836508 ], [ -9.1440033, 38.833204 ], [ -9.1479395, 38.835632499999988 ], [ -9.1521109, 38.8314373 ], [ -9.1503805, 38.8267179 ], [ -9.1592828, 38.8207023 ], [ -9.1710803, 38.8211372 ], [ -9.1743555, 38.817992499999988 ], [ -9.188172, 38.815093 ], [ -9.174841, 38.8040495 ], [ -9.170071, 38.8004545 ], [ -9.1691134, 38.8058694 ], [ -9.1645985, 38.8073354 ], [ -9.1586539, 38.806117 ], [ -9.1577826, 38.8006567 ], [ -9.1509, 38.800002 ], [ -9.1337519, 38.8218751 ] ] ] } }
+]
+}

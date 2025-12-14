@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "liebenscheid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Liebenscheid", "metric_roundness": 58.85, "metric_rectangularity": 77.13, "metric_mobile_fit": 28.81, "metric_aspect_ratio": 1.274, "metric_area_km2": 26.25 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.0773118, 50.6863469 ], [ 8.0774781, 50.681298299999973 ], [ 8.087135, 50.6734465 ], [ 8.1007825, 50.6725536 ], [ 8.1125835, 50.675568 ], [ 8.1202545, 50.6776705 ], [ 8.1257765, 50.685814 ], [ 8.1218374, 50.686070199999989 ], [ 8.1100279, 50.6976424 ], [ 8.0983419, 50.7033815 ], [ 8.0777158, 50.705422799999987 ], [ 8.059656, 50.695043499999983 ], [ 8.0651825, 50.686373499999988 ], [ 8.0773118, 50.6863469 ] ] ] } }
+]
+}

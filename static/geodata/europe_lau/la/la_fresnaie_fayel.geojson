@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_fresnaie_fayel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Fresnaie-Fayel", "metric_roundness": 61.35, "metric_rectangularity": 78.13, "metric_mobile_fit": 82.47, "metric_aspect_ratio": 0.738, "metric_area_km2": 11.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.2201591, 48.847203 ], [ 0.2171427, 48.8424753 ], [ 0.2129861, 48.825862599999986 ], [ 0.216518, 48.821431 ], [ 0.233875, 48.8201755 ], [ 0.237826, 48.825154 ], [ 0.2403405, 48.833343499999984 ], [ 0.2443595, 48.8380445 ], [ 0.226963, 48.848166499999984 ], [ 0.2201591, 48.847203 ] ] ] } }
+]
+}

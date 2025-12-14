@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bukovina_nad_labem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bukovina nad Labem", "metric_roundness": 58.51, "metric_rectangularity": 67.35, "metric_mobile_fit": 29.14, "metric_aspect_ratio": 1.271, "metric_area_km2": 11.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.8028625, 50.119459 ], [ 15.8114785, 50.11846 ], [ 15.8155854, 50.1179838 ], [ 15.8189562, 50.1138615 ], [ 15.8363515, 50.115864 ], [ 15.843125, 50.1197358 ], [ 15.846675, 50.121765 ], [ 15.843125, 50.1287478 ], [ 15.8411775, 50.1325785 ], [ 15.8184185, 50.1359595 ], [ 15.8133076, 50.1258775 ], [ 15.8114785, 50.124614 ], [ 15.804524, 50.122356 ], [ 15.8028625, 50.119459 ] ] ] } }
+]
+}

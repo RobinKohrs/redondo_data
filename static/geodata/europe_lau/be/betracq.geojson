@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "betracq",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bétracq", "metric_roundness": 51.07, "metric_rectangularity": 69.7, "metric_mobile_fit": 90.1, "metric_aspect_ratio": 0.662, "metric_area_km2": 8.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0523295, 43.529734 ], [ -0.054306, 43.532972 ], [ -0.056174, 43.533029 ], [ -0.0611273, 43.5345236 ], [ -0.064984, 43.522979 ], [ -0.066429, 43.509441 ], [ -0.0595846, 43.505701 ], [ -0.0489272, 43.508182399999988 ], [ -0.044098, 43.5065825 ], [ -0.0401355, 43.512604499999988 ], [ -0.0434924, 43.5165515 ], [ -0.0437065, 43.522983 ], [ -0.049228, 43.529748 ], [ -0.0523295, 43.529734 ] ] ] } }
+]
+}

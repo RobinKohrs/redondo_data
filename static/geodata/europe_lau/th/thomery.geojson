@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thomery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thomery", "metric_roundness": 38.45, "metric_rectangularity": 45.41, "metric_mobile_fit": 30.26, "metric_aspect_ratio": 1.26, "metric_area_km2": 8.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.7962336, 48.406137099999981 ], [ 2.787829, 48.4141955 ], [ 2.783097, 48.414418 ], [ 2.7693615, 48.411539499999982 ], [ 2.754294, 48.4114985 ], [ 2.7533495, 48.409798 ], [ 2.749144, 48.40734 ], [ 2.7639387, 48.409090599999985 ], [ 2.7741118, 48.406634 ], [ 2.778296, 48.3896045 ], [ 2.789718, 48.391314 ], [ 2.7962336, 48.406137099999981 ] ] ] } }
+]
+}

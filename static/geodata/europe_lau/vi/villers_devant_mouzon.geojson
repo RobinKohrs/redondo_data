@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villers_devant_mouzon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villers-devant-Mouzon", "metric_roundness": 41.6, "metric_rectangularity": 62.21, "metric_mobile_fit": 51.03, "metric_aspect_ratio": 1.052, "metric_area_km2": 9.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.0016563, 49.6164716 ], [ 5.0332105, 49.621762 ], [ 5.0309221, 49.6386129 ], [ 5.0347025, 49.6387305 ], [ 5.0326455, 49.641272399999977 ], [ 5.026939, 49.641069 ], [ 4.9944165, 49.621578499999984 ], [ 4.994784, 49.620672 ], [ 5.0016563, 49.6164716 ] ] ] } }
+]
+}

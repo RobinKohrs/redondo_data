@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "elbingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Elbingen", "metric_roundness": 28.33, "metric_rectangularity": 51.74, "metric_mobile_fit": 18.72, "metric_aspect_ratio": 1.375, "metric_area_km2": 5.62 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.905809, 50.5228775 ], [ 7.928267, 50.527711499999981 ], [ 7.9138555, 50.534805299999988 ], [ 7.906177, 50.534312399999983 ], [ 7.9009555, 50.539595499999976 ], [ 7.901102, 50.537726 ], [ 7.899136, 50.5375105 ], [ 7.8968625, 50.539269 ], [ 7.8928835, 50.5399445 ], [ 7.891978, 50.541490499999988 ], [ 7.887996, 50.540689 ], [ 7.905809, 50.5228775 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "folcarde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Folcarde", "metric_roundness": 27.39, "metric_rectangularity": 70.32, "metric_mobile_fit": 19.54, "metric_aspect_ratio": 1.367, "metric_area_km2": 4.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7942018, 43.4004883 ], [ 1.8103535, 43.396749 ], [ 1.8125839, 43.39794 ], [ 1.8110786, 43.4030022 ], [ 1.8019492, 43.406894899999983 ], [ 1.797264, 43.4070557 ], [ 1.7892441, 43.413951099999984 ], [ 1.7843175, 43.4155265 ], [ 1.780187, 43.4143365 ], [ 1.777248, 43.412299499999989 ], [ 1.7942018, 43.4004883 ] ] ] } }
+]
+}

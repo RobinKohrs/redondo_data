@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vechnov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Věchnov", "metric_roundness": 60.39, "metric_rectangularity": 82.69, "metric_mobile_fit": 62.21, "metric_aspect_ratio": 0.94, "metric_area_km2": 16.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2778224, 49.482569 ], [ 16.300841, 49.48434349999998 ], [ 16.3001565, 49.487612 ], [ 16.2987005, 49.489972499999986 ], [ 16.2980605, 49.493764 ], [ 16.295896, 49.497577 ], [ 16.2951375, 49.507538 ], [ 16.2676408, 49.5089706 ], [ 16.259558, 49.505568499999981 ], [ 16.2646712, 49.4977019 ], [ 16.2650756, 49.4861849 ], [ 16.2684755, 49.481702 ], [ 16.276203, 49.4804575 ], [ 16.2778224, 49.482569 ] ] ] } }
+]
+}

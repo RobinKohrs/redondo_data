@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "willies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Willies", "metric_roundness": 54.64, "metric_rectangularity": 67.96, "metric_mobile_fit": 42.93, "metric_aspect_ratio": 1.133, "metric_area_km2": 9.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.0945073, 50.128311599999989 ], [ 4.0886481, 50.119760599999971 ], [ 4.0889512, 50.1122948 ], [ 4.10263, 50.111453499999989 ], [ 4.1248475, 50.118672 ], [ 4.1175371, 50.122907899999987 ], [ 4.1215235, 50.130011 ], [ 4.1210015, 50.129916 ], [ 4.1090912, 50.1277725 ], [ 4.1053354, 50.1319347 ], [ 4.0937805, 50.131558 ], [ 4.0945073, 50.128311599999989 ] ] ] } }
+]
+}

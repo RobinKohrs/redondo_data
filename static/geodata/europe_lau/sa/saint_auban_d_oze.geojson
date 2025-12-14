@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_auban_d_oze",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Auban-d'Oze", "metric_roundness": 38.64, "metric_rectangularity": 58.77, "metric_mobile_fit": 78.23, "metric_aspect_ratio": 0.78, "metric_area_km2": 26.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.8407, 44.513327 ], [ 5.8327025, 44.512178 ], [ 5.815837, 44.5002438 ], [ 5.816647, 44.4930275 ], [ 5.8539567, 44.482978599999981 ], [ 5.8545346, 44.4807204 ], [ 5.8472615, 44.4757129 ], [ 5.8467854, 44.460202699999989 ], [ 5.8596455, 44.4625051 ], [ 5.873131, 44.4600845 ], [ 5.8758855, 44.4729166 ], [ 5.8661759, 44.4823607 ], [ 5.8701355, 44.49103 ], [ 5.8618199, 44.494282399999989 ], [ 5.843886, 44.51499 ], [ 5.8407, 44.513327 ] ] ] } }
+]
+}

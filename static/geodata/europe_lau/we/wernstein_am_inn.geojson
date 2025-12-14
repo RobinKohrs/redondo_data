@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wernstein_am_inn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wernstein am Inn", "metric_roundness": 51.2, "metric_rectangularity": 54.81, "metric_mobile_fit": 61.05, "metric_aspect_ratio": 0.952, "metric_area_km2": 36.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.4663421, 48.4794559 ], [ 13.4749053, 48.4879433 ], [ 13.4888053, 48.489122699999989 ], [ 13.4985688, 48.4966716 ], [ 13.513869, 48.5030315 ], [ 13.5154475, 48.5061865 ], [ 13.5126246, 48.5101028 ], [ 13.4989153, 48.513368 ], [ 13.4825243, 48.5218257 ], [ 13.4753476, 48.5296935 ], [ 13.4576172, 48.523136 ], [ 13.444932, 48.5280915 ], [ 13.4569676, 48.5116933 ], [ 13.447313, 48.494449 ], [ 13.4432615, 48.4852595 ], [ 13.4663421, 48.4794559 ] ] ] } }
+]
+}

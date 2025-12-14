@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "guitalens_l_albarede",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Guitalens-L'Albarède", "metric_roundness": 52.97, "metric_rectangularity": 71.11, "metric_mobile_fit": 56.5, "metric_aspect_ratio": 0.998, "metric_area_km2": 18.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.016087, 43.6345285 ], [ 2.029061, 43.625815 ], [ 2.0359066, 43.6175255 ], [ 2.0503605, 43.6259966 ], [ 2.0507961, 43.6325984 ], [ 2.0540125, 43.635578 ], [ 2.0613663, 43.6344177 ], [ 2.0689385, 43.637684 ], [ 2.0660715, 43.6412401 ], [ 2.070234, 43.649534599999981 ], [ 2.051059, 43.6568095 ], [ 2.0383726, 43.6452333 ], [ 2.02792, 43.6478385 ], [ 2.016087, 43.6345285 ] ] ] } }
+]
+}

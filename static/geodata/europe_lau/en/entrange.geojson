@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "entrange",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Entrange", "metric_roundness": 64.03, "metric_rectangularity": 75.27, "metric_mobile_fit": 25.85, "metric_aspect_ratio": 1.304, "metric_area_km2": 9.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0966015, 49.420477 ], [ 6.0936145, 49.413771 ], [ 6.0965825, 49.4088475 ], [ 6.1072391, 49.405360099999989 ], [ 6.1282, 49.408705 ], [ 6.1309804, 49.414831199999988 ], [ 6.126522, 49.418324499999983 ], [ 6.1077659, 49.424002299999977 ], [ 6.0955875, 49.422442 ], [ 6.0966015, 49.420477 ] ] ] } }
+]
+}

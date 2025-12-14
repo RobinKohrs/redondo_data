@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "haraucourt_sur_seille",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Haraucourt-sur-Seille", "metric_roundness": 51.81, "metric_rectangularity": 69.46, "metric_mobile_fit": 91.58, "metric_aspect_ratio": 0.647, "metric_area_km2": 18.96 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5997958, 48.825539499999984 ], [ 6.586679, 48.810052 ], [ 6.5889977, 48.805164599999983 ], [ 6.584717, 48.799087 ], [ 6.6025749, 48.791420399999986 ], [ 6.6227225, 48.7907285 ], [ 6.6185025, 48.80403639999998 ], [ 6.6206924, 48.807068199999975 ], [ 6.6178656, 48.8148549 ], [ 6.6199975, 48.824068 ], [ 6.6150695, 48.8294295 ], [ 6.5997958, 48.825539499999984 ] ] ] } }
+]
+}

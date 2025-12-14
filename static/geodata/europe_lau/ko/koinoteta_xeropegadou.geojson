@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_xeropegadou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Ξηροπηγάδου", "metric_roundness": 47.23, "metric_rectangularity": 74.27, "metric_mobile_fit": 87.64, "metric_aspect_ratio": 0.686, "metric_area_km2": 3.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.866524, 38.395624 ], [ 21.8689795, 38.3976225 ], [ 21.8745445, 38.403408 ], [ 21.8719405, 38.4077535 ], [ 21.870319, 38.409074 ], [ 21.8659355, 38.413677 ], [ 21.8559431, 38.4070275 ], [ 21.8567565, 38.403314 ], [ 21.858908, 38.400091499999981 ], [ 21.8622795, 38.394111 ], [ 21.863592, 38.392432 ], [ 21.866524, 38.395624 ] ] ] } }
+]
+}

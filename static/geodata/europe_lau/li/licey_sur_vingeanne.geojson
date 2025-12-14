@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "licey_sur_vingeanne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Licey-sur-Vingeanne", "metric_roundness": 46.09, "metric_rectangularity": 68.57, "metric_mobile_fit": -17.44, "metric_aspect_ratio": 1.737, "metric_area_km2": 6.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.381836, 47.4930831 ], [ 5.3573331, 47.492569599999982 ], [ 5.352152, 47.488688 ], [ 5.3569163, 47.4839431 ], [ 5.365487, 47.4847159 ], [ 5.3791173, 47.4779112 ], [ 5.3872945, 47.481189 ], [ 5.3911475, 47.4881545 ], [ 5.388285, 47.4903445 ], [ 5.381836, 47.4930831 ] ] ] } }
+]
+}

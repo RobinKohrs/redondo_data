@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "izkovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ižkovce", "metric_roundness": 40.37, "metric_rectangularity": 66.73, "metric_mobile_fit": 29.7, "metric_aspect_ratio": 1.265, "metric_area_km2": 10.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9371455, 48.5685675 ], [ 21.9300705, 48.557594 ], [ 21.9525788, 48.5460539 ], [ 21.9670669, 48.5443983 ], [ 21.97628, 48.547469 ], [ 21.9705457, 48.547854099999981 ], [ 21.9683994, 48.552721 ], [ 21.9717004, 48.5553026 ], [ 21.9691085, 48.559406499999987 ], [ 21.9663728, 48.557607 ], [ 21.9593384, 48.562089499999978 ], [ 21.9516812, 48.5601397 ], [ 21.942759, 48.5654095 ], [ 21.9371455, 48.5685675 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carvalhas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carvalhas", "metric_roundness": 37.11, "metric_rectangularity": 50.07, "metric_mobile_fit": 88.41, "metric_aspect_ratio": 0.678, "metric_area_km2": 6.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6019593, 41.4751969 ], [ -8.6108805, 41.472572 ], [ -8.6074175, 41.4723345 ], [ -8.6058835, 41.466867 ], [ -8.601176, 41.46464 ], [ -8.594759, 41.462559 ], [ -8.5928535, 41.461076 ], [ -8.5862585, 41.45772 ], [ -8.5836455, 41.4566025 ], [ -8.5867208, 41.478112899999985 ], [ -8.5910475, 41.486683499999984 ], [ -8.6019593, 41.4751969 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "menneville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Menneville", "metric_roundness": 48.31, "metric_rectangularity": 57.22, "metric_mobile_fit": 76.72, "metric_aspect_ratio": 0.795, "metric_area_km2": 13.08 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.873837, 50.657129499999989 ], [ 1.8725218, 50.662523399999976 ], [ 1.8753345, 50.6650711 ], [ 1.8728744, 50.6766575 ], [ 1.878293, 50.686674 ], [ 1.866538, 50.687482 ], [ 1.839116, 50.67776 ], [ 1.8536434, 50.664143499999987 ], [ 1.8675088, 50.6597179 ], [ 1.870091, 50.656263499999987 ], [ 1.873837, 50.657129499999989 ] ] ] } }
+]
+}

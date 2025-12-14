@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tharaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tharaux", "metric_roundness": 46.49, "metric_rectangularity": 60.85, "metric_mobile_fit": 78.71, "metric_aspect_ratio": 0.775, "metric_area_km2": 18.1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.329639, 44.2241077 ], [ 4.3304258, 44.233876099999982 ], [ 4.3431033, 44.242960399999987 ], [ 4.343782, 44.261036499999989 ], [ 4.340398, 44.2609095 ], [ 4.33522, 44.257847 ], [ 4.3254339, 44.256516399999988 ], [ 4.3205651, 44.2522231 ], [ 4.3053929, 44.2548711 ], [ 4.2996745, 44.243749 ], [ 4.3050949, 44.241321899999988 ], [ 4.3082541, 44.2300287 ], [ 4.3161205, 44.220282 ], [ 4.329639, 44.2241077 ] ] ] } }
+]
+}

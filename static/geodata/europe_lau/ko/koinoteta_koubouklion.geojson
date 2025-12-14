@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_koubouklion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κουβουκλίων", "metric_roundness": 23.99, "metric_rectangularity": 42.44, "metric_mobile_fit": 90.14, "metric_aspect_ratio": 0.464, "metric_area_km2": 10.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.456377, 40.9972214 ], [ 23.4550423, 40.9911889 ], [ 23.46073, 40.983182 ], [ 23.4670635, 40.975417 ], [ 23.473198, 40.962771499999988 ], [ 23.4734645, 40.9843875 ], [ 23.4710931, 40.988583 ], [ 23.4812915, 41.0027999 ], [ 23.479474, 41.010308 ], [ 23.4696985, 41.0134365 ], [ 23.4646017, 41.0063203 ], [ 23.4501515, 41.001121 ], [ 23.456377, 40.9972214 ] ] ] } }
+]
+}

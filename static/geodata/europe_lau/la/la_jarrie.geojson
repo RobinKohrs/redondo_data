@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_jarrie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Jarrie", "metric_roundness": 40.54, "metric_rectangularity": 73.89, "metric_mobile_fit": -29.49, "metric_aspect_ratio": 1.857, "metric_area_km2": 19.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0460355, 46.125165 ], [ -1.023735, 46.1174555 ], [ -1.014555, 46.1134055 ], [ -0.9986847, 46.109153 ], [ -0.9931945, 46.111335499999988 ], [ -0.981442, 46.119291 ], [ -0.977755, 46.1225505 ], [ -0.975478, 46.123428499999989 ], [ -0.9794215, 46.125474 ], [ -0.9948145, 46.130469 ], [ -1.001502, 46.133648 ], [ -1.009349, 46.135483 ], [ -1.044673, 46.13349 ], [ -1.0460355, 46.125165 ] ] ] } }
+]
+}

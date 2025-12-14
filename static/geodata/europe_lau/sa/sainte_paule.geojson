@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sainte_paule",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainte-Paule", "metric_roundness": 27.51, "metric_rectangularity": 59.06, "metric_mobile_fit": 80.33, "metric_aspect_ratio": 0.366, "metric_area_km2": 15.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.5620915, 45.99266 ], [ 4.5619265, 45.994959 ], [ 4.5495555, 45.998803 ], [ 4.5540022, 45.9774738 ], [ 4.549466, 45.969418 ], [ 4.5558366, 45.962208499999981 ], [ 4.5499295, 45.9457375 ], [ 4.5752913, 45.9580719 ], [ 4.5773975, 45.973816 ], [ 4.5652965, 45.988907 ], [ 4.5620915, 45.99266 ] ] ] } }
+]
+}

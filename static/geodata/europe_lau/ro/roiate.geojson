@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "roiate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Roiate", "metric_roundness": 52.05, "metric_rectangularity": 69.24, "metric_mobile_fit": 41.81, "metric_aspect_ratio": 1.144, "metric_area_km2": 18.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.1014875, 41.8604285 ], [ 13.0935115, 41.865886 ], [ 13.0728175, 41.883026799999982 ], [ 13.0556765, 41.8874545 ], [ 13.0463189, 41.8782655 ], [ 13.0475037, 41.864867 ], [ 13.0534295, 41.860651499999989 ], [ 13.0603348, 41.8585675 ], [ 13.0619466, 41.8515557 ], [ 13.071666, 41.8541795 ], [ 13.1014875, 41.8604285 ] ] ] } }
+]
+}

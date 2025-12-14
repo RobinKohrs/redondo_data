@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villabe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villabé", "metric_roundness": 67.49, "metric_rectangularity": 78.52, "metric_mobile_fit": 32.37, "metric_aspect_ratio": 1.239, "metric_area_km2": 10.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4427622, 48.5949678 ], [ 2.4336621, 48.589229499999981 ], [ 2.4393895, 48.5770645 ], [ 2.4423015, 48.5771965 ], [ 2.4538893, 48.5784437 ], [ 2.4611053, 48.57622869999998 ], [ 2.4695675, 48.578551 ], [ 2.4697181, 48.5860974 ], [ 2.4646057, 48.5939566 ], [ 2.45047, 48.595482 ], [ 2.4427622, 48.5949678 ] ] ] } }
+]
+}

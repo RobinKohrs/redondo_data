@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonate_sopra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonate Sopra", "metric_roundness": 50.22, "metric_rectangularity": 67.58, "metric_mobile_fit": 6.09, "metric_aspect_ratio": 1.502, "metric_area_km2": 13.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.5871915, 45.680152 ], [ 9.589395, 45.686999 ], [ 9.5860805, 45.686881 ], [ 9.5619806, 45.6883955 ], [ 9.5541765, 45.694838 ], [ 9.5455835, 45.692914 ], [ 9.5460907, 45.6890298 ], [ 9.539395, 45.6770575 ], [ 9.5428619, 45.671575499999989 ], [ 9.545724, 45.671708 ], [ 9.584176, 45.674301 ], [ 9.5871915, 45.680152 ] ] ] } }
+]
+}

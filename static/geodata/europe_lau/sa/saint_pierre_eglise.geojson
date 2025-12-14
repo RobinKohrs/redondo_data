@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_pierre_eglise",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Pierre-Église", "metric_roundness": 38.53, "metric_rectangularity": 53.02, "metric_mobile_fit": 96.8, "metric_aspect_ratio": 0.595, "metric_area_km2": 19.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.3837938, 49.6909735 ], [ -1.3882757, 49.6952409 ], [ -1.3940671, 49.693392299999978 ], [ -1.3945602, 49.686233899999976 ], [ -1.3991195, 49.6817921 ], [ -1.4240825, 49.669442 ], [ -1.4030831, 49.6514645 ], [ -1.387096, 49.649161 ], [ -1.3874697, 49.655656199999981 ], [ -1.384869, 49.658103499999989 ], [ -1.3894961, 49.662467799999988 ], [ -1.3817505, 49.674589 ], [ -1.3837938, 49.6909735 ] ] ] } }
+]
+}

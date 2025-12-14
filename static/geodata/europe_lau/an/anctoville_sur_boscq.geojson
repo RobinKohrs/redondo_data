@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "anctoville_sur_boscq",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Anctoville-sur-Boscq", "metric_roundness": 54.58, "metric_rectangularity": 81.99, "metric_mobile_fit": -7.02, "metric_aspect_ratio": 1.633, "metric_area_km2": 4.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.51731, 48.850821499999988 ], [ -1.522197, 48.8505275 ], [ -1.5242145, 48.8510825 ], [ -1.5318755, 48.85123 ], [ -1.535266, 48.850085499999985 ], [ -1.5371005, 48.8509165 ], [ -1.5408555, 48.850974 ], [ -1.542072, 48.8464715 ], [ -1.5403095, 48.843305499999985 ], [ -1.539709, 48.839990499999985 ], [ -1.5165757, 48.8418904 ], [ -1.5141865, 48.8500765 ], [ -1.51731, 48.850821499999988 ] ] ] } }
+]
+}

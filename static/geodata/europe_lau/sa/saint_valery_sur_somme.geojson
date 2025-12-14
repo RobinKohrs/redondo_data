@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_valery_sur_somme",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Valery-sur-Somme", "metric_roundness": 49.42, "metric_rectangularity": 64.84, "metric_mobile_fit": 22.5, "metric_aspect_ratio": 1.337, "metric_area_km2": 25.38 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.664245, 50.1779564 ], [ 1.6226037, 50.1910708 ], [ 1.6127743, 50.1917902 ], [ 1.592909, 50.184441 ], [ 1.6007003, 50.1786317 ], [ 1.5946569, 50.170516699999986 ], [ 1.6086287, 50.1642331 ], [ 1.611033, 50.157631 ], [ 1.6372872, 50.165494899999977 ], [ 1.6448485, 50.1705555 ], [ 1.6504486, 50.1752739 ], [ 1.6576605, 50.174989 ], [ 1.664245, 50.1779564 ] ] ] } }
+]
+}

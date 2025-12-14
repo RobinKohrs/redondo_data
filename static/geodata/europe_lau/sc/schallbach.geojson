@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schallbach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schallbach", "metric_roundness": 61.95, "metric_rectangularity": 73.36, "metric_mobile_fit": 62.04, "metric_aspect_ratio": 0.942, "metric_area_km2": 8.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.622319, 47.647822499999982 ], [ 7.6278954, 47.6469566 ], [ 7.638023, 47.651052 ], [ 7.6393806, 47.6568098 ], [ 7.6376, 47.661638799999984 ], [ 7.63799, 47.663632 ], [ 7.6364535, 47.669491 ], [ 7.6278568, 47.668593 ], [ 7.6078625, 47.657034499999988 ], [ 7.6148665, 47.648515499999988 ], [ 7.622319, 47.647822499999982 ] ] ] } }
+]
+}

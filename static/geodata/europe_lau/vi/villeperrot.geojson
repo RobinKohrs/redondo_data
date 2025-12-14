@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villeperrot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villeperrot", "metric_roundness": 48.34, "metric_rectangularity": 65.28, "metric_mobile_fit": 12.56, "metric_aspect_ratio": 1.437, "metric_area_km2": 18.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.242549, 48.250954 ], [ 3.242174, 48.252620499999985 ], [ 3.2406025, 48.255195 ], [ 3.2345335, 48.261716 ], [ 3.234781, 48.264366499999987 ], [ 3.221622, 48.274636499999986 ], [ 3.180281, 48.2552565 ], [ 3.1822755, 48.249533 ], [ 3.2021208, 48.250250099999981 ], [ 3.2137845, 48.2457855 ], [ 3.242549, 48.250954 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cleyrac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cleyrac", "metric_roundness": 58.01, "metric_rectangularity": 74.62, "metric_mobile_fit": 71.57, "metric_aspect_ratio": 0.847, "metric_area_km2": 11.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.047491, 44.732280499999987 ], [ -0.0505685, 44.730459499999981 ], [ -0.055135, 44.725942 ], [ -0.0535088, 44.7150921 ], [ -0.0487183, 44.7086341 ], [ -0.023081, 44.7048225 ], [ -0.0218005, 44.7121475 ], [ -0.0262053, 44.717909299999988 ], [ -0.027066, 44.72689 ], [ -0.0342192, 44.7327935 ], [ -0.045937, 44.731361 ], [ -0.047491, 44.732280499999987 ] ] ] } }
+]
+}

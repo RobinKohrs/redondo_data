@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chaillevette",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chaillevette", "metric_roundness": 53.44, "metric_rectangularity": 69.04, "metric_mobile_fit": 90.68, "metric_aspect_ratio": 0.656, "metric_area_km2": 16.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.071575, 45.710722 ], [ -1.0550805, 45.718665699999988 ], [ -1.051622, 45.733359 ], [ -1.0738815, 45.749210499999982 ], [ -1.084161, 45.7388486 ], [ -1.0847721, 45.7297843 ], [ -1.0884812, 45.724962299999987 ], [ -1.0841024, 45.718645 ], [ -1.0849614, 45.71308579999998 ], [ -1.0796255, 45.709969 ], [ -1.071575, 45.710722 ] ] ] } }
+]
+}

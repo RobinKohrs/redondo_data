@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villeneuve_du_pareage",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villeneuve-du-Paréage", "metric_roundness": 58.03, "metric_rectangularity": 76.74, "metric_mobile_fit": 40.5, "metric_aspect_ratio": 1.157, "metric_area_km2": 22.4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.6221661, 43.163430899999987 ], [ 1.6168096, 43.1589526 ], [ 1.6245724, 43.1458642 ], [ 1.6650459, 43.1430468 ], [ 1.670802, 43.1464035 ], [ 1.6596855, 43.172223599999988 ], [ 1.6239035, 43.177072499999987 ], [ 1.6237155, 43.1724445 ], [ 1.6223325, 43.170134499999989 ], [ 1.6221661, 43.163430899999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borcany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Borčany", "metric_roundness": 36.2, "metric_rectangularity": 56.31, "metric_mobile_fit": 23.37, "metric_aspect_ratio": 1.329, "metric_area_km2": 6.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.226568, 48.656025099999979 ], [ 18.2405385, 48.6529935 ], [ 18.240721, 48.654247 ], [ 18.2310569, 48.663380699999983 ], [ 18.2178057, 48.6709682 ], [ 18.209409, 48.6710675 ], [ 18.2043585, 48.6687065 ], [ 18.2086567, 48.6648035 ], [ 18.213223, 48.653135499999983 ], [ 18.226568, 48.656025099999979 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kallimasias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Καλλιμασιάς", "metric_roundness": 67.65, "metric_rectangularity": 76.0, "metric_mobile_fit": 74.22, "metric_aspect_ratio": 0.82, "metric_area_km2": 11.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.1208535, 38.285514 ], [ 26.1029015, 38.304437 ], [ 26.0914025, 38.3018305 ], [ 26.0896465, 38.3009245 ], [ 26.088332, 38.2996645 ], [ 26.087202, 38.298129 ], [ 26.086116, 38.281099499999989 ], [ 26.0908103, 38.2781376 ], [ 26.091787, 38.2724335 ], [ 26.094387, 38.271808 ], [ 26.1028585, 38.2711965 ], [ 26.1208535, 38.285514 ] ] ] } }
+]
+}

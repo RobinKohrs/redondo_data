@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "valdujo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Valdujo", "metric_roundness": 53.62, "metric_rectangularity": 67.21, "metric_mobile_fit": 80.87, "metric_aspect_ratio": 0.754, "metric_area_km2": 27.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.286619, 40.864360499999982 ], [ -7.3018967, 40.829909799999982 ], [ -7.294796, 40.8107105 ], [ -7.267123, 40.819346 ], [ -7.2745552, 40.8222661 ], [ -7.274744, 40.827108599999981 ], [ -7.2597799, 40.8249951 ], [ -7.2525133, 40.8307163 ], [ -7.2484403, 40.8385412 ], [ -7.252982, 40.847846 ], [ -7.2626171, 40.850913 ], [ -7.2746505, 40.8601095 ], [ -7.286619, 40.864360499999982 ] ] ] } }
+]
+}

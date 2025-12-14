@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "potonske_luky",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Potônske Lúky", "metric_roundness": 34.47, "metric_rectangularity": 67.31, "metric_mobile_fit": 8.25, "metric_aspect_ratio": 1.48, "metric_area_km2": 10.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5687286, 48.0867144 ], [ 17.555928, 48.084806 ], [ 17.574141, 48.074057399999987 ], [ 17.6098918, 48.091853399999984 ], [ 17.6082905, 48.0984146 ], [ 17.5964295, 48.0984045 ], [ 17.5938256, 48.0929838 ], [ 17.590807, 48.097138 ], [ 17.5687286, 48.0867144 ] ] ] } }
+]
+}

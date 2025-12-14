@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "farincourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Farincourt", "metric_roundness": 51.48, "metric_rectangularity": 73.52, "metric_mobile_fit": 97.75, "metric_aspect_ratio": 0.585, "metric_area_km2": 10.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6927025, 47.7052511 ], [ 5.6842035, 47.712278499999989 ], [ 5.6682945, 47.7053085 ], [ 5.6712334, 47.692694499999988 ], [ 5.6676485, 47.685478 ], [ 5.6730283, 47.682177 ], [ 5.6804359, 47.6854439 ], [ 5.6856465, 47.6838806 ], [ 5.6912984, 47.6858778 ], [ 5.6938115, 47.6902175 ], [ 5.6927025, 47.7052511 ] ] ] } }
+]
+}

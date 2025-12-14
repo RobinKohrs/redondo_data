@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lachapelle_sous_aubenas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lachapelle-sous-Aubenas", "metric_roundness": 55.5, "metric_rectangularity": 71.44, "metric_mobile_fit": 55.88, "metric_aspect_ratio": 1.004, "metric_area_km2": 20.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3638712, 44.5473262 ], [ 4.3814265, 44.551069 ], [ 4.3807275, 44.5616165 ], [ 4.3771502, 44.5738238 ], [ 4.3723341, 44.578514899999988 ], [ 4.367566, 44.578009 ], [ 4.3543559, 44.5741004 ], [ 4.3311765, 44.5744555 ], [ 4.3282905, 44.5728885 ], [ 4.356587, 44.540795 ], [ 4.3638712, 44.5473262 ] ] ] } }
+]
+}

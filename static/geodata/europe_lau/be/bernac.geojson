@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bernac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bernac", "metric_roundness": 47.94, "metric_rectangularity": 70.19, "metric_mobile_fit": 95.87, "metric_aspect_ratio": 0.604, "metric_area_km2": 17.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.180719, 46.036093299999983 ], [ 0.1848147, 46.043327 ], [ 0.1872205, 46.0588245 ], [ 0.1826265, 46.0717789 ], [ 0.177759, 46.0757895 ], [ 0.1669943, 46.0691981 ], [ 0.1585736, 46.0522617 ], [ 0.152168, 46.051131 ], [ 0.1509645, 46.047282 ], [ 0.150436, 46.039487 ], [ 0.1719975, 46.033512 ], [ 0.180719, 46.036093299999983 ] ] ] } }
+]
+}

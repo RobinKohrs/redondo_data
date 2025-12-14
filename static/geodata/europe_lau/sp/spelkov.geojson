@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "spelkov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Spělkov", "metric_roundness": 55.73, "metric_rectangularity": 72.27, "metric_mobile_fit": 41.39, "metric_aspect_ratio": 1.149, "metric_area_km2": 5.44 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.1676556, 49.6813521 ], [ 16.151066, 49.678068 ], [ 16.1462837, 49.674626899999986 ], [ 16.1471185, 49.6686995 ], [ 16.157939, 49.665283 ], [ 16.1630715, 49.668431 ], [ 16.1653925, 49.669883499999983 ], [ 16.1678635, 49.671205 ], [ 16.171225, 49.673066 ], [ 16.174801, 49.674471499999989 ], [ 16.1719375, 49.677063 ], [ 16.1748055, 49.67867 ], [ 16.1676556, 49.6813521 ] ] ] } }
+]
+}

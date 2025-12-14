@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "recques_sur_course",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Recques-sur-Course", "metric_roundness": 42.31, "metric_rectangularity": 59.02, "metric_mobile_fit": 56.79, "metric_aspect_ratio": 0.995, "metric_area_km2": 11.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.7960695, 50.5141972 ], [ 1.7969525, 50.5274525 ], [ 1.7923748, 50.531903299999989 ], [ 1.7847419, 50.5278415 ], [ 1.7716555, 50.528391 ], [ 1.7725695, 50.521580199999981 ], [ 1.7600705, 50.515444 ], [ 1.7578445, 50.5137375 ], [ 1.7541705, 50.509045499999985 ], [ 1.7613021, 50.5045541 ], [ 1.7683585, 50.507227499999985 ], [ 1.7777848, 50.512050199999983 ], [ 1.790654, 50.511375 ], [ 1.7960695, 50.5141972 ] ] ] } }
+]
+}

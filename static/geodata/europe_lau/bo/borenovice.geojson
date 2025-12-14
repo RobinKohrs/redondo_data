@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "borenovice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bořenovice", "metric_roundness": 40.5, "metric_rectangularity": 81.76, "metric_mobile_fit": 83.66, "metric_aspect_ratio": 0.726, "metric_area_km2": 4.03 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.5642895, 49.368368 ], [ 17.5555653, 49.3616561 ], [ 17.55413, 49.351934499999984 ], [ 17.5567935, 49.349203 ], [ 17.5761215, 49.364124499999981 ], [ 17.5670085, 49.368935 ], [ 17.5642895, 49.368368 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boock",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boock", "metric_roundness": 54.9, "metric_rectangularity": 82.02, "metric_mobile_fit": 53.44, "metric_aspect_ratio": 1.028, "metric_area_km2": 36.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.2209617, 53.4822002 ], [ 14.2261432, 53.4749469 ], [ 14.2319093, 53.4724072 ], [ 14.255898, 53.473237 ], [ 14.2702905, 53.491077 ], [ 14.2781795, 53.4963476 ], [ 14.2835189, 53.5054666 ], [ 14.2812685, 53.5081925 ], [ 14.2461521, 53.5138826 ], [ 14.2357032, 53.5066428 ], [ 14.2310248, 53.4988097 ], [ 14.220782, 53.4925149 ], [ 14.2118455, 53.481704 ], [ 14.2209617, 53.4822002 ] ] ] } }
+]
+}

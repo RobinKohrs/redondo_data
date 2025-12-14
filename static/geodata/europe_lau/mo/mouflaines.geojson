@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mouflaines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mouflaines", "metric_roundness": 61.59, "metric_rectangularity": 74.27, "metric_mobile_fit": 43.29, "metric_aspect_ratio": 1.13, "metric_area_km2": 9.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5602478, 49.234282 ], [ 1.5631011, 49.239227399999983 ], [ 1.569026, 49.2379556 ], [ 1.5747775, 49.242019 ], [ 1.5699142, 49.243152 ], [ 1.5656487, 49.2483297 ], [ 1.566076, 49.253967 ], [ 1.5601805, 49.256391 ], [ 1.536523, 49.246936 ], [ 1.542823, 49.2408608 ], [ 1.5435105, 49.235248 ], [ 1.5602478, 49.234282 ] ] ] } }
+]
+}

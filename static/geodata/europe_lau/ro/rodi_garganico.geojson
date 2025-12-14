@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rodi_garganico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rodi Garganico", "metric_roundness": 18.36, "metric_rectangularity": 64.53, "metric_mobile_fit": -179.67, "metric_aspect_ratio": 3.359, "metric_area_km2": 23.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.843125, 41.9249406 ], [ 15.8193155, 41.9224205 ], [ 15.8240277, 41.9177644 ], [ 15.843125, 41.916254099999989 ], [ 15.8568205, 41.915171 ], [ 15.8694462, 41.9092123 ], [ 15.8779045, 41.9131375 ], [ 15.9180865, 41.913514 ], [ 15.9176338, 41.9173974 ], [ 15.933519, 41.9345085 ], [ 15.843125, 41.9249406 ] ] ] } }
+]
+}

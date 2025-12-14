@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nanteuil_sur_aisne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nanteuil-sur-Aisne", "metric_roundness": 64.49, "metric_rectangularity": 78.81, "metric_mobile_fit": 72.51, "metric_aspect_ratio": 0.837, "metric_area_km2": 19.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.3135044, 49.51498 ], [ 4.289026, 49.518962 ], [ 4.2774753, 49.5098261 ], [ 4.27483, 49.497072499999987 ], [ 4.277041, 49.495745 ], [ 4.279056, 49.492523 ], [ 4.28107, 49.492895 ], [ 4.2855135, 49.4900285 ], [ 4.2888105, 49.491143 ], [ 4.2930175, 49.487517 ], [ 4.2937845, 49.484495 ], [ 4.299699, 49.483715499999988 ], [ 4.320277, 49.507971 ], [ 4.3135044, 49.51498 ] ] ] } }
+]
+}

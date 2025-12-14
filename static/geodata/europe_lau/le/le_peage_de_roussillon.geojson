@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "le_peage_de_roussillon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Le Péage-de-Roussillon", "metric_roundness": 38.74, "metric_rectangularity": 56.86, "metric_mobile_fit": 60.04, "metric_aspect_ratio": 0.962, "metric_area_km2": 14.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.778903, 45.353178 ], [ 4.786977, 45.3561045 ], [ 4.7935884, 45.359040299999982 ], [ 4.7997787, 45.369471 ], [ 4.8053691, 45.37095739999998 ], [ 4.8043482, 45.377023799999982 ], [ 4.8083056, 45.389009699999988 ], [ 4.805215, 45.3913715 ], [ 4.7851606, 45.3733684 ], [ 4.757018, 45.3714575 ], [ 4.7559995, 45.365675 ], [ 4.767086, 45.357612499999981 ], [ 4.7732445, 45.354198 ], [ 4.778903, 45.353178 ] ] ] } }
+]
+}

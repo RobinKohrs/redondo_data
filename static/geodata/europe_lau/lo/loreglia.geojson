@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "loreglia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Loreglia", "metric_roundness": 37.26, "metric_rectangularity": 63.11, "metric_mobile_fit": 99.25, "metric_aspect_ratio": 0.57, "metric_area_km2": 18.93 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.3751125, 45.8985805 ], [ 8.3797038, 45.903968899999988 ], [ 8.3767362, 45.913414899999985 ], [ 8.382602, 45.915926 ], [ 8.3870186, 45.9244412 ], [ 8.3857035, 45.932688 ], [ 8.348685, 45.9453665 ], [ 8.3524256, 45.93448 ], [ 8.3515396, 45.928854799999989 ], [ 8.356704, 45.919408699999984 ], [ 8.3555855, 45.9047205 ], [ 8.3751125, 45.8985805 ] ] ] } }
+]
+}

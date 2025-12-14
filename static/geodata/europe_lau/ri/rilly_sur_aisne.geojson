@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rilly_sur_aisne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rilly-sur-Aisne", "metric_roundness": 46.15, "metric_rectangularity": 60.72, "metric_mobile_fit": 3.59, "metric_aspect_ratio": 1.527, "metric_area_km2": 7.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6536074, 49.487057699999987 ], [ 4.6457945, 49.491404 ], [ 4.6252871, 49.490415199999987 ], [ 4.615113, 49.4789665 ], [ 4.6310491, 49.480348099999979 ], [ 4.636793, 49.4746635 ], [ 4.6389455, 49.47624 ], [ 4.644887, 49.477699 ], [ 4.651191, 49.482611 ], [ 4.65445, 49.482997 ], [ 4.6536074, 49.487057699999987 ] ] ] } }
+]
+}

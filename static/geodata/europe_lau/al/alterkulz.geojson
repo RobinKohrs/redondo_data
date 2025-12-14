@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alterkulz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alterkülz", "metric_roundness": 44.28, "metric_rectangularity": 60.88, "metric_mobile_fit": 23.62, "metric_aspect_ratio": 1.326, "metric_area_km2": 18.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.4840177, 50.0362747 ], [ 7.4854855, 50.045698499999979 ], [ 7.4779791, 50.042437899999989 ], [ 7.4591005, 50.042189 ], [ 7.4476736, 50.0334222 ], [ 7.4359623, 50.0301563 ], [ 7.4309925, 50.0224 ], [ 7.437242, 50.0184795 ], [ 7.4453161, 50.022775099999976 ], [ 7.4582102, 50.023235 ], [ 7.468906, 50.0172455 ], [ 7.4850214, 50.021175799999988 ], [ 7.488887, 50.03202 ], [ 7.48974, 50.0339965 ], [ 7.4840177, 50.0362747 ] ] ] } }
+]
+}

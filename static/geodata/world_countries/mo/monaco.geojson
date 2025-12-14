@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "monaco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Monaco", "metric_roundness": 22.09, "metric_rectangularity": 55.68, "metric_mobile_fit": 76.52, "metric_aspect_ratio": 0.797, "metric_area_km2": 3.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.412828, 43.7317125 ], [ 7.410283, 43.7293497 ], [ 7.415697, 43.7259105 ], [ 7.4194562, 43.725383099999988 ], [ 7.4267481, 43.730873299999985 ], [ 7.4230647, 43.735892599999985 ], [ 7.4295451, 43.7383461 ], [ 7.4327995, 43.744924499999989 ], [ 7.439249, 43.749019499999989 ], [ 7.437358, 43.751632499999985 ], [ 7.413383, 43.734577 ], [ 7.412828, 43.7317125 ] ] ] } }
+]
+}

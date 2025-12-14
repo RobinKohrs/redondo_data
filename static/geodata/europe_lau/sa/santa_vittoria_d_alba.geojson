@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "santa_vittoria_d_alba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Santa Vittoria d'Alba", "metric_roundness": 44.76, "metric_rectangularity": 78.73, "metric_mobile_fit": -21.25, "metric_aspect_ratio": 1.775, "metric_area_km2": 19.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.9041149, 44.702019 ], [ 7.9104161, 44.6976851 ], [ 7.910741, 44.694385 ], [ 7.914883, 44.68565 ], [ 7.9251505, 44.689394599999986 ], [ 7.9368805, 44.687833 ], [ 7.969138, 44.690604499999985 ], [ 7.9608196, 44.709082699999989 ], [ 7.9539736, 44.7116894 ], [ 7.935661, 44.7109259 ], [ 7.9108475, 44.7035787 ], [ 7.9049415, 44.705572 ], [ 7.9041149, 44.702019 ] ] ] } }
+]
+}

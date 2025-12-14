@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zemplinske_hradiste",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Zemplínske Hradište", "metric_roundness": 42.22, "metric_rectangularity": 76.55, "metric_mobile_fit": -50.81, "metric_aspect_ratio": 2.071, "metric_area_km2": 45.04 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.768851, 48.5620096 ], [ 21.7786268, 48.5637666 ], [ 21.7880747, 48.5697354 ], [ 21.801661, 48.5682085 ], [ 21.7979355, 48.594645499999984 ], [ 21.7305195, 48.591596899999978 ], [ 21.7049076, 48.585992399999988 ], [ 21.699521, 48.581656 ], [ 21.701443, 48.5699815 ], [ 21.7309613, 48.5733104 ], [ 21.7362742, 48.5700465 ], [ 21.739078, 48.5640315 ], [ 21.746289, 48.564506499999986 ], [ 21.768851, 48.5620096 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "courtempierre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Courtempierre", "metric_roundness": 35.35, "metric_rectangularity": 62.24, "metric_mobile_fit": 76.28, "metric_aspect_ratio": 0.8, "metric_area_km2": 29.99 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.605644, 48.078873 ], [ 2.6241555, 48.065431 ], [ 2.626449, 48.067673499999977 ], [ 2.645557, 48.0888465 ], [ 2.6495375, 48.0923885 ], [ 2.6517035, 48.09535 ], [ 2.6629025, 48.104806 ], [ 2.6717717, 48.113236099999988 ], [ 2.667567, 48.120664 ], [ 2.664747, 48.120537 ], [ 2.6521936, 48.1138076 ], [ 2.6159713, 48.1076696 ], [ 2.6123675, 48.1026441 ], [ 2.611237, 48.083447 ], [ 2.605644, 48.078873 ] ] ] } }
+]
+}

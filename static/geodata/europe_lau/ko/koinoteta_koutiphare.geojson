@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_koutiphare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κουτίφαρη", "metric_roundness": 35.48, "metric_rectangularity": 71.77, "metric_mobile_fit": 60.11, "metric_aspect_ratio": 0.961, "metric_area_km2": 6.26 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.8264066, 37.1205807 ], [ 21.8179325, 37.118196 ], [ 21.8234414, 37.1145852 ], [ 21.8351369, 37.0956245 ], [ 21.8447584, 37.0935882 ], [ 21.8504735, 37.0962755 ], [ 21.846575, 37.1001078 ], [ 21.8458248, 37.1083721 ], [ 21.8380902, 37.1165867 ], [ 21.83198, 37.1183525 ], [ 21.8264066, 37.1205807 ] ] ] } }
+]
+}

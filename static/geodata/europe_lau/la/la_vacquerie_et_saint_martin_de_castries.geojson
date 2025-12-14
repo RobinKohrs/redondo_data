@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_vacquerie_et_saint_martin_de_castries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Vacquerie-et-Saint-Martin-de-Castries", "metric_roundness": 45.71, "metric_rectangularity": 66.84, "metric_mobile_fit": 76.08, "metric_aspect_ratio": 0.802, "metric_area_km2": 82.91 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.4510558, 43.8020322 ], [ 3.4447586, 43.7948066 ], [ 3.442442, 43.7773845 ], [ 3.484986, 43.7562891 ], [ 3.488646, 43.7488185 ], [ 3.4947965, 43.748807 ], [ 3.5335915, 43.7881465 ], [ 3.5112592, 43.813072 ], [ 3.5039628, 43.8128988 ], [ 3.4404575, 43.839229 ], [ 3.440402, 43.8298692 ], [ 3.4331592, 43.828391499999988 ], [ 3.4340525, 43.822051 ], [ 3.4510558, 43.8020322 ] ] ] } }
+]
+}

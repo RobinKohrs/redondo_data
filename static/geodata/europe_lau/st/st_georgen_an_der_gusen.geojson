@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "st_georgen_an_der_gusen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "St. Georgen an der Gusen", "metric_roundness": 33.64, "metric_rectangularity": 59.74, "metric_mobile_fit": 87.47, "metric_aspect_ratio": 0.688, "metric_area_km2": 16.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.4816445, 48.302278499999986 ], [ 14.4428185, 48.295969499999984 ], [ 14.4382811, 48.2876779 ], [ 14.4381641, 48.271920099999988 ], [ 14.4463026, 48.26506939999998 ], [ 14.4465132, 48.2615675 ], [ 14.4506105, 48.260208 ], [ 14.4545329, 48.2633015 ], [ 14.4600642, 48.2756025 ], [ 14.4581137, 48.280092599999982 ], [ 14.460541, 48.2814565 ], [ 14.4689225, 48.28691 ], [ 14.4816445, 48.302278499999986 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mehna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mehna", "metric_roundness": 55.99, "metric_rectangularity": 72.71, "metric_mobile_fit": 24.23, "metric_aspect_ratio": 1.32, "metric_area_km2": 10.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.302369, 50.955214 ], [ 12.3248285, 50.959625499999987 ], [ 12.3311651, 50.9628725 ], [ 12.3200638, 50.974718199999984 ], [ 12.3093875, 50.972571199999983 ], [ 12.2989362, 50.975869 ], [ 12.2940253, 50.9696781 ], [ 12.2878655, 50.967867 ], [ 12.302369, 50.955214 ] ] ] } }
+]
+}

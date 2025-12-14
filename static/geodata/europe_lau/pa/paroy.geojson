@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "paroy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Paroy", "metric_roundness": 45.08, "metric_rectangularity": 71.71, "metric_mobile_fit": 84.84, "metric_aspect_ratio": 0.714, "metric_area_km2": 9.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.869781, 47.047107 ], [ 5.8706556, 47.037951499999984 ], [ 5.884234, 47.019601 ], [ 5.900611, 47.029270499999988 ], [ 5.8898126, 47.0391988 ], [ 5.8902795, 47.046295 ], [ 5.882246, 47.048343499999987 ], [ 5.8744435, 47.0488995 ], [ 5.8726165, 47.048146 ], [ 5.869714, 47.04909 ], [ 5.869781, 47.047107 ] ] ] } }
+]
+}

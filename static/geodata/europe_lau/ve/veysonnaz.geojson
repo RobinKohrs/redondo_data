@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "veysonnaz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Veysonnaz", "metric_roundness": 47.92, "metric_rectangularity": 61.72, "metric_mobile_fit": 60.6, "metric_aspect_ratio": 0.956, "metric_area_km2": 2.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.345105, 46.1962035 ], [ 7.341838, 46.2048455 ], [ 7.334808, 46.2020955 ], [ 7.336405, 46.200135499999988 ], [ 7.3306455, 46.1974765 ], [ 7.3295155, 46.1926 ], [ 7.338066, 46.191798499999983 ], [ 7.3401355, 46.1933745 ], [ 7.347545, 46.1933985 ], [ 7.345105, 46.1962035 ] ] ] } }
+]
+}

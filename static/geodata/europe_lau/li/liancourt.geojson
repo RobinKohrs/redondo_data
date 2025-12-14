@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "liancourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Liancourt", "metric_roundness": 41.94, "metric_rectangularity": 64.61, "metric_mobile_fit": 60.49, "metric_aspect_ratio": 0.958, "metric_area_km2": 10.95 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4608063, 49.335071199999987 ], [ 2.4497695, 49.335494 ], [ 2.445573, 49.333791 ], [ 2.4448125, 49.331500499999983 ], [ 2.4487825, 49.3240765 ], [ 2.4522095, 49.320345499999981 ], [ 2.455154, 49.315527 ], [ 2.4577105, 49.316243 ], [ 2.4718706, 49.3242687 ], [ 2.4765015, 49.322969 ], [ 2.4849475, 49.3398215 ], [ 2.4861905, 49.342111 ], [ 2.4837205, 49.3436865 ], [ 2.4608063, 49.335071199999987 ] ] ] } }
+]
+}

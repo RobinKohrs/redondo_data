@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "frucht",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frücht", "metric_roundness": 28.35, "metric_rectangularity": 69.32, "metric_mobile_fit": -95.49, "metric_aspect_ratio": 2.517, "metric_area_km2": 13.79 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.7029894, 50.3191196 ], [ 7.6808753, 50.32267419999998 ], [ 7.6755215, 50.320778 ], [ 7.6685399, 50.3214887 ], [ 7.6591506, 50.317762299999977 ], [ 7.652606, 50.309947 ], [ 7.677015, 50.307529699999989 ], [ 7.6982845, 50.3095449 ], [ 7.7180397, 50.3154456 ], [ 7.7206655, 50.322195 ], [ 7.7123265, 50.324793 ], [ 7.7029894, 50.3191196 ] ] ] } }
+]
+}

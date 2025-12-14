@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rakos_okres_kosice_okolie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rákoš (okres Košice - okolie)", "metric_roundness": 60.13, "metric_rectangularity": 69.58, "metric_mobile_fit": 73.63, "metric_aspect_ratio": 0.826, "metric_area_km2": 23.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.446719, 48.659355 ], [ 21.4302465, 48.659127 ], [ 21.4288971, 48.654096499999987 ], [ 21.4187876, 48.6522066 ], [ 21.4124764, 48.644911399999984 ], [ 21.405462, 48.642955 ], [ 21.411292, 48.635153 ], [ 21.4239336, 48.6210029 ], [ 21.4366105, 48.6183355 ], [ 21.4458205, 48.631009 ], [ 21.4459338, 48.6351131 ], [ 21.4567473, 48.6460714 ], [ 21.4563815, 48.6531265 ], [ 21.446719, 48.659355 ] ] ] } }
+]
+}

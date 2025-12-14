@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "piringsdorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Piringsdorf", "metric_roundness": 52.61, "metric_rectangularity": 70.49, "metric_mobile_fit": 62.65, "metric_aspect_ratio": 0.936, "metric_area_km2": 33.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.4089515, 47.477970099999986 ], [ 16.3938991, 47.478491 ], [ 16.393428, 47.46557 ], [ 16.393869, 47.438142499999984 ], [ 16.4204507, 47.4341674 ], [ 16.4236863, 47.4377719 ], [ 16.432767, 47.436968 ], [ 16.4285951, 47.442675 ], [ 16.4283335, 47.4492497 ], [ 16.4445094, 47.458946799999985 ], [ 16.4547839, 47.4737912 ], [ 16.4324261, 47.4740645 ], [ 16.4118795, 47.477954 ], [ 16.4089515, 47.477970099999986 ] ] ] } }
+]
+}

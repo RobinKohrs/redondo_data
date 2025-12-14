@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thaleischweiler_froschen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thaleischweiler-Fröschen", "metric_roundness": 49.37, "metric_rectangularity": 59.57, "metric_mobile_fit": 27.86, "metric_aspect_ratio": 1.284, "metric_area_km2": 30.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5936818, 49.247257399999988 ], [ 7.603481, 49.253136 ], [ 7.6072115, 49.2544475 ], [ 7.6054731, 49.2610782 ], [ 7.6090595, 49.266166 ], [ 7.5847894, 49.2819279 ], [ 7.5766474, 49.2819951 ], [ 7.569213, 49.277471 ], [ 7.554843, 49.273619499999981 ], [ 7.5462565, 49.2633356 ], [ 7.5501874, 49.257130399999987 ], [ 7.533943, 49.250105 ], [ 7.5680876, 49.253663499999981 ], [ 7.5766815, 49.243813 ], [ 7.5936818, 49.247257399999988 ] ] ] } }
+]
+}

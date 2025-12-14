@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wehingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wehingen", "metric_roundness": 58.18, "metric_rectangularity": 78.2, "metric_mobile_fit": 52.48, "metric_aspect_ratio": 1.038, "metric_area_km2": 32.71 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.83163, 48.151191899999986 ], [ 8.8319527, 48.164858399999986 ], [ 8.827896, 48.171065 ], [ 8.817753, 48.1716194 ], [ 8.8117965, 48.163738199999983 ], [ 8.7853332, 48.157864799999984 ], [ 8.772065, 48.150859499999974 ], [ 8.7711745, 48.141792699999989 ], [ 8.7923295, 48.1264485 ], [ 8.8184575, 48.1345485 ], [ 8.8414295, 48.15004 ], [ 8.83163, 48.151191899999986 ] ] ] } }
+]
+}

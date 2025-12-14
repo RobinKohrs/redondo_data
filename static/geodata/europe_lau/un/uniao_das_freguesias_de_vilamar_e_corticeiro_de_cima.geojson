@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_vilamar_e_corticeiro_de_cima",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Vilamar e Corticeiro de Cima", "metric_roundness": 52.14, "metric_rectangularity": 75.17, "metric_mobile_fit": 74.9, "metric_aspect_ratio": 0.813, "metric_area_km2": 19.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.6872375, 40.407922 ], [ -8.681638, 40.405285 ], [ -8.679426, 40.404108 ], [ -8.6634355, 40.3964955 ], [ -8.6540957, 40.399775699999985 ], [ -8.645386, 40.4169373 ], [ -8.6478075, 40.424075 ], [ -8.6867195, 40.4403365 ], [ -8.6825348, 40.4252766 ], [ -8.6922285, 40.4247955 ], [ -8.6872375, 40.407922 ] ] ] } }
+]
+}

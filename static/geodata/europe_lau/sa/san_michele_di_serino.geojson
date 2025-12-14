@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "san_michele_di_serino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "San Michele di Serino", "metric_roundness": 51.25, "metric_rectangularity": 59.74, "metric_mobile_fit": 42.15, "metric_aspect_ratio": 1.141, "metric_area_km2": 7.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.833405, 40.885963 ], [ 14.8262254, 40.87278 ], [ 14.8262035, 40.866415499999981 ], [ 14.8307586, 40.87146259999998 ], [ 14.848936, 40.8680734 ], [ 14.8604285, 40.871540499999981 ], [ 14.8603495, 40.8752445 ], [ 14.8463491, 40.884830699999988 ], [ 14.844733, 40.889096 ], [ 14.833405, 40.885963 ] ] ] } }
+]
+}

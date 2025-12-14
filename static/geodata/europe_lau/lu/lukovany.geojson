@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lukovany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lukovany", "metric_roundness": 40.51, "metric_rectangularity": 64.44, "metric_mobile_fit": 19.86, "metric_aspect_ratio": 1.364, "metric_area_km2": 21.02 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.26318, 49.1716677 ], [ 16.283994, 49.152356 ], [ 16.2923945, 49.1523015 ], [ 16.2984775, 49.1502785 ], [ 16.3018723, 49.1527523 ], [ 16.3177419, 49.150557399999983 ], [ 16.3222905, 49.1628485 ], [ 16.3025495, 49.1767645 ], [ 16.2793261, 49.175271099999989 ], [ 16.2699855, 49.177526 ], [ 16.260268, 49.180013 ], [ 16.260614, 49.177486499999986 ], [ 16.26318, 49.1716677 ] ] ] } }
+]
+}

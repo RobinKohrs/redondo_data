@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lafauche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lafauche", "metric_roundness": 43.47, "metric_rectangularity": 68.92, "metric_mobile_fit": 46.16, "metric_aspect_ratio": 1.101, "metric_area_km2": 11.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.50062, 48.3170755 ], [ 5.4734833, 48.3125728 ], [ 5.469049, 48.311837 ], [ 5.4722963, 48.3037042 ], [ 5.4874001, 48.3020372 ], [ 5.4903282, 48.296373899999985 ], [ 5.4980685, 48.291394200000013 ], [ 5.5115545, 48.292692 ], [ 5.50062, 48.3170755 ] ] ] } }
+]
+}

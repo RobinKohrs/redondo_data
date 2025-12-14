@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bonboillon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bonboillon", "metric_roundness": 69.96, "metric_rectangularity": 81.4, "metric_mobile_fit": 60.1, "metric_aspect_ratio": 0.962, "metric_area_km2": 9.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.6768075, 47.342886 ], [ 5.6839737, 47.3350206 ], [ 5.6989745, 47.3288735 ], [ 5.705442, 47.332736499999982 ], [ 5.712578, 47.339480099999975 ], [ 5.707165, 47.3506035 ], [ 5.6989715, 47.354082499999983 ], [ 5.6768075, 47.342886 ] ] ] } }
+]
+}

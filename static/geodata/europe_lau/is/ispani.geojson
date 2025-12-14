@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ispani",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ispani", "metric_roundness": 57.9, "metric_rectangularity": 73.71, "metric_mobile_fit": 46.81, "metric_aspect_ratio": 1.094, "metric_area_km2": 13.8 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.5439579, 40.096494 ], [ 15.5328762, 40.0855755 ], [ 15.532799, 40.0737795 ], [ 15.575355, 40.077991 ], [ 15.5707466, 40.0947013 ], [ 15.5589285, 40.103528499999989 ], [ 15.5439579, 40.096494 ] ] ] } }
+]
+}

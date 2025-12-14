@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "seranville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Seranville", "metric_roundness": 55.86, "metric_rectangularity": 63.66, "metric_mobile_fit": 52.26, "metric_aspect_ratio": 1.04, "metric_area_km2": 12.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.531559, 48.4679005 ], [ 6.5137288, 48.474434399999986 ], [ 6.4975325, 48.456756 ], [ 6.4937275, 48.453449 ], [ 6.5017469, 48.4484412 ], [ 6.508085, 48.450359 ], [ 6.5265402, 48.4510249 ], [ 6.5344905, 48.448702499999989 ], [ 6.531559, 48.4679005 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soual",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soual", "metric_roundness": 63.5, "metric_rectangularity": 73.8, "metric_mobile_fit": 58.52, "metric_aspect_ratio": 0.977, "metric_area_km2": 26.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.1485439, 43.537523 ], [ 2.1532282, 43.5397065 ], [ 2.1540096, 43.5494565 ], [ 2.1466145, 43.569657 ], [ 2.12242, 43.567364 ], [ 2.1167342, 43.562712799999986 ], [ 2.0999685, 43.5629791 ], [ 2.0979818, 43.559284899999987 ], [ 2.099904, 43.5483715 ], [ 2.1127641, 43.5445208 ], [ 2.1186305, 43.535664 ], [ 2.131707, 43.5281035 ], [ 2.1436185, 43.5339315 ], [ 2.151119, 43.5339305 ], [ 2.1485439, 43.537523 ] ] ] } }
+]
+}

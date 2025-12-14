@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "othmarsingen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Othmarsingen", "metric_roundness": 68.15, "metric_rectangularity": 71.62, "metric_mobile_fit": 47.54, "metric_aspect_ratio": 1.087, "metric_area_km2": 10.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2345355, 47.3998365 ], [ 8.233551, 47.402245 ], [ 8.215969, 47.412105499999981 ], [ 8.2161355, 47.414443 ], [ 8.2101755, 47.414645 ], [ 8.2023955, 47.4099025 ], [ 8.2001205, 47.403711 ], [ 8.1994325, 47.3972575 ], [ 8.1977165, 47.39583 ], [ 8.199724, 47.393559 ], [ 8.2200791, 47.3917216 ], [ 8.2271575, 47.393636 ], [ 8.2329745, 47.39732 ], [ 8.2345355, 47.3998365 ] ] ] } }
+]
+}

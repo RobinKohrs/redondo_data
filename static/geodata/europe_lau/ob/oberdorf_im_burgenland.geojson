@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oberdorf_im_burgenland",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oberdorf im Burgenland", "metric_roundness": 47.26, "metric_rectangularity": 65.15, "metric_mobile_fit": -9.0, "metric_aspect_ratio": 1.653, "metric_area_km2": 20.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.2326153, 47.2339608 ], [ 16.2204805, 47.239996 ], [ 16.1946849, 47.233823499999986 ], [ 16.184892, 47.234542 ], [ 16.1933106, 47.2280361 ], [ 16.1937225, 47.213209 ], [ 16.227495, 47.212857499999984 ], [ 16.2284363, 47.2178698 ], [ 16.2357635, 47.2179825 ], [ 16.2502617, 47.225791 ], [ 16.250931, 47.2304095 ], [ 16.2326153, 47.2339608 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "frucourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Frucourt", "metric_roundness": 56.34, "metric_rectangularity": 67.71, "metric_mobile_fit": 18.73, "metric_aspect_ratio": 1.375, "metric_area_km2": 11.83 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.8096872, 50.0088296 ], [ 1.8010938, 50.007444199999988 ], [ 1.7916425, 50.000632499999988 ], [ 1.7897971, 49.993511199999986 ], [ 1.7973325, 49.991563299999989 ], [ 1.7978095, 49.987411499999986 ], [ 1.8124391, 49.9912854 ], [ 1.8287155, 49.9913575 ], [ 1.8356195, 49.9984669 ], [ 1.828774, 50.002984 ], [ 1.8096872, 50.0088296 ] ] ] } }
+]
+}

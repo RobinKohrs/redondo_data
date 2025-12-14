@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "thonne_la_long",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thonne-la-Long", "metric_roundness": 45.94, "metric_rectangularity": 53.95, "metric_mobile_fit": 64.55, "metric_aspect_ratio": 0.917, "metric_area_km2": 23.36 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.398833, 49.5513395 ], [ 5.441328, 49.552166 ], [ 5.4470734, 49.5547158 ], [ 5.456758, 49.566677 ], [ 5.4380019, 49.570587399999987 ], [ 5.4295845, 49.587504199999984 ], [ 5.430942, 49.592407 ], [ 5.425755, 49.58987 ], [ 5.4227355, 49.587026 ], [ 5.416303, 49.584897499999983 ], [ 5.412023, 49.581771 ], [ 5.407199, 49.561613 ], [ 5.3986835, 49.5555315 ], [ 5.398833, 49.5513395 ] ] ] } }
+]
+}

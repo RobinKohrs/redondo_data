@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "linexert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Linexert", "metric_roundness": 30.03, "metric_rectangularity": 68.68, "metric_mobile_fit": 15.75, "metric_aspect_ratio": 1.405, "metric_area_km2": 4.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5024572, 47.734871699999985 ], [ 6.5062655, 47.7380985 ], [ 6.4919743, 47.740281299999978 ], [ 6.4856693, 47.748401199999989 ], [ 6.4767362, 47.752079099999982 ], [ 6.4738675, 47.751502 ], [ 6.4703131, 47.748400399999987 ], [ 6.470825, 47.743904399999977 ], [ 6.4870845, 47.7369825 ], [ 6.5024572, 47.734871699999985 ] ] ] } }
+]
+}

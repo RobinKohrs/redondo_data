@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tregomeur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Trégomeur", "metric_roundness": 48.92, "metric_rectangularity": 68.74, "metric_mobile_fit": 92.12, "metric_aspect_ratio": 0.641, "metric_area_km2": 24.64 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.902239, 48.575789099999987 ], [ -2.9072467, 48.558557199999981 ], [ -2.9023909, 48.554934 ], [ -2.89001, 48.554007399999989 ], [ -2.8860069, 48.5445496 ], [ -2.8776355, 48.545533499999983 ], [ -2.8653173, 48.560073599999988 ], [ -2.8636936, 48.585650699999988 ], [ -2.8634325, 48.589763 ], [ -2.896732, 48.5820605 ], [ -2.902239, 48.575789099999987 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "plav",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plav", "metric_roundness": 46.57, "metric_rectangularity": 59.52, "metric_mobile_fit": 38.36, "metric_aspect_ratio": 1.179, "metric_area_km2": 12.16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.494687, 48.9194185 ], [ 14.4817345, 48.916461 ], [ 14.474532, 48.91792 ], [ 14.4661071, 48.912840399999986 ], [ 14.4600236, 48.913638799999987 ], [ 14.4553928, 48.9186761 ], [ 14.4512605, 48.914657 ], [ 14.4620663, 48.9094127 ], [ 14.4643465, 48.9013405 ], [ 14.477391, 48.897434 ], [ 14.4909407, 48.8946592 ], [ 14.4956695, 48.903488 ], [ 14.494687, 48.9194185 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "legny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Légny", "metric_roundness": 51.73, "metric_rectangularity": 75.78, "metric_mobile_fit": 21.03, "metric_aspect_ratio": 1.352, "metric_area_km2": 7.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.592177, 45.9031825 ], [ 4.5908045, 45.9135379 ], [ 4.5758482, 45.9093481 ], [ 4.5614375, 45.909779 ], [ 4.5569042, 45.906735899999987 ], [ 4.5579105, 45.9006685 ], [ 4.5627957, 45.895539 ], [ 4.5702685, 45.8953865 ], [ 4.592177, 45.9031825 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mulhausen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mulhausen", "metric_roundness": 44.5, "metric_rectangularity": 64.02, "metric_mobile_fit": 29.63, "metric_aspect_ratio": 1.266, "metric_area_km2": 8.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5538594, 48.894339399999986 ], [ 7.534928, 48.8836655 ], [ 7.5454335, 48.876919 ], [ 7.5671145, 48.880715299999984 ], [ 7.5760833, 48.8899135 ], [ 7.5765055, 48.8942445 ], [ 7.573134, 48.893997 ], [ 7.56798, 48.891125 ], [ 7.566053, 48.8936865 ], [ 7.5605245, 48.892362499999983 ], [ 7.5574105, 48.89602 ], [ 7.5562915, 48.898511 ], [ 7.5531225, 48.8968485 ], [ 7.5538594, 48.894339399999986 ] ] ] } }
+]
+}

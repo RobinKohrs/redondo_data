@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oslavice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oslavice", "metric_roundness": 51.65, "metric_rectangularity": 62.53, "metric_mobile_fit": 29.53, "metric_aspect_ratio": 1.267, "metric_area_km2": 15.14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.0208182, 49.3426906 ], [ 15.9970866, 49.344412699999985 ], [ 15.9905153, 49.350887299999989 ], [ 15.9739075, 49.344569 ], [ 15.970365, 49.332655 ], [ 15.9782383, 49.332302699999985 ], [ 15.9804553, 49.327981699999981 ], [ 15.9880725, 49.3252405 ], [ 15.998793, 49.322828 ], [ 16.0097265, 49.3353967 ], [ 16.0249325, 49.335576499999981 ], [ 16.0208182, 49.3426906 ] ] ] } }
+]
+}

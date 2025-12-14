@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gee_riviere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gée-Rivière", "metric_roundness": 48.34, "metric_rectangularity": 73.13, "metric_mobile_fit": -18.94, "metric_aspect_ratio": 1.752, "metric_area_km2": 5.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.201137, 43.6739075 ], [ -0.200935, 43.670189 ], [ -0.1863597, 43.6713014 ], [ -0.180295, 43.6686285 ], [ -0.173363, 43.672864 ], [ -0.170911, 43.6786811 ], [ -0.1752805, 43.6807694 ], [ -0.1908088, 43.6821059 ], [ -0.2035555, 43.676737 ], [ -0.201137, 43.6739075 ] ] ] } }
+]
+}

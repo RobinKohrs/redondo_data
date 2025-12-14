@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chuderice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chudeřice", "metric_roundness": 35.62, "metric_rectangularity": 62.0, "metric_mobile_fit": 91.79, "metric_aspect_ratio": 0.48, "metric_area_km2": 5.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.5430745, 50.1591765 ], [ 15.538609, 50.141113 ], [ 15.5507646, 50.135570399999985 ], [ 15.5571745, 50.139801 ], [ 15.5527085, 50.152496899999988 ], [ 15.5464499, 50.157595699999987 ], [ 15.54755, 50.160334499999983 ], [ 15.5430745, 50.1591765 ] ] ] } }
+]
+}

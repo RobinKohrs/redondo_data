@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "charly_oradour",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Charly-Oradour", "metric_roundness": 53.58, "metric_rectangularity": 63.02, "metric_mobile_fit": 46.85, "metric_aspect_ratio": 1.094, "metric_area_km2": 16.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2324433, 49.16500809999998 ], [ 6.2331475, 49.159228 ], [ 6.24788, 49.164128 ], [ 6.2575306, 49.1705253 ], [ 6.271509, 49.172818 ], [ 6.2732864, 49.1834882 ], [ 6.2547996, 49.1837825 ], [ 6.2526495, 49.187874499999985 ], [ 6.2345285, 49.188897499999982 ], [ 6.2284752, 49.187685799999976 ], [ 6.22784, 49.185021499999976 ], [ 6.2312562, 49.1795477 ], [ 6.223636, 49.166617 ], [ 6.2324433, 49.16500809999998 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "houchin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Houchin", "metric_roundness": 57.89, "metric_rectangularity": 67.46, "metric_mobile_fit": 48.52, "metric_aspect_ratio": 1.077, "metric_area_km2": 10.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.605199, 50.480833 ], [ 2.610739, 50.468680499999977 ], [ 2.633914, 50.4702415 ], [ 2.6376051, 50.474057799999976 ], [ 2.637586, 50.4822375 ], [ 2.6162745, 50.488442 ], [ 2.609657, 50.489587499999985 ], [ 2.605727, 50.4908965 ], [ 2.6025345, 50.4895484 ], [ 2.5999935, 50.485695 ], [ 2.605199, 50.480833 ] ] ] } }
+]
+}

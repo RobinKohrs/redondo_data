@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dassendorf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dassendorf", "metric_roundness": 59.28, "metric_rectangularity": 84.18, "metric_mobile_fit": 26.8, "metric_aspect_ratio": 1.295, "metric_area_km2": 22.34 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.380507, 53.4810181 ], [ 10.3897955, 53.482918 ], [ 10.394889, 53.4857047 ], [ 10.3989835, 53.5034955 ], [ 10.3875904, 53.5017265 ], [ 10.3711336, 53.5067909 ], [ 10.3567199, 53.5068561 ], [ 10.3464675, 53.5015301 ], [ 10.3432435, 53.491216 ], [ 10.342759, 53.487603 ], [ 10.3526315, 53.4865905 ], [ 10.380507, 53.4810181 ] ] ] } }
+]
+}

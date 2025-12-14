@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "larringes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Larringes", "metric_roundness": 58.2, "metric_rectangularity": 77.16, "metric_mobile_fit": 30.53, "metric_aspect_ratio": 1.257, "metric_area_km2": 17.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.5874023, 46.383332499999987 ], [ 6.5843192, 46.3791337 ], [ 6.577095, 46.379886 ], [ 6.571478, 46.379646 ], [ 6.5623915, 46.364082 ], [ 6.5683147, 46.358329399999988 ], [ 6.5973545, 46.358494 ], [ 6.6101215, 46.3595 ], [ 6.6065783, 46.3733377 ], [ 6.6084345, 46.383576 ], [ 6.594956, 46.3818755 ], [ 6.595163, 46.384525499999981 ], [ 6.5874023, 46.383332499999987 ] ] ] } }
+]
+}

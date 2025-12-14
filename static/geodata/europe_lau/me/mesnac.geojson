@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mesnac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mesnac", "metric_roundness": 53.48, "metric_rectangularity": 72.58, "metric_mobile_fit": 27.65, "metric_aspect_ratio": 1.286, "metric_area_km2": 13.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.3638385, 45.766742499999985 ], [ -0.3534296, 45.7702814 ], [ -0.340067, 45.763089799999989 ], [ -0.3317752, 45.761930199999988 ], [ -0.3268646, 45.767159 ], [ -0.31982, 45.784761 ], [ -0.3391165, 45.7868975 ], [ -0.3658555, 45.779827 ], [ -0.3638385, 45.766742499999985 ] ] ] } }
+]
+}

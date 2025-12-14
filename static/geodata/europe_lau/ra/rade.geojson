@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rade",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rade", "metric_roundness": 41.47, "metric_rectangularity": 69.81, "metric_mobile_fit": 94.42, "metric_aspect_ratio": 0.618, "metric_area_km2": 11.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7442885, 53.9853035 ], [ 9.7440033, 53.9826188 ], [ 9.7473025, 53.981136 ], [ 9.75239, 53.9846 ], [ 9.7555823, 53.9882856 ], [ 9.7544223, 53.994923 ], [ 9.7484603, 54.0035249 ], [ 9.7378695, 54.007972 ], [ 9.725812, 54.0094425 ], [ 9.729535, 53.9887345 ], [ 9.7442885, 53.9853035 ] ] ] } }
+]
+}

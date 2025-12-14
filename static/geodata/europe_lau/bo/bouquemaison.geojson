@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bouquemaison",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bouquemaison", "metric_roundness": 39.49, "metric_rectangularity": 55.33, "metric_mobile_fit": 90.34, "metric_aspect_ratio": 0.659, "metric_area_km2": 18.31 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.361724, 50.207073 ], [ 2.3560868, 50.2077272 ], [ 2.3588574, 50.214536399999986 ], [ 2.33665, 50.234987 ], [ 2.3328705, 50.239079499999981 ], [ 2.3194989, 50.2345896 ], [ 2.3315267, 50.2206453 ], [ 2.3271255, 50.213097499999982 ], [ 2.3271023, 50.206311 ], [ 2.3229195, 50.200065 ], [ 2.3503899, 50.2001597 ], [ 2.3547845, 50.197273 ], [ 2.3625625, 50.205592 ], [ 2.361724, 50.207073 ] ] ] } }
+]
+}

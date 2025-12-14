@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nemetbanya",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Németbánya", "metric_roundness": 53.61, "metric_rectangularity": 78.84, "metric_mobile_fit": 82.27, "metric_aspect_ratio": 0.74, "metric_area_km2": 25.65 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6346097, 47.2121598 ], [ 17.6356543, 47.2072076 ], [ 17.641695, 47.1926595 ], [ 17.644859, 47.194376 ], [ 17.67013, 47.2063217 ], [ 17.6740115, 47.208156499999987 ], [ 17.6737898, 47.2151928 ], [ 17.6717648, 47.2197321 ], [ 17.67013, 47.2215775 ], [ 17.6674219, 47.2279318 ], [ 17.6526202, 47.239717899999974 ], [ 17.6279585, 47.229780499999983 ], [ 17.6227545, 47.2209285 ], [ 17.6346097, 47.2121598 ] ] ] } }
+]
+}

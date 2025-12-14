@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velorcey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velorcey", "metric_roundness": 58.68, "metric_rectangularity": 72.96, "metric_mobile_fit": 75.65, "metric_aspect_ratio": 0.806, "metric_area_km2": 14.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.2326486, 47.796599 ], [ 6.2348182, 47.791545099999986 ], [ 6.232762, 47.787685499999988 ], [ 6.2407341, 47.774665099999986 ], [ 6.2484138, 47.769497199999982 ], [ 6.255876, 47.769622 ], [ 6.2688772, 47.776297299999975 ], [ 6.27294, 47.782644 ], [ 6.2706545, 47.7867884 ], [ 6.2602902, 47.7859347 ], [ 6.2543348, 47.789431 ], [ 6.2571105, 47.801637 ], [ 6.2542775, 47.803083 ], [ 6.2326486, 47.796599 ] ] ] } }
+]
+}

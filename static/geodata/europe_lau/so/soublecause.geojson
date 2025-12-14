@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "soublecause",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Soublecause", "metric_roundness": 55.95, "metric_rectangularity": 65.07, "metric_mobile_fit": 39.12, "metric_aspect_ratio": 1.171, "metric_area_km2": 11.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0109889, 43.524930399999981 ], [ -0.0076035, 43.533314 ], [ -0.01017, 43.5422295 ], [ -0.0110085, 43.546087 ], [ -0.0176025, 43.545314 ], [ -0.0181405, 43.5478745 ], [ -0.023352, 43.5468615 ], [ -0.032248, 43.5387488 ], [ -0.0425612, 43.5354029 ], [ -0.0412479, 43.530833 ], [ -0.049228, 43.529748 ], [ -0.0437065, 43.522983 ], [ -0.009578, 43.522111 ], [ -0.0109889, 43.524930399999981 ] ] ] } }
+]
+}

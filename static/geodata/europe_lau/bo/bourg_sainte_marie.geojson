@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bourg_sainte_marie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bourg-Sainte-Marie", "metric_roundness": 35.2, "metric_rectangularity": 58.68, "metric_mobile_fit": 89.31, "metric_aspect_ratio": 0.669, "metric_area_km2": 20.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.566163, 48.158885 ], [ 5.5714988, 48.164365699999983 ], [ 5.5724515, 48.170054 ], [ 5.5732005, 48.181414499999988 ], [ 5.5698325, 48.1944665 ], [ 5.5546094, 48.2014905 ], [ 5.527881, 48.204027 ], [ 5.534751, 48.193603199999984 ], [ 5.5331401, 48.1836383 ], [ 5.5518689, 48.176245 ], [ 5.5550315, 48.168351 ], [ 5.566163, 48.158885 ] ] ] } }
+]
+}

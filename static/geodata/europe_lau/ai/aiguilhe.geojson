@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aiguilhe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aiguilhe", "metric_roundness": 54.35, "metric_rectangularity": 66.91, "metric_mobile_fit": 30.27, "metric_aspect_ratio": 1.26, "metric_area_km2": 2.01 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.891191, 45.0558375 ], [ 3.8793196, 45.0581863 ], [ 3.876672, 45.05416 ], [ 3.880146, 45.0538394 ], [ 3.8799175, 45.049224 ], [ 3.8841095, 45.0477709 ], [ 3.895246, 45.0506075 ], [ 3.891191, 45.0558375 ] ] ] } }
+]
+}

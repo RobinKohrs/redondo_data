@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villejuif",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villejuif", "metric_roundness": 61.01, "metric_rectangularity": 76.91, "metric_mobile_fit": 83.74, "metric_aspect_ratio": 0.725, "metric_area_km2": 12.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.347784, 48.801496 ], [ 2.3438455, 48.797662 ], [ 2.34494, 48.794746 ], [ 2.344198, 48.790761 ], [ 2.3491327, 48.781957799999986 ], [ 2.3563388, 48.778906899999988 ], [ 2.3672765, 48.779374 ], [ 2.375901, 48.7871343 ], [ 2.3711951, 48.795775799999987 ], [ 2.371166, 48.803986 ], [ 2.367223, 48.808032 ], [ 2.347784, 48.801496 ] ] ] } }
+]
+}

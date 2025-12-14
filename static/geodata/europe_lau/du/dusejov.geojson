@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "dusejov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dušejov", "metric_roundness": 46.16, "metric_rectangularity": 64.34, "metric_mobile_fit": 8.01, "metric_aspect_ratio": 1.482, "metric_area_km2": 11.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.4413726, 49.404981399999983 ], [ 15.446779, 49.405303499999981 ], [ 15.445298, 49.419429 ], [ 15.4413726, 49.4209749 ], [ 15.4312682, 49.424954099999979 ], [ 15.4059605, 49.417557 ], [ 15.3986375, 49.416601 ], [ 15.398925, 49.414728499999981 ], [ 15.400762, 49.41235 ], [ 15.415149, 49.412286599999987 ], [ 15.4219825, 49.403826 ], [ 15.4413726, 49.404981399999983 ] ] ] } }
+]
+}

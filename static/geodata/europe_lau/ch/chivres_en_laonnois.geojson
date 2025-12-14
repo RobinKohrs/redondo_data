@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chivres_en_laonnois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chivres-en-Laonnois", "metric_roundness": 55.06, "metric_rectangularity": 76.16, "metric_mobile_fit": 20.17, "metric_aspect_ratio": 1.361, "metric_area_km2": 32.19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.8895612, 49.6278007 ], [ 3.8724468, 49.6420486 ], [ 3.862952, 49.643884 ], [ 3.8363881, 49.6409964 ], [ 3.8191025, 49.630987499999989 ], [ 3.8440383, 49.6076179 ], [ 3.8579375, 49.607198 ], [ 3.8581905, 49.607196 ], [ 3.863962, 49.611991 ], [ 3.8671635, 49.613449499999987 ], [ 3.8672035, 49.618193 ], [ 3.8791075, 49.6182125 ], [ 3.8803515, 49.620003 ], [ 3.8837235, 49.619501 ], [ 3.8921925, 49.6202015 ], [ 3.8961725, 49.625593 ], [ 3.8895612, 49.6278007 ] ] ] } }
+]
+}

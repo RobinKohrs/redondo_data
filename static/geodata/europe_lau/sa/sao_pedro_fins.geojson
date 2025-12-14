@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sao_pedro_fins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "São Pedro Fins", "metric_roundness": 47.33, "metric_rectangularity": 58.85, "metric_mobile_fit": 49.11, "metric_aspect_ratio": 1.071, "metric_area_km2": 7.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.5531695, 41.233703 ], [ -8.5455072, 41.243751199999984 ], [ -8.55012, 41.2500352 ], [ -8.5346633, 41.2529234 ], [ -8.5342931, 41.2570179 ], [ -8.5563174, 41.257243 ], [ -8.5672405, 41.253940499999985 ], [ -8.567835, 41.240096 ], [ -8.5531695, 41.233703 ] ] ] } }
+]
+}

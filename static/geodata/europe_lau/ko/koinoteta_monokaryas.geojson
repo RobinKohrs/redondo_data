@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_monokaryas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μονοκαρυάς", "metric_roundness": 59.83, "metric_rectangularity": 72.56, "metric_mobile_fit": 29.15, "metric_aspect_ratio": 1.271, "metric_area_km2": 17.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.2401996, 38.943669899999989 ], [ 23.2332755, 38.951775 ], [ 23.212948, 38.949202 ], [ 23.1964685, 38.944706499999988 ], [ 23.1999875, 38.927208 ], [ 23.207275, 38.9208001 ], [ 23.2171096, 38.9193715 ], [ 23.2445325, 38.9356175 ], [ 23.2475955, 38.938970499999989 ], [ 23.249415, 38.9406325 ], [ 23.2401996, 38.943669899999989 ] ] ] } }
+]
+}

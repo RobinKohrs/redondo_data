@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "solbiate_con_cagno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Solbiate con Cagno", "metric_roundness": 44.33, "metric_rectangularity": 73.61, "metric_mobile_fit": 65.41, "metric_aspect_ratio": 0.908, "metric_area_km2": 15.84 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.9297791, 45.8013978 ], [ 8.929526, 45.8066505 ], [ 8.919111, 45.8189275 ], [ 8.906996, 45.8153765 ], [ 8.8969715, 45.812924 ], [ 8.9027065, 45.7982972 ], [ 8.9086425, 45.7932735 ], [ 8.9152031, 45.7893422 ], [ 8.9243963, 45.788566299999978 ], [ 8.932605, 45.782592 ], [ 8.944319, 45.786540500000015 ], [ 8.940866, 45.79619049999998 ], [ 8.9297791, 45.8013978 ] ] ] } }
+]
+}

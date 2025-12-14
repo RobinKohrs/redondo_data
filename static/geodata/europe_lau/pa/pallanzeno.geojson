@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pallanzeno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pallanzeno", "metric_roundness": 42.01, "metric_rectangularity": 67.4, "metric_mobile_fit": -24.04, "metric_aspect_ratio": 1.803, "metric_area_km2": 9.66 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.2250075, 46.0377145 ], [ 8.2366031, 46.0339175 ], [ 8.2695935, 46.036246 ], [ 8.268458, 46.0378365 ], [ 8.265764, 46.0404745 ], [ 8.2648995, 46.042728 ], [ 8.270887, 46.0424015 ], [ 8.270151, 46.047941 ], [ 8.2595346, 46.049093399999975 ], [ 8.2556323, 46.052156499999981 ], [ 8.234804, 46.0458375 ], [ 8.2235125, 46.038457499999986 ], [ 8.2250075, 46.0377145 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "villiers_sur_seine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Villiers-sur-Seine", "metric_roundness": 54.81, "metric_rectangularity": 74.96, "metric_mobile_fit": 86.85, "metric_aspect_ratio": 0.694, "metric_area_km2": 25.54 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3650401, 48.475392299999982 ], [ 3.3586585, 48.467918 ], [ 3.3615566, 48.4561705 ], [ 3.3732462, 48.447391599999982 ], [ 3.3826605, 48.4337935 ], [ 3.397035, 48.434805 ], [ 3.4035997, 48.440127 ], [ 3.4057085, 48.4532895 ], [ 3.3953848, 48.4627504 ], [ 3.3976366, 48.468599 ], [ 3.384091, 48.4780285 ], [ 3.382617, 48.478752 ], [ 3.3650401, 48.475392299999982 ] ] ] } }
+]
+}

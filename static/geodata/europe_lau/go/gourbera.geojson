@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gourbera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gourbera", "metric_roundness": 63.22, "metric_rectangularity": 77.76, "metric_mobile_fit": 64.42, "metric_aspect_ratio": 0.918, "metric_area_km2": 53.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.0369475, 43.8303505 ], [ -1.0464605, 43.836919 ], [ -1.071414, 43.832431 ], [ -1.0806555, 43.811436 ], [ -1.076333, 43.781655 ], [ -1.0516645, 43.7763555 ], [ -1.043736, 43.782317 ], [ -1.0436225, 43.7847945 ], [ -1.029783, 43.784082 ], [ -1.0035895, 43.822556 ], [ -1.0369475, 43.8303505 ] ] ] } }
+]
+}

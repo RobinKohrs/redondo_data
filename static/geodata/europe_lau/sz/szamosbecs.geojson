@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "szamosbecs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Szamosbecs", "metric_roundness": 46.32, "metric_rectangularity": 68.29, "metric_mobile_fit": 85.44, "metric_aspect_ratio": 0.708, "metric_area_km2": 14.86 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.6944188, 47.883381 ], [ 22.6895378, 47.8783772 ], [ 22.6833865, 47.877012 ], [ 22.675605, 47.866991499999983 ], [ 22.6788766, 47.860751 ], [ 22.6717735, 47.852367499999986 ], [ 22.6802665, 47.8462047 ], [ 22.691505, 47.851674 ], [ 22.7031344, 47.8624749 ], [ 22.711013, 47.864817 ], [ 22.706182, 47.8801955 ], [ 22.6944188, 47.883381 ] ] ] } }
+]
+}

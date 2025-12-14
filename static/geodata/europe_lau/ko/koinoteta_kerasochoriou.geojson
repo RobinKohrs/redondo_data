@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_kerasochoriou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Κερασοχωρίου", "metric_roundness": 49.91, "metric_rectangularity": 64.22, "metric_mobile_fit": 4.94, "metric_aspect_ratio": 1.513, "metric_area_km2": 18.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.2909834, 39.6653476 ], [ 20.308449, 39.672725 ], [ 20.332904, 39.6664015 ], [ 20.3368953, 39.6692613 ], [ 20.3379675, 39.674728499999986 ], [ 20.33278, 39.6852605 ], [ 20.3109525, 39.693312 ], [ 20.3050768, 39.6898938 ], [ 20.296349, 39.695786 ], [ 20.2877478, 39.688569799999989 ], [ 20.2854781, 39.6788908 ], [ 20.278126, 39.667321 ], [ 20.2909834, 39.6653476 ] ] ] } }
+]
+}

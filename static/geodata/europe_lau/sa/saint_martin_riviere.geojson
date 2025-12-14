@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_martin_riviere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Martin-Rivière", "metric_roundness": 51.7, "metric_rectangularity": 67.69, "metric_mobile_fit": 9.59, "metric_aspect_ratio": 1.467, "metric_area_km2": 13.52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.577703, 50.0479085 ], [ 3.57274, 50.051513 ], [ 3.5677705, 50.0530485 ], [ 3.5618435, 50.054065 ], [ 3.5564915, 50.0541565 ], [ 3.5416288, 50.054309899999986 ], [ 3.5413958, 50.047805 ], [ 3.5318793, 50.044917099999978 ], [ 3.5298365, 50.0386975 ], [ 3.5382909, 50.037508499999987 ], [ 3.5471545, 50.032337 ], [ 3.560636, 50.039053599999988 ], [ 3.5719345, 50.035458 ], [ 3.5800155, 50.047069 ], [ 3.577703, 50.0479085 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gappenach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gappenach", "metric_roundness": 53.35, "metric_rectangularity": 70.74, "metric_mobile_fit": 28.05, "metric_aspect_ratio": 1.282, "metric_area_km2": 8.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3545198, 50.2762365 ], [ 7.365976, 50.2833125 ], [ 7.3576755, 50.288696 ], [ 7.3422043, 50.2873392 ], [ 7.327975, 50.2801245 ], [ 7.3306411, 50.274858 ], [ 7.327994, 50.273586499999986 ], [ 7.3351786, 50.2697541 ], [ 7.354415, 50.2729095 ], [ 7.3545198, 50.2762365 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_sarabaliou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σαραβαλίου", "metric_roundness": 55.49, "metric_rectangularity": 75.77, "metric_mobile_fit": -0.75, "metric_aspect_ratio": 1.57, "metric_area_km2": 8.87 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7320069, 38.1952529 ], [ 21.737502, 38.191327 ], [ 21.7520546, 38.187021200000011 ], [ 21.771355, 38.1893765 ], [ 21.7634425, 38.2060945 ], [ 21.7502987, 38.2067178 ], [ 21.735298, 38.2034465 ], [ 21.7320069, 38.1952529 ] ] ] } }
+]
+}

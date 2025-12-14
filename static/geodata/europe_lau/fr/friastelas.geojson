@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "friastelas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Friastelas", "metric_roundness": 42.4, "metric_rectangularity": 64.22, "metric_mobile_fit": 6.62, "metric_aspect_ratio": 1.496, "metric_area_km2": 6.82 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.596847, 41.67394 ], [ -8.582368, 41.665517899999983 ], [ -8.5762109, 41.6658819 ], [ -8.564471, 41.673579499999988 ], [ -8.558578, 41.6842325 ], [ -8.5646796, 41.684621199999988 ], [ -8.5754078, 41.6799483 ], [ -8.5826757, 41.6829793 ], [ -8.591499, 41.678374 ], [ -8.596847, 41.67394 ] ] ] } }
+]
+}

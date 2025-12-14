@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bellon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bellon", "metric_roundness": 54.89, "metric_rectangularity": 70.46, "metric_mobile_fit": 78.58, "metric_aspect_ratio": 0.777, "metric_area_km2": 18.69 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.1366865, 45.324034499999982 ], [ 0.1035845, 45.331396499999983 ], [ 0.0945085, 45.317785 ], [ 0.1054696, 45.3135357 ], [ 0.101723, 45.301145 ], [ 0.1130066, 45.2932056 ], [ 0.1304196, 45.2943187 ], [ 0.1327639, 45.3028949 ], [ 0.1300756, 45.3103106 ], [ 0.1340145, 45.313587 ], [ 0.1366865, 45.324034499999982 ] ] ] } }
+]
+}

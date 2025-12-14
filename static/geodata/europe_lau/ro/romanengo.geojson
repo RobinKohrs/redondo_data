@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "romanengo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Romanengo", "metric_roundness": 51.6, "metric_rectangularity": 72.29, "metric_mobile_fit": 95.18, "metric_aspect_ratio": 0.611, "metric_area_km2": 30.17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7723119, 45.3965537 ], [ 9.7661745, 45.367349 ], [ 9.7674665, 45.3627585 ], [ 9.7774648, 45.3634535 ], [ 9.7839093, 45.3591618 ], [ 9.7985442, 45.356953499999989 ], [ 9.8013797, 45.3606185 ], [ 9.7967202, 45.3661303 ], [ 9.809401, 45.376304 ], [ 9.8129811, 45.391537199999973 ], [ 9.805236, 45.397941499999988 ], [ 9.792961, 45.4053016 ], [ 9.7903376, 45.410785 ], [ 9.769991, 45.4067315 ], [ 9.7723119, 45.3965537 ] ] ] } }
+]
+}

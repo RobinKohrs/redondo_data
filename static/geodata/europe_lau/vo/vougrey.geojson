@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vougrey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vougrey", "metric_roundness": 58.74, "metric_rectangularity": 74.0, "metric_mobile_fit": 38.3, "metric_aspect_ratio": 1.18, "metric_area_km2": 8.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.221549, 48.096570799999988 ], [ 4.2201559, 48.081441 ], [ 4.2470305, 48.078775499999985 ], [ 4.249046, 48.0788335 ], [ 4.252447, 48.080896 ], [ 4.2547642, 48.084582399999988 ], [ 4.2500512, 48.085922599999989 ], [ 4.2476436, 48.091711099999984 ], [ 4.229621, 48.0983745 ], [ 4.221549, 48.096570799999988 ] ] ] } }
+]
+}

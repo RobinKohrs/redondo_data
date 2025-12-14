@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "velke_pritocno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Velké Přítočno", "metric_roundness": 33.41, "metric_rectangularity": 62.84, "metric_mobile_fit": 5.05, "metric_aspect_ratio": 1.512, "metric_area_km2": 5.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.1380232, 50.1173493 ], [ 14.147574, 50.120507 ], [ 14.1474619, 50.126178599999974 ], [ 14.1450375, 50.127272499999982 ], [ 14.1296259, 50.1232635 ], [ 14.1266374, 50.117425899999986 ], [ 14.108349, 50.118431 ], [ 14.1161445, 50.111837 ], [ 14.1246735, 50.1106388 ], [ 14.1360125, 50.11368 ], [ 14.1380232, 50.1173493 ] ] ] } }
+]
+}

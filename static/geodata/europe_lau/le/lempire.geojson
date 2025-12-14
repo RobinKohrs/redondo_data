@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lempire",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lempire", "metric_roundness": 36.73, "metric_rectangularity": 45.73, "metric_mobile_fit": 53.37, "metric_aspect_ratio": 1.029, "metric_area_km2": 6.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.165179, 49.998978699999981 ], [ 3.155699, 49.991634 ], [ 3.1623798, 49.9900576 ], [ 3.1679381, 49.9938571 ], [ 3.1681724, 49.9888328 ], [ 3.1758519, 49.985680299999977 ], [ 3.192529, 49.988876 ], [ 3.1947155, 49.993775 ], [ 3.1786623, 49.9951395 ], [ 3.1720696, 50.0032869 ], [ 3.17158, 50.010058 ], [ 3.165179, 49.998978699999981 ] ] ] } }
+]
+}

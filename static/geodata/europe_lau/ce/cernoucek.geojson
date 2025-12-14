@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cernoucek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Černouček", "metric_roundness": 57.6, "metric_rectangularity": 72.79, "metric_mobile_fit": 20.53, "metric_aspect_ratio": 1.357, "metric_area_km2": 9.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.324066, 50.364694 ], [ 14.2996272, 50.3689159 ], [ 14.292236, 50.363532 ], [ 14.2925593, 50.3553338 ], [ 14.2968605, 50.351374499999984 ], [ 14.3069561, 50.3503144 ], [ 14.3087167, 50.354684399999982 ], [ 14.3226535, 50.3525085 ], [ 14.3236163, 50.356011 ], [ 14.3287295, 50.35759 ], [ 14.3318085, 50.362946 ], [ 14.324066, 50.364694 ] ] ] } }
+]
+}

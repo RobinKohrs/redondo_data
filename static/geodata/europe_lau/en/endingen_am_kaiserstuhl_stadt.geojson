@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "endingen_am_kaiserstuhl_stadt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Endingen am Kaiserstuhl, Stadt", "metric_roundness": 56.38, "metric_rectangularity": 72.83, "metric_mobile_fit": 39.4, "metric_aspect_ratio": 1.169, "metric_area_km2": 60.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6924394, 48.15542869999998 ], [ 7.6748865, 48.158987 ], [ 7.6672891, 48.1498708 ], [ 7.64127, 48.1454355 ], [ 7.6406333, 48.137296199999987 ], [ 7.6454333, 48.1329666 ], [ 7.6408013, 48.129014399999988 ], [ 7.639741, 48.113009 ], [ 7.6488289, 48.108284499999982 ], [ 7.6737565, 48.111133599999988 ], [ 7.6860757, 48.1163111 ], [ 7.6984535, 48.1123915 ], [ 7.728516, 48.1369755 ], [ 7.7230697, 48.15545849999998 ], [ 7.7123385, 48.1582465 ], [ 7.6924394, 48.15542869999998 ] ] ] } }
+]
+}

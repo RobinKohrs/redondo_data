@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "haluzice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Haluzice", "metric_roundness": 35.29, "metric_rectangularity": 60.39, "metric_mobile_fit": 76.8, "metric_aspect_ratio": 0.795, "metric_area_km2": 9.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9117642, 49.121435 ], [ 17.9100454, 49.132125199999983 ], [ 17.8917035, 49.1464703 ], [ 17.891334, 49.1494585 ], [ 17.8895125, 49.150233499999977 ], [ 17.8876795, 49.151629 ], [ 17.8782312, 49.14700939999998 ], [ 17.87623, 49.142388 ], [ 17.875944, 49.139992 ], [ 17.8750975, 49.137047499999987 ], [ 17.8869325, 49.136657299999989 ], [ 17.8949745, 49.1262801 ], [ 17.901763, 49.122572 ], [ 17.9117642, 49.121435 ] ] ] } }
+]
+}

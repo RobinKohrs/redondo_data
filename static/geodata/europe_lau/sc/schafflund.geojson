@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "schafflund",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Schafflund", "metric_roundness": 54.84, "metric_rectangularity": 74.72, "metric_mobile_fit": 12.27, "metric_aspect_ratio": 1.44, "metric_area_km2": 58.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1236574, 54.7684421 ], [ 9.1311318, 54.7508614 ], [ 9.137522, 54.7506165 ], [ 9.1968465, 54.74746 ], [ 9.1989211, 54.757165599999986 ], [ 9.1966632, 54.761298 ], [ 9.209124, 54.766218 ], [ 9.1975718, 54.7779229 ], [ 9.180436, 54.777954299999983 ], [ 9.1618395, 54.783078 ], [ 9.1201985, 54.788126 ], [ 9.1076305, 54.77686 ], [ 9.111276, 54.7679425 ], [ 9.1236574, 54.7684421 ] ] ] } }
+]
+}

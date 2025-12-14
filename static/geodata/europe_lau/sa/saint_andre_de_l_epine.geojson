@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_andre_de_l_epine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-André-de-l'Épine", "metric_roundness": 45.0, "metric_rectangularity": 73.58, "metric_mobile_fit": 65.25, "metric_aspect_ratio": 0.91, "metric_area_km2": 16.88 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.038477, 49.119972499999982 ], [ -1.037844, 49.117832 ], [ -1.031792, 49.1195855 ], [ -0.999769, 49.1286665 ], [ -1.0052038, 49.139067599999983 ], [ -1.002675, 49.1513115 ], [ -1.0071501, 49.151641699999985 ], [ -1.0143316, 49.146561899999988 ], [ -1.0297625, 49.145166 ], [ -1.0337278, 49.142321799999976 ], [ -1.0411119, 49.134146299999983 ], [ -1.0451389, 49.1331855 ], [ -1.0467905, 49.132239 ], [ -1.038477, 49.119972499999982 ] ] ] } }
+]
+}

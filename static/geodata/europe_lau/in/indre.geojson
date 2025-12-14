@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "indre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Indre", "metric_roundness": 36.4, "metric_rectangularity": 68.35, "metric_mobile_fit": -3.27, "metric_aspect_ratio": 1.595, "metric_area_km2": 10.24 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6476196, 47.198045399999984 ], [ -1.6775185, 47.206984 ], [ -1.6901696, 47.209455799999979 ], [ -1.6878305, 47.2044474 ], [ -1.694739, 47.20573 ], [ -1.6924372, 47.200897 ], [ -1.6944625, 47.198992499999981 ], [ -1.6819892, 47.19163469999998 ], [ -1.6688025, 47.188551 ], [ -1.6656646, 47.1928388 ], [ -1.6456585, 47.190813 ], [ -1.6476196, 47.198045399999984 ] ] ] } }
+]
+}

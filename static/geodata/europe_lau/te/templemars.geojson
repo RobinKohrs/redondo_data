@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "templemars",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Templemars", "metric_roundness": 54.81, "metric_rectangularity": 63.98, "metric_mobile_fit": 80.03, "metric_aspect_ratio": 0.762, "metric_area_km2": 11.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.0662657, 50.5713452 ], [ 3.0716375, 50.581069 ], [ 3.0695955, 50.5810805 ], [ 3.0654845, 50.58524 ], [ 3.052836, 50.5829998 ], [ 3.0466045, 50.572862899999983 ], [ 3.0425575, 50.572069499999984 ], [ 3.0420469, 50.568541799999984 ], [ 3.0547113, 50.559990299999988 ], [ 3.0689145, 50.556385 ], [ 3.076674, 50.564226499999982 ], [ 3.0662657, 50.5713452 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "augst",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Augst", "metric_roundness": 17.14, "metric_rectangularity": 33.31, "metric_mobile_fit": -30.01, "metric_aspect_ratio": 1.863, "metric_area_km2": 3.89 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.6935074, 47.531316299999986 ], [ 7.7135566, 47.534638799999982 ], [ 7.720115, 47.521943 ], [ 7.7218435, 47.524889 ], [ 7.7246025, 47.526807 ], [ 7.728234, 47.528012 ], [ 7.7300315, 47.528916 ], [ 7.732328, 47.528739499999979 ], [ 7.7343935, 47.53011 ], [ 7.7137845, 47.539405 ], [ 7.6963423, 47.533096299999983 ], [ 7.6862235, 47.532498 ], [ 7.6935074, 47.531316299999986 ] ] ] } }
+]
+}

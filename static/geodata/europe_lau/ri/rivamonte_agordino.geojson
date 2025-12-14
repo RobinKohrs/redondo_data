@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rivamonte_agordino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rivamonte Agordino", "metric_roundness": 63.35, "metric_rectangularity": 75.14, "metric_mobile_fit": 52.98, "metric_aspect_ratio": 1.033, "metric_area_km2": 49.18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.0175823, 46.2616286 ], [ 12.0100832, 46.2579985 ], [ 12.0045769, 46.248941699999982 ], [ 11.9950905, 46.242665 ], [ 12.0033079, 46.2352185 ], [ 12.0163176, 46.2300592 ], [ 12.0345943, 46.2124979 ], [ 12.0555185, 46.218482 ], [ 12.0676876, 46.230773299999974 ], [ 12.0841209, 46.2388954 ], [ 12.0828565, 46.246811 ], [ 12.0428219, 46.258575099999987 ], [ 12.0374375, 46.26908 ], [ 12.0317239, 46.2721235 ], [ 12.0223555, 46.270938 ], [ 12.0175823, 46.2616286 ] ] ] } }
+]
+}

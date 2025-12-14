@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "holm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Holm", "metric_roundness": 23.42, "metric_rectangularity": 56.62, "metric_mobile_fit": -136.24, "metric_aspect_ratio": 2.925, "metric_area_km2": 12.63 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.871167, 54.83644 ], [ 8.8576573, 54.835496799999987 ], [ 8.8490172, 54.8379255 ], [ 8.8297136, 54.8351243 ], [ 8.7989915, 54.837462 ], [ 8.812704, 54.8234455 ], [ 8.8186671, 54.829188 ], [ 8.8265444, 54.825461 ], [ 8.872521, 54.830731 ], [ 8.871167, 54.83644 ] ] ] } }
+]
+}

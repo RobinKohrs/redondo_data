@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cuevas_de_almuden",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cuevas de Almudén", "metric_roundness": 32.0, "metric_rectangularity": 70.79, "metric_mobile_fit": 73.98, "metric_aspect_ratio": 0.823, "metric_area_km2": 62.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.8263175, 40.6934748 ], [ -0.8089768, 40.720614399999988 ], [ -0.7982356, 40.732419799999988 ], [ -0.7669025, 40.751659499999988 ], [ -0.77526, 40.7702675 ], [ -0.7800812, 40.766852299999982 ], [ -0.7960075, 40.768776 ], [ -0.8118507, 40.768976699999982 ], [ -0.835446, 40.7466545 ], [ -0.850974, 40.7162981 ], [ -0.8657905, 40.6955415 ], [ -0.8579045, 40.6834249 ], [ -0.846553, 40.6791765 ], [ -0.8263175, 40.6934748 ] ] ] } }
+]
+}

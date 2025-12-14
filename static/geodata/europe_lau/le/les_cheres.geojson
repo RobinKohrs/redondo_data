@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "les_cheres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Les Chères", "metric_roundness": 48.62, "metric_rectangularity": 62.47, "metric_mobile_fit": 79.01, "metric_aspect_ratio": 0.772, "metric_area_km2": 11.28 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.7359836, 45.8857921 ], [ 4.7425115, 45.878377 ], [ 4.7443665, 45.8780675 ], [ 4.7465865, 45.87874 ], [ 4.7571875, 45.884759 ], [ 4.7636115, 45.896556 ], [ 4.7387634, 45.9022838 ], [ 4.7337005, 45.911239 ], [ 4.72696, 45.907466 ], [ 4.7267995, 45.9037795 ], [ 4.7291115, 45.897654499999973 ], [ 4.7288825, 45.8953645 ], [ 4.7300925, 45.887642499999984 ], [ 4.7302425, 45.885842 ], [ 4.7359836, 45.8857921 ] ] ] } }
+]
+}

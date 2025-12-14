@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "senonges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Senonges", "metric_roundness": 45.8, "metric_rectangularity": 63.22, "metric_mobile_fit": 55.48, "metric_aspect_ratio": 1.008, "metric_area_km2": 12.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.0323805, 48.131541 ], [ 6.048723, 48.127785 ], [ 6.0768555, 48.14143 ], [ 6.069571, 48.1572355 ], [ 6.0542109, 48.156723599999978 ], [ 6.0507965, 48.15333 ], [ 6.0501135, 48.1467691 ], [ 6.0465105, 48.143113 ], [ 6.0323805, 48.131541 ] ] ] } }
+]
+}

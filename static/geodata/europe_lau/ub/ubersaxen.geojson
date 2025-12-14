@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ubersaxen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Übersaxen", "metric_roundness": 35.84, "metric_rectangularity": 56.65, "metric_mobile_fit": 11.43, "metric_aspect_ratio": 1.448, "metric_area_km2": 12.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.7126681, 47.239504099999984 ], [ 9.7185805, 47.2434535 ], [ 9.7177645, 47.2490405 ], [ 9.7122018, 47.248928299999982 ], [ 9.7081687, 47.2527486 ], [ 9.6874035, 47.259958499999989 ], [ 9.6703992, 47.2648176 ], [ 9.6633105, 47.243644499999988 ], [ 9.6946184, 47.2489038 ], [ 9.708507, 47.238913 ], [ 9.7126681, 47.239504099999984 ] ] ] } }
+]
+}

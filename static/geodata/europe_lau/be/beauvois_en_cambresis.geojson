@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beauvois_en_cambresis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beauvois-en-Cambrésis", "metric_roundness": 36.49, "metric_rectangularity": 66.88, "metric_mobile_fit": 13.38, "metric_aspect_ratio": 1.429, "metric_area_km2": 9.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3594745, 50.146099 ], [ 3.3786065, 50.134510399999989 ], [ 3.395545, 50.1296955 ], [ 3.4085215, 50.138789 ], [ 3.4021095, 50.1400655 ], [ 3.400265, 50.138690499999989 ], [ 3.3961755, 50.140162 ], [ 3.3933775, 50.146578 ], [ 3.3861605, 50.146191499999986 ], [ 3.378507, 50.151697 ], [ 3.3678897, 50.1454818 ], [ 3.364139, 50.14724 ], [ 3.3594745, 50.146099 ] ] ] } }
+]
+}

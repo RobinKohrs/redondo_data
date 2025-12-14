@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "joganville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Joganville", "metric_roundness": 41.95, "metric_rectangularity": 70.98, "metric_mobile_fit": 1.14, "metric_aspect_ratio": 1.551, "metric_area_km2": 6.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.3589481, 49.4784201 ], [ -1.3683951, 49.477889899999987 ], [ -1.372547, 49.4748315 ], [ -1.3706765, 49.473774 ], [ -1.36724, 49.474149 ], [ -1.3601595, 49.468207 ], [ -1.3406943, 49.4615703 ], [ -1.3323285, 49.473778 ], [ -1.3589481, 49.4784201 ] ] ] } }
+]
+}

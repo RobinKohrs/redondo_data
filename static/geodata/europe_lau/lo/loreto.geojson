@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "loreto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Loreto", "metric_roundness": 55.56, "metric_rectangularity": 69.12, "metric_mobile_fit": 12.97, "metric_aspect_ratio": 1.433, "metric_area_km2": 33.61 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.5957215, 43.446533 ], [ 13.5888585, 43.437294 ], [ 13.5801459, 43.4315679 ], [ 13.5856074, 43.4197658 ], [ 13.6177857, 43.4173044 ], [ 13.631521, 43.4207915 ], [ 13.6567609, 43.431956 ], [ 13.6554024, 43.446176199999989 ], [ 13.6356109, 43.4454685 ], [ 13.6270698, 43.4517523 ], [ 13.6035375, 43.4561325 ], [ 13.5957215, 43.446533 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "melz_sur_seine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Melz-sur-Seine", "metric_roundness": 63.97, "metric_rectangularity": 80.93, "metric_mobile_fit": 58.43, "metric_aspect_ratio": 0.978, "metric_area_km2": 42.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.382617, 48.478752 ], [ 3.384091, 48.4780285 ], [ 3.4037525, 48.485988499999984 ], [ 3.4220896, 48.4911281 ], [ 3.4346385, 48.4902515 ], [ 3.4338415, 48.498034199999985 ], [ 3.4235091, 48.514413399999988 ], [ 3.4053965, 48.528015 ], [ 3.397105, 48.529572 ], [ 3.373192, 48.51557 ], [ 3.363547, 48.5143245 ], [ 3.358545, 48.511095 ], [ 3.382617, 48.478752 ] ] ] } }
+]
+}

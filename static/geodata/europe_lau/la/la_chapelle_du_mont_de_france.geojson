@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_chapelle_du_mont_de_france",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "La Chapelle-du-Mont-de-France", "metric_roundness": 54.79, "metric_rectangularity": 75.21, "metric_mobile_fit": 29.5, "metric_aspect_ratio": 1.268, "metric_area_km2": 19.55 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.515829, 46.389491 ], [ 4.512927, 46.38522649999998 ], [ 4.5155167, 46.3802735 ], [ 4.5218738, 46.3776394 ], [ 4.528159, 46.363018 ], [ 4.5615313, 46.3761529 ], [ 4.5716569, 46.375942 ], [ 4.5728485, 46.3796075 ], [ 4.558829, 46.3873492 ], [ 4.5611318, 46.3914256 ], [ 4.540465, 46.3956315 ], [ 4.515829, 46.389491 ] ] ] } }
+]
+}

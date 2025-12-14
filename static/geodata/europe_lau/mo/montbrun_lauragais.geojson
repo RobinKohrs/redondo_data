@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "montbrun_lauragais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Montbrun-Lauragais", "metric_roundness": 53.23, "metric_rectangularity": 67.84, "metric_mobile_fit": 38.47, "metric_aspect_ratio": 1.178, "metric_area_km2": 21.21 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5416381, 43.4656596 ], [ 1.536975, 43.4712025 ], [ 1.5203347, 43.468789599999987 ], [ 1.5104885, 43.4740315 ], [ 1.493245, 43.456660499999984 ], [ 1.5035366, 43.4492718 ], [ 1.493848, 43.441926 ], [ 1.5056134, 43.4385919 ], [ 1.5188585, 43.440205 ], [ 1.5265705, 43.440838 ], [ 1.5289915, 43.4449545 ], [ 1.5326845, 43.445476 ], [ 1.535234, 43.444821 ], [ 1.5447768, 43.4591092 ], [ 1.5507455, 43.463197 ], [ 1.5416381, 43.4656596 ] ] ] } }
+]
+}

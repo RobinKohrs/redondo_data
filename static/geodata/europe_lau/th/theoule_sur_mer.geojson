@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "theoule_sur_mer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Théoule-sur-Mer", "metric_roundness": 76.22, "metric_rectangularity": 72.56, "metric_mobile_fit": 54.85, "metric_aspect_ratio": 1.014, "metric_area_km2": 20.5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.931388, 43.5175057 ], [ 6.9165519, 43.513533099999982 ], [ 6.903915, 43.495069 ], [ 6.9117715, 43.4931186 ], [ 6.9146907, 43.4831295 ], [ 6.9313255, 43.480258 ], [ 6.9343932, 43.4842512 ], [ 6.9457548, 43.484130199999989 ], [ 6.9476049, 43.4914347 ], [ 6.9559811, 43.5000554 ], [ 6.9534096, 43.505502699999987 ], [ 6.9390684, 43.5088775 ], [ 6.938364, 43.516392 ], [ 6.931388, 43.5175057 ] ] ] } }
+]
+}

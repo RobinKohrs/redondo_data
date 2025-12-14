@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gottesheim",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gottesheim", "metric_roundness": 53.96, "metric_rectangularity": 64.39, "metric_mobile_fit": 14.92, "metric_aspect_ratio": 1.413, "metric_area_km2": 11.72 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.458217, 48.774731499999973 ], [ 7.4660931, 48.7737153 ], [ 7.4818045, 48.762768499999986 ], [ 7.4897389, 48.769366 ], [ 7.498083, 48.7672595 ], [ 7.500514, 48.768946 ], [ 7.4991405, 48.772122 ], [ 7.5025805, 48.774379499999988 ], [ 7.5011645, 48.7757995 ], [ 7.504158, 48.7765335 ], [ 7.5040245, 48.778664499999984 ], [ 7.491477, 48.7837325 ], [ 7.459396, 48.784192 ], [ 7.458217, 48.774731499999973 ] ] ] } }
+]
+}

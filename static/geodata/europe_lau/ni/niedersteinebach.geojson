@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "niedersteinebach",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Niedersteinebach", "metric_roundness": 57.84, "metric_rectangularity": 61.94, "metric_mobile_fit": 49.62, "metric_aspect_ratio": 1.066, "metric_area_km2": 2.15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.5091226, 50.594985399999985 ], [ 7.5138375, 50.5984875 ], [ 7.5088782, 50.602944199999989 ], [ 7.5088445, 50.605769 ], [ 7.5054105, 50.6023632 ], [ 7.496085, 50.603493 ], [ 7.49485, 50.600696 ], [ 7.4994347, 50.599195499999972 ], [ 7.5013855, 50.594466 ], [ 7.5091226, 50.594985399999985 ] ] ] } }
+]
+}

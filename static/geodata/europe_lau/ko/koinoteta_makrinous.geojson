@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_makrinous",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Μακρινούς", "metric_roundness": 51.05, "metric_rectangularity": 60.42, "metric_mobile_fit": 75.59, "metric_aspect_ratio": 0.807, "metric_area_km2": 31.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.6421298, 38.4458912 ], [ 21.6511491, 38.4500454 ], [ 21.6590655, 38.447972 ], [ 21.6631745, 38.4513025 ], [ 21.6635809, 38.4668977 ], [ 21.6604095, 38.471806 ], [ 21.639239, 38.4815843 ], [ 21.6249908, 38.478668 ], [ 21.604555, 38.48253 ], [ 21.6159126, 38.451717399999986 ], [ 21.6139549, 38.434157599999985 ], [ 21.628417, 38.4252215 ], [ 21.6421298, 38.4458912 ] ] ] } }
+]
+}

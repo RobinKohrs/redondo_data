@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_bouchorinas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Βουχωρίνας", "metric_roundness": 46.6, "metric_rectangularity": 57.25, "metric_mobile_fit": 80.04, "metric_aspect_ratio": 0.762, "metric_area_km2": 15.46 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.233634, 40.222295 ], [ 21.2492155, 40.2179603 ], [ 21.2518348, 40.1973559 ], [ 21.2647385, 40.1951005 ], [ 21.2705613, 40.2159305 ], [ 21.2759425, 40.2251215 ], [ 21.277904, 40.2316785 ], [ 21.2696788, 40.2312732 ], [ 21.258756, 40.239459599999989 ], [ 21.2521632, 40.2373638 ], [ 21.2476025, 40.2320095 ], [ 21.233634, 40.222295 ] ] ] } }
+]
+}

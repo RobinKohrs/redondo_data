@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lugagnan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lugagnan", "metric_roundness": 65.74, "metric_rectangularity": 73.95, "metric_mobile_fit": 74.64, "metric_aspect_ratio": 0.816, "metric_area_km2": 1.48 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.0418955, 43.0588955 ], [ -0.039535, 43.058004499999981 ], [ -0.032661, 43.059542 ], [ -0.0317839, 43.0618287 ], [ -0.035538, 43.06609 ], [ -0.036991, 43.067582 ], [ -0.040996, 43.068573 ], [ -0.0435885, 43.065618 ], [ -0.043459, 43.060475 ], [ -0.0418955, 43.0588955 ] ] ] } }
+]
+}

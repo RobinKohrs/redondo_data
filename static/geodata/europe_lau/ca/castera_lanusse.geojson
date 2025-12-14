@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "castera_lanusse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Castéra-Lanusse", "metric_roundness": 40.76, "metric_rectangularity": 56.03, "metric_mobile_fit": 54.59, "metric_aspect_ratio": 1.017, "metric_area_km2": 1.73 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.296589, 43.1657715 ], [ 0.297507, 43.167595 ], [ 0.2963385, 43.17023 ], [ 0.298085, 43.172423 ], [ 0.2985225, 43.1756675 ], [ 0.2940455, 43.175501499999989 ], [ 0.282845, 43.1772285 ], [ 0.281978, 43.1740125 ], [ 0.2898654, 43.171898 ], [ 0.2910665, 43.16536 ], [ 0.296589, 43.1657715 ] ] ] } }
+]
+}

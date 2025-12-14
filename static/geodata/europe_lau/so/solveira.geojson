@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "solveira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Solveira", "metric_roundness": 60.1, "metric_rectangularity": 85.13, "metric_mobile_fit": 78.89, "metric_aspect_ratio": 0.774, "metric_area_km2": 22.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.6680199, 41.8194681 ], [ -7.65343, 41.822703499999989 ], [ -7.6531379, 41.846015699999974 ], [ -7.657177, 41.8575 ], [ -7.6756356, 41.8587729 ], [ -7.6829755, 41.8565685 ], [ -7.6940191, 41.832793899999984 ], [ -7.692941, 41.819402499999988 ], [ -7.6680199, 41.8194681 ] ] ] } }
+]
+}

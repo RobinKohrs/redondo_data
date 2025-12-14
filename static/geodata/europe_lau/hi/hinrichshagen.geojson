@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hinrichshagen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hinrichshagen", "metric_roundness": 52.61, "metric_rectangularity": 63.25, "metric_mobile_fit": 33.08, "metric_aspect_ratio": 1.232, "metric_area_km2": 29.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.3110626, 54.0768554 ], [ 13.3181587, 54.0733435 ], [ 13.3107894, 54.0648347 ], [ 13.2909565, 54.059372499999988 ], [ 13.3143484, 54.0521808 ], [ 13.3421033, 54.0514935 ], [ 13.3456015, 54.0537345 ], [ 13.3608605, 54.0613315 ], [ 13.3579005, 54.079466 ], [ 13.337733, 54.0784481 ], [ 13.3193515, 54.084798499999977 ], [ 13.3110626, 54.0768554 ] ] ] } }
+]
+}

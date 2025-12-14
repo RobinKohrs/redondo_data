@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pacos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Paços", "metric_roundness": 51.68, "metric_rectangularity": 77.6, "metric_mobile_fit": -7.79, "metric_aspect_ratio": 1.64, "metric_area_km2": 7.78 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.186672, 41.482711 ], [ -8.1956354, 41.4877046 ], [ -8.2176525, 41.487336499999984 ], [ -8.220376, 41.4732725 ], [ -8.211899, 41.470929 ], [ -8.2020993, 41.473656899999988 ], [ -8.1836455, 41.4730995 ], [ -8.18424, 41.4741085 ], [ -8.186672, 41.482711 ] ] ] } }
+]
+}

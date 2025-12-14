@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uniao_das_freguesias_de_pombal_e_vales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "União das freguesias de Pombal e Vales", "metric_roundness": 57.09, "metric_rectangularity": 68.11, "metric_mobile_fit": 63.02, "metric_aspect_ratio": 0.932, "metric_area_km2": 26.13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.0252995, 41.367356699999981 ], [ -7.014492, 41.356293499999985 ], [ -7.002867, 41.357619 ], [ -6.9917509, 41.3612258 ], [ -6.9902153, 41.3687174 ], [ -6.9700406, 41.3722865 ], [ -6.9682705, 41.3771505 ], [ -6.9743835, 41.380415 ], [ -6.9759361, 41.3876757 ], [ -6.9820421, 41.392216399999981 ], [ -6.9829118, 41.4019776 ], [ -7.001683, 41.402195 ], [ -7.023379, 41.3755275 ], [ -7.0252995, 41.367356699999981 ] ] ] } }
+]
+}

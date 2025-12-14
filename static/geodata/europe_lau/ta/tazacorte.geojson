@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tazacorte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tazacorte", "metric_roundness": 20.9, "metric_rectangularity": 58.32, "metric_mobile_fit": 98.52, "metric_aspect_ratio": 0.548, "metric_area_km2": 14.59 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -17.950125, 28.6525365 ], [ -17.9404088, 28.6423723 ], [ -17.9260009, 28.6162178 ], [ -17.9233641, 28.6071386 ], [ -17.9251525, 28.596302 ], [ -17.9185755, 28.592235499999987 ], [ -17.9059824, 28.594162 ], [ -17.9138961, 28.6285647 ], [ -17.9232488, 28.6381652 ], [ -17.9253163, 28.6475139 ], [ -17.9397209, 28.65090940000001 ], [ -17.9356113, 28.6575651 ], [ -17.9380835, 28.662981 ], [ -17.950125, 28.6525365 ] ] ] } }
+]
+}

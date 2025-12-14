@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cabalovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Čabalovce", "metric_roundness": 59.23, "metric_rectangularity": 77.77, "metric_mobile_fit": 78.12, "metric_aspect_ratio": 0.781, "metric_area_km2": 50.77 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.9407012, 49.2426605 ], [ 21.937418, 49.23594 ], [ 21.9341499, 49.232963699999985 ], [ 21.9358185, 49.222707 ], [ 21.9397935, 49.2130145 ], [ 21.9658245, 49.198777 ], [ 21.96845, 49.199784 ], [ 21.9704102, 49.20322119999998 ], [ 21.9823304, 49.2063744 ], [ 21.9900388, 49.21177 ], [ 22.0066805, 49.237981 ], [ 21.9861417, 49.2501 ], [ 21.979758, 49.259397 ], [ 21.9407012, 49.2426605 ] ] ] } }
+]
+}

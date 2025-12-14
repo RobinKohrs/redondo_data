@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aulona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Αυλώνα", "metric_roundness": 67.94, "metric_rectangularity": 68.19, "metric_mobile_fit": 37.07, "metric_aspect_ratio": 1.192, "metric_area_km2": 11.37 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.099282, 35.150172499999989 ], [ 33.1030988, 35.151642699999989 ], [ 33.1065627, 35.1494222 ], [ 33.1144143, 35.1554193 ], [ 33.1179184, 35.16113 ], [ 33.1157735, 35.1650357 ], [ 33.121368, 35.166519199999982 ], [ 33.123502, 35.1720615 ], [ 33.120003, 35.176855499999988 ], [ 33.0885895, 35.17696 ], [ 33.083358, 35.1677745 ], [ 33.099282, 35.150172499999989 ] ] ] } }
+]
+}

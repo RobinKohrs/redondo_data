@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "meixomil",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Meixomil", "metric_roundness": 31.53, "metric_rectangularity": 41.76, "metric_mobile_fit": 88.83, "metric_aspect_ratio": 0.674, "metric_area_km2": 7.49 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.414358, 41.304453499999987 ], [ -8.4049284, 41.2944872 ], [ -8.3979487, 41.281509 ], [ -8.4072085, 41.2702635 ], [ -8.4036835, 41.270375 ], [ -8.3989265, 41.26942949999998 ], [ -8.3934725, 41.2715995 ], [ -8.3916795, 41.274281 ], [ -8.383125, 41.2833946 ], [ -8.381484, 41.2892385 ], [ -8.3853515, 41.2918485 ], [ -8.3937459, 41.2923752 ], [ -8.4065745, 41.306069 ], [ -8.414358, 41.304453499999987 ] ] ] } }
+]
+}

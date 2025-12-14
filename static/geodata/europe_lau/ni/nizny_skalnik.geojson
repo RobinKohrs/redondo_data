@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nizny_skalnik",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nižný Skálnik", "metric_roundness": 33.01, "metric_rectangularity": 54.37, "metric_mobile_fit": 92.77, "metric_aspect_ratio": 0.49, "metric_area_km2": 12.11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.9757945, 48.484255499999989 ], [ 19.978189, 48.4749975 ], [ 19.9739137, 48.4596948 ], [ 19.9644645, 48.455664 ], [ 19.965222, 48.4529316 ], [ 19.9645008, 48.447793499999989 ], [ 19.9739764, 48.4436964 ], [ 19.9838156, 48.4451851 ], [ 19.9944475, 48.454023 ], [ 19.991195, 48.4577635 ], [ 19.9917435, 48.4753227 ], [ 19.9810993, 48.478591 ], [ 19.9802235, 48.4842095 ], [ 19.9757945, 48.484255499999989 ] ] ] } }
+]
+}

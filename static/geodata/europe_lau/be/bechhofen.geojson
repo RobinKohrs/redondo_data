@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bechhofen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bechhofen", "metric_roundness": 50.35, "metric_rectangularity": 62.04, "metric_mobile_fit": 71.95, "metric_aspect_ratio": 0.843, "metric_area_km2": 15.76 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.3955374, 49.363348 ], [ 7.4000132, 49.355878299999986 ], [ 7.3940491, 49.35211349999998 ], [ 7.4019198, 49.3453169 ], [ 7.399982, 49.336690499999982 ], [ 7.4117499, 49.3391436 ], [ 7.4246245, 49.3338095 ], [ 7.4307757, 49.339719099999982 ], [ 7.4311654, 49.3473373 ], [ 7.437932, 49.353785 ], [ 7.4089685, 49.363459 ], [ 7.4020755, 49.367718499999988 ], [ 7.3955374, 49.363348 ] ] ] } }
+]
+}

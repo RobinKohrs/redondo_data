@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_spatharaion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Σπαθαραίων", "metric_roundness": 37.03, "metric_rectangularity": 55.84, "metric_mobile_fit": 86.8, "metric_aspect_ratio": 0.695, "metric_area_km2": 23.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 26.7851207, 37.6507537 ], [ 26.794697, 37.6424637 ], [ 26.81159, 37.6379541 ], [ 26.821665, 37.638275 ], [ 26.8206385, 37.6439286 ], [ 26.8116753, 37.653322 ], [ 26.8056254, 37.6662658 ], [ 26.8016484, 37.6920777 ], [ 26.804914, 37.6971825 ], [ 26.8013374, 37.699851099999989 ], [ 26.7933415, 37.6950525 ], [ 26.7848683, 37.6848392 ], [ 26.767355, 37.676365 ], [ 26.7851207, 37.6507537 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ostasov",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ostašov", "metric_roundness": 65.65, "metric_rectangularity": 83.79, "metric_mobile_fit": 48.85, "metric_aspect_ratio": 1.074, "metric_area_km2": 4.85 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.916309, 49.146269499999981 ], [ 15.9211265, 49.1451705 ], [ 15.9245525, 49.145299 ], [ 15.927969, 49.144800499999981 ], [ 15.9356805, 49.153776 ], [ 15.915083, 49.160709 ], [ 15.909557, 49.150096499999982 ], [ 15.913176, 49.14653149999998 ], [ 15.916309, 49.146269499999981 ] ] ] } }
+]
+}

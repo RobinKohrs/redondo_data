@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bad_eilsen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bad Eilsen", "metric_roundness": 38.73, "metric_rectangularity": 65.46, "metric_mobile_fit": 3.17, "metric_aspect_ratio": 1.531, "metric_area_km2": 6.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.1142435, 52.238431 ], [ 9.1177965, 52.240118 ], [ 9.116071, 52.2419065 ], [ 9.1142175, 52.241669 ], [ 9.110072, 52.245894 ], [ 9.1078735, 52.246293 ], [ 9.106019, 52.2466295 ], [ 9.0802885, 52.251158 ], [ 9.080333, 52.2483554 ], [ 9.0857307, 52.2450795 ], [ 9.079488, 52.239337 ], [ 9.0855016, 52.2407948 ], [ 9.095979, 52.235834499999989 ], [ 9.1142435, 52.238431 ] ] ] } }
+]
+}

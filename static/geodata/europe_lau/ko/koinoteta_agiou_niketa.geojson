@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "koinoteta_agiou_niketa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Κοινότητα Αγίου Νικήτα", "metric_roundness": 35.4, "metric_rectangularity": 62.31, "metric_mobile_fit": 79.52, "metric_aspect_ratio": 0.767, "metric_area_km2": 5.81 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.6161005, 38.774444 ], [ 20.6216845, 38.782570199999988 ], [ 20.6279215, 38.7849435 ], [ 20.6351288, 38.795598 ], [ 20.6299305, 38.804488 ], [ 20.6221106, 38.7933536 ], [ 20.6084379, 38.789786 ], [ 20.6055525, 38.784389499999989 ], [ 20.6079749, 38.7825638 ], [ 20.607107, 38.778433 ], [ 20.6161005, 38.774444 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heiligenroth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heiligenroth", "metric_roundness": 49.12, "metric_rectangularity": 65.46, "metric_mobile_fit": 84.41, "metric_aspect_ratio": 0.718, "metric_area_km2": 14.29 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.8545898, 50.464736199999983 ], [ 7.850664, 50.45726 ], [ 7.8430215, 50.45484 ], [ 7.8421758, 50.449523799999987 ], [ 7.8478406, 50.438695899999978 ], [ 7.8592462, 50.4323334 ], [ 7.8721385, 50.431758 ], [ 7.8701132, 50.43773 ], [ 7.8730037, 50.446694 ], [ 7.879381, 50.453017499999987 ], [ 7.8769296, 50.4569755 ], [ 7.8656836, 50.456814199999982 ], [ 7.860691, 50.462377499999988 ], [ 7.8545898, 50.464736199999983 ] ] ] } }
+]
+}

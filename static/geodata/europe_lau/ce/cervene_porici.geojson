@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cervene_porici",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Červené Poříčí", "metric_roundness": 56.37, "metric_rectangularity": 61.6, "metric_mobile_fit": 48.9, "metric_aspect_ratio": 1.074, "metric_area_km2": 10.33 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.283518, 49.5045599 ], [ 13.2740118, 49.5023651 ], [ 13.2725786, 49.497022 ], [ 13.2866696, 49.4946209 ], [ 13.2961973, 49.4962185 ], [ 13.2980247, 49.491064099999988 ], [ 13.3118679, 49.495129 ], [ 13.3113883, 49.503687299999989 ], [ 13.305502, 49.509246499999989 ], [ 13.3017972, 49.514831699999988 ], [ 13.2926046, 49.5103826 ], [ 13.288109, 49.512522 ], [ 13.284378, 49.510567 ], [ 13.283518, 49.5045599 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kozuchovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kožuchovce", "metric_roundness": 66.22, "metric_rectangularity": 85.07, "metric_mobile_fit": 54.39, "metric_aspect_ratio": 1.019, "metric_area_km2": 13.74 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.7205324, 49.323087099999981 ], [ 21.7158485, 49.3320168 ], [ 21.709528, 49.335602 ], [ 21.7078255, 49.336945 ], [ 21.7034895, 49.3396995 ], [ 21.681766, 49.328255500000012 ], [ 21.6911565, 49.3175965 ], [ 21.696283, 49.3121445 ], [ 21.7098806, 49.3114924 ], [ 21.7258515, 49.319455499999982 ], [ 21.7205324, 49.323087099999981 ] ] ] } }
+]
+}

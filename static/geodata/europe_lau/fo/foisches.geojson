@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "foisches",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Foisches", "metric_roundness": 63.68, "metric_rectangularity": 77.74, "metric_mobile_fit": 51.5, "metric_aspect_ratio": 1.048, "metric_area_km2": 11.22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.795128, 50.128507 ], [ 4.7884134, 50.137607 ], [ 4.779636, 50.14135 ], [ 4.7635239, 50.136524 ], [ 4.755917, 50.1216505 ], [ 4.7610096, 50.1173538 ], [ 4.7755235, 50.11974 ], [ 4.7772855, 50.120064 ], [ 4.795128, 50.128507 ] ] ] } }
+]
+}

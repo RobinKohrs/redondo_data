@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "clermont_saves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Clermont-Savès", "metric_roundness": 30.12, "metric_rectangularity": 57.17, "metric_mobile_fit": 36.35, "metric_aspect_ratio": 1.199, "metric_area_km2": 9.6 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.0345221, 43.6121746 ], [ 1.033842, 43.621067599999989 ], [ 1.0063615, 43.6347285 ], [ 1.0046635, 43.6327295 ], [ 1.004093, 43.630655 ], [ 1.0019275, 43.630629 ], [ 0.9990905, 43.6296945 ], [ 0.9975215, 43.630664 ], [ 0.992588, 43.632545 ], [ 0.987808, 43.635811 ], [ 0.9828888, 43.6278401 ], [ 1.0077045, 43.622784899999985 ], [ 1.0182423, 43.6144155 ], [ 1.024284, 43.604635499999986 ], [ 1.0345221, 43.6121746 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "epeigne_les_bois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Épeigné-les-Bois", "metric_roundness": 61.1, "metric_rectangularity": 70.56, "metric_mobile_fit": 55.98, "metric_aspect_ratio": 1.003, "metric_area_km2": 32.23 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.1039691, 47.2604937 ], [ 1.11233, 47.253238499999973 ], [ 1.1404837, 47.264073099999983 ], [ 1.1526454, 47.264974699999989 ], [ 1.1535066, 47.2705402 ], [ 1.162059, 47.272198499999988 ], [ 1.131977, 47.294346 ], [ 1.1268197, 47.2967295 ], [ 1.121322, 47.293914699999988 ], [ 1.1081215, 47.298401499999976 ], [ 1.095311, 47.289178 ], [ 1.1039691, 47.2604937 ] ] ] } }
+]
+}

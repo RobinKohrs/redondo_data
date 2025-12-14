@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gueutteville",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gueutteville", "metric_roundness": 50.64, "metric_rectangularity": 66.89, "metric_mobile_fit": 24.07, "metric_aspect_ratio": 1.322, "metric_area_km2": 7.12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.018886, 49.650479499999975 ], [ 1.0187615, 49.6540895 ], [ 0.999763, 49.6600855 ], [ 0.986345, 49.645342 ], [ 0.998002, 49.641789 ], [ 1.000451, 49.643388 ], [ 1.005332, 49.6444835 ], [ 1.013756, 49.6455645 ], [ 1.0183395, 49.6453535 ], [ 1.0228785, 49.646391 ], [ 1.0236975, 49.6468045 ], [ 1.018886, 49.650479499999975 ] ] ] } }
+]
+}

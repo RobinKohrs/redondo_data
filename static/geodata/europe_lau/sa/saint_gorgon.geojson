@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saint_gorgon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Saint-Gorgon", "metric_roundness": 51.92, "metric_rectangularity": 63.86, "metric_mobile_fit": 54.77, "metric_aspect_ratio": 1.015, "metric_area_km2": 12.27 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.6450715, 48.3351441 ], [ 6.6348675, 48.3223485 ], [ 6.6374385, 48.309918499999988 ], [ 6.6452756, 48.309821499999977 ], [ 6.6552701, 48.3174436 ], [ 6.6600764, 48.308816 ], [ 6.6750485, 48.3099615 ], [ 6.673326, 48.311825 ], [ 6.673145, 48.313723 ], [ 6.6679603, 48.324671599999974 ], [ 6.65957, 48.330142 ], [ 6.6450715, 48.3351441 ] ] ] } }
+]
+}

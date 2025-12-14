@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "levoncourt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Levoncourt", "metric_roundness": 57.61, "metric_rectangularity": 83.14, "metric_mobile_fit": 28.19, "metric_aspect_ratio": 1.281, "metric_area_km2": 11.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.206239, 47.434894499999984 ], [ 7.205827, 47.437067499999969 ], [ 7.2086975, 47.441587 ], [ 7.211157, 47.4437825 ], [ 7.2144565, 47.451529 ], [ 7.2129995, 47.4537525 ], [ 7.2029211, 47.456931399999988 ], [ 7.1860264, 47.4541286 ], [ 7.178267, 47.458149 ], [ 7.174593, 47.450138 ], [ 7.172906, 47.4464605 ], [ 7.170422, 47.44345449999998 ], [ 7.206239, 47.434894499999984 ] ] ] } }
+]
+}

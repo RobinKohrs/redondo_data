@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "brutovce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brutovce", "metric_roundness": 49.03, "metric_rectangularity": 66.3, "metric_mobile_fit": 61.76, "metric_aspect_ratio": 0.945, "metric_area_km2": 31.53 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.8076517, 49.077185199999988 ], [ 20.827354, 49.074368 ], [ 20.8297515, 49.0773695 ], [ 20.805434, 49.098966499999989 ], [ 20.790175, 49.110696 ], [ 20.7827301, 49.113657399999987 ], [ 20.765662, 49.109034 ], [ 20.7699005, 49.101647399999983 ], [ 20.7632765, 49.0946588 ], [ 20.778135, 49.067589 ], [ 20.8076517, 49.077185199999988 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lempty",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lempty", "metric_roundness": 53.32, "metric_rectangularity": 74.25, "metric_mobile_fit": -11.5, "metric_aspect_ratio": 1.678, "metric_area_km2": 9.67 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.3177065, 45.820454499999983 ], [ 3.3262785, 45.821279499999982 ], [ 3.331036, 45.821012499999981 ], [ 3.3353585, 45.821694 ], [ 3.348232, 45.8219385 ], [ 3.3503086, 45.8251376 ], [ 3.3456954, 45.828875199999977 ], [ 3.3445065, 45.836323 ], [ 3.3176411, 45.8380343 ], [ 3.3079855, 45.831111 ], [ 3.3177065, 45.820454499999983 ] ] ] } }
+]
+}

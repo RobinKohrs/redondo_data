@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "carbon_blanc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Carbon-Blanc", "metric_roundness": 28.68, "metric_rectangularity": 69.55, "metric_mobile_fit": 79.56, "metric_aspect_ratio": 0.767, "metric_area_km2": 7.45 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.5038437, 44.9051131 ], [ -0.5090013, 44.898243600000015 ], [ -0.5153871, 44.895993899999986 ], [ -0.517051, 44.8878965 ], [ -0.5038155, 44.887814 ], [ -0.4842875, 44.91588 ], [ -0.4868235, 44.917582 ], [ -0.493861, 44.916466 ], [ -0.4979195, 44.917803 ], [ -0.5016695, 44.918076 ], [ -0.5038437, 44.9051131 ] ] ] } }
+]
+}

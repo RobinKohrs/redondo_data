@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "stranany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stráňany", "metric_roundness": 40.23, "metric_rectangularity": 69.74, "metric_mobile_fit": 96.36, "metric_aspect_ratio": 0.599, "metric_area_km2": 26.98 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.5465291, 49.3851626 ], [ 20.535948, 49.386832 ], [ 20.5331949, 49.371679 ], [ 20.5258372, 49.364280799999982 ], [ 20.5207948, 49.348593599999987 ], [ 20.5151199, 49.3413732 ], [ 20.5163715, 49.334774 ], [ 20.5313627, 49.335052 ], [ 20.5426045, 49.3404865 ], [ 20.5624909, 49.3588394 ], [ 20.5629892, 49.3642586 ], [ 20.5561858, 49.3728805 ], [ 20.557688, 49.378089 ], [ 20.5465291, 49.3851626 ] ] ] } }
+]
+}

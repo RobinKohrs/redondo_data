@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bocskaikert",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bocskaikert", "metric_roundness": 36.53, "metric_rectangularity": 57.86, "metric_mobile_fit": 83.76, "metric_aspect_ratio": 0.725, "metric_area_km2": 20.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 21.672602, 47.6272006 ], [ 21.6768567, 47.6315144 ], [ 21.6708535, 47.6390126 ], [ 21.6900868, 47.644325 ], [ 21.6910151, 47.6522481 ], [ 21.6752021, 47.652966499999984 ], [ 21.6688847, 47.660316 ], [ 21.6598847, 47.651021 ], [ 21.6510287, 47.6500699 ], [ 21.647397, 47.6365855 ], [ 21.6413043, 47.6141073 ], [ 21.6586326, 47.6198438 ], [ 21.6725555, 47.6210195 ], [ 21.672602, 47.6272006 ] ] ] } }
+]
+}
